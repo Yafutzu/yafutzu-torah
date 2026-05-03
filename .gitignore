@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Scraped corpora — large, license-sensitive, regenerable from scripts/.
+# Italian translations and schedules are whitelisted below.
+data/raw/*
+!data/raw/translations/
+!data/raw/translations/**
+# Never commit the dach.dev offline backup (Kehot copyright)
+data/raw/_offline/
+
+# Scrape run logs
+/tmp/yafutzu-*.log
+
+# Internal outreach drafts — keep private
+OUTREACH_*.md

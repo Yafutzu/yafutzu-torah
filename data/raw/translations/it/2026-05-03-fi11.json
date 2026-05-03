@@ -1,0 +1,108 @@
+{
+  "ref": "Mishneh Torah, Forbidden Intercourse 11",
+  "name_he": "הלכות איסורי ביאה, פרק יא",
+  "name_it": "Leggi delle unioni proibite — Issurei Bià, capitolo 11",
+  "halachot_count": 19,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל שֶׁאָמַרְנוּ בְּנִדָּה וְזָבָה וְיוֹלֶדֶת הוּא דִּין תּוֹרָה. וּכְמִשְׁפָּטִים אֵלּוּ הָיוּ עוֹשִׂין כְּשֶׁהָיוּ בֵּית דִּין הַגָּדוֹל מְצוּיִין וְהָיוּ שָׁם חֲכָמִים גְּדוֹלִים שֶׁמַּכִּירִים הַדָּמִים וְאִם נוֹלַד לָהֶם סָפֵק בִּרְאִיּוֹת אוֹ בִּימֵי נִדָּה וְזִיבָה יַעֲלוּ לְבֵית דִּין וְיִשְׁאֲלוּ כְּמוֹ שֶׁהִבְטִיחָה תּוֹרָה עֲלֵיהֶן שֶׁנֶּאֱמַר (דברים יז ח) ״כִּי יִפָּלֵא מִמְּךָ דָּבָר לַמִּשְׁפָּט בֵּין דָּם לְדָם בֵּין דִּין לְדִין״, בֵּין דַּם נִדָּה לְדַם זִיבָה. וּבְאוֹתָן הַיָּמִים הָיוּ בְּנוֹת יִשְׂרָאֵל נִזְהָרוֹת מִדָּבָר זֶה וּמְשַׁמְּרוֹת וִסְתוֹתֵיהֶן וְסוֹפְרוֹת תָּמִיד יְמֵי הַנִּדָּה וִימֵי הַזִּיבָה.",
+      "it": "Tutto quanto abbiamo detto a proposito di niddà, zavà e yolèdet è diritto della Torah. Si applicavano queste norme nei termini suesposti quando esisteva il Beit Din ha-Gadol (il Sinedrio) e in esso vi erano grandi maestri capaci di riconoscere i tipi di sangue. Se sorgeva un dubbio sulle visioni o sui giorni di niddà e di zivà, salivano al tribunale e interrogavano, come la Torah ha promesso loro [Deuteronomio 17:8]: «Se ti sarà difficile una decisione tra sangue e sangue, tra giudizio e giudizio» — tra il sangue di niddà e quello di zivà. In quei tempi le figlie d'Israele erano attente in questa materia, custodivano il proprio vesèt e contavano sempre i giorni della niddà e i giorni della zivà."
+    },
+    {
+      "n": 2,
+      "he": "וְטֹרַח גָּדוֹל יֵשׁ בְּמִנְיַן הַיָּמִים וּפְעָמִים רַבּוֹת יָבוֹאוּ לִידֵי סָפֵק. שֶׁאֲפִלּוּ רָאֲתָה הַבַּת דָּם בְּיוֹם הַלֵּדָה מֵאוֹתוֹ הַיּוֹם מַתְחִילִין לִמְנוֹת לָהּ יְמֵי נִדָּה וִימֵי זִיבָה כְּמוֹ שֶׁבֵּאַרְנוּ. וּלְפִיכָךְ לֹא תִּטָּמֵא הַבַּת בְּזִיבָה אֶלָּא בַּת עֲשָׂרָה יָמִים שֶׁאִם רָאֲתָה בַּיּוֹם שֶׁנּוֹלְדָה הֲרֵי זוֹ נִדָּה שִׁבְעַת יָמִים וּשְׁלֹשֶׁת יָמִים סָמוּךְ לְנִדָּתָהּ הֲרֵי עֲשָׂרָה יָמִים. הִנֵּה לָמַדְתָּ שֶׁמִּתְּחִלַּת רְאִיָּה מַתְחֶלֶת לִמְנוֹת יְמֵי נִדָּה וִימֵי זִיבָה כָּל יָמֶיהָ וַאֲפִלּוּ רָאֲתָה וְהִיא קְטַנָּה.",
+      "it": "Vi è grande complessità nel computo dei giorni, e in molte occasioni si arriva a casi dubbi. Anche se una bambina vede sangue il giorno della propria nascita, da quel giorno si comincia a contarle i giorni di niddà e di zivà, come abbiamo spiegato. Per questo una femmina non può essere zavà prima di avere dieci giorni di vita: se ha visto sangue il giorno in cui è nata, è niddà per sette giorni; aggiungendo tre giorni adiacenti alla niddà si raggiungono dieci giorni. Hai dunque appreso che dalla prima visione si comincia a contare giorni di niddà e di zivà per tutta la sua vita, anche se ha visto sangue mentre era una minore (ketannà)."
+    },
+    {
+      "n": 3,
+      "he": "וּבִימֵי חַכְמֵי הַגְּמָרָא נִסְתַּפֵּק הַדָּבָר הַרְבֵּה בִּרְאִיַּת הַדָּמִים וְנִתְקַלְקְלוּ הַוְּסָתוֹת. לְפִי שֶׁלֹּא הָיָה כֹּחַ בְּכָל הַנָּשִׁים לִמְנוֹת יְמֵי נִדָּה וִימֵי זִיבָה. לְפִיכָךְ הֶחְמִירוּ חֲכָמִים בְּדָבָר זֶה וְגָזְרוּ שֶׁיְּהוּ כָּל יְמֵי הָאִשָּׁה כִּימֵי זִיבָתָהּ וְיִהְיֶה כָּל דָּם שֶׁתִּרְאֶה סְפֵק דַּם זִיבוּת.",
+      "it": "Nei giorni dei maestri della Ghemarà la materia si fece spesso dubbia nelle visioni di sangue, e i vesèt si scompaginarono, perché non tutte le donne avevano la capacità di contare i giorni di niddà e di zivà. Pertanto i Saggi imposero un rigore in questa materia e decretarono che tutti i giorni della donna fossero come giorni di zivà, e che ogni sangue da lei visto fosse considerato sangue di zivà dubbia."
+    },
+    {
+      "n": 4,
+      "he": "וְעוֹד הֶחֱמִירוּ בְּנוֹת יִשְׂרָאֵל עַל עַצְמָן חֻמְרָא יְתֵרָה עַל זֶה. וְנָהֲגוּ כֻּלָּם בְּכָל מָקוֹם שֶׁיֵּשׁ יִשְׂרָאֵל שֶׁכָּל בַּת יִשְׂרָאֵל שֶׁרוֹאָה דָּם אֲפִלּוּ לֹא רָאֲתָה אֶלָּא טִפָּה כְּחַרְדָּל בִּלְבַד וּפָסַק הַדָּם סוֹפֶרֶת לָהּ שִׁבְעָה יָמִים נְקִיִּים וַאֲפִלּוּ רָאֲתָה בְּעֵת נִדָּתָהּ. בֵּין שֶׁרָאֲתָה יוֹם אֶחָד אוֹ שְׁנַיִם אוֹ הַשִּׁבְעָה כֻּלָּן אוֹ יֶתֶר מִשֶּׁיִּפְסֹק הַדָּם סוֹפֶרֶת שִׁבְעַת יָמִים נְקִיִּים כְּזָבָה גְּדוֹלָה וְטוֹבֶלֶת בְּלֵיל שְׁמִינִי אַף עַל פִּי שֶׁהִיא סְפֵק זָבָה, אוֹ בְּיוֹם שְׁמִינִי אִם הָיָה שָׁם דֹּחַק כְּמוֹ שֶׁאָמַרְנוּ. וְאַחַר כָּךְ תִּהְיֶה מֻתֶּרֶת לְבַעְלָהּ.",
+      "it": "Le figlie d'Israele aggiunsero su di sé un ulteriore rigore. Si è radicato come uso (minhàg) in ogni luogo in cui vivono ebrei che ogni donna ebrea che vede sangue — anche solo una goccia delle dimensioni di un grano di senape (chardàl) — una volta cessato il flusso conti per sé sette giorni netti (shivà yamìm nekiyìm), persino se l'ha visto nei suoi giorni di niddà. Sia che abbia visto per uno o due giorni, o per tutti e sette, o anche di più: dal momento in cui il sangue è cessato conta sette giorni netti come una zavà grande, e si immerge nella sera dell'ottavo, anche se è solo zavà dubbia — oppure di giorno l'ottavo, se vi è ragione di necessità, come abbiamo detto; dopo di ciò è permessa al marito."
+    },
+    {
+      "n": 5,
+      "he": "וְכֵן כָּל הַיּוֹלֶדֶת בַּזְּמַן הַזֶּה הֲרֵי הִיא כְּיוֹלֶדֶת בְּזוֹב וּצְרִיכָה שִׁבְעַת יָמִים נְקִיִּים כְּמוֹ שֶׁבֵּאַרְנוּ. וּמִנְהָג פָּשׁוּט בְּשִׁנְעָר וּבְאֶרֶץ הַצְּבִי וּבִסְפָרַד וּבַמַּעֲרָב שֶׁאִם רָאֲתָה דָּם בְּתוֹךְ יְמֵי מְלֹאת אַף עַל פִּי שֶׁרָאֲתָה אַחַר שֶׁסָּפְרָה שִׁבְעַת יָמִים נְקִיִּים וְטָבְלָה הֲרֵי זוֹ סוֹפֶרֶת שִׁבְעַת יָמִים נְקִיִּים אַחַר שֶׁיִּפְסֹק הַדָּם וְאֵין נוֹתְנִין לָהּ יְמֵי טֹהַר כְּלָל. אֶלָּא כָּל דָּם שֶׁתִּרְאֶה הָאִשָּׁה בֵּין דַּם קֹשִׁי בֵּין דַּם טֹהַר הַכּל טָמֵא וְסוֹפֶרֶת שִׁבְעַת יָמִים נְקִיִּים אַחַר שֶׁיִּפְסֹק הַדָּם.",
+      "it": "Ogni partoriente nei nostri tempi è considerata come una partoriente con zivà e necessita di sette giorni netti, come abbiamo spiegato. È uso diffuso in Shin'ar (Babilonia), nella Terra del Cervo (Israele), in Sefarad (Iberia) e nell'occidente (Maghreb): se vede sangue all'interno dei giorni del compimento (yemèi melò't), anche dopo aver già contato sette giorni netti e essersi immersa, conta nuovamente sette giorni netti dopo che il flusso è cessato, e non le si concedono affatto giorni di sangue puro. Ogni sangue che la donna vede — sangue di travaglio o sangue puro — è tutto impuro, e dopo che è cessato conta sette giorni netti."
+    },
+    {
+      "n": 6,
+      "he": "וְדִין זֶה בִּימֵי הַגְּאוֹנִים נִתְחַדֵּשׁ וְהֵם גָּזְרוּ שֶׁלֹּא יִהְיֶה שָׁם דַּם טֹהַר כְּלָל. שֶׁזֶּה שֶׁהֶחְמִירוּ עַל עַצְמָן בִּימֵי חַכְמֵי הַגְּמָרָא אֵינוֹ אֶלָּא בְּרוֹאָה דָּם שֶׁהוּא טָמֵא שֶׁיּוֹשֶׁבֶת עָלָיו שִׁבְעָה נְקִיִּים. אֲבָל דָּם שֶׁתִּרְאֶה בִּימֵי טֹהַר אַחַר סְפִירָה וּטְבִילָה אֵין לָחוּשׁ לוֹ שֶׁאֵין יְמֵי טֹהַר רְאוּיִין לֹא לְנִדָּה וְלֹא לְזִיבָה כְּמוֹ שֶׁבֵּאַרְנוּ.",
+      "it": "Questa norma è stata istituita ai tempi dei Geonìm, i quali decretarono che non si applichino più affatto i giorni di sangue puro. La stringenza che le donne presero su di sé ai tempi dei maestri della Ghemarà valeva soltanto per la donna che vede sangue impuro, dopo del quale attende sette giorni netti. Ma per il sangue visto durante i giorni di sangue puro, dopo aver contato e ci si era immersi, non vi sarebbe ragione di temere, perché i giorni di sangue puro non sono soggetti né a niddà né a zivà, come abbiamo spiegato."
+    },
+    {
+      "n": 7,
+      "he": "וְשָׁמַעְנוּ שֶׁבְּצָרְפַת בּוֹעֲלִים עַל דַּם טֹהַר כְּדִין הַגְּמָרָא עַד הַיּוֹם אַחַר סְפִירָה וּטְבִילָה מִטֻּמְאַת יוֹלֶדֶת בְּזוֹב וְדָבָר זֶה תָּלוּי בַּמִּנְהָג.",
+      "it": "Abbiamo udito che in Tzarfàt (Francia) hanno rapporto in tempo di sangue puro secondo la regola della Ghemarà fino ad oggi, dopo il computo e l'immersione che sciolgono l'impurità della partoriente con zivà. Questa è materia che dipende dall'uso locale (minhàg)."
+    },
+    {
+      "n": 8,
+      "he": "וְכֵן דִּין דַּם בְּתוּלִים בַּזְּמַן הַזֶּה שֶׁאֲפִלּוּ הָיְתָה קְטַנָּה שֶׁלֹּא הִגִּיעַ זְמַנָּה לִרְאוֹת וְלֹא רָאֲתָה דָּם מִיָּמֶיהָ בּוֹעֵל בְּעִילַת מִצְוָה וּפוֹרֵשׁ. וְכָל זְמַן שֶׁתִּרְאֶה הַדָּם מֵחֲמַת הַמַּכָּה הֲרֵי הִיא טְמֵאָה. וְאַחַר שֶׁיִּפְסֹק הַדָּם סוֹפֶרֶת שִׁבְעָה יָמִים נְקִיִּים.",
+      "it": "Lo stesso vale per il sangue verginale (dam betulìm) in questi tempi: anche se la sposa è una minore che non ha ancora raggiunto l'età di vedere sangue mestruale e non ha mai visto sangue in vita sua, lo sposo compie la be'ilàt mitzvà (il rapporto del precetto coniugale) e poi si separa. Per tutto il tempo in cui ella veda sangue per via della rottura imenale è impura. Quando il flusso è cessato, conta sette giorni netti."
+    },
+    {
+      "n": 9,
+      "he": "יֶתֶר עַל זֶה כָּל בַּת שֶׁתְּבָעוּהָ לְהִנָּשֵׂא וְרָצְתָה שׁוֹהָה שִׁבְעַת יָמִים נְקִיִּים מֵאַחַר שֶׁרָצְתָה וְאַחַר כָּךְ תִּהְיֶה מֻתֶּרֶת לְהִבָּעֵל. שֶׁמָּא מֵחִמּוּדָהּ לְאִישׁ רָאֲתָה דָּם טִפָּה אַחַת וְלֹא הִרְגִּישָׁה בָּהּ. בֵּין שֶׁהָיְתָה הָאִשָּׁה גְּדוֹלָה בֵּין שֶׁהָיְתָה קְטַנָּה צְרִיכָה לֵישֵׁב שִׁבְעָה נְקִיִּים מֵאַחַר שֶׁרָצְתָה וְאַחַר כָּךְ תִּטְבּל וְתִבָּעֵל.",
+      "it": "Vi è un'ulteriore stringenza: ogni ragazza che è stata richiesta in matrimonio e ha acconsentito attende sette giorni netti dal momento del consenso, dopo i quali è permessa al marito. Si teme infatti che, per il proprio desiderio per l'uomo, abbia visto una goccia di sangue senza avvertirla. Sia che la donna sia adulta sia che sia minore, deve attendere sette giorni netti dal consenso e poi immergersi e congiungersi al marito."
+    },
+    {
+      "n": 10,
+      "he": "וְכָל הַדְּבָרִים הָאֵלּוּ חֻמְרָא יְתֵרָה שֶׁנָּהֲגוּ בָּהּ בְּנוֹת יִשְׂרָאֵל מִימֵי חַכְמֵי הַגְּמָרָא וְאֵין לָסוּר מִמֶּנָּה לְעוֹלָם. לְפִיכָךְ כָּל אִשָּׁה שֶׁרָצְתָה כְּשֶׁתְּבָעוּהָ לְהִנָּשֵׂא לֹא תִּנָּשֵׂא עַד שֶׁתִּסְפֹּר וְתִטְבּל וְאִם נִשֵּׂאת לְתַלְמִיד חָכָם מֻתֶּרֶת לְהִנָּשֵׂא מִיָּד וְתִסְפֹּר מֵאַחַר שֶׁנְּשָׂאַתּוּ וְתִטְבּל. שֶׁתַּלְמִיד חָכָם יוֹדֵעַ שֶׁהִיא אֲסוּרָה וְנִזְהָר מִזֶּה וְלֹא יִקְרַב לָהּ עַד שֶׁתִּטְבּל.",
+      "it": "Tutte queste sono stringenze ulteriori che le figlie d'Israele hanno preso su di sé fin dai tempi dei maestri della Ghemarà, e non è lecito derogarvi. Pertanto, ogni donna che ha acconsentito a una proposta di matrimonio non si sposa finché non ha contato e si è immersa. Se invece si sposa con un talmìd chakhàm (un erudito), può sposarsi subito e contare dopo aver preso lo sposo, e poi immergersi: il talmìd chakhàm sa che ella è vietata, sta in guardia e non le si avvicina finché non si sia immersa."
+    },
+    {
+      "n": 11,
+      "he": "דִּין הַכְּתָמִים בַּזְּמַן הַזֶּה כְּמוֹ שֶׁבֵּאַרְנוּ וְאֵין בַּדָּבָר חִדּוּשׁ וְלֹא מִנְהָג אֶלָּא כָּל כֶּתֶם שֶׁאָמַרְנוּ שֶׁהִיא טְהוֹרָה הֲרֵי הִיא טְהוֹרָה וְכָל כֶּתֶם שֶׁאָמַרְנוּ טְמֵאָה (אִם אֵין בַּכֶּתֶם שִׁעוּר כְּדֵי לָחוּשׁ לְזִיבוּת) סוֹפֶרֶת שִׁבְעַת יָמִים מִיּוֹם שֶׁנִּמְצָא בּוֹ הַכֶּתֶם. וְאִם הָיָה שִׁעוּר הַכֶּתֶם כְּדֵי לָחוּשׁ לְזִיבוּת סוֹפֶרֶת שִׁבְעַת יָמִים מֵאַחַר יוֹם שֶׁנִּמְצָא בּוֹ הַכֶּתֶם. שֶׁאֵין הָרוֹאָה דָּם כְּרוֹאָה כֶּתֶם.",
+      "it": "Il regime dei kétem in questi tempi è quello che abbiamo esposto: non c'è in materia alcuna innovazione né nuovo uso. Ogni macchia che abbiamo dichiarata pura è pura; ogni macchia che abbiamo dichiarata impura — se la macchia non è di dimensioni tali da farsi temere zivà — comporta il computo di sette giorni dal giorno in cui essa è stata trovata. Se la macchia è di dimensioni tali da far temere zivà, si contano sette giorni a partire dal giorno successivo a quello in cui è stata trovata: chi vede sangue non si comporta come chi trova una macchia."
+    },
+    {
+      "n": 12,
+      "he": "וְכֵן כָּל מַה שֶּׁאָמַרְנוּ בְּיוֹלֶדֶת שֶׁאִמּוֹ טְהוֹרָה הֲרֵי הִיא טְהוֹרָה בַּזְּמַן הַזֶּה. וְכֵן הָאִשָּׁה שֶׁרָאֲתָה לֹבֶן אוֹ דָּם יָרֹק אוֹ שֶׁהִשְׁלִיכָה חֲתִיכָה אֲדֻמָּה שֶׁאֵין עִמָּהּ דָּם הֲרֵי הִיא טְהוֹרָה אַף בַּזְּמַן הַזֶּה. שֶׁלֹּא הֶחְמִירוּ אֶלָּא בְּרוֹאָה דָּם טָמֵא [וְאֵין זֶה דָּם טָמֵא].",
+      "it": "Allo stesso modo, tutto ciò che abbiamo detto della partoriente la cui madre è pura, lo è anche in questi tempi. La donna che ha visto bianco, o sangue verde, o ha espulso un brandello rosso senza sangue accompagnante, è pura anche in questi tempi: la stringenza fu emessa solo per chi vede sangue effettivamente impuro, e questo non è sangue impuro."
+    },
+    {
+      "n": 13,
+      "he": "וְכֵן אִם הָיְתָה בָּהּ מַכָּה וְהָיָה הַדָּם שׁוֹתֵת מִמֶּנָּה אוֹ שֶׁבָּא הַדָּם עִם מֵימֵי רַגְלַיִם הֲרֵי זוֹ טְהוֹרָה. וְלֹא נִתְחַדֵּשׁ דָּבָר אֶלָּא סְפִירַת שִׁבְעַת יָמִים נְקִיִּים לְכָל רוֹאָה דָּם טָמֵא כְּמוֹ שֶׁאָמַרְנוּ וְשֶׁיִּהְיוּ כָּל מַרְאֵה דָּמִים טְמֵאִים.",
+      "it": "Allo stesso modo, se aveva una ferita dalla quale colava sangue, oppure il sangue uscì insieme all'urina, è pura. Nulla è cambiato in via innovativa, se non il computo dei sette giorni netti per chi vede qualunque sangue impuro come abbiamo detto, e il fatto che ogni colore del sangue sia trattato come impuro."
+    },
+    {
+      "n": 14,
+      "he": "זֶה שֶׁתִּמְצָא בְּמִקְצָת הַמְּקוֹמוֹת שֶׁהַנִּדָּה יוֹשֶׁבֶת שִׁבְעַת יָמִים בְּנִדָּתָהּ אַף עַל פִּי שֶׁלֹּא רָאֲתָה דָּם אֶלָּא יוֹם אֶחָד וְאַחַר הַשִּׁבְעָה תֵּשֵׁב שִׁבְעַת יָמִים נְקִיִּים אֵין זֶה מִנְהָג אֶלָּא טָעוּת הוּא מִמִּי שֶׁהוֹרָה לָהֶם כָּךְ וְאֵין רָאוּי לִפְנוֹת לְדָבָר זֶה כְּלָל אֶלָּא אִם רָאֲתָה יוֹם אֶחָד סוֹפֶרֶת אַחֲרָיו שִׁבְעָה (נְקִיִּים) וְטוֹבֶלֶת בְּלֵיל שְׁמִינִי שֶׁהוּא לַיִל שֵׁנִי שֶׁלְּאַחַר נִדָּתָהּ וּמֻתֶּרֶת לְבַעְלָהּ.",
+      "it": "Quanto si trova in alcuni luoghi — secondo cui la niddà dovrebbe attendere sette giorni nello stato di niddà anche se ha visto sangue per un solo giorno, e dopo i sette contare altri sette giorni netti — non è un uso valido, ma un errore di chi così le ha istruite. Non è opportuno tenerne conto in alcun modo: se ha visto sangue un giorno solo, ne conta dopo sette netti e si immerge nella sera dell'ottavo, che è il secondo dopo l'inizio della sua niddà, ed è permessa al marito."
+    },
+    {
+      "n": 15,
+      "he": "וְכֵן זֶה שֶׁתִּמְצָא בְּמִקְצָת מְקוֹמוֹת וְתִמְצָא תְּשׁוּבוֹת לְמִקְצָת הַגְּאוֹנִים שֶׁיּוֹלֶדֶת זָכָר לֹא תְּשַׁמֵּשׁ מִטָּתָהּ עַד סוֹף אַרְבָּעִים. וְיוֹלֶדֶת נְקֵבָה אַחַר שְׁמוֹנִים. וְאַף עַל פִּי שֶׁלֹּא רָאֲתָה דָּם אֶלָּא בְּתוֹךְ הַשִּׁבְעָה. אֵין זֶה מִנְהָג אֶלָּא טָעוּת הוּא בְּאוֹתָן הַתְּשׁוּבוֹת וְדֶרֶךְ אֶפִּיקוֹרוֹסוּת בְּאוֹתָן הַמְּקוֹמוֹת וּמִן הַצְּדוֹקִין לָמְדוּ דָּבָר זֶה. וּמִצְוָה לְכוֹפָן כְּדֵי לְהוֹצִיא מִלִּבָּן וּלְהַחֲזִירָן לְדִבְרֵי חֲכָמִים שֶׁתִּסְפֹּר שִׁבְעָה יָמִים נְקִיִּים בִּלְבַד כְּמוֹ שֶׁבֵּאַרְנוּ.",
+      "it": "Allo stesso modo, ciò che si trova in alcuni luoghi — e in alcune responsa di certi Geonìm — secondo cui la partoriente di un maschio non avrebbe rapporto coniugale fino al termine dei quaranta giorni, e quella di una femmina fino al termine degli ottanta, anche se non ha visto sangue se non entro i primi sette: non è un uso valido, ma un errore di quelle responsa e una via di eresia in quei luoghi, che hanno appreso questa pratica dai Tzaddukìm (Sadducei). È un dovere costringerli ad abbandonare questa idea e ricondurli alle parole dei Saggi, secondo cui ella conta solo sette giorni netti come abbiamo spiegato."
+    },
+    {
+      "n": 16,
+      "he": "אֵין הָאִשָּׁה עוֹלָה מִטֻּמְאָתָהּ וְיוֹצֵאת מִידֵי עֶרְוָה עַד שֶׁתִּטְבּל בְּמֵי מִקְוֶה כָּשֵׁר. וְלֹא יִהְיֶה דָּבָר חוֹצֵץ בֵּין בְּשָׂרָהּ וּבֵין הַמַּיִם. וּבְהִלְכוֹת מִקְוָאוֹת יִתְבָּאֵר הַמִּקְוֶה הַכָּשֵׁר וְהַפָּסוּל וְדֶרֶךְ הַטְּבִילָה וּמִשְׁפְּטֵי הַחֲצִיצָה. אֲבָל אִם רָחֲצָה בַּמֶּרְחָץ אֲפִלּוּ נָפְלוּ עָלֶיהָ כָּל מֵימוֹת שֶׁבָּעוֹלָם הֲרֵי הִיא אַחַר הָרְחִיצָה כְּמוֹת שֶׁהָיְתָה קֹדֶם הָרְחִיצָה בְּכָרֵת. שֶׁאֵין לְךָ דָּבָר שֶׁמַּעֲלֶה מִטֻּמְאָה לְטָהֳרָה אֶלָּא טְבִילָה בְּמֵי מִקְוֵה אוֹ בְּמַעֲיָן אוֹ בַּיַּמִּים שֶׁהֵם כְּמַעֲיָן כְּמוֹ שֶׁיִּתְבָּאֵר בְּהִלְכוֹת מִקְוָאוֹת.",
+      "it": "La donna non si solleva dalla propria impurità e non esce dallo stato di proibizione (ervà) se non immergendosi in una mikvè conforme. Non deve esservi alcunché che si frapponga (chatzitzà) tra il suo corpo e l'acqua. Nelle Hilchòt Mikva'òt si chiariranno la mikvè conforme e quella non conforme, le modalità dell'immersione e le norme della chatzitzà. Se invece si è bagnata in una stanza da bagno, anche se le fossero versate addosso tutte le acque del mondo, dopo il bagno si trova nello stesso stato di prima: in soggezione di karèt. Nulla solleva dall'impurità alla purità rituale se non l'immersione in acque di mikvè, in una sorgente, o in mari assimilabili a sorgente, come si chiarirà nelle Hilchòt Mikva'òt."
+    },
+    {
+      "n": 17,
+      "he": "כָּל שִׁבְעָה יָמִים נְקִיִּים שֶׁבַּזְּמַן הַזֶּה אַף עַל פִּי שֶׁהֵן סָפֵק אִם טָבְלָה בָּהֶן כְּאִלּוּ לֹא טָבְלָה. וְאִם טָבְלָה בַּשְּׁבִיעִי אַף עַל פִּי שֶׁאָסוּר לַעֲשׂוֹת כֵּן לְכַתְּחִלָּה שֶׁמָּא יָבוֹא לִבְעֹל בַּשְּׁבִיעִי אַחַר הַטְּבִילָה. הוֹאִיל וְטָבְלָה בִּזְמַנָּהּ אֲפִלּוּ הָיְתָה זָבָה וַדָּאִית הֲרֵי זוֹ עָלְתָה לָהּ טְבִילָה.",
+      "it": "Tutti i sette giorni netti dei nostri tempi, anche se sono una stringenza dubitativa, valgono pienamente: se ella si è immersa entro essi, è come se non si fosse immersa affatto. Se invece si è immersa il settimo giorno — pur essendo proibito farlo a priori, per timore che ne consegua un rapporto durante il settimo dopo l'immersione — dato che l'immersione è avvenuta nel suo momento valido, anche se ella fosse zavà certa, l'immersione le vale."
+    },
+    {
+      "n": 18,
+      "he": "וְאָסוּר לְאָדָם שֶׁיִּדְבַּק בְּאִשְׁתּוֹ בְּשִׁבְעַת יָמִים נְקִיִּים אֵלּוּ וְאַף עַל פִּי שֶׁהִיא בִּכְסוּתָהּ וְהוּא בִּכְסוּתוֹ. וְלֹא יִקְרַב לָהּ וְלֹא יִגַּע בָּהּ אֲפִלּוּ בְּאֶצְבַּע קְטַנָּה. וְלֹא יֹאכַל עִמָּהּ בִּקְעָרָה אַחַת. כְּלָלוֹ שֶׁל דָּבָר יִנְהֹג עִמָּהּ בִּימֵי סְפִירָה כְּמוֹ שֶׁיִּנְהֹג בִּימֵי נִדָּה שֶׁעֲדַיִן הִיא בְּכָרֵת עַד שֶׁתִּטְבּל כְּמוֹ שֶׁבֵּאַרְנוּ.",
+      "it": "È proibito al marito unirsi alla propria moglie nei sette giorni netti, anche se ella è vestita ed egli è vestito. Non le si avvicini, non la tocchi nemmeno con il mignolo, non mangi con lei nello stesso piatto. In sintesi: si comporti con lei nei giorni del computo come si comporta nei giorni della niddà, perché ella è ancora in soggezione di karèt finché non si sia immersa, come abbiamo spiegato."
+    },
+    {
+      "n": 19,
+      "he": "כָּל מְלָאכוֹת שֶׁהָאִשָּׁה עוֹשָׂה לְבַעְלָהּ נִדָּה עוֹשָׂה לְבַעְלָהּ חוּץ מֵהַרְחָצַת פָּנָיו יָדָיו וְרַגְלָיו וּמְזִיגַת הַכּוֹס וְהַצָּעַת הַמִּטָּה בְּפָנָיו. גְּזֵרָה שֶׁמָּא יָבוֹא לִדְבַר עֲבֵרָה. וּמִפְּנֵי זֶה לֹא תֹּאכַל עִמּוֹ בִּקְעָרָה אַחַת וְלֹא יִגַּע בִּבְשָׂרָהּ מִפְּנֵי הֶרְגֵּל עֲבֵרָה. וְכֵן בְּשִׁבְעַת יָמִים נְקִיִּים לֹא תַּעֲשֶׂה לוֹ שָׁלֹשׁ מְלָאכוֹת אֵלּוּ. וּמֻתָּר לְאִשָּׁה לְהִתְקַשֵּׁט בִּימֵי נִדָּתָהּ כְּדֵי שֶׁלֹּא תִּתְגַּנֶּה עַל בַּעְלָהּ.",
+      "it": "Tutte le occupazioni domestiche che la moglie compie per il marito, la niddà le compie per il marito — eccetto il lavargli viso, mani e piedi, il versargli la coppa, e il rifargli il letto in sua presenza. Si tratta di un decreto preventivo, perché non si arrivi a trasgressione. Per questo motivo non mangi con lui nello stesso piatto, e non le tocchi il corpo, per evitare l'abitudine alla trasgressione. Allo stesso modo, durante i sette giorni netti, non gli compia queste tre mansioni. È invece permesso alla donna abbellirsi nei giorni della propria niddà, perché non sembri sgradevole al marito."
+    }
+  ],
+  "_glossary_terms_used": [
+    "niddà", "zavà", "zivà", "yolèdet", "vesèt", "kétem", "shivà yamìm nekiyìm",
+    "yemèi melò't", "be'ilàt mitzvà", "mikvè", "chatzitzà", "karèt", "minhàg",
+    "talmìd chakhàm", "Geonìm", "Tzaddukìm", "ervà", "chardàl", "ketannà"
+  ]
+}

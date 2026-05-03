@@ -1,0 +1,19 @@
+import { resolveDate, fetchChitas } from "@/lib/daily-resolver";
+import { success, error } from "@/lib/api-response";
+
+export async function GET() {
+  try {
+    const resolved = resolveDate(new Date());
+    if (!resolved) return error("Failed to resolve today's date", 500);
+
+    const chitas = await fetchChitas(resolved);
+
+    return success(chitas, {
+      gregorian: resolved.gregorian,
+      hebrew: resolved.hebrew,
+    });
+  } catch (e) {
+    console.error("Chitas today error:", e);
+    return error("Internal server error", 500);
+  }
+}

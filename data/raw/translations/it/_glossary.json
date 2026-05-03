@@ -1,0 +1,457 @@
+{
+  "_meta": {
+    "purpose": "Glossario di termini halachici ebraici traslitterati in italiano. Il frontend deve ricercare ogni 'key' nel testo italiano (case-insensitive) e renderlo come termine cliccabile con popup contenente 'short' (1-riga) e 'long' (definizione estesa).",
+    "matchingPolicy": "Match parole intere case-insensitive. Le forme plurali e accordate vanno aggiunte come 'aliases'.",
+    "frontendHint": "Suggerito: regex /\\b(<key>|<alias1>|<alias2>)\\b/gi su ogni paragrafo italiano, sostituire con <span class='gloss' data-term='<key>'>...</span>"
+  },
+  "terms": {
+    "niddà": {
+      "key": "niddà",
+      "aliases": ["niddà", "niddah", "nidda"],
+      "he": "נדה",
+      "literal": "donna in periodo mestruale (lett. «separata»)",
+      "short": "Donna nello stato di impurità rituale per ciclo mestruale.",
+      "long": "Termine biblico (Levitico 15:19-24) che indica la donna durante il ciclo mestruale e nei sette giorni che seguono. In questo stato vi sono restrizioni di contatto rituale; lo stato termina con l'immersione nella mikvè dopo verifica di assenza di sangue."
+    },
+    "zavà": {
+      "key": "zavà",
+      "aliases": ["zavà", "zavah"],
+      "he": "זבה",
+      "literal": "donna con flusso anomalo",
+      "short": "Donna con perdita ematica al di fuori del ciclo regolare.",
+      "long": "La zavà piccola è la donna che vede sangue per uno o due giorni nei giorni di zivà; la zavà grande è quella che vede per tre giorni consecutivi e deve poi contare sette giorni netti senza sangue prima dell'immersione."
+    },
+    "zivà": {
+      "key": "zivà",
+      "aliases": ["zivà", "zivah"],
+      "he": "זיבה",
+      "literal": "flusso anomalo",
+      "short": "Stato della donna con flusso ematico fuori ciclo, che la rende zavà.",
+      "long": "Periodo di undici giorni successivi ai sette giorni di niddà nei quali un'eventuale perdita ematica costituisce zivà e non niddà."
+    },
+    "kétem": {
+      "key": "kétem",
+      "aliases": ["kétem", "kétem", "ketem", "kétamim", "ketamim"],
+      "he": "כתם",
+      "literal": "macchia",
+      "short": "Macchia di sangue trovata su corpo o veste, oggetto di leggi rabbiniche specifiche.",
+      "long": "Per disposizione rabbinica, la macchia di sangue trovata sul corpo o sui vestiti rende impura anche in assenza di hargashà. Le leggi del kétem distinguono per dimensione, posizione, supporto (colorato o no) e possibilità di attribuirla ad altra fonte."
+    },
+    "vesèt": {
+      "key": "vesèt",
+      "aliases": ["vesèt", "vesèt", "veset", "vestì", "vesti"],
+      "he": "וסת",
+      "literal": "ciclo, momento abituale",
+      "short": "Ciclo mestruale regolare di una donna, oggetto di osservanza preventiva.",
+      "long": "Il vesèt è il momento o lo schema (es. vesèt ha-chódesh, vesèt ha-haflagà) in cui la donna abitualmente vede il sangue. La halachà richiede astensione (perishà) nelle ore prossime al vesèt previsto."
+    },
+    "hargashà": {
+      "key": "hargashà",
+      "aliases": ["hargashà", "hargashah"],
+      "he": "הרגשה",
+      "literal": "sensazione",
+      "short": "Sensazione fisica che, per la Torah, accompagna la fuoriuscita del sangue di niddà.",
+      "long": "Secondo la Torah la donna diventa niddà solo se avverte una sensazione corporea distintiva al momento del flusso. In sua assenza, la presunzione rabbinica della sua presenza si applica nei casi descritti nelle halachòt."
+    },
+    "beit ha-turpà": {
+      "key": "beit ha-turpà",
+      "aliases": ["beit ha-turpà", "beit haturpa", "bet ha-turpa"],
+      "he": "בית התרפה",
+      "literal": "lett. «casa della vulnerabilità»",
+      "short": "Designazione halachica della zona genitale femminile.",
+      "long": "Espressione tecnica usata da Rambam (e dalla Mishnà di Niddà) per indicare la zona genitale; rilevante per stabilire se una macchia trovata su un punto del corpo o degli abiti possa essere attribuita al sangue uterino."
+    },
+    "prozdòr": {
+      "key": "prozdòr",
+      "aliases": ["prozdòr", "prozdor"],
+      "he": "פרוזדור",
+      "literal": "vestibolo, anticamera (dal greco)",
+      "short": "Cavità vaginale esterna; anticamera dell'utero nella terminologia halachica.",
+      "long": "Spazio anatomico compreso tra l'apertura esterna e l'utero (chéder). La distinzione tra sangue trovato nel prozdòr e sangue uscito all'esterno determina lo stato di hargashà presunta."
+    },
+    "chéder": {
+      "key": "chéder",
+      "aliases": ["chéder", "cheder"],
+      "he": "חדר",
+      "literal": "lett. «camera»",
+      "short": "L'utero nella terminologia halachica.",
+      "long": "Termine impiegato per indicare la cavità uterina, distinta dal prozdòr (vestibolo) e dall'aliyà (sopravia). Sangue proveniente dal chéder rende impura."
+    },
+    "bo'el": {
+      "key": "bo'el",
+      "aliases": ["bo'el", "boel"],
+      "he": "בועל",
+      "literal": "chi ha rapporto coniugale",
+      "short": "Marito che ha avuto rapporti con la moglie.",
+      "long": "Termine tecnico che ricorre nelle leggi di niddà per discutere lo stato di impurità del marito conseguente al rapporto."
+    },
+    "mekulkélet": {
+      "key": "mekulkélet",
+      "aliases": ["mekulkélet", "mekulkelet"],
+      "he": "מקולקלת",
+      "literal": "guastata, sconvolta",
+      "short": "Donna il cui calendario di niddà è incerto.",
+      "long": "Status di una donna in cui la successione di giorni di niddà e di zivà non è più certa, tipicamente perché ha visto sangue o macchia in un momento che potrebbe alterare il computo. Richiede comportamenti più rigorosi finché il vesèt non si ristabilisca."
+    },
+    "ke-gris": {
+      "key": "ke-gris",
+      "aliases": ["ke-gris", "kigris", "gris"],
+      "he": "כגריס",
+      "literal": "delle dimensioni di un gris (legume spaccato)",
+      "short": "Misura halachica equivalente a circa nove lenticchie disposte 3×3.",
+      "long": "Riferimento di misura per la macchia minima rilevante (gris kilkì): un quadrato approssimativamente di nove lenticchie (3×3). Macchie inferiori non rendono impure se trovate su una veste."
+    },
+    "ma'akòlet": {
+      "key": "ma'akòlet",
+      "aliases": ["ma'akòlet", "maakolet"],
+      "he": "מאכולת",
+      "literal": "insetto schiacciato (pidocchio)",
+      "short": "Causa alternativa cui può attribuirsi una macchia ematica.",
+      "long": "I Saggi permettono di attribuire una piccola macchia (≤ ke-gris) a un insetto schiacciato, presumendo che il sangue provenga da esso e non da fonte uterina."
+    },
+    "me-èt le-èt": {
+      "key": "me-èt le-èt",
+      "aliases": ["me-èt le-èt", "meet leet"],
+      "he": "מעת לעת",
+      "literal": "da un momento a un momento",
+      "short": "Periodo di 24 ore esatte.",
+      "long": "Unità temporale halachica di esattamente 24 ore usata per definire la retroattività dell'impurità da macchia e altre questioni di calendario."
+    },
+    "bein ha-shmashòt": {
+      "key": "bein ha-shmashòt",
+      "aliases": ["bein ha-shmashòt", "bein hashmashot"],
+      "he": "בין השמשות",
+      "literal": "tra i crepuscoli",
+      "short": "Crepuscolo: tempo dubbio tra giorno e notte.",
+      "long": "Intervallo che si estende dal tramonto fino all'apparire delle stelle, di durata controversa nei codici halachici. È un momento dubbio per il computo dei giorni."
+    },
+    "yom ha-shamùr": {
+      "key": "yom ha-shamùr",
+      "aliases": ["yom ha-shamùr", "yom hashamur"],
+      "he": "יום השמור",
+      "literal": "giorno osservato",
+      "short": "Giorno di osservazione della zavà piccola dopo una visione di sangue.",
+      "long": "Per la zavà piccola, il giorno netto di osservazione successivo a un singolo giorno di sangue, durante il quale, in assenza di altre visioni, lei torna pura."
+    },
+    "shappìr merukkàm": {
+      "key": "shappìr merukkàm",
+      "aliases": ["shappìr merukkàm", "shappir merukkam", "shappir"],
+      "he": "שפיר מרוקם",
+      "literal": "sacco amniotico (già) formato",
+      "short": "Sacco embrionale con figura riconoscibile.",
+      "long": "Sacco amniotico contenente un embrione la cui figura ha già iniziato a formarsi (occhi, narici, bocca). La sua espulsione, anche prima dei quaranta giorni di gravidanza, conta come parto a tutti gli effetti."
+    },
+    "yolèdet": {
+      "key": "yolèdet",
+      "aliases": ["yolèdet", "yoledet", "partoriente"],
+      "he": "יולדת",
+      "literal": "partoriente",
+      "short": "Donna che ha partorito o subito un aborto rilevante; ha statuto rituale specifico.",
+      "long": "La yolèdet è impura per parto secondo Levitico 12: sette giorni se ha partorito un maschio (o quattordici per una femmina), seguiti dai giorni di sangue puro (yemèi tòhar)."
+    },
+    "yemèi tòhar": {
+      "key": "yemèi tòhar",
+      "aliases": ["yemèi tòhar", "yemei tohar"],
+      "he": "ימי טוהר",
+      "literal": "giorni di sangue puro",
+      "short": "Periodo successivo al parto in cui il sangue visto è considerato puro.",
+      "long": "Trentatré giorni dopo un maschio (fino al 40°) e sessantasei dopo una femmina (fino all'80°). In questo periodo, secondo la Torah, eventuale sangue non rende impura. In età rabbinica si aggiungono restrizioni."
+    },
+    "néfel": {
+      "key": "néfel",
+      "aliases": ["néfel", "nefel"],
+      "he": "נפל",
+      "literal": "nato non vitale",
+      "short": "Feto o neonato non vitale (aborto, parto morto o decesso entro 30 giorni).",
+      "long": "In halachà, néfel indica un feto o neonato che non raggiunge la vitalità (kayyamà). Le leggi di lutto, di yibum e di partoriente possono variare."
+    },
+    "vàlad shel kayyamà": {
+      "key": "vàlad shel kayyamà",
+      "aliases": ["vàlad shel kayyamà", "valad shel kayyama"],
+      "he": "ולד של קיימא",
+      "literal": "nato vitale",
+      "short": "Bambino nato vivo che raggiunge i trenta giorni di vita.",
+      "long": "Soglia halachica per stabilire la piena vitalità: il bambino che vive trenta giorni (o nasce a termine accertato) è vàlad shel kayyamà a tutti gli effetti."
+    },
+    "yotsè dòfen": {
+      "key": "yotsè dòfen",
+      "aliases": ["yotsè dòfen", "yotse dofen"],
+      "he": "יוצא דופן",
+      "literal": "uscito dal fianco",
+      "short": "Nato per via cesarea.",
+      "long": "Per via cesarea (lett. «uscito dal fianco») la madre non è impura di parto secondo la Torah, perché Levitico 12:2 implica un'uscita per la via genitale. Le leggi rabbiniche aggiungono alcune restrizioni."
+    },
+    "shilyà": {
+      "key": "shilyà",
+      "aliases": ["shilyà", "shilya"],
+      "he": "שליא",
+      "literal": "placenta",
+      "short": "Placenta; la sua espulsione richiede attenzione anche in assenza di feto visibile.",
+      "long": "Membrana placentare. Non vi è shilyà senza un feto associato; chi la espelle attende il computo del maschio e quello della femmina, salvo casi indicati."
+    },
+    "sandàl": {
+      "key": "sandàl",
+      "aliases": ["sandàl", "sandal"],
+      "he": "סנדל",
+      "literal": "sandalo (forma rappresa di tessuto)",
+      "short": "Massa rappresa di tessuto formatasi accanto a un feto.",
+      "long": "Brandello rappreso a forma di lingua di bue che si forma talora accanto al feto e ne avvolge una porzione. Esige rigore particolare nel computo della partoriente."
+    },
+    "tumtùm": {
+      "key": "tumtùm",
+      "aliases": ["tumtùm", "tumtum"],
+      "he": "טומטום",
+      "literal": "indeterminato",
+      "short": "Persona di sesso non determinabile alla nascita.",
+      "long": "Statuto halachico di chi ha genitali coperti o non identificabili. Per dubbio si applicano i rigori di entrambi i sessi senza i privilegi univoci di nessuno dei due."
+    },
+    "androgino": {
+      "key": "androgino",
+      "aliases": ["androgino", "androginos", "andrògino"],
+      "he": "אנדרוגינוס",
+      "literal": "androgino (intersessuale)",
+      "short": "Persona con caratteristiche fisiche di entrambi i sessi.",
+      "long": "Statuto halachico distinto dal tumtùm. Anche qui si applicano per dubbio i rigori di maschio e femmina; nei dettagli vi sono divergenze tra i Rishonim."
+    },
+    "makkàt mardùt": {
+      "key": "makkàt mardùt",
+      "aliases": ["makkàt mardùt", "makkat mardut"],
+      "he": "מכת מרדות",
+      "literal": "lett. «percosse di disciplina»",
+      "short": "Pena rabbinica di flagellazione disciplinare.",
+      "long": "Sanzione disciplinare comminata dai tribunali rabbinici per violazioni di precetti rabbinici, distinta dalla makkòt biblica per natura, durata e procedura."
+    },
+    "rok tafèl": {
+      "key": "rok tafèl",
+      "aliases": ["rok tafèl", "rok tafel"],
+      "he": "רוק תפל",
+      "literal": "saliva «scipita»",
+      "short": "Saliva del mattino, a digiuno e prima di parlare a lungo.",
+      "long": "Primo dei sette reagenti per distinguere sangue da pigmento: saliva di chi non ha mangiato dalla sera, ha dormito e non ha parlato a lungo prima delle tre ore del giorno."
+    },
+    "téfach": {
+      "key": "téfach",
+      "aliases": ["téfach", "tefach"],
+      "he": "טפח",
+      "literal": "palmo",
+      "short": "Misura halachica di lunghezza pari a circa 8-10 cm.",
+      "long": "Unità di lunghezza biblica e talmudica, larghezza di un palmo. Misura minima di una placenta è un téfach."
+    },
+    "yemèi melò't": {
+      "key": "yemèi melò't",
+      "aliases": ["yemèi melò't", "yemei melot"],
+      "he": "ימי מלאת",
+      "literal": "giorni del compimento",
+      "short": "Periodo che completa la durata della partoriente (40 o 80 giorni).",
+      "long": "Quarantesimo giorno per la partoriente di maschio, ottantesimo per la partoriente di femmina. Termine dei giorni di sangue puro biblici."
+    },
+    "chalùk": {
+      "key": "chalùk",
+      "aliases": ["chalùk", "chaluk"],
+      "he": "חלוק",
+      "literal": "camicia",
+      "short": "Indumento intimo della donna su cui si effettuano le verifiche di kétem.",
+      "long": "La camicia (chaluk) della donna, oggetto delle verifiche per le macchie. La halachà specifica posizioni e dimensioni dei kétem in funzione del chaluk."
+    },
+    "ezòr": {
+      "key": "ezòr",
+      "aliases": ["ezòr", "ezor"],
+      "he": "אזור",
+      "literal": "cintura",
+      "short": "Cintura indossata sopra il chaluk; soggetta alle leggi di kétem.",
+      "long": "Cintura: ovunque vi sia trovata una macchia, l'ezòr rende impura — a differenza del chaluk, dove la posizione della macchia conta."
+    },
+    "sela": {
+      "key": "sela",
+      "aliases": ["sela", "sèla"],
+      "he": "סלע",
+      "literal": "moneta antica",
+      "short": "Moneta d'argento; usata anche come misura di superficie.",
+      "long": "Sela: moneta talmudica equivalente a quattro denari. Riferimento di misura per la quantità di sangue di un uccellino."
+    },
+    "borìt": {
+      "key": "borìt",
+      "aliases": ["borìt", "borit"],
+      "he": "בורית",
+      "literal": "soda",
+      "short": "Sapone vegetale antico (carbonato sodico).",
+      "long": "Quarto dei sette reagenti per distinguere sangue da pigmento."
+    },
+    "nèter": {
+      "key": "nèter",
+      "aliases": ["nèter", "neter"],
+      "he": "נתר",
+      "literal": "natron",
+      "short": "Natron, carbonato sodico naturale.",
+      "long": "Quinto dei sette reagenti."
+    },
+    "kimonyà": {
+      "key": "kimonyà",
+      "aliases": ["kimonyà", "kimonya", "cimolia"],
+      "he": "קימוניא",
+      "literal": "argilla bianca (cimolia)",
+      "short": "Tipo di argilla detergente.",
+      "long": "Sesto dei sette reagenti."
+    },
+    "ashlàg": {
+      "key": "ashlàg",
+      "aliases": ["ashlàg", "ashlag"],
+      "he": "אשלג",
+      "literal": "allume di potassio",
+      "short": "Polvere alcalina detergente.",
+      "long": "Settimo e ultimo dei sette reagenti per distinguere sangue da pigmento sulle macchie."
+    },
+    "tzitzit": {
+      "key": "tzitzit",
+      "aliases": ["tzitzit", "tzitzìt"],
+      "he": "ציצית",
+      "literal": "frange",
+      "short": "Frange rituali ai quattro angoli del tallit.",
+      "long": "Precetto biblico (Numeri 15:38) di apporre frange agli angoli degli indumenti a quattro angoli, comprendenti fili bianchi e — quando disponibile — un filo di tekhelet."
+    },
+    "tekhelet": {
+      "key": "tekhelet",
+      "aliases": ["tekhelet", "tekhèlet"],
+      "he": "תכלת",
+      "literal": "azzurro",
+      "short": "Tinta azzurra del filo speciale degli tzitzit.",
+      "long": "Tintura biblica ricavata dal chilazon, applicata a uno dei fili degli tzitzit. La sua identificazione moderna è oggetto di dibattito halachico."
+    },
+    "tallit": {
+      "key": "tallit",
+      "aliases": ["tallit", "tallìt", "tallith"],
+      "he": "טלית",
+      "literal": "mantello rituale",
+      "short": "Mantello a quattro angoli usato per la preghiera, recante gli tzitzit.",
+      "long": "Tallit gadol per la preghiera del mattino; tallit katan come capo intimo costantemente indossato dagli uomini osservanti."
+    },
+    "sha'atnez": {
+      "key": "sha'atnez",
+      "aliases": ["sha'atnez", "shatnez", "shaatnez"],
+      "he": "שעטנז",
+      "literal": "miscela proibita",
+      "short": "Mescolanza proibita di lana e lino in un indumento.",
+      "long": "Divieto biblico (Deuteronomio 22:11) di indossare un indumento contenente sia lana sia lino. Eccezione storica: il filo di tekhelet (lana) negli tzitzit di un indumento di lino."
+    },
+    "mitzvà": {
+      "key": "mitzvà",
+      "aliases": ["mitzvà", "mitzvah", "mitzvòt", "mitzvot"],
+      "he": "מצוה",
+      "literal": "comandamento",
+      "short": "Precetto della Torah, positivo o negativo.",
+      "long": "Comandamento divino: 248 mitzvòt positive e 365 negative secondo il computo classico di Rambam (Sefer ha-Mitzvòt)."
+    },
+    "mikvè": {
+      "key": "mikvè",
+      "aliases": ["mikvè", "mikveh", "miqveh"],
+      "he": "מקוה",
+      "literal": "raccolta d'acqua",
+      "short": "Bacino di immersione rituale per la purificazione.",
+      "long": "Bagno rituale conforme a precise specifiche halachiche (almeno 40 sa'à di acqua, parte non attinta) per l'immersione che termina lo stato di niddà o altre impurità."
+    },
+    "shivà yamìm nekiyìm": {
+      "key": "shivà yamìm nekiyìm",
+      "aliases": ["shivà yamìm nekiyìm", "sette giorni netti"],
+      "he": "שבעה ימים נקיים",
+      "literal": "sette giorni netti",
+      "short": "Sette giorni privi di sangue contati prima dell'immersione.",
+      "long": "Per la zavà grande, e per ogni donna in epoca rabbinica dopo qualsiasi visione di sangue, sette giorni consecutivi senza sangue da contare prima dell'immersione nella mikvè."
+    },
+    "be'ilàt mitzvà": {
+      "key": "be'ilàt mitzvà",
+      "aliases": ["be'ilàt mitzvà", "beilat mitzva"],
+      "he": "בעילת מצוה",
+      "literal": "rapporto del precetto",
+      "short": "Primo rapporto coniugale dopo le nozze.",
+      "long": "Primo rapporto degli sposi dopo le nozze, considerato adempimento del precetto matrimoniale. Se compare sangue verginale, lo sposo si separa fino al completamento dei sette giorni netti."
+    },
+    "chatzitzà": {
+      "key": "chatzitzà",
+      "aliases": ["chatzitzà", "chatzitza", "chazitza"],
+      "he": "חציצה",
+      "literal": "interposizione",
+      "short": "Qualsiasi cosa frapposta tra il corpo e l'acqua della mikvè.",
+      "long": "Qualunque sostanza o oggetto che si frapponga tra il corpo della persona e l'acqua durante l'immersione invalida la tevilà. Le Hilchòt Mikva'òt elencano in dettaglio cosa costituisca chatzitzà."
+    },
+    "karèt": {
+      "key": "karèt",
+      "aliases": ["karèt", "karet"],
+      "he": "כרת",
+      "literal": "estirpazione",
+      "short": "Pena divina di «recisione spirituale» per gravi trasgressioni.",
+      "long": "Sanzione menzionata nella Torah per le trasgressioni più gravi (es. rapporto in stato di niddà, mangiare nel giorno di Kippur). Comporta «recisione» spirituale; non è inflitta da tribunale umano."
+    },
+    "minhàg": {
+      "key": "minhàg",
+      "aliases": ["minhàg", "minhag"],
+      "he": "מנהג",
+      "literal": "uso, costume",
+      "short": "Uso radicato di una comunità con forza halachica.",
+      "long": "Uso ebraico tradizionale che acquisisce, secondo i suoi presupposti, un grado di forza halachica. «Minhag Yisrael Torah hu» — l'uso d'Israele è Torah."
+    },
+    "talmìd chakhàm": {
+      "key": "talmìd chakhàm",
+      "aliases": ["talmìd chakhàm", "talmid chacham", "talmidei chakhamìm", "talmidei chachamim"],
+      "he": "תלמיד חכם",
+      "literal": "discepolo del savio",
+      "short": "Erudito di Torah, riconosciuto per la propria conoscenza halachica.",
+      "long": "Studente avanzato della tradizione rabbinica, capace di emettere decisioni halachiche e modello di comportamento religioso. Gode di precedenze e responsabilità specifiche."
+    },
+    "Geonìm": {
+      "key": "Geonìm",
+      "aliases": ["Geonìm", "Geonim", "geonìm", "geonim"],
+      "he": "גאונים",
+      "literal": "lett. «eccellenze»",
+      "short": "Capi delle accademie babilonesi (VI-XI secolo), autorità halachiche post-talmudiche.",
+      "long": "Maestri delle accademie di Sura e Pumbedita dopo la chiusura del Talmud. Le loro responsa formano un corpus halachico fondamentale, spesso citato dai Rishonim."
+    },
+    "Tzaddukìm": {
+      "key": "Tzaddukìm",
+      "aliases": ["Tzaddukìm", "Tzaddukim", "tzaddukìm", "tzaddukim", "Sadducei"],
+      "he": "צדוקים",
+      "literal": "Sadducei",
+      "short": "Setta del Secondo Tempio che rifiutava la Torah orale.",
+      "long": "Setta sacerdotale del periodo del Secondo Tempio, opposta ai Farisei. Negavano l'autorità della tradizione orale e la resurrezione. Rambam li cita per indicare pratiche erronee derivate da rifiuto della tradizione rabbinica."
+    },
+    "ervà": {
+      "key": "ervà",
+      "aliases": ["ervà", "erva", "ervòt"],
+      "he": "ערוה",
+      "literal": "lett. «nudità»",
+      "short": "Unione vietata; per estensione, donna proibita per legame di parentela o stato.",
+      "long": "Termine biblico (Levitico 18) usato per le unioni sessuali proibite. Anche la donna in stato di niddà è considerata ervà finché non si è immersa."
+    },
+    "chardàl": {
+      "key": "chardàl",
+      "aliases": ["chardàl", "chardal", "senape"],
+      "he": "חרדל",
+      "literal": "senape",
+      "short": "Misura minima paragonata a un grano di senape.",
+      "long": "Riferimento di misura halachica usato da Rambam per indicare anche la più piccola goccia di sangue: «anche solo una goccia delle dimensioni di un grano di senape»."
+    },
+    "ketannà": {
+      "key": "ketannà",
+      "aliases": ["ketannà", "ketanna", "ketanne"],
+      "he": "קטנה",
+      "literal": "minore (femmina)",
+      "short": "Bambina al di sotto dei dodici anni e un giorno.",
+      "long": "Età halachica della bambina prima della maturità (bat mitzvà). Alcune leggi (responsabilità per i precetti, status di voto) si modulano in base a questa categoria."
+    },
+    "Tzarfàt": {
+      "key": "Tzarfàt",
+      "aliases": ["Tzarfàt", "Tzarfat", "Francia"],
+      "he": "צרפת",
+      "literal": "Francia (lett. dal nome biblico)",
+      "short": "Francia rabbinica medievale.",
+      "long": "Designazione tradizionale per la Francia, in particolare per le scuole rabbiniche medievali (Rashi, Tosafot)."
+    },
+    "Sefarad": {
+      "key": "Sefarad",
+      "aliases": ["Sefarad", "sefarad", "Iberia"],
+      "he": "ספרד",
+      "literal": "Iberia (Spagna)",
+      "short": "Penisola iberica come centro ebraico medievale.",
+      "long": "Designazione biblica e rabbinica per la penisola iberica (Spagna e Portogallo), centro fondamentale dell'ebraismo medievale."
+    }
+  }
+}

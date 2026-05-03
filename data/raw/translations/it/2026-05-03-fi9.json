@@ -1,0 +1,203 @@
+{
+  "ref": "Mishneh Torah, Forbidden Intercourse 9",
+  "name_he": "הלכות איסורי ביאה, פרק ט",
+  "name_it": "Leggi delle unioni proibite — Issurei Bià, capitolo 9",
+  "halachot_count": 39,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵין הָאִשָּׁה מִתְטַמְּאָה מִן הַתּוֹרָה בְּנִדָּה אוֹ בְּזִיבָה עַד שֶׁתַּרְגִּישׁ וְתִרְאֶה דָּם וְיֵצֵא בִּבְשָׂרָהּ כְּמוֹ שֶׁבֵּאַרְנוּ וְתִהְיֶה טְמֵאָה מֵעֵת שֶׁתִּרְאֶה וּלְהַבָּא בִּלְבַד. וְאִם לֹא הִרְגִּישָׁה וּבָדְקָה וּמָצְאָה הַדָּם לְפָנִים בַּפְּרוֹזְדוֹר הֲרֵי זֶה בְּחֶזְקַת שֶׁבָּא בְּהַרְגָּשָׁה כְּמוֹ שֶׁבֵּאַרְנוּ.",
+      "it": "Secondo la Torah, la donna non diventa impura per niddà o per zivà finché non avverte una sensazione (hargashà), veda il sangue e questo esca dal suo corpo, come abbiamo spiegato; ed è impura solo dal momento in cui lo vede in poi. Se non ha avvertito alcuna sensazione e, esaminandosi, trova del sangue all'interno del prozdòr (vestibolo), si presume che sia uscito con sensazione, come abbiamo spiegato."
+    },
+    {
+      "n": 2,
+      "he": "וּמִדִּבְרֵי סוֹפְרִים שֶׁכָּל הָרוֹאָה כֶּתֶם דָּם עַל בְּשָׂרָהּ אוֹ עַל בְּגָדֶיהָ אַף עַל פִּי שֶׁלֹּא הִרְגִּישָׁה אַף עַל פִּי שֶׁבָּדְקָה עַצְמָהּ וְלֹא מָצְאָה דָּם הֲרֵי זוֹ טְמֵאָה וּכְאִלּוּ מָצְאָה דָּם לְפָנִים בִּבְשָׂרָהּ. וְטֻמְאָה זוֹ בְּסָפֵק שֶׁמָּא כֶּתֶם זֶה מִדַּם הַחֶדֶר בָּא.",
+      "it": "Per disposizione rabbinica (mi-divrei sofrim), ogni donna che vede una macchia (kétem) di sangue sul proprio corpo o sui propri abiti — anche se non ha avvertito alcuna sensazione e anche se essendosi esaminata non ha trovato sangue — è impura, come se avesse trovato sangue all'interno del proprio corpo. Questa impurità è di carattere dubitativo (sefèk), perché può darsi che la macchia provenga dal sangue dell'utero (chéder)."
+    },
+    {
+      "n": 3,
+      "he": "וְכֵן מִדִּבְרֵי סוֹפְרִים שֶׁכָּל הָרוֹאָה דָּם בְּלֹא עֵת וֶסְתָּהּ וְכָל הָרוֹאָה כֶּתֶם טְמֵאָה לְמַפְרֵעַ עַד כ\"ד שָׁעוֹת. וְאִם בָּדְקָה בְּתוֹךְ זְמַן זֶה וּמָצְאָה טָהוֹר טְמֵאָה לְמַפְרֵעַ עַד זְמַן בְּדִיקָה. וְאַף עַל פִּי שֶׁהִיא טְמֵאָה לְמַפְרֵעַ מִדִּבְרֵיהֶם אֵינָהּ מְטַמְּאָה אֶת בּוֹעֲלָהּ לְמַפְרֵעַ כְּמוֹ שֶׁבֵּאַרְנוּ. וְאֵינָהּ מוֹנָה לְנִדָּתָהּ אוֹ לְכִתְמָהּ אֶלָּא מֵעֵת שֶׁתִּרְאֶה הַדָּם אוֹ שֶׁמָּצְאָה הַכֶּתֶם. וְכָל הָרוֹאָה כֶּתֶם הֲרֵי זוֹ מְקֻלְקֶלֶת (לְמִנְיָנָהּ) שֶׁמָּא מִן הַחֶדֶר בָּא וְנִתְקַלְקְלָה וֶסְתָּהּ.",
+      "it": "Sempre per disposizione rabbinica, ogni donna che vede sangue al di fuori del momento del proprio ciclo regolare (vesèt), e ogni donna che vede una macchia, è impura retroattivamente fino a 24 ore prima. Se durante questo intervallo si era esaminata e si era trovata pura, è impura retroattivamente solo fino al momento di quella verifica. Pur essendo retroattivamente impura per disposizione rabbinica, non rende retroattivamente impuro il proprio coniuge, come abbiamo spiegato. Non comincia a contare i giorni della niddà o del kétem se non dal momento in cui ha visto il sangue o trovato la macchia. Ogni donna che vede una macchia ha il proprio calendario sconvolto (mekulkélet), perché può darsi che provenga dall'utero e abbia di fatto alterato il suo ciclo regolare."
+    },
+    {
+      "n": 4,
+      "he": "הָרוֹאָה דָּם בִּשְׁעַת וֶסְתָּהּ אֵינָהּ מְטַמְּאָה לְמַפְרֵעַ אֶלָּא בִּשְׁעָתָהּ בִּלְבַד. וְכֵן מְעֻבֶּרֶת וּמֵינִיקָה בְּתוּלָה וּזְקֵנָה דַּיָּן שְׁעָתָן וְאֵינָן מְטַמְּאוֹת לְמַפְרֵעַ. אֵיזוֹ הִיא מְעֻבֶּרֶת. מִשֶּׁיֻּכַּר עֻבָּרָהּ. וְהוּא שְׁלֹשָׁה חֳדָשִׁים. מֵינִיקָה כָּל כ\"ד חֹדֶשׁ אֲפִלּוּ מֵת בְּנָהּ אוֹ גְּמָלַתּוּ אוֹ נְתָנַתּוּ לְמֵינִיקָה.",
+      "it": "La donna che vede sangue al momento esatto del proprio ciclo regolare non è retroattivamente impura, ma soltanto da quel momento. Lo stesso vale per la donna in stato di gravidanza, per la nutrice, per la vergine e per l'anziana: per loro basta il momento presente, e non rendono impuro retroattivamente. Chi è considerata «in gravidanza»? Da quando la gravidanza è riconoscibile, ossia dopo tre mesi. La «nutrice»: per tutti i ventiquattro mesi successivi al parto, anche se il figlio è morto, è stato svezzato o è stato affidato a un'altra nutrice."
+    },
+    {
+      "n": 5,
+      "he": "בְּתוּלָה כָּל שֶׁלֹּא רָאֲתָה דָּם מִיָּמֶיהָ אַף עַל פִּי שֶׁרָאֲתָה מֵחֲמַת נִשּׂוּאִין אוֹ מֵחֲמַת לֵדָה. זְקֵנָה כָּל שֶׁעָבְרוּ עָלֶיהָ תִּשְׁעִים יוֹם סָמוּךְ לְזִקְנָתָהּ. וְאֵי זוֹ הִיא זְקֵנָה כָּל שֶׁקּוֹרְאִין לָהּ זְקֵנָה וְאֵינָהּ מַקְפֶּדֶת. מְעֻבֶּרֶת וּמֵינִיקָה וּזְקֵנָה כִּתְמָן כִּרְאִיָּתָן וְאֵינוֹ מְטַמֵּא לְמַפְרֵעַ. בְּתוּלָה שֶׁלֹּא רָאֲתָה דָּם מִיָּמֶיהָ וַעֲדַיִן הִיא קְטַנָּה כִּתְמָהּ טָהוֹר עַד שֶׁתִּרְאֶה דָּם שָׁלֹשׁ וְסָתוֹת.",
+      "it": "«Vergine»: ogni donna che non ha mai visto sangue mestruale in vita sua, anche se ha visto sangue in seguito al matrimonio o al parto. «Anziana»: ogni donna trascorsa la quale siano passati novanta giorni in prossimità della sua vecchiaia. Chi è considerata «anziana»? Quella che si lascia chiamare anziana e non se ne offende. Per la donna in gravidanza, la nutrice e l'anziana, le macchie hanno lo stesso statuto di una visione di sangue, e non rendono impure retroattivamente. La vergine che non ha mai visto sangue ed è ancora minore: la sua macchia è pura finché non abbia visto sangue per tre cicli consecutivi."
+    },
+    {
+      "n": 6,
+      "he": "מַה בֵּין כֶּתֶם הַנִּמְצָא עַל בְּשָׂרָהּ לְכֶתֶם הַנִּמְצָא עַל בִּגְדָהּ. שֶׁהַכֶּתֶם הַנִּמְצָא עַל בְּשָׂרָהּ אֵין לוֹ שִׁעוּר. וְהַנִּמְצָא עַל הַבֶּגֶד אֵינוֹ מְטַמֵּא עַד שֶׁיִּהְיֶה כִּגְרִיס הַקִּלְקִי שֶׁהוּא מְרֻבָּע שֶׁיֵּשׁ בּוֹ כְּדֵי תֵּשַׁע עֲדָשׁוֹת שָׁלֹשׁ עַל שָׁלֹשׁ. הָיָה פָּחוֹת מִשִּׁעוּר זֶה טָהוֹר. נִמְצָא טִפִּין טִפִּין אֵין מִצְטָרְפוֹת. הָיָה אָרֹךְ הֲרֵי זֶה מִצְטָרֵף.",
+      "it": "Qual è la differenza tra una macchia trovata sul corpo e una trovata sull'abito? La macchia sul corpo non ha misura minima [rende impuri di qualunque dimensione]. Quella sull'abito invece non rende impuri se non ha la dimensione di un gris kilkì — un quadrato pari a nove lenticchie, tre per tre. Se è inferiore a questa misura, è pura. Se sono goccioline sparse, non si sommano tra loro. Se la macchia è oblunga, le sue parti si sommano."
+    },
+    {
+      "n": 7,
+      "he": "כֶּתֶם שֶׁנִּמְצָא עַל דָּבָר שֶׁאֵינוֹ מְקַבֵּל טֻמְאָה טָהוֹר וְאֵינָהּ חוֹשֶׁשֶׁת לוֹ. כֵּיצַד. יָשְׁבָה עַל כְּלֵי אֲבָנִים כְּלֵי אֲדָמָה וּכְלֵי גְּלָלִים אוֹ עַל עוֹר הַדָּג אוֹ עַל כְּלִי חֶרֶשׂ מִגַּבּוֹ אוֹ עַל בֶּגֶד שֶׁאֵין בּוֹ שָׁלֹשׁ אֶצְבָּעוֹת עַל שָׁלֹשׁ אֶצְבָּעוֹת וְנִמְצָא עֲלֵיהֶן דָּם טְהוֹרָה. אֲפִלּוּ בָּדְקָה הַקַּרְקַע וְיָשְׁבָה עָלֶיהָ וְנִמְצָא כֶּתֶם עַל הַקַּרְקַע כְּשֶׁעָמְדָה הֲרֵי זוֹ טְהוֹרָה. שֶׁכָּל שֶׁאֵינוֹ מְקַבֵּל טֻמְאָה לֹא גָּזְרוּ עַל כֶּתֶם שֶׁיִּמָּצֵא בּוֹ. וְלֹא בִּמְקַבֵּל טֻמְאָה אֶלָּא אִם כֵּן הָיָה לָבָן. אֲבָל כְּלֵי צִבְעוֹנִין אֵין חוֹשְׁשִׁין לְכֶתֶם הַנִּמְצָא בָּהֶן. לְפִיכָךְ תִּקְּנוּ חֲכָמִים שֶׁתִּלְבַּשׁ הָאִשָּׁה בִּגְדֵי צִבְעוֹנִין כְּדֵי לְהַצִּילָהּ מִדִּין הַכְּתָמִים.",
+      "it": "Una macchia trovata su qualcosa che non è suscettibile di impurità è pura, e la donna non ne tiene conto. In che modo? Se si è seduta su utensili di pietra, di terra cruda, o di sterco essiccato; oppure su pelle di pesce; sul retro di un coccio di terracotta; o su un abito che non misura tre dita per tre dita — e su questi è stato trovato sangue, lei resta pura. Anche se ha esaminato il terreno e poi si è seduta, e quando si è alzata vi è stata trovata una macchia, è pura: perché su qualunque cosa non sia suscettibile di impurità i Saggi non hanno emanato il decreto sulle macchie. E persino sugli oggetti suscettibili di impurità il decreto vale solo se sono bianchi: sugli abiti colorati non ci si preoccupa di una macchia. Per questo motivo i Saggi hanno disposto che la donna indossi abiti colorati, per risparmiarle l'applicazione delle leggi sulle macchie."
+    },
+    {
+      "n": 8,
+      "he": "לֹא בְּכָל מָקוֹם שֶׁנִּמְצָא הַדָּם עַל בְּשָׂרָהּ תִּטְמָא מִשּׁוּם כֶּתֶם עַד שֶׁיִּמָּצֵא כְּנֶגֶד בֵּית הַתֻּרְפָּה. כֵּיצַד. נִמְצָא עַל עֲקֵבָהּ טְמֵאָה שֶׁמָּא נָגַע בְּבֵית תֻּרְפָּה בְּעֵת יְשִׁיבָתָהּ. וְכֵן אִם נִמְצָא עַל שׁוֹקָהּ אוֹ עַל פַּרְסוֹתֶיהָ מִבִּפְנִים וְהֵם הַמְּקוֹמוֹת הַנִּדְבָּקוֹת זוֹ בְּזוֹ בְּעֵת שֶׁתַּעֲמֹד וְתִדְבֹּק רֶגֶל לְרֶגֶל וְשׁוֹק לְשׁוֹק הֲרֵי זוֹ טְמֵאָה. נִמְצָא עַל רֹאשׁ גּוּדַל רַגְלָהּ טְמֵאָה שֶׁמָּא נָטַף מִן הַחֶדֶר עַל רַגְלָהּ בְּעֵת שֶׁהָלְכָה. וְכֵן כָּל מָקוֹם שֶׁאֶפְשָׁר שֶׁיִּנָּתֵז עָלָיו דַּם נִדָּתָהּ כְּשֶׁתְּהַלֵּךְ וְנִמְצָא שָׁם דָּם טְמֵאָה. וְכֵן אִם נִמְצָא הַדָּם עַל יָדֶיהָ אֲפִלּוּ עַל קִשְׁרֵי אֶצְבְּעוֹת יָדֶיהָ טְמֵאָה שֶׁהַיָּדַיִם עַסְקָנִיּוֹת הֵן. אֲבָל אִם נִמְצָא הַדָּם עַל שׁוֹקָהּ וְעַל פַּרְסוֹתֶיהָ מִבַּחוּץ אוֹ מִן הַצְּדָדִין וְאֵין צָרִיךְ לוֹמַר אִם נִמְצָא מִן הַיְרֵכַיִם וּלְמַעְלָה הֲרֵי זוֹ טְהוֹרָה שֶׁאֵין זֶה אֶלָּא דָּם שֶׁנִּתַּז עָלֶיהָ מִמָּקוֹם אַחֵר.",
+      "it": "Non in qualunque punto si trovi sangue sul corpo della donna lei diventa impura per via di una macchia: deve essere in posizione corrispondente al beit ha-turpà (la zona genitale). In che modo? Se è trovato sul tallone, è impura, perché può darsi che il tallone abbia toccato la zona genitale mentre era seduta. Lo stesso se è trovato sul polpaccio o sulla parte interna dei piedi — luoghi che si toccano l'un l'altro quando sta in piedi e congiunge piede a piede e polpaccio a polpaccio: è impura. Se è trovato sulla punta dell'alluce, è impura: può darsi che dall'utero sia gocciolato sul piede mentre camminava. Così, in ogni luogo in cui sia possibile che il sangue del suo ciclo le sia schizzato addosso mentre camminava, se vi si trova sangue è impura. Allo stesso modo, se il sangue è trovato sulle sue mani, anche solo sulle articolazioni delle dita, è impura, perché le mani sono in continuo movimento. Se invece il sangue è trovato sul polpaccio o sui piedi all'esterno o di lato — e a maggior ragione dalle cosce in su — è pura, poiché si tratta soltanto di sangue schizzato addosso da altrove."
+    },
+    {
+      "n": 9,
+      "he": "הַכֶּתֶם הַנִּמְצָא עַל בְּשָׂרָהּ שֶׁהוּא אָרֹךְ כִּרְצוּעָה אוֹ עָגל. אוֹ שֶׁהָיוּ טִפִּין טִפִּין. אוֹ שֶׁהָיָה אֹרֶךְ הַכֶּתֶם עַל רֹחַב יְרֵכָהּ. אוֹ שֶׁהָיָה נִרְאֶה כְּאִלּוּ הוּא מִמַּטָּה לְמַעְלָה. הוֹאִיל וְהוּא כְּנֶגֶד בֵּית תֻּרְפָּה הֲרֵי זוֹ טְמֵאָה. וְאֵין אוֹמְרִים אִלּוּ נָטַף מִן הַגּוּף לֹא הָיָה כָּזֶה. שֶׁכָּל דָּם הַנִּמְצָא בִּמְקוֹמוֹת אֵלּוּ מַחֲמִירִין בּוֹ אַף עַל פִּי שֶׁהוּא סָפֵק.",
+      "it": "Una macchia trovata sul corpo della donna che sia oblunga come una striscia o tonda, oppure formata da gocce sparse, oppure di lunghezza disposta lungo la larghezza della coscia, oppure che sembri estendersi dal basso verso l'alto: poiché si trova in corrispondenza del beit ha-turpà, è impura. Non si dice: «se fosse colato dal corpo non avrebbe questa forma», perché ogni sangue trovato in tali zone si tratta con rigore, anche se rimane dubbio."
+    },
+    {
+      "n": 10,
+      "he": "הַכֶּתֶם הַנִּמְצָא עַל הֶחָלוּק שֶׁלָּהּ מֵחֲגוֹרָהּ וּלְמַטָּה טְמֵאָה מֵחֲגוֹרָהּ וּלְמַעְלָה טְהוֹרָה. נִמְצָא עַל בֵּית יָד שֶׁלָּהּ אִם מַגִּיעַ כְּנֶגֶד בֵּית תֻּרְפָּה טְמֵאָה וְאִם לָאו טְהוֹרָה.",
+      "it": "Se la macchia è trovata sulla camicia (chalùk) dalla cintura in giù, è impura; dalla cintura in su, è pura. Se è trovata sulla manica: se la manica giunge in corrispondenza del beit ha-turpà, è impura; altrimenti, è pura."
+    },
+    {
+      "n": 11,
+      "he": "הָיְתָה פּוֹשַׁטְתוֹ וּמִתְכַּסָּה בּוֹ בַּלַּיְלָה כָּל מָקוֹם שֶׁיִּמָּצֵא בּוֹ דָּם טְמֵאָה. וְכֵן הָאֵזוֹר שֶׁלָּהּ כָּל מָקוֹם שֶׁיִּמָּצֵא בּוֹ הַדָּם טְמֵאָה.",
+      "it": "Se la donna se lo toglie e con esso si copre la notte, qualunque sia il punto in cui vi venga trovato del sangue, è impura. Lo stesso vale per la sua cintura (ezòr): qualunque sia il punto in cui vi venga trovato del sangue, è impura."
+    },
+    {
+      "n": 12,
+      "he": "הָיְתָה לוֹבֶשֶׁת חָלוּק אֶחָד וְשָׁהָה עָלֶיהָ שְׁלֹשָׁה יָמִים אוֹ יֶתֶר בְּלֹא עֵת נִדָּתָהּ וּבָדְקָה וּמָצְאָה עָלָיו שְׁלֹשָׁה כְּתָמִים אוֹ כֶּתֶם אֶחָד גָּדוֹל שֶׁיֵּשׁ בּוֹ שִׁעוּר שְׁלֹשָׁה כְּתָמִים הֲרֵי זוֹ סְפֵק זָבָה שֶׁמָּא כֶּתֶם נָטַף מִמֶּנָּה בְּכָל יוֹם. וְכֵן אִם לָבְשָׁה שְׁלֹשָׁה בְּגָדִים בְּדוּקִים וְשָׁהוּ עָלֶיהָ שְׁלֹשָׁה יָמִים בִּימֵי זִיבָתָהּ וּמָצְאָה כֶּתֶם בְּכָל אֶחָד מֵהֶן אַף עַל פִּי שֶׁזֶּה כְּנֶגֶד זֶה הֲרֵי זוֹ סְפֵק זָבָה.",
+      "it": "Se indossava una stessa camicia per tre o più giorni al di fuori del periodo del proprio ciclo, e poi esaminandola vi trovò tre macchie distinte oppure un'unica grande macchia delle dimensioni complessive di tre macchie, è zavà dubbia (sefèk zavà), perché può darsi che ogni giorno sia gocciolata una macchia. Allo stesso modo, se ha indossato tre abiti previamente esaminati e li ha tenuti per tre giorni nei suoi giorni di zivà, e ha trovato una macchia in ciascuno di essi, anche se le macchie corrispondono per posizione, è zavà dubbia."
+    },
+    {
+      "n": 13,
+      "he": "מָצְאָה כֶּתֶם אֶחָד שֶׁאֵין בּוֹ כְּדֵי שְׁלֹשָׁה כְּתָמִים אִם בָּדְקָה עַצְמָהּ כָּל בֵּין הַשְּׁמָשׁוֹת שֶׁל יוֹם רִאשׁוֹן וּמָצְאָה טָהוֹר וְלֹא בָּדְקָה חֲלוּקָהּ וּבַיּוֹם הַשְּׁלִישִׁי מָצְאָה זֶה הַכֶּתֶם שֶׁאֵינוֹ כִּשְׁלֹשָׁה כְּתָמִים אֵינָהּ חוֹשֶׁשֶׁת לְזִיבוּת. וְאִם לֹא בָּדְקָה עַצְמָהּ כָּל בֵּין הַשְּׁמָשׁוֹת הוֹאִיל וְלֹא בָּדְקָה חֲלוּקָהּ וְשָׁהָה עָלֶיהָ שְׁלֹשָׁה יָמִים בִּימֵי זִיבָתָהּ חוֹשֶׁשֶׁת לְזִיבוּת וְאַף עַל פִּי שֶׁאֵין הַכֶּתֶם כְּדֵי שְׁלֹשָׁה כְּתָמִים.",
+      "it": "Se ha trovato una sola macchia di dimensioni inferiori a tre macchie: se nel crepuscolo (bein ha-shmashòt) di ogni primo giorno si era esaminata e si era trovata pura ma non aveva esaminato la camicia, e poi nel terzo giorno trova questa macchia di misura inferiore a tre, non deve preoccuparsi della zivà. Se invece non si era esaminata in nessuno dei crepuscoli, e dato che non aveva esaminato la camicia che ha portato per tre giorni nei suoi giorni di zivà, deve preoccuparsi della zivà, anche se la macchia non raggiunge la misura di tre."
+    },
+    {
+      "n": 14,
+      "he": "מָצְאָה כֶּתֶם עַל חֲלוּקָהּ הַיּוֹם וְרָאֲתָה דָּם אַחַר כָּךְ שְׁנֵי יָמִים זֶה אַחַר זֶה. אוֹ שֶׁרָאֲתָה שְׁנֵי יָמִים וּבַיּוֹם הַשְּׁלִישִׁי רָאֲתָה כֶּתֶם. הֲרֵי זוֹ סְפֵק זָבָה.",
+      "it": "Se ha trovato una macchia sulla camicia oggi, e in seguito ha visto sangue per due giorni consecutivi; oppure ha visto sangue per due giorni e nel terzo giorno ha trovato una macchia: è zavà dubbia."
+    },
+    {
+      "n": 15,
+      "he": "הָרוֹאָה כֶּתֶם וְאַחַר כָּךְ רָאֲתָה דָּם תּוֹלָה כִּתְמָהּ בִּרְאִיָּתָהּ כָּל מֵעֵת לְעֵת. בֵּין שֶׁבָּדְקָה עַצְמָהּ בְּעֵת שֶׁמָּצְאָה הַכֶּתֶם וּמְצָאתָהּ טָהוֹר. בֵּין שֶׁלֹּא בָּדְקָה. אֲבָל הָרוֹאָה כֶּתֶם אַחַר כֶּתֶם בְּתוֹךְ עֶשְׂרִים וְאַרְבַּע שָׁעוֹת אֵינָהּ תּוֹלָה כֶּתֶם בַּכֶּתֶם אֶלָּא אִם כֵּן בָּדְקָה בֵּינֵיהֶם. שֶׁאִם הִפְסִיקָה טָהֳרָה בֵּין הַכְּתָמִים אֵין מִצְטָרְפִין לְמִנְיַן זִיבוּת.",
+      "it": "Chi vede una macchia e in seguito vede sangue, può attribuire la macchia alla visione di sangue, purché tra le due cose non siano trascorse più di 24 ore (me-èt le-èt) — sia che si fosse esaminata al momento della macchia trovandosi pura, sia che non si fosse esaminata. Ma chi vede una macchia dopo un'altra macchia entro 24 ore non può attribuire la seconda alla prima, a meno che non si sia esaminata tra le due, perché se ha verificato una purezza tra le due macchie, esse non si sommano per il computo della zivà."
+    },
+    {
+      "n": 16,
+      "he": "כֵּיצַד. רָאֲתָה כֶּתֶם עֶרֶב שַׁבָּת בְּשָׁעָה רִאשׁוֹנָה מִן הַיּוֹם אַף עַל פִּי שֶׁלֹּא בָּדְקָה עַצְמָהּ וְלֹא יָדְעָה אִם טְהוֹרָה הִיא אִם טְמֵאָה וְרָאֲתָה דָּם אַחַר כָּךְ עַד שָׁעָה רִאשׁוֹנָה מִיּוֹם הַשַּׁבָּת אֵינָהּ מוֹנָה לַכֶּתֶם. אֶלָּא תּוֹלָה הַכֶּתֶם בִּרְאִיָּה. וְאִם רָאֲתָה בְּאֶחָד בְּשַׁבָּת וּבְשֵׁנִי בְּשַׁבָּת תִּהְיֶה זָבָה. רָאֲתָה דָּם בְּיוֹם שַׁבָּת בְּשָׁעָה שְׁנִיָּה הֲרֵי זוֹ טְמֵאָה שְׁנֵי יָמִים עֶרֶב שַׁבָּת שֶׁמָּצְאָה בּוֹ הַכֶּתֶם וּבְשַׁבָּת שֶׁרָאֲתָה הַדָּם שֶׁהֲרֵי אֵין שְׁנֵיהֶם בְּתוֹךְ מֵעֵת לְעֵת. וְאִם רָאֲתָה הַדָּם בְּאֶחָד בְּשַׁבָּת חוֹשְׁשִׁין לְזִיבוּת.",
+      "it": "In che modo? Se ha visto una macchia il venerdì sera nella prima ora del giorno — anche senza essersi esaminata, e quindi senza sapere se sia pura o impura — e ha poi visto sangue fino alla prima ora del sabato, non comincia a contare dalla macchia ma la attribuisce alla visione di sangue. Se invece la visione fosse avvenuta domenica e lunedì, sarebbe zavà. Se ha visto sangue nel sabato alla seconda ora, è impura per due giorni: il venerdì in cui ha trovato la macchia e il sabato in cui ha visto il sangue, perché entrambi non sono entro 24 ore. E se ha visto il sangue di domenica, ci si preoccupa della zivà."
+    },
+    {
+      "n": 17,
+      "he": "לֹא רָאֲתָה דָּם בְּשַׁבָּת אֲבָל רָאֲתָה כֶּתֶם אַחֵר בְּשָׁעָה רִאשׁוֹנָה מִיּוֹם הַשַּׁבָּת. אִם בָּדְקָה עַצְמָהּ בְּעֶרֶב שַׁבָּת וּמָצְאָה טָהוֹר אֵינָהּ מוֹנָה אֶלָּא לְכֶתֶם אֶחָד שֶׁהוּא בְּיוֹם הַשַּׁבָּת הוֹאִיל וּשְׁנֵיהֶם בְּתוֹךְ מֵעֵת לְעֵת. וְאִם לֹא בָּדְקָה וְלֹא יָדְעָה אִם הִפְסִיקָה טָהֳרָה בֵּינֵיהֶן אִם לֹא הִפְסִיקָה הֲרֵי זוֹ מוֹנָה לְעֶרֶב שַׁבָּת וְאִם רָאֲתָה בְּאֶחָד בְּשַׁבָּת חוֹשֶׁשֶׁת לְזִיבוּת.",
+      "it": "Se non ha visto sangue di sabato ma ha trovato una seconda macchia nella prima ora del sabato: se al venerdì sera si era esaminata trovandosi pura, conta una sola macchia, quella del sabato, dato che entrambe sono entro 24 ore. Se invece non si era esaminata, e dunque non sa se vi sia stata interruzione di purezza tra le due, considera la macchia del venerdì come se non vi fosse stata interruzione e ne tiene conto; se poi ha visto sangue di domenica, ci si preoccupa della zivà."
+    },
+    {
+      "n": 18,
+      "he": "רָאֲתָה הַכֶּתֶם הַשֵּׁנִי בְּשָׁעָה שְׁנִיָּה מִיּוֹם שַׁבָּת בֵּין בָּדְקָה בֵּין לֹא בָּדְקָה הֲרֵי זוֹ טְמֵאָה שְׁנֵי יָמִים שֶׁהֲרֵי אֵין שְׁנֵיהֶם בְּתוֹךְ מֵעֵת לְעֵת. וְאִם רָאֲתָה בְּאֶחָד בְּשַׁבָּת אַחַר מֵעֵת לְעֵת חוֹשֶׁשֶׁת לְזִיבוּת. רָאֲתָה בְּשָׁעָה רִאשׁוֹנָה מִיּוֹם אֶחָד בְּשַׁבָּת כֶּתֶם שְׁלִישִׁי אִם הִפְסִיקָה טָהֳרָה בֵּינֵיהֶן אֵין מִצְטָרְפִין וְאֵינָהּ חוֹשֶׁשֶׁת לְזִיבוּת. וְאִם לֹא בָּדְקָה חוֹשֶׁשֶׁת לְזִיבוּת.",
+      "it": "Se ha visto la seconda macchia nella seconda ora del sabato — sia che si fosse esaminata sia che no — è impura per due giorni, perché le due macchie non rientrano entrambe nelle 24 ore. Se in seguito ha visto sangue di domenica, dopo le 24 ore, ci si preoccupa della zivà. Se nella prima ora di domenica ha trovato una terza macchia: se vi era stata interruzione di purezza tra di esse, non si sommano e non ci si preoccupa della zivà; se non si era esaminata, ci si preoccupa della zivà."
+    },
+    {
+      "n": 19,
+      "he": "כָּל כֶּתֶם שֶׁאָמַרְנוּ שֶׁהִיא טְמֵאָה בִּגְלָלוֹ אִם יֵשׁ לָהּ דָּבָר לִתְלוֹת בּוֹ וְלוֹמַר שֶׁמָּא כֶּתֶם זֶה מִדָּבָר פְּלוֹנִי הוּא אִם נִמְצָא עַל הַבֶּגֶד הֲרֵי זוֹ טְהוֹרָה. שֶׁלֹּא אָמְרוּ חֲכָמִים בַּדָּבָר לְהַחֲמִיר אֶלָּא לְהָקֵל. וְאִם נִמְצָא עַל בְּשָׂרָהּ סְפֵקוֹ טָמֵא וְאֵינָהּ תּוֹלָה בּוֹ. וְאִם הָיָה לָהּ לִתְלוֹת בִּבְשָׂרָהּ יֶתֶר מֵחֲלוּקָהּ אַף עַל בְּשָׂרָהּ תּוֹלָה וּסְפֵקוֹ טָהוֹר.",
+      "it": "Per ogni macchia che abbiamo detto rendere impura: se la donna ha qualcosa cui poter attribuire la macchia («forse questa proviene da tale altra cosa»), e la macchia è sull'abito, è pura — perché i Saggi hanno emanato il decreto sulle macchie non per essere severi ma in realtà per essere indulgenti. Se invece è trovata sul corpo, il dubbio si risolve in senso d'impurità e lei non vi attribuisce la macchia; ma se vi è ragione di attribuirla anche al corpo, in misura maggiore di quanto si attribuirebbe all'abito, allora attribuisce anche per il corpo, e il dubbio si risolve in senso di purezza."
+    },
+    {
+      "n": 20,
+      "he": "כֵּיצַד. שָׁחֲטָה בְּהֵמָה אוֹ חַיָּה אוֹ עוֹף אוֹ שֶׁנִּתְעַסְּקָה בִּכְתָמִים אוֹ שֶׁיָּשְׁבָה בְּצַד הָעוֹסְקִין בָּהֶן אוֹ שֶׁעָבְרָה בְּשׁוּק שֶׁל טַבָּחִים וְנִמְצָא דָּם עַל חֲלוּקָהּ טְהוֹרָה וְתוֹלָה בִּדְבָרִים אֵלּוּ שֶׁמֵּהֶן בָּא הַכֶּתֶם.",
+      "it": "In che modo? Se ha macellato un animale domestico, una bestia o un volatile; o si è occupata di macchie [di sangue]; o si è seduta accanto a chi ne maneggiava; o è passata per il mercato dei macellai, e in seguito è stato trovato sangue sulla sua camicia, è pura, e attribuisce la macchia a questi fattori da cui può essere venuta."
+    },
+    {
+      "n": 21,
+      "he": "נִמְצָא הַכֶּתֶם עַל בְּשָׂרָהּ בִּלְבַד אִם הַכֶּתֶם מֵחֲגוֹר וּלְמַטָּה טְמֵאָה. וְאִם נִתְהַפְּכָה וְקָפְצָה אֲפִלּוּ מֵחֲגוֹר וּלְמַעְלָה טְמֵאָה שֶׁאִלּוּ הָיָה דָּם זֶה מִן הַשְּׁחִיטָה אוֹ מִן הַשּׁוּק הָיָה לָהּ שֶׁיִּמָּצֵא גַּם עַל בְּגָדֶיהָ וְהוֹאִיל וְנִמְצָא עַל בְּשָׂרָהּ וְלֹא בְּבִגְדָּהּ טְמֵאָה.",
+      "it": "Se la macchia è trovata solo sul corpo: se è dalla cintura in giù, è impura. E se si è capovolta e ha saltato — anche se è dalla cintura in su — è impura: se infatti il sangue provenisse dalla macellazione o dal mercato, sarebbe finito anche sui suoi abiti; dato che si trova soltanto sul corpo e non sull'abito, è impura."
+    },
+    {
+      "n": 22,
+      "he": "הָיְתָה בָּהּ מַכָּה אַף עַל פִּי שֶׁחָיְתָה אִם יְכוֹלָה לְהִתְגַּלַּע וּלְהוֹצִיא דָּם וְנִמְצָא דָּם עַל בְּשָׂרָהּ תּוֹלָה בַּמַּכָּה. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה.",
+      "it": "Se aveva una ferita, anche se rimarginata, ma che potrebbe riaprirsi e perdere sangue, e si trova sangue sul suo corpo, lo attribuisce alla ferita. Lo stesso vale per ogni caso analogo."
+    },
+    {
+      "n": 23,
+      "he": "נִמְצָא הַכֶּתֶם עַל בְּגָדֶיהָ וּבְשָׂרָהּ כְּאֶחָד תּוֹלָה בְּכָל שֶׁיֵּשׁ לָהּ לִתְלוֹת. וְתוֹלָה בְּמַאֲכֹלֶת שֶׁמָּא בְּעֵת שֶׁיָּשְׁבָה נֶהֶרְגָה מַאֲכֹלֶת וְדָם זֶה דַּם מַאֲכֹלֶת הוּא. וְעַד כַּמָּה עַד כִּגְרִיס. אֲבָל אִם מָצְאָה הַכֶּתֶם יֶתֶר מִכִּגְרִיס אֵינָהּ תּוֹלָה בְּמַאֲכֹלֶת וַאֲפִלּוּ הָיְתָה מַאֲכֹלֶת רְצוּצָה בַּכֶּתֶם הוֹאִיל וְהוּא יֶתֶר מִכִּגְרִיס אֵינָהּ תּוֹלָה בְּמַאֲכֹלֶת.",
+      "it": "Se la macchia è trovata insieme sull'abito e sul corpo, può attribuirla a qualunque cosa cui sia attribuibile. Può anche attribuirla a un insetto schiacciato (ma'akòlet), pensando che mentre era seduta abbia ucciso un insetto e che il sangue sia di questo. Fino a che misura? Fino a un gris. Se la macchia è più grande di un gris, non la si attribuisce a un insetto schiacciato; e persino se vi si trova un insetto schiacciato dentro la macchia, dato che essa supera il gris non la si attribuisce all'insetto."
+    },
+    {
+      "n": 24,
+      "he": "וְכֵן תּוֹלָה בִּבְנָהּ וּבְבַעְלָהּ אִם הָיוּ עֲסוּקִין בְּדָם אוֹ שֶׁהָיוּ יְדֵיהֶן מְלֻכְלָכוֹת אוֹ שֶׁהָיְתָה בָּהֶן מַכָּה תּוֹלָה בָּהֶן וְאוֹמֶרֶת הֵן נָגְעוּ בָּהּ וְהִיא לֹא יָדְעָה וְדָם זֶה מֵחֲמָתָן הוּא.",
+      "it": "Lo stesso può attribuirla a suo figlio o a suo marito, se erano impegnati con del sangue, o avevano le mani sporche, o avevano una ferita: vi attribuisce la macchia dicendo che essi l'hanno toccata senza che lei se ne accorgesse, e che il sangue proviene da loro."
+    },
+    {
+      "n": 25,
+      "he": "אֵין מַחֲזִיקִין דָּם מִמָּקוֹם לְמָקוֹם לִתְלוֹת בּוֹ. כֵּיצַד. הָיְתָה לָהּ מַכָּה בִּכְתֵפָהּ וְנִמְצָא כֶּתֶם עַל שׁוֹקָהּ. אֵין אוֹמְרִין שֶׁמָּא בְּיָדֶיהָ נָגְעָה בַּמַּכָּה וְנָגְעָה בְּמָקוֹם זֶה. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה אֵין תּוֹלִין בּוֹ בֵּין בְּגוּפָהּ בֵּין בַּחֲלוּקָהּ.",
+      "it": "Non si presume che il sangue si sposti da un punto del corpo a un altro per fondarvi un'attribuzione. In che modo? Se aveva una ferita sulla spalla e si trova una macchia sul polpaccio, non si dice: «forse con le mani ha toccato la ferita e poi questo punto». E così in ogni caso analogo non vi si fa attribuzione, né sul corpo né sulla camicia."
+    },
+    {
+      "n": 26,
+      "he": "שְׁתֵּי נָשִׁים שֶׁנִּתְעַסְּקוּ בְּצִפּוֹר אֶחָד וְאֵין בּוֹ אֶלָּא כְּסֶלַע דָּם וְנִמְצָא עַל כָּל אַחַת מִשְּׁתֵּיהֶן כֶּתֶם כְּסֶלַע שְׁתֵּיהֶן טְמֵאוֹת. נִתְעַסְּקָה בְּדָם שֶׁאִי אֶפְשָׁר שֶׁיִּהְיֶה מִמֶּנּוּ כֶּתֶם אֶלָּא כִּגְרִיס וְנִמְצָא עָלֶיהָ כֶּתֶם כִּשְׁנֵי גְּרִיסִין הֲרֵי זוֹ תּוֹלָה כִּגְרִיס בַּדָּם שֶׁנִּתְעַסְּקָה בּוֹ וְכִגְרִיס בְּמַאֲכֹלֶת. נִמְצָא הַכֶּתֶם יֶתֶר מִכִּשְׁנֵי גְּרִיסִין טְמֵאָה.",
+      "it": "Due donne si sono occupate insieme di un uccellino che conteneva soltanto la quantità di sangue di un sela, e su ciascuna di esse è stata trovata una macchia delle dimensioni di un sela: entrambe sono impure. Se una si è occupata di una quantità di sangue tale da poter dare al massimo una macchia di un gris, e su di lei si trova una macchia di due gris, ne attribuisce un gris al sangue maneggiato e un gris a un insetto schiacciato. Se la macchia è maggiore di due gris, è impura."
+    },
+    {
+      "n": 27,
+      "he": "נִתְעַסְּקָה בְּאָדֹם אֵין תּוֹלָה בּוֹ שָׁחוֹר. נִתְעַסְּקָה בְּעוֹף שֶׁיֵּשׁ בּוֹ מִינֵי דָּם הַרְבֵּה וְנִמְצָא עָלֶיהָ מַרְאֶה אֶחָד מֵהֶן תּוֹלָה בּוֹ. הָיְתָה לוֹבֶשֶׁת שְׁלֹשָׁה חֲלוּקוֹת אִם יְכוֹלָה לִתְלוֹת תּוֹלָה אַף בַּתַּחְתּוֹן. וְאִם אֵינָהּ יְכוֹלָה לִתְלוֹת אֵינָהּ תּוֹלָה אַף בָּעֶלְיוֹן. כֵּיצַד. עָבְרָה בְּשׁוּק שֶׁל טַבָּחִים אַף עַל פִּי שֶׁנִּמְצָא הַכֶּתֶם עַל הַתַּחְתּוֹן לְבַדּוֹ תּוֹלָה בְּדַם הַטַּבָּחִים. לֹא עָבְרָה בְּשׁוּק הַטַּבָּחִים וְכַיּוֹצֵא בּוֹ אַף עַל פִּי שֶׁנִּמְצָא הַכֶּתֶם בָּעֶלְיוֹן לְבַדּוֹ הֲרֵי זוֹ טְמֵאָה סָפֵק עָבְרָה סָפֵק לֹא עָבְרָה סָפֵק נִתְעַסְּקָה סָפֵק לֹא נִתְעַסְּקָה אֵינָהּ תּוֹלָה.",
+      "it": "Se si è occupata di sangue rosso, non vi attribuisce una macchia nera. Se si è occupata di un volatile contenente più tipi di sangue, e su di lei si trova un colore tra quelli, glielo si attribuisce. Indossava tre camicie sovrapposte: se è possibile attribuire, può attribuire perfino alla camicia più interna; se non è possibile attribuire, non si attribuisce nemmeno alla camicia più esterna. In che modo? Se è passata per il mercato dei macellai, anche se la macchia si trova sulla sola camicia inferiore, la attribuisce al sangue dei macellai. Se non è passata per il mercato dei macellai o per un luogo simile, anche se la macchia è solo sulla camicia esterna, è impura. Se è dubbio se sia passata o no, dubbio se si sia occupata o no, non vi è attribuzione."
+    },
+    {
+      "n": 28,
+      "he": "עִיר שֶׁיֵּשׁ בָּהּ חֲזִירִים אוֹ שֶׁהֵם בָּאִין לָהּ תָּמִיד אֵין חוֹשְׁשִׁין לִכְתָמֶיהָ הַנִּמְצָאִין בַּחֲלוּקָהּ.",
+      "it": "In una città dove vi sono maiali, o dove ne arrivano regolarmente, non ci si preoccupa delle macchie trovate sulla camicia di una donna [perché possono provenire dai maiali]."
+    },
+    {
+      "n": 29,
+      "he": "הָאִשָּׁה שֶׁהִשְׁאִילָה חֲלוּקָהּ לְנִדָּה בֵּין עַכּוּ\"ם בֵּין יִשְׂרְאֵלִית וְחָזְרָה וְלָבְשָׁה אוֹתוֹ קֹדֶם בְּדִיקָה וּמָצְאָה עָלָיו כֶּתֶם הֲרֵי זוֹ תּוֹלָה בַּנִּדָּה שֶׁלָּבְשָׁה אוֹתוֹ. הִשְׁאִילָה אוֹתוֹ לְזָבָה קְטַנָּה בַּיּוֹם הַטָּמֵא שֶׁלָּהּ אוֹ לַיּוֹשֶׁבֶת עַל דַּם טֹהַר אוֹ לִבְתוּלָה שֶׁדָּמֶיהָ טְהוֹרִין הֲרֵי זוֹ תּוֹלָה בָּהּ. אֲבָל אִם הִשְׁאִילָה אוֹתוֹ לְזָבָה קְטַנָּה בַּיּוֹם הַשָּׁמוּר אוֹ לְזָבָה גְּדוֹלָה בְּשִׁבְעָה יָמִים נְקִיִּים וְחָזְרָה וְלָבְשָׁה אוֹתוֹ קֹדֶם בְּדִיקָה וְנִמְצָא עָלָיו כֶּתֶם שְׁתֵּיהֶן מְקֻלְקָלוֹת הַשּׁוֹאֶלֶת וְהַמַּשְׁאֶלֶת אוֹתָהּ שֶׁמָּא מִזּוֹ שֶׁמָּא מִזּוֹ. הִשְׁאִילָה אוֹתוֹ לְיוֹשֶׁבֶת עַל הַכֶּתֶם אֵינָהּ תּוֹלָה בָּהּ שֶׁאֵין תּוֹלִין כֶּתֶם בְּכֶתֶם.",
+      "it": "Una donna che ha prestato la propria camicia a una niddà — sia non ebrea sia ebrea — e poi se l'è rimessa addosso senza prima esaminarla, e vi ha trovato una macchia, attribuisce la macchia alla niddà che l'aveva indossata. Se l'aveva prestata a una zavà piccola in uno dei suoi giorni di impurità, o a una donna nel periodo del «sangue puro» del post-parto, o a una vergine i cui sangui sono puri, le attribuisce la macchia. Se invece l'aveva prestata a una zavà piccola in uno dei suoi giorni di osservazione (yom ha-shamùr), o a una zavà grande nei sette giorni netti, e l'ha indossata di nuovo senza prima esaminarla e vi è stata trovata una macchia, entrambe sono in stato di calendario sconvolto: la prenditrice e la prestatrice — per il dubbio sul donde provenga. Se l'aveva prestata a una donna che siede su una macchia [in stato di osservazione di macchia], non le si può attribuire la macchia, perché non si attribuisce una macchia a un'altra macchia."
+    },
+    {
+      "n": 30,
+      "he": "בָּדְקָה חֲלוּקָהּ וּבָדְקָה עַצְמָהּ וּמָצְאָה טָהוֹר וְהִשְׁאִילָה הֶחָלוּק לַחֲבֵרְתָהּ וּלְבָשַׁתּוּ וְנִמְצָא עָלָיו כֶּתֶם כְּשֶׁהֶחֱזִירָתוֹ לָהּ הַשּׁוֹאֶלֶת טְמֵאָה. וְאֵינָהּ תּוֹלָה בְּבַעֲלַת הֶחָלוּק שֶׁהֲרֵי בָּדְקָה אוֹתוֹ קֹדֶם שֶׁתַּשְׁאִילֵהוּ לָהּ.",
+      "it": "Se ha esaminato la camicia ed esaminato sé stessa trovandosi pura, e poi ha prestato la camicia all'amica che l'ha indossata, e quando questa gliel'ha restituita vi è stata trovata una macchia: la prenditrice è impura, e non può attribuire la macchia alla proprietaria della camicia, dato che lei l'aveva esaminata prima di prestargliela."
+    },
+    {
+      "n": 31,
+      "he": "אֲרֻכָּה שֶׁלָּבְשָׁה חֲלוּקָהּ שֶׁל קְצָרָה וְנִמְצָא בּוֹ כֶּתֶם אִם מַגִּיעַ כְּנֶגֶד בֵּית הַתֻּרְפָּה טְמֵאָה וְאִם לָאו טְהוֹרָה. שֶׁכֶּתֶם זֶה שֶׁל קְצָרָה הוּא.",
+      "it": "Una donna alta che ha indossato la camicia di una donna bassa, e vi è stata trovata una macchia: se la macchia raggiunge il livello del beit ha-turpà di lei [pur essendo la camicia più corta], è impura; altrimenti è pura, perché quella macchia è di proprietà della donna bassa."
+    },
+    {
+      "n": 32,
+      "he": "שָׁלֹשׁ נָשִׁים שֶׁלָּבְשׁוּ חָלוּק אֶחָד זוֹ אַחַר זוֹ וְאַחַר כָּךְ נִמְצָא עָלָיו כֶּתֶם. וְכֵן אִם יְשֵׁנוֹת בְּמִטָּה אַחַת כְּאַחַת וְנִמְצָא דָּם תַּחַת אַחַת מֵהֶן כֻּלָּן טְמֵאוֹת. וְאִם בָּדְקָה אַחַת מֵהֶן עַצְמָהּ מִיָּד וּמָצְאָה עַצְמָהּ טְמֵאָה הֲרֵי הַשְּׁתַּיִם טְהוֹרוֹת.",
+      "it": "Tre donne che hanno indossato la stessa camicia una dopo l'altra, e poi vi è stata trovata una macchia. Lo stesso se dormono insieme nello stesso letto e si trova del sangue sotto una di esse: tutte e tre sono impure. Se però una di loro si è esaminata immediatamente trovandosi impura, le altre due sono pure."
+    },
+    {
+      "n": 33,
+      "he": "בָּדְקוּ כֻּלָּן וּמָצְאוּ עַצְמָן טְהוֹרוֹת תּוֹלָה מִי שֶׁאֵינָהּ רְאוּיָה לִרְאוֹת דָּם בְּמִי שֶׁהִיא רְאוּיָה. וְתִהְיֶה שֶׁאֵינָהּ רְאוּיָה טְהוֹרָה וְהָרְאוּיָה טְמֵאָה. כֵּיצַד. הָיְתָה אַחַת מְעֻבֶּרֶת וְאַחַת אֵינָהּ מְעֻבֶּרֶת הַמְעֻבֶּרֶת טְהוֹרָה וְשֶׁאֵינָהּ מְעֻבֶּרֶת טְמֵאָה. מֵינִיקָה וְשֶׁאֵינָהּ מֵינִיקָה הַמֵּינִיקָה טְהוֹרָה. זְקֵנָה וְשֶׁאֵינָהּ זְקֵנָה הַזְּקֵנָה טְהוֹרָה. בְּתוּלָה וְשֶׁאֵינָהּ בְּתוּלָה הַבְּתוּלָה טְהוֹרָה. הָיוּ כֻּלָּן מְעֻבָּרוֹת כֻּלָּן זְקֵנוֹת כֻּלָּן מֵינִיקוֹת כֻּלָּן בְּתוּלוֹת הֲרֵי כֻּלָּן טְמֵאוֹת.",
+      "it": "Se tutte si sono esaminate e si sono trovate pure, chi non è incline a vedere sangue attribuisce la macchia a chi è incline a vederlo: la non incline è pura e l'incline è impura. In che modo? Se una era in gravidanza e l'altra no, la gravida è pura e la non gravida è impura. Una nutrice e una non nutrice: la nutrice è pura. Un'anziana e una non anziana: l'anziana è pura. Una vergine e una non vergine: la vergine è pura. Se erano tutte in gravidanza, tutte anziane, tutte nutrici, tutte vergini, sono tutte impure."
+    },
+    {
+      "n": 34,
+      "he": "שָׁלֹשׁ נָשִׁים שֶׁעָלוּ דֶּרֶךְ מַרְגְּלוֹת הַמִּטָּה וְיָשְׁנוּ כֻּלָּן וְנִמְצָא דָּם תַּחַת הָאֶמְצָעִית שְׁלָשְׁתָּן טְמֵאוֹת. תַּחַת הַפְּנִימִית הִיא וְשֶׁבְּצִדָּהּ טְמֵאוֹת וְהַחִיצוֹנָה טְהוֹרָה. תַּחַת הַחִיצוֹנָה הִיא וְשֶׁבְּצִדָּהּ טְמֵאוֹת וְהַפְּנִימִית טְהוֹרָה. וְאִם לֹא עָלוּ דֶּרֶךְ מַרְגְּלוֹת הַמִּטָּה שֶׁהֲרֵי אֵין לָהֶם סֵדֶר וְנִמְצָא דָּם תַּחַת אַחַת מֵהֶן כֻּלָּן טְמֵאוֹת.",
+      "it": "Tre donne che sono salite sul letto dai piedi e poi hanno tutte dormito: se si trova sangue sotto la donna in mezzo, tutte e tre sono impure; se si trova sotto quella più interna, lei e quella accanto sono impure, mentre l'esterna è pura; se sotto quella più esterna, lei e quella accanto sono impure e l'interna è pura. Se invece non sono salite dai piedi del letto — ossia non hanno un ordine definito — e si trova sangue sotto una di esse, tutte sono impure."
+    },
+    {
+      "n": 35,
+      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁבָּדְקוּ כֻּלָּן וּמָצְאוּ טָהוֹר וְלֹא תּוּכַל אַחַת מֵהֶן לִתְלוֹת בַּחֲבֵרְתָהּ כְּמוֹ שֶׁבֵּאַרְנוּ. אֲבָל אִם בָּדְקָה אַחַת וּמָצְאָה עַצְמָהּ טְהוֹרָה וַחֲבֵרְתָהּ לֹא בָּדְקָה תּוֹלָה הַטְּהוֹרָה בְּזוֹ שֶׁלֹּא בָּדְקָה וַהֲרֵי זוֹ שֶׁלֹּא בָּדְקָה טְמֵאָה.",
+      "it": "Quanto detto vale quando tutte si sono esaminate e si sono trovate pure, e nessuna può attribuire alla compagna come abbiamo spiegato. Ma se una si è esaminata trovandosi pura e l'altra non si è esaminata, la pura attribuisce la macchia a quella che non si è esaminata, e questa risulta impura."
+    },
+    {
+      "n": 36,
+      "he": "כָּל כֶּתֶם שֶׁנִּמְצָא עַל הַבֶּגֶד שֶׁאֵין לָהּ בְּמַה יִּתְלֶה אֵינוֹ מְטַמֵּא עַד שֶׁיִּוָּדַע שֶׁהוּא דָּם. וְאִם נִסְתַּפֵּק לָהֶם שֶׁמָּא הוּא דָּם אוֹ צֶבַע אָדֹם מַעֲבִירִין עָלָיו שִׁבְעָה סַמָּנִין אֵלּוּ עַל הַסֵּדֶר. אִם עָבַר אוֹ כֵּהָה עֵינוֹ הֲרֵי זֶה כֶּתֶם דָּם וּטְמֵאָה וְאִם עָמַד כְּמוֹת שֶׁהוּא הֲרֵי זֶה צֶבַע וּטְהוֹרָה.",
+      "it": "Ogni macchia trovata su un abito a cui non si può fare alcuna attribuzione non rende impura finché non sia accertato che si tratta di sangue. Se è dubbio se sia sangue o pigmento rosso, vi si applicano in ordine i sette reagenti che seguono. Se la macchia scompare o ne è impallidito il colore, è una macchia di sangue ed è impura; se invece resta com'era, è pigmento ed è pura."
+    },
+    {
+      "n": 37,
+      "he": "וְאֵלּוּ הֵן הַשִּׁבְעָה סַמָּנִים עַל סִדְרָן. רֹק תָּפֵל. וּלְעִיסַת גְּרִיסִין שֶׁל פּוֹל. וּמֵי רַגְלַיִם שֶׁהֶחֱמִיצוּ. וּבֹרִית. וְנֶתֶר. וְקִימוֹנְיָא. וְאַשְׁלָג. וְצָרִיךְ לְכַסְכֵּס שָׁלֹשׁ פְּעָמִים עַל כָּל סַם וְסַם וּמוֹלִיךְ וּמֵבִיא בְּכָל כִּסְכּוּס. הֶעֱבִירָן שֶׁלֹּא עַל הַסֵּדֶר אוֹ שֶׁהֶעֱבִירָן כְּאֶחָד לֹא עָשָׂה כְּלוּם. הִקְדִּים הָאַחֲרוֹנִים לָרִאשׁוֹנִים אֵלּוּ שֶׁהֶעֱבִיר בָּאַחֲרוֹנָה שֶׁהֵן הָרִאשׁוֹנִים עָלוּ לוֹ וְחוֹזֵר וּמַעֲבִיר אַחֲרֵיהֶם אַחֲרוֹנִים שֶׁהִקְדִּים עַד שֶׁיַּעַבְרוּ הַשִּׁבְעָה עַל הַסֵּדֶר.",
+      "it": "Questi sono i sette reagenti, nel loro ordine: saliva «scipita» (rok tafèl); poltiglia di fave masticate (gris di pol); urina inacidita; soda (borìt); natron (nèter); cimolia (kimonyà); allume (ashlàg). Occorre strofinare tre volte per ciascun reagente, andando avanti e indietro a ogni strofinata. Chi li applica non in ordine, o li applica tutti insieme, non ha fatto nulla di valido. Chi ha anticipato gli ultimi prima dei primi: quelli applicati per ultimi — che sono in realtà i primi nell'ordine — gli valgono, e dovrà poi tornare ad applicare dopo di essi gli ultimi che aveva anticipato, finché tutti e sette non siano stati passati nell'ordine corretto."
+    },
+    {
+      "n": 38,
+      "he": "אֵי זֶהוּ רֹק תָּפֵל שֶׁלֹּא טָעַם כְּלוּם מִתְּחִלַּת הַלַּיְלָה וְהָיָה יָשֵׁן מֵחֲצִי הַלַּיְלָה הָאַחֲרוֹן לְמָחָר קֹדֶם שֶׁיֹּאכַל נִקְרָא רֹק תָּפֵל. וְהוּא שֶׁלֹּא יָצָא רֹב דִּבּוּרוֹ עַד שָׁלֹשׁ שָׁעוֹת בַּיּוֹם. וְאִם הִשְׁכִּים וְשָׁנָה פִּרְקוֹ קֹדֶם שָׁלֹשׁ שָׁעוֹת אֵין זֶה רֹק תָּפֵל שֶׁהַדִּבּוּר מְבַטֵּל חֹזֶק הָרֹק וּמַחֲזִירוֹ כְּמַיִם. וְאֵי זוֹ הִיא לְעִיסַת גְּרִיסִין הוּא שֶׁיִּלְעֹס הַגְּרִיסִין עַד שֶׁיִּתְעָרֵב עִם הַפּוֹל רֹק הַרְבֵּה מִפִּיו. וְאֵי זֶהוּ מֵי רַגְלַיִם שֶׁהֶחֱמִיצוּ אַחַר שְׁלֹשָׁה יָמִים אוֹ יֶתֶר.",
+      "it": "Che cos'è la «saliva scipita»? Quella di chi non ha assaggiato nulla dall'inizio della notte, ha dormito dalla mezzanotte fino al mattino, e prima di mangiare la mattina seguente — questa è chiamata saliva scipita. E ciò a condizione che non abbia parlato a lungo entro le prime tre ore del giorno: se si è alzato presto e ha studiato la propria lezione (pirkò) prima delle tre ore, non è considerata saliva scipita, perché il parlare scioglie la consistenza della saliva e la riporta come acqua. Che cos'è la «poltiglia di gris di fave»? Che si mastichino i gris di fave finché non vi si mescoli abbondante saliva dalla bocca. E che cosa è l'«urina inacidita»? Quella che è stata conservata per tre giorni o più."
+    },
+    {
+      "n": 39,
+      "he": "כָּל אִשָּׁה שֶׁהִיא טְמֵאָה מִשּׁוּם כֶּתֶם אִם מָצְאָה הַכֶּתֶם בִּימֵי נִדָּתָהּ הֲרֵי זוֹ סְפֵק נִדָּה וְיוֹשֶׁבֶת עָלָיו שִׁבְעָה יָמִים וְטוֹבֶלֶת בְּלֵיל שְׁמִינִי וְאַחַר כָּךְ תִּהְיֶה מֻתֶּרֶת לְבַעְלָהּ. וְאִם מָצְאָה אוֹתוֹ בִּימֵי זִיבָתָהּ הֲרֵי זוֹ סְפֵק זָבָה גְּדוֹלָה אוֹ קְטַנָּה כְּמוֹ שֶׁנִּתְבָּאֵר בְּפֶרֶק זֶה. וְיוֹשֶׁבֶת יוֹם אֶחָד אִם הָיְתָה קְטַנָּה אוֹ שִׁבְעַת יָמִים נְקִיִּים אִם הָיְתָה גְּדוֹלָה מִסָּפֵק. וְהַכּל מִדִּבְרֵי סוֹפְרִים כְּמוֹ שֶׁבֵּאַרְנוּ. לְפִיכָךְ הַבָּא עָלֶיהָ בְּזָדוֹן מַכִּין אוֹתוֹ מַכַּת מַרְדּוּת וּפְטוּרִין מִקָּרְבָּן.",
+      "it": "Ogni donna che diventa impura per via di una macchia: se ha trovato la macchia nei suoi giorni di niddà, è niddà dubbia, deve attendere sette giorni e immergersi nella séra dell'ottavo, dopodiché è permessa al marito. Se l'ha trovata nei suoi giorni di zivà, è zavà dubbia — grande o piccola — come è stato esposto in questo capitolo: attende un solo giorno se sarebbe stata piccola, oppure sette giorni netti se sarebbe stata grande, in via dubitativa. Tutto ciò è di disposizione rabbinica come abbiamo spiegato. Per questo motivo, chi le si unisce intenzionalmente è punito con percosse di disciplina (makkàt mardùt) ed è esentato dal sacrificio."
+    }
+  ]
+}
