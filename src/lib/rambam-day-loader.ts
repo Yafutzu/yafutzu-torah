@@ -157,7 +157,7 @@ export async function loadRambamDay(date: Date): Promise<RambamDay> {
     perakim.push({
       ref,
       englishName: `${entry.name} ${entry.perek}`,
-      perek: entry.perek,
+      perek: Number(entry.perek),
       name_he: it?.data.name_he,
       name_it: it?.data.name_it,
       halachot: itHalachot,
