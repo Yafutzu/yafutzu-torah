@@ -25,7 +25,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs";
 import path from "path";
 
-const FB_KEY = "AIzaSyCYqa2tVY0YaM4noiT2R_ZJbFMJVE_AuCg";
+const FB_KEY = process.env.FB_KEY ?? (() => { throw new Error("FB_KEY env var required"); })();
 const FB_PROJECT = "dach-dev";
 const FB_BASE = `https://firestore.googleapis.com/v1/projects/${FB_PROJECT}/databases/(default)/documents`;
 const THROTTLE_MS = Number(process.env.DACH_THROTTLE_MS ?? 250);
