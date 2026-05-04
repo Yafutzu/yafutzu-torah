@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 import { GlossedItalian, type GlossaryTerm } from "@/components/GlossedItalian";
+import TorahBreadcrumb from "@/components/TorahBreadcrumb";
 import {
   DEFAULT_LANG,
   LANG_STORAGE_KEY,
@@ -65,6 +66,15 @@ export function RambamDayReader({
 
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
+      {/* Wayfinding breadcrumb (top of every Torah text page) */}
+      <TorahBreadcrumb
+        trail={[
+          { label: "Yafutzu Torah", href: "/" },
+          { label: "Rambam", href: "/rambam/today" },
+          { label: gregorian },
+        ]}
+      />
+
       <div className="flex items-start justify-between gap-4 mb-8">
         <div>
           <h1 className="text-3xl font-bold text-stone-900">

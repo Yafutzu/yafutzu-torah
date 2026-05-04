@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 import { GlossedItalian, type GlossaryTerm } from "@/components/GlossedItalian";
+import TorahBreadcrumb from "@/components/TorahBreadcrumb";
 import {
   DEFAULT_LANG,
   LANG_STORAGE_KEY,
@@ -59,6 +60,15 @@ export function ItDemoReader({
 
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
+      {/* Wayfinding breadcrumb (top of every Torah text page) */}
+      <TorahBreadcrumb
+        trail={[
+          { label: "Yafutzu Torah", href: "/" },
+          { label: "Italiano", href: "/it-demo" },
+          { label: sefariaRef },
+        ]}
+      />
+
       <div className="flex items-start justify-between gap-4 mb-8">
         <div>
           <a
