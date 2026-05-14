@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 28",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כח",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera della Santità), lettera 28",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-20",
+  "hebrew_date": "9 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הִתְפַּעֲלוּת אֲמִתִּית בָּאָה מִתּוֹךְ עֲמָקוּת הַהִתְבּוֹנְנוּת…",
+      "it": "Questa lettera distingue tra due tipi di hitpa'alut (commozione emotiva nella preghiera e nello studio): quella autentica e quella artificiale. La hitpa'alut autentica emerge da hitbonenut profonda (contemplazione meditativa) — quando l'intelletto ha realmente appreso e interiorizzato un concetto divino, le emozioni (middot) reagiscono spontaneamente e naturalmente. Come il calore del corpo segue il fuoco: la commozione autentica è una conseguenza organica della comprensione, non uno sforzo separato."
+    },
+    {
+      "n": 2,
+      "he": "אֲבָל הַהִתְפַּעֲלוּת הַחִיצוֹנִית — שֶׁמִּתְלַהֵב בְּלֹא הִתְבּוֹנְנוּת — הִיא אֵשׁ זָרָה…",
+      "it": "La hitpa'alut artificiale — eccitarsi emotivamente senza la base della hitbonenut — è paragonata all'«aish zarah» (fuoco straniero) che i figli di Aronne portarono nel Tempio e che li consumò (Vayikra 10:1-2). È un'emozione che non proviene dalla comprensione interiore ma dall'exterior — dalla performance, dall'imitazione, o dall'autoingannamento. Tale entusiasmo superficiale non sale verso D-o ma rimane nel proprio ego. Peggio: può diventare un ostacolo alla vera avodah, poiché l'uomo si soddisfa di un'emozione che non ha radici. L'Alter Rebbe avverte: non confondere l'entusiasmo con la spiritualità."
+    },
+    {
+      "n": 3,
+      "he": "לָכֵן עִקַּר הָעֲבוֹדָה — הִיא הַהִתְבּוֹנְנוּת תְּחִלָּה, וְאַחַר כָּךְ תָּבוֹא הַהִתְפַּעֲלוּת…",
+      "it": "Il Rambam spirituale (l'Alter Rebbe) stabilisce l'ordine corretto della avodah chassidit: prima la hitbonenut — studio e contemplazione profonda di un concetto divino (ad esempio, la grandezza di D-o, la nullità del creato, l'amore che D-o porta a ogni ebreo) — e poi, come conseguenza naturale, la hitpa'alut. Chi inverte l'ordine e cerca l'emozione senza la base intellettuale — costruisce su sabbia. La tradizione di Chabad enfatizza questa sequenza: «da'at» (conoscenza profonda) deve precedere «ahavah» e «yirah»; solo così le emozioni sono radicate e autentiche. Guideline pratica: dedicare tempo alla preparazione mentale prima della preghiera (hachanah la-tefillah)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hitpa'alut", "hitbonenut", "middot", "aish zarah", "avodah", "da'at", "ahavah", "yirah", "hachanah la-tefillah"
+  ]
+}

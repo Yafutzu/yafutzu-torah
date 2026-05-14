@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shemitah VeYovel 9-11",
+  "name_he": "משנה תורה, הלכות שמיטה ויובל פרקים ט–יא",
+  "name_it": "Mishneh Torah, Leggi dello Shemitah e del Giubileo, capitoli 9–11",
+  "cycle": "rambam-3",
+  "date": "2026-06-28",
+  "hebrew_date": "13 Tammuz 5786",
+  "halachot_count": 29,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "הַלּוֹקֵחַ מֵעַם הָאָרֶץ בְּשְׁבִיעִית...",
+      "it": "Chi compra da un am ha-aretz durante la shemitah: se si compra cibo durante la shemitah da qualcuno sospettato di non osservare le leggi, il compratore deve trattare il cibo acquistato con la kedushah della shemitah come misura precauzionale. Il denaro pagato acquista la kedushah e può essere usato solo per comprare altro cibo."
+    },
+    {
+      "n": "9:2-5",
+      "he": "הַחֶנְוָנִי הַנֶּאֱמָן...",
+      "it": "Il negoziante affidabile (ne'eman): per poter essere considerato affidabile nelle leggi della shemitah, il negoziante deve essere noto per la sua osservanza. Un ne'eman dichiara che i suoi prodotti sono stati acquistati nei modi permessi. Comprando da lui, il compratore non ha bisogno di prendere precauzioni aggiuntive. La fiducia (emunat chachamim) nella catena di custodia del cibo è essenziale."
+    },
+    {
+      "n": "9:6-9",
+      "he": "פֵּרוֹת שְׁבִיעִית בְּחוּצָה לָאָרֶץ...",
+      "it": "I frutti di shemitah portati fuori da Eretz Israel: devono essere trattati con kedushah anche in diaspora. Se qualcuno porta un frutto di shemitah dalla Terra d'Israele, il compratore in diaspora deve rispettare le leggi della shemitah per quel frutto. L'esportazione di frutti di shemitah solleva questioni halachiche che il Rambam esamina con dettaglio."
+    },
+    {
+      "n": "9:10-12",
+      "he": "אֵין מַנִּיחִין לַבֶּהֱמָה לְרַעוֹת בִּשְׁדוֹת שְׁמִיטָה...",
+      "it": "Non si lascia il bestiame pascolare nei campi dove crescono frutti di shemitah: i frutti della shemitah sono destinati al consumo umano — 'lema'achalcha' (per il tuo mangiare). Darli al bestiame è consentito solo per specie che normalmente si danno agli animali (ad esempio la paglia). Il bestiame può pascolare liberamente nelle stoppie dei campi di shemitah, ma non consumare i frutti principali."
+    },
+    {
+      "n": "10:1",
+      "he": "מִצְוַת שְׁמִיטַת כְּסָפִים — לִשְׁמֹט...",
+      "it": "La shemitat kesafim in dettaglio: il creditore deve 'abbandonare' (shemot) il prestito nell'anno settimo. Il momento dell'annullamento è al tramonto dell'ultimo giorno del settimo anno (erev Rosh Hashanah dell'ottavo anno). Da quel momento, il debitore è libero dal debito. Il creditore che chiede ancora il debito dopo questo momento viola un precetto negativo."
+    },
+    {
+      "n": "10:2-5",
+      "he": "הַמּוֹסֵר שְׁטַרוֹתָיו לְבֵית דִּין...",
+      "it": "Chi consegna i propri atti di prestito al Bet Din: questo è il meccanismo del Pruzbul. Non tutti i tipi di prestito possono essere inclusi nel Pruzbul — solo i prestiti che sono documentati per iscritto (shtar) o che il debitore ha ammesso davanti al Bet Din. I prestiti solo verbali senza testimoni non possono essere inclusi nel Pruzbul secondo alcune opinioni."
+    },
+    {
+      "n": "10:6-9",
+      "he": "הַמַּחֲזִיר חוֹב לְאַחַר שְׁמִיטָה...",
+      "it": "Chi restituisce un debito dopo la shemitah spontaneamente: il creditore deve dire: 'Shemato' — 'Lo hai (già) annullato.' Se il debitore insiste nel pagare, il creditore può accettare, e si considera un atto di bontà (middat chassidut). Il Rambam lodando questa pratica mostra l'equilibrio tra il rispetto della shemitah e il riconoscimento dei debiti morali."
+    },
+    {
+      "n": "11:1",
+      "he": "שְׁנַת הַיּוֹבֵל — כָּל חֲמִשִּׁים שָׁנָה...",
+      "it": "Il Yovel (Giubileo): ogni cinquantesimo anno (dopo sette cicli di sette anni) è anno di Yovel. Nel Yovel: tutti gli schiavi ebrei (avadim ivrim) vengono liberati, tutte le terre ancestrali ritornano alle famiglie originali, e le leggi dello shemitah si applicano anche a questo anno. La Torah dice: 'U-keratem deror ba-aretz' — proclamerete la libertà nella terra (Levitico 25:10)."
+    },
+    {
+      "n": "11:2-5",
+      "he": "שׁוֹפַר בְּרֹאשׁ הַשָּׁנָה...",
+      "it": "Il shofar nel Yom Kippur del Yovel: nel decimo di Tishrei dell'anno del Yovel si suona il shofar in tutto il paese e si proclama la libertà. Il shofar del Yovel è il grande annuncio della liberazione universale. 'Ve-kidashtem et shenat hachamishim shanah' — consacrerete l'anno cinquantesimo (Levitico 25:10). È l'unico anno in cui il shofar si suona a Yom Kippur."
+    },
+    {
+      "n": "11:6-9",
+      "he": "יוֹבֵל מַשְׁמֵד אֶת הָעֲבָדִים...",
+      "it": "Il Yovel libera gli schiavi ebrei: anche lo schiavo ebreo 'perforato' (eved nirtzah, che ha scelto di rimanere schiavo) viene liberato automaticamente nel Yovel. Non c'è scelta — nel Yovel tutti gli schiavi ebrei diventano liberi, indipendentemente dai contratti precedenti. Questo è il vertice del principio ebraico di libertà: 'Ki li Bnei Yisrael avadim' — poiché a Me i figli d'Israele sono schiavi (solo a Dio, non agli uomini)."
+    }
+  ],
+  "_glossary_terms_used": ["shemitat kesafim", "Pruzbul", "Bet Din", "Yovel", "shofar", "avadim ivrim", "eved nirtzah", "kedushah", "ne'eman", "shemitah", "deror", "middat chassidut"]
+}

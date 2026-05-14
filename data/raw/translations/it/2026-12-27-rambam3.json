@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Melachim 9-11",
+  "name_he": "משנה תורה, הלכות מלכים ומלחמות פרקים ט-יא",
+  "name_it": "Mishneh Torah, Leggi dei Re e delle Guerre, capitoli 9-11",
+  "cycle": "rambam-3",
+  "date": "2026-12-27",
+  "hebrew_date": "18 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Melachim 9:1-5",
+      "he": "שֶׁבַע מִצְווֹת שֶׁנִּצְטַוּוּ בְּנֵי נֹחַ…",
+      "it": "(Melachim cap. 9, hal. 1-5) Le sette mitzvot dei figli di Noach (sheva mitzvot b'nei Noach): il codice morale universale che D-o ha dato all'umanità attraverso Noach dopo il Diluvio. Le sette: (1) divieto di idolatria (avodah zarah); (2) divieto di bestemmia (birkat Hashem); (3) divieto di omicidio (shefikhut damim); (4) divieto di immoralità sessuale (gilui arayot); (5) divieto di furto (gezel); (6) divieto di mangiare un arto strappato da un animale vivo (ever min ha-chai); (7) obbligo di istituire tribunali di giustizia (dinim)."
+    },
+    {
+      "n": "Melachim 10:1-5",
+      "he": "בֶּן נֹחַ שֶׁקִּיֵּם שֶׁבַע מִצְווֹתָיו — יֵשׁ לוֹ חֵלֶק לָעוֹלָם הַבָּא…",
+      "it": "(Melachim cap. 10, hal. 1-5) Un non ebreo che osserva le sette leggi noachidi ha una parte nel Mondo a Venire (Olam HaBa). La condizione: deve osservarle «perché D-o le ha comandate nella Torah» — non semplicemente perché lo ritiene logico o conveniente. La ragione: il Rambam distingue tra moralità razionale (che l'uomo può derivare dal ragionamento) e moralità divina (che riconosce D-o come fondamento). La persona giusta tra le nazioni (chasid umot ha-olam) che si comporta moralmente per fede in D-o — riceve la ricompensa dell'Olam HaBa."
+    },
+    {
+      "n": "Melachim 11:1-5",
+      "he": "הַמֶּלֶךְ הַמָּשִׁיחַ — עָתִיד לַעֲמֹד וּלְהַחֲזִיר מַלְכוּת דָּוִד לְיִשְׁנָהּ…",
+      "it": "(Melachim cap. 11, hal. 1-5) Il re Mashiach (Messia): destinato a sorgere e a restaurare il regno davidico. Il Rambam definisce i segni del Mashiach: sarà un re della casa di David che studia Torah e pratica le mitzvot come David suo antenato, convincerà tutto Israele ad andare per la «via del Torah» e a rafforzarsi nel suo osservanza, combatterà le guerre di D-o. Se sorge un uomo dalla casa di David che studia Torah e pratica le mitzvot secondo la Torah scritta e orale, e obbliga tutto Israele a camminare nella sua via e combatte le guerre di D-o — allora è il presunto Mashiach."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sheva mitzvot b'nei Noach", "avodah zarah", "shefikhut damim", "ever min ha-chai", "dinim", "Olam HaBa", "chasid umot ha-olam", "Mashiach"
+  ]
+}

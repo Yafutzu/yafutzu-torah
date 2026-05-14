@@ -1,0 +1,32 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 1",
+  "name_he": "משנה תורה, הלכות אישות, פרק א",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-24",
+  "hebrew_date": "11 Elul 5786",
+  "halachot_count": 4,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "קודם מתן תורה — היה אדם פוגע אשה בשוק, אם רצה הוא והיא, נותן לה שכרה ובועל אותה על אם הדרך והולך. וזו היא הנקראת קדשה. משנתנה תורה, נאסרה הקדשה.",
+      "it": "Prima del Dono della Torah, un uomo poteva incontrare una donna nel mercato e, se lui e lei lo desideravano, egli le dava un compenso e aveva rapporti con lei per strada, poi se ne andava. Questa era chiamata kedeshah (prostituta). Da quando fu data la Torah, la kedeshah è proibita. Inizia il Sefer Nashim (Libro delle Donne)."
+    },
+    {
+      "n": 2,
+      "he": "מצות עשה של תורה שאם ירצה האיש לישא אשה, יקנה אותה תחילה לפני עדים. ואחר קניין זה — תהיה לו לאשה. שנאמר: 'כי יקח איש אשה ובעלה'.",
+      "it": "Il precetto positivo (mitzva aseh) della Torah è che se un uomo desidera sposare una donna, deve prima acquisirla (kiddushin — betrothal, letteralmente: santificazione) davanti a testimoni. Solo dopo questa acquisizione ella è sua moglie, come è detto: 'Quando un uomo prende una donna e la sposa' (Deuteronomio 24:1)."
+    },
+    {
+      "n": 3,
+      "he": "ובשלשה דברים קונה אשה: בכסף, ובשטר, ובביאה. בין שקדשה בכולם, בין שקדשה באחד מהם — מקודשת.",
+      "it": "Una donna viene acquisita (mekudeshet — fidanzata/consacrata) in tre modi: mediante denaro (kesef), mediante un documento (shtar), mediante coabitazione (biah). Che l'abbia acquisita con tutti e tre o con uno solo di essi — è fidanzata (mekudeshet)."
+    },
+    {
+      "n": 4,
+      "he": "ואין האשה מתקדשת אלא לדעתה. ואם קידשה בעל כורחה — אינה מקודשת. שנאמר: 'תצא מביתו' — מדעתה תצא.",
+      "it": "La donna non diviene fidanzata se non con il suo consenso. Se la fidanzò contro la sua volontà — non è fidanzata (einah mekudeshet). La Torah implica che la sua partenza [dalla casa del marito nel divorzio] sia di sua volontà, il che suggerisce che anche l'ingresso [nel matrimonio] richieda il suo consenso."
+    }
+  ],
+  "_glossary_terms_used": ["kedeshah", "mitzva aseh", "kiddushin", "mekudeshet", "kesef", "shtar", "biah", "Sefer Nashim", "einah mekudeshet"]
+}

@@ -1,0 +1,127 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 13",
+  "name_he": "משנה תורה, הלכות גירושין, פרק יג",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 13",
+  "cycle": "rambam-1",
+  "date": "2026-09-30",
+  "hebrew_date": "19 Tishrei 5787",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "גֵּט שֶׁהִגִּיעַ לְאַחַר מוֹת הָאִשָּׁה — הַגֵּט בָּטֵל. שֶׁאֵין גֵּרוּשִׁין לְאַחַר מִיתָה.",
+      "it": "Un get giunto dopo la morte della moglie — il get è nullo. Perché non vi è divorzio dopo la morte."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד? שָׁלַח לָהּ גֵּט עִם שָׁלִיחַ, וּמֵתָה הָאִשָּׁה קֹדֶם שֶׁהִגִּיעַ הַגֵּט — הַגֵּט אֵינוֹ חָל.",
+      "it": "Come? Ha inviato il get con un agente, e la donna è morta prima che il get arrivasse — il get non ha effetto."
+    },
+    {
+      "n": 3,
+      "he": "הִגִּיעַ הַגֵּט בִּשְׁעָה שֶׁהָיְתָה בְּגָסִיסָה — הַגֵּט חָל, שֶׁעֲדַיִן הָיְתָה חַיָּה בְּשָׁעַת קַבָּלָה.",
+      "it": "Se il get è arrivato mentre era in agonia — il get ha effetto, perché era ancora viva al momento della ricezione."
+    },
+    {
+      "n": 4,
+      "he": "הָיְתָה בִּתְרְדֵּמָה — בְּמַחְלֹקֶת: יֵשׁ אוֹמְרִים שֶׁאֵינָהּ יְכוֹלָה לְקַבֵּל גֵּט, וְיֵשׁ אוֹמְרִים יְכוֹלָה.",
+      "it": "Se era in coma — vi è una disputa: c'è chi dice che non può ricevere il get, e chi dice che può."
+    },
+    {
+      "n": 5,
+      "he": "הָרַמְבַּ\"ם פָּסַק: הָיְתָה בְּתַרְדֵּמָה — אֵינָהּ יְכוֹלָה לְקַבֵּל גֵּט. שֶׁצָּרִיךְ דַּעַת בְּקַבָּלַת הַגֵּט.",
+      "it": "Il Rambam ha stabilito: se era in coma — non può ricevere il get. Perché occorre consapevolezza nella ricezione del get."
+    },
+    {
+      "n": 6,
+      "he": "הָיְתָה שׁוֹנָה בְּדַעְתָּהּ — יֵשׁ לִבְדֹּק אִם יֵשׁ לָהּ כְּדֵי דַּעַת לִקְבַּל.",
+      "it": "Se aveva la mente turbata — si verifica se ha sufficiente consapevolezza per ricevere."
+    },
+    {
+      "n": 7,
+      "he": "הַגֵּט שֶׁנִּכְתַּב קֹדֶם שֶׁמֵּת הַבַּעַל וְנִתַּן לְאַחַר מוֹתוֹ — פָּסוּל.",
+      "it": "Il get scritto prima della morte del marito e consegnato dopo la sua morte — è invalido."
+    },
+    {
+      "n": 8,
+      "he": "כֵּיצַד? שָׁלַח גֵּט עִם שָׁלִיחַ, מֵת הַבַּעַל, וְאַחַר כָּך הִגִּיעַ הַשָּׁלִיחַ — הַגֵּט בָּטֵל. שֶׁהַשְּׁלִיחוּת נִפְסְקָה בְּמוֹת הַמְמַנֶּה.",
+      "it": "Come? Ha inviato il get con un agente, il marito è morto, e poi l'agente è arrivato — il get è nullo. Perché la delega si interrompe alla morte del delegante."
+    },
+    {
+      "n": 9,
+      "he": "הַגֵּט שֶׁנִּכְתַּב בִּשְׁנֵי בָּתֵּי דִּין — כָּשֵׁר אִם כָּל אֶחָד נָחוּץ לְשַׁלְשֶׁלֶת הַגֵּרוּשִׁין.",
+      "it": "Il get trattato in due tribunali diversi — è valido se ognuno era necessario alla catena del divorzio."
+    },
+    {
+      "n": 10,
+      "he": "גֵּט שֶׁנִּכְתַּב בְּמֶרְכָּזִים שׁוֹנִים בְּעֵינָיו — כָּשֵׁר אִם נִשְׁמְרָה שַׁלְשֶׁלֶת הָרְצוֹן שֶׁל הַבַּעַל.",
+      "it": "Un get scritto in luoghi diversi ai suoi occhi — è valido se si è mantenuta la catena della volontà del marito."
+    },
+    {
+      "n": 11,
+      "he": "מָקְרֵי מְחִיַּת שֵׁם הַבַּעַל — אִם נִמְחָה שְׁמוֹ הַמּוּכָּר בָּעִיר לְאַחַר כְּתִיבַת הַגֵּט — מַחְלֹקֶת בְּדִיעֲבַד.",
+      "it": "Caso di cancellazione del nome del marito — se il suo nome noto in città fu cancellato dopo la scrittura del get — vi è una disputa su cosa fare dopo il fatto."
+    },
+    {
+      "n": 12,
+      "he": "גֵּט שֶׁנִּכְתַּב בְּלֶאְחַר הַגֵּרוּשִׁין — בָּטֵל לְגַמְרֵי. שֶׁאֵין גֵּט לְאַחַר גֵּרוּשִׁין.",
+      "it": "Un get scritto dopo il divorzio — è completamente nullo. Perché non vi è get dopo il divorzio."
+    },
+    {
+      "n": 13,
+      "he": "מִקְרֵי סָפֵק בְּמְצִיאַת הַגֵּט — אִשָּׁה שֶׁמָּצְאָה גֵּט בְּיָדָהּ וְאֵינָהּ יוֹדַעַת מֵהֵיכָן בָּא — לְחֻמְרָה.",
+      "it": "Caso di dubbio nel trovare il get — una donna che ha trovato un get in mano e non sa da dove è venuto — si è severi."
+    },
+    {
+      "n": 14,
+      "he": "מָצְאָה גֵּט בֵּין כְּתָבֶיהָ — אֵינָהּ יוֹדַעַת אִם נִתַּן לָהּ — לֹא תִּנָּשֵׂא עַד שֶׁתְּבָרֵר.",
+      "it": "Ha trovato un get tra le sue carte — non sa se le fu consegnato — non può risposarsi finché non chiarisce."
+    },
+    {
+      "n": 15,
+      "he": "אָמַר הַבַּעַל: 'הַגֵּט הַזֶּה — נָתַתִּי לָהּ' — מְגֹרֶשֶׁת.",
+      "it": "Se il marito dice: 'Questo get — l'ho consegnato a lei' — lei è divorziata."
+    },
+    {
+      "n": 16,
+      "he": "אָמַר הַבַּעַל: 'הַגֵּט הַזֶּה — לֹא נָתַתִּי לָהּ' — לֹא נִתְגָּרְשָׁה.",
+      "it": "Se il marito dice: 'Questo get — non l'ho consegnato a lei' — non è divorziata."
+    },
+    {
+      "n": 17,
+      "he": "הָאִשָּׁה אוֹמֶרֶת 'קִבַּלְתִּי' וְהַבַּעַל אוֹמֵר 'לֹא נָתַתִּי' — עָלֶיהָ הָרְאָיָה.",
+      "it": "La donna dice 'Ho ricevuto' e il marito dice 'Non ho consegnato' — spetta a lei la prova."
+    },
+    {
+      "n": 18,
+      "he": "הָאִשָּׁה שֶׁנִּשֵּׂאת בְּסָפֵק גֵּרוּשִׁין — בֵּית דִּין יוֹדְעִין לְדוֹן בָּהּ בְּכָל מָקוֹם שֶׁהִגִּיעָה.",
+      "it": "La donna che si è sposata in stato di dubbio di divorzio — il tribunale sa come decidere riguardo a lei in qualsiasi luogo in cui si trovi."
+    },
+    {
+      "n": 19,
+      "he": "הַמְּחַיֵּב הַגֵּרוּשִׁין — הוּא הַיּוֹצֵר לָהּ הַסְּבָרָה. 'סֵפֶר כְּרִיתֻת' — מַרְחִיק אֶת הָאִישׁ מֵאִשְׁתּוֹ לְגַמְרֵי.",
+      "it": "L'atto di divorzio obbligatorio — è ciò che le crea la possibilità di vita. 'Documento di separazione' — separa completamente l'uomo dalla moglie."
+    },
+    {
+      "n": 20,
+      "he": "סִיּוּם: נִגְמְרוּ הִלְכוֹת גֵּרוּשִׁין. רְאֵה מַה גָּדוֹל עֹמֶק הַהֲלָכָה — מִדַּת הָרַחֲמִים וְהַצֶּדֶק שְׁלוּבִים זֶה בָּזֶה בְּכָל פֵּרוּט.",
+      "it": "Conclusione: Si concludono le Leggi del Divorzio (Hilchot Gerushin). Vedi quanto è grande la profondità della halakhah — la misericordia e la giustizia si intrecciano in ogni dettaglio."
+    },
+    {
+      "n": 21,
+      "he": "הַגֵּרוּשִׁין הֵם תַּקָּנָה גְּדוֹלָה שֶׁל הַתּוֹרָה — שֶׁלֹּא יִשְׁאְרוּ אֲנָשִׁים קְשׁוּרִים בְּנִשּׂוּאִין שֶׁאֵינָם מַצְלִיחִים, וְלֹא יֵשׁ צֹרֶך לְסַכֵּן נֶפֶשׁ.",
+      "it": "Il divorzio è una grande disposizione della Torah — affinché le persone non rimangano legate in matrimoni falliti, e non sia necessario mettere in pericolo la vita."
+    },
+    {
+      "n": 22,
+      "he": "יַחַד עִם זֹאת, הַגֵּרוּשִׁין — דָּבָר צָר וְכָאֵב. 'כִּי שָׂנֵא שַׁלַּח' — הַתּוֹרָה אוֹמֶרֶת. מִי שֶׁמְּגָרֵשׁ — הַמִּזְבֵּחַ מְזִיל עָלָיו דְּמָעוֹת. שֶׁהַנִּשּׂוּאִין אִם הֵם טוֹבִים — הֵם יַחַד גָּדוֹל.",
+      "it": "Allo stesso tempo, il divorzio — è qualcosa di stretto e doloroso. 'Perché odia la separazione' — dice la Torah. Chi divorzia — l'altare versa lacrime su di lui. Perché il matrimonio, se è buono — è una grande unione."
+    },
+    {
+      "n": 23,
+      "he": "חוֹל הַמּוֹעֵד סוּכּוֹת — שָׁלֹשׁ שָׁנִים שֶׁל יִמֵּי שִׂמְחָה. בְּסִיּוּם הִלְכוֹת גֵּרוּשִׁין — נִזְכּוֹר שֶׁהַתּוֹרָה שֶׁל חֶסֶד אָמַר: 'בְּנֵי אָדָם, חִיּוּ טוֹב זֶה עִם זֶה.' סִיּוּם.",
+      "it": "Chol HaMoed Sukkot — giorni di grande gioia. Nel concludere le Leggi del Divorzio — ricordiamo che la Torah della grazia dice: 'Figli dell'uomo, vivete bene gli uni con gli altri.' Fine. Si concludono le Leggi del Divorzio."
+    }
+  ],
+  "_glossary_terms_used": ["get", "gerushin", "sefer kritut", "tardema", "beit din", "Chol HaMoed"]
+}

@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Me'ilah 8; Hilchot Korban Pesach 1-2",
+  "name_he": "משנה תורה, הלכות מעילה פרק ח; הלכות קרבן פסח פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi della Violazione Sacrilega cap. 8; Leggi del Sacrificio Pasquale capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-07-31",
+  "hebrew_date": "17 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "מְעִילָה מִדִּבְרֵי חֲכָמִים — יֵשׁ דְּבָרִים שֶׁאֵין בָּהֶם מְעִילָה מִן הַתּוֹרָה אֲבָל חֲכָמִים גָּזְרוּ עֲלֵיהֶם.",
+      "it": "Me'ilah rabbinica — vi sono cose non soggette alla me'ilah biblica ma per le quali i Saggi hanno decretato una me'ilah rabbinica, per salvaguardia."
+    },
+    {
+      "n": "8:2",
+      "he": "כְּגוֹן פֵּרוֹת שְׁנִיָּה שֶׁנִּכְנְסוּ לִירוּשָׁלַיִם — יֵשׁ בָּהֶן מְעִילָה מִדִּבְרֵיהֶם.",
+      "it": "Ad esempio i frutti del secondo decimo (ma'aser sheni) portati a Gerusalemme — sono soggetti alla me'ilah rabbinica."
+    },
+    {
+      "n": "8:3",
+      "he": "סִיּוּם. סְלִיקוּ הִלְכוֹת מְעִילָה. סְלִיק סֵפֶר עֲבוֹדָה. וְאַחֲרָיו מַתְחִיל סֵפֶר קָרְבָּנוֹת.",
+      "it": "Conclusione. Si concludono le Leggi della Violazione Sacrilega. Si conclude il Sefer Avodah (Libro del Servizio Divino). Con la ricostruzione del Tempio possa iniziare il Sefer Korbanot (Libro dei Sacrifici) nella realtà! Inizia ora il Sefer Korbanot."
+    },
+    {
+      "n": "1:1",
+      "he": "מִצְוַת עֲשֵׂה לִשְׁחֹט אֶת קָרְבַּן הַפֶּסַח בְּאַרְבָּעָה עָשָׂר בְּנִיסָן בֵּין הָעַרְבַּיִם, שֶׁנֶּאֱמַר: 'וְשָׁחֲטוּ אֹתוֹ כֹּל קְהַל עֲדַת יִשְׂרָאֵל בֵּין הָעַרְבָּיִם'.",
+      "it": "Vi è un commandamento positivo di macellare il sacrificio pasquale (korban Pesach) il quattordici di Nisan al tramonto (bein ha-arbayim), come è detto: 'E tutta la comunità d'Israele lo macelli al tramonto' (Esodo 12:6)."
+    },
+    {
+      "n": "1:2",
+      "he": "הַחַיָּב בְּקָרְבַּן פֶּסַח — כָּל אִישׁ יִשְׂרָאֵל. וְנָשִׁים — חַיָּבוֹת אַף הֵן מִן הַתּוֹרָה.",
+      "it": "Chi è obbligato nel korban Pesach — ogni uomo d'Israele. Le donne — sono anch'esse obbligate dalla Torah (poiché erano incluse nel miracolo dell'Esodo)."
+    },
+    {
+      "n": "1:3",
+      "he": "קָרְבַּן פֶּסַח — מִן הַכְּבָשִׂים אוֹ מִן הָעִזִּים, זָכָר בֶּן שָׁנָה תָּמִים.",
+      "it": "Il korban Pesach — dagli agnelli o dalle capre, maschio del primo anno, privo di difetti (tamim)."
+    },
+    {
+      "n": "2:1",
+      "he": "שׁוֹחֲטִין אוֹתוֹ בְּאַרְבָּעָה עָשָׂר בְּנִיסָן אַחַר חֲצוֹת הַיּוֹם.",
+      "it": "Lo si macella il quattordici di Nisan, dopo mezzogiorno."
+    },
+    {
+      "n": "2:2",
+      "he": "בִּשְׁלֹשָׁה כִּתּוֹת — הָעָם נִכְנָסִין לָעֲזָרָה בִּשְׁלֹשָׁה כִּתּוֹת זוֹ אַחַר זוֹ.",
+      "it": "In tre gruppi (kitot) — il popolo entra nel cortile del Tempio in tre gruppi successivi, ognuno macella il proprio korban Pesach, poi esce per far entrare il gruppo successivo."
+    },
+    {
+      "n": "2:3",
+      "he": "שׁוֹחֲטִין אוֹתוֹ בַּעֲזָרַת הַמִּקְדָּשׁ, וְזוֹרְקִין דָּמוֹ עַל גַּבֵּי הַמִּזְבֵּחַ.",
+      "it": "Lo si macella nel cortile del Tempio (azarat ha-Mikdash), e il suo sangue viene aspersso sull'altare."
+    }
+  ],
+  "_glossary_terms_used": ["me'ilah", "ma'aser sheni", "Sefer Avodah", "Sefer Korbanot", "korban Pesach", "bein ha-arbayim", "tamim", "kitot", "azarat ha-Mikdash"]
+}

@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 16",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק טז",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 16",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-18",
+  "hebrew_date": "9 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אַהֲבַת ה' — יֵשׁ בָּהּ שְׁנֵי מַדְרֵגוֹת — אַהֲבָה רַבָּה וְאַהֲבָה כְּרִשְׁפֵּי אֵשׁ…",
+      "it": "Vi sono due livelli di amore divino (ahavat Hashem): l'«ahavah rabbah» (grande amore, amore supremo) e l'«ahavah ke-risphei esh» (amore come fiamme di fuoco). L'ahavah rabbah è un amore completamente trascendente e selfless, in cui la persona si annulla (bittul) davanti a D-o e sperimenta una forma di dissoluzione dell'ego nel divino. Questo livello appartiene ai tzaddikim perfetti. L'ahavah ke-risphei esh è un amore ardente, passionale e dinamico — come fiamme che divampano verso l'alto."
+    },
+    {
+      "n": 2,
+      "he": "וְאַהֲבָה זוֹ הִיא הַנִּקְרֵאת בְּשֵׁם אַהֲבָה כְּרִשְׁפֵּי אֵשׁ — שֶׁאֵין לָהּ הַפְסָקָה…",
+      "it": "L'amore come fiamme di fuoco — ahavah ke-risphei esh — è quello descritto nel versetto dello Shema: «Ve'ahavta et Hashem Elokecha» (Amerai il Signore tuo D-o). Questo amore non è statico ma dinamico: come le fiamme che si lanciano sempre verso l'alto, l'anima che ama D-o con questo amore cerca naturalmente di diffondere e condividere quella connessione. L'Alter Rebbe insegna che questo è l'amore richiesto dalla Torah nella pratica quotidiana — non un'esperienza mistica riservata ai pochi, ma un modo di relazionarsi a D-o che è realisticamente accessibile."
+    },
+    {
+      "n": 3,
+      "he": "וּמִזֶּה יוּבַן מַה שֶּׁכָּתַב הָרַמְבַּ״ם — שֶׁהָאַהֲבָה הִיא עִיקַּר הָעֲבוֹדָה…",
+      "it": "Da questo si comprende quanto il Rambam abbia scritto — che l'amore è il principio fondamentale del servizio divino (ikar ha-avodah). L'Alter Rebbe cita il Rambam come autorità: il Rambam nel Sefer ha-Madda stabilisce che la persona deve amare D-o con tutto il cuore e tutta l'anima. Ma per il Tanya, questa amore si manifesta diversamente a seconda del livello spirituale della persona. Il beinoni può e deve aspirare all'ahavah ke-risphei esh — un amore reale, sentito, che motiva l'azione — anche senza raggiungere la bittul assoluta del tzaddik."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ahavat Hashem", "ahavah rabbah", "ahavah ke-risphei esh", "bittul", "tzaddik", "beinoni", "Ve'ahavta", "ikar ha-avodah"
+  ]
+}

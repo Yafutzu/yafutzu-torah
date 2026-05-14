@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 10",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק י",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 10",
+  "cycle": "rambam-1",
+  "date": "2026-08-05",
+  "hebrew_date": "22 Av 5786",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "המחזור הגדול הוא מחזור תשע עשרה שנה, שבו יש שבע שנות עיבור ושתים עשרה שנות פשוטות. בסוף כל מחזור חוזרים החדשים ועונות השמש לאותו מצב שהיו בו בתחילתו.",
+      "it": "Il machzor gadol (grande ciclo) è un ciclo di diciannove anni, nel quale vi sono sette anni intercalari (shanot me'ubarot) e dodici anni semplici. Al termine di ogni ciclo i mesi e le stagioni solari tornano alla stessa posizione in cui si trovavano all'inizio del ciclo."
+    },
+    {
+      "n": 2,
+      "he": "שנות העיבור במחזור הן: שנה שלישית, שישית, שמינית, אחת עשרה, ארבע עשרה, שבע עשרה, ותשע עשרה. שאר השנים — פשוטות.",
+      "it": "Gli anni intercalari nel ciclo sono: il terzo, il sesto, l'ottavo, l'undicesimo, il quattordicesimo, il diciassettesimo e il diciannovesimo anno. Tutti gli altri anni sono anni semplici."
+    },
+    {
+      "n": 3,
+      "he": "שנת פשוטה — יש בה שנים עשר חדשים. שנת עיבור — יש בה שלושה עשר חדשים: מוסיפים חודש אדר שני לפני ניסן.",
+      "it": "Un anno semplice (shanah peshutah) ha dodici mesi. Un anno intercalare (shanah me'uberet) ha tredici mesi: si aggiunge un secondo mese di Adar (Adar Sheni) prima di Nisan."
+    },
+    {
+      "n": 4,
+      "he": "ראשית המחזור — בשנת העולם שני ומתחיל למניין שנה אחת. ולפי זה, כל שנה ושנה יודעים אם היא פשוטה או מעוברת לפי מקומה במחזור.",
+      "it": "L'inizio del ciclo è dall'anno della creazione del mondo, e si conta dall'anno uno. In base a ciò, per ogni anno si sa se è semplice o intercalare in base alla sua posizione nel ciclo."
+    },
+    {
+      "n": 5,
+      "he": "כיצד יודעים? חילקו מספר השנה מתחילת המניין לתשע עשרה. מה שיצא שארית — הוא מקום השנה במחזור. אם השארית היא ג', ו', ח', י\"א, י\"ד, י\"ז, י\"ט — שנת עיבור. ואם שאר מספרים — שנה פשוטה.",
+      "it": "Come si determina? Si divide il numero dell'anno dall'inizio del computo per diciannove. Il resto è la posizione dell'anno nel ciclo. Se il resto è 3, 6, 8, 11, 14, 17 o 19 — è un anno intercalare. Altrimenti — è un anno semplice."
+    },
+    {
+      "n": 6,
+      "he": "למה שבע שנות עיבור דווקא? כי ההפרש שבין שנת חמה לשנת לבנה הוא אחד עשר יום ומשהו. שבע פעמים אחד עשר יום — שבעה ושבעים ימים — הוא שלושה חדשים שלמים. ולפיכך בשבע שנות עיבור חוזרים החדשים לתקנם.",
+      "it": "Perché precisamente sette anni intercalari? Perché la differenza tra l'anno solare e l'anno lunare è di undici giorni e una frazione. Sette volte undici giorni — settantasette giorni — equivalgono a tre mesi interi. Pertanto, nei sette anni intercalari i mesi tornano al loro posto corretto."
+    },
+    {
+      "n": 7,
+      "he": "המחזור הוא מדויק ביותר, ובסופו — לאחר תשע עשרה שנה — הפרש בין לוח החמה ללוח הלבנה הוא פחות משעתיים. ולכן לא ייצא הפסח לעולם קודם תקופת ניסן יותר ממה שהוא צריך.",
+      "it": "Il ciclo è estremamente preciso: al suo termine — dopo diciannove anni — la differenza tra il calendario solare e quello lunare è inferiore a due ore. Pertanto Pesach non cadrà mai prima della tekufah di Nisan più del necessario."
+    },
+    {
+      "n": 8,
+      "he": "מחזור זה קבעו אנשי כנסת הגדולה. ועל פיו אנו קובעים לוח השנה, ועל פיו יודעים מועדי ישראל בכל שנה ושנה.",
+      "it": "Questo ciclo fu stabilito dagli uomini della Grande Assemblea (Anshei Knesset ha-Gedolah). Sulla base di esso noi fissiamo il calendario, e in base ad esso si conoscono le festività di Israele anno per anno."
+    }
+  ],
+  "_glossary_terms_used": ["machzor gadol", "shanah me'uberet", "shanah peshutah", "tekufah", "Anshei Knesset ha-Gedolah"]
+}

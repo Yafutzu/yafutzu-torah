@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 10",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק י",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 10",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-16",
+  "hebrew_date": "7 Kislev 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִי שֶׁאָכַל בָּשָׂר — בֵּין בְּשַׂר בְּהֵמָה בֵּין בְּשַׂר עוֹף — לֹא יֹאכַל אַחֲרָיו חָלָב…",
+      "it": "Chi ha mangiato carne — sia carne di animale domestico sia carne di pollame — non mangerà latte dopo di essa, fino al pasto successivo. Il Rambam stabilisce che l'attesa non è un lasso di tempo fisso ma riguarda la conclusione del pasto e l'inizio di un pasto nuovo. La ragione: dopo aver mangiato carne, il grasso e il sapore rimangono in gola (beriya'at ha-basar), e mangiare latte subito dopo costituisce una violazione della proibizione di basar be-chalav (carne nel latte)."
+    },
+    {
+      "n": 2,
+      "he": "וְצָרִיךְ לְנַקּוֹת פִּיו וְלִבְדֹּק יָדָיו בֵּין בָּשָׂר לְחָלָב…",
+      "it": "È necessario pulirsi la bocca e verificare le mani tra la carne e il latte. La pulizia della bocca avviene mediante il risciacquo (me-divduk) e si mangia qualcosa di secco (kappa) che «strofini» i residui. Il controllo delle mani serve per accertarsi che non vi sia grasso o frammenti di carne sulle dita, che potrebbero mescolarsi con i latticini. Questi atti di controllo sono obbligatori per chiunque voglia mangiare latte dopo carne."
+    },
+    {
+      "n": 3,
+      "he": "בֵּין חָלָב לְבָשָׂר — אֵין צָרִיךְ לְהַמְתִּין…",
+      "it": "Tra il latte e la carne — non è necessario attendere un pasto completo. È sufficiente risciacquarsi la bocca, controllare le mani per residui di latticini, e poi si può mangiare carne. Il Rambam distingue tra le due direzioni: il sapore della carne (ta'am basar) rimane più a lungo di quello del latte, dunque solo dopo la carne si richiede l'attesa fino al pasto successivo."
+    },
+    {
+      "n": 4,
+      "he": "אָכַל גְּבִינָה תְּחִלָּה — וְאַחַר כָּךְ בָּשָׂר — מֻתָּר לֶאֱכֹל מִיָּד…",
+      "it": "Chi ha mangiato prima formaggio e poi vuole mangiare carne — è permesso mangiarlo immediatamente, dopo aver risciacquato la bocca e controllato le mani. Tuttavia, formaggio duro invecchiato (gevinat kasheh) che presenta residui tra i denti richiede una pulizia più accurata. I Rishonim successivi hanno elaborato su questo punto, ma la posizione del Rambam è quella della permissibilità dopo la pulizia appropriata."
+    },
+    {
+      "n": 5,
+      "he": "בְּשַׂר עוֹף בְּחָלָב — אִסּוּר מִדִּבְרֵי סוֹפְרִים…",
+      "it": "La carne di pollame con il latte — è proibizione rabbinica (mi-divrei sofrim), non biblica. La Torah menziona «non cuocere il capretto nel latte di sua madre» — e questo si applica biblicamente solo ad animali che hanno una relazione madre-figlio con il latte. Il pollame non produce latte; dunque la proibizione è rabbinica, a recinzione della legge biblica (geder ve-seyag). Nonostante ciò, il Rambam la tratta con tutto il rigore delle altre proibizioni alimentari."
+    },
+    {
+      "n": 6,
+      "he": "דָּם הַשֶּׁרֶץ וְכַיּוֹצֵא בּוֹ — אֵין בּוֹ מִשּׁוּם בָּשָׂר בְּחָלָב…",
+      "it": "Il sangue dei rettili e di altre creature non kosher — non rientra nella proibizione di basar be-chalav. Il divieto di basar be-chalav riguarda specificamente la carne di animali domestici (behemah) e, rabbinicamente, il pollame. Creature che non sono soggette a shechitah (macellazione rituale) — i loro tessuti non formano l'istanza di «carne» ai fini di questa proibizione."
+    },
+    {
+      "n": 7,
+      "he": "הַמְבַשֵּׁל בָּשָׂר בְּחָלָב — לוֹקֶה…",
+      "it": "Chi cuoce carne nel latte — riceve la punizione della flagellazione (malkot). Sono tre i divieti distinti derivati dalla ripetizione del versetto «non cuocere il capretto nel latte di sua madre» tre volte nella Torah: (1) cuocere carne nel latte; (2) mangiare carne nel latte; (3) trarre beneficio da carne nel latte. Ciascuna violazione è una proibizione separata soggetta a sanzione distinta."
+    },
+    {
+      "n": 8,
+      "he": "הַבָּשָׂר וְהַחָלָב שֶׁנִּתְבַּשְּׁלוּ יַחַד — אֲסוּרִין בַּאֲכִילָה וּבַהֲנָאָה…",
+      "it": "La carne e il latte che sono stati cotti insieme — sono proibiti nel mangiare e nel trarre qualsiasi beneficio (asur be-akhilah u-ve-hana'ah). Non si possono vendere, dar da mangiare agli animali, o usare per altro scopo. Questo è uno degli ambiti più severi della kasherut perché la proibizione comprende anche il beneficio indiretto. L'unica eccezione: un non ebreo può comprare la miscela se era sua la carne sin dall'inizio."
+    }
+  ],
+  "_glossary_terms_used": [
+    "basar be-chalav", "beriya'at ha-basar", "ta'am basar", "mi-divrei sofrim", "geder ve-seyag", "behemah", "shechitah", "malkot", "asur be-akhilah u-ve-hana'ah"
+  ]
+}

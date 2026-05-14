@@ -1,0 +1,30 @@
+{
+  "ref": "Mishneh Torah, Yesodei HaTorah 6-8",
+  "name_he": "משנה תורה, הלכות יסודי התורה פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi dei Fondamenti della Torah, capitoli 6-8 (Secondo Ciclo)",
+  "cycle": "rambam-3",
+  "date": "2026-12-30",
+  "hebrew_date": "21 Tevet 5787",
+  "cycle_note": "Secondo ciclo — Sefer Madda",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Yesodei HaTorah 6:1-5",
+      "he": "שְׁמוֹת הַקֹּדֶשׁ שֶׁאֵין נִמְחָקִין — שִׁבְעָה…",
+      "it": "(Secondo ciclo — Yesodei HaTorah cap. 6, hal. 1-5) I sette nomi divini che non possono essere cancellati: Shem, Elohim, Adonai, Tzvaot, El, Shaddai, Ehyeh. Cancellare uno di questi nomi da un testo scritto è una violazione della Torah. I libri che contengono questi nomi devono essere sepolti (genizah) quando diventano inutilizzabili, piuttosto che gettati via. I nomi aggiuntivi come «Rachum» (misericordioso), «Chanun» (clemente) — sono appellativi, non nomi propri di D-o, e non hanno la stessa sacralità. La santità del nome riflette la santità dell'Essere nominato."
+    },
+    {
+      "n": "Yesodei HaTorah 7:1-5",
+      "he": "יְסוֹד הַיְּסוֹדוֹת — לֵידַע שֶׁהַנְּבוּאָה מֵאֵת הַשֵּׁם…",
+      "it": "(Yesodei HaTorah cap. 7, hal. 1-5) La natura della profezia (nevuah): D-o comunica con i profeti attraverso visioni e sogni (chazot u-chalomot), eccetto Mosè, con cui D-o parlava «faccia a faccia» (panim el panim) e «bocca a bocca» — una profezia chiara e non simbolica, mentre il profeta era sveglio. Tutti gli altri profeti ricevono la profezia attraverso immagini simboliche che richiedono interpretazione. I livelli della profezia: il più basso è il livello di Shlomo (Salomone) che ricevette saggezza; il più alto (dopo Mosè) è il livello di Isaia e Ezechiele."
+    },
+    {
+      "n": "Yesodei HaTorah 8:1-5",
+      "he": "כֵּיצַד יֵדַע הָאָדָם שֶׁאֵיזֶה הוּא נָבִיא אֱמֶת…",
+      "it": "(Yesodei HaTorah cap. 8, hal. 1-5) Come si riconosce un vero profeta? Il test fondamentale: il vero profeta non contraddice mai la Torah di Mosè. Se un profeta — anche se compie miracoli — dice «D-o mi ha comandato di aggiungere o rimuovere una mitzvah della Torah», è un falso profeta. I miracoli da soli non provano la profezia: anche i maghi possono fare prodigi. La fedeltà assoluta alla Torah di Mosè è il test principale. Il Rambam codifica: «Anche se farà miracoli e portenti, non ascoltare le sue parole» — se contraddice la Torah, è falso."
+    }
+  ],
+  "_glossary_terms_used": [
+    "genizah", "nevuah", "chazot u-chalomot", "panim el panim", "Sefer Madda", "nomi divini"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ref": "Mishneh Torah, Nachalot 2-4",
+  "name_he": "משנה תורה, הלכות נחלות, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dell'Eredità, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-11-28",
+  "hebrew_date": "19 Kislev 5787",
+  "holiday": "Yud-Tet Kislev — Rosh Hashanah shel Chassidut",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": "2:1-5",
+      "he": "הַבְּכוֹר — נוֹטֵל פִּי שְׁנַיִם בְּנִכְסֵי הָאָב…",
+      "it": "(Nachalot cap. 2, hal. 1-5) Il primogenito (bechor) riceve una doppia quota (pi shenayim) dell'eredità paterna. Se il padre ha lasciato 100 monete e tre figli (di cui uno primogenito) — il primogenito riceve 50 e gli altri due ricevono 25 ciascuno. La doppia quota si applica solo ai beni che il padre possedeva al momento della morte (muchzak — «in suo possesso») — non a beni che doveva ricevere in futuro (raui — «atteso»). Esempio: un credito non ancora riscosso al momento della morte — il primogenito non riceve la quota doppia su questo credito."
+    },
+    {
+      "n": "3:1-5",
+      "he": "הַבְּכוֹר שֶׁמָּחַל עַל פִּי שְׁנַיִם — מְחִילָתוֹ מְחִילָה…",
+      "it": "(Nachalot cap. 3, hal. 1-5) Il primogenito che ha rinunciato alla sua quota doppia — la sua rinuncia è valida (mechilato mechilah). Il diritto alla doppia quota appartiene al primogenito e lui può rinunciarvi. Chi è definito «bechor» ai fini dell'eredità? Il figlio maschio che è uscito per primo dall'utero (korev rechem). Un figlio nato dopo un aborto precedente — non è considerato bechor ai fini della quota doppia. Gemelli — il primo a nascere è il bechor. Il primogenito di un matrimonio precedente — eredita come bechor dal padre biologico."
+    },
+    {
+      "n": "4:1-5 (Yud-Tet Kislev)",
+      "he": "יוּד-טֵית כִּסְלֵו — הַיּוֹם שֶׁנִּפְתְּחָה הַיְרֻשָּׁה הָרוּחָנִית…",
+      "it": "(Nachalot cap. 4, hal. 1-5) — YUD-TET KISLEV 5787 — ROSH HASHANAH SHEL CHASSIDUT: Nel 19 Kislev 5559 (1798), il Alter Rebbe — Rabbi Shneur Zalman di Liadi — fu liberato dalla fortezza di Peterpaul in San Pietroburgo. Questa data è celebrata come il giorno in cui la «yerushah ruchanit» (eredità spirituale) di Chassidut Chabad fu formalmente confermata dal Cielo. Il Rambam ci insegna le leggi dell'eredità materiale — ma il Alter Rebbe ci ha lasciato un'eredità spirituale infinitamente più preziosa: il Tanya, il metodo di avodah del beinoni, e la rivelazione che ogni ebreo può raggiungere D-o. Cap. 4: quando vi sono figli e figlie, i figli ereditano ma i fratelli devono mantenere le sorelle dall'eredità. Questo riflette la responsabilità familiare reciproca — un valore centrale della Chassidut."
+    }
+  ],
+  "_glossary_terms_used": [
+    "bechor", "pi shenayim", "muchzak", "raui", "mechilah", "korev rechem", "yerushah ruchanit", "Alter Rebbe", "Tanya", "beinoni", "Rosh Hashanah shel Chassidut"
+  ]
+}

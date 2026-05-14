@@ -1,0 +1,384 @@
+{
+  "gregorian": "2026-05-10",
+  "hebrew": { "day": 23, "month": "Iyyar", "year": 5786 },
+  "cycle": "rambam-3 (3-perakim daily)",
+  "translatedBy": "claude-sonnet-4-6 (Yafutzu — in-conversation)",
+  "translator_notes": "Traduzione accademica halachica. Termini tecnici: gid ha-nashè (nervo sciatico), basar be-chalav (carne nel latte), bishul (cottura), hana'a (beneficio), neveilà, terefà, bittul (annullamento), ta'am (sapore/infusione). Citazioni bibliche tra parentesi quadre.",
+  "perakim": [
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 8",
+      "name_he": "הלכות מאכלות אסורות, פרק ח",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 8",
+      "halachot_count": 18,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "גִּיד הַנָּשֶׁה נוֹהֵג בִּבְהֵמָה וְחַיָּה הַטְּהוֹרִין וַאֲפִלּוּ בִּנְבֵלוֹת וּטְרֵפוֹת שֶׁלָּהֶן",
+          "it": "La proibizione del gid ha-nashè (nervo sciatico) si applica agli animali domestici e alle bestie selvatiche kosher, incluse le loro neveilot (morti naturali) e terefot (con lesioni mortali). Si applica a un feto e ad animali consacrati (sia quelli di cui si può mangiare sia quelli di cui non si può). Si applica al gid sulla coscia destra e su quella sinistra. Per legge della Torah, è proibito solo il gid nell'articolazione dell'anca (kaf ha-yarech), come è detto [Genesi 32:33]: «che è sull'articolazione dell'anca.» Il resto del gid — sopra o sotto l'articolazione — e il chelev (grasso) sul gid sono proibiti solo per decreto rabbinico. Vi sono due giddim (nervi): quello interno vicino all'osso è proibito per legge della Torah; quello esterno intero è proibito per decreto rabbinico."
+        },
+        {
+          "n": 2,
+          "he": "הָאוֹכֵל מִגִּיד הַנָּשֶׁה הַפְּנִימִי עַל הַכַּף לוֹקֶה",
+          "it": "Chi mangi il gid ha-nashè interno sull'articolazione è passibile di flagellazione (maloct). Chi mangi il chelev del gid, il resto del gid interno, o tutto il gid esterno, è passibile di makkot mardut (fustigazione rabbinica). Qual è il gid esterno? Quello che corre lungo il fianco della coscia, sulla pelle. Il gid interno è quello che è vicino all'osso, lungo la lunghezza dell'arto."
+        },
+        {
+          "n": 3,
+          "he": "אֵין גִּיד הַנָּשֶׁה נוֹהֵג בָּעוֹף",
+          "it": "La proibizione del gid ha-nashè non si applica ai volatili, perché i volatili non hanno un'articolazione dell'anca rotonda. La loro coscia è lunga e piatta. Se c'è un volatile la cui coscia ha la forma dell'anca di un animale — cioè abbia un'articolazione rotonda — il suo gid ha-nashè è proibito, ma non si è passibili di flagellazione per esso. Analogamente, se c'è un animale la cui coscia è lunga come quella di un volatile, il suo gid ha-nashè è proibito, ma non si è passibili di flagellazione."
+        },
+        {
+          "n": 4,
+          "he": "הָאוֹכֵל גִּיד הַנָּשֶׁה מִבְּהֵמָה טְמֵאָה",
+          "it": "Chi mangi il gid ha-nashè di un animale domestico o bestia selvatica non kosher — non è passibile. La ragione è che questa proibizione non si applica agli animali non kosher, ma soltanto agli animali che sono essenzialmente permessi (ossia quelli kosher, anche se diventati neveilà o terefà). Qualora un animale kosher diventi neveilà o terefà, il suo gid ha-nashè resta proibito e si riceve flagellazione."
+        },
+        {
+          "n": 5,
+          "he": "כֵּיצַד אוֹסֵר גִּיד הַנָּשֶׁה",
+          "it": "Come il gid ha-nashè rende proibita la carne? Se il gid è cotto insieme alla carne senza essere rimosso, trasmette il suo sapore (ta'am) alla carne. Se il sapore del gid è percettibile nella carne (noten ta'am le-fgam — sapore che peggiora, oppure noten ta'am le-shevach — sapore che migliora), la carne è proibita. I Saggi hanno stabilito le proprie misure per determinare quando il ta'am è determinante."
+        },
+        {
+          "n": 6,
+          "he": "כֵּיצַד מְסִירִין אֶת גִּיד הַנָּשֶׁה",
+          "it": "Come si rimuove il gid ha-nashè? Si rimuove dall'articolazione verso il basso e poi si risale verso la coscia, rimuovendo ogni filamento che si stacchi dal gid principale. Devono essere rimossi sia il gid esterno sia quello interno. Chi rimuove il gid deve essere competente nell'anatomia della coscia, poiché il gid ha molti rami e filamenti."
+        },
+        {
+          "n": 7,
+          "he": "הַמְנַקֵּר אֶת הַגִּיד",
+          "it": "Chi rimuove il gid ha-nashè deve eliminarne ogni traccia finché non rimanga nulla. La parola del macellaio è accettata riguardo al gid ha-nashè, proprio come è accettata riguardo al chelev proibito. Pertanto, non si acquista carne da qualunque macellaio, bensì soltanto da un uomo retto che ha stabilito una reputazione di osservanza. Se il macellaio macella la carne da solo e la vende, la sua parola è accettata."
+        },
+        {
+          "n": 8,
+          "he": "בַּמֶּה דְּבָרִים אֲמוּרִים בְּחוּץ לָאָרֶץ",
+          "it": "Dove si applica quanto sopra? In diaspora (chutz la-aretz). In Eretz Yisrael, al contrario, non si acquista carne da un macellaio che non sia conosciuto, poiché in Eretz Yisrael vi sono più esigenze di controllo e supervisione. Chi vende carne deve avere un certificato (teudat kashrut) da parte di un'autorità rabbinica riconosciuta."
+        },
+        {
+          "n": 9,
+          "he": "הָאוֹחֵז בַּגִּיד",
+          "it": "Chi tiene il gid ha-nashè in mano senza mangiarlo — non viola alcuna proibizione. La proibizione è solo nel mangiarlo. Tuttavia, si è passibili di flagellazione solo se si mangia la quantità minima richiesta (kezayit — misura d'oliva)."
+        },
+        {
+          "n": 10,
+          "he": "גִּיד שֶׁנִּתְבַּשֵּׁל עִם הַבָּשָׂר",
+          "it": "Un gid ha-nashè cotto insieme alla carne — il sapore (ta'am) che trasmette dipende dalla quantità. Se il gid è di un animale permesso ma il gid stesso è proibito, e il gid dà sapore alla carne circostante (noten ta'am), quella parte di carne è proibita. Se la carne è sessanta volte la quantità del gid (shishim), il ta'am del gid è annullato (bittul be-shishim) e la carne è permessa."
+        },
+        {
+          "n": 11,
+          "he": "גִּיד שֶׁנִּמְצָא בֵּין הָאֲבָרִים",
+          "it": "Un gid ha-nashè trovato tra le parti di carne già tagliate — se è riconoscibile, si rimuove e il resto è permesso. Se è stato macinato o è mescolato in modo che non sia più riconoscibile, si applica la regola del bittul (annullamento) se la carne è sessanta volte il gid. Se non lo è, tutta la carne è proibita."
+        },
+        {
+          "n": 12,
+          "he": "גִּיד שֶׁנָּפַל לְקְדֵרָה",
+          "it": "Un gid ha-nashè che è caduto in un tegame (kedeirà) con carne — se il tegame conteneva sessanta volte il volume del gid (shishim negged ha-gid), il gid è annullato e la carne è permessa. Se non vi era sessanta volte, si rimuove il gid e si stima se la carne che è stata a diretto contatto con il gid abbia assorbito sufficiente sapore da essere proibita."
+        },
+        {
+          "n": 13,
+          "he": "כָּל דָּבָר שֶׁאֵינוֹ נוֹתֵן טַעַם",
+          "it": "Qualunque cosa che non trasmette sapore (eino noten ta'am) alla carne — non la rende proibita. Il principio è: ciò che è proibito, se rende il cibo peggiore (noten ta'am le-fgam), non lo rende proibito. Questo principio si applica anche al gid ha-nashè: se il gid trasmette alla carne un sapore sgradevole (fgam), la carne è permessa."
+        },
+        {
+          "n": 14,
+          "he": "עֶשֶׂר חֲנוּיוֹת",
+          "it": "Se vi sono dieci negozi, nove vendono carne kosher e uno vende neveilot — e si acquista carne da uno di questi negozi senza sapere da quale — la carne è proibita. La ragione è che ogni volta che si tratta di una cosa separata da un gruppo misto (davar she-parish mi-rov), si va dopo la cosa separata, non dopo la maggioranza."
+        },
+        {
+          "n": 15,
+          "he": "בָּשָׂר שֶׁנִּמְצָא בְּיַד גּוֹי",
+          "it": "Carne trovata in mano a un non ebreo nei mercati o nei luoghi dove si vende prevalentemente carne kosher — è permessa. Se si trova in un posto dove non è chiaro se prevalga la carne kosher o meno, è proibita. La regola fondamentale è che si va dopo la maggioranza (acharè ha-rov)."
+        },
+        {
+          "n": 16,
+          "he": "הַקַּצָּב הַגּוֹי",
+          "it": "Un macellaio non ebreo — la sua carne non è fidata (eino ne'eman), perché si teme che sostituisca la carne. Un macellaio ebreo che sia stato trovato a vendere neveilot — lo si rimuove dalla sua posizione e tutta la carne che ha venduto senza supervisione precedente è sospetta. Un ebreo che abbia trasgredito deliberatamente una proibizione della Torah perde l'affidabilità (neeman) per le questioni di kashrut."
+        },
+        {
+          "n": 17,
+          "he": "הַמּוֹכֵר בָּשָׂר וְנֶאֱמַן לוֹ",
+          "it": "Un venditore di carne che sia riconosciuto come osservante meticoloso della halachà — la sua parola è accettata (ne'eman) per la kashrut della carne. Non è necessario un supervisore (mashgìach) costante se il venditore è di reputazione affidabile. In città dove vi siano macellerie sia kosher sia non kosher, si deve fare attenzione a identificare chiaramente le carni."
+        },
+        {
+          "n": 18,
+          "he": "כָּל אֵלּוּ הַחִלּוּקִים",
+          "it": "Tutte queste distinzioni — riguardanti il gid ha-nashè, la supervisione della carne, e l'affidabilità dei macellai — sono fondamentali per preservare la kashrut nella pratica quotidiana. Il popolo d'Israele ha il dovere di mangiare carne kosher e di assicurarsi che tutta la catena di produzione — dalla macellazione alla vendita — sia sotto supervisione affidabile."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 9",
+      "name_he": "הלכות מאכלות אסורות, פרק ט",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 9",
+      "halachot_count": 28,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "בָּשָׂר בְּחָלָב אָסוּר לְבַשְּׁלוֹ וְאָסוּר לְאָכְלוֹ מִן הַתּוֹרָה וְאָסוּר בַּהֲנָאָה",
+          "it": "La carne nel latte (basar be-chalav) è proibita da cucinare e da mangiare per legge della Torah, ed è proibito trarne qualsiasi beneficio (hana'a). Deve essere sepolta (kevurà). Le sue ceneri sono proibite come le ceneri di qualunque cosa che debba essere sepolta. Qualunque persona cucini insieme una misura d'oliva delle due sostanze è meritevole di flagellazione, come è detto [Esodo 23:19]: «Non cucinare un capretto nel latte di sua madre.» Analogamente, chi mangi una misura d'oliva di carne e latte cotti insieme è meritevole di flagellazione — anche se non è stato lui a cucinarli."
+        },
+        {
+          "n": 2,
+          "he": "לֹא שָׁתְקָה תּוֹרָה מֵאִסּוּר אֲכִילָה",
+          "it": "La Torah ha taciuto riguardo alla proibizione specifica del mangiarlo, perché ha proibito la cottura. È come a dire: anche cucinarlo è proibito, tanto più mangiarlo. A titolo di parallelismo: la Torah non ha menzionato la proibizione di rapporti con propria figlia, perché aveva proibito quella con la figlia della figlia."
+        },
+        {
+          "n": 3,
+          "he": "מִן הַתּוֹרָה אֵינוֹ אָסוּר אֶלָּא בְּשַׂר בְּהֵמָה טְהוֹרָה",
+          "it": "Per legge della Torah, la proibizione riguarda solo la carne di un animale domestico kosher cotta nel latte di un animale domestico kosher. Ma il latte di un animale non kosher con carne di un animale kosher, o il latte di un animale kosher con carne di un animale non kosher — non è proibito per legge della Torah. Non vi è nemmeno l'obbligo di seppellirlo, né la proibizione di trarne beneficio. Non si è passibili di flagellazione per mangiarlo."
+        },
+        {
+          "n": 4,
+          "he": "בְּשַׂר חַיָּה וְעוֹף עִם חֲלֵב חַיָּה",
+          "it": "Analogamente, la carne di bestia selvatica (chayà) e la carne di volatile insieme al latte di bestia selvatica o di animale domestico non è proibita per legge della Torah. Pertanto, è permesso cucinarla ed è permesso trarne beneficio. È tuttavia proibito mangiarla per decreto rabbinico, affinché le persone non diventino negligenti e vengano a violare la proibizione scritturale mangiando carne di un animale domestico kosher nel latte di un animale domestico kosher."
+        },
+        {
+          "n": 5,
+          "he": "הַמְבַשֵּׁל בְּשַׂר עוֹף בְּחָלָב",
+          "it": "Chi cucina carne di volatile nel latte — non è passibile di flagellazione per legge della Torah, ma riceve makkot mardut (fustigazione rabbinica), per decreto dei Saggi. In pratica, la proibizione rabbinica di non mangiare carne di volatile con latte è considerata ferma e consolidata in tutto Israele, e chi la trasgredisce deliberatamente manca di rispetto alla halachà."
+        },
+        {
+          "n": 6,
+          "he": "כֵּיצַד מְבַשְּׁלִין בָּשָׂר בְּחָלָב",
+          "it": "Come si viola la proibizione di cucinare carne nel latte? Qualunque cottura — anche se avviene in modo insolito come tramite il vapore del latte, oppure nella cottura nelle sorgenti calde di Tiberiade — non comporta flagellazione, poiché non è la cottura ordinaria. Analogamente, se si cuoce carne nel siero (mai chalav), nel latte di un animale morto, nel latte di un maschio, o se si cuoce sangue con il latte, non si è passibili di flagellazione per aver mangiato la miscela."
+        },
+        {
+          "n": 7,
+          "he": "הַמְבַשֵּׁל בְּשַׂר נְבֵלָה בְּחָלָב",
+          "it": "Chi cucina carne di neveilà o chelev (grasso proibito) o simili nel latte — è passibile di flagellazione per la cottura. Non è passibile di flagellazione per aver mangiato la miscela a causa della proibizione di basar be-chalav, poiché la proibizione di carne-e-latte non entra in vigore rispetto a ciò che è già proibito come neveilà o chelev. Non si tratta di una proibizione più ampia, né di una che aggiunga una nuova dimensione, né di due proibizioni che entrino in vigore simultaneamente."
+        },
+        {
+          "n": 8,
+          "he": "הַמְבַשֵּׁל עוּבָּר בְּחָלָב",
+          "it": "Chi cucina un feto nel latte — è passibile. Analogamente, chi mangi una misura d'oliva di feto cotto nel latte è passibile di flagellazione. Un feto non è considerato separatamente dalla madre per quanto riguarda il basar be-chalav: è parte dell'animale permesso, e se viene cotto nel latte viola la proibizione."
+        },
+        {
+          "n": 9,
+          "he": "הַמְבַשֵּׁל שָׁלִיל בְּחָלָב",
+          "it": "Chi cucina la placenta nel latte — non è passibile di flagellazione, perché la placenta non è carne. Non si tratta di «carne» ai sensi della proibizione di basar be-chalav. Tuttavia, per via della proibizione rabbinica di apparenza (mar'it ayin), non si cuoce la placenta nel latte."
+        },
+        {
+          "n": 10,
+          "he": "קֵבָה שֶׁבִּשְּׁלָהּ בַּחָלָב",
+          "it": "Il caglio (kevà — stomaco quarto dell'animale) che è stato cotto nel latte — se si trova del latte nel caglio stesso (poiché gli animali lattanti hanno latte nel caglio), vi è una questione se questo latte si unisca al latte del piatto e crei la proibizione di basar be-chalav. I Rishonim (poskim medievali) discutono su questo. In pratica, si è severi."
+        },
+        {
+          "n": 11,
+          "he": "גְּבִינָה שֶׁנְּפָלָה לִבְשַׂר",
+          "it": "Formaggio (gevina) caduto nella carne — il formaggio è fatto di latte e caglio, ed è come latte ai fini di basar be-chalav. Se il formaggio è caduto nella carne calda, e la carne contiene sessanta volte il volume del formaggio, si rimuove il formaggio e il resto della carne è permesso. Se non contiene sessanta volte, tutta la carne è proibita."
+        },
+        {
+          "n": 12,
+          "he": "הַבָּשָׂר שֶׁנָּפַל לְחָלָב",
+          "it": "Carne caduta nel latte — si applica la stessa regola: se il latte è sessanta volte la carne, si rimuove la carne e il latte è permesso. Se non vi è sessanta volte, tutto è proibito. Se la carne era di un animale il cui basar be-chalav è solo rabbinico, vi sono opinioni più lenitive."
+        },
+        {
+          "n": 13,
+          "he": "שְׁנֵי קְדֵרוֹת",
+          "it": "Due tegami, uno di carne e uno di latte, che bollono accanto l'uno all'altro — se gli spruzzi di uno entrano nell'altro (tipat chalav le-vasar o tipat basar le-chalav), si applica la regola del ta'am (sapore): se vi è sessanta volte la goccia, la goccia è annullata. Se non vi è sessanta volte, il tegame è proibito. Se gli spruzzi sono di vapore (a'liyat ha-hevel), si è più leniti."
+        },
+        {
+          "n": 14,
+          "he": "בָּשָׂר שֶׁנִּמְלַח עִם גְּבִינָה",
+          "it": "Carne salata insieme a formaggio — il sale estrae i succhi dalla carne, e se questi si mescolano con il formaggio, si crea un'unione proibita di basar be-chalav. Pertanto, non si sala carne insieme a formaggio. La salatura è considerata come la cottura ai fini del basar be-chalav."
+        },
+        {
+          "n": 15,
+          "he": "שָׂרַף בָּשָׂר בְּחָלָב",
+          "it": "Chi brucia (abbrostolisce) carne nel latte senza che vi sia cottura vera e propria (bishul) — vi è una discussione tra i poskim se sia passibile di flagellazione. Il parere dominante è che non lo sia, poiché la proibizione specifica è la cottura (bishul) e non qualunque forma di riscaldamento."
+        },
+        {
+          "n": 16,
+          "he": "הָאוֹכֵל גְּבִינָה אַחַר בָּשָׂר",
+          "it": "Chi mangia formaggio dopo la carne — deve aspettare sei ore tra la carne e il formaggio (minhag ashkenaz e sefard). Il motivo è che la carne rimane tra i denti (basar she-be-shinayim) e impregna il palato. Dopo sei ore, il sapore della carne è scomparso e si può mangiare formaggio. Alcuni costumi prevedono periodi diversi."
+        },
+        {
+          "n": 17,
+          "he": "הָאוֹכֵל בָּשָׂר אַחַר גְּבִינָה",
+          "it": "Chi mangia carne dopo il formaggio — vi è un'opinione che lo permetta immediatamente dopo aver lavato le mani e la bocca e aver mangiato qualcosa di neutro (qinuach u-hadacha). Vi è però l'uso di aspettare anche in questo caso. Il Rambam ritiene che si possa mangiare carne subito dopo il formaggio, purché ci si sciacqui la bocca."
+        },
+        {
+          "n": 18,
+          "he": "לֹא יִלְעֹס אָדָם",
+          "it": "Una persona non deve masticare carne davanti a un bambino e poi dargli formaggio, o viceversa, per non abituare il bambino a cibi proibiti. Analogamente, non si deve preparare cibo misto di carne e latte davanti ai bambini, anche se è destinato ai non ebrei."
+        },
+        {
+          "n": 19,
+          "he": "כֵּלִים שֶׁבִּשְּׁלוּ בָּהֶם בָּשָׂר",
+          "it": "Utensili usati per la carne non devono essere usati per il latte, e viceversa. Un recipiente usato per la carne calda assorbe il sapore della carne (beliat ta'am), e se poi vi si cucina il latte, il ta'am della carne si mescola con il latte, creando basar be-chalav. I recipienti devono essere separati completamente: un set per la carne (fleishig) e un set per il latte (milchig)."
+        },
+        {
+          "n": 20,
+          "he": "כְּלִי שֶׁבָּלַע אִסּוּר",
+          "it": "Un recipiente che ha assorbito (bala') un sapore proibito — si purifica tramite hagalà (immersione in acqua bollente) se era usato per cibi cotti in acqua, o tramite libun (arroventamento) se era usato per cibi arrostiti. Un recipiente di ceramica (kli cheres) non può essere purificato ed è da buttar via."
+        },
+        {
+          "n": 21,
+          "he": "כֵּיצַד עוֹשִׂין הַגְעָלָה",
+          "it": "Come si esegue la hagalà? Si immerge il recipiente in acqua che bolle vigorosamente (mayim roteachim). L'acqua bollente estrae il sapore assorbito (blia'). Si tien presente che «ciò che ha assorbito esce nel modo in cui ha assorbito» (ke-volo'o kach poleto): se l'assorbimento è avvenuto tramite acqua bollente, si purifica con acqua bollente; se tramite arrostitura, si purifica con arrostitura."
+        },
+        {
+          "n": 22,
+          "he": "כֵּלִים שֶׁל גּוֹיִם",
+          "it": "Utensili acquistati da non ebrei — se erano usati per cibi proibiti, devono essere purificati prima dell'uso (tevilà u-hagalà). Vi è anche l'obbligo di immergerli nel mikvè (tevila bi-mikvè) per renderli adatti all'uso degli ebrei (kli shel goy she-naalà le-reshut Yisrael). Questa immersione non è una purificazione dall'assorbimento, ma una consacrazione all'uso ebraico."
+        },
+        {
+          "n": 23,
+          "he": "כֵּלִים הַנִּקְנִים מִן הַגּוֹי",
+          "it": "Utensili acquistati da un non ebreo e che non erano mai stati usati — non richiedono hagalà, ma richiedono immersione nel mikvè (tevila). Se erano stati usati, richiedono prima la purificazione dall'assorbimento (hagalà o libun) e poi l'immersione."
+        },
+        {
+          "n": 24,
+          "he": "כֵּיצַד בּוֹדְקִין הַכֵּלִים",
+          "it": "Come si verificano gli utensili? Per i recipienti che assorbono molto (come le pentole), si esegue la hagalà. Per quelli che non assorbono (come il vetro, secondo alcuni poskim), alcuni ritengono non sia necessaria la hagalà. In pratica, si è severi anche con il vetro in molte comunità (ke-kli cheres — come la ceramica, secondo alcuni; ke-kli makhevet — come il metallo, secondo altri)."
+        },
+        {
+          "n": 25,
+          "he": "הַמְבַשֵּׁל בָּשָׂר בַּחֲלֵב בְּשׁוֹגֵג",
+          "it": "Chi cucina carne nel latte inavvertitamente (be-shogeg) — il cibo prodotto è comunque proibito da mangiare e da trarne beneficio. La proibizione del basar be-chalav si applica al prodotto indipendentemente dall'intenzione del cuoco."
+        },
+        {
+          "n": 26,
+          "he": "בָּשָׂר שֶׁנִּתְבַּשֵּׁל עִם הַחָלָב",
+          "it": "Carne che è stata cotta con il latte — sia la carne sia il latte diventano proibiti, e non si può mangiare nessuno dei due, né trarne beneficio. Se la miscela si è rovesciata su altre pietanze, queste diventano proibite se hanno assorbito il ta'am della miscela (sessantesimo come misura standard)."
+        },
+        {
+          "n": 27,
+          "he": "הַמּוֹצֵא בֵּיצִים שֶׁנִּשְׁלְמוּ בְּמֵעֵי הָעוֹף",
+          "it": "Uova completate (con guscio) trovate nelle interiora di un volatile macellato ritualmente — sono permesse da mangiare con il latte. Non si applica a esse il decreto rabbinico contro il volatile nel latte, perché le uova non sono «carne» del volatile ai fini di basar be-chalav. Se le uova non sono completate (senza guscio), è proibito mangiarle con il latte."
+        },
+        {
+          "n": 28,
+          "he": "כָּל אֵלּוּ הַהֲלָכוֹת שֶׁל בָּשָׂר בְּחָלָב",
+          "it": "Tutte queste norme di basar be-chalav — sia quelle della Torah sia quelle dei Saggi — esprimono il principio che Israele deve separarsi da ciò che è misto e impuro, e mantenere la distinzione tra sacro e profano, tra permesso e proibito. La ragione interiore della proibizione include la compassione verso la creatura vivente (non cucinare il figlio nel latte della madre) e l'educazione alla kedushah nelle abitudini alimentari quotidiane."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 10",
+      "name_he": "הלכות מאכלות אסורות, פרק י",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 10",
+      "halachot_count": 24,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "כָּל הַמְּבַשֵּׁל בָּשָׂר בְּחָלָב לוֹקֶה",
+          "it": "Qualunque persona cucini carne nel latte — nel modo ordinario della cottura — è passibile di flagellazione (maloct) per legge della Torah. Le modalità particolari di cottura (come arrostire, tostare, o cuocere al vapore) non comportano flagellazione ma ricevono makkot mardut. Il principio fondamentale è che la cottura ordinaria (bishul ke-darkà) è quella che attiva la proibizione scritturale."
+        },
+        {
+          "n": 2,
+          "he": "אָסוּר לֶאֱכֹל בָּשָׂר בְּחָלָב",
+          "it": "È proibito mangiare carne nel latte anche senza averla cucinata. Se qualcuno ha trovato carne e latte già misti — sebbene non li abbia cotti lui stesso — è proibito mangiarli. La proibizione del mangiare deriva dalla proibizione del cucinare, come abbiamo spiegato."
+        },
+        {
+          "n": 3,
+          "he": "אֵין מְבַשְּׁלִין בָּשָׂר בְּחָלָב לְגוֹי",
+          "it": "Non si cucina carne nel latte per un non ebreo, perché è proibito trarne qualsiasi beneficio (issur hana'a). Anche se il non ebreo è il destinatario del cibo e non l'ebreo — il semplice atto di cucinare basar be-chalav è proibito per l'ebreo, essendo che beneficia della cottura stessa (hana'at bishul)."
+        },
+        {
+          "n": 4,
+          "he": "אֵין מוֹכְרִין אוֹתוֹ לְגוֹי",
+          "it": "Non si vende basar be-chalav a un non ebreo, non lo si dà in dono a lui, e non lo si porta nel proprio negozio perché non sia stato cucinato da sé. Poiché è proibito trarne qualsiasi beneficio, qualunque forma di commercio con esso è proibita. Lo si deve seppellire o bruciare."
+        },
+        {
+          "n": 5,
+          "he": "הַנּוֹתֵן בָּשָׂר בְּחָלָב לְכֶלֶב",
+          "it": "È proibito dare basar be-chalav a un cane, perché anche questo è una forma di beneficio. Poiché vi è la proibizione di hana'a, lo si deve eliminare senza trarne alcun vantaggio. In pratica, lo si seppellisce nel terreno."
+        },
+        {
+          "n": 6,
+          "he": "כֵּיצַד מְבַדִּילִין בֵּין בָּשָׂר לְחָלָב",
+          "it": "Come si separano la carne dal latte? Gli utensili devono essere completamente separati. La cucina deve avere due set distinti di stoviglie, pentole e utensili — uno per la carne (fleishig) e uno per il latte (milchig). Un utensile usato per la carne non può essere usato per il latte e viceversa, a meno che non sia stato purificato tramite hagalà."
+        },
+        {
+          "n": 7,
+          "he": "הַמַּעֲמִיד גְּבִינָה בְּעוֹר הַקֵּבָה",
+          "it": "Chi fa rapprendere il formaggio con il caglio dello stomaco (kevà) di un animale — vi è una questione se il formaggio sia proibito per basar be-chalav. Se il caglio è stato lavato e non vi rimane sapore di carne, il formaggio è permesso. Se vi rimane sapore di carne (ta'am basar), il formaggio è proibito."
+        },
+        {
+          "n": 8,
+          "he": "הַמַּעֲמִיד חָלָב בְּחֵלֶב דָּג",
+          "it": "Chi fa rapprendere il latte con il grasso di pesce — non vi è basar be-chalav, perché il pesce non è «carne» ai fini di questa proibizione. Tuttavia, poiché vi è la questione del pericolo (sakkanà) nel mangiare pesce insieme al formaggio (come risulta da alcune autorità mediche medievali), alcune comunità sono usi a essere caute."
+        },
+        {
+          "n": 9,
+          "he": "בָּשָׂר הַנִּבְלָע בְּכֵלִי",
+          "it": "Carne il cui sapore sia stato assorbito in un recipiente (ta'am basar she-bala kli) — quando si cucina il latte nel medesimo recipiente, il ta'am della carne si mescola con il latte. Se il ta'am è ancora «attivo» (il recipiente è ben yomo — usato nelle ultime 24 ore), la proibizione è più rigida. Se il recipiente non è ben yomo, vi è chi ritiene che il ta'am sia fgam (deteriorato) e non renda proibito."
+        },
+        {
+          "n": 10,
+          "he": "כֵּלִים הַנִּשְׁתַּמֵּשׁ בָּהֶן בְּחָמִין",
+          "it": "Utensili usati con cibo caldo (chamìn) assorbono il sapore più profondamente di quelli usati con cibo freddo. Per questo, la purificazione (hagalà) richiede acqua bollente. Un utensile usato solo con cibo freddo può essere sufficiente lavarlo bene con acqua fredda, poiché i cibi freddi non assorbono sapori (bard eino bole'a)."
+        },
+        {
+          "n": 11,
+          "he": "כֵּיצַד עוֹשִׂין תִּקּוּן לַכֵּלִים",
+          "it": "Come si purificano gli utensili che hanno assorbito sapori proibiti? Per metalli, vetro e superfici simili — hagalà (immersione in acqua bollente). Per la ceramica porosa — non può essere purificata (beit ha-bliah shelo nifkah). Per superfici usate per cibi arrostiti — libun (arroventamento al fuoco). Queste norme valgono per la purificazione prima di Pesach e per qualunque situazione in cui un recipiente abbia assorbito sapori proibiti."
+        },
+        {
+          "n": 12,
+          "he": "יֵשׁ שֶׁאָסוּר מִדַּאֲרָיְיתָא",
+          "it": "Vi sono distinzioni tra ciò che è proibito per legge della Torah (de-orayyta) e ciò che è proibito per decreto rabbinico (de-rabbanan) nell'ambito del basar be-chalav. Per le proibizioni de-orayyta si applicano misure più rigide (shishim — sessanta volte per l'annullamento), mentre per quelle de-rabbanan i poskim discutono se si possano applicare misure più lenitive in caso di perdita economica significativa (hefsed merubè)."
+        },
+        {
+          "n": 13,
+          "he": "כַּמָּה שִׁיעוּרֵי בִּיטּוּל",
+          "it": "Quante sono le misure di annullamento (sheurei bittul)? La regola principale è sessanta (shishim): se la sostanza permessa è sessanta volte la sostanza proibita, quest'ultima è annullata (batel be-shishim). Vi è anche l'annullamento per maggioranza (bittul be-rov) per alcune categorie di proibizioni. E vi è l'annullamento per nullità di valore (bittul be-shishim ve-echad — sessantuno per alcune opinioni). Ogni categoria di proibizione ha le sue regole specifiche."
+        },
+        {
+          "n": 14,
+          "he": "דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין",
+          "it": "Una cosa che ha un modo di diventare permessa (davar she-yesh lo mattirin) — non si annulla anche in grandi quantità. Ad esempio, il basar be-chalav non si annulla perché può diventare permesso (separando la carne dal latte prima della cottura). Questo principio è discusso dai poskim in relazione a varie situazioni di miscuglio."
+        },
+        {
+          "n": 15,
+          "he": "בָּשָׂר בְּחָלָב בְּשׁוֹגֵג וּבְמֵזִיד",
+          "it": "Basar be-chalav preparato inavvertitamente (be-shogeg) — il cibo prodotto è comunque proibito. Il cuoco non è passibile di flagellazione (poiché non era intenzionale), ma la miscela stessa rimane proibita. Se era intenzionale (be-mezid) — il cuoco è passibile di flagellazione e la miscela è proibita."
+        },
+        {
+          "n": 16,
+          "he": "מוֹדָה הַמְבַשֵּׁל",
+          "it": "Se il cuoco ammette di aver cotto carne nel latte — la sua ammissione è accettata per proibire il cibo, anche se non vi erano testimoni. La regola è che per le proibizioni alimentari, l'ammissione personale (odeh) crea la proibizione."
+        },
+        {
+          "n": 17,
+          "he": "הָאִשָּׁה שֶׁאָמְרָה",
+          "it": "Una donna che ha dichiarato di aver cucinato carne nel latte — la sua dichiarazione è accettata riguardo alla proibizione del cibo che ha preparato. Una donna è ritenuta affidabile (ne'emanet) riguardo alle questioni di kashrut della propria cucina, come un uomo."
+        },
+        {
+          "n": 18,
+          "he": "כֵּיצַד יוֹדֵעַ אָדָם",
+          "it": "Come sa una persona se ciò che ha davanti è carne o latte quando non ne è sicuro? In caso di dubbio (safèk), si applica il principio: si va dopo la maggioranza (acharè ha-rov) della situazione di mercato, o si è severi (lechumrà) se non vi è maggioranza chiara."
+        },
+        {
+          "n": 19,
+          "he": "כֵּיצַד מְבָרְכִין עַל בָּשָׂר",
+          "it": "Come si recita la benedizione (berachà) sulla carne? Si recita «shehakol nihye bi-dvaro» (tutto è stato creato per sua parola). Analogamente per il latte. La benedizione non dipende dalla categoria del cibo (carne o latte) ma dalla sua natura intrinseca. Mangiare carne kosher è un atto di kedushah quando fatto con consapevolezza e con rispetto delle norme della halachà."
+        },
+        {
+          "n": 20,
+          "he": "אֵלּוּ דְּבָרִים מֻתָּרִים בְּהֲנָאָה",
+          "it": "Le seguenti cose sono permesse da mangiare e da trarne beneficio anche se inizialmente possono sembrare problematiche: il latte trovato nello stomaco di un animale macellato ritualmente (prima del caglio), il siero di latte (mai chalav), il latte di un animale morto senza macellazione rituale — secondo alcune autorità. In ogni caso di dubbio, si consulta un rabbino competente."
+        },
+        {
+          "n": 21,
+          "he": "נְסָכִים שֶׁל גּוֹיִם",
+          "it": "Il vino dei non ebrei (yayin nesech — vino usato per libagioni idolatriche) è proibito da mangiare e da trarne qualsiasi beneficio. Il semplice vino dei non ebrei (stam yayin shel goyim) è proibito da mangiare per decreto rabbinico, ma secondo molti poskim è permesso trarne beneficio. Le norme del vino dei non ebrei sono trattate in dettaglio in una sezione separata."
+        },
+        {
+          "n": 22,
+          "he": "בֵּין כָּל הָאִסּוּרִין",
+          "it": "Tra tutte le proibizioni alimentari, il basar be-chalav e le leggi connesse occupano un posto centrale nella kashrut quotidiana, poiché coinvolgono la separazione tra due categorie fondamentali dell'alimentazione ebraica: la carne e il latte. L'osservanza diligente di queste norme è parte del carattere distintivo di Israele tra le nazioni."
+        },
+        {
+          "n": 23,
+          "he": "כָּל אֵלּוּ הָאִסּוּרִין",
+          "it": "Tutte queste proibizioni — dei cibi proibiti, della neveilà e terefà, del chelev e del dam, del basar be-chalav — mirano a santificare il popolo d'Israele nel suo quotidiano. L'alimentazione non è soltanto nutrimento fisico, ma espressione di identità spirituale. Chi si astiene dai cibi proibiti con diligenza e amore merita la denominazione di «kadosh» (santo), come è detto [Levitico 19:2]: «Siate santi, poiché Io, il Signore vostro D-o, sono santo.»"
+        },
+        {
+          "n": 24,
+          "he": "לְפִיכָךְ צָרִיךְ אָדָם",
+          "it": "Pertanto, ogni persona è obbligata a fare attenzione alle norme dei cibi proibiti, a studiarle con cura e ad applicarle nella pratica. Chi non è sicuro deve chiedere a un rabbino competente (morè hora'à). Il principio fondamentale in ogni questione di kashrut è: quando vi è dubbio — si è severi (safèk de-orayyta le-chumrà); quando si tratta di questione rabbinica e vi è perdita economica significativa — si può cercare un fondamento per la leniency (safèk de-rabbanan le-kula). La kedushah dell'alimentazione è la base della kedushah di Israele."
+        }
+      ]
+    }
+  ],
+  "_glossary_terms_used": ["gid ha-nashè", "kaf ha-yarech", "maloct", "makkot mardut", "bittul", "ta'am", "shishim", "basar be-chalav", "bishul", "hana'a", "issur hana'a", "hagalà", "libun", "ben yomo", "fleishig", "milchig", "kevà", "neveilà", "terefà", "chelev", "dam", "ne'eman", "safèk", "lechumrà", "morè hora'à", "kedushah", "bela'", "poleto"]
+}

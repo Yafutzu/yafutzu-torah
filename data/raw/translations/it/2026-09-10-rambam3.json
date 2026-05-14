@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 2-4",
+  "name_he": "משנה תורה, הלכות כלים, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dei Vasi, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-09-10",
+  "hebrew_date": "28 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "2:1", "he": "כֵּלֵי מַתֶּכֶת — מְקַבְּלִים כָּל טֻמְאָה שֶׁבָּעוֹלָם. מִטַּהֲרִין בִּטְבִילָה.", "it": "I vasi di metallo — ricevono qualsiasi tipo di impurità. Si purificano con l'immersione."},
+    {"n": "2:2", "he": "כְּלִי מַתֶּכֶת שֶׁנִּשְׁבַּר — אֵינוֹ מְקַבֵּל טֻמְאָה. נִתַּקֵּן — חוֹזֵר לְקַבֵּל טֻמְאָה.", "it": "Un vaso di metallo che si è rotto — non riceve impurità. Se è stato riparato — torna a ricevere impurità."},
+    {"n": "2:3", "he": "הַשְׁבָּרַת כְּלִי מַתֶּכֶת מְטַהֶרֶת אוֹתוֹ — שֶׁאֵינוֹ שָׁלֵם לִשְׁמוּשׁ.", "it": "La rottura di un vaso di metallo lo purifica — poiché non è integro per l'uso."},
+    {"n": "3:1", "he": "כֵּלֵי עֵץ — מְקַבְּלִים טֻמְאָה רַק אִם יֵשׁ לָהֶם בֵּית קִבּוּל — כְּגוֹן קְעָרָה, לֹא לוּחַ שָׁטוּחַ.", "it": "I vasi di legno — ricevono impurità solo se hanno un contenitore (beit kibul) — come una ciotola, non una tavola piatta."},
+    {"n": "3:2", "he": "לוּחַ עֵץ שָׁטוּחַ — אֵינוֹ מְקַבֵּל טֻמְאָה כִּי אֵין לוֹ בֵּית קִבּוּל.", "it": "Una tavola di legno piatta — non riceve impurità perché non ha un contenitore."},
+    {"n": "3:3", "he": "עֵץ שֶׁנִּשְׁבַּר — טָהוֹר, כְּמֵי מַתֶּכֶת, אִם אֵינוֹ יָכוֹל לִשְׁמֵשׁ עוֹד.", "it": "Il legno che si è rotto — è puro, come il metallo, se non può più servire."},
+    {"n": "4:1", "he": "כְּלֵי חֶרֶשׂ — מְקַבְּלִים טֻמְאָה רַק מֵאֲוִירָם. נְגִיעָה מִבַּחוּץ — אֵינָהּ מְטַמֵּא.", "it": "I vasi di argilla — ricevono impurità solo dall'aria al loro interno. Il tocco dall'esterno — non rende impuro."},
+    {"n": "4:2", "he": "כְּלִי חֶרֶשׂ שֶׁנִּטְמָא — אֵינוֹ מִטַּהֵר בִּטְבִילָה. טָהֳרָתוֹ — שְׁבִירָה.", "it": "Un vaso di argilla che è diventato impuro — non si purifica con l'immersione. La sua purificazione — è la rottura."},
+    {"n": "4:3", "he": "שָׁבַר כְּלִי חֶרֶשׂ — טָהוֹר לְגַמְרֵי. לְכֵן כְּלִי חֶרֶשׂ טָמֵא — יֵשׁ לְשָׁבְרוֹ.", "it": "Ha rotto un vaso di argilla — è completamente puro. Pertanto un vaso di argilla impuro — deve essere rotto."}
+  ],
+  "_glossary_terms_used": ["kelim", "kli cheres", "beit kibul", "kli shavur", "mikveh"]
+}

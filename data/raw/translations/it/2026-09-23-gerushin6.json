@@ -1,0 +1,127 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 6",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ו",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 6",
+  "cycle": "rambam-1",
+  "date": "2026-09-23",
+  "hebrew_date": "12 Tishrei 5787",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַגֵּט הַמְעוּשֶׂה — כֵּיצַד? אִם כְּפָאוּהוּ גּוֹיִים לְגָרֵשׁ — פָּסוּל. אֲבָל כְּפָאוּהוּ יִשְׂרָאֵל בְּמָקוֹם שֶׁהַדִּין נוֹתֵן — כָּשֵׁר.",
+      "it": "Il get forzato (get meuseh) — come si applica? Se dei non-ebrei lo hanno costretto a divorziare — è invalido. Ma se degli ebrei lo hanno costretto nei casi in cui la legge lo prescrive — è valido."
+    },
+    {
+      "n": 2,
+      "he": "הַטַּעַם: גֵּרוּשִׁין שֶׁחֲכָמִים כּוֹפִין — הַבַּעַל רוֹצֶה בַּעֲצַם נַפְשׁוֹ לְגָרֵשׁ, שֶׁנַּפְשׁוֹ שֶׁל כָּל יִשְׂרָאֵל חֲפֵצָה לְקַיֵּם מִצְווֹת. וְהַיֵּצֶר הָרַע הוּא שֶׁמּוֹנֵעַ.",
+      "it": "La ragione: nei divorzi che i Saggi costringono — il marito nel suo intimo più profondo vuole divorziare, perché l'anima di ogni israelita vuole osservare i precetti. Ed è l'istinto malvagio a impedirlo."
+    },
+    {
+      "n": 3,
+      "he": "לְפִיכָּך כְּשֶׁכּוֹפִין אוֹתוֹ עַד שֶׁיֹּאמַר 'רוֹצֶה אֲנִי' — גֵּט כָּשֵׁר, שֶׁלֹּא כָּפוּהוּ אֶלָּא לְגַלּוֹת אֶת רְצוֹנוֹ הָאֲמִתִּי.",
+      "it": "Perciò quando lo costringono finché dice 'Voglio' — il get è valido, perché lo hanno costretto solo per rivelare la sua vera volontà."
+    },
+    {
+      "n": 4,
+      "he": "גֵּרַשׁ בְּגֵּט מְעוּשֶׂה שֶׁלֹּא כְּדִין — יֵשׁ אוֹמְרִים שֶׁהָאִשָּׁה צְרִיכָה גֵּט אַחֵר לְהַתִּיר עַצְמָהּ, וְיֵשׁ אוֹמְרִים שֶׁהִיא מֻתֶּרֶת.",
+      "it": "Se ha divorziato con un get forzato non secondo la legge — c'è chi dice che la donna ha bisogno di un altro get per liberarsi, e c'è chi dice che è permessa."
+    },
+    {
+      "n": 5,
+      "he": "הָרַמְבַּ\"ם פָּסַק: גֵּט מְעוּשֶׂה שֶׁלֹּא כְּדִין — פָּסוּל לְגַמְרֵי, וְהַוָּלָד מִנִּשּׂוּאִין שְׁנִיִּים — מַמְזֵר.",
+      "it": "Il Rambam ha stabilito: il get forzato non secondo la legge — è completamente invalido, e il figlio da un secondo matrimonio — è un mamzer."
+    },
+    {
+      "n": 6,
+      "he": "כָּפוּהוּ גּוֹיִם לְגָרֵשׁ בְּמָמוֹן — כְּגוֹן שֶׁאִיֵּם 'אִם לֹא תְּגָרֵשׁ אֶטֹּל מָמוֹנְךָ' — גֵּט כָּשֵׁר, שֶׁאֵין זֶה אֹנֶס הַגּוּף אֶלָּא אֹנֶס הַמָּמוֹן.",
+      "it": "Se dei non-ebrei lo hanno costretto a divorziare con una minaccia finanziaria — ad esempio 'Se non divorzi ti prendo il denaro' — il get è valido, perché non è coercizione fisica ma finanziaria."
+    },
+    {
+      "n": 7,
+      "he": "כָּפוּהוּ בְּמַכּוֹת לְגָרֵשׁ — גֵּט בָּטֵל. שֶׁהָאֹנֶס הַגּוּף בָּטֵל הָרָצוֹן לְגַמְרֵי.",
+      "it": "Se lo hanno costretto con le percosse a divorziare — il get è nullo, perché la coercizione fisica annulla completamente la volontà."
+    },
+    {
+      "n": 8,
+      "he": "מַה הֵם הַמְּקוֹמוֹת שֶׁכּוֹפִין אֶת הַבַּעַל לְגָרֵשׁ? כְּגוֹן שֶׁהָיָה לוֹ מוּם גָּדוֹל, אוֹ שֶׁהָיָה עוֹסֵק בְּמִקְצוֹעַ מְסָאֵן שֶׁרֵיחוֹ רַע, אוֹ שֶׁהָיָה מוּרָד בְּאִשְׁתּוֹ.",
+      "it": "Quali sono i casi in cui si costringe il marito a divorziare? Ad esempio se aveva un grave difetto fisico, o se esercitava un mestiere dall'odore sgradevole, o se era ribelle verso la moglie."
+    },
+    {
+      "n": 9,
+      "he": "וְכֵן אִם הֶחֱרִים עָלֶיהָ — כּוֹפִין אוֹתוֹ לְגָרֵשׁ. שֶׁאֵין הָאִשָּׁה יְכוֹלָה לִחְיוֹת עִמּוֹ בְּחֵרֶם.",
+      "it": "Allo stesso modo se ha lanciato contro di lei il cherem — lo si costringe a divorziare, perché la donna non può vivere con lui in stato di cherem."
+    },
+    {
+      "n": 10,
+      "he": "מֵאֵן לְזוֹן אֶת אִשְׁתּוֹ — כּוֹפִין אוֹתוֹ לְגָרֵשׁ. שֶׁמְּזוֹן הָאִשָּׁה חִיּוּב מִן הַתּוֹרָה.",
+      "it": "Se si rifiuta di mantenere la moglie — lo si costringe a divorziare, perché il mantenimento della moglie è un obbligo dalla Torah."
+    },
+    {
+      "n": 11,
+      "he": "בֵּית דִּין שֶׁכּוֹפֶה שֶׁלֹּא כְּדִין — הוּא בֵּית דִּין שֶׁטָּעָה. וְהַגֵּט שֶׁנִּתַּן בְּטָעוּת בֵּית דִּין — פָּסוּל.",
+      "it": "Un tribunale che costringe non secondo la legge — è un tribunale che ha errato. E il get dato a seguito di errore del tribunale — è invalido."
+    },
+    {
+      "n": 12,
+      "he": "'יְיַשֵּׁר כֹּחוֹ' — אָמְרוּ חֲכָמִים עַל מִי שֶׁנָּתַן גֵּט בֶּאֱמֶת. אֲבָל לֹא נֶאֱמַר 'יְיַשֵּׁר כֹּחוֹ' עַל גֵּט מְעוּשֶׂה שֶׁלֹּא כְּדִין.",
+      "it": "'Yiyasher kochacha' — i Saggi lo dissero su chi ha dato il get in verità. Ma non si dice 'Yiyasher kochacha' su un get forzato non secondo la legge."
+    },
+    {
+      "n": 13,
+      "he": "אָמַר 'אֵינִי רוֹצֶה' בְּשָׁעַת כְּפִיָּה — כֵּיוָן שֶׁאָמַר 'רוֹצֶה אֲנִי' אַחַר כָּך — הָרִאשׁוֹן בָּטֵל, שֶׁהַדַּעַת הָאַחֲרוֹנָה קוֹבַעַת.",
+      "it": "Se ha detto 'Non voglio' durante la coercizione — non appena poi ha detto 'Voglio' — il primo è annullato, perché è l'ultima decisione a essere determinante."
+    },
+    {
+      "n": 14,
+      "he": "הִתְנַדֵּב לְגָרֵשׁ בְּלֹא כְּפִיָּה — אֵין צֹרֶךְ לְבָרֵר הַתְּנַדְּבוּת, וְהַגֵּט כָּשֵׁר.",
+      "it": "Se ha divorziato spontaneamente senza coercizione — non occorre verificare la spontaneità, e il get è valido."
+    },
+    {
+      "n": 15,
+      "he": "אִשָּׁה שֶׁהֵבִיאָה עֵדִים שֶׁבַּעְלָהּ בִּיְרוּשָׁלַיִם וְגֵּרְשָׁהּ שָׁם — יֵשׁ לְהַאֲמִינָהּ, אֲבָל בֵּית דִּין צָרִיכִין לְהַזְהִיר בְּגֵּט שֶׁנִּתַּן בְּמָקוֹם רָחוֹק.",
+      "it": "Una donna che ha portato testimoni che il marito si trovava a Gerusalemme e là l'ha divorziata — si può crederle, ma il tribunale deve essere cauto riguardo a un get consegnato in un luogo lontano."
+    },
+    {
+      "n": 16,
+      "he": "גֵּט שֶׁנִּתַּן בַּחוּץ לָאָרֶץ — הַשָּׁלִיחַ אוֹמֵר 'בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם' לְהָכְשִׁיר אוֹתוֹ.",
+      "it": "Un get consegnato fuori dalla Terra d'Israele — l'agente dice 'Davanti a me è stato scritto e davanti a me è stato firmato' per renderlo valido."
+    },
+    {
+      "n": 17,
+      "he": "בֵּית דִּין שֶׁלֹּא הָיָה בּוֹ מֻמְחֶה — גֵּט שֶׁנִּתַּן בְּפָנָיו — פָּסוּל. צָרִיךְ מֻמְחֶה בְּהִלְכוֹת גִּיטִּין.",
+      "it": "Un tribunale che non aveva al suo interno un esperto — il get consegnato davanti ad esso — è invalido. Occorre un esperto nelle leggi dei get."
+    },
+    {
+      "n": 18,
+      "he": "הַמְסָרֵב לָתֵת גֵּט כְּשֶׁמִּתְחַיֵּב — בֵּית דִּין מַכְרִיז עָלָיו בְּבֵית הַכְּנֶסֶת שֶׁהוּא מְסָרֵב.",
+      "it": "Chi si rifiuta di dare il get quando è obbligato — il tribunale lo proclama nella sinagoga come refrattario."
+    },
+    {
+      "n": 19,
+      "he": "וְעוֹד: מַפְרִישִׁין אוֹתוֹ מִשְּׁאָר בְּנֵי אָדָם עַד שֶׁיִּתֵּן. בִּזְמַן שֶׁיֵּשׁ לְבֵית דִּין כֹּחַ לַעֲשׂוֹת כֵּן.",
+      "it": "Inoltre: lo si isola dagli altri esseri umani finché non dà il get. Quando il tribunale ha il potere di farlo."
+    },
+    {
+      "n": 20,
+      "he": "בַּזְּמַן הַזֶּה — שֶׁאֵין לָנוּ סַנְהֶדְרִין — הַכְּפִיָּה הִיא בְּהַכְרָזָה וּבְנִידּוּי בִּלְבַד.",
+      "it": "Al giorno d'oggi — quando non abbiamo il Sinedrio — la coercizione avviene solo mediante proclamazione e il niddui (ostracismo)."
+    },
+    {
+      "n": 21,
+      "he": "אִשָּׁה שֶׁבַּעְלָהּ הוֹלֵךְ לְמָקוֹם אַחֵר וְאֵינוֹ רוֹצֶה לְגָרֵשׁ — יֵשׁ לְבֵית דִּין לְזָרֵז אוֹתוֹ בְּכָל דֶּרֶךְ אֶפְשָׁרִית.",
+      "it": "Una donna il cui marito si è recato altrove e non vuole divorziare — il tribunale deve incitarlo in ogni modo possibile."
+    },
+    {
+      "n": 22,
+      "he": "סִיּוּם: אִין לָנוּ כֹּחַ לְהַכְרִיחַ גֵּרוּשִׁין שֶׁלֹּא כְּדִין, אֲבָל יֵשׁ לָנוּ חוֹבָה לְהִשְׁתַּדֵּל לְהַצִּיל אֵשֶׁת אִישׁ מֵעֲגִינוּת.",
+      "it": "Conclusione: non abbiamo il potere di costringere divorzi non secondo la legge, ma abbiamo il dovere di adoperarci per salvare una donna legata dall'agunah."
+    },
+    {
+      "n": 23,
+      "he": "וּבְכָל דּוֹר וָדוֹר, גְּדוֹלֵי יִשְׂרָאֵל עָמְלוּ לִמְצֹא דֶּרֶךְ כְּשֵׁרָה לְהַתִּיר עֲגֻנּוֹת — זוֹ הִיא מְלֶאכֶת שָׁמַיִם.",
+      "it": "In ogni generazione, i grandi di Israele si sono adoperati per trovare un mezzo legittimo per liberare le agunot — questo è lavoro celeste."
+    }
+  ],
+  "_glossary_terms_used": ["get meuseh", "ones", "kefiyah", "agunah", "beit din", "niddui"]
+}

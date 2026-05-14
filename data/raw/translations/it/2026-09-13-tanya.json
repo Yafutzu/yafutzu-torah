@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 3",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ג",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah, capitolo 3",
+  "cycle": "tanya",
+  "date": "2026-09-13",
+  "hebrew_date": "2 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "הַתְּשׁוּבָה מִן הַתּוֹרָה — מִצְטָרֶכֶת רַק חֲרָטָה בַּלֵּב. אֲבָל חֲכָמִים הוֹסִיפוּ וִידּוּי בַּפֶּה — 'וִידּוּי דְּבָרִים'. כְּדֵי שֶׁהַהַכָּרָה הַפְּנִימִית תִּתְבַּטֵּא בְּדִבּוּר מְפֹרָשׁ.", "it": "La teshuvah dalla Torah — richiede solo pentimento nel cuore. Ma i Saggi hanno aggiunto la confessione verbale — 'vidui devarim'. Affinché il riconoscimento interiore si esprima in parole esplicite."},
+    {"n": 2, "he": "הַשְּׂפָתַיִם הֵם בְּחִינַת 'מַלְכוּת' — הַסְּפִירָה הַתַּחְתּוֹנָה הַמְּגַלָּה. הַוִּידּוּי בַּפֶּה מְחַבֵּר אֶת הַחֲרָטָה הַפְּנִימִית אֶל הַגִּלּוּי הַחִיצוֹן — אֶל הָעוֹלָם הַמַּעֲשִׂי.", "it": "Le labbra sono nell'aspetto del 'Malchut' — la Sefirah inferiore che rivela. La confessione verbale connette il pentimento interiore alla rivelazione esterna — al mondo pratico."},
+    {"n": 3, "he": "מִכָּאן גַּם הַמַּשְׁמָעוּת: הַוִּידּוּי אֵינוֹ רַק טֶכְנִי — אֶלָּא הוּא פֶּתַח לְהַעֲמִיק אֶת הַחֲרָטָה. כְּשֶׁמְּדַבְּרִים אֶת הַחֵטְא — מַכִּירִים בּוֹ בְּצוּרָה עֲמֻקָּה יוֹתֵר.", "it": "Da qui anche il significato: la confessione non è solo tecnica — ma è un'apertura per approfondire il pentimento. Quando si parla del peccato — lo si riconosce in modo più profondo."}
+  ],
+  "_glossary_terms_used": ["teshuvah", "vidui", "charatah", "Malchut"]
+}

@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 2",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ב",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 2",
+  "cycle": "rambam-1",
+  "date": "2026-09-19",
+  "hebrew_date": "8 Tishrei 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נֻסַּח הַגֵּט כָּזֶה: 'הֲרֵי אַתְּ מֻתֶּרֶת לְכָל אָדָם.' זֶה הוּא עִיקַּר נֻסַּח הַגֵּט. אֲבָל כּוֹתְבִין גַּם שֵׁם הַבַּעַל וְשֵׁם הָאִשָּׁה וְשֵׁם הָעִיר וְהַזְּמַן.",
+      "it": "Il testo del get è il seguente: 'Ecco che sei permessa a qualsiasi uomo.' Questa è la formula essenziale del get. Ma si scrive anche il nome del marito, il nome della moglie, il nome della città e la data."
+    },
+    {
+      "n": 2,
+      "he": "שֵׁם הַבַּעַל — כּוֹתְבִין שְׁמוֹ הַמּוּכָּר שֶׁבָּהֶם. שֵׁם הָאִשָּׁה — כּוֹתְבִין שְׁמָהּ הַמּוּכָּר שֶׁבָּהֶם. לֹא כָּתַב כְּלָל — פָּסוּל.",
+      "it": "Per il nome del marito — si scrive il suo nome più noto. Per il nome della moglie — si scrive il suo nome più noto. Se non ha scritto alcun nome — il get è invalido."
+    },
+    {
+      "n": 3,
+      "he": "כָּתַב שֵׁם שֶׁאֵינוֹ מַכִּירִין בּוֹ — פָּסוּל. יֵשׁ לוֹ שֵׁם אַחֵר — צָרִיךְ לִכְתֹּב שְׁנֵיהֶם, שֶׁנֶּאֱמַר: 'וְכָתַב לָהּ' — שֶׁיִּהְיֶה הַכְּתִיבָה מְכַוֶּנֶת לָהּ.",
+      "it": "Se ha scritto un nome con cui non è conosciuto — il get è invalido. Se ha un altro nome — occorre scrivere entrambi, come è detto: 'Le scriverà' — che la scrittura sia rivolta specificamente a lei."
+    },
+    {
+      "n": 4,
+      "he": "הָעִיר — כּוֹתְבִין שֵׁם הָעִיר שֶׁהַבַּעַל וְהָאִשָּׁה יוֹשְׁבִין בָּהּ. לֹא כָּתַב שֵׁם הָעִיר — יֵשׁ אוֹמְרִים פָּסוּל, וְיֵשׁ אוֹמְרִים כָּשֵׁר.",
+      "it": "La città — si scrive il nome della città in cui risiedono il marito e la moglie. Se non ha scritto il nome della città — c'è chi dice che è invalido, e chi dice che è valido."
+    },
+    {
+      "n": 5,
+      "he": "הָרַמְבַּ\"ם פָּסַק שֶׁצָּרִיךְ לִכְתֹּב שֵׁם הָעִיר, וְאִם לֹא כָּתַב — פָּסוּל מִדִּבְרֵי חֲכָמִים.",
+      "it": "Il Rambam ha stabilito che occorre scrivere il nome della città, e se non l'ha scritto — il get è invalido per disposizione dei Saggi."
+    },
+    {
+      "n": 6,
+      "he": "הַזְּמַן — כּוֹתְבִין יוֹם, חֹדֶשׁ, וְשָׁנָה. לֹא כָּתַב — פָּסוּל. שֶׁהַזְּמַן מַבְחִין בֵּין בֵּן הַגֵּרוּשִׁין לְבֵן הַנִּשּׂוּאִין.",
+      "it": "La data — si scrive giorno, mese e anno. Se non ha scritto la data — il get è invalido, perché la data distingue tra il figlio nato dopo il divorzio e quello nato durante il matrimonio."
+    },
+    {
+      "n": 7,
+      "he": "הַגֵּט הוּא שְׁנֵים עָשָׂר שִׁיטִין — מִנְהָג וָתִיק. אֵין זֶה מְעַכֵּב בְּדִיעֲבַד, אֲבָל לְכַתְּחִלָּה כּוֹתְבִין שְׁנֵים עָשָׂר שִׁיטִין.",
+      "it": "Il get ha tradizionalmente dodici righe — è una consuetudine consolidata. Questo non è determinante dopo il fatto, ma a priori si scrivono dodici righe."
+    },
+    {
+      "n": 8,
+      "he": "מִנְיַן הַשִּׁיטִין: בָּרִאשׁוֹנָה כּוֹתְבִין 'הֲרֵי אַתְּ מֻתֶּרֶת', בַּשְּׁנִיָּה שֵׁם הַבַּעַל, בַּשְּׁלִישִׁית שֵׁם הָאִשָּׁה, בָּרְבִיעִית הָעִיר, בַּחֲמִישִׁית הַזְּמַן, וְכוּ'.",
+      "it": "Il conteggio delle righe: nella prima si scrive 'Ecco che sei permessa', nella seconda il nome del marito, nella terza il nome della moglie, nella quarta la città, nella quinta la data, e così via."
+    },
+    {
+      "n": 9,
+      "he": "הָעֵדִים — חוֹתְמִין בַּגֵּט מִתַּחַת. עֵד שֶׁחָתַם עַל גֵּט וְאֵינוֹ יָכוֹל לִקְרוֹת — פָּסוּל לְעֵדוּת.",
+      "it": "I testimoni — firmano il get in fondo. Un testimone che ha firmato un get ma non sa leggere — è inidoneo come testimone."
+    },
+    {
+      "n": 10,
+      "he": "צָרִיךְ שְׁנֵי עֵדִים בְּגֵּט. עֵד אֶחָד — פָּסוּל. שְׁנֵי עֵדִים שֶׁחָתְמוּ — כָּשֵׁר, אַף שֶׁאֵין מַכִּירִים אֶת הַבַּעַל.",
+      "it": "Occorrono due testimoni nel get. Un solo testimone — invalido. Due testimoni che hanno firmato — valido, anche se non conoscono il marito."
+    },
+    {
+      "n": 11,
+      "he": "קָרוֹב שֶׁחָתַם — פָּסוּל. עֵד שֶׁנִּמְצָא קָרוֹב לְאַחַר מִכֵּן — מַחְלֹקֶת: יֵשׁ פּוֹסְלִים וְיֵשׁ מְכַשְּׁרִים.",
+      "it": "Un parente che ha firmato — invalido. Se si scopre dopo che un testimone è parente — è oggetto di disputa: alcuni lo invalidano e alcuni lo giudicano valido."
+    },
+    {
+      "n": 12,
+      "he": "עֵד שֶׁחָתַם בַּגֵּט וְנִמְצָא פָּסוּל — אִם חָתַם עִמּוֹ עֵד כָּשֵׁר, הַגֵּט כָּשֵׁר אִם נִשְׁאַר עֵד כָּשֵׁר.",
+      "it": "Se un testimone che ha firmato il get risulta invalido — se insieme a lui ha firmato un testimone valido, il get è valido purché rimanga un testimone valido."
+    },
+    {
+      "n": 13,
+      "he": "הַסּוֹפֵר שֶׁכָּתַב הַגֵּט — אֵינוֹ צָרִיךְ לִהְיוֹת כָּשֵׁר לְעֵדוּת. אֲבָל טוֹב שֶׁיִּהְיֶה כָּשֵׁר.",
+      "it": "Lo scriba che ha scritto il get non deve necessariamente essere idoneo come testimone. Ma è preferibile che lo sia."
+    },
+    {
+      "n": 14,
+      "he": "כָּתַב הַסּוֹפֵר וְחָתַם עֵד אֶחָד בִּלְבַד — פָּסוּל. כָּתַב הַסּוֹפֵר וְחָתַם הַבַּעַל — לֹא עָלְתָה לוֹ חֲתִימָה, שֶׁאֵין הַבַּעַל עֵד בְּגִיטּוֹ שֶׁלּוֹ.",
+      "it": "Se lo scriba ha scritto e ha firmato un solo testimone — invalido. Se lo scriba ha scritto e ha firmato il marito — la firma non conta, perché il marito non è testimone nel proprio get."
+    },
+    {
+      "n": 15,
+      "he": "כָּתַב גֵּט וְנָתַן בְּיַד הָאִשָּׁה, וְאַחַר כָּך מֵת הַבַּעַל — הַגֵּט כָּשֵׁר וְהִיא מְגֹרֶשֶׁת, וְאֵינָהּ צְרִיכָה יִבּוּם.",
+      "it": "Se ha scritto il get e l'ha consegnato alla moglie, e poi il marito è morto — il get è valido e lei è divorziata, e non ha bisogno del levirato."
+    },
+    {
+      "n": 16,
+      "he": "גֵּט שֶׁנִּכְתַּב שֶׁלֹּא בִּפְנֵי הַבַּעַל — פָּסוּל, שֶׁנֶּאֱמַר: 'וְכָתַב לָהּ' — הוּא בְּעַצְמוֹ יִכְתֹּב אוֹ יֹאמַר לִכְתֹּב.",
+      "it": "Un get scritto non alla presenza del marito — è invalido, come è detto: 'Le scriverà' — deve scriverlo personalmente o ordinare di scriverlo."
+    },
+    {
+      "n": 17,
+      "he": "אָמַר 'כִּתְבוּ' וְלֹא אָמַר 'חִתְמוּ' — חוֹתְמִין. שֶׁהַחֲתִימָה בִּכְלַל הַכְּתִיבָה.",
+      "it": "Se ha detto 'Scrivete' ma non ha detto 'Firmate' — si firma ugualmente, perché la firma è inclusa nella scrittura."
+    },
+    {
+      "n": 18,
+      "he": "כָּתַב בְּיָדוֹ וְלֹא חָתַם — פָּסוּל. חָתַם וְלֹא כָּתַב — פָּסוּל. כָּתַב וְחָתַם — כָּשֵׁר.",
+      "it": "Se ha scritto di sua mano ma non ha firmato — invalido. Se ha firmato ma non ha scritto — invalido. Se ha scritto e firmato — valido."
+    },
+    {
+      "n": 19,
+      "he": "גֵּט שֶׁנִּכְתַּב בְּאֶרֶץ יִשְׂרָאֵל וּבָאָה לִגְבּוֹת בְּחוּץ לָאָרֶץ — צָרִיךְ שֶׁיַּעִידוּ עָלָיו שְׁנַיִם שֶׁנֶּחְתַּם בְּפָנֵיהֶם.",
+      "it": "Un get scritto in Terra d'Israele portato a riscuotere fuori dalla Terra d'Israele — richiede la testimonianza di due persone che attestino che è stato firmato in loro presenza."
+    },
+    {
+      "n": 20,
+      "he": "גֵּט שֶׁנִּכְתַּב בְּחוּץ לָאָרֶץ וּבָאָה לִגְבּוֹת בָּאָרֶץ — כָּשֵׁר, שֶׁהַגֵּט כָּשֵׁר בְּכָל מָקוֹם שֶׁנִּכְתַּב.",
+      "it": "Un get scritto fuori dalla Terra d'Israele portato a riscuotere nella Terra d'Israele — è valido, perché il get è valido ovunque venga scritto."
+    }
+  ],
+  "_glossary_terms_used": ["get", "edim", "nusach", "sofer", "lishmah", "ir"]
+}

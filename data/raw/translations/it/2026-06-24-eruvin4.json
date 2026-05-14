@@ -1,0 +1,97 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 4",
+  "name_he": "משנה תורה, הלכות עירובין פרק ד",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-24",
+  "hebrew_date": "9 Tammuz 5786",
+  "halachot_count": 17,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַמֵּנִיחַ אֶת עֵרוּבוֹ בִּמְעָרָה...",
+      "it": "Chi deposita il proprio eruv techumin in una grotta o in un luogo chiuso: l'eruv è valido a condizione che il cibo sia fisicamente raggiungibile e non nascosto in modo che non possa essere recuperato. Se la grotta è accessibile, si 'dimora' all'entrata della grotta per scopi del techum."
+    },
+    {
+      "n": 2,
+      "he": "שַׁיָּרָא שֶׁהָיְתָה מְהַלֶּכֶת בַּמִּדְבָּר...",
+      "it": "Una carovana che viaggiava nel deserto: se il Sabato li coglie mentre sono in cammino, tutti i membri della carovana il cui 'luogo di dimora' non è stato fissato con un eruv condividono il luogo in cui si trovano all'inizio del Sabato. Se alcuni hanno fatto l'eruv e altri no, quelli che l'hanno fatto hanno il proprio techum separato."
+    },
+    {
+      "n": 3,
+      "he": "מִי שֶׁיָּצָא מִחוּץ לַתְּחוּם...",
+      "it": "Chi è uscito oltre il proprio techum del Sabato, anche solo di qualche amah (cubiti): ha perso i propri quattro cubiti. La punizione dei Saggi è severa: non può muoversi più di quattro amot dal punto in cui si è fermato, anche se all'interno della città. Questo è 'michuss latechum' — la penalità per aver violato il techum."
+    },
+    {
+      "n": 4,
+      "he": "יָצָא חוּץ לַתְּחוּם בְּאֹנֶס...",
+      "it": "Chi è stato trascinato oltre il proprio techum per forza (ones), come rapito o spinto dal vento: se è uscito involontariamente, può tornare al proprio posto. La differenza tra 'ones' (forza maggiore) e azione volontaria è cruciale nella halachah: l'ones non comporta la perdita del techum."
+    },
+    {
+      "n": 5,
+      "he": "הַנִּכְנָס לַתְּחוּם חֲבֵרוֹ...",
+      "it": "Chi entra nel techum di un altro: questo è permesso, poiché i Saggi non hanno limitato l'entrata nel techum altrui ma solo l'uscita dal proprio. Tuttavia, il visitatore deve fare attenzione a non andare oltre i limiti del techum che aveva al momento dell'inizio del Sabato."
+    },
+    {
+      "n": 6,
+      "he": "נָפְלָה עָלָיו מַפֹּלֶת...",
+      "it": "Se una valanga o un crollo ha travolto una persona durante il Sabato e la si trova oltre il proprio techum: i soccorritori possono portarla in un posto sicuro, anche oltre il techum, poiché il pericolo di vita (pikuach nefesh) supera le restrizioni del Sabato e del techum."
+    },
+    {
+      "n": 7,
+      "he": "הָיָה בְּתוֹךְ הַתְּחוּם וְנֶחְלָה...",
+      "it": "Chi si trovava nel proprio techum e si è ammalato durante il Sabato: può essere spostato all'interno del proprio techum. Se ha bisogno di cure mediche oltre il proprio techum, il pericolo di vita permette di portarlo dove necessario. Dopo la guarigione, tornerà al suo techum ordinario."
+    },
+    {
+      "n": 8,
+      "he": "הַמּוֹצִיא אֶת חֲבֵרוֹ חוּץ לַתְּחוּם...",
+      "it": "Chi porta fuori dal techum un'altra persona (contro la sua volontà): la persona trascinata non perde il proprio techum, poiché ha agito per forza. Ma il trascinatore ha violato la halachah. Se la persona è stata portata fuori in modo consensuale e volontario, allora perde il proprio techum."
+    },
+    {
+      "n": 9,
+      "he": "שְׁנֵי בְּנֵי אָדָם שֶׁהָיוּ בְּבֵית הַסֹּהַר...",
+      "it": "Due persone che erano in prigione al momento dell'inizio del Sabato: il loro techum si misura dall'interno della prigione. Se vengono liberati durante il Sabato, possono camminare duemila cubiti dal luogo della prigione, non dall'ingresso della città. Il luogo della 'dimora' è il punto in cui si trovavano al bein hashmashot."
+    },
+    {
+      "n": 10,
+      "he": "הַגֵּר שֶׁנִּתְגַּיֵּר בְּשַׁבָּת...",
+      "it": "Il proselito che si è convertito durante il Sabato: prima della conversione non era soggetto alle leggi del techum. Dopo la conversione, il suo techum si misura dal punto in cui si trovava quando è diventato ebreo. Questa è una delle numerose halachot speciali che riguardano il ger (proselito) e il Sabato."
+    },
+    {
+      "n": 11,
+      "he": "הַקָּטָן שֶׁנּוֹלַד בְּשַׁבָּת...",
+      "it": "Un bambino nato durante il Sabato: il suo techum si misura dal luogo della nascita. Poiché un neonato non può ovviamente stabilire un eruv da solo, i suoi genitori possono farlo per lui in futuro, ma per quel primo Sabato il suo luogo di dimora è il punto di nascita."
+    },
+    {
+      "n": 12,
+      "he": "הַנֹּושֵׂא בְּשַׁבָּת לְאִשָּׁה...",
+      "it": "Chi sposa una donna durante il Sabato (in una situazione speciale permessa): la sposa non perde il proprio techum per effetto del matrimonio. Ciascuno mantiene il proprio techum separato. Questa halachah evidenzia che il matrimonio non crea automaticamente un'unione del techum tra marito e moglie."
+    },
+    {
+      "n": 13,
+      "he": "הָאִשָּׁה שֶׁיָּצָאת חוּץ לַתְּחוּם...",
+      "it": "La donna che è uscita oltre il proprio techum: la regola è identica a quella dell'uomo. Se è uscita volontariamente, perde il proprio techum originale e può muoversi solo entro quattro amot dal punto in cui si trova. Se è uscita per forza, può tornare."
+    },
+    {
+      "n": 14,
+      "he": "בְּהֵמָה שֶׁיָּצְאָה חוּץ לַתְּחוּם...",
+      "it": "Un animale che è uscito oltre il techum del suo proprietario: gli animali non hanno un proprio techum di Sabato nel senso halachico, ma non devono essere spostati dal loro proprietario oltre il techum del proprietario stesso durante il Sabato. L'animale 'segue' il dominio del suo padrone."
+    },
+    {
+      "n": 15,
+      "he": "הַנּוֹתֵן עֵרוּבוֹ בְּעֵץ...",
+      "it": "Chi deposita il proprio eruv su un albero: è valido se l'albero si trova nel punto giusto (al confine dei duemila cubiti). Ma se l'eruv è situato ad un'altezza superiore a dieci tefachim sul tronco, potrebbe esserci un problema halachico relativo all'accesso. La pratica corretta è di mettere l'eruv vicino al suolo."
+    },
+    {
+      "n": 16,
+      "he": "שִׁיעוּר הָאֲמָה לְעֵרוּבֵי תְּחוּמִין...",
+      "it": "La misura del cubito (amah) per l'eruv techumin: il Rambam stabilisce che il cubito usato per misurare il techum è di sei tefachim (palmi) di mano media. I duemila cubiti equivalgono quindi a tremila piedi romani approssimativamente, ovvero circa 960 metri secondo le misure contemporanee."
+    },
+    {
+      "n": 17,
+      "he": "כֵּיצַד מוֹדְדִין אֶת הָעִיר...",
+      "it": "Come si misura la città per stabilire il punto di inizio del techum: si misura dalla casa esterna della città in direzione del punto in cui si desidera andare. Se la città ha una forma irregolare, il Rambam descrive il metodo per 'quadrare' la città — inscrivere le case in un quadrato immaginario e misurare da quel quadrato. Questo dà ai residenti il massimo beneficio possibile."
+    }
+  ],
+  "_glossary_terms_used": ["eruv techumin", "techum shabbat", "ones", "pikuach nefesh", "bein hashmashot", "amah", "tefachim", "ger", "michuss latechum", "reshut"]
+}

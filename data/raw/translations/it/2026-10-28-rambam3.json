@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Shekhenim 4-6",
+  "name_he": "משנה תורה, הלכות שכנים, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi dei Vicini, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-10-28",
+  "hebrew_date": "17 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "4:1-6",
+      "he": "הַחַלּוֹנוֹת — אֵין אָדָם יָכוֹל לִסְתֹּם אֶת הָאוֹר שֶׁל חֲבֵרוֹ…",
+      "it": "(Shekhenim cap. 4) Diritti relativi a finestre e luce naturale: un vicino non può costruire un muro o una struttura che blocchi la luce delle finestre del vicino — se quelle finestre esistevano prima della costruzione e il vicino le usa da tempo. Il principio: chi ha usato una finestra per tre anni consecutivi (hazakah she-halsha shanim) acquisisce il diritto alla luce che entra da essa. Il costruttore deve lasciare almeno quattro cubiti di spazio tra la sua costruzione e le finestre del vicino, o deve costruire in modo tale da non bloccare la luce."
+    },
+    {
+      "n": "5:1-6",
+      "he": "בֵּין שְׁנֵי בָּתִּים — מָקוֹם שֶׁיּוֹרְדִין בּוֹ הַמַּיִם — חַיָּב לְנַקּוֹתוֹ…",
+      "it": "(Shekhenim cap. 5) Servitù di drenaggio e acque: vicini che condividono un canale di drenaggio (amah — solco per l'acqua) tra le loro proprietà sono responsabili solidalmente della sua manutenzione. Chi causa l'ostruzione del canale — deve ripararlo a proprie spese. Diritti di scolo: l'acqua piovana deve poter scolare dalla proprietà superiore verso la inferiore — il proprietario della proprietà inferiore non può erigere una diga che impedisca il normale flusso dell'acqua piovana. Tuttavia, non è tenuto ad accettare acque artificialmente deviate."
+    },
+    {
+      "n": "6:1-6",
+      "he": "הַנּוֹטֵעַ אִילָן סָמוּךְ לְשָׂדֵה חֲבֵרוֹ — צָרִיךְ לְהַרְחִיק…",
+      "it": "(Shekhenim cap. 6) Piantare alberi vicino alla proprietà del vicino: chi pianta un albero deve mantenere una distanza minima dalla proprietà del vicino, per evitare che le radici danneggino il terreno altrui. La distanza richiesta varia secondo il tipo di albero: albero comune — quattro cubiti; noce e carrubo — cinquanta cubiti (per via delle radici profonde). Se l'albero di un vicino danneggia concretamente il campo altrui (radici che danneggiano i raccolti, rami che fanno ombra) — il vicino può esigere la rimozione del danno, o la compensazione. Queste leggi dimostrano la sistematicità del diritto ebraico nella regolazione dei conflitti di vicinato."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hazakah she-halsha shanim", "amah", "shekhenim"
+  ]
+}

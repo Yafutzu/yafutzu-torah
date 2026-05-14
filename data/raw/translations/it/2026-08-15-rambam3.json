@@ -1,0 +1,42 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 24-25; Hilchot Parah Adumah 1",
+  "name_he": "משנה תורה, הלכות טומאת מת פרקים כד-כה; הלכות פרה אדומה פרק א",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere capitoli 24-25; Leggi della Giovenca Rossa capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-08-15",
+  "hebrew_date": "2 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "24:1",
+      "he": "הטמא במת — אין לו טהרה אלא על ידי הזיית מי חטאת. ואם לא הוזה עליו — נשאר בטומאתו עד שיוזה. ואין מי חטאת בזמן הזה — שאין לנו פרה אדומה.",
+      "it": "L'impuro per un cadavere (tamei met) non ha purificazione se non mediante l'aspersione delle mei chatat (acque della parah adumah). Se non gli è stata eseguita l'aspersione — rimane nella sua impurità fino a quando non viene asperso. Ai nostri giorni non abbiamo mei chatat — poiché non abbiamo la parah adumah."
+    },
+    {
+      "n": "24:2",
+      "he": "אדם שנטמא ולא הוזה עליו — אסור בכל קדש: אסור לאכול תרומה, אסור להיכנס למקדש, אסור לאכול קרבנות. ואסור גם לגעת בטהרות.",
+      "it": "Una persona che è diventata impura e non le è stata eseguita l'aspersione — è vietata in tutte le cose sacre: non può mangiare terumah (offerta sacerdotale), non può entrare nel Mikdash, non può mangiare sacrifici. Ed è anche vietata dal toccare cose in stato di purità (taharot)."
+    },
+    {
+      "n": "25:1",
+      "he": "טומאת מת — היא הטומאה החמורה ביותר שיש בתורה. אין לה כפרה אלא פרה אדומה. ולכן חכמים גזרו גזרות רבות להרחיק מן הטומאה.",
+      "it": "La tumat met — è l'impurità più grave che vi sia nella Torah. Non ha espiazione se non per mezzo della parah adumah (giovenca rossa). Pertanto i Saggi decretarono molti decreti per allontanarsi dall'impurità. Si concludono le Leggi dell'Impurità da Cadavere."
+    },
+    {
+      "n": "1:1",
+      "he": "פרה אדומה — מצוה עמוקה שאין לה טעם גלוי, ולכן נקראת 'חוק'. פרה אדומה שלמה שאין בה מום ולא עלה עליה עול — שורפים אותה על הר הזיתים, ועושים ממנה אפר שמטהר טמאי מת.",
+      "it": "La parah adumah (giovenca rossa) — è un precetto profondo che non ha una spiegazione manifesta, e per questo è chiamato 'chok' (decreto inscrutable). Una giovenca rossa integra senza difetti, su cui non sia mai stato posto un giogo, viene bruciata sul Monte degli Ulivi, e con le sue ceneri si produce la purificazione per gli impuri per cadavere."
+    },
+    {
+      "n": "1:2",
+      "he": "הפרדוקס הידוע: הפרה מטהרת את הטמאים ומטמאה את הטהורים. כל מי שעסק בהכנת הפרה — נטמא. וכל מי שהוזה עליו מי חטאת — טהר. זה 'חוק' שאינו מובן לאדם, אלא גזירת ה'.",
+      "it": "Il noto paradosso: la parah adumah purifica gli impuri e rende impuri i puri. Chiunque abbia partecipato alla preparazione della parah adumah — è diventato impuro. E chiunque sia stato asperso con le mei chatat — è diventato puro. Questo è un 'chok' incomprensibile all'uomo, ma decreto di D-o."
+    },
+    {
+      "n": 3,
+      "he": "הפרה היתה אדומה לגמרי — אפילו שתי שערות שחורות פוסלות אותה. ולא עלה עליה עול מעולם. ושחיטתה היתה מחוץ לירושלים, על הר הזיתים.",
+      "it": "La giovenca doveva essere completamente rossa — anche due peli neri la rendevano ineleggibile. Non doveva mai aver portato un giogo. La sua macellazione avveniva fuori da Gerusalemme, sul Monte degli Ulivi."
+    }
+  ],
+  "_glossary_terms_used": ["tamei met", "mei chatat", "parah adumah", "terumah", "taharot", "chok", "tumat met"]
+}

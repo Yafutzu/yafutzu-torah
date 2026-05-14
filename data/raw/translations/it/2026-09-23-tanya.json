@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 1",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת א",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettera 1",
+  "cycle": "tanya",
+  "date": "2026-09-23",
+  "hebrew_date": "12 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַצְּדָקָה כַּחַיִּים — הַנּוֹתֵן צְדָקָה מֵעֹמֶק נַפְשׁוֹ, נֶפֶשׁ חַיִּים הוּא נוֹתֵן. שֶׁהַמָּמוֹן הוּא חַיֵּי הָאָדָם, וּמִי שֶׁנּוֹתֵן אֶת חַיָּיו לַה' — מְחֻבָּר לַמָּקוֹר הָעֶלְיוֹן שֶׁל הַחַיִּים.",
+      "it": "La tzedakah è come la vita — chi dà tzedakah dalle profondità della sua anima, dà vita. Perché il denaro è la vita dell'uomo, e chi dà la propria vita a Dio — è connesso alla fonte suprema della vita."
+    },
+    {
+      "n": 2,
+      "he": "הַצְּדָקָה — עֲבוֹדָה שֶׁבִּמְחִיצַת מִדּוֹת הַלֵּב. שֶׁהַנּוֹתֵן בְּטוֹב לֵב, בְּאַהֲבָה, בְּחֶדְוָה — נְתִינָתוֹ עוֹלָה לְמַעְלָה וּמְעוֹרֶרֶת חֶסֶד עֶלְיוֹן.",
+      "it": "La tzedakah — è un servizio che si trova nella sfera delle qualità del cuore. Perché chi dà con cuore buono, con amore, con gioia — la sua donazione sale in alto e suscita la grazia suprema."
+    },
+    {
+      "n": 3,
+      "he": "וְהַמַּשְׁמָעוּת הַמִּסְתּוֹרִית שֶׁל נְתִינַת הַמָּמוֹן: הָאָדָם מַחֲזִיר לְהַשֵּׁם מַה שֶּׁהַשֵּׁם נָתַן לוֹ. וּבְכָך הוּא מִתְחַבֵּר לְמְקוֹר כָּל הַשְׁפָּעוֹת — אֵין סוֹף.",
+      "it": "Il significato mistico del dare denaro: l'uomo restituisce a Dio ciò che Dio gli ha dato. E in ciò si connette alla fonte di tutte le emanazioni — Ein Sof (Infinito)."
+    }
+  ],
+  "_glossary_terms_used": ["tzedakah", "Iggeret HaKodesh", "chesed", "nefesh", "Ein Sof"]
+}

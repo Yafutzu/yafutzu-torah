@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Gezelah VeAvedah 13-15",
+  "name_he": "משנה תורה, הלכות גזלה ואבידה, פרקים יג-טו",
+  "name_it": "Mishneh Torah, Leggi della Rapina e degli Oggetti Smarriti, capitoli 13-15",
+  "cycle": "rambam-3",
+  "date": "2026-10-04",
+  "hebrew_date": "23 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "13:1-5",
+      "he": "הַגּוֹזֵל מִן הַגּוֹי — חַיָּב לְהַחְזִיר…",
+      "it": "(Gezelah VeAvedah cap. 13, hal. 1-5) Chi ruba da un non-ebreo — è obbligato a restituire, esattamente come chi ruba da un ebreo. La rapina di un non-ebreo è proibita dalla Torah (il Rambam la deriva dal divieto generale di rapina, gezel). Anzi, il Rambam sottolinea che il gezel di un non-ebreo comporta anche «chillul Hashem» (profanazione del Nome Divino) — poiché il comportamento disonesto verso un non-ebreo dà una cattiva immagine al popolo ebraico e alla sua Torah. Chi ruba da un non-ebreo e poi vuole restituire — deve restituire con cura e scuse."
+    },
+    {
+      "n": "14:1-6",
+      "he": "הַגּוֹזֵל הֶקְדֵּשׁ — מְעַל בּוֹ…",
+      "it": "(cap. 14, hal. 1-6) Chi ruba proprietà sacra (hekdesh — beni del Tempio) — compie l'atto di me'ilah (uso improprio di beni sacri) oltre al gezel. Deve restituire il valore più un quinto aggiuntivo (chomesh) al Tempio. Se l'oggetto è stato consumato o distrutto — paga il suo valore più il chomesh. Beni il cui proprietario ha disperato (ye'ush) di recuperarli — sono considerati del rapinatore ai fini del diritto civile, ma l'obbligo morale di restituzione rimane. Il Rambam affronta la situazione complessa di oggetti rubati che cambiano di mano più volte."
+    },
+    {
+      "n": "15:1-5",
+      "he": "גָּנַב וּמָכַר — הַלּוֹקֵחַ יָכוֹל לַחֲזֹר בּוֹ אִם נוֹדַע לוֹ…",
+      "it": "(cap. 15, hal. 1-5) Chi acquista un oggetto da un ladro sapendo che è rubato — è complice nel furto e deve restituire l'oggetto al proprietario originale. Chi acquista senza sapere che era rubato (ta'ut) — dopo il ye'ush (disperazione del proprietario) l'acquisto può essere valido civilmente ma il venditore (il ladro) deve risarcire il valore. Il principio del «shinuy» (cambiamento): se l'oggetto rubato ha subito una modifica significativa nelle mani del ladro (shinuy makom — cambio di luogo, shinuy ma'aseh — cambiamento fisico) — il proprietario originale perde il diritto sull'oggetto fisico e riceve solo il valore."
+    }
+  ],
+  "_glossary_terms_used": [
+    "gezel", "chillul Hashem", "hekdesh", "me'ilah", "chomesh", "ye'ush", "ta'ut", "shinuy", "shinuy makom", "shinuy ma'aseh"
+  ]
+}

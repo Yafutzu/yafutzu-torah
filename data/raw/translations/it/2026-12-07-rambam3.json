@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 18-20",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים יח-כ",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 18-20",
+  "cycle": "rambam-3",
+  "date": "2026-12-07",
+  "hebrew_date": "28 Kislev 5787 — Chanukah giorno 4",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "18:1-5",
+      "he": "כָּל הַנֶּחֱנָקִין — אֵין נֶחֱנָקִין...",
+      "it": "(Sanhedrin cap. 18, hal. 1-5) I casi in cui si applica lo strangolamento (chenek) come pena predefinita: secondo il principio «kol ha-meitah ha-amurah ba-Torah satum — chenek» — ogni pena di morte non specificata nella Torah è lo strangolamento. Il chenek è considerato la pena «di default» perché non è menzionato esplicitamente per nessun crimine specifico — è dedotto per logica. Questo principio del default riflette la misericordia della Torah: quando non si sa quale pena applicare, si sceglie la meno severa. Chanukah 4: quattro candele — quattro pene capitali, ma tutte eseguite con rispetto per la dignità umana."
+    },
+    {
+      "n": "19:1-5",
+      "he": "כָּל הַמִּיתוֹת הַלָּלוּ — כֻּלָּן לְכַפָּרָה...",
+      "it": "(Sanhedrin cap. 19, hal. 1-5) Tutte le pene capitali servono anche come kapparah (espiazione) per il condannato. Il Rambam, seguendo il Talmud, insegna: il condannato che confessa (mevida'eh) prima dell'esecuzione e si pente — raggiunge il Mondo Futuro. La pena corporale termina il suo «debito» in questo mondo; la teshuvah (pentimento) espunge il debito spirituale. Questa visione teologica trasforma la pena di morte da pura punizione in un atto di misericordia divina — la morte corporale purifica l'anima."
+    },
+    {
+      "n": "20:1-4",
+      "he": "הַמַּלְקוֹת — אַרְבָּעִים חָסֵר אַחַת...",
+      "it": "(Sanhedrin cap. 20, hal. 1-4) La fustigazione (malkot): 39 colpi (arba'im chaser achat — quaranta meno uno) per la violazione deliberata di molti divieti biblici. Il numero è derivato dal versetto «be-mispar arba'im» (Deuteronomio 25:3) — il numero quaranta è il massimo, e si riduce di uno per salvaguardia. Le colpi vengono contati da tre giudici che recitano versetti di rimprovero (tochacha). La quantità effettiva dipende dalla capacità fisica del condannato: prima dell'esecuzione i medici valutano quante colpi può sopportare."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chenek", "kol ha-meitah ha-amurah ba-Torah satum", "kapparah", "mevida'eh", "teshuvah", "malkot", "arba'im chaser achat", "tochacha", "beit din"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ref": "Tanya, Part I; Likkutei Amarim 52:7-8",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נב",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 52 (segmenti 7-8)",
+  "cycle": "tanya-yomi",
+  "date": "2026-05-15",
+  "hebrew_date": "28 Iyyar 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 7,
+      "he": "וּבִירִידָתָהּ בְּהִשְׁתַּלְשְׁלוּת מֵעוֹלָם לְעוֹלָם – גַּם הַשְּׁכִינָה יָרְדָה וְנִתְלַבְּשָׁה…",
+      "it": "Nel suo scendere in concatenazione di mondo in mondo, anche la Shekhinà scese e si rivestì della saggezza della Berià — chiamata «saggezza nascosta della Berià» — rivestendosi nel Talmud Yerushalmi e nel midrash del libro di Berià. Poiché la «saggezza nascosta» è la chochmà della Berià in cui si riveste la Shekhinà. Ed è per questo che il Talmud è chiamato «saggezza nascosta» — per distinguerlo dalla halachà pratica concisa della Mishnà, che è la malchut della Berià, la «parola» della Berià. Analogamente, nella Yetzirà si rivestì nella chochmà della Yetzirà — e questa è la halachà pratica della Mishnà che ci è nota."
+    },
+    {
+      "n": 8,
+      "he": "וְגַם מִשָּׁם נִמְשָׁךְ הַתַּלְמוּד שֶׁלְּפָנֵינוּ, וּכְמוֹ שֶׁנִּתְבָּאֵר לְעֵיל…",
+      "it": "Da là discende anche il Talmud che abbiamo davanti a noi, come è stato spiegato sopra. Poiché non vi è nessun velo tra la Berià e la Yetzirà, a differenza dell'Atzilùt che è completamente separato dalla Berià. È per questo che il Talmud Bavlì discende dalla chochmà della Yetzirà, che è la saggezza del Talmud stesso, mentre le halachòt pratiche della Mishnà sono la malchut della Yetzirà — la «parola» della Yetzirà. E i ragionamenti e le discussioni talmudiche sono la chochmà della Yetzirà. Così il Talmud Bavlì è superiore al Talmud Yerushalmi, come il mondo della Yetzirà è superiore al mondo della Berià."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Shekhinà", "Berià", "Yetzirà", "Atzilùt", "chochmà", "malchut", "halachà"
+  ]
+}

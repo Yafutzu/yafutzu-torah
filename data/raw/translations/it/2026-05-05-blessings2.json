@@ -1,0 +1,86 @@
+{
+  "ref": "Mishneh Torah, Blessings 2",
+  "name_he": "הלכות ברכות, פרק ב",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-05",
+  "hebrew_date": "18 Iyyar 5786 (Lag ba-Omer)",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "סֵדֶר בִּרְכַּת הַמָּזוֹן כָּךְ הִיא. רִאשׁוֹנָה בִּרְכַּת הַזָּן. שְׁנִיָּה בִּרְכַּת הָאָרֶץ. שְׁלִישִׁית בּוֹנֵה יְרוּשָׁלָיִם. רְבִיעִית הַטּוֹב וְהַמֵּטִיב. בְּרָכָה רִאשׁוֹנָה משֶׁה רַבֵּנוּ תִּקְּנָהּ. שְׁנִיָּה תִּקֵּן יְהוֹשֻׁעַ. שְׁלִישִׁית תִּקֵּן דָּוִד וּשְׁלֹמֹה בְּנוֹ. רְבִיעִית חַכְמֵי מִשְׁנָה תִּקְּנוּהָ.",
+      "it": "Questo è l'ordine della birkat ha-mazon (benedizione dopo il pasto): la prima è birkat ha-zan (la benedizione di Colui che nutre); la seconda, birkat ha-aretz (la benedizione della terra); la terza, bonè Yerushalayim (il costruttore di Gerusalemme); la quarta, ha-tov ve-ha-meitiv (il buono e il benevolente). La prima fu istituita da Mosè nostro maestro; la seconda da Giosuè; la terza da re Davide e da suo figlio Salomone; la quarta dai Saggi della Mishnà."
+    },
+    {
+      "n": 2,
+      "he": "הַפּוֹעֲלִים שֶׁהָיוּ עוֹשִׂין מְלָאכָה אֵצֶל בַּעַל הַבַּיִת וְאָכְלוּ פִּתָּן אֵין מְבָרְכִין לְפָנֶיהָ. וּמְבָרְכִין לְאַחַר סְעֻדָּתָן שְׁתֵּי בְּרָכוֹת בִּלְבַד כְּדֵי שֶׁלֹּא יְבַטְּלוּ מְלֶאכֶת בַּעַל הַבַּיִת.",
+      "it": "Gli operai assunti da un datore di lavoro che abbiano consumato il pasto non recitano la benedizione prima del pane. Dopo il pasto recitano solo due benedizioni, per non sottrarre tempo al lavoro: la prima nella forma ordinaria; la seconda inizia con la birkat ha-aretz, include in essa anche la menzione di bonè Yerushalayim e si chiude con la chiusura ordinaria della birkat ha-aretz. Se tuttavia lavorano soltanto per il vitto (senza compenso in denaro), o se il datore di lavoro è seduto a tavola con loro, recitano le quattro benedizioni nella forma integrale, come tutti gli altri."
+    },
+    {
+      "n": 3,
+      "he": "בִּרְכַּת הָאָרֶץ צָרִיךְ לוֹמַר הוֹדָיָה בִּתְחִלָּתָהּ וּבְסוֹפָהּ וְחוֹתֵם בָּהּ עַל הָאָרֶץ וְעַל הַמָּזוֹן. וְכָל שֶׁלֹּא אָמַר אֶרֶץ חֶמְדָּה טוֹבָה וּרְחָבָה בְּבִרְכַּת הָאָרֶץ לֹא יָצָא יְדֵי חוֹבָתוֹ.",
+      "it": "Nella birkat ha-aretz occorre esprimere un riconoscimento di gratitudine sia all'inizio sia alla fine; la si chiude con «per la terra e per il nutrimento» (al ha-aretz ve-al ha-mazon). Chi non ha pronunciato «terra desiderabile, buona e spaziosa» (eretz chemdà tovà u-rechavà) nella birkat ha-aretz non ha adempiuto il proprio obbligo. Vi si devono menzionare la brit (alleanza della circoncisione) e la Torah, dando precedenza alla brit sulla Torah. La brit citata nella birkat ha-aretz è quella della milà, ratificata con tredici patti; la Torah fu invece ratificata con tre patti, come è detto (Devarim 28:69): «Queste sono le parole dell'alleanza…», «oltre all'alleanza che concluse con loro all'Orev», e (29:9,11): «Voi state oggi tutti davanti al Signore… per passare nell'alleanza»."
+    },
+    {
+      "n": 4,
+      "he": "בְּרָכָה שְׁלִישִׁית פּוֹתֵחַ בָּהּ רַחֵם יְיָ׳ אֱלֹהֵינוּ עָלֵינוּ וְעַל יִשְׂרָאֵל עַמֶּךָ וְעַל יְרוּשָׁלַיִם עִירֶךָ. וְחוֹתֵם בָּהּ בּוֹנֵה יְרוּשָׁלָיִם אוֹ מְנַחֵם עַמּוֹ יִשְׂרָאֵל בְּבִנְיַן יְרוּשָׁלָיִם.",
+      "it": "La terza benedizione si apre con: «Abbi misericordia, Signore Dio nostro, di noi e di Israele Tuo popolo, di Gerusalemme Tua città e di Sion dimora della Tua gloria»; oppure: «Consolaci, Signore Dio nostro, con Gerusalemme Tua città». Si chiude con: «…che costruisce Gerusalemme» oppure «…che consola il Suo popolo Israele con la ricostruzione di Gerusalemme». Per questo motivo la benedizione è chiamata benedizione della consolazione (nechemà). Chi non ha menzionato la sovranità della casa di Davide (malchut beit David) in questa benedizione non ha adempiuto il proprio obbligo, poiché è il tema essenziale della benedizione: non vi è consolazione piena senza il ritorno della regalità alla casa di Davide."
+    },
+    {
+      "n": 5,
+      "he": "בְּשַׁבָּתוֹת וּבְיָמִים טוֹבִים מַתְחִיל בְּנֶחָמָה וּמְסַיֵּם בְּנֶחָמָה וְאוֹמֵר קְדֻשַּׁת הַיּוֹם בָּאֶמְצַע.",
+      "it": "Nei Sabati e nelle feste si inizia con il tema della consolazione, lo si riprende alla fine e nel mezzo si inserisce la santità del giorno. Come si comincia? Con «Consolaci, Signore Dio nostro, con Sion Tua città…» oppure «Abbi misericordia, Signore Dio nostro, di Israele Tuo popolo e di Gerusalemme Tua città…». Si conclude con «…che consola il Suo popolo Israele con la ricostruzione di Gerusalemme» oppure «…che costruisce Gerusalemme». Nel mezzo, il Sabato, si dice: «Dio nostro e Dio dei nostri padri, graditelo e rafforzaci, Signore Dio nostro, mediante i Tuoi precetti e il precetto di questo settimo giorno grande e santo; poiché questo giorno è grande e santo dinanzi a Te — in esso cessiamo dal lavoro e riposiamo con amore secondo il comandamento della Tua volontà. Nella Tua benevolenza, Signore Dio nostro, concedici riposo e fa' che il giorno del nostro riposo sia privo di angoscia, male, tristezza e lamento». Nelle feste si aggiunge ya'alè ve-yavò. Così anche in Rosh Chodesh e in Chol ha-Mo'ed si inserisce ya'alè ve-yavò nel mezzo della terza benedizione."
+    },
+    {
+      "n": 6,
+      "he": "בַּחֲנֻכָּה וּבְפוּרִים מוֹסִיף בְּאֶמְצַע בִּרְכַּת הָאָרֶץ עַל הַנִּסִּים כְּדֶרֶךְ שֶׁמּוֹסִיף בַּתְּפִלָּה.",
+      "it": "In Chanukà e Purim si aggiunge la preghiera al ha-nissim nel mezzo della birkat ha-aretz, così come si fa nella tefillà (Shemoneh Esreh). Quando una festa o Rosh Chodesh cade di Sabato, si recita prima retzè ve-hachalitzenu e poi ya'alè ve-yavò. Così, quando Rosh Chodesh Tevet cade di Sabato, si dice al ha-nissim nella birkat ha-aretz, e retzè ve-hachalitzenu e ya'alè ve-yavò nella benedizione della consolazione."
+    },
+    {
+      "n": 7,
+      "he": "בְּרָכָה רְבִיעִית צָרִיךְ לְהַזְכִּיר בָּהּ שָׁלֹשׁ מַלְכֻיּוֹת. וּכְשֶׁמְּבָרֵךְ הָאוֹרֵחַ אֵצֶל בַּעַל הַבַּיִת מוֹסִיף בָּהּ בְּרָכָה לְבַעַל הַבַּיִת.",
+      "it": "Nella quarta benedizione si devono menzionare tre volte la sovranità divina (malchut). L'ospite che recita la birkat ha-mazon in casa del padrone di casa vi aggiunge una benedizione per il padrone. Come? Dice: «Sia Tua volontà che il padrone di casa non subisca vergogna in questo mondo né umiliazione nel mondo a venire…». Ha facoltà di aggiungere e prolungare la benedizione per il padrone di casa come desidera."
+    },
+    {
+      "n": 8,
+      "he": "וּכְשֶׁמְּבָרְכִין בְּבֵית הָאָבֵל אוֹמֵר בִּבְרָכָה רְבִיעִית הַמֶּלֶךְ הַחַי הַטּוֹב וְהַמֵּטִיב אֵל אֱמֶת דַּיַן אֱמֶת שׁוֹפֵט בְּצֶדֶק שַׁלִּיט בְּעוֹלָמוֹ לַעֲשׂוֹת בּוֹ כִּרְצוֹנוֹ.",
+      "it": "Quando si recita la birkat ha-mazon in una casa di lutto, nella quarta benedizione si aggiunge: «Il Re vivente, buono e benevolente, Dio veritiero, giudice veritiero che giudica con giustizia, Signore assoluto nel Suo mondo che vi compie la Sua volontà; noi siamo il Suo popolo e i Suoi servi e in ogni cosa siamo obbligati a ringraziarlo e a benedirlo». Si supplica poi la misericordia divina per il dolente, consolandolo secondo il bisogno; e si conclude con ha-rachaman…"
+    },
+    {
+      "n": 9,
+      "he": "בְּבֵית חֲתָנִים מְבָרְכִין בִּרְכַּת חֲתָנִים אַחַר אַרְבַּע בְּרָכוֹת אֵלּוּ בְּכָל סְעֻדָּה וּסְעֻדָּה. וְאֵין מְבָרְכִין בְּרָכָה זוֹ לֹא עֲבָדִים וְלֹא קְטַנִּים.",
+      "it": "Nella casa degli sposi si recita la benedizione degli sposi (birkat chatanim) dopo queste quattro benedizioni, a ogni pasto che vi si consuma. Non la recitano né servi né minori. Per quanto tempo si recita? Se un vedovo sposa una vedova, si recita solo il primo giorno. Se un nubile sposa una vedova, o un vedovo sposa una vergine, si recita per tutti i sette giorni del banchetto nuziale."
+    },
+    {
+      "n": 10,
+      "he": "בְּרָכָה זוֹ שֶׁמּוֹסִיפִין בְּבֵית חֲתָנִים הִיא בְּרָכָה אַחֲרוֹנָה מִשֶּׁבַע בְּרָכוֹת שֶׁל נִשּׂוּאִין.",
+      "it": "La benedizione aggiunta nella casa degli sposi è l'ultima delle sette benedizioni nuziali (sheva berachot). Quando vale questa regola? Quando i commensali erano presenti al matrimonio e avevano udito le sette benedizioni. Se invece vi si trovano persone che non erano presenti alle sette benedizioni durante la cerimonia, si recitano per loro tutte e sette le benedizioni dopo la birkat ha-mazon, così come si fa durante il matrimonio stesso — purché siano presenti dieci persone; lo sposo può essere compreso nel computo."
+    },
+    {
+      "n": 11,
+      "he": "וְאֵלּוּ הֵן שֶׁבַע בְּרָכוֹת. בָּרוּךְ אַתָּה יְיָ׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם יוֹצֵר הָאָדָם…",
+      "it": "Queste sono le sette benedizioni: «Benedetto sei Tu, Signore Dio nostro, Re dell'universo, che ha creato l'uomo»; «Benedetto sei Tu, Signore Dio nostro, Re dell'universo, che ha creato tutto per la Sua gloria»; «Benedetto sei Tu, Signore Dio nostro, Re dell'universo, che ha creato l'uomo a Sua immagine, nell'immagine del profilo della Sua somiglianza, e ha preparato per lui dalla propria essenza un'edificazione eterna. Benedetto sei Tu, Signore, creatore dell'uomo»; «L'arida [Sion] si rallegri e gioisca per il raduno dei suoi figli in seno a lei con letizia. Benedetto sei Tu, Signore, che fa gioire Sion con i suoi figli»; «Allieta questi amici diletti come hai allietato la Tua creatura nel giardino dell'Eden dall'inizio dei tempi. Benedetto sei Tu, Signore, che fa gioire lo sposo e la sposa»; «Benedetto sei Tu, Signore Dio nostro, Re dell'universo, che ha creato gioia e letizia, sposo e sposa, allegria, canto, esultanza e festosità, amore e fratellanza, pace e amicizia. Presto, Signore Dio nostro, si oda nelle città di Giuda e nelle piazze di Gerusalemme la voce della gioia e la voce della letizia, la voce dello sposo e la voce della sposa, la voce degli sposi esultanti sotto il loro baldacchino e dei giovani dai loro banchetti. Benedetto sei Tu, Signore, che fa gioire lo sposo con la sposa»."
+    },
+    {
+      "n": 12,
+      "he": "שָׁכַח וְלֹא הִזְכִּיר בְּשַׁבָּת אוֹ בְּיוֹם טוֹב קְדֻשַּׁת הַיּוֹם. אִם נִזְכַּר קֹדֶם שֶׁיַּתְחִיל בִּבְרָכָה רְבִיעִית…",
+      "it": "Chi ha dimenticato di menzionare la santità del giorno nel Sabato o in una festività: se se ne ricorda prima di iniziare la quarta benedizione, nel Sabato dice: «Benedetto [sei Tu, Signore]… che ha concesso il riposo al Suo popolo Israele come segno e alleanza santa. Benedetto sei Tu, Signore, che santifica il Sabato»; nelle feste dice: «Benedetto [sei Tu, Signore]… che ha concesso le festività al Suo popolo Israele per gioia e letizia. Benedetto sei Tu, Signore, che santifica Israele e i tempi»; poi inizia la quarta benedizione e completa. Se se ne ricorda dopo aver iniziato la quarta benedizione, si ferma e ritorna dall'inizio, ossia alla birkat ha-zan."
+    },
+    {
+      "n": 13,
+      "he": "בְּרָאשֵׁי חֳדָשִׁים שָׁכַח וְלֹא אָמַר יַעֲלֶה וְיָבוֹא אִם נִזְכַּר קֹדֶם שֶׁיַּתְחִיל בְּרָכָה רְבִיעִית…",
+      "it": "In Rosh Chodesh, se ha dimenticato di dire ya'alè ve-yavò: se se ne ricorda prima di iniziare la quarta benedizione, dice: «Benedetto [sei Tu, Signore]… che ha concesso le Roscì Chodesh al Suo popolo Israele per ricordo», senza formula di chiusura (chatimà); poi inizia la quarta benedizione e completa. Se se ne ricorda dopo aver già iniziato la quarta benedizione, la completa e non ritorna. Stessa norma vale per Chol ha-Mo'ed. Chi ha dimenticato di recitare al ha-nissim durante Chanukà o Purim nella birkat ha-mazon non deve ripetere."
+    },
+    {
+      "n": 14,
+      "he": "מִי שֶׁאָכַל וְשָׁכַח וְלֹא בֵּרֵךְ. אִם נִזְכַּר קֹדֶם שֶׁיִּתְעַכֵּל הַמַּאֲכָל שֶׁבְּמֵעָיו חוֹזֵר וּמְבָרֵךְ.",
+      "it": "Chi ha mangiato e ha dimenticato di recitare la birkat ha-mazon: se se ne ricorda prima che il cibo si sia digerito, ritorna e benedice. Se il cibo si è già digerito, non ritorna. Così anche chi non è sicuro se abbia o meno recitato la birkat ha-mazon: deve ritornare e benedire, a condizione che il cibo non si sia ancora digerito."
+    }
+  ],
+  "_glossary_terms_used": [
+    "birkat ha-mazon", "birkat ha-zan", "birkat ha-aretz", "bonè Yerushalayim",
+    "ha-tov ve-ha-meitiv", "nechemà", "malchut beit David", "ya'alè ve-yavò",
+    "al ha-nissim", "sheva berachot", "birkat chatanim", "mitzvà", "mi-divrei sofrim"
+  ]
+}

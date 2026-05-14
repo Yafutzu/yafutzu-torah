@@ -1,0 +1,107 @@
+{
+  "ref": "Mishneh Torah, Terumot 4-6",
+  "name_he": "הלכות תרומות פרקים ד'-ו'",
+  "name_it": "Leggi della Terumah, Capitoli 4–6",
+  "cycle": "rambam-3",
+  "date": "2026-06-09",
+  "hebrew_date": "24 Sivan 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "4:1",
+      "he": "מֵאֵימָתַי חַיָּב בִּתְרוּמָה",
+      "it": "Da quando il prodotto agricolo diventa soggetto all'obbligo della terumah? Dal momento in cui la raccolta è completa (gmar melachto, גְּמַר מְלַאכְתּוֹ) — la trebbiatura per i cereali, la pigiatura per le olive, la spremitura per il vino. Prima di questo stadio, il prodotto può essere mangiato in modo informale (achilas ara'i, אֲכִילַת עַרַאי) senza separare terumah."
+    },
+    {
+      "n": "4:2",
+      "he": "אוֹכֵל עַרַאי",
+      "it": "L'achilas ara'i — il mangiare informale nel campo — è permessa senza separare terumah o ma'aser. I braccianti (po'alim, פּוֹעֲלִים) che lavorano nel campo possono mangiare dei frutti durante il lavoro finché la raccolta non è completa. Una volta che portano il prodotto a casa o all'aia, diventa tevel obbligatorio."
+    },
+    {
+      "n": "4:3",
+      "he": "הַמַּכְנִיס שִׁבֳּלִים",
+      "it": "Chi porta a casa spighe (shibbolim, שִׁבֳּלִים) prima di trebbiare — se le porta in modo normale come commercio — le obbliga nella terumah. Se le porta casualmente come spuntino, non le obbliga. L'intenzione e il metodo di ingresso nella casa determinano l'obbligo."
+    },
+    {
+      "n": "4:4",
+      "he": "הַמַּפְרִישׁ מִן הַגֹּרֶן",
+      "it": "La separazione dalla trebbiatura (goren, גֹּרֶן) avviene solo dopo che il prodotto è stato completamente trebbiato e ventilato. Non si separa terumah a metà della trebbiatura poiché il processo non è ancora completo."
+    },
+    {
+      "n": "4:5",
+      "he": "פֵּרוֹת שֶׁלִּקְּטָן לְצֹרֶךְ",
+      "it": "Frutti raccolti per un bisogno immediato e urgente (tzorech sha'ah, צוֹרֶךְ שָׁעָה) — come un malato che ha bisogno di mangiare subito — possono essere mangiati anche senza separare terumah se la situazione è urgente. Il pikuach nefesh (פִּקּוּחַ נֶפֶשׁ — salvataggio della vita) sospende anche l'obbligo della terumah."
+    },
+    {
+      "n": "4:6",
+      "he": "תְּרוּמַת עָם הָאָרֶץ",
+      "it": "La terumah separata da un 'am ha'aretz' (עַם הָאָרֶץ — persona non istruita nella Torah) è valida, poiché la terumah non richiede competenza Torah per essere separata. Tuttavia i Saggi sono cauti nell'usare la terumah di un am ha'aretz poiché potrebbe essere impura."
+    },
+    {
+      "n": "4:7",
+      "he": "שָׁלִיחַ שֶׁהָפְרִישׁ",
+      "it": "L'agente (shaliach, שָׁלִיחַ) nominato dal proprietario del campo può separare la terumah per suo conto. L'agente deve agire secondo le istruzioni ricevute. Se ha separato una quantità diversa da quella richiesta, la terumah è valida se è nell'intervallo permesso."
+    },
+    {
+      "n": "5:1",
+      "he": "הַמַּפְרִישׁ תְּרוּמָה בְּכַוָּנָה",
+      "it": "La terumah separata con piena intenzione (kavanah, כַּוָּנָה) è la forma ideale. Tuttavia, anche chi separa senza piena concentrazione — purché con l'intenzione di separare terumah — l'obbligo è adempiuto. La kavanah minima richiesta è l'intenzione generale dell'atto."
+    },
+    {
+      "n": "5:2",
+      "he": "הַמַּפְרִישׁ וְאָמַר",
+      "it": "Chi separa e dice 'La terumah del mucchio sia nel lato settentrionale' — la terumah è nel posto designato anche se non l'ha fisicamente separata. Le parole possono designare una parte specifica del prodotto come terumah senza toccarla."
+    },
+    {
+      "n": "5:3",
+      "he": "מִשֶּׁיִּגְמַר הַמַּעֲשֶׂר",
+      "it": "Solo dopo aver completato la separazione di terumah, si separa il ma'aser rishon (מַעֲשֵׂר רִאשׁוֹן — prima decima per i Leviti). La sequenza è: prima terumah gedolah, poi ma'aser rishon, poi ma'aser sheni (o ma'aser ani nei terz/sest anno)."
+    },
+    {
+      "n": "5:4",
+      "he": "הַלֵּוִי שֶׁהִקְדִּים",
+      "it": "Se il Levita ha separato il ma'aser rishon prima della terumah gedolah — il ma'aser è valido ma il Levita ha violato l'ordine corretto. Deve comunque separare la terumah gedolah dal rimanente."
+    },
+    {
+      "n": "5:5",
+      "he": "מַה בֵּין תְּרוּמָה לְמַעֲשֵׂר",
+      "it": "La differenza principale tra terumah e ma'aser: la terumah va a un kohen specifico; il ma'aser va al Levita (לֵוִי). La terumah richiede una quantità indeterminata (senza minimo preciso); il ma'aser ha una misura fissa di esattamente un decimo."
+    },
+    {
+      "n": "5:6",
+      "he": "תְּרוּמַת מַעֲשֵׂר",
+      "it": "Il Levita che ha ricevuto il ma'aser rishon deve separare da esso il 'terumat ma'aser' (תְּרוּמַת מַעֲשֵׂר — terumah del ma'aser) — un decimo del ma'aser stesso — e darlo a un kohen. Questo 'decimo del decimo' ha lo stesso status della terumah gedolah."
+    },
+    {
+      "n": "5:7",
+      "he": "תְּרוּמָה בְּטֵלָה",
+      "it": "La terumah che si è mescolata (nitareva, נִתְעָרְבָה) con cibo ordinario (chulin, חוּלִין) in una proporzione di meno di 1:100 — è annullata (batelah, בְּטֵלָה) nella maggioranza del cibo. Tuttavia per la terumah stessa non si applica il principio del bitul (בִּיטּוּל — annullamento) come per altri cibi."
+    },
+    {
+      "n": "5:8",
+      "he": "אֵיזֶה בִּיטּוּל תְּרוּמָה",
+      "it": "La terumah si annulla solo in 100 parti di chulin — non in 60 come altri cibi proibiti. Questo perché la terumah ha uno status di kedushah (קְדֻשָּׁה — santità) speciale che richiede una percentuale maggiore per l'annullamento."
+    },
+    {
+      "n": "6:1",
+      "he": "הַמַּכְנִיס תְּרוּמָה לְבֵיתוֹ",
+      "it": "Il kohen che porta la terumah in casa sua può usarla per tutti i membri della sua famiglia — moglie, figli, e schiavi ebrei (avadim, עֲבָדִים). Tutti i membri della famiglia del kohen che vivono nella sua casa hanno il diritto di mangiare la terumah."
+    },
+    {
+      "n": "6:2",
+      "he": "מִי אוֹכֵל בִּתְרוּמָה",
+      "it": "Chi può mangiare la terumah? Kohanim maschi e femmine, le loro mogli (se sono ebree non kohaniot, possono mangiare terumah per merito del marito kohen), i loro figli nati da moglie ebrea, e i loro schiavi di proprietà permanente. Non possono mangiare terumah: lo zar (זָר — straniero, cioè chiunque non è kohen)."
+    },
+    {
+      "n": "6:3",
+      "he": "בַּת יִשְׂרָאֵל שֶׁנִּשֵּׂאת לְכֹהֵן",
+      "it": "Una donna ebrea non kohanit che sposa un kohen — può mangiare terumah per tutto il periodo del matrimonio. Se rimane vedova o divorzia senza figli dal kohen, perde il diritto alla terumah. Se ha figli dal kohen, può continuare a mangiare terumah anche dopo la morte del kohen."
+    },
+    {
+      "n": "6:4",
+      "he": "בַּת כֹּהֵן שֶׁנִּשֵּׂאת לְיִשְׂרָאֵל",
+      "it": "Una figlia di kohen che sposa un israelita non-kohen perde il diritto di mangiare terumah durante il matrimonio. Se rimane vedova senza figli dal marito israelita, ritorna a casa del padre kohen e riprende il diritto alla terumah."
+    }
+  ],
+  "_glossary_terms_used": ["gmar melachto", "achilas ara'i", "po'alim", "shibbolim", "goren", "tzorech sha'ah", "pikuach nefesh", "am ha'aretz", "shaliach", "kavanah", "ma'aser rishon", "ma'aser sheni", "terumat ma'aser", "chulin", "bitul", "kedushah", "avadim", "zar"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 10",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק י",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 10",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-20",
+  "hebrew_date": "6 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְזֶהוּ שֶׁאָמְרוּ חֲכָמִים עַל הַפָּסוּק 'עִיר קְטַנָּה וַאֲנָשִׁים בָּהּ מְעָט' — זוֹ הַגּוּף, וְהָ'אֲנָשִׁים' — הֵן שְׁתֵּי הַנְּשָׁמוֹת.",
+      "it": "Questo è quanto dissero i Saggi riguardo al versetto 'Una piccola città e pochi uomini in essa' (Qohelet 9:14) — questa è il corpo, e gli 'uomini' sono le due anime."
+    },
+    {
+      "n": 2,
+      "he": "הַמֹּחַ הוּא הַשּׁוֹפֵט הָעֶלְיוֹן. כְּשֶׁהַמֹּחַ שׁוֹלֵט עַל הַלֵּב — נֶפֶשׁ הָאֱלֹקִית שׁוֹלֶטֶת. כְּשֶׁהַלֵּב שׁוֹלֵט עַל הַמֹּחַ — נֶפֶשׁ הַבְּהֵמִית שׁוֹלֶטֶת.",
+      "it": "Il cervello (moach) è l'arbitro supremo. Quando il cervello domina il cuore — l'anima divina (nefesh ha-Elokit) governa. Quando il cuore domina il cervello — l'anima animale (nefesh ha-behamit) governa."
+    },
+    {
+      "n": 3,
+      "he": "הַמֹּחַ — תָּמִיד יָכוֹל לִשְׁלֹט, שֶׁנֶּאֱמַר 'וְשַׁוִּיתִי ה' לְנֶגְדִּי תָמִיד'. כְּשֶׁמַּשְׁוֶה אֶת ה' לְנֶגְדּוֹ — הַמֹּחַ שׁוֹלֵט וְהַלֵּב נִשְׁמָע.",
+      "it": "Il cervello ha sempre la potenzialità di governare, come è detto 'Pongo sempre il Signore dinanzi a me' (Salmo 16:8). Quando si pone il Signore dinanzi a sé — il cervello governa e il cuore obbedisce. Questa è la via del Beinoni."
+    }
+  ],
+  "_glossary_terms_used": ["moach", "nefesh ha-Elokit", "nefesh ha-behamit", "Beinoni", "lev"]
+}

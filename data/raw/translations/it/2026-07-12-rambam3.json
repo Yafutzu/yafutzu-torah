@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'aseh HaKorbanot 4-6",
+  "name_he": "משנה תורה, הלכות מעשה הקורבנות, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi della Procedura dei Sacrifici, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-07-12",
+  "hebrew_date": "27 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "4:1",
+      "he": "זְרִיקָה — יֵשׁ מִינֵי זְרִיקוֹת: מַתְּנוֹת אַרְבַּע (עַל אַרְבַּע קְרָנוֹת הַמִּזְבֵּחַ), מַתָּנָה אַחַת, שֶׁבַע הַזָּאוֹת.",
+      "it": "La zerikah — vi sono vari tipi di aspersione: arba matanot (quattro applicazioni sulle quattro corna dell'altare), matanah achat (un'applicazione), e sette aspersioni (sheva hazayot)."
+    },
+    {
+      "n": "4:2",
+      "he": "קָרְבָּן עוֹלָה — נִתְּנִין דָּמָיו בִּשְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע.",
+      "it": "Il sacrificio olah — il suo sangue viene applicato in due applicazioni che [contano come] quattro."
+    },
+    {
+      "n": "4:3",
+      "he": "חַטָּאת — דָּמָהּ נִתָּן בְּאַרְבַּע קְרָנוֹת.",
+      "it": "Il chatat (sacrificio di espiazione) — il suo sangue viene applicato alle quattro corna."
+    },
+    {
+      "n": "5:1",
+      "he": "הָאֵימוּרִין — חֶלֶב הַמְּכַסֶּה אֶת הַקֶּרֶב, שְׁתֵּי הַכְּלָיוֹת וְחֶלְבָּן, וְיֹתֶרֶת הַכָּבֵד — מַקְטִירִין אוֹתָן עַל הַמִּזְבֵּחַ.",
+      "it": "Gli eimurim (parti grasse offerte sull'altare) — il grasso che copre le viscere, i due reni e il loro grasso, e il lobo del fegato (yoteret ha-kaved) — li si brucia sull'altare."
+    },
+    {
+      "n": "5:2",
+      "he": "הַקְטָרַת הָאֵימוּרִין — מִצְוָה לַעֲשׂוֹתָהּ בַּלַּיְלָה.",
+      "it": "Il bruciare degli eimurim — è una mitzva farlo di notte."
+    },
+    {
+      "n": "5:3",
+      "he": "אִם לֹא נִקְטְרוּ בַּלַּיְלָה — נִקְטָרִין בַּיּוֹם הַשֵּׁנִי.",
+      "it": "Se non sono stati bruciati di notte — si bruciano il giorno successivo."
+    },
+    {
+      "n": "6:1",
+      "he": "סוּגֵי הַקָּרְבָּנוֹת: עוֹלָה — כֻּלָּהּ לַמִּזְבֵּחַ. שְׁלָמִים — לַמִּזְבֵּחַ, לַכֹּהֵן, וְלַבְּעָלִים. חַטָּאת וְאָשָׁם — לַמִּזְבֵּחַ וְלַכֹּהֵן.",
+      "it": "I tipi di sacrifici: olah (olocausto) — interamente per l'altare. shelamim (sacrificio di pace) — per l'altare, per il kohen, e per il proprietario. chatat e asham (sacrifici di espiazione) — per l'altare e per il kohen."
+    },
+    {
+      "n": "6:2",
+      "he": "עוֹלָה — כֻּלָּהּ כָּלִיל לַה'.",
+      "it": "L'olah — è interamente un olocausto per il Signore (kalil)."
+    },
+    {
+      "n": "6:3",
+      "he": "שְׁלָמִים — בְּעָלָיו אוֹכְלִין אֶת הַבָּשָׂר. הַכֹּהֵן אוֹכֵל הַחֲזֶה וְהַשּׁוֹק. הָאֵימוּרִין לַמִּזְבֵּחַ.",
+      "it": "Lo shelamim — il proprietario mangia la carne. Il kohen mangia il petto (chazeh) e la coscia (shok). Gli eimurim per l'altare."
+    },
+    {
+      "n": "6:4",
+      "he": "שְׁלָמִים — נֶאֱכָלִין לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד.",
+      "it": "Lo shelamim — può essere mangiato per due giorni e una notte."
+    },
+    {
+      "n": "6:5",
+      "he": "חַטָּאת — נֶאֱכֶלֶת לְיוֹם אֶחָד וְלַיְלָה אֶחָד.",
+      "it": "Il chatat — può essere mangiato per un giorno e una notte."
+    },
+    {
+      "n": "6:6",
+      "he": "עוֹלָה — אֵין בָּהּ אֲכִילָה לַכֹּהֵן, שֶׁכֻּלָּהּ לַמִּזְבֵּחַ.",
+      "it": "L'olah — non vi è parte di essa che si mangia, poiché è interamente per l'altare."
+    }
+  ],
+  "_glossary_terms_used": ["zerikah", "arba matanot", "matanah achat", "sheva hazayot", "olah", "chatat", "asham", "shelamim", "eimurim", "yoteret ha-kaved", "kalil", "chazeh", "shok", "kohen", "Ma'aseh HaKorbanot"]
+}

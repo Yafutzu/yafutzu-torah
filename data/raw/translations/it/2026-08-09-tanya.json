@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 33",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לג",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 33",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-09",
+  "hebrew_date": "26 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "המצוה לאהוב כל יהודי — כוללת גם אהבה לאלו שחטאו. ולמה? כי גם חוטא — נשמתו קדושה. אמרו חז\"ל: 'אפילו ריקנין שבך מלאים מצוות כרימון'. ואם הנשמה טהורה — חייבים לאהוב אותה.",
+      "it": "Il precetto di amare ogni ebreo include anche l'amore per coloro che hanno peccato. Perché? Perché anche un peccatore — la sua neshama è santa. I Saggi dissero: 'Anche i vuoti tra di te sono pieni di precetti come la melagrana' (Berakhot 57a). E se la neshama è pura, si è obbligati ad amarla."
+    },
+    {
+      "n": 2,
+      "he": "מי שדן את חבירו לכף חובה — הוא עצמו מגלה שפגם הדומה לו נמצא בנפשו. שנאמר: 'אל תדין את חבירך עד שתגיע למקומו'. כלומר, אם אני רואה את פגם חבירי — סימן שהפגם קיים גם בי. לכן, הדן לכף חובה — ידין את עצמו.",
+      "it": "Chi giudica il prossimo negativamente rivela che un difetto simile esiste nella propria anima. Come è detto: 'Non giudicare il tuo prossimo finché non arrivi alla sua posizione' (Avot 2:4). Ciò significa: se vedo il difetto del mio prossimo, è segno che quel difetto esiste anche in me. Pertanto, chi giudica negativamente dovrebbe giudicare se stesso."
+    },
+    {
+      "n": 3,
+      "he": "לפיכך, הדרך הנכונה היא 'דן לכף זכות' — לחפש בכל אדם את הצד הטוב שבו. ולא רק כדרך נדיבות לב, אלא כי כך האמת: כל יהודי יש בו נשמה שורשית טהורה, ואפילו אם לא נראה — היא קיימת. ומתוך אהבה זו — גם האחר מתעורר לתשובה.",
+      "it": "Pertanto, la via giusta è il 'dan le-khaf zechut' — cercare in ogni persona il suo aspetto positivo. E non solo per generosità d'animo, ma perché questa è la verità: ogni ebreo ha una neshama fondamentale pura, e anche se non è visibile — essa esiste. Da questo amore, anche l'altro viene stimolato alla teshuvah."
+    }
+  ],
+  "_glossary_terms_used": ["ahavat Yisrael", "neshama", "dan le-khaf zechut", "teshuvah"]
+}

@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Sabbath 1",
+  "name_he": "משנה תורה, הלכות שבת, פרק א",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-22",
+  "hebrew_date": "6 Sivan 5786",
+  "halachot_count": 4,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבִיתָה בַּשְּׁבִיעִי מִמְּלָאכָה מִצְוַת עֲשֵׂה שֶׁנֶּאֱמַר וּבַיּוֹם הַשְּׁבִיעִי תִּשְׁבֹּת. וְכָל הָעוֹשֶׂה בּוֹ מְלָאכָה בִּטֵּל מִצְוַת עֲשֵׂה וְעָבַר עַל לֹא תַּעֲשֶׂה…",
+      "it": "Astenersi [dal lavoro] nel settimo giorno è un precetto positivo, come è detto: «E nel settimo giorno ti asterrai» (Shemot 34:21). Chi compie lavoro in esso annulla il precetto positivo e trasgredisce il precetto negativo, come è detto: «Non compirai alcun lavoro» (Devarim 5:14). Quale pena è prevista per chi compie lavoro? Se lo ha fatto deliberatamente (be-mezid) è soggetto a karet (recisione divina); se vi erano testimoni e ammonimento, è condannato alla lapidazione; se lo ha fatto per errore (be-shogeg) è obbligato a un sacrificio espiatorio fisso (korban chatat keva)."
+    },
+    {
+      "n": 2,
+      "he": "כָּל מָקוֹם שֶׁנֶּאֱמַר בְּהִלְכוֹת שַׁבָּת שֶׁהָעוֹשֶׂה דָּבָר זֶה חַיָּב הֲרֵי זֶה חַיָּב כָּרֵת…",
+      "it": "Ovunque nelle Leggi dello Shabbat venga detto «chi fa questa cosa è obbligato (chayyav)» — ciò significa che è soggetto a karet. Se vi erano testimoni e ammonimento, è soggetto alla lapidazione; se ha agito per errore, è obbligato al sacrificio espiatorio."
+    },
+    {
+      "n": 3,
+      "he": "וְכָל מָקוֹם שֶׁנֶּאֱמַר שֶׁהָעוֹשֶׂה דָּבָר זֶה פָּטוּר הֲרֵי זֶה פָּטוּר מִן הַכָּרֵת וּמִן הַסְּקִילָה וּמִן הַקָּרְבָּן אֲבָל אָסוּר לַעֲשׂוֹת אוֹתוֹ דָּבָר בְּשַׁבָּת…",
+      "it": "Ovunque venga detto «chi fa questa cosa è esente (patur)» — è esente da karet, dalla lapidazione e dal sacrificio espiatorio, ma è comunque proibito compiere quell'azione di Shabbat, e il divieto è d'origine rabbinica (mi-divrei soferim), come misura di distanza dal lavoro [proibito dalla Torah]. Chi lo fa deliberatamente riceve la flagellazione disciplinare (makkot mardut). E ogni volta che viene detto «non si fa così» o «è proibito fare così» di Shabbat — chi lo fa deliberatamente riceve la flagellazione disciplinare."
+    },
+    {
+      "n": 4,
+      "he": "וְכָל מָקוֹם שֶׁנֶּאֱמַר מֻתָּר לַעֲשׂוֹת כָּךְ וְכָךְ הֲרֵי זֶה מֻתָּר לְכַתְּחִלָּה. וְכֵן כָּל מָקוֹם שֶׁנֶּאֱמַר אֵינוֹ חַיָּב כְּלוּם אוֹ פָּטוּר מִכְּלוּם אֵין מַכִּין אוֹתוֹ כְּלָל",
+      "it": "Ovunque venga detto «è permesso fare così» — è permesso a priori (le-khatchilà). E ogni volta che venga detto «non è obbligato a nulla» o «è esente da tutto» — non lo si percuote affatto."
+    }
+  ],
+  "_glossary_terms_used": [
+    "karet", "makkot mardut", "korban chatat", "be-mezid", "be-shogeg", "mi-divrei soferim", "le-khatchilà"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 1",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק א",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 1",
+  "cycle": "rambam-1",
+  "date": "2026-07-15",
+  "hebrew_date": "1 Av 5786",
+  "halachot_count": 3,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה מִן הַתּוֹרָה לִשְׁמֹעַ קוֹל שׁוֹפָר בְּרֹאשׁ הַשָּׁנָה, שֶׁנֶּאֱמַר: \"יוֹם תְּרוּעָה יִהְיֶה לָכֶם\".",
+      "it": "Vi è un comandamento positivo della Torah di ascoltare la voce dello shofar a Rosh HaShanah, come è detto: «Sarà per voi un giorno di terua (suono di tromba)» (Bamidbar 29:1)."
+    },
+    {
+      "n": 2,
+      "he": "הַשּׁוֹפָר שֶׁתּוֹקְעִין בּוֹ — קֶרֶן הָאַיִל הַכְּפוּפָה. וְכָל הַשּׁוֹפָרוֹת כְּשֵׁרִים חוּץ מִשֶּׁל פָּרָה.",
+      "it": "Lo shofar con cui si suona — è il corno dell'ariete curvo. Tutti gli shofar sono idonei eccetto quello di vacca."
+    },
+    {
+      "n": 3,
+      "he": "סֵדֶר הַתְּקִיעוֹת: תְּקִיעָה, שְׁבָרִים, תְּרוּעָה, תְּקִיעָה — שְׁלוֹשׁ פְּעָמִים. וְעוֹד: תְּקִיעָה, שְׁבָרִים, תְּקִיעָה — שְׁלוֹשׁ פְּעָמִים. וְעוֹד: תְּקִיעָה, תְּרוּעָה, תְּקִיעָה — שְׁלוֹשׁ פְּעָמִים.",
+      "it": "L'ordine dei suoni: tekiah (suono continuo), shevarim (tre suoni spezzati), teruah (serie di piccoli suoni), tekiah — tre volte. Poi: tekiah, shevarim, tekiah — tre volte. Poi: tekiah, teruah, tekiah — tre volte."
+    }
+  ],
+  "_glossary_terms_used": ["shofar", "Rosh HaShanah", "tekiah", "shevarim", "teruah", "mitzva"]
+}

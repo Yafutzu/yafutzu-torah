@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 14",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק יד",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 14",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-16",
+  "hebrew_date": "7 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְעַתָּה יָבִין הַמַּשְׂכִּיל — עִנְיַן הָאַהֲבָה הַמִּתְעוֹרֶרֶת בְּלֵב הַבֵּינוֹנִי בְּעֵת הַתְּפִלָּה…",
+      "it": "L'Alter Rebbe si rivolge ora alla guida pratica. Dopo aver stabilito le tre categorie — tzaddik (giusto), rasha (malvagio) e beinoni (intermedio) — e aver mostrato che il livello del beinoni è il traguardo realistico per la maggior parte delle persone, spiega: anche il beinoni sperimenta momenti di amore ardente (ahavah) durante la preghiera. Questa non è un'esperienza artificiale o immaginata, bensì reale. L'anima divina (nefesh ha-Elokit) si rivela genuinamente durante la tefillah (preghiera), e questa rivelazione è autentica, anche se temporanea."
+    },
+    {
+      "n": 2,
+      "he": "וְאַף אִם אַחַר הַתְּפִלָּה חוֹזֵר לְמַה שֶּׁהָיָה — אֵין זֶה מוֹכִיחַ שֶׁהָאַהֲבָה הָיְתָה שֶׁקֶר…",
+      "it": "Il rapido svanire dell'amore divino dopo la preghiera non ne invalida l'autenticità. L'Alter Rebbe chiarisce: il fatto che il beinoni ritorni alla sua condizione ordinaria non prova che l'esperienza fosse falsa. Al contrario — è la natura del livello del beinoni che l'anima divina emerga in momenti di concentrazione spirituale (tefillah, studio della Torah) e poi l'anima animale (nefesh ha-behamit) riprenda la sua posizione nel governo del cuore. Come il sole che tramonta ma non smette di esistere, così l'amore del beinoni si «nasconde» ma non si estingue."
+    },
+    {
+      "n": 3,
+      "he": "וְעַל זֶה אָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה — לְעוֹלָם יְהֵא אָדָם רָגִיל לְהַשְׁכִּים לְבֵית הַכְּנֶסֶת…",
+      "it": "I Saggi dissero: «Che una persona si abitui sempre ad andare presto alla sinagoga» — perché la preghiera regolare crea un'abitudine di rivelazione per l'anima divina. L'Alter Rebbe insegna che la regolarità del servizio divino (avodah) è il meccanismo attraverso cui il beinoni mantiene la sua posizione spirituale. Non si tratta di stati mistici occasionali ma di un lavoro costante e strutturato. Il valore della tefillah del beinoni è completo, anche se non è accompagnato dall'estasi del tzaddik."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzaddik", "rasha", "beinoni", "ahavah", "nefesh ha-Elokit", "nefesh ha-behamit", "tefillah", "avodah"
+  ]
+}

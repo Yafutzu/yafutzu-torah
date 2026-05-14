@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 6",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב, פרק ו",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 6",
+  "cycle": "rambam-1",
+  "date": "2026-07-04",
+  "hebrew_date": "19 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מֻתָּר לְהוֹצִיא בְּיוֹם טוֹב מֵרְשׁוּת לִרְשׁוּת דָּבָר שֶׁיֵּשׁ בּוֹ צֹרֶךְ לְאֹכֶל נֶפֶשׁ.",
+      "it": "È permesso portare nello Yom Tov da un dominio all'altro qualcosa che è necessario per il cibo (ochel nefesh)."
+    },
+    {
+      "n": 2,
+      "he": "אָסוּר לְהוֹצִיא בְּיוֹם טוֹב דְּבָרִים שֶׁאֵין בָּהֶם צֹרֶךְ אֹכֶל נֶפֶשׁ, כְּגוֹן כְּלֵי עֵצִים וַאֲבָנִים.",
+      "it": "È proibito portare nello Yom Tov cose che non sono necessarie per il cibo, come oggetti di legno e pietre."
+    },
+    {
+      "n": 3,
+      "he": "הוֹאִיל וְהֻתְּרָה הַהוֹצָאָה לְצֹרֶךְ אֹכֶל נֶפֶשׁ, הֻתְּרָה גַּם כֵּן שֶׁלֹּא לְצֹרֶךְ אֹכֶל נֶפֶשׁ. זֶהוּ עִקַּר דִּין \"מִתּוֹךְ שֶׁהֻתְּרָה לְצֹרֶךְ הֻתְּרָה נַמִּי שֶׁלֹּא לְצֹרֶךְ\".",
+      "it": "Poiché il trasporto è stato permesso per la necessità del cibo, esso è permesso anche senza la necessità del cibo. Questo è il principio fondamentale di «mitoch she-hutrah le-tzorech, hutrah nami she-lo le-tzorech» (poiché fu permessa per necessità, fu permessa anche senza necessità)."
+    },
+    {
+      "n": 4,
+      "he": "אֵין הַיְתֵּר זֶה אֶלָּא לְדָבָר שֶׁיֵּשׁ בּוֹ שׁוּם צֹרֶךְ בְּיוֹם טוֹב, כְּגוֹן בֶּגֶד לְהִתְכַּסּוֹת בּוֹ.",
+      "it": "Questa permissività vale solo per qualcosa che ha un qualche bisogno nello Yom Tov, come un vestito per coprirsi."
+    },
+    {
+      "n": 5,
+      "he": "אָסוּר לְהוֹצִיא דָּבָר שֶׁאֵין בּוֹ שׁוּם צֹרֶךְ בְּיוֹם טוֹב אֲפִלּוּ לְרְשׁוּת הָרַבִּים.",
+      "it": "È proibito portare qualcosa che non ha alcun bisogno nello Yom Tov, nemmeno in dominio pubblico."
+    },
+    {
+      "n": 6,
+      "he": "הָאֵשׁ — הֻתְּרָה לְצֹרֶךְ אֹכֶל נֶפֶשׁ. לְפִיכָךְ מֻתָּר לְהַדְלִיק מִיּוֹם טוֹב לְיוֹם טוֹב.",
+      "it": "Il fuoco — fu permesso per bisogno di cibo. Pertanto è permesso accendere da Yom Tov a Yom Tov [da una fiamma esistente]."
+    },
+    {
+      "n": 7,
+      "he": "אֵין מוֹצִיאִין אֵשׁ מֵחָדָשׁ בְּיוֹם טוֹב, שֶׁזֶּה דּוֹמֶה לְמְלָאכָה גְּמוּרָה.",
+      "it": "Non si produce fuoco nuovo nello Yom Tov, poiché questo assomiglia a un lavoro completo."
+    },
+    {
+      "n": 8,
+      "he": "מֻתָּר לְהַעֲבִיר אֵשׁ מֵרְשׁוּת לִרְשׁוּת בְּיוֹם טוֹב לְצֹרֶךְ בִּשּׁוּל.",
+      "it": "È permesso trasportare il fuoco da un dominio all'altro nello Yom Tov per bisogno di cottura."
+    },
+    {
+      "n": 9,
+      "he": "כֵּיצַד מַדְלִיקִין? לוֹקְחִין מֵאֵשׁ שֶׁהָיְתָה דְּלוּקָה מֵעֶרֶב יוֹם טוֹב.",
+      "it": "Come si accende? Si prende dalla fiamma che era già accesa alla vigilia dello Yom Tov."
+    },
+    {
+      "n": 10,
+      "he": "אָסוּר לְכַבּוֹת אֵשׁ בְּיוֹם טוֹב שֶׁלֹּא לְצֹרֶךְ אֹכֶל נֶפֶשׁ.",
+      "it": "È proibito spegnere il fuoco nello Yom Tov senza necessità di cibo."
+    },
+    {
+      "n": 11,
+      "he": "הוֹצָאָה בְּיוֹם טוֹב — כְּשֵׁם שֶׁאֲסוּרָה בְּשַׁבָּת, כָּךְ אֲסוּרָה בְּיוֹם טוֹב אֶלָּא מַה שֶּׁהֻתַּר.",
+      "it": "Il trasporto nello Yom Tov — così come è proibito di Shabbat, è proibito anche nello Yom Tov eccetto ciò che è stato permesso."
+    },
+    {
+      "n": 12,
+      "he": "מֻתָּר לְהוֹצִיא תַּינוֹק בְּיוֹם טוֹב לִרְשׁוּת הָרַבִּים, שֶׁיֵּשׁ בּוֹ צֹרֶךְ שִׂמְחַת יוֹם טוֹב.",
+      "it": "È permesso portare un bambino piccolo in dominio pubblico nello Yom Tov, poiché vi è il bisogno della gioia dello Yom Tov."
+    },
+    {
+      "n": 13,
+      "he": "מֻתָּר לְהוֹצִיא לוּלָב וְאֶתְרוֹג בְּיוֹם טוֹב לִרְשׁוּת הָרַבִּים לְשֵׁם מִצְוָה.",
+      "it": "È permesso portare il lulav e l'etrog in dominio pubblico nello Yom Tov per il bisogno della mitzva."
+    },
+    {
+      "n": 14,
+      "he": "מֻתָּר לְהוֹצִיא כֵּלִים לְצֹרֶךְ אֹכֶל נֶפֶשׁ, כְּגוֹן כֵּלִים לְבִשּׁוּל.",
+      "it": "È permesso portare utensili per il bisogno di cibo, come utensili per la cottura."
+    },
+    {
+      "n": 15,
+      "he": "הָאֵשׁ שֶׁהֻתְּרָה לְצֹרֶךְ הֻתְּרָה נַמִּי שֶׁלֹּא לְצֹרֶךְ — לְדָבָר שֶׁיֵּשׁ בּוֹ קְצָת צֹרֶךְ בְּיוֹם טוֹב.",
+      "it": "Il fuoco che fu permesso per necessità fu permesso anche senza necessità — per qualcosa che ha almeno un po' di bisogno nello Yom Tov."
+    },
+    {
+      "n": 16,
+      "he": "אֵין מַעֲלִין בְּיוֹם טוֹב מִן הָאוֹצָר דְּבָרִים שֶׁאֵין בָּהֶם צֹרֶךְ יוֹם טוֹב.",
+      "it": "Non si tirano fuori dal magazzino nello Yom Tov cose che non sono necessarie per Yom Tov."
+    },
+    {
+      "n": 17,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת לִרְשׁוּת בְּיוֹם טוֹב שֶׁלֹּא לְצֹרֶךְ כְּלָל — חַיָּב.",
+      "it": "Chi porta da un dominio all'altro nello Yom Tov senza alcun bisogno — è passibile di pena."
+    },
+    {
+      "n": 18,
+      "he": "מֻתָּר לְהוֹצִיא בְּיוֹם טוֹב בְּגָדִים הַצְּרִיכִים לְיוֹם טוֹב.",
+      "it": "È permesso portare nello Yom Tov abiti necessari per Yom Tov."
+    },
+    {
+      "n": 19,
+      "he": "הַמּוֹצִיא סֵפֶר תּוֹרָה לִקְרֹא בּוֹ בְּיוֹם טוֹב — מֻתָּר, שֶׁיֵּשׁ בּוֹ צֹרֶךְ מִצְוָה.",
+      "it": "Chi porta un Sefer Torah per leggerlo nello Yom Tov — è permesso, poiché vi è un bisogno di mitzva."
+    },
+    {
+      "n": 20,
+      "he": "עִקַּר הַדִּין: כָּל שֶׁיֵּשׁ בּוֹ צֹרֶךְ בְּיוֹם טוֹב — מֻתָּר לְהוֹצִיאוֹ. וְכָל שֶׁאֵין בּוֹ צֹרֶךְ — אָסוּר.",
+      "it": "Il principio fondamentale: tutto ciò che ha bisogno nello Yom Tov — è permesso portarlo. Tutto ciò che non ha bisogno — è proibito."
+    }
+  ],
+  "_glossary_terms_used": ["ochel nefesh", "mitoch she-hutrah le-tzorech hutrah nami she-lo le-tzorech", "reshut ha-rabim", "reshut ha-yachid", "Yom Tov", "Shabbat", "lulav", "etrog", "Sefer Torah", "mitzva", "melachah"]
+}

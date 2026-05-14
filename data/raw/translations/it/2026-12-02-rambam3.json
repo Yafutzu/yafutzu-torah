@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 3-5",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-12-02",
+  "hebrew_date": "23 Kislev 5787",
+  "halachot_count": 15,
+  "halachot": [
+    {
+      "n": "3:1-5",
+      "he": "סְמִיכַת זְקֵנִים — מֹשֶׁה רַבֵּינוּ סָמַךְ אֶת יְהוֹשֻׁעַ...",
+      "it": "(Sanhedrin cap. 3, hal. 1-5) La semichah (ordinazione rabbinica): Mosè ha ordinato Giosuè (Numeri 27:23), i Saggi ordinano i loro discepoli. La catena ininterrotta: da Mosè attraverso ogni generazione fino al periodo dei Geonim. La semichah richiedeva tre ordinati (minimo) per ordinare un altro. Quando la catena si è interrotta (intorno al IV secolo E.C.) — non è più possibile conferire la piena semichah. Il Rambam discute la possibilità teorica di reistituire la semichah se tutti i saggi d'Israele si accordassero — un argomento che continuò a essere dibattuto nei secoli successivi."
+    },
+    {
+      "n": "4:1-5",
+      "he": "אֵין מוֹשִׁיבִין בַּסַּנְהֶדְרִין קָרוֹב...",
+      "it": "(Sanhedrin cap. 4, hal. 1-5) Giudici disqualificati: i parenti tra loro (padre e figlio, fratelli, cognati) non possono sedere insieme nello stesso beit din. Un giudice che ha interesse personale nel caso — disqualificato. Un giudice che è stato testimone nel caso — non può giudicare (ed ein na'aseh dayan). Un giudice che conosce personalmente i fatti del caso come testimone — deve testimoniare e poi astenersi dal giudicare."
+    },
+    {
+      "n": "5:1-6",
+      "he": "כֵּיצַד דָּנִין דִּינֵי מָמוֹנוֹת — בָּאִים בַּעֲלֵי דִין...",
+      "it": "(Sanhedrin cap. 5, hal. 1-6) Procedura nelle cause monetarie: le parti si presentano, i loro argomenti vengono ascoltati, i testimoni testimoniano. Regola speciale: se il Sinedrio vota unanimemente per la condanna a morte — il condannato è assolto («sanhedrin ha-gome'let kulo zechut — patur»). La logica: un beit din che non trova nessun merito nell'accusato ha probabilmente mancato qualcosa. Il principio di «tzaddek le-chaf zechut» — giudicare favorevolmente — si applica con massima intensità nelle cause capitali."
+    }
+  ],
+  "_glossary_terms_used": [
+    "semichah", "Geonim", "beit din", "ed ein na'aseh dayan", "sanhedrin ha-gome'let kulo zechut", "tzaddek le-chaf zechut", "Sanhedrin"
+  ]
+}

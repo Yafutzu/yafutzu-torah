@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, To'en VeNit'an 12-14",
+  "name_he": "משנה תורה, הלכות טוען ונטען, פרקים יב-יד",
+  "name_it": "Mishneh Torah, Leggi delle Pretese e delle Contestazioni, capitoli 12-14",
+  "cycle": "rambam-3",
+  "date": "2026-11-26",
+  "hebrew_date": "17 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "12:1-5",
+      "he": "מִגּוֹ — שֶׁאִלּוּ הָיָה רוֹצֶה לְשַׁקֵּר — הָיָה אוֹמֵר טַעֲנָה טוֹבָה מִזּוֹ…",
+      "it": "(To'en VeNit'an cap. 12, hal. 1-5) Miggo (letteralmente: «da dentro» — dal fatto che...): un argomento di plausibilità legale. Se un litigante avrebbe potuto avanzare una pretesa più vantaggiosa per sé ma ha scelto una pretesa meno vantaggiosa — questo aumenta la credibilità della sua pretesa attuale. La logica: se stesse mentendo, avrebbe certamente scelto la menzogna più conveniente. Il fatto che scelga la storia più difficile suggerisce che stia dicendo la verità."
+    },
+    {
+      "n": "13:1-5",
+      "he": "מִגּוֹ פָּסוּל — בְּמָקוֹם שֶׁאִם הָיָה טוֹעֵן אֶת הַטַּעֲנָה הַטּוֹבָה — הָיָה נִשְׁבָּע…",
+      "it": "(To'en VeNit'an cap. 13, hal. 1-5) Il miggo è invalido nei seguenti casi: (1) Miggo «contro due testimoni» — il miggo non può contraddire la testimonianza diretta di due testimoni validi; (2) Miggo «dove anche la pretesa migliore avrebbe richiesto un giuramento» — se anche la pretesa più vantaggiosa avrebbe comunque richiesto un giuramento per essere accettata, il miggo non esime dal giuramento. Il miggo è un argomento probabilistico e cede di fronte a prove dirette più forti."
+    },
+    {
+      "n": "14:1-5",
+      "he": "טַעֲנַת שֶׁמָּא — כְּנֶגֶד בְּרִי — אֵין בָּהּ כְּלוּם…",
+      "it": "(To'en VeNit'an cap. 14, hal. 1-5) Una pretesa incerta (ta'anat shema — «forse») contro una pretesa certa (briy — «certamente») — non ha forza legale. Chi afferma con certezza «ti devo X» vs. chi dice «forse mi devi X» — la certezza prevale. Il beit din segue la parte che parla con certezza (bari adif). Tuttavia se entrambe le parti sono incerte — si divide la somma in disputa (yachloku). Questi principi governano le situazioni di incertezza delle pretese e riflettono l'equità del sistema della halachah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "miggo", "bari", "shema", "bari adif", "yachloku", "beit din", "edim"
+  ]
+}

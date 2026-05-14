@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 3",
+  "name_he": "אגרת התשובה פרק ג'",
+  "name_it": "Lettera della Teshuvah, Capitolo 3",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-03",
+  "hebrew_date": "18 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה בִּיאוּר עִנְיַן הַתְּשׁוּבָה הַנִּקְרֵאת תְּשׁוּבָה תַּחְתּוֹנָה",
+      "it": "Il Baal HaTanya introduce la distinzione tra teshuvah tachtonah (תְּשׁוּבָה תַּחְתּוֹנָה — teshuvah inferiore) e teshuvah ila'ah (תְּשׁוּבָה עִילָּאָה — teshuvah superiore). La teshuvah tachtonah è quella ordinaria: il pianto (bechi, בְּכִי), il cuore spezzato (lev nishbar, לֵב נִשְׁבָּר) e l'amarezza (merirut, מְרִירוּת) per i peccati commessi. Questa è la forma di teshuvah descritta in questo capitolo."
+    },
+    {
+      "n": 2,
+      "he": "וְזֶהוּ עִנְיַן הַבֶּכִי בַּתְּשׁוּבָה",
+      "it": "Il pianto della teshuvah ha una natura paradossale: normalmente il pianto è segno di tristezza, che nel servizio divino è dannosa. Tuttavia il 'bechi shel teshuvah' (בְּכִי שֶׁל תְּשׁוּבָה — pianto di pentimento) proviene da un luogo più profondo: dalla Gevurah (גְּבוּרָה — Forza/Rigore) celata nel Keter (כֶּתֶר — Corona) dell'anima. Questo pianto non è malinconia ma un'espressione della profondità del legame dell'anima con Dio — piange perché sente la distanza da Lui come dolore."
+    },
+    {
+      "n": 3,
+      "he": "וְהַהֶפְרֵשׁ בֵּין תְּשׁוּבָה מִיִּרְאָה לְתְשׁוּבָה מֵאַהֲבָה",
+      "it": "C'è una differenza fondamentale tra teshuvah mi-yirah (תְּשׁוּבָה מִיִּרְאָה — teshuvah per timore) e teshuvah me-ahavah (תְּשׁוּבָה מֵאַהֲבָה — teshuvah per amore). Nella teshuvah per timore, i peccati intenzionali diventano errori involontari (zdonot na'asot shgagot, זְדוֹנוֹת נַעֲשׂוֹת שְׁגָגוֹת). Nella teshuvah per amore — che proviene da un amore ardente e completo — i peccati intenzionali diventano meriti (zdonot na'asot kizechuyot, זְדוֹנוֹת נַעֲשׂוֹת כִּזְכֻיּוֹת). Il cuore spezzato con amarezza appartiene alla prima; la gioia e l'ardore alla seconda — eppure entrambe sono autentiche forme di ritorno."
+    }
+  ],
+  "_glossary_terms_used": ["teshuvah tachtonah", "teshuvah ila'ah", "bechi", "lev nishbar", "merirut", "Gevurah", "Keter", "teshuvah mi-yirah", "teshuvah me-ahavah", "zdonot na'asot shgagot", "zdonot na'asot kizechuyot"]
+}

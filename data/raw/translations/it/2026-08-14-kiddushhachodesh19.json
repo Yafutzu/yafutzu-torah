@@ -1,0 +1,77 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 19",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק יט",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 19",
+  "cycle": "rambam-1",
+  "date": "2026-08-14",
+  "hebrew_date": "1 Elul 5786",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "ראש חודש אלול — יום זה הוא ראשון לחודש אלול, תחילת ימי הרחמים והסליחות לפני ראש השנה. ובפרק זה נסיים את הלכות קידוש החודש ונסכם את כל יסודות חשבון הלוח.",
+      "it": "Rosh Chodesh Elul — questo giorno è il primo di Elul, l'inizio dei giorni di misericordia (Rachamim) e perdono (Slichot) prima di Rosh HaShanah. In questo capitolo concluderemo le Leggi della Santificazione del Mese e riassumeremo tutti i fondamenti del calcolo del calendario."
+    },
+    {
+      "n": 2,
+      "he": "כשנרצה לחשב אם הירח ייראה בלילה פלוני — כך נעשה: לוקחים תאריך אותו הלילה ומחשבים: (א) מקום השמש האמיתי; (ב) מקום הירח האמיתי; (ג) ה'ארך' ביניהם; (ד) רוחב הירח; (ה) קשת הראיה.",
+      "it": "Quando si vuole calcolare se la luna sarà visibile in una determinata notte, si procede così: si prende la data di quella notte e si calcola: (א) la posizione vera del sole; (ב) la posizione vera della luna; (ג) l'elongazione (orekh) tra loro; (ד) la latitudine della luna; (ה) l'arco di visibilità (keshet ha-re'iyah)."
+    },
+    {
+      "n": 3,
+      "he": "אחר שיש בידינו כל הנתונים — בודקים: אם ה'ארך' הוא תשע מעלות ויותר — הירח ייראה בוודאות. אם פחות מ-9 ויותר מ-6 — לפי שאר הנתונים. פחות מ-6 — לא ייראה.",
+      "it": "Dopo aver raccolto tutti i dati, si verifica: se l'elongazione è di nove gradi o più — la luna è certamente visibile. Se è compresa tra sei e nove gradi — dipende dagli altri dati. Se è inferiore a sei gradi — non è visibile."
+    },
+    {
+      "n": 4,
+      "he": "נסיים בדוגמה מעשית: חישוב ראיית הירח של ראש חודש אלול. הירח נראה בלילה שאחרי השלושים מאב — הלא הוא ראשון לאלול — כשה'ארך' מספיק. ובזמן הזה שאין בית דין בירושלים — אנחנו מסתמכים על הלוח הקבוע.",
+      "it": "Concludiamo con un esempio pratico: il calcolo della visibilità della luna di Rosh Chodesh Elul. La luna è visibile nella notte dopo il trentesimo di Av — che è il primo di Elul — quando l'elongazione è sufficiente. Ai nostri giorni, senza il Bet Din a Gerusalemme, ci basiamo sul calendario fisso."
+    },
+    {
+      "n": 5,
+      "he": "ראש חודש אלול הוא ראשון לחודש התשובה והרחמים. 'אני לדודי ודודי לי' — ראשי תיבות 'אלול'. ובימים אלו ה' קרוב לכל קוראיו.",
+      "it": "Rosh Chodesh Elul è il primo del mese della teshuvah e della misericordia. 'Ani le-dodi ve-dodi li' (Io sono del mio amato e il mio amato è mio — Shir ha-Shirim 6:3) — le iniziali formano la parola 'Elul'. In questi giorni D-o è vicino a tutti coloro che Lo invocano."
+    },
+    {
+      "n": 6,
+      "he": "ביסוד הלוח — יש לזכור: הלוח היהודי הוא לוח ירח-שמש. הוא מוסיף חודשות כדי לשמור על קשר עם עונות השנה, ומחשב חדשים לפי מחזור הלבנה.",
+      "it": "Nel fondamento del calendario — si deve ricordare: il calendario ebraico è un calendario luni-solare. Esso aggiunge mesi per mantenere il legame con le stagioni dell'anno, e calcola i mesi secondo il ciclo lunare."
+    },
+    {
+      "n": 7,
+      "he": "הרמב\"ם מסכם: כל הדברים שביארנו בעניין ראיית הירח — הם יסודות אסטרונומיים הנחוצים לקידוש החודש. ואלו יסודות חכמת הלוח שבידי ישראל מדורי דורות.",
+      "it": "Il Rambam conclude: tutti gli argomenti che abbiamo spiegato riguardo alla visibilità della luna — sono i fondamenti astronomici necessari per la santificazione del mese. Questi sono i fondamenti della scienza del calendario nelle mani di Israele di generazione in generazione."
+    },
+    {
+      "n": 8,
+      "he": "ודע שכל הדברים האלו שביארנו הם עיקרי חכמת התכונה. ואין אנו אומרים שאסור לאדם לעסוק בחכמה זו, אלא אדרבה — מצוה לדעתה, שנאמר 'כי היא חכמתכם ובינתכם לעיני העמים'.",
+      "it": "Sappi che tutti questi argomenti che abbiamo spiegato sono i fondamenti della scienza astronomica. Non diciamo che sia vietato occuparsi di questa scienza — al contrario, è un precetto conoscerla, come è detto: 'Poiché essa è la vostra saggezza e la vostra intelligenza agli occhi dei popoli' (Devarim 4:6)."
+    },
+    {
+      "n": 9,
+      "he": "כי חכמת הלוח — היא חלק מחכמת התורה. והרמב\"ם עצמו כתב ספר זה כדי שכל אדם מישראל יוכל להכיר את יסודות הלוח ולהבין את מועדי ה'.",
+      "it": "Poiché la scienza del calendario è parte della sapienza della Torah. Il Rambam stesso scrisse questo trattato affinché ogni ebreo possa conoscere i fondamenti del calendario e comprendere i moadim (festività) di D-o."
+    },
+    {
+      "n": 10,
+      "he": "בחודש אלול — שהוא חודש הרחמים — מצוה להרבות בסליחות ותפילות. ומנהג ישראל לתקוע בשופר כל יום, להזכיר את דין ראש השנה הבא.",
+      "it": "Nel mese di Elul — che è il mese della misericordia — è un precetto moltiplicare le Slichot (preghiere di perdono) e le preghiere. E l'usanza di Israele è di suonare lo shofar ogni giorno, per richiamare alla mente il giudizio del Rosh HaShanah che si avvicina."
+    },
+    {
+      "n": 11,
+      "he": "אמר הבעש\"ט: 'בחודש אלול, המלך יוצא לשדה'. כלומר, ה' עצמו יוצא לקראת כל אחד ואחד ממקומו, ואין צורך להגיע לפלטרין המלך. כל אחד יכול לפגוש את המלך בשדה.",
+      "it": "Disse il Baal Shem Tov: 'Nel mese di Elul, il re esce nel campo'. Ovvero, D-o stesso viene incontro a ciascuno nel suo luogo, e non vi è bisogno di raggiungere il palazzo del re. Ognuno può incontrare il Re nel campo."
+    },
+    {
+      "n": 12,
+      "he": "ומכאן — ראש חודש אלול הוא ראשית ימי ההתקרבות. חודש שלם של רחמים, בו הקב\"ה שב לאהוב את ישראל באהבה מיוחדת, ומחכה לתשובת כל אחד.",
+      "it": "Da ciò — Rosh Chodesh Elul è l'inizio dei giorni di avvicinamento. Un intero mese di misericordia, nel quale il Santo Benedetto torna ad amare Israele con amore speciale, e attende la teshuvah di ciascuno."
+    },
+    {
+      "n": 13,
+      "he": "בזה מסיים הרמב\"ם את הלכות קידוש החודש: 'כל אלו הם יסודות חשבון הלוח הנצרכים לעניין קידוש החודש'. סוף הלכות קידוש החודש. Si concludono le Leggi della Santificazione del Mese.",
+      "it": "Con questo il Rambam conclude le Leggi della Santificazione del Mese: 'Tutti questi sono i fondamenti del calcolo del calendario necessari per la santificazione del mese.' Si concludono le Leggi della Santificazione del Mese (Hilchot Kiddush ha-Chodesh)."
+    }
+  ],
+  "_glossary_terms_used": ["orekh", "keshet ha-re'iyah", "teshuvah", "Elul", "Slichot", "shofar", "Baal Shem Tov", "moadim", "Bet Din"]
+}

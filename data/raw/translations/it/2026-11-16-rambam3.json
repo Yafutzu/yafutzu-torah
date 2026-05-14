@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 9-11",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים ט-יא",
+  "name_it": "Mishneh Torah, Leggi del Creditore e del Debitore, capitoli 9-11",
+  "cycle": "rambam-3",
+  "date": "2026-11-16",
+  "hebrew_date": "7 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "9:1-4",
+      "he": "לֹא יִכָּנֵס הַמַּלְוֶה לְבֵית הַלּוֶה לִטֹּל אֶת הַמַּשְׁכּוֹן…",
+      "it": "(Malveh VeLoveh cap. 9, hal. 1-4) Il creditore non deve entrare nella casa del debitore per prendere il pegno — lo vieta la Torah esplicitamente: «Non entrerai nella sua casa per prendere il suo pegno» (Deut. 24:10). Il creditore deve stare all'esterno e il debitore gli porterà il pegno di sua iniziativa. Se il creditore entra e prende di forza — ha violato un divieto della Torah, ma il pegno rimane nelle sue mani. Solo il messaggero del beit din (tribunale rabbinico) è autorizzato a entrare nella casa del debitore per sequestrare beni."
+    },
+    {
+      "n": "9:5-8",
+      "he": "אֵין מְמַשְׁכְּנִין אֶת הָרֵחַיִם וְלֹא אֶת הָרֵכֶב…",
+      "it": "(Malveh VeLoveh cap. 9, hal. 5-8) Non si prendono come pegno la macina né la macina superiore — perché servono per fare il cibo e toglierle equivale a togliere la vita stessa. Non si prendono gli indumenti notturni del debitore (simlah) — poiché ne ha bisogno per dormire. Se il creditore ha preso comunque questi oggetti, il beit din li farà restituire. Il principio: la dignità e la sopravvivenza del debitore hanno precedenza sul diritto di credito del creditore."
+    },
+    {
+      "n": "10:1-4",
+      "he": "הַמַּשְׁכּוֹן שֶׁמִּשְׁכְּנוֹ הַדַּיָּן — אִם אָבַד — חַיָּב הַמַּלְוֶה…",
+      "it": "(Malveh VeLoveh cap. 10, hal. 1-4) Il pegno preso tramite il beit din — se va perduto, il creditore è responsabile e deve compensare il debitore. Il pegno preso dal creditore stesso senza autorizzazione del beit din — se va perduto, è comunque responsabile, poiché lo deteneva illegittimamente. Un pegno che vale meno del debito: il creditore non può tenere la differenza senza accordo; un pegno che vale più del debito: deve restituire il surplus al debitore."
+    },
+    {
+      "n": "11:1-6",
+      "he": "כֵּיצַד מְשַׁלְּמִין הַמַּשְׁכּוֹן — נִמְכָּר בְּבֵית דִּין…",
+      "it": "(Malveh VeLoveh cap. 11, hal. 1-6) Come si riscuote tramite il pegno? Si vende tramite beit din, alla presenza di testimoni e mediante proclama pubblico. Il ricavato va al creditore fino alla cifra del debito; il resto, se c'è, torna al debitore. Se il debitore è povero e il pegno è l'unico suo bene — il beit din valuta la situazione. In caso di pegno di indumenti: il creditore deve restituire la veste durante il giorno (perché il debitore ne ha bisogno per lavorare) e riceverla indietro di notte; viceversa per gli indumenti notturni."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mashkon", "beit din", "simlah", "karka", "metaltelin", "shetarot"
+  ]
+}

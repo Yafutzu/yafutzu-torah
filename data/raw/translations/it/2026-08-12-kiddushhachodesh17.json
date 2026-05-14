@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 17",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק יז",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 17",
+  "cycle": "rambam-1",
+  "date": "2026-08-12",
+  "hebrew_date": "29 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מהלך הירח האמצעי ביום אחד הוא שלוש עשרה מעלות ועשר דקות ושלושים וחמש שניות. ובחודש אחד — כ\"ט יום וי\"ב שעות ות\"ת\"ג חלקים, שהוא מולד אמצעי.",
+      "it": "Il moto medio della luna in un giorno è di tredici gradi, dieci minuti e trentacinque secondi d'arco. In un mese lunare — 29 giorni, 12 ore e 793 parti (chalakim), che è il molad emtza'i (molad medio)."
+    },
+    {
+      "n": 2,
+      "he": "מהלך הירח ל-10 ימים: קל\"א מעלות, מ\"ה דקות, וחמש עשרה שניות. ל-100 ימים: אחרי הפחתת הגלגל — בסביבות מ' מעלות.",
+      "it": "Il moto lunare per 10 giorni: 131 gradi, 45 minuti e 15 secondi. Per 100 giorni: dopo aver sottratto i giri completi dell'eclittica, risultano circa 40 gradi e qualcosa."
+    },
+    {
+      "n": 3,
+      "he": "עיקר מהלך הלבנה האמצעי — נקודת המוצא — הוא מקום הירח בתחילת הלילה הראשון שאחרי מולד תוהו. ומכאן מחשבים את מקום הירח לכל יום.",
+      "it": "Il punto di riferimento (ikkar) del moto medio della luna è la posizione della luna all'inizio della prima notte successiva al molad tohu. Da qui si calcola la posizione della luna per ogni giorno."
+    },
+    {
+      "n": 4,
+      "he": "מהלך הירח לשנה אחת פשוטה: ד' מזלות, כ\"א מעלות, מ\"ה דקות, וחמש שניות. ולשנה מעוברת: ו' מזלות, א' מעלות, ל\"ג דקות, וחמש עשרה שניות.",
+      "it": "Il moto lunare in un anno semplice: 4 segni zodiacali, 21 gradi, 45 minuti e 5 secondi. In un anno intercalare: 6 segni zodiacali, 1 grado, 33 minuti e 15 secondi."
+    },
+    {
+      "n": 5,
+      "he": "כדי לדעת מקום הירח האמצעי לכל יום — לוקחים העיקר ומוסיפים עליו מהלך כל יום שרצינו לחשב. ואם יצאו יותר מ-360 מעלות — מחסירים 360 ונשאר המקום האמיתי.",
+      "it": "Per conoscere la posizione media della luna in un qualsiasi giorno, si prende il punto di riferimento (ikkar) e si aggiunge il moto giornaliero per il numero di giorni desiderati. Se il risultato supera 360 gradi, si sottraggono 360 e il rimanente è la posizione effettiva."
+    },
+    {
+      "n": 6,
+      "he": "ממהלך הירח האמצעי לוקחים גם את 'ראש התלי' — נקודות החיתוך של גלגל הירח עם גלגל המזלות. ונקודות אלו משפיעות על לוקות הירח.",
+      "it": "Dal moto medio della luna si ricava anche la posizione del 'rosh ha-tali' — i nodi lunari (punti di intersezione dell'orbita lunare con l'eclittica). Questi nodi influenzano le eclissi lunari (lekuyot ha-yare'ach)."
+    },
+    {
+      "n": 7,
+      "he": "כל אלה החישובים מצוינים בלוחות מסודרים שחיברו חכמי התכונה, ועל פיהם עושים החשבון. הלוחות מאפשרים לחשב מקום הירח האמצעי לכל יום שרצינו.",
+      "it": "Tutti questi calcoli sono indicati in tavole ordinate composte dagli astronomi, e su di esse si basa il calcolo. Le tavole permettono di calcolare la posizione media della luna per qualsiasi giorno desiderato."
+    }
+  ],
+  "_glossary_terms_used": ["molad emtza'i", "chalakim", "ikkar", "molad tohu", "rosh ha-tali", "lekuyot ha-yare'ach"]
+}

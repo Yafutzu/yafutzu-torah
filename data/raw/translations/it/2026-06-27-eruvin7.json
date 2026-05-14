@@ -1,0 +1,122 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 7",
+  "name_he": "משנה תורה, הלכות עירובין פרק ז",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-27",
+  "hebrew_date": "12 Tammuz 5786",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵיזֶהוּ מָבוֹי הַמְפֻלָּשׁ...",
+      "it": "Cos'è un mavuy mefulash (vicolo passante)? Un vicolo aperto su entrambe le estremità, che permette il passaggio da una strada all'altra. Richiede marcatori (lechi o korah) su entrambi i lati. Se uno dei marcatori manca, il mavuy mefulash è completamente invalido per il trasporto, a differenza di un mavuy normale che ha solo un'estremità aperta."
+    },
+    {
+      "n": 2,
+      "he": "מָבוֹי שֶׁיֵּשׁ בְּרֹאשׁוֹ הַפָּנִימִי חָצֵר...",
+      "it": "Un mavuy che ha un cortile all'estremità interna: il cortile chiude effettivamente il mavuy da un lato, rendendo superfluo il marcatore su quel lato. È sufficiente un lechi o una korah solo sull'estremità aperta verso la strada. Se il cortile ha un'apertura largo oltre dieci amot verso il mavuy, non funge più da chiusura."
+    },
+    {
+      "n": 3,
+      "he": "מָבוֹי שֶׁהוּא רָחָב יוֹתֵר מֵעֶשֶׂר אַמּוֹת...",
+      "it": "Un mavuy più largo di dieci amot: necessita di un lechi o korah sull'ingresso ed anche di una riduzione della larghezza. I Saggi richiedono che l'apertura effettiva di accesso al mavuy (il 'melo karka') non superi i dieci amot. Se è più largo, si restringe con una struttura aggiuntiva o con un'altra parete parziale."
+    },
+    {
+      "n": 4,
+      "he": "מָבוֹי שֶׁגָּבוֹהַּ מֵעֶשֶׂר אַמּוֹת...",
+      "it": "Un mavuy la cui apertura è alta oltre venti amot: la korah posta oltre i venti amot è invalida (come già spiegato nel capitolo 5). Si deve abbassare la korah o costruire un riempimento sotto di essa. L'altezza minima del mavuy è di dieci tefachim — sotto questa misura non è considerato un mavuy valido."
+    },
+    {
+      "n": 5,
+      "he": "הַנִּכְנָס לַמָּבוֹי...",
+      "it": "Chi entra nel mavuy per portare oggetti: deve assicurarsi che l'eruv shituf del mavuy sia valido. Se c'è un dubbio sull'eruv (ad esempio se il lechi è caduto o se qualcuno non ha partecipato), non si può trasportare fino a quando non si risolve il dubbio o si ripristina l'eruv."
+    },
+    {
+      "n": 6,
+      "he": "מָבוֹי שֶׁחָלְקוּ אוֹתוֹ בְּמַחִיצָה...",
+      "it": "Un mavuy diviso in due da una parete: i due tronconi del mavuy sono ora due mavuy separati, ciascuno con le proprie regole. Se la parete dividente è alta almeno dieci tefachim, separano completamente i domini. Se è inferiore, il principio del lavud o del gud asik potrebbe renderla come una parete completa."
+    },
+    {
+      "n": 7,
+      "he": "חָצֵר שֶׁנִּפְרְצָה לְמָבוֹי...",
+      "it": "Un cortile che si apre su un mavuy: il cortile deve avere il proprio eruv chatzerot e deve anche partecipare allo shituf del mavuy. Queste sono due fusioni distinte: quella del cortile e quella del mavuy. Se il cortile non ha eruv, il trasporto tra il cortile e il mavuy è vietato anche se il mavuy ha il proprio shituf valido."
+    },
+    {
+      "n": 8,
+      "he": "חָצֵר הַפְּתוּחָה לִשְׁנֵי מְבוֹאוֹת...",
+      "it": "Un cortile che si apre su due mavuy: i residenti del cortile devono partecipare agli eruvin di entrambi i mavuy. Se il cortile fa eruv con un solo mavuy, il trasporto tra il cortile e l'altro mavuy rimane problematico. Il Rambam esamina le diverse configurazioni spaziali e i requisiti di eruv corrispondenti."
+    },
+    {
+      "n": 9,
+      "he": "בָּתִּים הַפְּתוּחִין לַמָּבוֹי...",
+      "it": "Abitazioni che si aprono direttamente sul mavuy senza passare attraverso un cortile: tali abitazioni sono considerate direttamente parte del mavuy. I loro residenti devono partecipare allo shituf del mavuy. Non necessitano di un eruv chatzerot separato, poiché non vi è un cortile intermedio."
+    },
+    {
+      "n": 10,
+      "he": "מָבוֹי שֶׁיֵּשׁ בּוֹ שְׁנֵי בְּנֵי אָדָם...",
+      "it": "Un mavuy con solo due residenti: è sufficiente che entrambi partecipino allo shituf. Non è necessario un numero minimo di residenti. Anche un mavuy con un unico abitante ha bisogno del marcatore fisico (lechi o korah) all'ingresso, ma non dello shituf, poiché lo shituf è necessario solo quando vi sono più domini."
+    },
+    {
+      "n": 11,
+      "he": "מָבוֹי שֶׁיֵּשׁ בּוֹ עֶשֶׂר חֲנֻיּוֹת...",
+      "it": "Un mavuy con dieci negozi e una sola abitazione: se i negozianti dormono nei loro negozi, sono considerati residenti. Se sono solo botteghe senza residenza, non contribuiscono alla condizione per richiedere lo shituf. Il fattore determinante è la 'dimora' (dirah) — solo chi abita nel mavuy conta ai fini dell'eruv."
+    },
+    {
+      "n": 12,
+      "he": "מָבוֹי שֶׁיֵּשׁ בּוֹ בָּתֵּי כְּנֶסֶת...",
+      "it": "Un mavuy che ha una sinagoga: la sinagoga non è una 'dimora' e quindi il suo personale non conta come residente del mavuy. Se non vi sono altri residenti, il mavuy non richiede lo shituf. Se vi è anche un custode (shamash) che dorme lì, questo può cambiare la situazione."
+    },
+    {
+      "n": 13,
+      "he": "הַמּוֹצִיא כֵּלִים לְמָבוֹי...",
+      "it": "Chi porta oggetti nel mavuy senza uno shituf valido: ha violato la proibizione rabbinica del trasporto. I Saggi hanno equiparato il mavuy (senza shituf) a un karmelit — né reshut harabbim pubblica né reshut hayachid privata — e il trasporto da e verso un karmelit è vietato rabbinicamente, anche se non biblicamente."
+    },
+    {
+      "n": 14,
+      "he": "הָיָה הַמָּבוֹי גָּבֹהַּ...",
+      "it": "Un mavuy molto alto (oltre venti amot): il Rambam ribadisce che la korah posta a tale altezza è invalida. La soluzione è costruire un soffitto o una struttura che abbassi virtualmente l'altezza dell'ingresso. Questo principio si chiama 'tiyul betkivra' — riempire il vuoto con materiale immaginario — ma il Rambam preferisce soluzioni fisiche reali."
+    },
+    {
+      "n": 15,
+      "he": "מָבוֹי שֶׁהוּא צַר מִד' טְפָחִים...",
+      "it": "Un mavuy più stretto di quattro tefachim: non è considerato un mavuy valido. È troppo stretto per essere uno spazio pratico e non richiede né lechi né korah. Al contrario, un mavuy largo almeno quattro tefachim (circa 32 cm) e alto almeno dieci tefachim è uno spazio halachicamente significativo."
+    },
+    {
+      "n": 16,
+      "he": "מָבוֹי שֶׁרֹאשׁוֹ הַחִיצוֹן...",
+      "it": "Un mavuy la cui estremità esterna dà su un'altra reshut (dominio): a seconda del tipo di reshut verso cui si apre, cambiano le regole. Se si apre su reshut harabbim, il marcatore deve essere robusto. Se si apre su karmelit, è sufficiente anche un marcatore più leggero. Se si apre su reshut hayachid, non è necessario alcun marcatore."
+    },
+    {
+      "n": 17,
+      "he": "מָבוֹי מְפֻלָּשׁ שֶׁעָשׂוּ לוֹ לֶחִי...",
+      "it": "Un mavuy mefulash (passante) a cui è stato aggiunto un lechi su un solo lato: è insufficiente. Deve avere marcatori su entrambi i lati. In pratica, per trasformare un mavuy mefulash in un mavuy con un solo lato aperto, si può erigere una parete completa su uno dei lati. Questo riduce il mavuy a un tipo più semplice."
+    },
+    {
+      "n": 18,
+      "he": "אֵין עוֹשִׂין לֶחִי וְקוֹרָה בְּחֹל...",
+      "it": "Non si costruisce il lechi o la korah durante il Sabato: devono essere collocati prima dell'inizio del Sabato. Se il lechi cade durante il Sabato, il mavuy diventa invalido immediatamente. Se il lechi viene rimontato durante il Sabato, vi è una questione se questo 'sana' retroattivamente il divieto di trasporto nel tempo in cui era mancante."
+    },
+    {
+      "n": 19,
+      "he": "כָּל לֶחִי שֶׁהוּא עֲשׂוּי לְהִשְׁתַּמֵּשׁ...",
+      "it": "Un lechi fatto per uso ordinario (non specificamente come marcatore del mavuy): è valido come lechi se si trova nella posizione giusta e ha le misure corrette. Non è necessario che venga costruito esplicitamente come lechi. Anche un palo telegrafico o una colonna già esistente possono fungere da lechi, purché soddisfino i requisiti dimensionali."
+    },
+    {
+      "n": 20,
+      "he": "הָאַמָּה לְלֶחִי וּקוֹרָה...",
+      "it": "La misura del cubito per il lechi e la korah: il Rambam specifica le misure standard — altezza minima del lechi dieci tefachim, larghezza minima uno tefach. La korah deve essere larga quanto per reggere un arich (mattone). Queste misure precise vengono spiegate dal Rambam con chiarezza sistematica nel contesto delle leggi dei mavuy."
+    },
+    {
+      "n": 21,
+      "he": "הַמָּבוֹי שֶׁנַּעֲשָׂה בַּיָּם...",
+      "it": "Un mavuy 'costruito' sul mare (ad esempio, pali conficcati nell'acqua per delimitare un'area): è valido come mavuy a tutti gli effetti, purché soddisfi i requisiti dimensionali. L'acqua non priva il luogo della sua qualità di dominio. Le stesse regole si applicano a un mavuy costruito su un ponte."
+    },
+    {
+      "n": 22,
+      "he": "הַמָּבוֹי שֶׁנִּבְנָה עַל גַּבֵּי כְּלוֹנָסוֹת...",
+      "it": "Un mavuy costruito su pali (elevato dal suolo): è valido come mavuy, purché lo spazio sottostante non sia un dominio pubblico che lo annulli. Le pareti devono arrivare fino al suolo o avere una chiusura simbolica sotto di esse. Il Rambam conclude qui la discussione sui mavuy, preparando il terreno per le halachot conclusive degli eruvin nel prossimo capitolo."
+    }
+  ],
+  "_glossary_terms_used": ["mavuy", "mavuy mefulash", "lechi", "korah", "eruv chatzerot", "shituf mevo'ot", "reshut harabbim", "reshut hayachid", "karmelit", "lavud", "gud asik", "tefachim", "amah", "dirah", "shamash"]
+}

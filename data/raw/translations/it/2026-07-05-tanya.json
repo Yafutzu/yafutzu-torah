@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 2",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ב",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 2",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-05",
+  "hebrew_date": "20 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ב: עַל הָעִנְיָן שֶׁל \"אוֹר אֵין סוֹף\" (הָאוֹר הָאֱלֹקִי הָאֵינְסוֹפִי) וְהַיַּחַס שֶׁלּוֹ לָעוֹלָם הַגָּבוּל. מַדּוּעַ צִמְצֵם הַקָּדוֹשׁ בָּרוּךְ הוּא אֶת אוֹרוֹ הָאֵינְסוֹפִי (צִמְצוּם) כְּדֵי לְאַפְשֵׁר בְּרִיאַת הָעוֹלָמוֹת.",
+      "it": "Saggio 2: Sul concetto di «Or Ein Sof» (Luce Divina Infinita) e il suo rapporto con il mondo finito. Perché il Santo Benedetto Sia ha contratto (tzimtzum) la Sua luce infinita per permettere la creazione dei mondi."
+    },
+    {
+      "n": 2,
+      "he": "הַצִּמְצוּם — אֵינוֹ צִמְצוּם כִּפְשׁוּטוֹ, אֶלָּא הַסְתָּרָה. הָאוֹר הָאֵינְסוֹפִי עֲדַיִן מְמַלֵּא אֶת כָּל הָעוֹלָמוֹת, אֶלָּא שֶׁהוּא מוּסְתָּר. וְזֶה מַה שֶּׁמַּאֲפִשֵׁר לַנְּשָׁמָה הָאֱנוֹשִׁית לְחַיּוֹת בְּתוֹךְ גּוּף גָּשְׁמִי.",
+      "it": "Il tzimtzum — non è una contrazione letterale, ma un occultamento. La Luce Infinita riempie ancora tutti i mondi, solo che è nascosta. E questo è ciò che permette all'anima umana di vivere all'interno di un corpo materiale."
+    },
+    {
+      "n": 3,
+      "he": "הַמַּשְׁמָעוּת לְחַיֵּי הָאָדָם — שֶׁמַּאֲמִין הוּא שֶׁה' נִמְצָא בְּכָל מָקוֹם תָּמִיד, גַּם בְּתוֹךְ הָעוֹלָם הַגָּשְׁמִי הַנִּרְאֶה כְּנֶעְדַּר מֵאַלֹקוּת. זוֹ הִיא מַהוּת הֶאֱמוּנָה הַחַסִּידִית.",
+      "it": "Il significato per la vita umana — che si crede che D-o sia sempre presente ovunque, anche nel mondo materiale che sembra privo di Divinità. Questa è l'essenza della fede chassidica (emunah chasidic)."
+    }
+  ],
+  "_glossary_terms_used": ["Or Ein Sof", "tzimtzum", "Kuntres Acharon", "neshamah", "emunah", "olamot", "avodah"]
+}

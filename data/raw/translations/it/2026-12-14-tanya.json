@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 42",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מב",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 42",
+  "cycle": "tanya-yomi",
+  "date": "2026-12-14",
+  "hebrew_date": "5 Tevet 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יִרְאַת שָׁמַיִם — יִרְאָה תַּתָּאָה וְיִרְאָה עִלָּאָה...",
+      "it": "Il capitolo 42 tratta la yirat Shamayim (timore del Cielo) — la dimensione della «fear of G-d» nel servizio divino. L'Alter Rebbe distingue due livelli: «yirah tata'ah» (timore inferiore — timore della punizione, timore del castigo divino per la violazione della Torah) e «yirah ila'ah» (timore superiore — awe, reverenza, annullamento di sé davanti alla grandezza infinita di D-o). Il timore inferiore è il «bastone»; il timore superiore è il «bittul» (annullamento)."
+    },
+    {
+      "n": 2,
+      "he": "הַיִּרְאָה הַתַּתָּאָה — יְסוֹד הָהַלָּכָה...",
+      "it": "La yirah tata'ah, anche se è un livello più basso di timore, è indispensabile come fondamento (yesod) della halachah pratica. Chi non teme le conseguenze della propria condotta — non manterrà le leggi anche se le comprende intellettualmente. L'Alter Rebbe riabilita la yirah tata'ah: non è vergognosa o spiritualmente bassa — è necessaria e preziosa come «guardia» della vita pratica. Senza di essa, le ispirazioni spirituali più elevate rimangono senza radici nel comportamento concreto."
+    },
+    {
+      "n": 3,
+      "he": "הַיִּרְאָה הָעִלָּאָה — בִּטּוּל עַצְמִי לִפְנֵי הָאֵין סוֹף...",
+      "it": "La yirah ila'ah è il bittul (annullamento) — la sensazione di essere nulla davanti all'infinità di D-o. Questa non è paura nel senso emotivo ordinario — è reverenza cosmica che emerge quando la persona contempla realmente la grandezza divina. L'Alter Rebbe insegna: la yirah ila'ah è la «madre» (em ha-midot) di tutte le qualità positive — da essa derivano umiltà, gentilezza, onestà. Chi ha vera yirah ila'ah non può compiere azioni cattive — non per paura della punizione, ma perché la grandezza divina riempie ogni suo momento di coscienza."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yirat Shamayim", "yirah tata'ah", "yirah ila'ah", "bittul", "yesod", "halachah", "em ha-midot"
+  ]
+}

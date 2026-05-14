@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shekalim 4",
+  "name_he": "משנה תורה, הלכות שקלים, פרק ד",
+  "name_it": "Mishneh Torah, Leggi dei Sicli, capitolo 4",
+  "cycle": "rambam-1",
+  "date": "2026-07-26",
+  "hebrew_date": "12 Av 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מוֹתַר הַשְּׁקָלִים — מִשְׁתַּמֵּשׁ בּוֹ לְאֵלּוּ הַדְּבָרִים: לְחִנּוּךְ הַמִּזְבֵּחַ, וְלְבִיב, וְלַסִּינִין.",
+      "it": "Il surplus dei sicli viene utilizzato per: la costruzione e il mantenimento dell'altare, i pani caldi (laviv), e le finestre (sinim) del Tempio."
+    },
+    {
+      "n": 2,
+      "he": "מוֹתַר שְׁקָלִים — קוֹנִין בּוֹ כֵּלִים לְצֹרֶךְ הַמִּקְדָּשׁ.",
+      "it": "Con il surplus dei sicli si acquistano vasi e utensili per le necessità del Tempio."
+    },
+    {
+      "n": 3,
+      "he": "מוֹתַר הַנְּסָכִים — לִקְנוֹת נְסָכִים.",
+      "it": "Il surplus delle libagioni (nesachim) viene usato per acquistare altre libagioni."
+    },
+    {
+      "n": 4,
+      "he": "מוֹתַר הַקְּטֹרֶת — קוֹנִין בּוֹ קְטֹרֶת לְשָׁנָה הַבָּאָה.",
+      "it": "Il surplus dell'incenso (ketoret) viene usato per acquistare incenso per l'anno successivo."
+    },
+    {
+      "n": 5,
+      "he": "מוֹתַר הַמִּנְחָה — לַכֹּהֲנִים, שֶׁהֵן אוֹכְלִין אוֹתָהּ.",
+      "it": "Il surplus delle offerte di farina (mincha) va ai sacerdoti (kohanim), che la mangiano."
+    },
+    {
+      "n": 6,
+      "he": "מוֹתַר יוֹם הַכִּפּוּרִים — קוֹנִין בּוֹ מִנְחוֹת הַכֹּהֵן הַגָּדוֹל.",
+      "it": "Il surplus del Giorno dell'Espiazione viene usato per acquistare le offerte di farina del Kohen Gadol (Sommo Sacerdote)."
+    },
+    {
+      "n": 7,
+      "he": "מוֹתַר עֶזְרָה — לְחוֹמוֹת הָעִיר וּמִגְדְּלֹתֶיהָ.",
+      "it": "Il surplus del Tempio (azarah) va per le mura della città e le sue torri."
+    },
+    {
+      "n": 8,
+      "he": "מוֹתַר הָעִיר — לִפְרַנְדֵּס הַבַּיִת.",
+      "it": "Il surplus della città va al mantenimento del Tempio stesso."
+    },
+    {
+      "n": 9,
+      "he": "מוֹתַר הָאֲנָשִׁים — לִבְנֵיהֶם. וְאִם אֵין לוֹ בָּנִים — לִשְׁאָר קְרוֹבָיו.",
+      "it": "Il surplus donato da individui specifici va ai loro figli. Se non ha figli — va agli altri suoi parenti."
+    },
+    {
+      "n": 10,
+      "he": "סִיּוּם. סְלִיקוּ הִלְכוֹת שְׁקָלִים.",
+      "it": "Conclusione. Si concludono le Leggi dei Sicli."
+    }
+  ],
+  "_glossary_terms_used": ["nesachim", "ketoret", "mincha", "kohanim", "Kohen Gadol", "azarah"]
+}

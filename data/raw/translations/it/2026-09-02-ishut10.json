@@ -1,0 +1,32 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 10",
+  "name_he": "משנה תורה, הלכות אישות, פרק י",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 10",
+  "cycle": "rambam-1",
+  "date": "2026-09-02",
+  "hebrew_date": "20 Elul 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {"n": 1, "he": "תַּקְּנוּ חֲכָמִים שֶׁיִּהְיֶה הַבַּעַל זַכַּאי בְּמַעֲשֵׂה יְדֵי אִשְׁתּוֹ, תַּחַת מְזוֹנוֹתֶיהָ.", "it": "I Saggi hanno stabilito che il marito abbia diritto al lavoro delle mani di sua moglie, in cambio del suo sostentamento (mezonot)."},
+    {"n": 2, "he": "כֵּיצַד? הָאִשָּׁה חַיֶּבֶת לַעֲשׂוֹת לְבַעְלָהּ מְלָאכוֹת מְסֻיָּמוֹת: טוֹחֶנֶת, אוֹפָה, מְכַבֶּסֶת, מְבַשֶּׁלֶת, מֵינִיקָה אֶת בְּנָהּ, מַצַּעַת הַמִּטָּה, עוֹשָׂה בְּצֶמֶר.", "it": "Come funziona? La moglie è obbligata a svolgere per il marito lavori determinati: macinare, cuocere, lavare, cucinare, allattare il figlio, fare il letto, lavorare la lana."},
+    {"n": 3, "he": "וְכֵן תַּקְּנוּ שֶׁיִּהְיֶה הַבַּעַל זַכַּאי בְּמַה שֶּׁתִּמְצָא אִשְׁתּוֹ, בֵּין שֶׁמָּצָאָה הֶפְקֵר, בֵּין שֶׁנָּפַל לָהּ יְרֻשָּׁה.", "it": "Hanno altresì stabilito che il marito abbia diritto a ciò che trova sua moglie, sia che abbia trovato oggetti senza padrone, sia che le sia caduta una eredità."},
+    {"n": 4, "he": "אֵין הָאִשָּׁה חַיֶּבֶת לַעֲשׂוֹת לְבַעְלָהּ יוֹתֵר מִן הַמְּלָאכוֹת הַמְפוֹרָשׁוֹת. אֲבָל אִם אָמְרָה 'אֵינִי עוֹשָׂה וְאֵינִי נִזּוֹנֵת' — שׁוֹמְעִין לָהּ.", "it": "La moglie non è obbligata a fare per il marito più dei lavori specificati. Ma se ha detto 'non lavoro e non voglio essere mantenuta' — si ascolta la sua richiesta."},
+    {"n": 5, "he": "אָמְרָה 'אֵינִי נִזּוֹנֵת וְאֵינִי עוֹשָׂה' — שׁוֹמְעִין לָהּ, וְתַעֲשֶׂה לְעַצְמָהּ.", "it": "Se ha detto 'non voglio essere mantenuta e non lavoro per te' — si ascolta la sua richiesta, e lavorerà per se stessa."},
+    {"n": 6, "he": "כֵּיצַד? עוֹשָׂה לְעַצְמָהּ בִּלְבַד כְּדֵי חַיֶּיהָ, וְהַמּוֹתָר — שַׁיָּךְ לַבַּעַל.", "it": "Come? Lavora per se stessa soltanto quanto basta per il suo sostentamento, e il surplus — appartiene al marito."},
+    {"n": 7, "he": "הַמּוֹתָר מִמַּעֲשֵׂה יָדֶיהָ לְמַה שֶּׁהִיא חַיֶּבֶת — שַׁיָּךְ לַבַּעַל.", "it": "Il surplus del lavoro delle sue mani rispetto a quanto è obbligata — appartiene al marito."},
+    {"n": 8, "he": "הָאִשָּׁה שֶׁהַכְנִיסָה שִׁפְחָה לְבֵיתָהּ — פְּטוּרָה מִמְּלָאכוֹת מְסֻיָּמוֹת, כְּגוֹן טְחִינָה וַאֲפִיָּה.", "it": "La moglie che ha portato una schiava in casa — è esente da certi lavori specifici, come macinare e cuocere."},
+    {"n": 9, "he": "הִכְנִיסָה שְׁתֵּי שְׁפָחוֹת — פְּטוּרָה גַּם מִן הַבִּישּׁוּל וּמְכַבֶּסֶת.", "it": "Se ha portato due schiave — è esente anche dal cucinare e dal lavare."},
+    {"n": 10, "he": "הִכְנִיסָה שָׁלֹשׁ — אֵינָהּ עוֹשָׂה כְּלוּם אֶלָּא יוֹשֶׁבֶת לָהּ כְּגְבִירָה.", "it": "Se ha portato tre schiave — non fa nulla tranne stare seduta come una signora."},
+    {"n": 11, "he": "אֲפִלּוּ הֵם עֲשִׁירִים — חַיֶּבֶת הָאִשָּׁה לְהֵינִיק אֶת בְּנָהּ. אֲבָל אֵינָהּ חַיֶּבֶת לְהֵינִיק בֶּן אַחֵר.", "it": "Anche se sono ricchi — la moglie è obbligata ad allattare il proprio figlio. Ma non è obbligata ad allattare il figlio di un'altra."},
+    {"n": 12, "he": "אִם לֹא רָצְתָה לְהֵינִיק — כּוֹפִין אוֹתָהּ בִּשְׁבִיל תַּקָּנַת הַוָּלָד.", "it": "Se non ha voluto allattare — la si costringe per il benessere del bambino."},
+    {"n": 13, "he": "שָׁכְרָה מֵינִיקָה אַחֶרֶת בְּרָצוֹן הַבַּעַל — הַבַּעַל מְשַׁלֵּם.", "it": "Se ha assunto un'altra nutrice con il consenso del marito — il marito paga."},
+    {"n": 14, "he": "אָמַר הַבַּעַל 'אֵין אֲנִי רוֹצֶה שֶׁתֵּינִיקִי' — שׁוֹמְעִין לוֹ, כְּדֵי שֶׁלֹּא תִּתְקַלְקֵל תְּמוּנָתָהּ.", "it": "Se il marito ha detto 'non voglio che tu allatti' — si ascolta la sua richiesta, affinché la sua bellezza non si deteriori."},
+    {"n": 15, "he": "גֵּרְשָׁהּ — חַיֶּבֶת לְהֵינִיק אֶת בְּנוֹ אִם אֵין לַוָּלָד מֵינִיקָה אַחֶרֶת, וְהַבַּעַל מְשַׁלֵּם שָׂכָר.", "it": "Se la ha divorziata — è obbligata ad allattare il figlio se il bambino non ha altra nutrice, e il marito paga il compenso."},
+    {"n": 16, "he": "מַעֲשֵׂה יְדֵי הָאִשָּׁה — אֵינָם כּוֹלְלִים מַה שֶּׁמּוֹצֵאת בְּשׁוּק, אֶלָּא רַק מַה שֶּׁעוֹשָׂה בְּיָדֶיהָ בְּתוֹךְ הַבַּיִת.", "it": "Il lavoro delle mani della moglie — non include ciò che trova al mercato, ma solo ciò che fa con le sue mani all'interno della casa."},
+    {"n": 17, "he": "צָבְעָה צֶמֶר אוֹ תָּפְרָה — הַמּוֹתָר שַׁיָּךְ לַבַּעַל.", "it": "Se ha tinto lana o cucito — il surplus appartiene al marito."},
+    {"n": 18, "he": "עָשְׂתָה יוֹתֵר מִן הַשִּׁיעוּר הַקָּצוּב — הַכֹּל לַבַּעַל.", "it": "Se ha fatto più della quota fissata — tutto appartiene al marito."},
+    {"n": 19, "he": "חָלְתָה הָאִשָּׁה — אֵינָהּ חַיֶּבֶת בִּמְלָאכוֹת בִּזְמַן חָלְיָהּ, וְהַבַּעַל חַיָּב בִּמְזוֹנוֹתֶיהָ.", "it": "Se la moglie si è ammalata — non è obbligata ai lavori durante la malattia, e il marito è obbligato al suo sostentamento."},
+    {"n": 20, "he": "מֵתָה הָאִשָּׁה תּוֹךְ כְּדֵי עֲשִׂיַּת מְלָאכָה — מַה שֶּׁעָשְׂתָה שַׁיָּךְ לְיוֹרְשֵׁי הַבַּעַל.", "it": "Se la moglie è morta mentre stava lavorando — ciò che ha fatto appartiene agli eredi del marito."}
+  ],
+  "_glossary_terms_used": ["mezonot", "ma'aseh yadayim", "ketubah"]
+}

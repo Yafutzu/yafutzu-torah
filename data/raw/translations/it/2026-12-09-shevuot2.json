@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 2",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ב",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-09",
+  "hebrew_date": "30 Kislev 5787 — Chanukah giorno 6",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבוּעַת שָׁוְא — חַמִּשָּׁה דְּבָרִים...",
+      "it": "Shevuat shav (giuramento vano) si manifesta in cinque forme: (1) giurare su qualcosa di impossibile in natura («il cielo è la terra»); (2) giurare di non eseguire un precetto positivo della Torah («giuro di non mettere le tefillin»); (3) giurare di eseguire ciò che è già obbligatorio («giuro di mettere le tefillin»); (4) giurare su qualcosa di già avvenuto in modo evidente; (5) giurare usando un termine futile. Tutte queste forme profanano il Nome divino senza alcun scopo legittimo."
+    },
+    {
+      "n": 2,
+      "he": "הַנִּשְׁבָּע לְבַטֵּל אֶת הַמִּצְוָה — לוֹקֶה...",
+      "it": "Chi giura di violare una mitzvah (precetto) — se tale giuramento viene pronunciato deliberatamente, riceve makkot mardut (fustigazione disciplinare rabbinica). Non riceve fustigazione biblica (malkot) perché tecnicamente non ha violato un divieto biblico per azione — ha solo pronunciato parole futili. Tuttavia, la gravità morale è immensa: si è usato il Nome di D-o per dichiarare la propria intenzione di violare la Sua volontà."
+    },
+    {
+      "n": 3,
+      "he": "הֶחֱלִיף בֵּין שְׁבוּעַת שָׁוְא לִשְׁבוּעַת שֶׁקֶר...",
+      "it": "La distinzione tra shevuat shav e shevuat sheker (giuramento falso): la shevuat shav non richiede che il contenuto sia falso — è vana per natura (impossibile, inutile). La shevuat sheker riguarda fatti passati o presenti affermati falsamente con piena consapevolezza. La shevuat sheker è più grave: (a) richiede korban (sacrificio) per l'espiazione, (b) può causare danno reale ad altri (es. negare un debito), (c) costituisce una forma di gezel (furto) tramite parole."
+    },
+    {
+      "n": 4,
+      "he": "הַשּׁוֹגֵג בִּשְׁבוּעַת שָׁוְא — פָּטוּר...",
+      "it": "Chi pronuncia una shevuat shav per errore (be-shogeg — involontariamente) — è esente da pena. La pena si applica solo al metzid (deliberato). Questa distinzione segue il principio generale: le punizioni della Torah si applicano solo ad azioni deliberate con piena consapevolezza. Tuttavia, anche per il shogeg è consigliato un atto di teshuvah (pentimento) poiché ha comunque pronunciato invano il Nome divino."
+    },
+    {
+      "n": 5,
+      "he": "שֵׁשׁ נֵרוֹת מְאִירוֹת בְּלֵיל שִׁשִּׁי שֶׁל חֲנֻכָּה...",
+      "it": "Nota di Chanukah — sesta candela: sei candele illuminano questa sera. Il sesto giorno di Chanukah corrisponde al numero sei delle parole del versetto fondamentale «Shema Yisrael Hashem Elokeinu Hashem Echad» — sei parole che proclamano l'unità divina. I giuramenti, che invocano il Nome divino, devono riflettere questa unità: devono essere veri, necessari e rispettosi della santità del Nome. La tradizione riporta che i Greci decretarono contro il Shema — il divieto di proclamare l'unità di D-o. Chanukah restaurò questa proclamazione."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevuat shav", "shevuat sheker", "makkot mardut", "malkot", "mitzvah", "korban", "gezel", "be-shogeg", "metzid", "teshuvah", "Shema Yisrael"
+  ]
+}

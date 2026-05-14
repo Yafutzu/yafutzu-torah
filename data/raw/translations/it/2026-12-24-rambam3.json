@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Evel 14; Melachim 1-2",
+  "name_he": "משנה תורה, הלכות אבל פרק יד; הלכות מלכים ומלחמות פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi del Lutto cap. 14; Leggi dei Re e delle Guerre capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-12-24",
+  "hebrew_date": "15 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Evel 14:1-5",
+      "he": "כָּל הַמִּתְאַבֵּל עַל אָדָם כָּשֵׁר — מְחִילַת עֲווֹנוֹת…",
+      "it": "(Evel cap. 14, hal. 1-5) Il principio conclusivo delle Leggi del Lutto: «Kol ha-mitabel al adam kasher, mechilat avonot hi lo» — chi partecipa al lutto per una persona onesta, questo gli vale come espiazione dei peccati. Il Rambam conclude con questa nota di consolazione profonda: il lutto non è solo tristezza — è un'esperienza che purifica. Stare di fronte alla morte ci risveglia alla vita, ci ricorda la mortalità, e in questo risveglio nasce la teshuvah (pentimento). «Si concludono le Leggi del Lutto con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "Melachim 1:1-4",
+      "he": "מִצְוַת עֲשֵׂה לְמַנּוֹת מֶלֶךְ עַל יִשְׂרָאֵל…",
+      "it": "(Melachim cap. 1, hal. 1-4) La mitzvah di nominare un re su Israele: quando Israele è insediato nella propria terra, è obbligatorio nominare un re. Le qualifiche del re: deve essere ebreo di nascita («mi-kerev achecha» — «da mezzo ai tuoi fratelli», Deuteronomio 17:15), nominato dal Sinedrio Gadol e da un profeta. Il re deve essere uomo, e di stirpe nobile. La Torah ha previsto la monarchia sapendo che il popolo avrebbe richiesto un re — ha quindi regolamentato l'istituzione invece di proibirla."
+    },
+    {
+      "n": "Melachim 2:1-5",
+      "he": "הַמֶּלֶךְ — כָּבוֹד גָּדוֹל חַיָּבִים לִתֵּן לוֹ…",
+      "it": "(Melachim cap. 2, hal. 1-5) Il rispetto dovuto al re: ci si alza davanti al re, non ci si siede in sua presenza, non ci si oppone alle sue decisioni, non si entra nella sua camera senza permesso. Il re siede in giudizio su tutti ma non viene giudicato da nessuno (ein dan oto). Allo stesso tempo, il re deve scrivere due rotoli della Torah — uno che porta con sé in battaglia, uno che rimane nel palazzo. Questo rotolo deve ricordargli ogni giorno che anche lui è soggetto alla legge di D-o — che il vero sovrano di Israele è D-o stesso."
+    }
+  ],
+  "_glossary_terms_used": [
+    "avelut", "teshuvah", "Sinedrio Gadol", "Melachim", "mi-kerev achecha"
+  ]
+}

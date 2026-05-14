@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Pesulei HaMukdashim 8-10",
+  "name_he": "משנה תורה, הלכות פסולי המוקדשין, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi delle Offerte Invalide, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-07-23",
+  "hebrew_date": "9 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "קָרְבָּן כָּשֵׁר שֶׁנִּתְעָרֵב בְּפָסוּל — אִם הַפָּסוּל נוֹדַע — יִשָּׂרֵף. אִם לֹא נוֹדַע — הַכֹּל יֵרְעֶה.",
+      "it": "Un sacrificio valido che si è mescolato con uno invalido — se quello invalido è identificabile — viene bruciato. Se non è identificabile — tutti pascolano fino a procurarsi un difetto. [Nota: Oggi è Tisha B'Av (9 Av). Nel giorno in cui piangiamo la distruzione del Tempio, studiare le leggi del servizio del Tempio è di per sé una forma di lutto e di nostalgia — uno studio che custodisce vivo il ricordo e accelera la ricostruzione.]"
+    },
+    {
+      "n": "8:2",
+      "he": "אֶחָד בְּמֵאָה — בָּטֵל בְּרוֹב, חוּץ מִדְּבָרִים שֶׁיֵּשׁ לָהֶם חֲשִׁיבוּת.",
+      "it": "Uno su cento — viene annullato nella maggioranza, eccetto per cose che hanno una propria importanza individuale (chashot)."
+    },
+    {
+      "n": "8:3",
+      "he": "שְׁנֵי צִבּוּרִין שֶׁנִּתְעָרְבוּ — שְׁנֵיהֶם יִרְעוּ.",
+      "it": "Due gruppi [di sacrifici] che si sono mescolati — entrambi pascolano."
+    },
+    {
+      "n": "9:1",
+      "he": "פֶּסַח שֶׁנִּפְסַל — אֵין בּוֹ כָּרֵת לָאוֹכֵל, שֶׁאֵינוֹ בְּמֵזִיד עַל הַפִּגּוּל.",
+      "it": "Un korban Pesach che è diventato invalido — chi lo mangia non è soggetto al karet, poiché non si applica il karet del pigul al Pesach nelle stesse condizioni."
+    },
+    {
+      "n": "9:2",
+      "he": "פֶּסַח שֶׁנִּשְׁחַט שֶׁלֹּא לִשְׁמוֹ — פָּסוּל. הַשּׁוֹחֵט שֶׁלֹּא לְאוֹכְלָיו — פָּסוּל.",
+      "it": "Un korban Pesach macellato non per il suo scopo (shelo lishmah) — invalido. Macellato non per coloro designati a mangiarlo — invalido."
+    },
+    {
+      "n": "9:3",
+      "he": "הַפֶּסַח — שְׁחִיטָתוֹ לְשֵׁם הַבְּעָלִים וְלִשְׁם הַמִּצְוָה.",
+      "it": "Il korban Pesach — la sua macellazione deve essere eseguita per conto dei proprietari e per lo scopo della mitzvah."
+    },
+    {
+      "n": "10:1",
+      "he": "אוֹתוֹ וְאֶת בְּנוֹ — אָסוּר לִשְׁחֹט בְּיוֹם אֶחָד, שֶׁנֶּאֱמַר: 'אֹתוֹ וְאֶת בְּנוֹ לֹא תִשְׁחֲטוּ בְּיוֹם אֶחָד'.",
+      "it": "Un animale e il suo figlio — è vietato macellare entrambi nello stesso giorno, come è detto: 'Un animale e il suo figlio non macellate nello stesso giorno' (Levitico 22:28)."
+    },
+    {
+      "n": "10:2",
+      "he": "אִסּוּר זֶה — גַּם בַּחֻלִּין וְגַם בַּמּוּקְדָּשִׁין.",
+      "it": "Questo divieto si applica sia agli animali non-sacri (chullin) che a quelli sacri (mukdashim)."
+    },
+    {
+      "n": "10:3",
+      "he": "הַשּׁוֹחֵט אֶחָד בַּבֹּקֶר וְאֶחָד בָּעֶרֶב — אֵינוֹ עוֹבֵר, שֶׁ'יוֹם אֶחָד' — כָּל הַיּוֹם.",
+      "it": "Chi macella uno al mattino e uno alla sera dello stesso giorno — transgredisce comunque, poiché 'nello stesso giorno' significa l'intero giorno dalla mattina alla sera."
+    }
+  ],
+  "_glossary_terms_used": ["pigul", "karet", "korban Pesach", "shelo lishmah", "chullin", "mukdashim", "Tisha B'Av"]
+}

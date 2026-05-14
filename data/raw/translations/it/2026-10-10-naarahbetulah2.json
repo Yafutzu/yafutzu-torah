@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Na'arah Betulah 2",
+  "name_he": "משנה תורה, הלכות נערה בתולה, פרק ב",
+  "name_it": "Mishneh Torah, Leggi della Ragazza Vergine, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-10",
+  "hebrew_date": "29 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כַּמָּה הוּא הַקְּנָס — חֲמִשִּׁים כֶּסֶף…",
+      "it": "Qual è l'ammontare del kenas (multa)? Cinquanta shekel d'argento — come specificato dalla Torah (Deut. 22:29). Questi cinquanta shekel sono shekel del santuario (shekel ha-kodesh), che valevano il doppio degli shekel ordinari. La multa è fissa e invariabile — non importa la ricchezza o povertà del violentatore, né il valore sociale della vittima. È una pena fissa (kenas) a differenza del risarcimento (neizkah) che varia secondo le circostanze."
+    },
+    {
+      "n": 2,
+      "he": "הַקְּנָס — נִתָּן לָאָב…",
+      "it": "Il kenas appartiene al padre della ragazza — come la Torah dice «e darà al padre della ragazza» (Deut. 22:29). Anche i pagamenti per boshet (vergogna) e pegam (danno alla reputazione) appartengono al padre, poiché durante la na'arut la figlia è sotto la sua tutela legale. Il calcolo della boshet: dipende dallo status sociale del violentatore e della vittima — quanto si vergognerebbe una persona del loro rango per tale umiliazione. Il calcolo del pegam: la differenza tra il valore matrimoniale (shivui) di una vergine e di una non-vergine."
+    },
+    {
+      "n": 3,
+      "he": "הַקְּנָס נִגְבֶּה עַל יְדֵי בֵּית דִּין שֶׁל עֶשְׂרִים וּשְׁלֹשָׁה…",
+      "it": "Il kenas viene riscosso tramite un beit din di ventitré giudici (il «Grande Sanhedrin» locale) — poiché implica una pena corporale o monetaria di gravità significativa. Non può essere riscosso da un beit din minore di tre. Se il violentatore ammette spontaneamente la propria colpa davanti al beit din — è esente dal kenas (principio: moded be-kenas patur), poiché la pena fissa si applica solo quando dimostrata da testimoni esterni."
+    },
+    {
+      "n": 4,
+      "he": "הַמּוֹדֶה בַּקְּנָס — פָּטוּר…",
+      "it": "Chi ammette volontariamente di essere responsabile del kenas — è esente dal pagarlo. Questo è un principio generale delle pene fisse (knasot) nella Torah: la confessione spontanea esonera dall'obbligo di pagamento monetario, anche se non esonera dalla responsabilità morale. Il Rambam spiega che questa regola serve come incentivo alla confessione, e che la persona che confessa sarà comunque giudicata davanti al Tribunale Celeste."
+    },
+    {
+      "n": 5,
+      "he": "הָאָב שֶׁמָּחַל לְמִפַּתֶּה — מָחוּל…",
+      "it": "Il padre che perdona il seduttore (mochel) — il perdono è valido per la parte del kenas che spetta al padre. Il padre può anche perdonare parzialmente. Tuttavia la boshet e il pegam appartengono in parte anche alla figlia stessa — e il padre non può perdonare la quota della figlia senza il suo consenso. Se la ragazza stessa perdona — la rinuncia è valida (poiché ha il diritto sulla propria vergogna)."
+    },
+    {
+      "n": 6,
+      "he": "כֵּיצַד מְשַׁעֲרִין הַקְּנָס — בְּבֵית דִּין…",
+      "it": "Come si valuta il pagamento complessivo? Il beit din valuta: (1) il kenas fisso di cinquanta shekel per la violenza o kenas equivalente per la seduzione; (2) la boshet secondo lo status sociale delle parti; (3) il pegam secondo la differenza nel valore matrimoniale. Se la violenza è avvenuta in modo che non ha causato vergogna pubblica — la boshet è ridotta. Se la ragazza era già nota come di costumi liberi — il pegam è ridotto. Il beit din ha discrezione nel valutare le circostanze attenuanti o aggravanti."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kenas", "shekel ha-kodesh", "boshet", "pegam", "na'arut", "beit din", "moded be-kenas patur", "knasot", "mochel", "shivui"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 10",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק י",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 10",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-12",
+  "hebrew_date": "3 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַבֵּינוֹנִי בְּשָׁעַת הַתְּפִלָּה — אַהֲבָה בּוֹעֶרֶת…",
+      "it": "Il beinoni durante la preghiera (tefillah): quando la nefesh ha-Elohit è in piena attività — durante la preghiera sincera, lo studio della Torah con profondità, o l'esecuzione di una mitzvah con kawwanah (intenzione) — il beinoni sente un'ahavah (amore di D-o) genuina e ardente nel suo cuore. La nefesh ha-behamit è temporaneamente sopita. Questo è il momento in cui il beinoni si avvicina all'esperienza del tzaddik — non perché il suo livello sia cambiato, ma perché le condizioni sono favorevoli alla manifestazione della nefesh ha-Elohit."
+    },
+    {
+      "n": 2,
+      "he": "אַחַר הַתְּפִלָּה — חוֹזֶרֶת הַנֶּפֶשׁ הַבְּהֵמִית…",
+      "it": "Dopo la preghiera — la nefesh ha-behamit ritorna con i suoi desideri mondani. Questa esperienza — che molti considerano un fallimento spirituale («ero così elevato durante la preghiera, perché ora sono così ordinario?») — è in realtà la normale condizione del beinoni. Il beinoni non è fallito. L'Alter Rebbe spiega: il cuore della nefesh ha-behamit è nella camera sinistra del cuore, e dopo la preghiera riassume il suo peso naturale. Questo non è regressione — è la natura umana. La domanda non è «perché torno a essere normale» ma «riesco a controllare il mio comportamento anche quando non sono in un momento elevato?»"
+    },
+    {
+      "n": 3,
+      "he": "זוֹ הִיא עֲבוֹדַת הַבֵּינוֹנִי לְעוֹלָם…",
+      "it": "La «avodah» (servizio) del beinoni è per sempre: non esiste uno stato permanente di elevazione spirituale nel beinoni. Il suo servizio è ciclico — il ratzo va-shov (corri e ritorna) è la struttura del suo cammino spirituale. Ogni preghiera è una nuova conquista; ogni momento ordinario tra una preghiera e l'altra è una nuova opportunità di controllo. Il Tanya non promette quiete — promette struttura: sapere chi sei (beinoni), sapere cosa puoi fare (controllare le vesti dell'anima), e farlo ogni giorno. Questa chiarezza è essa stessa una forma di pace."
+    }
+  ],
+  "_glossary_terms_used": [
+    "beinoni", "tefillah", "nefesh ha-Elohit", "nefesh ha-behamit", "ahavah", "kawwanah", "tzaddik", "avodah", "ratzo va-shov", "Alter Rebbe"
+  ]
+}

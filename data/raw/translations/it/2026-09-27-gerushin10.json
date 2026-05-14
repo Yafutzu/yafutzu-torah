@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 10",
+  "name_he": "משנה תורה, הלכות גירושין, פרק י",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 10",
+  "cycle": "rambam-1",
+  "date": "2026-09-27",
+  "hebrew_date": "16 Tishrei 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הָאִשָּׁה שֶׁהָלַךְ בַּעְלָהּ לְמָדִינַת הַיָּם וְלֹא שָׁמְעָה מִמֶּנּוּ — יֵשׁ לְהַמְתִּין. אֵינָהּ יְכוֹלָה לְהִנָּשֵׂא עַד שֶׁיָּבוֹא הַגֵּט אוֹ עֵדוּת שֶׁמֵּת.",
+      "it": "Una donna il cui marito è partito per un paese lontano e non ha sue notizie — deve aspettare. Non può risposarsi finché non arriva il get o la testimonianza della sua morte."
+    },
+    {
+      "n": 2,
+      "he": "אִגֶּרֶת עֲגוּנָה — כְּגוֹן שֶׁשָּׁלַח לָהּ 'הֲרֵי אַתְּ מְגֹרֶשֶׁת מִמֶּנִּי' בְּאִגֶּרֶת — אֵינָהּ גֵּרוּשִׁין. צָרִיךְ גֵּט כָּשֵׁר.",
+      "it": "La lettera dell'agunah — ad esempio se le ha inviato 'Ecco che sei divorziata da me' in una lettera — non è divorzio. Occorre un get valido."
+    },
+    {
+      "n": 3,
+      "he": "הֵעִיד עֵד אֶחָד שֶׁמֵּת הַבַּעַל — בְּגִיטִּין הֵקֵלּוּ חֲכָמִים לְהַאֲמִין לְעֵד אֶחָד, לְמַעַן שֶׁלֹּא תֵּשֵׁב הָאִשָּׁה עֲגוּנָה.",
+      "it": "Un solo testimone ha attestato la morte del marito — nei get i Saggi hanno alleviato la regola e accettano la testimonianza di un solo testimone, affinché la donna non rimanga un'agunah."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד? אִשָּׁה שֶׁנִּשְׁמַע שֶׁמֵּת בַּעְלָהּ בְּעֵדוּת עֵד אֶחָד — מֻתֶּרֶת לְהִנָּשֵׂא. שֶׁכָּך הֵקֵלּוּ חֲכָמִים מִשּׁוּם עֵגּוּן.",
+      "it": "Come? Una donna di cui si è appresa la morte del marito tramite la testimonianza di un solo testimone — è permessa a risposarsi. I Saggi hanno così alleviato la regola a causa dell'agunah."
+    },
+    {
+      "n": 5,
+      "he": "הֵקֵל עֵד אֶחָד — לֹא הֵקֵלּוּ בְּאִשָּׁה הַמְּעִידָה עַל עַצְמָהּ. אִשָּׁה אוֹמֶרֶת 'מֵת בַּעְלִי' — אֵינָהּ נֶאֱמֶנֶת.",
+      "it": "L'alleviazione del singolo testimone — non si è alleggerito per una donna che testimonia su se stessa. Una donna che dice 'Mio marito è morto' — non è credibile."
+    },
+    {
+      "n": 6,
+      "he": "בַּעְלָהּ אוֹמֵר 'מֵתָה אִשְׁתִּי' — נֶאֱמָן לְהִתָּחֵז לְאַחֶרֶת. שֶׁאֵין חֵזְקַת אִישׁ שֶׁקֹּרֵא לָאִשָּׁה מֵתָה בְּחַיֶּיהָ.",
+      "it": "Il marito dice 'Mia moglie è morta' — è credibile per risposarsi con un'altra. Perché non si presume che un uomo chiami morta sua moglie mentre è ancora in vita."
+    },
+    {
+      "n": 7,
+      "he": "עֵד שֶׁהֵעִיד שֶׁמֵּת בְּמָקוֹם מָרָחוֹק — נֶאֱמָן. עֵד שֶׁהֵעִיד שֶׁמֵּת בִּמְדִינַת הַיָּם — נֶאֱמָן.",
+      "it": "Un testimone che ha attestato la morte in un luogo lontano — è credibile. Un testimone che ha attestato la morte in un paese d'oltremare — è credibile."
+    },
+    {
+      "n": 8,
+      "he": "עֵד שֶׁהֵעִיד שֶׁרָאָה אֶת מִיתָתוֹ — עֵדוּת שְׁלֵמָה. עֵד שֶׁשָּׁמַע מִפִּי אֲחֵרִים — יֵשׁ לְדוֹן אִם נֶאֱמָן.",
+      "it": "Un testimone che ha attestato di aver visto la morte — testimonianza completa. Un testimone che ha sentito da altri — si valuta se è credibile."
+    },
+    {
+      "n": 9,
+      "he": "הֵקֵלּוּ בְּעֵדוּת הָאִשָּׁה לְהִנָּשֵׂא — בִּשְׁנֵי דְּבָרִים: עֵד אֶחָד, וְעֵד מִפִּי עֵד.",
+      "it": "Si è alleviato nella testimonianza sulla morte per consentire alla donna di risposarsi — in due cose: un solo testimone, e un testimone de relato (sentito da altri)."
+    },
+    {
+      "n": 10,
+      "he": "עֵד גּוֹי שֶׁהֵעִיד שֶׁמֵּת — לְדַעַת הָרַמְבַּ\"ם — אֵינוֹ נֶאֱמָן.",
+      "it": "Un testimone non-ebreo che ha attestato la morte — secondo l'opinione del Rambam — non è credibile."
+    },
+    {
+      "n": 11,
+      "he": "אִשָּׁה שֶׁנִּשֵּׂאת עַל פִּי עֵד אֶחָד וְנִמְצָא שֶׁהָיָה קָרוֹב — צְרִיכָה לְצֵאת מִשְּׁנֵיהֶם.",
+      "it": "Una donna risposatasi sulla base di un singolo testimone che si scopre poi essere un parente — deve lasciare entrambi i mariti."
+    },
+    {
+      "n": 12,
+      "he": "הָלַךְ בַּעְלָהּ לְמָדִינַת הַיָּם וְבָא אִישׁ וְאָמַר 'מֵת' — אִם נִשֵּׂאת וּבָא הַבַּעַל — יֵשׁ מַחְלֹקֶת אִם תֵּצֵא.",
+      "it": "Il marito è partito per un paese d'oltremare e un uomo è venuto a dire 'È morto' — se si è risposata e poi è tornato il marito — vi è una disputa se debba andarsene."
+    },
+    {
+      "n": 13,
+      "he": "הָרַמְבַּ\"ם פָּסַק שֶׁתֵּצֵא מִשְּׁנֵיהֶם, וּצְרִיכָה גֵּט מִשְּׁנֵיהֶם.",
+      "it": "Il Rambam ha stabilito che deve andarsene da entrambi, e ha bisogno di un get da entrambi."
+    },
+    {
+      "n": 14,
+      "he": "מוֹרֵד שֶׁהָלַךְ לְמָדִינַת הַיָּם בְּלֹא נְטִילַת רְשׁוּת — בֵּית דִּין כּוֹתְבִים לוֹ אִגֶּרֶת שֶׁיָּשׁוּב אוֹ יְגָרֵשׁ.",
+      "it": "Un marito ribelle che è partito per un paese d'oltremare senza permesso — il tribunale gli scrive una lettera che deve tornare o divorziare."
+    },
+    {
+      "n": 15,
+      "he": "לֹא שָׁב וְלֹא גֵּרַשׁ — בֵּית דִּין מַכְרִיזִים עָלָיו שֶׁהוּא מוֹרֵד.",
+      "it": "Non è tornato e non ha divorziato — il tribunale proclama che è un marito ribelle."
+    },
+    {
+      "n": 16,
+      "he": "מֵת בַּדֶּרֶךְ וְלֹא שָׁלַח גֵּט — הָאִשָּׁה עֲגוּנָה עַד שֶׁתָּבוֹא עֵדוּת מִיתָה.",
+      "it": "È morto in viaggio senza aver mandato il get — la donna è un'agunah finché non arriva la testimonianza della morte."
+    },
+    {
+      "n": 17,
+      "he": "חֲכָמִים תִּקְּנוּ שֶׁהָאִישׁ יִכְתֹּב גֵּט לִפְנֵי נְסִיעָה לִמְדִינַת הַיָּם, לְמַעַן שֶׁלֹּא תֵּעָגֵן אִשְׁתּוֹ.",
+      "it": "I Saggi hanno disposto che un uomo scriva un get prima di partire per un paese d'oltremare, affinché sua moglie non rimanga un'agunah."
+    },
+    {
+      "n": 18,
+      "he": "כָּתַב לָהּ גֵּט לִפְנֵי נְסִיעָתוֹ עַל מְנָת שֶׁיִּהְיֶה גֵּט אִם לֹא יָשׁוּב — כָּשֵׁר.",
+      "it": "Ha scritto per lei un get prima della partenza con la condizione che sia valido se non torna — è valido."
+    },
+    {
+      "n": 19,
+      "he": "הַגֵּט שֶׁנִּכְתַּב לִפְנֵי הַנְּסִיעָה וְנִתְּנוֹ עָלָיו עֵדִים — כָּשֵׁר, וְתָלוּי בְּקִיּוּם הַתְּנַאי.",
+      "it": "Il get scritto prima della partenza con testimoni che vi hanno firmato — è valido, subordinato all'adempimento della condizione."
+    },
+    {
+      "n": 20,
+      "he": "יוֹם טוֹב שֵׁנִי שֶׁל סוּכּוֹת — תּוֹסִיף שִׂמְחָה עַל שִׂמְחָה. 'אִגֶּרֶת עֲגוּנָה' נִקְרֵאת לְשַׁחְרֵר, אַף כִּי אֵינָהּ גֵּט — אֶלָּא מִצְוַת חֲכָמִים לְהַקְנוֹת אֶת הָרְצוֹן לְגָרֵשׁ.",
+      "it": "Il secondo giorno di Sukkot (Yom Tov) — aggiunga gioia alla gioia. L'iggeret agunah è chiamata per liberare, sebbene non sia un get — ma un obbligo rabbinico di esprimere la volontà di divorziare."
+    }
+  ],
+  "_glossary_terms_used": ["agunah", "iggeret agunah", "ed echad", "gerushin", "tenai", "beit din"]
+}

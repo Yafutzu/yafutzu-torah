@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 9",
+  "name_he": "אגרת התשובה פרק ט'",
+  "name_it": "Lettera della Teshuvah, Capitolo 9",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-09",
+  "hebrew_date": "24 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה הַלֵּב הַנִּשְׁבָּר הוּא הַמַּפְתֵּחַ",
+      "it": "Il capitolo 9 affronta il paradosso centrale della teshuvah: il lev nishbar (לֵב נִשְׁבָּר — cuore spezzato) è simultaneamente il modo più profondo di teshuvah e qualcosa di potenzialmente dannoso. Il Talmud dice che 'lo yagi'a adam atzmo litze'ar' (לֹא יַגִּיעַ אָדָם עַצְמוֹ לִצַּעַר — non ci si deve portare al dolore). Come si concilia ciò con la necessità del cuore spezzato? Il Baal HaTanya risponde: c'è una differenza fondamentale tra il 'atzav' (עַצָּב — tristezza morbosa) e la 'merirut' (מְרִירוּת — amarezza santa)."
+    },
+    {
+      "n": 2,
+      "he": "וְהַהֶפְרֵשׁ בֵּין עַצְבוּת לְמְרִירוּת",
+      "it": "La differenza è questa: l'atzavut (עַצְבוּת — depressione) è uno stato di passività, di chiusura, di pesantezza in cui l'anima si chiude e non può agire. È pericolosa poiché impedisce il servizio divino. La merirut, invece, è accompagnata da energia intensa — un ardore amareggiato che spinge all'azione, alla teshuvah, alla dedizione. La persona che piange di merirut è piena di fervore (hitlahavut, הִתְלַהֲבוּת) per cambiare, non soffocata dalla disperazione. Il lev nishbar è merirut e non atzavut — spezza le barriere dell'orgoglio ma lascia la forza vitale intatta e anzi la rilancia verso Dio."
+    },
+    {
+      "n": 3,
+      "he": "וְאַחַר הַמְּרִירוּת יָבוֹא הַשִּׂמְחָה",
+      "it": "Il Baal HaTanya rivela la sequenza corretta: prima la merirut autentica del cuore spezzato — breve, focalizzata, e intenzionale — e poi immediatamente la simchah (שִׂמְחָה — gioia) della teshuvah completata. 'Betzel hamitzvah simchah' (בְּצֵל הַמִּצְוָה שִׂמְחָה — all'ombra della mitzvah c'è gioia). La persona che ha fatto teshuvah genuina non rimane nel cuore spezzato ma si eleva alla gioia di chi è tornato a Casa. Questo è il modello del Chabad: teshuvah con profondità intellettuale (hitbonenut), seguita da amarezza focalizzata, seguita da gioia piena. Non tristezza infinita."
+    }
+  ],
+  "_glossary_terms_used": ["lev nishbar", "atzav", "merirut", "atzavut", "hitlahavut", "simchah", "Chabad", "hitbonenut", "teshuvah"]
+}

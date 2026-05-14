@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Okhalin 9-11",
+  "name_he": "משנה תורה, הלכות טומאת אוכלין, פרקים ט-יא",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità dei Cibi, capitoli 9-11",
+  "cycle": "rambam-3",
+  "date": "2026-09-07",
+  "hebrew_date": "25 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "9:1", "he": "בִּיטּוּל אֹכֶל טָמֵא בְּטָהוֹר — אֹכֶל טָמֵא שֶׁנִּתְעָרַב בְּאֹכֶל טָהוֹר — דִּין הַבִּיטּוּל לְפִי הַכַּמּוּת.", "it": "Nullificazione di cibo impuro nel puro — cibo impuro mescolato a cibo puro — la legge della nullificazione dipende dalla quantità."},
+    {"n": "9:2", "he": "בְּחֻלִּין — מִתְבַּטֵּל בְּרוֹב. בִּתְרוּמָה — אֵין בִּיטּוּל.", "it": "In chulin — si nullifica nella maggioranza. Nella terumah — non c'è nullificazione."},
+    {"n": "9:3", "he": "אֹכֶל שֶׁנִּטְמָא וְנָפַל לְמֵי מִקְוֶה — נִטְהַר הַמִּקְוֶה? לֹא, שֶׁהַמַּיִם מְקַבְּלִין טֻמְאָה מִמֶּנּוּ אַחַר כָּךְ.", "it": "Il cibo che è diventato impuro e caduto nell'acqua del mikveh — il mikveh si è purificato? No, poiché l'acqua riceve impurità da esso in seguito."},
+    {"n": "10:1", "he": "בְּזְמַן הַזֶּה — רֹב דִּינֵי טֻמְאַת אֳכָלִין הֵם מִדְּרַבָּנָן, שֶׁאֵין טָהֳרָה שְׁלֵמָה בְּלֹא בֵּית הַמִּקְדָּשׁ.", "it": "Nel tempo attuale — la maggior parte delle leggi dell'impurità dei cibi sono rabbiniche, poiché non c'è purità completa senza il Tempio."},
+    {"n": "10:2", "he": "אַף עַל פִּי כֵן — שָׁמְרוּ חֲכָמִים עַל גְּזֵרוֹת הַטֻּמְאָה, כְּדֵי לְשַׁמֵּר זֵכֶר הַטָּהֳרָה לְעָתִיד לָבוֹא.", "it": "Ciononostante — i Saggi hanno mantenuto i decreti dell'impurità, per preservare il ricordo della purità per il futuro."},
+    {"n": "10:3", "he": "הָעִקָּרִים הַנּוֹהֲגִים בְּזְמַן הַזֶּה — טֻמְאַת נִדָּה, טֻמְאַת מֵת, וְדָּם.", "it": "I principi applicabili oggi — l'impurità della niddah, l'impurità del cadavere, e il sangue."},
+    {"n": "11:1", "he": "בֵּיצָה — יֵשׁ לָהּ שִׁיעוּר כְּבֵיצָה. בֵּיצָה שֶׁהִיא עַצְמָהּ — שִׁיעוּרָהּ הִיא עַצְמָהּ.", "it": "L'uovo — ha la misura di kebeitzah. L'uovo stesso — la sua misura è se stesso."},
+    {"n": "11:2", "he": "בֶּצֶל שֶׁנֶּחְצָה — כָּל חֵצִי מִטַּמֵּא בְּפָנֵי עַצְמוֹ אִם כָּל אֶחָד הוּא כְּבֵיצָה.", "it": "La cipolla dimezzata — ogni metà diventa impura da sola se ognuna è di misura kebeitzah."},
+    {"n": "11:3", "he": "אֳכָלִין הַמְּפוּרָשִׁים בַּמִּשְׁנָה — כָּל אֶחָד יֵשׁ לוֹ דִּינֵי טֻמְאָה מְיוּחָדִים לְפִי טִבְעוֹ.", "it": "I cibi menzionati nella Mishnah — ognuno ha le sue leggi particolari di impurità secondo la sua natura."}
+  ],
+  "_glossary_terms_used": ["bitul", "kebeitzah", "chulin", "terumah", "mikveh"]
+}

@@ -1,0 +1,77 @@
+{
+  "ref": "Mishneh Torah, Heave-Offerings 13-15",
+  "name_he": "משנה תורה, הלכות תרומות, פרקים יג-טו",
+  "name_it": "Mishneh Torah, Leggi delle Terumot (Offerte Sacerdotali), capitoli 13-15",
+  "cycle": "rambam-3",
+  "date": "2026-06-12",
+  "hebrew_date": "27 Sivan 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "13:1-3",
+      "he": "תְּרוּמָה שֶׁנָּפְלָה לְתוֹךְ הַחֻלִּין...",
+      "it": "La terumah che è caduta nella chullin (produce non sacra) — se è in quantità di uno su cento (1/100) o meno, si annulla (batel) nell'insieme. Il principio è che la terumah è batel be-me'ah (annullata in 100 parti). Se è in quantità superiore, l'intero miscuglio diventa terumah."
+    },
+    {
+      "n": "13:4-6",
+      "he": "תְּרוּמָה שֶׁנָּפְלָה לְמִין שֶׁאֵינוֹ מִינָהּ...",
+      "it": "Se la terumah è caduta in un tipo di produce diverso (min she-eino mino) — si applica una regola più severa: non basta uno su cento, ma bisogna assicurarsi che il sapore della terumah non sia percettibile nel miscuglio (ta'am ke-ikar). Se il sapore è percettibile, tutto il miscuglio è proibito."
+    },
+    {
+      "n": "13:7-9",
+      "he": "כֵּיצַד מְבַטְּלִים תְּרוּמָה...",
+      "it": "Come si procede al bitul (annullamento) della terumah? Si calcola il rapporto numerico. Se la terumah è meno di 1/100 dell'insieme, l'intero miscuglio è permesso come chullin. Si separa quindi la quantità equivalente di terumah dall'insieme e la si dà al kohen."
+    },
+    {
+      "n": "13:10-13",
+      "he": "תֶּבֶל שֶׁנִּתְעָרֵב בְּחֻלִּין...",
+      "it": "Il tevel (produce da cui non sono stati ancora separati i doni sacerdotali) che si è mescolato con chullin — il miscuglio è completamente proibito finché non si separa la terumah. Non c'è bitul per il tevel, poiché ha una via di correzione (tikkun) facile: separare la terumah."
+    },
+    {
+      "n": "13:14-16",
+      "he": "תְּרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי...",
+      "it": "Le regole di bitul si applicano in modo diverso alla terumah del demai (produce dubbiosamente decimato). Poiché il divieto del demai è meno severo (rabbinico), il calcolo del bitul è più permissivo in alcune situazioni."
+    },
+    {
+      "n": "14:1-3",
+      "he": "תְּרוּמָה גְּדוֹלָה — מִצְוָתָהּ לְהַפְרִישָׁהּ...",
+      "it": "La terumah gedolah (grande offerta sacerdotale) è separata dal proprietario dei prodotti agricoli e data al kohen. La quantità minima secondo la Torah è qualsiasi ammontare, anche un granello; i Saggi stabilirono una misura generosa di 1/40, media di 1/50, avara di 1/60."
+    },
+    {
+      "n": "14:4-6",
+      "he": "תְּרוּמַת מַעֲשֵׂר — מַפְרִישׁ הַלֵּוִי...",
+      "it": "La terumat maaser (terumah del maaser) è separata dal Levita dalla sua quota di maaser rishon (decima prima). Il Levita separa un decimo della sua decima — che è il 1% dell'intera raccolta — e la dà a un kohen. Questa terumat maaser ha gli stessi requisiti di santità della terumah gedolah."
+    },
+    {
+      "n": "14:7-9",
+      "he": "יִשְׂרָאֵל שֶׁהִפְרִישׁ תְּרוּמַת מַעֲשֵׂר...",
+      "it": "Se un israelita (non-levita) ha separato la terumat maaser, la sua azione è valida in quanto tale, ma ha agito senza autorizzazione propria poiché spetta al Levita. In pratica, se il Levita ha già ricevuto il maaser, spetta a lui separare la terumat maaser."
+    },
+    {
+      "n": "14:10-12",
+      "he": "הַפּוֹחֵת תְּרוּמַת מַעֲשֵׂר...",
+      "it": "Se il Levita ha separato meno del dovuto come terumat maaser — la terumah è valida solo nella quantità effettivamente separata, e deve completare il resto. Se ha separato di più, il surplus non ha status di terumah ma non è nemmeno proibito."
+    },
+    {
+      "n": "15:1-4",
+      "he": "סָפֵק תְּרוּמָה — אֵינוֹ אוֹכֵל...",
+      "it": "Il safek terumah (dubbio se qualcosa sia terumah) — per precauzione non si mangia, poiché si tratta di un dubbio biblico. Tuttavia, non si tratta come terumah certa per quanto riguarda la vendita o l'uso in cerimonie, finché non si chiarisce il dubbio."
+    },
+    {
+      "n": "15:5-8",
+      "he": "פֵּרוֹת הָאֲרָמִית שֶׁנִּכְנְסוּ לָאָרֶץ...",
+      "it": "Prodotti portati da fuori della Terra d'Israele — secondo la legge biblica non richiedono terumah, poiché l'obbligo si applica ai prodotti della terra di Canaan. I Saggi però hanno imposto l'obbligo su alcuni casi di prodotti importati, come misura di protezione."
+    },
+    {
+      "n": "15:9-12",
+      "he": "פֵּרוֹת שֶׁנִּקְנוּ מֵהָאָרֶץ הַסּוּרִיָּא...",
+      "it": "I prodotti di Siria (Suriya) — territorio annesso da Davide ma non originariamente incluso nella promessa — hanno uno status intermedio. Il Rambam analizza in dettaglio le regole della terumah per Siria e altri territori di confine. Alcune autorità le obbligano, altre no."
+    },
+    {
+      "n": "15:13-16",
+      "he": "כָּל מַה שֶּׁחֲיָבִין בּוֹ מֵאֶרֶץ יִשְׂרָאֵל...",
+      "it": "Regola generale conclusiva: tutto ciò che è obbligato in terumah nella Terra d'Israele è esente in diaspora, salvo le misure rabbinici specifiche. Questo conclude le Leggi delle Terumot. (Si concludono le Halachot Terumot.)"
+    }
+  ],
+  "_glossary_terms_used": ["terumah", "chullin", "bitul", "batel", "tevel", "demai", "terumah gedolah", "terumat maaser", "maaser rishon", "safek terumah", "Suriya"]
+}

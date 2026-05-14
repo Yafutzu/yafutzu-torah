@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 9",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק ט",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 9",
+  "cycle": "tanya",
+  "date": "2026-09-07",
+  "hebrew_date": "25 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "שֵׁם הַוָי\"ה כּוֹלֵל אֶת כָּל הַזְּמַן — יוֹ\"ד = עָבָר (חָכְמָה, מָה שֶׁהָיָה). הֵ\"א = הֹוֶה (בִּינָה, מָה שֶׁהוּא עַכְשָׁו). וָא\"ו = עָתִיד (שֵׁשֶׁת יְמֵי הַבְּרִיאָה, מָה שֶׁיִּהְיֶה). הֵ\"א = הָעוֹלָם הַתַּחְתּוֹן הַמְּקַבֵּל.", "it": "Il nome Havaya comprende tutto il tempo — yod = passato (Chochmah, ciò che era). heh = presente (Binah, ciò che è ora). vav = futuro (i sei giorni della creazione, ciò che sarà). heh = il mondo inferiore che riceve."},
+    {"n": 2, "he": "הַזְּמַן עַצְמוֹ הוּא בְּרִיאָה אֱלֹהִית — 'בְּרֵאשִׁית בָּרָא' כּוֹלֵל גַּם אֶת הַזְּמַן. כָּל רֶגַע וָרֶגַע הוּא חִידּוּשׁ אֱלֹהִי. לְכֵן 'יֶשְׁנוֹ' שֶׁל כָּל דָּבָר תָּלוּי בַּהֲוָיָה מִתְמֶדֶת.", "it": "Il tempo stesso è una creazione Divina — 'Bereishit bara' include anche il tempo. Ogni singolo momento è un rinnovamento Divino. Pertanto l'esistenza di ogni cosa dipende dall'essere continuo."},
+    {"n": 3, "he": "מִכָּאן לֹא רַק שֶׁהָעוֹלָם נִבְרָא פַּעַם אַחַת — אֶלָּא שֶׁהוּא נִבְרָא מֵחָדָשׁ בְּכָל רֶגַע. הַקָּדוֹשׁ בָּרוּךְ הוּא מַחֲיֶה אֶת כָּל בְּרִיאָתוֹ בְּכָל רֶגַע בְּאוֹתוֹ כֹּחַ שֶׁבּוֹ בְּרָאָהּ.", "it": "Da ciò non solo che il mondo è stato creato una volta — ma che è creato di nuovo in ogni momento. Il Santo Benedetto dà vita a tutta la Sua creazione in ogni momento con la stessa forza con cui l'ha creata."}
+  ],
+  "_glossary_terms_used": ["Havaya", "Chochmah", "Binah", "zman", "chidush"]
+}

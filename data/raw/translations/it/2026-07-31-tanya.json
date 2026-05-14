@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 24",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כד",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 24",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-31",
+  "hebrew_date": "17 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "'אֵין עוֹד מִלְּבַדּוֹ' — לֹא רַק אֱמוּנָה שִׂכְלִית, אֶלָּא הַרְגָּשָׁה אֲמִתִּית שֶׁאֵין שׁוּם מְצִיאוּת זוּלָתוֹ. זֶה הַהֶפְרֵשׁ בֵּין יָדֹעַ לְהַרְגִּישׁ.",
+      "it": "'Non vi è nulla oltre a Lui' (ein od milvado, Deuteronomio 4:35) — non è soltanto una conoscenza intellettuale, ma una sensazione reale che non esiste alcuna realtà al di fuori di Lui. Questa è la differenza tra sapere e sentire."
+    },
+    {
+      "n": 2,
+      "he": "מִי שֶׁמַּרְגִּישׁ אֱמֶת זוֹ — רוֹאֶה שֶׁהַשֵּׁם מָלֵא אֶת כָּל הַמְּצִיאוּת. כָּל הַנִּבְרָאִים — הֵם כְּאַיִן לְגַבֵּי הַשֵּׁם. זוֹ הִיא הַדַּרְגָּה הָעֶלְיוֹנָה שֶׁל יִרְאַת הָרוֹמְמוּת.",
+      "it": "Chi sente questa verità — vede che il Signore riempie tutta la realtà. Tutte le creature — sono come niente rispetto al Signore. Questo è il livello supremo del timore della sublimità (yir'at ha-romemut)."
+    },
+    {
+      "n": 3,
+      "he": "כְּשֶׁהַהַרְגָּשָׁה הַזֹּאת חַיָּה בְּלִבּוֹ — מִשְׁתַּנֶּה יַחֲסוֹ עִם הָעוֹלָם. לֹא בּוֹרֵחַ מֵהָעוֹלָם — אֶלָּא רוֹאֶה אֶת ה' בְּתוֹךְ הָעוֹלָם. זֶה עִנְיַן 'עוֹלָם חָסֶד יִבָּנֶה'.",
+      "it": "Quando questa sensazione è viva nel suo cuore — cambia il suo rapporto con il mondo. Non fugge dal mondo — ma vede il Signore dentro il mondo. Questo è il concetto di 'il mondo è costruito su bontà' (olam chesed yibaneh, Salmo 89:3). La consapevolezza di ein od milvado non aliena dal mondo — lo santifica."
+    }
+  ],
+  "_glossary_terms_used": ["ein od milvado", "emunah", "yir'at ha-romemut", "kedushah", "olam chesed yibaneh"]
+}

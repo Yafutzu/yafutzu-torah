@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Geneivah 6-8",
+  "name_he": "משנה תורה, הלכות גניבה, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi del Furto (Geneivah), capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-09-29",
+  "hebrew_date": "18 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "הַגּוֹנֵב מִן הַקָּטָן, מִן הַחֵרֵשׁ, מִן הַשּׁוֹטֶה — חַיָּב כְּנֵס. אַף שֶׁאֵין אֵלּוּ בְּנֵי דַּעַת — גָּנַב מִמּוֹנָם.",
+      "it": "Chi ruba da un minore, da un sordomuto, da un folle — è responsabile come chiunque altro. Anche se questi non hanno capacità legale — ha rubato la loro proprietà."
+    },
+    {
+      "n": "6:2",
+      "he": "הַכְּנָס (הַחִיּוּב) — הוּא קְנָס מִדִּבְרֵי חֲכָמִים. מֵהַתּוֹרָה — כֶּפֶל. חֲכָמִים הוֹסִיפוּ עוֹנֶשׁ לְמַרְתִּיעַ.",
+      "it": "Il kenas (penale) — è una sanzione rabbinica. Dalla Torah — il kefel. I Saggi hanno aggiunto una punizione per scoraggiare."
+    },
+    {
+      "n": "6:3",
+      "he": "אֵין כֶּפֶל לִקְטַנִּים שֶׁגָּנְבוּ — שֶׁהַכֶּפֶל הוּא קְנָס, וּקְנָס אֵין לִקְטַן.",
+      "it": "Il kefel non si applica ai minori che hanno rubato — perché il kefel è una sanzione penale, e le sanzioni penali non si applicano ai minori."
+    },
+    {
+      "n": "7:1",
+      "he": "אוֹנָאַת מָמוֹן — הַמּוֹכֵר חֵפֶץ בְּיֹתֵר עַל שִׁשָּׁה חֲלָקִים מִשִּׁשָּׁה — הֲרֵי זֶה אוֹנָאָה. הַנִּקְנֵה חוֹזֵר.",
+      "it": "La frode nei prezzi — chi vende un oggetto a più di un sesto in più del valore di mercato — questa è frode (ona'ah). La vendita si annulla."
+    },
+    {
+      "n": "7:2",
+      "he": "כְּלֵי הַמִּשְׁקָל וְהַמִּדָּה — מֶשֶׁקֶת שֶׁקֶר אָסוּר מִן הַתּוֹרָה. זֶה כְּלוּל בְּ'לֹא תִּגְנֹב' — שֶׁגְּנֵבַת הַדַּעַת בְּמִשְׁקָל שֶׁקֶר הִיא גְּנֵבָה.",
+      "it": "Gli strumenti di pesatura e misurazione — le misure false sono proibite dalla Torah. Questo è incluso in 'Non ruberai' — perché ingannare con pesi falsi è furto."
+    },
+    {
+      "n": "7:3",
+      "he": "עִכּוּב שְׂכַר שָׂכִיר — גַּם זֶה בִּכְלַל 'לֹא תִּגְזֹל'. הַמְּאַחֵר שְׂכַר שָׂכִיר — עוֹבֵר עַל שְׁלֹשָׁה לָאוִין.",
+      "it": "Trattenere il salario di un lavoratore — anche questo rientra in 'Non rubare'. Chi ritarda il pagamento del salario — viola tre divieti della Torah."
+    },
+    {
+      "n": "8:1",
+      "he": "'לֹא תִּגְזֹל' — אִסּוּר הַגְּזֵלָה הוּא מְפֹרָשׁ בַּתּוֹרָה. 'לֹא תִּגְנֹב' — אִסּוּר הַגְּנֵבָה. שְׁנֵיהֶם אֲסוּרִין.",
+      "it": "'Non derubare' — il divieto di rapina è esplicito nella Torah. 'Non rubare' — il divieto di furto. Entrambi sono proibiti."
+    },
+    {
+      "n": "8:2",
+      "he": "הַגּוֹנֵב גְּנֵבַת דַּעַת — כְּגוֹן שֶׁמְּטַעֶה אֶת חֲבֵרוֹ בְּמַחֲשָׁבָה — עוֹבֵר עַל 'לֹא תִּגְנֹב.' שֶׁגְּנֵבַת הַדַּעַת שָׁמָּה גְּנֵבָה.",
+      "it": "Chi 'ruba la mente' — cioè chi inganna il prossimo nel pensiero — viola 'Non rubare.' Perché l'inganno mentale è anch'esso chiamato furto."
+    },
+    {
+      "n": "8:3",
+      "he": "הַגּוֹנֵב חֵפֶץ מֵחֲבֵרוֹ לְהַחֲזִיר — עוֹבֵר, שֶׁהַהַחְזָרָה אֵינָהּ מְבַטֶּלֶת אֶת הַגְּנֵבָה שֶׁנַּעֲשֵׂאת. אֲבָל אֵינוֹ חַיָּב כֶּפֶל.",
+      "it": "Chi ruba un oggetto del prossimo intendendo restituirlo — viola il divieto, perché la restituzione non annulla il furto compiuto. Ma non è responsabile del kefel."
+    }
+  ],
+  "_glossary_terms_used": ["geneivah", "kenas", "kefel", "ona'ah", "gannevat hada'at", "lo tignov"]
+}

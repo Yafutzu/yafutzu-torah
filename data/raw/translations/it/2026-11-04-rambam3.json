@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Avadim 3-5",
+  "name_he": "משנה תורה, הלכות עבדים, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi degli Schiavi, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-11-04",
+  "hebrew_date": "24 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "3:1-4",
+      "he": "הָעֶבֶד הָעִבְרִי — יוֹצֵא בְּיוֹבֵל…",
+      "it": "(Avadim cap. 3, hal. 1-4) L'eved Ivri è liberato in tre circostanze: (1) al termine dei sei anni di servizio; (2) nel Giubileo (yovel — il 50° anno) — tutti gli schiavi ebrei vengono liberati indipendentemente da quando hanno iniziato a servire; (3) alla morte del padrone — in alcuni casi. Quando viene liberato, il padrone deve dargli un «hak'en ta'akkin» — dei doni di uscita (zeroat, gez, veyayin — braccia, lana, e vino), come segno che il servizio è terminato con dignità e non con vuote mani."
+    },
+    {
+      "n": "3:5-8",
+      "he": "עֶבֶד שֶׁרָצָה לְהִמָּכֵר — רֶצַע הָאֹזֶן…",
+      "it": "(Avadim cap. 3, hal. 5-8) Lo schiavo che desidera rimanere (ratza lihimmakher): se al termine dei sei anni lo schiavo dichiara «Ahavti et adoni» (Amo il mio padrone) e non vuole essere liberato — si esegue la cerimonia della retziyah (foratura dell'orecchio). Il padrone porta lo schiavo davanti al beit din, lo porta allo stipite della porta, e fora il suo orecchio destro con un punteruolo (martze'a). Questo schiavo serve poi fino al yovel. I Saggi spiegano: l'orecchio che al Sinai udì «lo yihyu lecha avadim» (non avrete schiavi — in Egitto) e poi volle tornare alla schiavitù — merita di essere forato."
+    },
+    {
+      "n": "4:1-4",
+      "he": "אָמָה הָעִבְרִיָּה — שׁוֹנָה מֵהָעֶבֶד הָעִבְרִי…",
+      "it": "(Avadim cap. 4, hal. 1-4) L'amah Ivriyah (schiava ebrea): una bambina ebrea venduta dal padre come «amah» (ancella). Le sue leggi sono diverse da quelle dell'eved Ivri maschile. L'amah va libera: (1) quando appare la prima mestruazione (segno di età adulta — simanim); (2) al yovel; (3) alla morte del padrone; (4) se il padrone non la riscatta come sposa per sé o per il figlio entro il periodo stabilito. Se il padrone la prende come moglie per sé o per il figlio — cambia il suo status da ancella a moglie, con tutti i diritti connessi."
+    },
+    {
+      "n": "5:1-4",
+      "he": "עֶבֶד כְּנַעֲנִי — קוֹנֶה עַצְמוֹ בְּכֶסֶף וּבִשְׁטָר…",
+      "it": "(Avadim cap. 5, hal. 1-4) Lo schiavo canaanita si libera (koneh atzmo) in due modi: (1) denaro (kesef) — il padrone accetta un pagamento per il suo affrancamento; (2) documento (shtar) — il padrone scrive un «get shichrur» (documento di liberazione). Non si libera automaticamente al termine di un periodo di servizio come l'eved Ivri — rimane schiavo finché il padrone non lo libera esplicitamente. Se il padrone lo ferisce in certi modi previsti dalla Torah (perde un dente o un occhio) — il beit din obbliga il padrone a liberarlo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "eved Ivri", "yovel", "retziyah", "martze'a", "beit din", "amah Ivriyah", "simanim", "eved Canaani", "kesef", "shtar", "get shichrur"
+  ]
+}

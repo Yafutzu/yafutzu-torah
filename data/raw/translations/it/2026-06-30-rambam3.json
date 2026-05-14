@@ -1,0 +1,67 @@
+{
+  "ref": "Mishneh Torah, Hilchot Beit HaBechira 2-4",
+  "name_he": "משנה תורה, הלכות בית הבחירה פרקים ב–ד",
+  "name_it": "Mishneh Torah, Leggi della Casa Prescelta, capitoli 2–4",
+  "cycle": "rambam-3",
+  "date": "2026-06-30",
+  "hebrew_date": "15 Tammuz 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "הֵיכָל הַקֹּדֶשׁ — מִדּוֹת הַקֹּדֶשׁ...",
+      "it": "Il Heichal (Santuario) — le misure dello spazio sacro: il Rambam descrive il Kodesh (Santo, la sala principale) e il Kodesh HaKodashim (Santo dei Santi). Il Kodesh contiene tre oggetti fondamentali: la Menorah (candelabro a sette braccia), la Shulchan (tavola dei Pani dell'Esibizione) e il Mizbe'ach HaZahav (l'altare dell'incenso dorato). Il Kodesh HaKodashim conteneva l'Arca dell'Alleanza nel Primo Tempio."
+    },
+    {
+      "n": "2:2-5",
+      "he": "הַמְּנוֹרָה — הַשֻּׁלְחָן — מִזְבַּח הַזָּהָב...",
+      "it": "La Menorah: si trovava sul lato sud del Kodesh, con le sue sette fiamme che illuminavano verso il centro. La Shulchan (tavola): sul lato nord, con i dodici pani dell'Esibizione (Lechem HaPanim) che venivano cambiati ogni Sabato. Il Mizbe'ach HaZahav (altare dell'oro): al centro, davanti alla tenda che separava il Kodesh dal Kodesh HaKodashim, su cui si bruciava l'incenso ogni mattina e sera."
+    },
+    {
+      "n": "2:6-9",
+      "he": "קֹדֶשׁ הַקֳּדָשִׁים — הָאָרוֹן...",
+      "it": "Il Kodesh HaKodashim: nel Primo Tempio vi si trovava l'Aron HaKodesh (Arca Santa) contenente le Tavole della Legge. Nel Secondo Tempio il Kodesh HaKodashim era vuoto — l'Arca era nascosta. Il Kohen Gadol entrava nel Kodesh HaKodashim solo una volta all'anno, nel Yom Kippur, con il ketoret (incenso) e il sangue dei sacrifici. Questo luogo era il punto più sacro dell'intera creazione."
+    },
+    {
+      "n": "2:10-14",
+      "he": "הָאוּלָם — הַבַּיִת — הַדְּבִיר...",
+      "it": "L'Ulam (vestibolo): era la sala d'ingresso davanti al Heichal, larga quanto il Heichal più i muri. Davanti all'Ulam si trovavano i due pilastri di rame (Jachin e Boaz) costruiti da Salomone. Il Rambam descrive con precisione le misure di ogni parete, ogni finestra, ogni porta del complesso del Heichal, basandosi sui testi biblici (I Re 6 e Ezechiele 41)."
+    },
+    {
+      "n": "3:1",
+      "he": "הַמִּזְבֵּחַ הַחִיצוֹן...",
+      "it": "Il Mizbe'ach HaChitzon (Altare Esterno): si trovava nel cortile esterno (Azarah) davanti al Heichal. Era costruito di pietre intere, non lavorate con ferro (poiché l'acciaio accorcia la vita e l'altare la prolunga). La sua forma era quadrata: 32 amot per 32 amot, con una rampa (kavesh) sul lato sud. Non si usano scale per l'altare: 'Lo ta'aleh bema'alot al mizbachi' — non salirai con gradini al mio altare (Esodo 20:23)."
+    },
+    {
+      "n": "3:2-5",
+      "he": "הָאֵשׁ עַל הַמִּזְבֵּחַ...",
+      "it": "Il fuoco sull'altare: c'erano tre roghi sull'altare in ogni momento — uno principale per i sacrifici, uno secondario che alimentava il primo, e uno per il ketoret (incenso). Il fuoco sull'altare era acceso direttamente da Dio alla consacrazione del Tabernacolo e non veniva mai lasciato spegnere. C'è un precetto negativo contro l'estinzione del fuoco dell'altare."
+    },
+    {
+      "n": "3:6-9",
+      "he": "הַכִּיּוֹר וְכַנּוֹ...",
+      "it": "Il Kiyor (Bacino per le abluzioni): si trovava tra l'altare e l'ingresso al Heichal. I sacerdoti si lavavano mani e piedi dal Kiyor prima di eseguire il servizio del Tempio. Il lavaggio delle mani e dei piedi prima del servizio è un requisito assoluto — il Kohen che serve senza aver lavato è passibile di morte (mitat bet din)."
+    },
+    {
+      "n": "4:1",
+      "he": "עֶשֶׂר קְדֻשּׁוֹת...",
+      "it": "Le dieci gradazioni di santità (eser kedusshot): il Rambam elenca i dieci livelli di kedushah che vanno dalla Terra d'Israele fino al Kodesh HaKodashim. 1) Terra d'Israele. 2) Gerusalemme. 3) Il Monte del Tempio. 4) Il Cheil (recinto esterno). 5) L'Ezrat Nashim (cortile delle donne). 6) L'Ezrat Israel (cortile degli israeliti). 7) L'Ezrat Kohanim (cortile dei sacerdoti). 8) Tra il portico e l'altare. 9) Il Heichal. 10) Il Kodesh HaKodashim."
+    },
+    {
+      "n": "4:2-5",
+      "he": "מִי מֻתָּר לִכָּנֵס...",
+      "it": "Chi può entrare in ogni livello di santità: la Terra d'Israele è aperta a tutti. Gerusalemme: le tume'ot chamuroth (le impurità gravi come zav e metzora) non possono entrare. Il Monte del Tempio: i completamente puri solo. Il cortile delle donne: tutti gli ebrei puri. Il cortile degli israeliti: con sacrifici. Il cortile dei sacerdoti: solo i Kohanim in servizio. Il Heichal: solo i Kohanim durante il servizio. Il Kodesh HaKodashim: solo il Kohen Gadol a Yom Kippur."
+    },
+    {
+      "n": "4:6-9",
+      "he": "הַנִּכְנָס לַמִּקְדָּשׁ בְּטֻמְאָה...",
+      "it": "Chi entra nel Tempio in stato di impurità (tumah): viola un precetto negativo grave e se lo fa intenzionalmente è punito con karet (amputazione spirituale). Se lo fa inavvertitamente, porta un sacrificio. Il Rambam sottolinea: questo si applica anche ai tempi nostri — il luogo dove sorgeva il Tempio conserva la sua santità. Pertanto anche oggi è vietato salire sul Monte del Tempio senza purificazione rituale."
+    },
+    {
+      "n": "4:10-13",
+      "he": "קְדֻשַּׁת הַמִּקְדָּשׁ לְעוֹלָם...",
+      "it": "La santità del Tempio è eterna: anche nella desolazione, anche dopo la distruzione, il luogo del Tempio mantiene la sua kedushah. Il Rambam cita la halachah (Megillah 28a): 'Batei kenesiot ve-batei midrashot einam nitkadshim ela bi-kedushat Mikdash' — le sinagoghe e le case di studio non hanno la stessa santità, ma il luogo del Tempio sì, per sempre. Il Terzo Tempio sarà costruito in questo stesso luogo, e la sua gloria supererà quella dei Templi precedenti."
+    }
+  ],
+  "_glossary_terms_used": ["Beit HaMikdash", "Heichal", "Kodesh HaKodashim", "Ulam", "Menorah", "Shulchan", "Lechem HaPanim", "Mizbe'ach HaZahav", "Mizbe'ach HaChitzon", "Aron HaKodesh", "Kiyor", "kedushah", "eser kedusshot", "Kohen Gadol", "Azarah", "tumah", "karet", "ketoret", "kavesh", "Har HaBayit"]
+}

@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 2",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק ב",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 2",
+  "cycle": "rambam-1",
+  "date": "2026-07-16",
+  "hebrew_date": "2 Av 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַכֹּל חַיָּבִין בִּתְקִיעַת שׁוֹפָר — כֹּהֲנִים, לְוִיִּם, יִשְׂרְאֵלִים. חוּץ מֵחֵרֵשׁ, שׁוֹטֶה, וְקָטָן.",
+      "it": "Tutti sono obbligati nel suono dello shofar — kohanim, leviti, israeliti. Eccetto il sordo, il pazzo, e il bambino."
+    },
+    {
+      "n": 2,
+      "he": "נָשִׁים פְּטוּרוֹת מִתְּקִיעַת שׁוֹפָר, שֶׁהִיא מִצְוַת עֲשֵׂה שֶׁהַזְּמַן גְּרָמָה.",
+      "it": "Le donne sono esenti dal suono dello shofar, poiché è un comandamento positivo dipendente dal tempo (mitzva aseh she-hazman grama)."
+    },
+    {
+      "n": 3,
+      "he": "אַף עַל פִּי שֶׁנָּשִׁים פְּטוּרוֹת — אִם רָצוּ לִתְקֹּעַ תּוֹקְעוֹת וּמְבָרְכוֹת.",
+      "it": "Anche se le donne sono esenti — se vogliono suonare, suonano e benedicono [secondo alcune opinioni]."
+    },
+    {
+      "n": 4,
+      "he": "הַשּׁוֹמֵעַ קוֹל שׁוֹפָר מִן הַמְּעָרָה — יָצָא. שָׁמַע מִן הַהֵד — לֹא יָצָא.",
+      "it": "Chi ascolta la voce dello shofar da una grotta — ha adempiuto. Chi ha ascoltato dall'eco — non ha adempiuto."
+    },
+    {
+      "n": 5,
+      "he": "הַכַּוָּנָה — שֶׁיִּתְכַּוֵּן הַשּׁוֹמֵעַ לִצֵאת יְדֵי חוֹבָה וְהַתּוֹקֵעַ לְהוֹצִיאוֹ.",
+      "it": "La kavanah (intenzione) — che il sentitore abbia l'intenzione di adempiere il comandamento e che il suonatore abbia l'intenzione di farlo adempiere."
+    },
+    {
+      "n": 6,
+      "he": "תָּקַע לַשִּׁיר — לֹא יָצָא. תָּקַע לַהֲלָכָה — יָצָא.",
+      "it": "Se ha suonato per fare musica — non ha adempiuto. Se ha suonato per la halachah (con intenzione rituale) — ha adempiuto."
+    },
+    {
+      "n": 7,
+      "he": "הַתּוֹקֵעַ לְתוֹךְ הַבּוֹר אוֹ לְתוֹךְ הַחָבִית — אִם שָׁמַע קוֹל שׁוֹפָר יָצָא, אִם שָׁמַע קוֹל הֵד — לֹא יָצָא.",
+      "it": "Chi suona in un pozzo o in una botte — se ha udito la voce dello shofar ha adempiuto, se ha udito l'eco — non ha adempiuto."
+    },
+    {
+      "n": 8,
+      "he": "אֶחָד שָׁמַע רֹב תְּקִיעָה וְרֹב תְּרוּעָה — יָצָא.",
+      "it": "Chi ha udito la maggior parte della tekiah e la maggior parte della teruah — ha adempiuto."
+    },
+    {
+      "n": 9,
+      "he": "הַתּוֹקֵעַ צָרִיךְ שֶׁיֹּאמַר: \"לִשְׁמֹעַ קוֹל שׁוֹפָר\" בְּבִרְכוֹתָיו.",
+      "it": "Il suonatore deve dire nella sua benedizione: «Ascoltare la voce dello shofar» (lishmoa kol shofar)."
+    },
+    {
+      "n": 10,
+      "he": "הַתּוֹקֵעַ בִּשְׁבִיל לְהוֹצִיא אֲחֵרִים יְדֵי חוֹבָתָן — אֵינוֹ צָרִיךְ לִתְקֹּעַ שֵׁנִית עַצְמוֹ.",
+      "it": "Il suonatore che suona per far adempiere ad altri il loro obbligo — non deve suonare di nuovo per se stesso."
+    }
+  ],
+  "_glossary_terms_used": ["shofar", "tekiah", "teruah", "shevarim", "kavanah", "Rosh HaShanah", "mitzva aseh she-hazman grama", "kohanim", "leviyyim", "lishmoa kol shofar"]
+}

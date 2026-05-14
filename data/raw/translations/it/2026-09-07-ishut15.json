@@ -1,0 +1,26 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 15",
+  "name_he": "משנה תורה, הלכות אישות, פרק טו",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 15",
+  "cycle": "rambam-1",
+  "date": "2026-09-07",
+  "hebrew_date": "25 Elul 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {"n": 1, "he": "חָלְתָה הָאִשָּׁה — חַיָּב בַּעְלָהּ בִּרְפוּאָתָהּ.", "it": "Se la moglie si è ammalata — suo marito è obbligato alla sua cura medica."},
+    {"n": 2, "he": "שָׂכַר לָהּ רוֹפֵא, קָנָה לָהּ רְפוּאוֹת — מְשַׁלֵּם הַבַּעַל מִנְּכָסָיו.", "it": "Se ha assunto un medico per lei, ha comprato medicine per lei — il marito paga dai suoi beni."},
+    {"n": 3, "he": "אָמְרָה הָאִשָּׁה 'אֵינִי רוֹצָה שֶׁתְּרַפְּאֵנִי, אֶלָּא תֵּן לִי דָּמִים' — שׁוֹמְעִין לָהּ.", "it": "Se la moglie ha detto 'non voglio che tu mi curi, dammi il denaro' — si ascolta la sua richiesta."},
+    {"n": 4, "he": "חָלָה הוּא — אֵינוֹ פָּטוּר מִמְּזוֹנוֹתֶיהָ וּכְסוּתָהּ.", "it": "Se si è ammalato lui — non è esente dal suo sostentamento e abbigliamento."},
+    {"n": 5, "he": "חָלְתָה חֹלִי מַמָּשׁ — חַיָּב בִּרְפוּאָתָהּ אֲפִלּוּ לְאֹרֶךְ יָמִים.", "it": "Se si è ammalata di malattia vera — è obbligato alle sue cure anche per lungo tempo."},
+    {"n": 6, "he": "חָלְתָה חֹלִי שֶׁמֵּמְאֵן אוֹתָהּ לְעוֹלָם — יֵשׁ אוֹמְרִים שֶׁיָּכוֹל לְגָרְשָׁהּ בְּכֶתֶר כְּתֻבָּתָהּ.", "it": "Se si è ammalata di malattia cronica che la impedirà per sempre — alcuni sostengono che può divorziare dandole la sua ketubah."},
+    {"n": 7, "he": "וְיֵשׁ אוֹמְרִים שֶׁאֵינוֹ יָכוֹל לְגָרְשָׁהּ כִּי אִם בִּרְצוֹנָהּ.", "it": "E altri sostengono che non può divorziare se non con il suo consenso."},
+    {"n": 8, "he": "וְהָעִקָּר — שֶׁאֵינוֹ יָכוֹל לְגָרְשָׁהּ בְּעַל כָּרְחָהּ בִּשְׁעַת חָלְיָהּ.", "it": "Il principio fondamentale — è che non può divorziare contro la sua volontà durante la malattia."},
+    {"n": 9, "he": "כְּלֵי הָאִשָּׁה שֶׁנִּצְרָכִים לָהּ בִּזְמַן חָלְיָהּ — חַיָּב הַבַּעַל לִקְנוֹתָם.", "it": "Gli strumenti necessari alla moglie durante la malattia — il marito è obbligato ad acquistarli."},
+    {"n": 10, "he": "מֵתָה הָאִשָּׁה — חַיָּב הַבַּעַל לִקְבְּרָהּ כְּבוֹד כָּרָאוּי לָהּ.", "it": "Se la moglie è morta — il marito è obbligato a seppellirla con onore adeguato a lei."},
+    {"n": 11, "he": "אֵינוֹ יָכוֹל לוֹמַר 'יִקְבְּרוּהָ אֲחֶיהָ' — שֶׁכְּבוֹד הַמֵּת עָלָיו.", "it": "Non può dire 'la seppelliscano i suoi fratelli' — poiché l'onore del defunto è a suo carico."},
+    {"n": 12, "he": "חַיָּב לַהֲקִים עָלֶיהָ עוֹלֶה וְלִסְפֹּד אוֹתָהּ כְּמִנְהַג הַמָּקוֹם.", "it": "È obbligato a piantare un cipresso su di lei e a piangerla secondo la consuetudine del luogo."},
+    {"n": 13, "he": "כָּל הַהוֹצָאוֹת שֶׁל קְבוּרָה — מִנְּכָסֵי הַבַּעַל.", "it": "Tutte le spese della sepoltura — provengono dai beni del marito."},
+    {"n": 14, "he": "אִם הָיוּ לְאִשָּׁה נְכָסִים — יְכוֹלִים הַיּוֹרְשִׁים לְנַכּוֹת הוֹצָאוֹת הַקְּבוּרָה מִנְּכָסֶיהָ.", "it": "Se la moglie aveva beni — gli eredi possono dedurre le spese di sepoltura dai suoi beni."}
+  ],
+  "_glossary_terms_used": ["ketubah", "mezonot"]
+}

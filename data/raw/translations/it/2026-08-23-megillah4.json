@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Hilchot Megillah VeChanukah 4",
+  "name_he": "משנה תורה, הלכות מגילה וחנוכה, פרק ד",
+  "name_it": "Mishneh Torah, Leggi della Megillah e di Chanukah, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-23",
+  "hebrew_date": "10 Elul 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מצות נר חנוכה — להניחה על פתח ביתו מבחוץ, בטפח הסמוך לפתח. ואם היה דר בעלייה — מניחה בחלון הסמוכה לרשות הרבים.",
+      "it": "Il precetto della lampada di Chanukah è posizionarla all'esterno della porta di casa, nell'handbreadth (tefach) adiacente alla porta. Se si abita in un appartamento superiore, la si pone nella finestra più vicina al dominio pubblico (reshut harabim)."
+    },
+    {
+      "n": 2,
+      "he": "בזמן הזה שרוב ישראל שרויין בגלות, מניחין אותה בפנים על פתח הבית מבפנים, כדי שלא יכנו הרוח או יפחדו מן האומות.",
+      "it": "Ai nostri giorni, quando la maggior parte di Israele vive in esilio (galut), si pone la lampada all'interno, presso la porta interna della casa, per timore che il vento la spenga o per timore delle nazioni."
+    },
+    {
+      "n": 3,
+      "he": "מצוה להניח נר חנוכה ממשתשקע החמה עד שתכלה הרגל מן השוק.",
+      "it": "Il precetto è accendere la lampada di Chanukah dal tramonto del sole finché non sia esaurito il traffico nel mercato (ad she-tichle regel min hashuk)."
+    },
+    {
+      "n": 4,
+      "he": "הדליקה קודם השקיעה — לא יצא. הדליקה לאחר שכלתה הרגל — לא יצא.",
+      "it": "Se la accese prima del tramonto — non ha adempiuto il suo obbligo. Se la accese dopo che il traffico era già esaurito — non ha adempiuto il suo obbligo."
+    },
+    {
+      "n": 5,
+      "he": "מצוה מן המובחר שיהא בה שמן זית, לזכר הנס שנעשה בשמן זית.",
+      "it": "Il precetto al suo massimo (mitzva min hamuvchar) richiede l'uso di olio d'oliva, a ricordo del miracolo che avvenne con l'olio d'oliva."
+    },
+    {
+      "n": 6,
+      "he": "כל השמנים כשרים לחנוכה, אבל מצוה מן המובחר בשמן זית. ואם אין שמן זית — מדליק בשאר שמנים.",
+      "it": "Tutti gli oli sono validi per Chanukah, ma il precetto ideale richiede olio d'oliva. Se non si ha olio d'oliva, si accende con qualsiasi altro olio."
+    },
+    {
+      "n": 7,
+      "he": "כמה נרות מדליק? בלילה הראשון — מדליק אחד, מכאן ואילך — מוסיף אחד בכל לילה עד שמונה.",
+      "it": "Quante lampade si accendono? La prima notte — una; da lì in poi — si aggiunge una ogni notte fino ad arrivare a otto."
+    },
+    {
+      "n": 8,
+      "he": "מברך שלש ברכות בלילה הראשון, ושתיים משם ואילך.",
+      "it": "Si recitano tre benedizioni la prima notte e due dalle notti successive in poi (si omette la benedizione di 'shehecheyanu' dalle notti successive)."
+    },
+    {
+      "n": 9,
+      "he": "אסור להשתמש בנר חנוכה — לא להאיר בו ולא לספור בו מעות ולא לשום שימוש.",
+      "it": "È proibito usufruire della luce della lampada di Chanukah — né per illuminare, né per contare monete, né per nessun altro scopo. A questo serve il shamash (la lampada ausiliaria di servizio)."
+    },
+    {
+      "n": 10,
+      "he": "לפיכך מניחים נר נוסף עמה — השמש — כדי שאם יצטרך להשתמש, ישתמש בשמש.",
+      "it": "Pertanto si pone accanto una lampada aggiuntiva — lo shamash — affinché se qualcuno dovesse usufruire di una luce, usi lo shamash."
+    },
+    {
+      "n": 11,
+      "he": "נר חנוכה מצוה להניחה למטה מעשרה טפחים. אם הניחה למעלה מעשרים אמה — לא יצא.",
+      "it": "La lampada di Chanukah dev'essere posta al di sotto di dieci tefachim (spanne) dal suolo. Se la pose al di sopra di venti amot (cubiti) dal suolo — non ha adempiuto l'obbligo."
+    },
+    {
+      "n": 12,
+      "he": "אמרו חכמים: 'חנוכה — אין לנו אלא לקרות עליה הלל ולהודות'. שכל שמונת ימי חנוכה גומרים את ההלל.",
+      "it": "I Saggi dissero: 'A Chanukah non abbiamo altro da fare se non recitare il Hallel e rendere grazie'. Per tutti gli otto giorni di Chanukah si recita il Hallel completo (Hallel shalem)."
+    },
+    {
+      "n": 13,
+      "he": "נוהגין לשיר 'הנרות הללו' אחר ההדלקה.",
+      "it": "È usanza cantare 'HaNerot Hallalu' dopo l'accensione — questo testo dichiara che le lampade di Chanukah sono sacre e non possono essere usate per nessun fine pratico."
+    },
+    {
+      "n": 14,
+      "he": "נס חנוכה — אין לשכחו לעולם. וכל המוסיף בפרסומו — הרי זה משובח.",
+      "it": "Il miracolo di Chanukah non deve essere dimenticato mai. E chiunque aggiunga nel pubblicizzarlo — è lodevole. Si concludono le Leggi della Megillah e di Chanukah. Si conclude il Sefer Zmanim (Libro dei Tempi)."
+    }
+  ],
+  "_glossary_terms_used": ["reshut harabim", "galut", "ad she-tichle regel min hashuk", "mitzva min hamuvchar", "shamash", "tefachim", "amot", "Hallel", "Hallel shalem", "HaNerot Hallalu", "Sefer Zmanim"]
+}

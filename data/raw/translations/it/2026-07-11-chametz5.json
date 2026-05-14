@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chametz UMatzah 5",
+  "name_he": "משנה תורה, הלכות חמץ ומצה, פרק ה",
+  "name_it": "Mishneh Torah, Leggi del Chametz e della Matzah, capitolo 5",
+  "cycle": "rambam-1",
+  "date": "2026-07-11",
+  "hebrew_date": "26 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה מִן הַתּוֹרָה לֶאֱכֹל מַצָּה בְּלֵיל חֲמִשָּׁה עָשָׂר בְּנִיסָן.",
+      "it": "Vi è un comandamento positivo della Torah di mangiare matzah la notte del quindici di Nissan."
+    },
+    {
+      "n": 2,
+      "he": "שֶׁנֶּאֱמַר: \"בָּעֶרֶב תֹּאכְלוּ מַצֹּת\" — זוֹ מִצְוַת עֲשֵׂה.",
+      "it": "Come è detto: «La sera mangerete azzime» (Shemot 12:18) — questo è un comandamento positivo."
+    },
+    {
+      "n": 3,
+      "he": "אֵיזוֹ מַצָּה כְּשֵׁרָה לְצֵאת בָּהּ? מַצָּה עֲשׂוּיָה מֵחֲמִשָּׁה מִינֵי דָּגָן בִּלְבַד.",
+      "it": "Quale matzah è idonea per adempiere il comandamento? La matzah fatta esclusivamente da una delle cinque specie di cereali."
+    },
+    {
+      "n": 4,
+      "he": "וְצָרִיךְ שֶׁתְּהֵא מַצָּה שְׁמוּרָה — שֶׁנִּשְׁמְרָה לְשֵׁם מִצְוָה.",
+      "it": "E deve essere matzah shmurah (sorvegliata) — che è stata sorvegliata per il fine della mitzva."
+    },
+    {
+      "n": 5,
+      "he": "מֵאֵיזֶה זְמַן הַשְּׁמִירָה? יֵשׁ אוֹמְרִים מִשְּׁעַת קְצִירָה, וְיֵשׁ אוֹמְרִים מִשְּׁעַת טְחִינָה.",
+      "it": "Da quando inizia la sorveglianza? Alcuni dicono dal momento della mietitura, altri dicono dal momento della macinazione."
+    },
+    {
+      "n": 6,
+      "he": "הַמַּצָּה הִיא \"לֶחֶם עֹנִי\" — לֶחֶם הָעֲנִיּוּת.",
+      "it": "La matzah è «lechem oni» — il pane dell'afflizione, o anche il pane del povero."
+    },
+    {
+      "n": 7,
+      "he": "לְפִיכָךְ אֵין יוֹצְאִין בְּמַצָּה עֲשִׁירָה — שֶׁנִּלּוֹשָׁה בְּיַיִן אוֹ בְּשֶׁמֶן אוֹ בְּמֵי פֵרוֹת.",
+      "it": "Pertanto non si adempie il comandamento con matzah ashirah (ricca) — che è stata impastata con vino, olio, o succo di frutta."
+    },
+    {
+      "n": 8,
+      "he": "נָשִׁים חַיָּבוֹת בַּאֲכִילַת מַצָּה, שֶׁאַף הֵן הָיוּ בְּאוֹתוֹ הַנֵּס.",
+      "it": "Le donne sono obbligate a mangiare la matzah, poiché anch'esse erano nel medesimo miracolo (dell'Esodo)."
+    },
+    {
+      "n": 9,
+      "he": "שִׁעוּר אֲכִילַת מַצָּה — כְּזַיִת.",
+      "it": "La misura minima per l'adempimento della mitzva di mangiare matzah — è un volume di oliva (kazayit)."
+    },
+    {
+      "n": 10,
+      "he": "אֲכָלָהּ שְׁלוּקָה אוֹ מְבֻשֶּׁלֶת — לֹא יָצָא.",
+      "it": "Se ha mangiato matzah bollita o cotta nell'acqua — non ha adempiuto il comandamento."
+    },
+    {
+      "n": 11,
+      "he": "אֲכָלָהּ כְּשֶׁהִיא אֲפוּיָה — יָצָא.",
+      "it": "Se ha mangiato matzah cotta al forno — ha adempiuto il comandamento."
+    },
+    {
+      "n": 12,
+      "he": "אֲכָלָהּ וְהִיא פְרוּסָה — יָצָא.",
+      "it": "Se ha mangiato matzah spezzata — ha adempiuto il comandamento."
+    },
+    {
+      "n": 13,
+      "he": "לֶחֶם הַפָּנִים אֵין יוֹצְאִין בּוֹ, שֶׁאֵינוֹ לֶחֶם עֹנִי.",
+      "it": "Con il Pane dei Volti (Lechem HaPanim) non si adempie il comandamento, poiché non è lechem oni."
+    },
+    {
+      "n": 14,
+      "he": "עֵרֶב פֶּסַח — אָסוּר לֶאֱכֹל מַצָּה, כְּדֵי שֶׁתְּהֵא אֲכִילָתָהּ בַּלַּיְלָה בְּשִׂמְחָה.",
+      "it": "La vigilia di Pesach — è proibito mangiare matzah, affinché il mangiarla la notte avvenga con gioia."
+    },
+    {
+      "n": 15,
+      "he": "מִי שֶׁאָכַל מַצָּה בְּעֶרֶב פֶּסַח — אֵין לוֹ כָּל מִצְוָה בַּלַּיְלָה.",
+      "it": "Chi ha mangiato matzah alla vigilia di Pesach — non ha più mitzva [di freschezza] per la notte."
+    },
+    {
+      "n": 16,
+      "he": "הַחוֹלֶה שֶׁאֵינוֹ יָכוֹל לֶאֱכֹל מַצָּה — פָּטוּר.",
+      "it": "Il malato che non può mangiare matzah — è esente."
+    },
+    {
+      "n": 17,
+      "he": "קָטָן שֶׁלֹּא הִגִּיעַ לְחִנּוּךְ — פָּטוּר מִן הַמַּצָּה.",
+      "it": "Un bambino che non ha ancora raggiunto l'età dell'educazione alle mitzvot (chinuch) — è esente dalla matzah."
+    },
+    {
+      "n": 18,
+      "he": "אֲבָל חַיָּבִין לְחַנֵּךְ אֶת הַקְּטַנִּים לֶאֱכֹל מַצָּה.",
+      "it": "Ma si è obbligati ad educare i bambini a mangiare la matzah."
+    },
+    {
+      "n": 19,
+      "he": "הָאוֹכֵל מַצָּה בְּשַׁבָּתוֹת וְיָמִים טוֹבִים שֶׁלְּאַחַר פֶּסַח — מִצְוָה.",
+      "it": "Chi mangia matzah nei Shabbatot e nei giorni festivi dopo Pesach — compie una mitzva."
+    },
+    {
+      "n": 20,
+      "he": "כָּל שְׁבַעַת יְמֵי הַפֶּסַח — אֵין חוֹבָה לֶאֱכֹל מַצָּה חוּץ מִלֵּיל רִאשׁוֹן.",
+      "it": "Durante tutti i sette giorni di Pesach — non vi è obbligo di mangiare matzah tranne la notte del primo giorno."
+    }
+  ],
+  "_glossary_terms_used": ["matzah", "matzah shmurah", "lechem oni", "matzah ashirah", "chametz", "Pesach", "Nissan", "kazayit", "chinuch", "Lechem HaPanim"]
+}

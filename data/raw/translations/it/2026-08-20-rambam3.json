@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Parah Adumah 14-15; Hilchot Tumat Tzara'at 1",
+  "name_he": "משנה תורה, הלכות פרה אדומה, פרקים יד-טו; הלכות טומאת צרעת, פרק א",
+  "name_it": "Mishneh Torah, Leggi della Vacca Rossa, capitoli 14-15; Leggi dell'Impurità della Tzara'at, capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-08-20",
+  "hebrew_date": "7 Elul 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "14:1",
+      "he": "המטהר המטהר — זהו עיקר החוק. 'טהור מן הטמא' — שמדבר טמא יצא דבר טהור — זו תמצית הפרה האדומה.",
+      "it": "Il purificatore che purifica — questo è il cuore del chok (statuto). 'Tahor me-tameh' (puro dall'impuro) — che da una cosa impura esca qualcosa di puro — questa è l'essenza della Parah Adumah."
+    },
+    {
+      "n": "14:2",
+      "he": "ועניינה של הפרה — הוא ללמד שגם בתוך החשכה יכול לצמוח אור. וגם מן הטמא — יכול להיוולד הטהור.",
+      "it": "Il senso della vacca rossa — è di insegnare che anche nel buio può germogliare la luce. E anche dall'impuro — può nascere il puro."
+    },
+    {
+      "n": "14:3",
+      "he": "כל הפרטים של הפרה האדומה — חוק הם, ואין להם הסבר שכלי מלא. הם למעלה מן השכל האנושי.",
+      "it": "Tutti i dettagli della Parah Adumah — sono chukim (statuti), e non hanno una spiegazione intellettuale completa. Essi trascendono l'intelletto umano."
+    },
+    {
+      "n": "15:1",
+      "he": "סיכום הלכות פרה אדומה: כל עניני הפרה — מתחילתם ועד סופם — יש בהם משום טהרה מטומאת מת, ויש בהם טומאה לעוסק בהם.",
+      "it": "Riepilogo delle leggi della Parah Adumah: tutti gli aspetti della vacca rossa — dall'inizio alla fine — comportano purificazione dall'impurità cadaverica (tumat met), e comportano impurità per chi vi si occupa. Si concludono le Leggi della Vacca Rossa."
+    },
+    {
+      "n": "1:1",
+      "he": "הצרעת הנאמרת בתורה — אינה המחלה הנקראת 'לפרוזי' בלשון האומות. אלא היא נגע שבא מן השמים, אות ומופת על חטא לשון הרע.",
+      "it": "La tzara'at di cui parla la Torah — non è la malattia chiamata 'lebbra' (lepra) dalle nazioni. È piuttosto un'afflizione miracolosa che viene dall'Alto, un segno e un avvertimento per il peccato della maldicenza (lashon hara)."
+    },
+    {
+      "n": "1:2",
+      "he": "הצרעת יכולה לבוא על עורו של האדם, ועל שערו, ועל בגדיו, ועל ביתו.",
+      "it": "La tzara'at può apparire sulla pelle dell'uomo, sui suoi capelli, sui suoi abiti e sulla sua casa."
+    },
+    {
+      "n": "1:3",
+      "he": "וזהו מסר התורה: שחטא לשון הרע — משפיע על כל ממדי חייו של האדם. מגופו, לבגדיו, לביתו.",
+      "it": "Questo è il messaggio della Torah: il peccato del lashon hara — influisce su tutte le dimensioni della vita dell'uomo. Dal suo corpo, ai suoi abiti, alla sua casa."
+    },
+    {
+      "n": "1:4",
+      "he": "בימי הבית — הכהן בלבד רשאי לקבוע אם הנגע הוא צרעת אם לאו. ובלא הכהן — אין לה טומאה.",
+      "it": "Al tempo del Tempio — soltanto il Kohen aveva il diritto di stabilire se l'afflizione era tzara'at o meno. Senza il Kohen — non aveva impurità."
+    },
+    {
+      "n": "1:5",
+      "he": "בזמן הזה — אין דיני צרעת נוהגים, כי אין בית דין הראוי לכך ואין כהנים הבקיאים בנגעים.",
+      "it": "Ai nostri giorni — le leggi della tzara'at non sono in vigore, poiché non vi è un tribunale (beit din) adeguato e non vi sono Kohanim esperti nelle afflizioni."
+    },
+    {
+      "n": "1:6",
+      "he": "הנגעים באים על שבעה עבירות: לשון הרע, שפיכות דמים, שבועת שקר, גילוי עריות, גאווה, גזל, וצרות עין.",
+      "it": "Le afflizioni (nega'im) vengono a causa di sette trasgressioni: lashon hara (maldicenza), spargimento di sangue, falso giuramento, unioni sessuali proibite, arroganza, furto e avarizia (tzirat ayin)."
+    }
+  ],
+  "_glossary_terms_used": ["chok", "Parah Adumah", "tumat met", "chukim", "tzara'at", "lashon hara", "Kohen", "beit din", "nega'im", "tzirat ayin"]
+}

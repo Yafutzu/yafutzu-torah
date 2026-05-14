@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'aseh HaKorbanot 19; Hilchot Temidim UMusafim 1-2",
+  "name_he": "משנה תורה, הלכות מעשה הקורבנות פרק יט; הלכות תמידין ומוספין פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi della Procedura dei Sacrifici cap. 19; Leggi dei Sacrifici Quotidiani e Aggiuntivi capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-07-17",
+  "hebrew_date": "3 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "19:1",
+      "he": "קָרְבָּן שֶׁנִּטְמָא אַחַר שְׁחִיטָה — בֵּין שֶׁנִּטְמָא הַבָּשָׂר בֵּין שֶׁנִּטְמָא הַדָּם — פָּסוּל לַזְּרִיקָה. אִם זָרְקוּ — לֹא עָלָה לַבְּעָלִים.",
+      "it": "Un sacrificio che divenne impuro dopo la macellazione — sia che la carne sia diventata impura sia che il sangue sia diventato impuro — è invalido per l'aspersione. Se si asperse comunque — non vale come espiazione per il proprietario."
+    },
+    {
+      "n": "19:2",
+      "he": "קָרְבָּן שֶׁנִּטְמָא כֻּלּוֹ — יִשָּׂרֵף. נִטְמָא חֶצְיוֹ — יִשָּׂרֵף הַטָּמֵא, וְהַטָּהוֹר — יֵאָכֵל.",
+      "it": "Un sacrificio completamente impuro — viene bruciato. Se solo metà divenne impura — si brucia la parte impura, e quella pura — viene mangiata dai sacerdoti."
+    },
+    {
+      "n": "19:3",
+      "he": "סִיּוּם הִלְכוֹת מַעֲשֵׂה הַקָּרְבָּנוֹת. סְלִיקוּ הִלְכוֹת מַעֲשֵׂה הַקָּרְבָּנוֹת.",
+      "it": "Si concludono le Leggi della Procedura dei Sacrifici."
+    },
+    {
+      "n": "1:1",
+      "he": "מִצְוַת עֲשֵׂה לְהַקְרִיב שְׁנֵי כְּבָשִׂים בְּכָל יוֹם, אֶחָד בַּבֹּקֶר וְאֶחָד בֵּין הָעַרְבַּיִם — שֶׁנֶּאֱמַר: 'אֶת הַכֶּבֶשׂ הָאֶחָד תַּעֲשֶׂה בַּבֹּקֶר וְאֵת הַכֶּבֶשׂ הַשֵּׁנִי תַּעֲשֶׂה בֵּין הָעַרְבָּיִם'.",
+      "it": "Vi è un commandamento positivo di offrire due agnelli ogni giorno — uno al mattino e uno al tramonto — come è detto: 'L'agnello uno lo farai al mattino, e il secondo agnello lo farai al tramonto' (Esodo 29:39). Questo è il korban tamid (sacrificio quotidiano perpetuo)."
+    },
+    {
+      "n": "1:2",
+      "he": "הַתָּמִיד — קוֹדֵם לְכָל הַקָּרְבָּנוֹת. אֵין מַקְרִיבִין שׁוּם קָרְבָּן קֹדֶם לְתָמִיד שֶׁל שַׁחַר.",
+      "it": "Il tamid ha la precedenza su tutti i sacrifici. Non si offre nessun sacrificio prima del tamid del mattino."
+    },
+    {
+      "n": "1:3",
+      "he": "שְׁנֵי כְּבָשִׂים — בְּנֵי שָׁנָה תְּמִימִים. נִלְווֶה לָהֶם מִנְחָה וָנֶסֶךְ.",
+      "it": "I due agnelli — devono avere meno di un anno e essere perfetti (temimim). Vi si accompagnano un'offerta di farina (minchah) e una libagione (nesech)."
+    },
+    {
+      "n": "2:1",
+      "he": "תָּמִיד שֶׁל שַׁחַר — מִקְרוֹת עֲשָׂיָתוֹ. פִּיֵּס הַכֹּהֵן הַזּוֹכֶה בְּלוֹט לִשְׁחֹט אֶת הַתָּמִיד.",
+      "it": "Il tamid del mattino — il modo della sua esecuzione. Il sacerdote vincitore del sorteggio (pais) è incaricato di macellare il tamid."
+    },
+    {
+      "n": "2:2",
+      "he": "הֵיכָן שׁוֹחֲטִין אוֹתוֹ? בַּצָּפוֹן, בָּרֶבַע הַצְּפוֹנִי שֶׁל עֲזָרַת הַכֹּהֲנִים.",
+      "it": "Dove lo si macella? A nord, nel quarto settentrionale del cortile dei sacerdoti (azarat ha-kohanim)."
+    },
+    {
+      "n": "2:3",
+      "he": "זְמַן הַתָּמִיד — מִשֶּׁיֵּאוֹר פְּנֵי כָּל הַמִּזְרָח. וּמְקַדְּמִין לוֹ כְּדֵי שֶׁיִּהְיֶה מוּכָן בְּעֵת הַנִּיתּוּחַ.",
+      "it": "Il tempo del tamid — da quando l'orizzonte orientale si illumina. Lo si prepara in anticipo affinché sia pronto al momento dell'esame e del sezionamento."
+    }
+  ],
+  "_glossary_terms_used": ["korban tamid", "minchah", "nesech", "pais", "azarat ha-kohanim", "temimim"]
+}

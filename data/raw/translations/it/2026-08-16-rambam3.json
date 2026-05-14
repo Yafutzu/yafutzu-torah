@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Parah Adumah 2-4",
+  "name_he": "משנה תורה, הלכות פרה אדומה, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi della Giovenca Rossa, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-08-16",
+  "hebrew_date": "3 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "מי שורף את הפרה? כוהן — שנאמר 'ונתתם אותה אל אלעזר הכוהן'. כוהן שורף אותה ומתטמא בשריפתה. זה הפרדוקס: הכוהן שמטהר את ישראל — הוא עצמו נטמא.",
+      "it": "Chi brucia la parah adumah? Un kohen — come è detto: 'La darete ad Elazar il kohen' (Bemidbar 19:3). Il kohen la brucia e diventa impuro per mezzo della bruciatura. Questo è il paradosso: il kohen che purifica Israele — diventa egli stesso impuro."
+    },
+    {
+      "n": "2:2",
+      "he": "האם צריך כוהן גדול ודווקא? אמרו חכמים: כוהן גדול — לכתחילה; ואם שרפה כוהן הדיוט — כשרה. ואין הכוהן הגדול צריך ללבוש בגדי כהונה בשעת שריפת הפרה.",
+      "it": "È necessario che sia il Kohen Gadol? I Saggi dissero: il Kohen Gadol — idealmente (lechatchilah); ma se la bruciava un kohen ordinario — è valida. E il Kohen Gadol non deve indossare i vestiti sacerdotali (bigdei kehunah) al momento della bruciatura della parah adumah."
+    },
+    {
+      "n": "3:1",
+      "he": "המים שמשתמשים בהם — צריכים להיות 'מים חיים', כלומר מים שזורמים ממקורם — כגון נהר, מעיין, או מי גשם שזרמו. מים עומדים — פסולים.",
+      "it": "L'acqua utilizzata — deve essere 'acqua viva' (mayim chayyim), ovvero acqua che fluisce dalla propria sorgente — come un fiume, una sorgente o l'acqua piovana che scorra. L'acqua stagnante — è invalida."
+    },
+    {
+      "n": "3:2",
+      "he": "מביאים עץ ארז, אזוב, ושני תולעת — ושורפים אותם יחד עם הפרה. כל אלה — נרמזים בפסוק. עץ ארז — רמז לגאווה; אזוב — שפלות; ושני תולעת — צבע הדם.",
+      "it": "Si portano legno di cedro (etz erez), issopo (ezov) e filo cremisi (sheni tola'at) — e si bruciano insieme alla parah. Tutti questi — sono alludenti al versetto. Il legno di cedro — rimanda all'orgoglio; l'issopo — all'umiltà; il filo cremisi — al colore del sangue."
+    },
+    {
+      "n": "3:3",
+      "he": "שריפת הפרה — על הר הזיתים, ממול ירושלים ומשפת הר הבית. הפרה שרוטה ולא שחוטה — ולא, טריפה היא. שורפים אותה כולה — עם עורה, בשרה, ודמה.",
+      "it": "La bruciatura della parah avviene sul Monte degli Ulivi, di fronte a Gerusalemme e di fronte alla cima del Monte del Tempio. La parah viene sgozzata e non strangolata — altrimenti sarebbe treifah. La si brucia interamente — con la pelle, la carne e il sangue."
+    },
+    {
+      "n": "4:1",
+      "he": "אחרי שנשרפה הפרה ונעשתה אפר — לוקחים את האפר ומערבים אותו עם מים חיים. המים נקראים 'מי חטאת' או 'מי נידה' — מים שיש בהם אפר הפרה.",
+      "it": "Dopo che la parah è stata bruciata e si sono prodotte le ceneri — si preleva la cenere e la si mescola con acqua viva. L'acqua è chiamata 'mei chatat' o 'mei niddah' — acqua che contiene le ceneri della parah."
+    },
+    {
+      "n": "4:2",
+      "he": "כיצד מערבים? לוקחים מים חיים בכלי חרס, ומניחים אפר הפרה על גבי המים, ומערבים. שיעור האפר — כל שהוא; שיעור המים — לוג.",
+      "it": "Come si mescola? Si prende acqua viva in un recipiente di terracotta, si pone sulla sua superficie la cenere della parah e si mescola. La quantità minima di cenere — qualsiasi quantità; la quantità d'acqua — un log."
+    },
+    {
+      "n": "4:3",
+      "he": "מי חטאת — מזים אותם ביד שמאל, עם אזוב. ומכשירים להזות — כוהן טהור. ואם הזה זר — פסול, ואם הזה ימין — לכתחילה בשמאל, ואם הזה בימין — כשר בדיעבד.",
+      "it": "Le mei chatat — si aspergono con la mano sinistra, usando un ramoscello di issopo. Idoneo ad aspergere — solo un kohen puro. Se asperge uno straniero (zar) — è invalido. Si asperge con la mano sinistra idealmente, ma se si è asperso con la mano destra — è valido a posteriori."
+    }
+  ],
+  "_glossary_terms_used": ["kohen", "Kohen Gadol", "bigdei kehunah", "mayim chayyim", "etz erez", "ezov", "sheni tola'at", "mei chatat", "mei niddah", "zar"]
+}

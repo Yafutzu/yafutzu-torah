@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Me'ilah 2-4",
+  "name_he": "משנה תורה, הלכות מעילה, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi della Violazione Sacrilega, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-07-29",
+  "hebrew_date": "15 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "קָדְשֵׁי קָדָשִׁים — מוֹעֲלִין בָּהֶן מִשְּׁעַת הַקְדָּשָׁה. קָדָשִׁים קַלִּים — מוֹעֲלִין בָּהֶן קֹדֶם זְרִיקַת הַדָּם.",
+      "it": "Nelle offerte di massima santità (qodshei qodashim) — la me'ilah si applica dal momento della consacrazione. Nelle offerte di minore santità (qodashim qalim) — la me'ilah si applica prima dell'aspersione del sangue."
+    },
+    {
+      "n": "2:2",
+      "he": "לְאַחַר זְרִיקַת הַדָּם שֶׁל קָדָשִׁים קַלִּים — יָצְאוּ מִמְּעִילָה לִבְעָלִים.",
+      "it": "Dopo l'aspersione del sangue delle qodashim qalim — escono dal regime della me'ilah per i proprietari (possono trarne vantaggio)."
+    },
+    {
+      "n": "2:3",
+      "he": "אֵמוּרֵי קָדָשִׁים קַלִּים — מוֹעֲלִין בָּהֶן לְאַחַר זְרִיקַת הַדָּם.",
+      "it": "Le parti grasse (eimurim) delle qodashim qalim — sono soggette alla me'ilah dopo l'aspersione del sangue."
+    },
+    {
+      "n": "3:1",
+      "he": "כֵּלֵי הַמִּקְדָּשׁ — מוֹעֲלִין בָּהֶן. עֲשָׂאָן לְשׁוּם כָּךְ — מָעַל.",
+      "it": "Gli utensili del Tempio — sono soggetti alla me'ilah. Chi li usa a scopo personale — ha commesso me'ilah."
+    },
+    {
+      "n": "3:2",
+      "he": "אֲבָנֵי הַמִּקְדָּשׁ וְעֵצָיו — מוֹעֲלִין בָּהֶן. אַף שֶׁלֹּא הוּקְדְּשׁוּ בְּפֵרוּשׁ — קְדֻשָּׁת הַמִּקְדָּשׁ חָלָה עֲלֵיהֶן.",
+      "it": "Le pietre e il legname del Tempio — sono soggetti alla me'ilah. Anche se non sono stati espressamente consacrati — la santità del Tempio si applica ad essi."
+    },
+    {
+      "n": "3:3",
+      "he": "מַה שֶּׁנִּשְׁתַּמֵּשׁ בּוֹ מִן הַהֶקְדֵּשׁ — יְשַׁלֵּם דָּמָיו וְחוֹמֶשׁ וְיָבִיא אֲשָׁם.",
+      "it": "Chi usa proprietà del hekdesh — paga il suo valore e un quinto aggiuntivo (chomesh) e porta un asham (sacrificio di colpa)."
+    },
+    {
+      "n": "4:1",
+      "he": "כֹּהֲנִים — מוֹעֲלִין בְּבִגְדֵי כְּהֻנָּה שֶׁלָּהֶן. אִם נֶהֱנוּ בָּהֶן חוּץ לָעֲבוֹדָה — מָעֲלוּ.",
+      "it": "I sacerdoti — commettono me'ilah se usano le proprie vesti sacerdotali al di fuori del servizio nel Tempio."
+    },
+    {
+      "n": "4:2",
+      "he": "לְוִיִּים — בְּכֵלֵי הַשִּׁיר שֶׁלָּהֶן — יֵשׁ בָּהֶן מְעִילָה.",
+      "it": "I Leviti — i loro strumenti musicali sono soggetti alla me'ilah se usati al di fuori del servizio."
+    },
+    {
+      "n": "4:3",
+      "he": "יִשְׂרָאֵל — הַמִּשְׁתַּמֵּשׁ בְּהֶקְדֵּשׁ — חַיָּב מְעִילָה. אֵין הֶפְרֵשׁ בֵּין יִשְׂרָאֵל לְכֹהֵן לְעִנְיַן הַחִיּוּב.",
+      "it": "Un israelita comune — chi usa proprietà del hekdesh — è soggetto alla me'ilah. Non vi è differenza tra un israelita comune e un sacerdote riguardo all'obbligo della me'ilah."
+    }
+  ],
+  "_glossary_terms_used": ["qodshei qodashim", "qodashim qalim", "eimurim", "me'ilah", "hekdesh", "chomesh", "asham", "kohanim", "Leviyim"]
+}

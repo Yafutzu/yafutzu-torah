@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 25",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כה",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 25",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-27",
+  "hebrew_date": "18 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "לְעוֹלָם יִרְאֶה אָדָם עַצְמוֹ כְּאִלּוּ הוּא חֶצְיוֹ חַיָּב וְחֶצְיוֹ זַכַּאי…",
+      "it": "«Una persona deve sempre vedere se stessa come se fosse metà colpevole e metà innocente» (Kiddushin 40b). L'Alter Rebbe prende questo insegnamento talmudico e lo elabora in una visione cosmologica: non solo la persona è «metà e metà» — ma il suo singolo atto può inclinare l'intera bilancia dell'umanità. Questa non è un'esagerazione mistica ma una realtà spirituale: ogni mitzvah e ogni peccato hanno risonanza cosmica."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיוָן שֶׁהָעוֹלָם גַּם כֵּן עוֹמֵד בַּחֲצִי — הֲרֵי מִצְוָה אַחַת מַכְרַעַת…",
+      "it": "Poiché il mondo è anche esso «metà e metà» — una sola mitzvah aggiuntiva inclina l'intera bilancia verso il merito per sé e per il mondo intero. E di conseguenza — una sola transgression può inclinare l'intera bilancia verso la colpa. Questo insegnamento è allo stesso tempo terrificante e liberante: terrificante perché ogni azione conta immensamente; liberante perché nessuna persona è mai «troppo in basso» per fare la differenza — basta una mitzvah."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ טַעַם הַגָּדוֹל בִּדְבַר הִתְרַחֲקוּת מִן הָעֲבֵרָה…",
+      "it": "Questo è il motivo principale per cui ci si deve allontanare dal peccato — non solo per i propri interessi spirituali ma per il bene del mondo intero. L'Alter Rebbe conclude il capitolo con un insegnamento di grande portata etica: il peccato non è un fatto privato. Ogni trasgressione pesa sul mondo. Ogni mitzvah lo sostiene. La persona che si alza di notte per dire Tehillim, che dà una moneta di tzedakah, che trattiene la lingua da una parola di lashon ha-ra — contribuisce a inclinare il mondo verso la redenzione."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mitzvah", "tzedakah", "lashon ha-ra", "Tehillim", "geulah"
+  ]
+}

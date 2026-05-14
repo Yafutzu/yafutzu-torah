@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 20",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כ",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 20",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-12",
+  "hebrew_date": "1 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "רֹאשׁ חֹדֶשׁ — חִדּוּשׁ הַלְּבָנָה — חִדּוּשׁ יִשְׂרָאֵל…",
+      "it": "Rosh Chodesh (Capomese — 1 Cheshvan, oggi) — il rinnovamento della luna è il rinnovamento di Israele. «Chiddush ha-levanah — chiddush Yisrael» — il popolo d'Israele è paragonato alla luna: proprio come la luna diminuisce e poi si rinnova ogni mese, così Israele attraversa cicli di oscurità e rinnovamento. L'Alter Rebbe insegna che Rosh Chodesh è una «teshuvah» mensile — un ritorno alla luce originale, un ricominciamento. In questo 1 Cheshvan — il mese di Cheshvan inizia il suo ciclo di rinnovamento."
+    },
+    {
+      "n": 2,
+      "he": "מַר חֶשְׁוָן — חֹדֶשׁ בְּלִי מוֹעֲדִים — עֲבוֹדָה טְהוֹרָה…",
+      "it": "Il mese di Cheshvan — chiamato anche «Mar Cheshvan» (il Cheshvan amaro) perché è l'unico mese dell'anno senza alcuna festività. L'Alter Rebbe insegna che proprio questa «amertà» è in realtà la sua grandezza: Cheshvan è il mese della «avodat Hashem pura» (servizio di Dio puro) — senza l'aiuto delle feste, senza i «sostegni» spirituali del mese di Tishrei (Rosh Hashanah, Yom Kippur, Sukkot, Simchat Torah). In Cheshvan l'ebreo serve D-o solo per amore, solo per essere se stesso davanti al Suo Creatore."
+    },
+    {
+      "n": 3,
+      "he": "רֹאשׁ חֹדֶשׁ כְּרֹאשׁ הַשָּׁנָה הַקָּטָן — מוּסַף וְהַלֵּל…",
+      "it": "Rosh Chodesh come «piccolo Rosh Hashanah» — vi è l'aggiunta del Mussaf (preghiera aggiuntiva) e dello Hallel (lode) nella liturgia. L'Alter Rebbe spiega che il Mussaf di Rosh Chodesh corrisponde al servizio aggiuntivo di Rosh Hashanah — entrambi esprimono il potenziale di rinnovamento dell'anima. In questo primo giorno di Cheshvan, il chasid inizia un nuovo mese con simchah (gioia) — la gioia sobria del servizio quotidiano, non quella esaltata delle feste, ma non meno reale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Rosh Chodesh", "chiddush ha-levanah", "Mar Cheshvan", "avodat Hashem", "Mussaf", "Hallel", "simchah", "teshuvah"
+  ]
+}

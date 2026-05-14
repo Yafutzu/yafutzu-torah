@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Pesulei HaMukdashim 2-4",
+  "name_he": "משנה תורה, הלכות פסולי המוקדשין, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi delle Offerte Invalide, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-07-21",
+  "hebrew_date": "7 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "הַשּׁוֹחֵט קָדָשִׁים בַּחוּץ — לוֹקֶה. שֶׁנֶּאֱמַר: 'וְאֶל פֶּתַח אֹהֶל מוֹעֵד לֹא הֱבִיאוֹ'.",
+      "it": "Chi macella animali sacri al di fuori [del Tempio] — viene flagellato, come è detto: 'E all'ingresso della Tenda del Convegno non lo ha portato' (Levitico 17:4)."
+    },
+    {
+      "n": "2:2",
+      "he": "שׁוֹחֵט בַּחוּץ בְּזָדוֹן — חַיָּב כָּרֵת. בִּשְׁגָגָה — חַיָּב חַטָּאת.",
+      "it": "Chi macella fuori dal Tempio deliberatamente — è soggetto al karet (recisione spirituale). Involontariamente — deve portare un chatat (offerta per il peccato)."
+    },
+    {
+      "n": "2:3",
+      "he": "הַמַּעֲלֶה בַּחוּץ — חַיָּב עָלֶיהָ בְּפָנֶיהָ. הַשּׁוֹחֵט בַּחוּץ וּמַעֲלֶה בַּחוּץ — שְׁתֵּי עֲבֵרוֹת.",
+      "it": "Chi offre sull'altare all'esterno — è responsabile di essa separatamente. Chi macella fuori e offre fuori — commette due trasgressioni distinte."
+    },
+    {
+      "n": "3:1",
+      "he": "מְעִילָה — הַנֶּהֱנֶה מֵהֶקְדֵּשׁ בְּשׁוֹגֵג — מְשַׁלֵּם אֶת הַקֶּרֶן וְחוֹמֶשׁ, וּמֵבִיא אַשַׁם מְעִילוֹת.",
+      "it": "Me'ilah — chi trae vantaggio da proprietà consacrata al Tempio involontariamente — paga il valore del bene più un quinto (chomesh), e porta un sacrificio di colpa (asham me'ilot)."
+    },
+    {
+      "n": "3:2",
+      "he": "מָה חַיָּב בִּמְעִילָה? כָּל הֶקְדֵּשׁ שֶׁיֵּשׁ לוֹ פִּדְיוֹן — יֵשׁ בּוֹ מְעִילָה.",
+      "it": "Cosa è soggetto alla me'ilah? Ogni bene consacrato che ha un valore di riscatto (pidyon) — è soggetto alla me'ilah."
+    },
+    {
+      "n": "3:3",
+      "he": "קָדְשֵׁי קָדָשִׁים — מוֹעֲלִין בָּהֶן מִשְּׁחִיטָה וְלִפְנֵי שְׁחִיטָה. קָדָשִׁים קַלִּים — מוֹעֲלִין בָּהֶן קֹדֶם זְרִיקַת הַדָּם.",
+      "it": "Le offerte di massima santità (qodshei qodashim) — sono soggette alla me'ilah sia prima che dopo la macellazione. Le offerte di minore santità (qodashim qalim) — solo prima dell'aspersione del sangue."
+    },
+    {
+      "n": "4:1",
+      "he": "קָרְבָּן שֶׁאָבַד וְנִמְצָא — אִם כְּבָר נִשְׁחַט תַּחְתָּיו — שְׁנֵיהֶם יִרְעוּ עַד שֶׁיִּסְתָּאֲבוּ וְיִמָּכְרוּ.",
+      "it": "Un sacrificio che è andato perduto e poi trovato — se nel frattempo è già stato macellato un sostituto — entrambi pascolano finché si procurino un difetto e vengono venduti, con il ricavato usato per acquistare altri sacrifici."
+    },
+    {
+      "n": "4:2",
+      "he": "אִם לֹא נִשְׁחַט תַּחְתָּיו — הָרִאשׁוֹן יִקְרַב, וְהַשֵּׁנִי יִרְעֶה.",
+      "it": "Se non è stato ancora macellato nessun sostituto — il primo viene offerto, e il secondo pascolerà finché si procuri un difetto."
+    },
+    {
+      "n": "4:3",
+      "he": "כַּפָּרָה — שֶׁנֶּחְשֶׁבֶת לְבַעְלִים רַק כְּשֶׁנִּזְרַק הַדָּם בִּכְשָׁרוּת עַל גַּבֵּי הַמִּזְבֵּחַ.",
+      "it": "L'espiazione (kapparah) è accreditata al proprietario solo quando il sangue viene aspersso validamente sull'altare."
+    }
+  ],
+  "_glossary_terms_used": ["shechitah", "karet", "chatat", "me'ilah", "asham me'ilot", "pidyon", "qodshei qodashim", "qodashim qalim", "kapparah"]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Klei HaMikdash 9-10; Hilchot Bi'at HaMikdash 1",
+  "name_he": "משנה תורה, הלכות כלי המקדש פרקים ט-י; הלכות ביאת המקדש פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Vasi del Santuario cap.9-10; Leggi dell'Ingresso nel Santuario cap.1",
+  "cycle": "rambam-3",
+  "date": "2026-07-05",
+  "hebrew_date": "20 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "כֹּהֵן גָּדוֹל — חַיָּב לִשָּׂא אִשָּׁה בְּתוּלָה, שֶׁנֶּאֱמַר: \"וְהוּא אִשָּׁה בִּבְתוּלֶיהָ יִקָּח\".",
+      "it": "Il Kohen Gadol — è obbligato a sposare una vergine, come è detto: «Ed egli prenderà come moglie una vergine» (Vayikra 21:13)."
+    },
+    {
+      "n": "9:2",
+      "he": "בְּיוֹם הַכִּפּוּרִים — הַכֹּהֵן גָּדוֹל עוֹבֵד בִּבְגָדֵי לָבָן, שֶׁהֵן שֵׁשׁ בִּלְבַד.",
+      "it": "Nello Yom Kippur — il Kohen Gadol officia in vestiti di lino bianco (bigdei lavan), che sono solo di lino."
+    },
+    {
+      "n": "9:3",
+      "he": "שֵׁרוּת הַכֹּהֵן גָּדוֹל בְּיוֹם הַכִּפּוּרִים — הוּא הַשֵּׁרוּת הַמְּיוּחָד לְיוֹם זֶה, בְּקֹדֶשׁ הַקֳּדָשִׁים.",
+      "it": "Il servizio del Kohen Gadol nello Yom Kippur — è il servizio speciale di questo giorno, nel Santo dei Santi (Kodesh HaKodashim)."
+    },
+    {
+      "n": "10:1",
+      "he": "כֹּהֵן אוֹנֵן — אָסוּר לַעֲבוֹד. וְכֹהֵן גָּדוֹל — מֻתָּר לַעֲבוֹד אַף בְּיוֹם מִיתַת קְרוֹבוֹ.",
+      "it": "Un kohen in lutto immediatamente dopo la morte (onen) — è proibito officiare. Ma il Kohen Gadol — può officiare anche nel giorno della morte di un suo parente stretto."
+    },
+    {
+      "n": "10:2",
+      "he": "כֹּהֵן הֶדְיוֹט אוֹנֵן — אֵינוֹ עוֹבֵד, אֲבָל אוֹכֵל בְּקָדְשֵׁי קָדָשִׁים בַּלַּיְלָה.",
+      "it": "Un kohen comune in stato di onen — non officia, ma può mangiare i kodshei kodashim (sacrifici di santità superiore) di notte."
+    },
+    {
+      "n": "10:3",
+      "he": "סִיּוּם: סִי קוֹנְקְלוּדוֹנוֹ לֶה לֶגִּי דֵי וַזִּי דֶל סַנְטוּאָרִיוֹ וְדֵי סוּוֹאִי אוּפִיצְ'יַאנְטִי.",
+      "it": "Si concludono le Leggi dei Vasi del Santuario e dei suoi Officianti (Hilchot Klei HaMikdash VeHaOvdim Bo)."
+    },
+    {
+      "n": "1:1",
+      "he": "כָּל טָמֵא שֶׁנִּכְנַס לַמִּקְדָּשׁ — חַיָּב כָּרֵת.",
+      "it": "Qualunque persona impura (tameh) che entra nel Tempio — è passibile di karet."
+    },
+    {
+      "n": "1:2",
+      "he": "אֵיזֶה טֻמְאוֹת אֲסוּרוֹת לְבוֹא לַמִּקְדָּשׁ? שֵׁשׁ עֶשְׂרֵה טֻמְאוֹת.",
+      "it": "Quali impurità proibiscono l'entrata al Tempio? Sedici tipi di impurità."
+    },
+    {
+      "n": "1:3",
+      "he": "בַּעַל קֶרִי שֶׁנִּכְנַס לַמִּקְדָּשׁ — חַיָּב כָּרֵת. אֲבָל לְהַר הַבַּיִת — אֵינוֹ חַיָּב כָּרֵת אֶלָּא לָאו.",
+      "it": "Il ba'al keri (impuro per emissione) che entra nel Tempio — è passibile di karet. Ma nel Monte del Tempio — è passibile solo di un divieto (lav), non di karet."
+    },
+    {
+      "n": "1:4",
+      "he": "מְצֹרָע — אָסוּר לְהִכָּנֵס אֲפִלּוּ לִירוּשָׁלַיִם.",
+      "it": "Il metzora (colpito da tzara'at) — è proibito dall'entrare anche solo a Gerusalemme."
+    },
+    {
+      "n": "1:5",
+      "he": "טְמֵא מֵת — אָסוּר לְהִכָּנֵס לָעֲזָרָה. לְהַר הַבַּיִת — יֵשׁ מַחֲלֹקֶת.",
+      "it": "L'impuro per contatto con il morto (tameh met) — è proibito dall'entrare nell'Ezrah (cortile interno). Nel Monte del Tempio — vi è disputa [tra le autorità halachiche]."
+    },
+    {
+      "n": "1:6",
+      "he": "כֹּהֵן שֶׁנִּטְמָא — חַיָּב לָצֵאת מִמִּיָּד מֵהַמִּקְדָּשׁ.",
+      "it": "Un kohen che è diventato impuro — è obbligato a uscire immediatamente dal Tempio."
+    }
+  ],
+  "_glossary_terms_used": ["Kohen Gadol", "bigdei lavan", "Yom Kippur", "Kodesh HaKodashim", "onen", "karet", "tameh", "tum'ah", "ba'al keri", "metzora", "tzara'at", "tameh met", "Ezrah", "Har HaBayit", "kodshei kodashim", "lav"]
+}

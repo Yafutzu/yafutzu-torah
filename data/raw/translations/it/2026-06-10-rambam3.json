@@ -1,0 +1,127 @@
+{
+  "ref": "Mishneh Torah, Terumot 7-9",
+  "name_he": "הלכות תרומות פרקים ז'-ט'",
+  "name_it": "Leggi della Terumah, Capitoli 7–9",
+  "cycle": "rambam-3",
+  "date": "2026-06-10",
+  "hebrew_date": "25 Sivan 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "7:1",
+      "he": "זָר שֶׁאָכַל תְּרוּמָה בְּשׁוֹגֵג",
+      "it": "Un non-kohen (zar, זָר) che mangia terumah per errore (bishgagah, בִּשְׁגָגָה) — senza sapere che era terumah — deve pagare il valore del cibo più un quinto aggiuntivo (chomesh, חוֹמֶשׁ). Si basa su Lev. 22:14: 'E un uomo se mangerà terumah per errore, aggiungerà il suo quinto'. Questo pagamento va al kohen."
+    },
+    {
+      "n": "7:2",
+      "he": "הַמַּשְׁלֵם קֶרֶן וְחוֹמֶשׁ",
+      "it": "Il principio del keren (קֶרֶן — capitale/valore principale) più un chomesh (חוֹמֶשׁ — un quinto) è parallelo ad altre leggi di restituzione nella Torah (gezel, גֶּזֶל — furto; me'ilah, מְעִילָה — uso sacrilego). Il quinto aggiuntivo compensa il kohen per il fastidio e la perdita."
+    },
+    {
+      "n": "7:3",
+      "he": "חוֹמֶשׁ שֶׁהוּא חֹמֶשׁ",
+      "it": "Il 'quinto' (chomesh) si calcola come un quinto del totale, non un quarto del valore originale. Cioè: se il valore era 4, si paga 5 in totale (4+1), dove l'aggiunta è un quinto del totale di 5. Questo è il modo corretto di calcolare il 'chomesh' in tutta la Torah."
+    },
+    {
+      "n": "7:4",
+      "he": "בַּמֶּה מְשַׁלֵּם",
+      "it": "Con cosa si paga il keren e il chomesh? In denaro o prodotti del valore equivalente. Non è necessario pagare con lo stesso tipo di prodotto mangiato. L'importante è che il valore sia corrispondente al mercato al momento del pagamento."
+    },
+    {
+      "n": "7:5",
+      "he": "בֵּין שֶׁהָיָה הַכֹּהֵן",
+      "it": "Si paga il rimborso al kohen indipendentemente dal fatto che il kohen sia adulto o minore, sia che la terumah fosse sua o di un altro kohen. Il rimborso va al kohen che subisce la perdita al momento del mangiare la terumah."
+    },
+    {
+      "n": "7:6",
+      "he": "הַמַּאֲכִיל אֶת הַזָּר",
+      "it": "Il kohen che ha dato la sua terumah a un non-kohen sapendo che è non-kohen — ha violato il divieto ma il non-kohen che mangia per errore paga comunque il rimborso. Il fatto che il kohen abbia dato erroneamente non esonera il non-kohen dal pagamento."
+    },
+    {
+      "n": "7:7",
+      "he": "מִי שֶׁאָכַל תְּרוּמָה בְּמֵזִיד",
+      "it": "Chi mangia terumah deliberatamente (bemezid, בְּמֵזִיד) — sapendo che era terumah e che lui è un non-kohen — è punibile con la flagellazione (malkot, מַלְקוֹת). Non paga il rimborso del keren e chomesh, poiché i Saggi insegnarono: 'non si punisce sia con la pena fisica che con quella monetaria' ('ein kenas la'ein kenas', אֵין כָּנָס לְאֵין כָּנָס)."
+    },
+    {
+      "n": "8:1",
+      "he": "מִי הוּא זָר לְעִנְיַן תְּרוּמָה",
+      "it": "Chi è considerato 'zar' — straniero rispetto alla terumah? Chiunque non è kohen. Questo include: israeliti comuni, leviti, proseliti (gerim, גֵּרִים), e persino il figlio di un kohen da una madre non idonea (chalal, חָלָל — kohen declassato). Tutti questi non possono mangiare terumah."
+    },
+    {
+      "n": "8:2",
+      "he": "כֹּהֶנֶת שֶׁנִּשֵּׂאת לְיִשְׂרָאֵל",
+      "it": "Una figlia di kohen (kohenet, כֹּהֶנֶת) che ha sposato un israelita è zara rispetto alla terumah durante il matrimonio. Se il marito muore e lei non ha figli — ritorna alla casa del padre e riprende il diritto alla terumah."
+    },
+    {
+      "n": "8:3",
+      "he": "הַחָלָל",
+      "it": "Il chalal (חָלָל — kohen declassato a causa di un'unione proibita del padre kohen) è zar rispetto alla terumah anche se suo padre è kohen. La discendenza del chalal è chalal in perpetuo per le donne e non viene purificata."
+    },
+    {
+      "n": "8:4",
+      "he": "עֶבֶד כֹּהֵן",
+      "it": "Lo schiavo di un kohen (eved kohen, עֶבֶד כֹּהֵן) acquisisce il diritto di mangiare terumah per appartenenza alla casa del kohen (Lev. 22:11). Lo schiavo 'kena'ani' (כְּנַעֲנִי — schiavo non ebreo permanente) di un kohen può mangiare terumah."
+    },
+    {
+      "n": "8:5",
+      "he": "שְׂכִיר הַכֹּהֵן",
+      "it": "Il lavoratore salariato (sachir, שָׂכִיר) del kohen — anche se è israelita — non può mangiare terumah, poiché non fa parte della 'famiglia' del kohen come lo schiavo. La Torah distingue esplicitamente tra lo schiavo permanente (che mangia) e il lavorante temporaneo (che non mangia)."
+    },
+    {
+      "n": "8:6",
+      "he": "תּוֹשָׁב וְשָׂכִיר",
+      "it": "Il toshav (תּוֹשָׁב — residente temporaneo) e il sachir (שָׂכִיר — lavorante salariato) — anche se vivono nella casa del kohen — non mangiano terumah. Questo è esplicito nel versetto (Lev. 22:10)."
+    },
+    {
+      "n": "9:1",
+      "he": "כֵּיצַד מְשַׁלֵּם",
+      "it": "Come si paga il rimborso della terumah mangiata per errore? Se il prodotto è ancora disponibile — si dà dello stesso tipo. Se non è disponibile — si dà il valore monetario al prezzo del mercato locale al momento del pagamento."
+    },
+    {
+      "n": "9:2",
+      "he": "שִׁעוּר כְּזַיִת",
+      "it": "Il rimborso è obbligatorio solo se si è mangiato almeno un 'kezayit' (כְּזַיִת — il volume di un'oliva, circa 30 ml). Per quantità minori di un kezayit, non c'è obbligo di pagamento. Questo è il principio generale per la maggior parte degli obblighi alimentari della Torah."
+    },
+    {
+      "n": "9:3",
+      "he": "אָכַל פָּחוֹת מִכַּזַּיִת",
+      "it": "Chi ha mangiato meno di un kezayit di terumah per errore — non paga il keren e chomesh, poiché la quantità è al di sotto della soglia di obbligo. Tuttavia ha comunque commesso una trasgressione rabbinica e deve fare teshuvah."
+    },
+    {
+      "n": "9:4",
+      "he": "שְׁנַיִם שֶׁאָכְלוּ",
+      "it": "Se due non-kohanim hanno mangiato insieme della terumah per errore — ognuno paga per la propria parte mangiata. Non c'è solidarietà di pagamento (acharayut, אַחֲרָיוּת) tra di loro per l'obbligo del rimborso."
+    },
+    {
+      "n": "9:5",
+      "he": "אָכַל וְחָזַר וְאָכַל",
+      "it": "Chi ha mangiato terumah per errore, ha pagato il rimborso, e poi ha mangiato di nuovo per errore — paga nuovamente per ogni episodio separato. Ogni atto di mangiare per errore è un'obbligazione separata di pagamento."
+    },
+    {
+      "n": "9:6",
+      "he": "הַמְּשַׁלֵּם תְּרוּמָה",
+      "it": "Chi paga il rimborso per la terumah mangiata non trasforma il denaro in terumah. Il denaro va al kohen come rimborso secolare (kesef chullin, כֶּסֶף חוּלִין — denaro profano). Solo il prodotto agricolo designato come terumah ha la santità della terumah."
+    },
+    {
+      "n": "9:7",
+      "he": "תְּרוּמָה שֶׁנֶּאֱכְלָה בְּאֹנֶס",
+      "it": "La terumah mangiata sotto costrizione (ones, אוֹנֶס) — ad esempio qualcuno fu costretto a mangiare — il non-kohen non paga il rimborso poiché non ha agito per sua scelta. La responsabilità richiede libertà di azione."
+    },
+    {
+      "n": "9:8",
+      "he": "אָכַל תְּרוּמָה בְּסָפֵק",
+      "it": "Chi ha mangiato qualcosa di dubbio (safek, סָפֵק) — forse terumah, forse chulin (חוּלִין — prodotto profano) — non paga il rimborso del keren e chomesh poiché c'è dubbio. Paga comunque il valore dell'incertezza al kohen come precauzione."
+    },
+    {
+      "n": "9:9",
+      "he": "הַמַּאֲכִיל תְּרוּמָה לְאֲנָשִׁים",
+      "it": "Chi ha nutrito altri con terumah senza che lo sapessero — è lui stesso responsabile del rimborso, poiché ha causato la violazione. 'Ba'al haterumah' (בַּעַל הַתְּרוּמָה — il proprietario della terumah) che ha causato il mangiare altrui è responsabile."
+    },
+    {
+      "n": "9:10",
+      "he": "כֹּהֵן שֶׁאָכַל שֶׁלּוֹ",
+      "it": "Il kohen che ha mangiato la propria terumah quando era in stato di impurità (tumah, טוּמְאָה) — ha violato un divieto grave ma non paga il keren e chomesh. Il pagamento è solo per il non-kohen che mangia terumah per errore, non per il kohen impuro. Il kohen impuro che mangia terumah rischia la 'mitah bidei shamayim' (מִיתָה בִּידֵי שָׁמַיִם — morte per mano del Cielo)."
+    }
+  ],
+  "_glossary_terms_used": ["zar", "bishgagah", "chomesh", "keren", "gezel", "me'ilah", "malkot", "bemezid", "gerim", "chalal", "kohenet", "eved kohen", "sachir", "toshav", "kezayit", "acharayut", "ones", "safek", "chulin", "tumah", "mitah bidei shamayim", "ba'al haterumah"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 7",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ז",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 7",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-10",
+  "hebrew_date": "25 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ז: עַל הַמַּשְׁמָעוּת הַפְּנִימִית שֶׁל \"כַּוָּנָה\" (כַּוָּנָה) בִּתְפִלָּה וּמִצְווֹת. הַשְּׁאֵלָה: הַאִם כַּוָּנָה מְעַכֶּבֶת? כְּלוֹמַר, הַאִם בְּלִי כַּוָּנָה — הַתְּפִלָּה וְהַמִּצְוָה בְּטֵלוֹת?",
+      "it": "Saggio 7: Sul significato interiore della «kavanah» (intenzione) nella preghiera e nelle mitzvot. La domanda: la kavanah è indispensabile (meakevet)? Ovvero, senza kavanah — la preghiera e la mitzva sono nulle?"
+    },
+    {
+      "n": 2,
+      "he": "הַמַּסְקָנָה: בְּדִיעֲבַד — אִם לֹא הִתְכַּוֵּן — יָצָא יְדֵי חוֹבָה (מִן הַהֲלָכָה). אֲבָל לְכַתְּחִלָּה — חַיָּב לְכַוֵּן. שְׁלוֹשָׁה מַדְרֵגוֹת שֶׁל כַּוָּנָה: בְּמִינִימוּם — לֵדַע שֶׁהוּא עוֹמֵד לִפְנֵי הַמֶּלֶךְ; בְּאֶמְצַע — לְהִתְבּוֹנֵן בַּמַּשְׁמָעוּת; בְּשִׁלֵּמוּת — דְּבֵקוּת מַמָּשׁ.",
+      "it": "La conclusione: dopo il fatto (bedi'avad) — se non aveva intenzione — ha comunque adempiuto (secondo la halachah). Ma idealmente (lechatchilah) — deve avere intenzione. Tre livelli di kavanah: al minimo — sapere che si è al cospetto del Re; a un livello intermedio — meditare sul significato; nella pienezza — vera dvekut (attaccamento)."
+    },
+    {
+      "n": 3,
+      "he": "הַמִּינִימוּם שֶׁל כַּוָּנָה — שֶׁיֵּדַע שֶׁהוּא מִתְפַּלֵּל לִפְנֵי הַמֶּלֶךְ הָעֶלְיוֹן. זֶה כְּבָר מוֹצִיא אֶת הַתְּפִלָּה מִמַּסָּה שֶׁל דִּבּוּר בֶּלְּבַד לְמַסָּה שֶׁל עֲבוֹדָה אֲמִיתִּית.",
+      "it": "Il minimo della kavanah — sapere che si sta pregando davanti al Re Supremo. Questo già trasforma la preghiera da mera articolazione di parole a un vero servizio divino (avodah)."
+    }
+  ],
+  "_glossary_terms_used": ["kavanah", "tefillah", "mitzvot", "meakevet", "bedi'avad", "lechatchilah", "dvekut", "avodah", "Kuntres Acharon"]
+}

@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 12",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק יב",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 12",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-05",
+  "hebrew_date": "26 Kislev 5787 — Chanukah giorno 2",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אַחַר שֶׁשּׁוֹחֲטִין — בּוֹדְקִין הָרֵאָה תְּחִלָּה...",
+      "it": "Dopo la shechitah si esaminano (bodkin) gli organi interni alla ricerca di difetti che renderebbero l'animale una treifah (animale con difetto fatale, proibito). L'esame inizia dai polmoni (re'ah), che sono il primo organo da controllare. I polmoni sono il principale sito di difetti (mumin) che rendono l'animale treifah. La bedikah (esame post-shechitah) è halachicamente obbligatoria per ogni animale domestico (behemah)."
+    },
+    {
+      "n": 2,
+      "he": "הָרֵאָה שֶׁנִּמְצְאָה חֲסֵרָה אֶחָד מֵאֻנּוֹתֶיהָ...",
+      "it": "Se nei polmoni manca uno dei lobi (unot) — l'animale è treifah. I polmoni bovini hanno normalmente cinque lobi; la mancanza di uno (chasoret) li invalida. I polmoni ovini hanno due lobi principali. L'esame della tradizione ashkenazita include anche la «glattkeit» (superficie liscia dei polmoni) — se i polmoni sono completamente privi di aderenze (sirchot), l'animale è «glatt kosher» (chalak in ebraico). La tradizione sefardita permette sirchot rimosse con facilità (sirchot she'efshar le-happiram)."
+    },
+    {
+      "n": 3,
+      "he": "סִירְכָא שֶׁנִּמְצְאָה בָּרֵאָה — יֵשׁ בָּהּ דֵּין...",
+      "it": "Un'aderenza (sirchah) trovata nei polmoni — ha leggi specifiche. Se l'aderenza corre dal lobo verso la trachea o il diaframma — è treifah. Se corre tra due lobi — secondo alcuni autorità è treifah, secondo altri è kosher. Se l'aderenza è completamente liscia e può essere rimossa senza che il polmone perda aria — alcuni la permettono. Questa è la questione cardine della distinzione tra «glatt» e «non-glatt»."
+    },
+    {
+      "n": 4,
+      "he": "הַקֵּיבָה וְהַדַּקִּין — נִבְדָּקִין אַחַר הָרֵאָה...",
+      "it": "Lo stomaco (keivah) e le intestine (dakin) vengono esaminati dopo i polmoni. Un foro (nekev) nello stomaco o nelle intestine — rende l'animale treifah. Se le intestine sono perforate prima del primo quarto — treifah. Se la perforazione è nel secondo quarto — dipende dalle circostanze. L'esame delle intestine non è universalmente praticato in tutte le comunità; in molte comunità sefardite si esamina principalmente il fegato, i polmoni e la milza."
+    },
+    {
+      "n": 5,
+      "he": "הַכֶּבֶד — אִם נִטְּלָה כֻּלָּהּ — טְרֵפָה...",
+      "it": "Se il fegato (kaved) mancasse completamente — treifah. Se rimane almeno una piccola quantità di fegato connessa alla cistifellea — kosher be-diavad. I reni (kelayot) — se mancano entrambi — treifah; se manca uno solo — kosher. La milza (techol) — la sua mancanza non rende treifah. L'utero (rechem) — la sua mancanza non rende l'animale treifah. Nota di Chanukah: due candele illuminano questa sera — così come due reni lavorano in tandem, la vittoria di Chanukah ha avuto due dimensioni: quella militare (la sconfitta dei Greci) e quella spirituale (la restituzione del Tempio al culto)."
+    },
+    {
+      "n": 6,
+      "he": "הַטְּחוֹל שֶׁנִּטַּל — כְּשֵׁרָה...",
+      "it": "La milza (techol) — se è stata rimossa o manca — l'animale è kosher, poiché la sua assenza non è una delle diciotto categorie classiche di treifah. Allo stesso modo, la rimozione dell'utero (rechem) non invalida l'animale. Queste distinzioni dimostrano che la lista delle treifot è precisa e tassativa — solo i difetti specifici elencati dalla tradizione rendono un animale treifah, non qualsiasi anomalia anatomica. Il Rambam sottolinea: «tutto ciò che non è nell'elenco — è kosher»."
+    }
+  ],
+  "_glossary_terms_used": [
+    "treifah", "re'ah", "bedikah", "behemah", "unot", "chasoret", "sirchot", "glatt kosher", "chalak", "sirchah", "nekev", "keivah", "dakin", "kaved", "kelayot", "techol", "rechem", "mumin"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 19",
+  "name_he": "משנה תורה, הלכות אישות, פרק יט",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 19",
+  "cycle": "rambam-1",
+  "date": "2026-09-11",
+  "hebrew_date": "29 Elul 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {"n": 1, "he": "נִשְׁטֵית הָאִשָּׁה — אֵין מְגָרְשִׁין אוֹתָהּ, כְּדֵי שֶׁלֹּא יִהְיֶה פֶּתַח לְכָל אָדָם לְגָרְשָׁהּ וְהִיא אֵינָהּ יְכוֹלָה לִשְׁמֹר עַל עַצְמָהּ.", "it": "Se la moglie è diventata mentalmente malata — non la si può divorziare, affinché non si apra una via per chiunque di divorziare e lei non possa proteggersi."},
+    {"n": 2, "he": "וְכֵן הַתַּקָּנָה — לִמְנֹעַ מִן הַבַּעַל לְגָרֵשׁ אֶת אִשְׁתּוֹ הַשּׁוֹטָה.", "it": "E così il decreto — per impedire al marito di divorziare dalla moglie pazza."},
+    {"n": 3, "he": "כָּל זְמַן שֶׁהִיא שׁוֹטָה — חַיָּב בְּמְזוֹנוֹתֶיהָ וּבִכְסוּתָהּ.", "it": "Per tutto il tempo che è pazza — è obbligato al suo sostentamento e abbigliamento."},
+    {"n": 4, "he": "הִבְרִיאָה — חוֹזֵר הַדִּין הָרָגִיל, וְיָכוֹל לְגָרְשָׁהּ כְּדִין.", "it": "Se è guarita — ritorna il diritto normale, e può divorziare secondo la legge."},
+    {"n": 5, "he": "נִשְׁטֵּיתָה לְאַחַר שֶׁקִּבֵּל אֶת הַגֵּט — הַגֵּט חָל, שֶׁהִיא הָיְתָה שְׁפוּיָה בְּשָׁעַת קַבָּלָתוֹ.", "it": "Se è diventata pazza dopo aver ricevuto il get — il get è valido, poiché era sana di mente al momento della sua ricezione."},
+    {"n": 6, "he": "שׁוֹטָה שֶׁנִּשֵּׂאת — אֵינָהּ נִשֵּׂאת קִדּוּשִׁין גְּמוּרִין, וְאֵין הַגֵּט מוֹעִיל לָהּ.", "it": "Una pazza che si è sposata — non si è sposata con un kiddushin completo, e il get non serve per lei."},
+    {"n": 7, "he": "הָיְתָה שְׁפוּיָה בְּשָׁעַת קִדּוּשִׁין וְנִשְׁטֵּיתָה לְאַחַר מִכֵּן — צְרִיכָה גֵּט לְהַתִּירָהּ.", "it": "Se era sana di mente al momento del kiddushin e poi è diventata pazza — ha bisogno di un get per essere libera."},
+    {"n": 8, "he": "אֶלָּא שֶׁאֵין נוֹתְנִין לָהּ גֵּט כְּשֶׁהִיא שׁוֹטָה, כְּדֵי שֶׁלֹּא תֵּשֵׁב עֲגוּנָה.", "it": "Ma non le si dà il get mentre è pazza, affinché non rimanga agunah."},
+    {"n": 9, "he": "וְהִיא הַבְּעָיָה הַקְּשָׁה שֶׁל 'אִגֶּרֶת עֲגוּנָה' — כְּשֶׁהַבַּעַל אֵינוֹ יָכוֹל לְגָרֵשׁ וְהָאִשָּׁה אֵינָהּ יְכוֹלָה לְהִנָּשֵׂא.", "it": "E questo è il difficile problema dell'iggeret agunah — quando il marito non può divorziare e la moglie non può risposarsi."},
+    {"n": 10, "he": "בְּמָקוֹם שֶׁהַבַּעַל הוּא הַשּׁוֹטֶה — כּוֹפִין אוֹתוֹ לְגָרֵשׁ.", "it": "Nel caso in cui sia il marito ad essere pazzo — lo si costringe a divorziare."},
+    {"n": 11, "he": "שׁוֹטֶה שֶׁגֵּרֵשׁ — גֵּרוּשָׁיו בָּטֵלִין, שֶׁאֵין לְשׁוֹטֶה דַּעַת.", "it": "Un pazzo che ha divorziato — il suo divorzio è nullo, poiché un pazzo non ha discernimento."},
+    {"n": 12, "he": "הִבְרִיא וְחָזַר וְנִשְׁטֵּיתָה — צָרִיךְ בֵּית דִּין לְהַצִּיל אֶת הָאִשָּׁה בְּדַרְכֵי תַּקָּנָה.", "it": "Se è guarito e poi lei è diventata di nuovo pazza — il beit din deve salvare la moglie attraverso decreti speciali."},
+    {"n": 13, "he": "תַּקָּנוֹת חֲכָמִים בְּעִנְיַן שׁוֹטָה — כֻּלָּן לְטוֹבַת הָאִשָּׁה וּלְמַנֹּעַ עֲגוּנוּת.", "it": "I decreti dei Saggi riguardo alla pazza — sono tutti per il bene della moglie e per prevenire l'agunah."},
+    {"n": 14, "he": "בְּכָל מְקוֹמוֹת שֶׁנֶּאֱמַר שֶׁאֵין כּוֹפִין — הַכַּוָּנָה שֶׁבֵּית דִּין עָצְמוֹ אֵינוֹ כּוֹפֶה, אֲבָל הַצִּבּוּר יָכוֹל לְלַחֹץ.", "it": "In tutti i luoghi in cui si dice che non si costringe — il significato è che il beit din stesso non costringe, ma il pubblico può fare pressione."}
+  ],
+  "_glossary_terms_used": ["get", "agunah", "kiddushin", "beit din", "mezonot"]
+}

@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Tithes 7-9",
+  "name_he": "משנה תורה, הלכות מעשרות, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi delle Decime (Maasrot), capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-06-15",
+  "hebrew_date": "30 Sivan 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "7:1-3",
+      "he": "הָאוֹכֵל אֲכִילַת עַרָי מִשֶּׁלּוֹ...",
+      "it": "Mangiare casualmente dai propri prodotti (achilas aray — assaggio prima della 'fissazione') è permesso senza separare le decime. Tuttavia, non si può vendere, dare come regalo, o portare a casa prodotti non decimati come se fossero 'fissati'. Il confine è: consumo immediato e personale senza portare via."
+    },
+    {
+      "n": "7:4-6",
+      "he": "פּוֹעֵל הָעוֹבֵד בְּפֵרוֹת...",
+      "it": "Il lavoratore che lavora nei campi e mangia dei prodotti durante il lavoro (diritto accordato dalla Torah in Deuteronomio 23:25) — mangia senza obbligo di decima in quel momento, poiché è come il casuale mangiare del proprietario. Ma non può portare produce a casa senza decimare."
+    },
+    {
+      "n": "7:7-9",
+      "he": "הַמַּכְנִיס פֵּרוֹתָיו לֶהָכִין...",
+      "it": "Il portare produce nel proprio cortile (chatzer) per conservarla senza intenzione di terminare il processo di fissazione — non obbliga ancora alle decime. Ma se porta produce in casa attraverso la porta principale con intenzione di conservarla, questo atto 'fissa' l'obbligo."
+    },
+    {
+      "n": "8:1-3",
+      "he": "הַבְּעָלִים מַפְרִישִׁין תְּחִלָּה...",
+      "it": "Il proprietario della produce è il primo obbligato a separare le decime. Se vende la produce a qualcuno, il compratore diventa responsabile delle decime se il venditore non le ha già separate. La responsabilità si trasferisce con la proprietà."
+    },
+    {
+      "n": "8:4-6",
+      "he": "הַנּוֹתֵן לַחֲבֵרוֹ טֶבֶל...",
+      "it": "Chi dà tevel (produce non decimata) a un amico — l'amico non può mangiarla finché non la decima. L'atto di ricevere tevel non è proibito in sé, ma mangiarla sì. Il destinatario diventa quindi responsabile di separare le decime prima del consumo."
+    },
+    {
+      "n": "8:7-9",
+      "he": "שְׂכִיר בִּשְׂדֵה חֲבֵרוֹ...",
+      "it": "Il lavoratore salariato (sachir) nel campo altrui — se riceve produce come pagamento, deve decimarla prima di mangiarla. Se mangia casualmente durante il lavoro (diritto Torah), non deve decimare in quel momento. La distinzione dipende dal modo in cui riceve e mangia."
+    },
+    {
+      "n": "9:1-3",
+      "he": "עֲצִיץ נָקוּב — חַיָּב בְּמַעַשְׂרוֹת...",
+      "it": "Produce cresciuta in un vaso con foro nel fondo (atzitz nakuv) — è soggetta alle decime, poiché il foro la connette alla terra e viene considerata come cresciuta dalla terra. Produce in un vaso senza foro (atzitz she-eino nakuv) — è esente per legge biblica, ma i Saggi la soggettano per decreto."
+    },
+    {
+      "n": "9:4-6",
+      "he": "פֵּרוֹת שְׁבִיעִית — פְּטוּרִין מִן הַמַּעַשְׂרוֹת...",
+      "it": "Produce dell'anno sabbatico (shevi'it, il settimo anno del ciclo agrario) — è esente dalle decime. Poiché nell'anno sabbatico tutta la produce è 'ownerless' (hefker) per tutti, non c'è proprietario che sia obbligato nelle decime."
+    },
+    {
+      "n": "9:7-9",
+      "he": "פֵּרוֹת הַמְּחֻבָּרִין לְקַרְקַע...",
+      "it": "Produce ancora attaccata alla terra (mechuberet la-karka) — non è soggetta alle decime finché non è raccolta. La Torah dice 'e darai le decime di tutto il raccolto del tuo campo' — 'raccolto' implica che sia già staccata dalla terra."
+    },
+    {
+      "n": "9:10-12",
+      "he": "גַּרְעִינֵי הַפֵּרוֹת...",
+      "it": "I semi dei frutti — se vengono consumati come cibo (ad esempio i semi di melograno, o certi semi di spezie), sono soggetti alle decime come il frutto stesso. Se non sono normalmente commestibili, sono esenti."
+    }
+  ],
+  "_glossary_terms_used": ["achilas aray", "sachir", "tevel", "atzitz nakuv", "shevi'it", "hefker", "chatzer", "mechuberet la-karka"]
+}

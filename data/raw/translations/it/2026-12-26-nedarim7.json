@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 7",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ז",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-26",
+  "hebrew_date": "17 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נִדְרֵי זִינְזִינֵי — לְשׁוֹנוֹת שֶׁמִּשְׁתַּמְּשִׁין בָּהֶן לִנְדָרִים…",
+      "it": "I «nidrei zinzinei» sono formule e sostituenti usati nel linguaggio comune per esprimere voti, anche quando non si usa la parola precisa «korban» o «neder». Le formule più comuni: «konam» (il principale sostituto di korban), «konach», «konas» — tutte variazioni che la Mishnah riconosce come formule di voto valide. Il principio è che il linguaggio dei voti si evolve nel tempo e nello spazio — le espressioni locali e regionali hanno validità, purché siano riconosciute dalla comunità come formule di voto."
+    },
+    {
+      "n": 2,
+      "he": "«קׂוֹנָם», «קׂוֹנַח», «קׂוֹנָס» — כּוּלָּן כִּנּוּיֵי קׇרְבָּן…",
+      "it": "«Konam», «konach», «konas» — tutte sono sostitute valide per «korban» nel formulare voti. I Saggi hanno spiegato che queste formule erano usate per evitare di pronunciare il nome «korban» nel contesto profano, per rispetto alla santità del sacrificio. Analogamente, «shevut», «shekukat», «shakak» sono sostituti validi per «shevuah» (giuramento). Il Rambam osserva: la capacità del linguaggio di adattarsi e creare nuove formule senza perdere il potere giuridico riflette la vitalità della halakhah."
+    },
+    {
+      "n": 3,
+      "he": "נִדְרֵי אֱמוֹרִים — הַנּוֹדֵר בְּכַעַס…",
+      "it": "I voti fatti in collera (neder bi-khe'as) o in grande angoscia emotiva — a volte sono annullabili. Se al momento del voto il votante era in uno stato di turbamento tale da non essere padrone di sé (ad esempio, durante una lite violenta o in un momento di dolore acuto), il saggio può prendere in considerazione questo stato come parte del petach. Non è automatico — ma la Torah riconosce che le parole dette in momenti di turbamento non esprimono sempre la vera volontà della persona."
+    },
+    {
+      "n": 4,
+      "he": "כִּנּוּיֵי הַנֵּדֶר תְּלוּיִים בִּמְנַהַג הַמָּקוֹם…",
+      "it": "I sostituti e le formule del neder dipendono dall'uso locale (minhag ha-makom). In una città dove «konam» è riconosciuto come formula di voto, il suo uso crea un neder; in una città dove non è conosciuta questa espressione, potrebbe non creare un neder. Il Rambam codifica qui un principio sociolinguistico importante: il diritto halakhico è sensibile al linguaggio vivo della comunità. La legge non opera in un vuoto linguistico astratto — opera nel linguaggio reale della gente reale."
+    },
+    {
+      "n": 5,
+      "he": "נָדַר בְּלֶשׁוֹן שֶׁאֵינוֹ מְבִינָהּ — אֵינוֹ נֵדֶר…",
+      "it": "Chi vota in una lingua che non comprende — il suo voto non è valido. Il voto richiede consapevolezza e intenzionalità: chi pronuncia formule in una lingua straniera senza capirne il significato non ha creato un vincolo halakhico. Questo principio protegge le persone che possono imitare formule udite senza comprenderle. Al contrario, chi conosce la lingua e le formule — è pienamente responsabile del voto pronunciato, indipendentemente dal tono o dal contesto in cui lo ha detto."
+    },
+    {
+      "n": 6,
+      "he": "הַנּוֹדֵר בְּאַנְפֵּי תְּלָתָא — אֵינוֹ יָכוֹל לִהְיוֹת מוּתָּר אֶלָּא בְּאַנְפֵּי תְּלָתָא…",
+      "it": "Chi ha pronunciato il voto in presenza di tre persone — ha, secondo alcune opinioni, creato un obbligo aggiuntivo: poiché il voto è stato reso pubblico davanti a tre persone, lo scioglimento deve avvenire anch'esso davanti a tre. La pubblicità del voto ne aumenta la forza vincolante sociale. Il Rambam nota le diverse opinioni su questo punto e conclude con la posizione più accettata: in ogni caso, lo scioglimento davanti a tre esperti o a un saggio è sempre sufficiente, indipendentemente da come è stato pronunciato il voto originale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nidrei zinzinei", "konam", "konach", "konas", "korban", "shevuah", "petach", "minhag ha-makom", "neder"
+  ]
+}

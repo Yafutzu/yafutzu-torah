@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Gezelah VeAvedah 4-6",
+  "name_he": "משנה תורה, הלכות גזלה ואבידה, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi della Rapina e degli Oggetti Smarriti, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-10-01",
+  "hebrew_date": "20 Tishrei 5787",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "4:1-4",
+      "he": "הַגַּנָּב — מְשַׁלֵּם תַּשְׁלוּם כֶּפֶל…",
+      "it": "(Gezelah VeAvedah cap. 4, hal. 1-4) Il ladro (ganav) che ruba di nascosto — paga il doppio del valore dell'oggetto rubato (tashlum kefel). Il rapinatore (gazlan) che ruba apertamente con violenza — paga solo il valore principale dell'oggetto. La distinzione fondamentale: il ladro teme gli uomini ma non Dio (ha rubato di nascosto), pertanto riceve una pena più severa. Il rapinatore teme ugualmente gli uomini e Dio — pertanto paga solo il principale. Se il ladro ha macellato il bue o lo ha venduto — paga cinque volte il suo valore (per il bue) o quattro volte (per la pecora), secondo Esodo 21:37."
+    },
+    {
+      "n": "4:5-8",
+      "he": "הַגּוֹזֵל וּמֵת — יַחְזִיר לִבְנָיו…",
+      "it": "(cap. 4, hal. 5-8) Il rapinatore che muore — i suoi eredi devono restituire il bene rubato agli eredi della vittima. Se il bene rubato è perso o distrutto — si paga il valore. Se il bene si è deteriorato nelle mani del rapinatore — si paga la differenza di valore. Il principio generale: il rapinatore è responsabile di tutto il danno causato dall'oggetto rubato a partire dal momento della rapina, poiché l'oggetto entra «nella sua responsabilità» (be-reshuto) da quel momento."
+    },
+    {
+      "n": "5:1-6",
+      "he": "אֵיזֶה הוּא גַּנָּב — זֶה הַנּוֹטֵל מִמָּמוֹן חֲבֵרוֹ בַּסֵּתֶר…",
+      "it": "(cap. 5, hal. 1-6) L'obbligo di restituire l'oggetto rubato (hashavat gezelah) — vale anche se il ladro l'ha già spostato dalla propria proprietà. Se il ladro ha costruito sull'oggetto rubato (ad esempio ha usato mattoni rubati per costruire una casa) — per evitare lo smantellamento della struttura, i Saggi stabilirono che si paga il valore invece di restituire l'oggetto fisico («takkanat hashavim» — decreto per favorire il pentimento). Se la vittima ha già disperato (ye'ush) di recuperare l'oggetto — il trasferimento di proprietà dopo lo ye'ush è controverso tra i Saggi."
+    },
+    {
+      "n": "6:1-6",
+      "he": "הַמַּחֲלִיף גְּזֵלָה בְּדָבָר אַחֵר — חַיָּב לְהַחֲזִיר…",
+      "it": "(cap. 6, hal. 1-6) Chi scambia l'oggetto rubato con qualcos'altro — è comunque obbligato a restituire il valore originale. Se la vittima ha perdonato il ladro (machilah) — l'obbligo decade. Il Rambam elenca i casi in cui la restituzione avviene ai discendenti, i casi in cui l'oggetto può essere riscattato per il suo valore, e il principio cardine: «Meglio è la morte del malvagio che la sua vita» quando si pente sinceramente e restituisce — il pentimento sincero include la restituzione materiale. Si conclude: si è incoraggiati a pentirsi e restituire, poiché è meglio per l'anima."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ganav", "gazlan", "tashlum kefel", "ye'ush", "takkanat hashavim", "hashavat gezelah", "machilah", "be-reshuto"
+  ]
+}

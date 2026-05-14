@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Terumot 1-3",
+  "name_he": "הלכות תרומות פרקים א'-ג'",
+  "name_it": "Leggi della Terumah, Capitoli 1–3",
+  "cycle": "rambam-3",
+  "date": "2026-06-08",
+  "hebrew_date": "23 Sivan 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "1:1",
+      "he": "מִצְוַת עֲשֵׂה לְהַפְרִישׁ תְּרוּמָה",
+      "it": "È una mitzvat asei (מִצְוַת עֲשֵׂה — obbligo positivo) separare la terumah gedolah (תְּרוּמָה גְּדוֹלָה — la grande separazione) dal prodotto agricolo e darla al kohen (כֹּהֵן — sacerdote). Si basa su Num. 18:12: 'Il meglio dell'olio, del vino e del grano — la primizia di ciò che danno al Signore te lo ho dato'."
+    },
+    {
+      "n": "1:2",
+      "he": "מִי חַיָּב בִּתְרוּמָה",
+      "it": "Chi è obbligato nella terumah? Qualsiasi ebreo adulto (bar mitzvah, בַּר מִצְוָה) che possiede prodotti agricoli coltivati in Eretz Yisrael (אֶרֶץ יִשְׂרָאֵל). Il minore (katan, קָטָן) non può separare terumah valida, né il sordomuto (cheresh, חֵרֵשׁ) né il folle (shoteh, שׁוֹטֶה)."
+    },
+    {
+      "n": "1:3",
+      "he": "אֵיזֶה פֵּרוֹת חַיָּבִין",
+      "it": "Quali prodotti richiedono la separazione della terumah? Solo i prodotti della terra (peirot ha-aretz, פֵּרוֹת הָאָרֶץ) che vengono usati come alimento umano ordinario, sono stati protetti e coltivati dall'uomo, e vengono raccolti in quantità significativa. I cinque cereali principali (dagan, דָּגָן), l'olio, e il vino sono i prodotti principali."
+    },
+    {
+      "n": "1:4",
+      "he": "פֵּרוֹת הַנִּקְנִים מִן הַנָּכְרִי",
+      "it": "Prodotti acquistati da un non ebreo che li ha coltivati in Eretz Yisrael — sono soggetti alla terumah? Il Rambam segue la posizione che prodotti di non ebrei in Eretz Yisrael sono esenti dalla terumah d'oraita (מִדְּאוֹרַיְיתָא — dalla Torah) ma soggetti a terumah derabanan (מִדְּרַבָּנָן — rabbinica)."
+    },
+    {
+      "n": "1:5",
+      "he": "חוּצָה לָאָרֶץ",
+      "it": "Fuori da Eretz Yisrael, la terumah è proibita dalla Torah ma obbligatoria per decreto rabbinico in alcuni luoghi — principalmente in Siria (Suria, סוּרְיָא) che ha uno status intermedio. Babilonia e tutti gli altri paesi sono completamente esenti dalla terumah."
+    },
+    {
+      "n": "1:6",
+      "he": "כַּמָּה תְּרוּמָה",
+      "it": "Quanta terumah si separa? La Torah non specifica una quantità. I Saggi stabilirono: l'ideale (midah benonit, מִדָּה בֵינוֹנִית) è un quarantesimo del raccolto; il generoso (ayin yafah, עַיִן יָפָה) dà un trentesimo; il parsimonioso (ayin ra'ah, עַיִן רָעָה) dà un sessantesimo. Queste sono linee guida, non misure fisse."
+    },
+    {
+      "n": "1:7",
+      "he": "הַמַּפְרִישׁ פָּחוֹת מֵחֶלֶק שִׁשִּׁים",
+      "it": "Chi separa meno di un sessantesimo del raccolto come terumah — ha adempiuto l'obbligo post-facto (bediavad, בְּדִיעֲבַד). Anche una singola spiga (shibbolet, שִׁבֹּלֶת) può servire come terumah per un intero campo, poiché la Torah non prescrive una quantità minima."
+    },
+    {
+      "n": "2:1",
+      "he": "הַמַּפְרִישׁ תְּרוּמָה בְּמַחְשָׁבָה",
+      "it": "La terumah separata solo mediante il pensiero (machashavah, מַחֲשָׁבָה) — senza azione fisica — non è valida secondo il Rambam. È necessario un atto fisico di designazione o separazione (hafrashah, הַפְרָשָׁה). Tuttavia, il pensiero combinato con la parola (dibur, דִּיבּוּר) è sufficiente."
+    },
+    {
+      "n": "2:2",
+      "he": "הַמַּפְרִישׁ בְּלֵב שָׁלֵם",
+      "it": "Chi separa la terumah con un cuore pieno (lev shalem, לֵב שָׁלֵם) — vale a dire senza riserva mentale — la terumah è pienamente valida. Chi ha pensieri conflittuali durante la hafrashah — come se avesse intenzione di dare meno — la terumah rimane valida poiché l'azione esterna ha prevalso."
+    },
+    {
+      "n": "2:3",
+      "he": "תְּרוּמַת טֶבֶל",
+      "it": "Il prodotto che non ha ancora avuto separata la terumah è chiamato tevel (טֶבֶל — prodotto non processato/non separato). Mangiare tevel è proibito dalla Torah con una gravità speciale. Il tevel rimane proibito finché non si separano terumah, ma'aser rishon (מַעֲשֵׂר רִאשׁוֹן — prima decima) e ma'aser sheni (מַעֲשֵׂר שֵׁנִי — seconda decima)."
+    },
+    {
+      "n": "2:4",
+      "he": "כֵּיצַד מַפְרִישִׁין",
+      "it": "Come si separa la terumah? Il proprietario del raccolto prende una parte del prodotto, la designa verbalmente come terumah ('Questa è la terumah di ciò che ho'), e la consegna a un kohen. Non è necessario portarla fisicamente alla casa del kohen — basta designarla."
+    },
+    {
+      "n": "2:5",
+      "he": "הַמַּפְרִישׁ מִן הָרַע",
+      "it": "Non si separa la terumah dal prodotto cattivo (ra, רַע) per il prodotto buono (tov, טוֹב). La terumah deve essere dal 'migliore' — questo è il principio di 'reishit' (רֵאשִׁית — 'il meglio/la primizia'). Se si separa dall'inferiore per il superiore, la terumah è comunque valida post-facto."
+    },
+    {
+      "n": "2:6",
+      "he": "הַמַּפְרִישׁ מִמִּין עַל שֶׁאֵינוֹ מִינוֹ",
+      "it": "Non si separa terumah da una specie per un'altra specie diversa — ad esempio olio per vino. La terumah deve provenire dalla stessa specie del prodotto per cui si separa. Post-facto se fu separata da specie diversa, la terumah è nulla e si deve separare nuovamente."
+    },
+    {
+      "n": "3:1",
+      "he": "תְּרוּמָה שֶׁנִּטְמֵאת",
+      "it": "La terumah che è diventata impura (tameh, טָמֵא) non può più essere mangiata, poiché solo i kohanim in stato di purità (tahorah, טָהֳרָה) possono mangiarla. La terumah impura deve essere bruciata (sera'fah, שְׂרֵפָה), non gettata via o lasciata marcire."
+    },
+    {
+      "n": "3:2",
+      "he": "כֵּיצַד שׂוֹרְפִין תְּרוּמָה טְמֵאָה",
+      "it": "Come si brucia la terumah impura? Si brucia il giorno stesso in cui si scopre l'impurità. Si può bruciare di Shabbat se necessario, poiché la distruzione della terumah impura è un obbligo. Si può bruciare anche insieme ad altri prodotti tme'im."
+    },
+    {
+      "n": "3:3",
+      "he": "הַכֹּהֵן שֶׁאֵינוֹ יוֹדֵעַ",
+      "it": "Il kohen che non sa se la terumah è diventata impura — deve trattarla come se fosse pura finché non ha prove contrarie. Il dubbio (safek, סָפֵק) nella terumah non causa automaticamente la sua proibizione, poiché le regole di safek nella terumah sono particolari."
+    },
+    {
+      "n": "3:4",
+      "he": "תְּרוּמָה שֶׁנִּרְאֵית",
+      "it": "Terumah che sembra impura ma non è certa (safek tumah, סָפֵק טוּמְאָה) in dominio privato — è pura (tahorah, טְהוֹרָה) secondo la regola del Talmud. In dominio pubblico, il safek tumah è trattato come impuro secondo le regole della Torah."
+    },
+    {
+      "n": "3:5",
+      "he": "כֵּיצַד מַטְבִּילִין",
+      "it": "Come si purifica la terumah che è diventata impura tramite contatto con un essere umano impuro? Si immerge il contenitore nel mikveh (מִקְוֶה — bagno rituale). La terumah stessa non si immerge nel mikveh — si purifica il kohen che la mangerà."
+    }
+  ],
+  "_glossary_terms_used": ["terumah gedolah", "kohen", "bar mitzvah", "katan", "cheresh", "shoteh", "peirot ha-aretz", "dagan", "terumah d'oraita", "terumah derabanan", "midah benonit", "ayin yafah", "ayin ra'ah", "bediavad", "machashavah", "hafrashah", "dibur", "tevel", "ma'aser rishon", "ma'aser sheni", "reishit", "tameh", "tahorah", "sera'fah", "safek", "safek tumah", "mikveh"]
+}

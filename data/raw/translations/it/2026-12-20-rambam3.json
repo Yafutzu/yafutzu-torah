@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Evel 2-4",
+  "name_he": "משנה תורה, הלכות אבל פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi del Lutto, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-12-20",
+  "hebrew_date": "11 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Evel 2:1-5",
+      "he": "שִׁבְעַת יְמֵי הָאֲבֵלוּת — כֵּיצַד נוֹהֲגִין בָּהֶן…",
+      "it": "(Evel cap. 2, hal. 1-5) I sette giorni di lutto (shiva): il dolente non lavora, non indossa scarpe di cuoio, non si bagna per piacere, non usa cosmetici, non ha rapporti coniugali, non saluta normalmente, e non studia Torah (eccetto i temi permessi durante il lutto — come Giobbe, Lamentazioni, parti di Geremia, le leggi del lutto stesso). La shiva inizia dal momento della sepoltura e termina dopo sette giorni. Il dolente è tenuto a restare in casa (in linea di principio) e ricevere i visitatori che vengono a offrire consolazione."
+    },
+    {
+      "n": "Evel 2:6-10",
+      "he": "נִיחוּם אֲבֵלִים — מִצְוָה גְּדוֹלָה…",
+      "it": "(Evel cap. 2, hal. 6-10) Il nichum aveilim (consolare i dolenti) è una grande mitzvah. La forma tradizionale di consolazione: i visitatori entrano in silenzio, siedono con il dolente, non parlano finché il dolente non parla per primo. La formula di congedo: «HaMakom yenachem etchem betoch she'ar aveilei Tziyon ve-Yerushalayim» (Che D-o vi consoli insieme ai dolenti di Sion e Gerusalemme). L'accostamento con i dolenti per Gerusalemme è intenzionale: il lutto personale e il lutto collettivo per il Tempio condividono la stessa struttura emotiva e spirituale."
+    },
+    {
+      "n": "Evel 3:1-5",
+      "he": "יוֹם טוֹב בֵּינוֹ לְבֵין הַשִּׁבְעָה — בָּטֵל הַשִּׁבְעָה…",
+      "it": "(Evel cap. 3, hal. 1-5) Se una festa (Yom Tov) cade durante la shiva — la shiva viene interrotta. La gioia pubblica di Yom Tov prevale sul lutto privato. In pratica: se la shiva è iniziata prima di Yom Tov, Yom Tov annulla il resto della shiva. Dopo Yom Tov, si contano i giorni rimanenti del lutto. Il principio riflette una gerarchia dei valori: il lutto è reale e necessario, ma la gioia collettiva di Israele nei giorni santi ha precedenza sulla sofferenza individuale — perché il dolente appartiene al popolo, non solo a se stesso."
+    },
+    {
+      "n": "Evel 4:1-5",
+      "he": "אָבֵל שֶׁיָּצָא מִבֵּיתוֹ בְּשַׁבָּת — מַה דִּינוֹ…",
+      "it": "(Evel cap. 4, hal. 1-5) Lo Shabbat durante la shiva: lo Shabbat conta come uno dei sette giorni di lutto ma il dolente non manifesta il lutto in pubblico (no scarpe di cuoio in pubblico, ma può indossarle in privato; le restrizioni esterne vengono sospese per rispettare la dignità pubblica dello Shabbat). In privato, le restrizioni del lutto rimangono in vigore. Il principio: lo Shabbat non annulla il lutto ma lo trasforma — come Shabbat trasforma ogni altra realtà, rendendola più elevata senza cancellarla."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shiva", "nichum aveilim", "HaMakom yenachem", "Yom Tov", "avelut", "avel Tziyon"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Sotah 3",
+  "name_he": "משנה תורה, הלכות סוטה, פרק ג",
+  "name_it": "Mishneh Torah, Leggi della Sotah, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-14",
+  "hebrew_date": "3 Cheshvan 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַמַּיִם בּוֹדְקִין רַק אִם לֹא שָׁתְתָה בְּרָצוֹן…",
+      "it": "Le acque amare esaminano la donna solo se non le ha bevute volontariamente in segno di protesta. Se la donna dice «non voglio bere» — non la si costringe a bere. Viene però costretta ad accettare il divorzio, e perde la ketuvah (contratto matrimoniale). Il Rambam stabilisce che il beit din non può costringere fisicamente la donna a bere le acque — l'esame è valido solo se avviene con una certa cooperazione della donna stessa."
+    },
+    {
+      "n": 2,
+      "he": "מֵת הַבַּעַל קוֹדֶם שֶׁשָּׁתְתָה — לֹא שׁוֹתָה…",
+      "it": "Se il marito muore prima che la donna beva — non beve. La procedura di sotah è completamente legata all'esistenza del marito sospettoso: se egli muore, la procedura cade e la donna è libera. Similmente: se il marito perdona la moglie e dice «mochel ani» (perdono) — la procedura cessa immediatamente. Il marito ha il pieno diritto di annullare la procedura in qualsiasi momento prima che la donna beva le acque."
+    },
+    {
+      "n": 3,
+      "he": "אָמַר לָהּ הַבַּעַל מָחַלְתִּי — אֵינָהּ שׁוֹתָה…",
+      "it": "Se il marito ha detto «ho perdonato» — non beve. Il perdono del marito ha effetto retroattivo sul divieto: se il marito perdona e poi vuole che la moglie rimanga con lui — la moglie torna a essere permessa a lui anche prima che le acque la «esaminino». Il Rambam sottolinea la suprema importanza della pace coniugale (shalom bayit) in questo contesto: la Torah ha persino permesso la cancellazione del Nome Divino pur di ristabilire la pace tra marito e moglie."
+    },
+    {
+      "n": 4,
+      "he": "הַסּוֹטָה שֶׁנִּטְמְאָה — אֲסוּרָה לְבַעְלָהּ…",
+      "it": "La sotah che si è resa impura (cioè che è risultata colpevole secondo la procedura o che ha confessato l'adulterio) — è proibita al marito per sempre e deve ricevere un get. È anche proibita all'amante per sempre — la Torah vuole evitare che l'adulterio venga «premiato» con un matrimonio regolare tra i due amanti. Se il marito divorzia dalla moglie colpevole e lei poi sposa l'amante — il matrimonio con l'amante è proibito rabbinicamente e lei deve lasciarlo."
+    },
+    {
+      "n": 5,
+      "he": "הַסּוֹטָה שֶׁנִּמְצְאָה טְהוֹרָה — חוֹזֶרֶת לְבַעְלָהּ…",
+      "it": "La sotah che risulta pura (le acque non l'hanno colpita) — torna al marito, e la Torah la benedice con fertilità (Num. 5:28): «se la donna non si è resa impura ed è pura, sarà indenne e concepirà seme». I Saggi insegnano che una donna sterile che ha bevuto le acque e risultava innocente — il merito della sua purezza le apriva il grembo. Questo miracolo è parte della realtà spirituale che la Torah ha inserito in questa procedura."
+    },
+    {
+      "n": 6,
+      "he": "הַסּוֹטָה הַשּׁוֹתָה — אִם זָכוּ יִשְׂרָאֵל — מַיִם בּוֹדְקִין אוֹתָהּ בְּיַד כֹּהֵן…",
+      "it": "Le acque esaminano la donna solo quando il Tempio è in piedi e il kohen compie la procedura rituale. Il Rambam spiega che l'efficacia delle acque dipende dalla santità del Tempio — solo in quel contesto il miracolo è possibile. Dopo la distruzione del Tempio (70 e.v.) e ancor prima — quando Yochanan ben Zakkai abolì la procedura (vedi cap. 4) — le acque non operano più. Questo è il contesto nel quale si comprende l'abolizione descritta nel prossimo capitolo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sotah", "mei ha-marim", "ketuvah", "beit din", "mochel", "shalom bayit", "get", "kohen", "zechus"
+  ]
+}

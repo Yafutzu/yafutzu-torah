@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 9",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ט",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 9",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-16",
+  "hebrew_date": "7 Tevet 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נִשְׁבַּע בְּטָעוּת — שְׁבוּעָתוֹ בְּטֵלָה...",
+      "it": "Chi giura per errore (ta'ut) — il giuramento è annullabile. Esempio: chi giura «Non entrerò in questa casa» credendo che sia la casa di Shimon, e poi si scopre che è la casa di Reuven — il giuramento è nullo poiché basato su una premessa errata. La regola fondamentale: il giuramento deve corrispondere alla realtà che il giurante intendeva. Un giuramento basato su un errore di fatto non vincola."
+    },
+    {
+      "n": 2,
+      "he": "נִשְׁבַּע בְּאֹנֶס — יֵשׁ מִי שֶׁאוֹמֵר...",
+      "it": "Giuramento estorto (ones) — i Rishonim (autorità medievali) dibattono: secondo alcuni, un giuramento estorto è completamente nullo anche internamente (lo stesso giurante non è obbligato nel foro interno); secondo altri, il giuramento ha effetto interno ma non può essere fatto rispettare esternamente. Il Rambam segue la posizione più liberale: il giuramento extorto è nullo anche nel foro interno, poiché la condizione fondamentale del giuramento — la libera volontà — mancava."
+    },
+    {
+      "n": 3,
+      "he": "פֶּה שֶׁאָסַר הוּא הַפֶּה שֶׁהִתִּיר...",
+      "it": "Il principio «peh she-asar hu ha-peh she-hitir» — la bocca che ha proibito è la bocca che ha permesso. Quando una persona crea una proibizione attraverso una dichiarazione verbale, e successivamente fornisce informazioni che modificano la situazione, quella stessa bocca può «sciogliere» ciò che ha creato. Questo principio si applica in vari contesti halachici: voti, testimonianze, proibizioni autoimposte. Nel caso dei giuramenti: chi ha giurato sulla base di informazioni poi rivelatesi false — può annullare il giuramento invocando questo principio."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד מַתִּירִין נֶדֶר — שׁוֹאֵל פֶּתַח...",
+      "it": "Come si scioglie un voto o un giuramento tramite i Saggi: il richiedente presenta un «petach» (apertura) — una circostanza che, se fosse stata nota al momento del giuramento, avrebbe impedito il giuramento stesso. Oppure presenta «charatah» (rimorso puro) — il pentimento che il giuramento è stato fatto. Il beit din composto da tre esperti (o un singolo mumcheh) pronuncia: «muttar lach» — ti è permesso. Questo scioglimento retroattivo agisce come se il giuramento non fosse mai stato pronunciato."
+    },
+    {
+      "n": 5,
+      "he": "עֵין כֹּל — עֵין הַשֵּׁם עַל הַנִּשְׁבָּעִים...",
+      "it": "L'occhio di D-o vede tutti i giuranti: il sistema halachico dei giuramenti funziona perché si basa sulla consapevolezza che D-o è testimone di tutto. Non è il beit din che garantisce la verità del giuramento — è la presenza divina invocata dal giuramento stesso. Il Rambam conclude le leggi del capitolo con questa nota teologica: il giuramento è un incontro con il Divino, non un mero meccanismo processuale. Chi comprende questo non giurerà mai invano."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ta'ut", "ones", "Rishonim", "peh she-asar hu ha-peh she-hitir", "petach", "charatah", "beit din", "mumcheh", "muttar lach"
+  ]
+}

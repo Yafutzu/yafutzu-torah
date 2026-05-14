@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Sabbath 23",
+  "name_he": "משנה תורה, הלכות שבת, פרק כג",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 23",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-13",
+  "hebrew_date": "28 Sivan 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַשָּׁמֶן — מוּתָּר לִסּוּךְ בְּשַׁבָּת...",
+      "it": "È permesso ungersi con olio di Shabbat, sia per piacere che per necessità corporale. Tuttavia, se l'unzione ha chiaramente scopo medico (come rimedio), è soggetta alle limitazioni sui rimedi di Shabbat."
+    },
+    {
+      "n": 2,
+      "he": "הַסָּך בְּשֶׁמֶן לַחוּלֶה...",
+      "it": "Ungere il corpo di un malato con olio a scopo terapeutico — se il malato è in pericolo di vita, è completamente permesso. Se non è in pericolo, si applica la regola dell'amira le-nochri o del cambiamento del metodo (shinui) per non trasgredire divieti rabbinici."
+    },
+    {
+      "n": 3,
+      "he": "אֵין מְרַפְּאִין בְּשַׁבָּת...",
+      "it": "Non si fa medicina di Shabbat per una persona sana che vuole migliorare la salute preventivamente. I Saggi temevano che si arrivasse a macinare erbe medicinali (shechikah), che è una melachah (lavoro proibito)."
+    },
+    {
+      "n": 4,
+      "he": "הַכּוֹרֵךְ אֶצְבַּע בִּסְמַרְטוּט...",
+      "it": "Avvolgere un dito ferito in uno straccio di Shabbat — se è per proteggere la ferita già bendata, è permesso come atto di protezione. Se è per applicare un medicinale, dipende dal tipo di malattia e dal pericolo presente."
+    },
+    {
+      "n": 5,
+      "he": "קֶשֶׁר שֶׁל קַיָּמָא — לֹא יִקְשֹׁר...",
+      "it": "Non si fa un nodo permanente (kesher shel kayama) di Shabbat. Tuttavia, per fasciare una ferita con bende — si può fare un nodo nella benda poiché è un 'nodo medico' temporaneo, non un nodo vietato."
+    },
+    {
+      "n": 6,
+      "he": "הַמּוֹרִיד בְּהֶמָה לִרְפוּאָה...",
+      "it": "Far sanguinare (lasciar uscire sangue a scopo medico) un animale di Shabbat — il proprietario può farlo se l'animale è sofferente (tzaar ba'alei chayyim — divieto di crudeltà verso gli animali). Ma non si fa per soli scopi economici."
+    },
+    {
+      "n": 7,
+      "he": "מַתִּיר בֶּן גּוּשְׁמָא — מוּתָּר לְהוֹצִיא...",
+      "it": "È permesso portare in spazio pubblico (reshut ha-rabbim) gli strumenti medici necessari per un malato in pericolo. Un praticante può portare la sua borsa medica anche in dominio pubblico poiché la vita umana è prioritaria."
+    },
+    {
+      "n": 8,
+      "he": "שֶׁבֶר שֶׁנִּשְׁבַּר בְּשַׁבָּת...",
+      "it": "Un osso rotto di Shabbat — se c'è pericolo di vita (come in caso di fratture interne gravi), si può fare tutto il necessario. Se è una frattura semplice senza pericolo, si applicano le bende ma non si riduce l'osso in modo che richieda lavori proibiti."
+    },
+    {
+      "n": 9,
+      "he": "פֶּצַע טָרִי — מוּתָּר לִמְשֹׁךְ...",
+      "it": "Una ferita fresca (petza tari) — è permesso succhiare via il sangue dalla ferita (meshichah) di Shabbat, poiché serve a prevenire un potenziale pericolo. Non c'è qui nessun atto di macinatura proibita."
+    },
+    {
+      "n": 10,
+      "he": "קֶמַח שֶׁמּוֹלְלִין עָלָיו...",
+      "it": "Non si macina farina o erbe medicinali di Shabbat a scopo curativo. Questo è l'esempio tipico del decreto dei Saggi contro la medicina di Shabbat: la macinatura (tachon) è una melachah biblica."
+    },
+    {
+      "n": 11,
+      "he": "חָשׁ בִּמְעָיָיו — שׁוֹתֶה שֶׁמֶן...",
+      "it": "Per chi soffre di disturbi intestinali — può bere olio come rimedio di Shabbat solo se di solito usa l'olio anche come cibo. Se l'olio è usato esclusivamente come medicina, è proibito."
+    },
+    {
+      "n": 12,
+      "he": "רָאָה מַפֶּלֶת בְּשַׁבָּת...",
+      "it": "Chi vede un crollo di Shabbat e non sa se vi siano sopravvissuti — deve scavare immediatamente, come discusso nel capitolo precedente. Qui si aggiunge che la luce di una candela accesa dal non-ebreo per illuminare i soccorsi può essere usata liberamente."
+    },
+    {
+      "n": 13,
+      "he": "הַמּוֹדֵד מַכָּה...",
+      "it": "Misurare una ferita di Shabbat per determinare se è pericolosa — è permesso come parte della diagnosi medica. La misurazione in sé non è un atto vietato quando lo scopo è medico."
+    },
+    {
+      "n": 14,
+      "he": "הַמַּתִּיר תְּפִלִּין לְחוֹלֶה...",
+      "it": "Sciogliere le tefillin (filatteri) a un malato di Shabbat che soffrono di esse — è permesso, poiché il malato ha la precedenza. Non si fa certo il nodo al contrario (che sarebbe azione proibita), ma si allenta con attenzione."
+    },
+    {
+      "n": 15,
+      "he": "מַיִם קַרִים לְחוֹלֶה...",
+      "it": "Acqua fredda per un malato — se ne ha bisogno per abbassare la febbre o per bere, si porta senza problemi. Anche tenere panni freddi sulla testa febbricitante è permesso, poiché non è medicina ma semplice cura fisica."
+    },
+    {
+      "n": 16,
+      "he": "מַעֲשֶׂה בְּשַׁבָּת שֶׁפָּנָה אֶחָד...",
+      "it": "Il Rambam cita esempi pratici di casi reali in cui i Saggi hanno permesso atti medici di Shabbat: compressi, bagni caldi parziali (non tutto il corpo), e altri rimedi simili, quando il malato ne ha chiaramente bisogno."
+    },
+    {
+      "n": 17,
+      "he": "עֲצֵי רְפוּאָה — אֵין מִסְתַּפְּקִין...",
+      "it": "Non si preparano farmaci (atzei refuah — letteralmente 'legni di guarigione', cioè erbe e rimedi) di Shabbat. Ma farmaci già preparati prima dello Shabbat si possono usare liberamente per qualsiasi malato che ne abbia bisogno."
+    },
+    {
+      "n": 18,
+      "he": "רוּחַ רָעָה — אֵין מְרַפְּאִין...",
+      "it": "Non si usano pratiche magiche o incantesimi (ruach ra'ah — spiriti maligni) per la cura di Shabbat, né di nessun altro giorno. Il Rambam condanna qualsiasi pratica che sia nei confini della superstizione."
+    },
+    {
+      "n": 19,
+      "he": "מֻכֶּה שְׁחִין — מוּתָּר לְהַנִּיחַ...",
+      "it": "Per chi ha una piaga infetta (shchin) si può mettere di Shabbat una medicazione già preparata prima dello Shabbat. Non si può però preparare la medicazione di Shabbat stesso."
+    },
+    {
+      "n": 20,
+      "he": "כָּל הַנַּ\"ל — אֵין בָּהֶם אִסּוּר תּוֹרָה...",
+      "it": "Conclude il capitolo: tutti i divieti sopracitati riguardo alla medicina di Shabbat sono di origine rabbinica, non biblica. La Torah consente di trattare i malati; i Saggi hanno aggiunto restrizioni per evitare la macinatura di farmaci. In caso di pericolo di vita, tutta la medicina è permessa senza eccezione."
+    }
+  ],
+  "_glossary_terms_used": ["melachah", "shechikah", "tzaar ba'alei chayyim", "reshut ha-rabbim", "shchin", "kesher shel kayama", "tefillin", "amira le-nochri"]
+}

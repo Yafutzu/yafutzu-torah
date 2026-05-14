@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Shaalah UPikkadon 5-7",
+  "name_he": "משנה תורה, הלכות שאלה ופקדון, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi del Prestito e del Deposito, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-11-12",
+  "hebrew_date": "3 Kislev 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "5:1-4",
+      "he": "שְׁבוּעַת הַשּׁוֹמְרִים — כֵּיצַד נִשְׁבָּעִין…",
+      "it": "(Shaalah UPikkadon cap. 5, hal. 1-4) Il giuramento dei custodi (shevuat ha-shomrim): quando un custode afferma di non aver commesso negligenza e il proprietario contesta — il custode deve giurare (nishba) di aver eseguito il suo dovere di custodia con diligenza. Il giuramento è obbligatorio solo per i tipi di custodi a cui la Torah ha dato responsabilità halakhica (shomer chinam, shomer sachar). Il giuramento si presta con la Torah o con i tefillin in mano, con l'invocazione del nome divino. Chi giura il falso (shevuat shav) commette un peccato gravissimo."
+    },
+    {
+      "n": "5:5-8",
+      "he": "הַשּׁוֹמֵר שֶׁשָּׁלַח יָד בַּפִּקָּדוֹן — גַּנָּב הוּא…",
+      "it": "(Shaalah UPikkadon cap. 5, hal. 5-8) Il custode che usa l'oggetto depositato (shalach yad — stende la mano): un custode a cui è stato affidato un oggetto non può usarlo per i propri scopi — anche temporaneamente. Se usa l'oggetto — diventa ladro (ganav) rispetto alla quota del proprietario. Anche se l'oggetto viene poi restituito intatto — il custode ha violato la fiducia del depositante. La responsabilità del custode che ha «steso la mano» diventa quella del sho'el (responsabilità massima, incluso ones) dal momento in cui ha usato l'oggetto."
+    },
+    {
+      "n": "6:1-4",
+      "he": "הַפִּקָּדוֹן שֶׁנֶּחְמַד — שׁוֹמֵר שֶׁכָּפַר…",
+      "it": "(Shaalah UPikkadon cap. 6, hal. 1-4) Il custode che nega di aver ricevuto il deposito (shomer she-kafar): se il custode afferma falsamente di non aver mai ricevuto l'oggetto — diventa ladro (ganav). Il depositante porta testimoni che dimostrano il contrario — il custode mentitore deve pagare il doppio come un normale ladro (kefel). Il principio: la fiducia (emunah) tra le parti è il fondamento di tutto il sistema dei custodi — chi nega falsamente viola questa fiducia fondamentale."
+    },
+    {
+      "n": "7:1-4",
+      "he": "מֵתָה הַבְּהֵמָה בַּמְּלָאכָה — נִשְׁבָּע וְנִפְטָר…",
+      "it": "(Shaalah UPikkadon cap. 7, hal. 1-4) Fine della responsabilità del custode: quando l'oggetto viene restituito al proprietario o all'agente autorizzato del proprietario — la responsabilità del custode termina. La consegna deve essere al proprietario stesso o ad una persona esplicitamente autorizzata a ricevere a suo nome. Se il custode consegna l'oggetto a un figlio minore del proprietario, o a qualcuno che afferma di essere autorizzato ma non lo è — il custode rimane responsabile per l'oggetto fino a che non perviene nelle mani del proprietario effettivo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevuat ha-shomrim", "shomer chinam", "shomer sachar", "shalach yad", "ganav", "sho'el", "ones", "emunah", "kefel", "shevuat shav"
+  ]
+}

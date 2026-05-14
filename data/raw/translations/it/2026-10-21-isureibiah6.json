@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 6",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק ו",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-21",
+  "hebrew_date": "10 Cheshvan 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִשְׁכַּב זָכוּר — אָסוּר מִן הַתּוֹרָה, שֶׁנֶּאֱמַר: לֹא תִשְׁכַּב אֶת זָכָר…",
+      "it": "Le relazioni omosessuali tra maschi (mishkav zakhar) sono proibite dalla Torah, come recita il versetto «lo tishkav et zachar mishkevei ishah — non giacerai con un maschio come si giace con una donna; è un'abominazione (to'evah)» (Vayikra 18:22). La proibizione è da Vayikra 20:13 soggetta alla pena di sekilah (lapidazione) se ci sono testimoni e previo avvertimento, e a karet se non ci sono. La Torah usa il termine to'evah — un termine di particolare repulsione — per indicare la gravità di questa proibizione."
+    },
+    {
+      "n": 2,
+      "he": "הַבָּא עַל הַזָּכָר — בֵּין שֶׁהָיָה הַזָּכָר יִשְׂרָאֵל בֵּין שֶׁהָיָה נָכְרִי — חַיָּב…",
+      "it": "La proibizione si applica indipendentemente dall'identità del partner: sia che l'altro maschio sia un ebreo che un non-ebreo. Il soggetto attivo è obbligato alla pena. Per quanto riguarda il soggetto passivo: se era adulto e consenziente — anch'egli è colpevole. Se era minore di nove anni — è considerato come se non vi fosse atto (psicologicamente e legalmente) e non è colpevole. Il principio generale: la colpa richiede da'at (consapevolezza) e ratzon (volontà)."
+    },
+    {
+      "n": 3,
+      "he": "מִשְׁכַּב הַבְּהֵמָה — אָסוּר מִן הַתּוֹרָה לָאִישׁ, שֶׁנֶּאֱמַר: וּבְכָל בְּהֵמָה לֹא תִתֵּן שְׁכָבְתְּךָ…",
+      "it": "La bestialità (mishkav behemah — relazione con un animale) è proibita per l'uomo dalla Torah: «e con nessun animale darai il tuo sperma, per contaminarti con esso» (Vayikra 18:23). La proibizione si applica sia a bestie domestiche (behemot) che ad animali selvatici (chayyot) e uccelli. La pena è sekilah con testimoni e avvertimento."
+    },
+    {
+      "n": 4,
+      "he": "אַף הָאִשָּׁה מֻזְהֶרֶת שֶׁלֹּא תָּבִיא עֲלֶיהָ בְּהֵמָה…",
+      "it": "Anche la donna è proibita dalla bestialità: «e una donna non si presenterà davanti a un animale per unirsi a esso» (Vayikra 18:23). La pena per la donna è ugualmente la sekilah. Inoltre, l'animale coinvolto è messo a morte anche se è evidente che non ha colpa — per due ragioni: (a) perché fu lo strumento di un atto vergognoso e (b) per evitare che si dica «questa bestia causò la morte di tale persona». La morte dell'animale ha quindi anche una funzione di «pulizia» sociale."
+    },
+    {
+      "n": 5,
+      "he": "הַסּוֹדֵם — הַמֵּבִיא עַצְמוֹ בְּמִין הַמִּשְׁכַּב שֶׁל זְכָרִים — לוֹקֶה…",
+      "it": "Chi tenta un atto omosessuale ma non lo completa (ha-sodem — il sodomizzante che non completa l'atto) è comunque soggetto a malkot (fustigazione), poiché i preliminari di un atto proibito sono anch'essi proibiti. Questa regola illustra il principio generale: la Torah proibisce non solo l'atto completato ma anche le azioni preparatorie che conducono al peccato. Il «seyag» (siepe) attorno agli atti proibiti è esso stesso un elemento della legge."
+    },
+    {
+      "n": 6,
+      "he": "הַמִּתְיַחֵד עִם זָכָר — אֵין בּוֹ אִסּוּר מִן הַתּוֹרָה…",
+      "it": "La seclusion (yichud) tra due maschi — non è proibita dalla Torah stessa, poiché la Torah non presume che gli uomini ebrei tendano a questo peccato. Tuttavia i Saggi hanno discusso se proibirla in luoghi dove tale peccato è comune. In luoghi dove la corruzione morale è diffusa tra i maschi, i Saggi hanno applicato il divieto di yichud anche tra maschi. Il Rambam indica che la valutazione dipende dal contesto geografico e culturale."
+    },
+    {
+      "n": 7,
+      "he": "שִׁבְעַת מִצְווֹת שֶׁנִּצְטַוּוּ בְּנֵי נֹחַ — כּוֹלְלוֹת אִסּוּר גִּלּוּי עֲרָיוֹת…",
+      "it": "Le sette mitzvot dei figli di Noé (sheva mitzvot bnei Noach) includono la proibizione delle relazioni sessuali illecite (gilui arayot). Per i non-ebrei, la proibizione delle relazioni omosessuali è inclusa nel divieto generale delle arayot. Un non-ebreo che transgredisce queste norme è giudicato secondo le leggi noachidi. Questo sottolinea che la proibizione delle relazioni omosessuali non è solo una particolarità della legge ebraica ma un imperativo morale universale codificato nelle leggi noachidi."
+    },
+    {
+      "n": 8,
+      "he": "אֵלּוּ הָאִסּוּרִים חֲמוּרִים בְּיוֹתֵר — כִּי הֵם פּוֹגְמִים בְּיִחוּד הַמַּחֲשָׁבָה וְהַיְּצִירָה…",
+      "it": "Il Rambam conclude il capitolo con una nota teologica: questi divieti — omosessualità e bestialità — sono tra i più gravi perché pervertono il fine della sessualità umana, che è la creazione di vita e la costruzione della famiglia. La Torah vede la sessualità non come mero istinto ma come atto sacro orientato verso la procreazione (peru u-revu) e verso la kedushah della vita familiare. Qualunque deviazione da questa finalità è definita to'evah — un'abominazione — perché tradisce il fine per cui la capacità sessuale è stata donata all'uomo. La gradazione delle pene riflette la gravità delle diverse trasgressioni."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mishkav zakhar", "to'evah", "sekilah", "karet", "malkot", "seyag", "yichud", "sheva mitzvot bnei Noach", "gilui arayot", "peru u-revu", "kedushah"
+  ]
+}

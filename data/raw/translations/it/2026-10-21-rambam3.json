@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mechirah 25-27",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים כה-כז",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 25-27",
+  "cycle": "rambam-3",
+  "date": "2026-10-21",
+  "hebrew_date": "10 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "25:1-6",
+      "he": "הַמּוֹכֵר פֵּרוֹת לַחֲבֵרוֹ — וְנִתְקַלְקְלוּ קֹדֶם שֶׁהִגִּיעוּ לְיַד הַלּוֹקֵחַ…",
+      "it": "(Mechirah cap. 25) Vendita di frutti e prodotti agricoli — responsabilità per il deterioramento in transito: se i frutti si deteriorano prima della consegna (misheyad al she-yad — mentre ancora in mano al venditore) — il venditore sopporta la perdita e la vendita è annullabile. Se i frutti si deteriorano dopo la consegna — l'acquirente sopporta la perdita. Il momento del trasferimento del rischio (chazarah be-yd ha-lokeach) è fondamentale. Forza maggiore (ones) durante il trasporto: dipende da chi sosteneva il rischio al momento dell'ones."
+    },
+    {
+      "n": "26:1-7",
+      "he": "הַמּוֹכֵר יַיִן לַחֲבֵרוֹ — וְנֶחְמַץ קֹדֶם שֶׁמָּכַר…",
+      "it": "(Mechirah cap. 26) Vendita di vino — caso speciale: se il vino si trasforma in aceto (chametz) dopo la vendita ma prima della consegna — la questione dipende da quando iniziò il processo di fermentazione. Se il processo era già iniziato al momento della vendita (mum she-hayah kodem) — è mekach ta'ut (vendita per errore) e si annulla. Se il vino era sano al momento della vendita e si è trasformato dopo — l'acquirente sopporta la perdita. La presunzione di buono stato (chazakah de-kashrus) si applica al vino al momento della vendita. Regola della hazakah: si presume che le cose rimangano nel loro stato attuale fino a prova contraria."
+    },
+    {
+      "n": "27:1-5",
+      "he": "הַמּוֹכֵר בְּחֶזְקַת תַּמִּים — אִם נִמְצָא מְחֻסָּר — יַחְזֹר…",
+      "it": "(Mechirah cap. 27) Il principio di hazakah (presunzione di status) nelle transazioni commerciali: se qualcosa viene venduto con la presunzione di essere completo e integro (chazkat tamim) e risulta difettoso — la vendita è annullabile. La hazakah è uno degli strumenti fondamentali del diritto ebraico: in assenza di prova contraria, si presume che lo stato attuale di una cosa corrisponda al suo stato precedente. Questa presunzione è applicata sia nelle leggi commerciali che in quelle rituali e familiari, dimostrando l'unità sistematica del diritto ebraico."
+    }
+  ],
+  "_glossary_terms_used": [
+    "misheyad", "ones", "mum she-hayah kodem", "mekach ta'ut", "chazakah", "chazakah de-kashrus", "chazkat tamim"
+  ]
+}

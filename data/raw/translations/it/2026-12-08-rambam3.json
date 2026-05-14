@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 21-23",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים כא-כג",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 21-23",
+  "cycle": "rambam-3",
+  "date": "2026-12-08",
+  "hebrew_date": "29 Kislev 5787 — Chanukah giorno 5",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "21:1-5",
+      "he": "זָקֵן מַמְרֶא — מִי הוּא...",
+      "it": "(Sanhedrin cap. 21, hal. 1-5) Zaken mamre (il saggio anziano ribelle): un membro del Sinedrio o un sage rabbinico che emette una decisione halachica in contrasto con il Gran Sinedrio e istruisce il pubblico a seguire la sua posizione — è soggetto alla pena capitale. Non basta dissentire internamente; solo chi «insegna e agisce» contro la decisione del Sinedrio è punibile. Il principio: la Torah richiede che la communità ebraica abbia un'autorità halakhica centrale — senza di essa, si frammenterebbe in infinite sette. Chanukah 5: Hallel recitato tutta la giornata; cinque libri della Torah — la Torah unificata che il zaken mamre minaccia."
+    },
+    {
+      "n": "22:1-4",
+      "he": "בֶּן סוֹרֵר וּמוֹרֶה — מִי הוּא...",
+      "it": "(Sanhedrin cap. 22, hal. 1-4) Ben sorer u-moreh (il figlio ribelle e ostinato): un ragazzo tra la sua prima crescita di barba (bar mitzvah) e la crescita completa (circa tre mesi dopo), che ruba dal padre per acquistare carne e vino per la gozzoviglia con «anshei meriut» (compagni dissoluti). Viene giustiziato non per ciò che ha fatto, ma per ciò che diventerà: la Torah «prevede» che questo percorso lo porterà all'omicidio. Il Rambam cita il principio talmudico: «yimot zakkai ve-al yimot chayav» — meglio che muoia da innocente (ora) piuttosto che muoia da colpevole (dopo aver commesso omicidio)."
+    },
+    {
+      "n": "23:1-4",
+      "he": "כֵּיצַד מַלְקִין — קוֹשְׁרִין שְׁתֵּי יָדָיו...",
+      "it": "(Sanhedrin cap. 23, hal. 1-4) La procedura della fustigazione (malkot): le mani del condannato vengono legate a un palo di legno; il giudice più anziano del beit din legge i versetti di rimprovero (tochacha) dalla Torah; uno dei giudici minori conta i colpi; il terzo giudice dà il segnale per ogni colpo. Il terzo viene somministrato sulla schiena (2/3 sul petto, 1/3 sulla schiena secondo alcune tradizioni). Chanukah 5: cinque libri del Pentateuco — la fustigazione accompagnata dalla lettura pubblica della Torah ricorda al condannato che le leggi vengono dalla Torah stessa."
+    }
+  ],
+  "_glossary_terms_used": [
+    "zaken mamre", "Sanhedrin", "ben sorer u-moreh", "anshei meriut", "yimot zakkai ve-al yimot chayav", "malkot", "tochacha", "beit din", "Hallel"
+  ]
+}

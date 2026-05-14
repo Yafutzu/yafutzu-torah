@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 3",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ג",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-22",
+  "hebrew_date": "13 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נִדְרֵי שְׁגָגוֹת — כֵּיצַד…",
+      "it": "I «nidrei shegagot» (voti fatti per errore) sono voti basati su una premessa falsa o su una comprensione errata della realtà. Il principio: se il motivo dichiarato del voto si rivela inesistente, il voto è nullo fin dall'inizio. Esempio classico: «konam se beneficio da Shim'on — perché mi ha rubato» — e poi si scopre che Shim'on non ha rubato nulla. Il voto era fondato su una premessa falsa, quindi è privo di effetto."
+    },
+    {
+      "n": 2,
+      "he": "אָמַר «קׂוֹנָם אִשְׁתִּי נֶהֱנֵית לִי שֶׁגָּנְבָה אֶת כִּיסִי» — וְנִמְצָא שֶׁלֹּא גָנְבָה…",
+      "it": "Chi dichiara «konam se mia moglie beneficia di me perché ha rubato il mio portafoglio» — e poi risulta che non ha rubato — il voto è nullo. Non è necessario andare davanti al saggio per scioglierlo (hatarat nedarim): poiché la premessa era falsa, il voto non aveva mai avuto effetto giuridico. Questo principio di nidrei shegagot alleggerisce notevolmente la severità del sistema dei voti, riconoscendo che le persone spesso votano in momenti di emozione basandosi su fatti non verificati."
+    },
+    {
+      "n": 3,
+      "he": "הַפֶּתַח — פְּתִיחַת שַׁעַר לְהֶתֵּר הַנֵּדֶר…",
+      "it": "Il «petach» (apertura/varco) è il concetto fondamentale per lo scioglimento dei voti davanti a un saggio. Il petach non è una semplice revoca del voto — è l'identificazione di una circostanza cambiata che dimostra che il voto era basato su una comprensione parziale o incompleta. Il saggio identifica il petach: «se avessi saputo X al momento del voto, avresti votato lo stesso?» Se la risposta è no, il voto viene sciolto dalla radice."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד הַפֶּתַח — «אִילּוּ יָדַעְתָּ שֶׁיִּהְיוּ בָנֶיךָ בּוֹכִים בִּגְלָלְךָ»…",
+      "it": "Come funziona il petach nella pratica? Il saggio chiede al votante: «Se avessi saputo che i tuoi figli avrebbero pianto per questo voto, avresti votato?» — e il votante risponde: «No, non avrei votato.» Questa è una forma di petach valida, perché dimostra che il votante non aveva considerato le conseguenze complete del suo voto. Il saggio può quindi sciogliere il voto basandosi sulla mancanza di consapevolezza piena al momento della sua formulazione."
+    },
+    {
+      "n": 5,
+      "he": "פֶּתַח — צָרִיךְ לִהְיוֹת דָּבָר שֶׁהָיָה בְּטֶבַע הַנֵּדֶר…",
+      "it": "Il petach deve essere qualcosa che era già «nell'ambito del voto» al momento in cui fu pronunciato — cioè una circostanza che il votante non aveva considerato, ma che era già presente nella realtà. Non si può inventare un petach post-hoc: deve essere una circostanza reale, preesistente, che il votante non aveva valutato. Il saggio svolge quindi una funzione investigativa: identifica la lacuna nella comprensione del votante, non crea un'eccezione arbitraria."
+    },
+    {
+      "n": 6,
+      "he": "חָרָטָה — הִיא הִסְתַּלְּקוּת הַלֵּב מִן הַנֵּדֶר…",
+      "it": "La «charatah» (pentimento/rimpianto) è la condizione soggettiva necessaria per lo scioglimento del voto: il votante deve genuinamente rimpiangere di aver votato. Non è sufficiente che la circostanza esterna sia cambiata — occorre anche che il cuore del votante si sia allontanato dal voto. La combinazione di petach (apertura oggettiva) e charatah (rimpianto soggettivo) è il fondamento dello scioglimento dei voti. Il Rambam vede in questo sistema una saggezza profonda: i voti legano ma non intrappolano — la Torah ha previsto vie d'uscita legittime per chi si trova in difficoltà."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nidrei shegagot", "konam", "petach", "charatah", "hatarat nedarim", "neder"
+  ]
+}

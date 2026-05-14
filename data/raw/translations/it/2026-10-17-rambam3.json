@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Mechirah 13-15",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים יג-טו",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 13-15",
+  "cycle": "rambam-3",
+  "date": "2026-10-17",
+  "hebrew_date": "6 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "13:1-6",
+      "he": "הַמּוֹכֵר עַל תְּנַאי — אִם נִתְקַיֵּם הַתְּנַאי נִתְקַיֵּם הַמֶּכֶר…",
+      "it": "(Mechirah cap. 13) Vendita condizionale (mechirah al tenai): se la condizione è soddisfatta, la vendita è valida retroattivamente dal momento del contratto; se non è soddisfatta, la vendita è nulla fin dall'inizio. Perché una condizione sia vincolante deve soddisfare quattro criteri («tenai kaful»): deve essere formulata in forma doppia (positivo e negativo), deve precedere l'atto principale, la parte positiva deve precedere quella negativa, e la condizione deve essere applicabile. Una vendita effettuata sotto costrizione fisica diretta (ones gamur) — è invalida, poiché manca il «gemirat da'at» (consenso finale della mente). Una vendita effettuata da un minore, un imbecile o un sordo-muto (cheresh) — non è valida per mancanza di capacità giuridica (da'at kenuya)."
+    },
+    {
+      "n": "13:7-11",
+      "he": "הַמּוֹכֵר בְּלֵב שֶׁאֵינוֹ רוֹצֶה לִמְכֹּר — כְּגוֹן שֶׁהִכְרִיחוּהוּ עַכּוּ\"ם…",
+      "it": "(Mechirah cap. 13, cont.) Una vendita realizzata sotto pressione economica o morale grave (ones she-eino gamur — costrizione non totale) è discussa: il Rambam ritiene che tale vendita sia valida, poiché alla fine il venditore ha accettato il denaro e la sua mente ha raggiunto un accordo (gemirat da'at). La distinzione fondamentale: costrizione fisica assoluta (la mano viene guidata fisicamente) invalida l'atto; pressione economica o minacce non fisiche — l'atto è valido retroattivamente quando il venditore accetta il corrispettivo. Vendite fatte in tono di scherzo (be-divrei shtut) o chiaramente non serie — non sono mai vincolanti."
+    },
+    {
+      "n": "14:1-7",
+      "he": "אַסְמַכְתָּא — הוּא שֶׁיַּעֲשֶׂה אָדָם קִנְיָן עַל דָּבָר שֶׁאֵינוֹ בָּטוּחַ שֶׁיִּהְיֶה…",
+      "it": "(Mechirah cap. 14) Asmachta (garanzia condizionale eccesiva, «appoggio» su un evento futuro incerto): quando una persona assume un impegno condizionato a un evento futuro su cui non ha certezza — ad esempio: «Se non ti pagherò entro 30 giorni, il mio campo sia tuo» — questo impegno non è vincolante, poiché al momento dell'impegno la persona non aveva vera intenzione (gemirat da'at) di cedere il bene; si aspettava di adempiere la condizione. Il Rambam stabilisce: l'asmachta non acquisisce (asmachta lo kanya). Eccezione: se il contratto fu stipulato davanti a un bet din (tribunale) importante, o se fu eseguito un kinyan (atto di acquisizione formale) senza riserva — allora è vincolante secondo molte autorità."
+    },
+    {
+      "n": "15:1-5",
+      "he": "הַמּוֹכֵר לַחֲבֵרוֹ דָּבָר שֶׁלֹּא בָּא לָעוֹלָם — אֵין הַמֶּכֶר חָל…",
+      "it": "(Mechirah cap. 15) Vendita di cose non ancora esistenti (davar she-lo ba le-olam — una cosa che non è ancora venuta al mondo): tale vendita non è valida, poiché non si può trasferire ciò che non esiste ancora. Esempio: vendere il raccolto futuro del proprio campo prima che la semina abbia avuto luogo. Tuttavia, se il bene era «imminente» (semikhah) — come il pesce che si pescherà oggi dalla propria rete — alcuni lo permettono. La regola del Rambam: la vendita di cose future non produce acquisizione immediata ma può creare un obbligo personale (chiyuv gavra) di consegnare quando il bene esisterà. Queste distinzioni sono fondamentali nella teoria contrattuale della halachah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mechirah al tenai", "tenai kaful", "ones", "gemirat da'at", "cheresh", "asmachta", "kinyan", "bet din", "davar she-lo ba le-olam", "chiyuv gavra", "da'at kenuya"
+  ]
+}

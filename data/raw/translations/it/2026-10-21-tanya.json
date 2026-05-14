@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 29",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כט",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera della Santità), lettera 29",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-21",
+  "hebrew_date": "10 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עוֹלַם הַתֹּהוּ — הוּא עוֹלָם שֶׁהָיָה לִפְנֵי עוֹלַם הַתִּקּוּן…",
+      "it": "Questa lettera introduce un concetto kabbalistico fondamentale: «olam ha-tohu» (il mondo del caos) contro «olam ha-tikkun» (il mondo della correzione). Secondo la Kabbalah del Ari (Rabbi Yitzchak Luria), prima della creazione attuale esisteva un «mondo del tohu» in cui splendevano luci divine di enorme intensità — ma i vasi (kelim) che le contenevano erano troppo fragili e si ruppero sotto la loro potenza. Questo evento cosmico si chiama «shevirat ha-kelim» — la rottura dei vasi. I frammenti di questi vasi, con le scintille divine intrappolate in essi, caddero verso il basso e formarono la radice della realtà materiale e delle forze negative (kelipot)."
+    },
+    {
+      "n": 2,
+      "he": "נְשָׁמוֹת הַדּוֹר הָאַחֲרוֹן — בָּאוֹת מֵעוֹלַם הַתֹּהוּ…",
+      "it": "L'Alter Rebbe applica questo schema cosmico alla comprensione delle anime dell'ultima generazione (dor acharon — la generazione prima di Moshiach): queste anime provengono dalla radice del «mondo del tohu». Ciò significa che hanno una luce interiore (ohr pnimi) di enorme intensità — passione spirituale, profondità, capacità di sacrificio — ma i loro «vasi» (kelim — la struttura psicologica ed emotiva) sono fragili. Questo spiega la paradossale combinazione caratteristica di queste anime: grandissima intensità spirituale unita a grande fragilità emotiva e instabilità. Non è un difetto — è una caratteristica strutturale delle anime del tohu."
+    },
+    {
+      "n": 3,
+      "he": "וּמִשּׁוּם כָּךְ — עֲבוֹדַת הַדּוֹר הָאַחֲרוֹן הִיא לְהַכִּיל אֶת הָאוֹר בְּתוֹךְ כֵּלִים…",
+      "it": "La missione spirituale dell'ultima generazione, secondo l'Alter Rebbe, è quindi quella di costruire «vasi» sufficientemente solidi e raffinati da contenere la grande luce che le loro anime portano. Questo si realizza attraverso la Torah e le mitzvot: lo studio, l'osservanza meticolosa, la disciplina interiore — tutto ciò crea «vasi» dell'anima (kelim de-nefesh) più solidi e capaci. L'Alter Rebbe usa questa comprensione anche per consolare le anime del tohu: la loro fragilità non è una vergogna ma una caratteristica di chi porta una luce enorme. Il compito non è diminuire la luce ma rafforzare i vasi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "olam ha-tohu", "olam ha-tikkun", "shevirat ha-kelim", "kelim", "kelipot", "ohr pnimi", "dor acharon", "Ari", "Moshiach"
+  ]
+}

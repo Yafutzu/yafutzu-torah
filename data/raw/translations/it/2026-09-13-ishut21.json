@@ -1,0 +1,30 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 21",
+  "name_he": "משנה תורה, הלכות אישות, פרק כא",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 21",
+  "cycle": "rambam-1",
+  "date": "2026-09-13",
+  "hebrew_date": "2 Tishrei 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {"n": 1, "he": "הָאַלְמָנָה נִזּוֹנֶת מִנְּכָסֵי יְתוֹמִים כָּל זְמַן שֶׁהִיא אַלְמָנָה.", "it": "La vedova è mantenuta dai beni degli orfani per tutto il tempo in cui è vedova."},
+    {"n": 2, "he": "זוֹ הִיא תַּקָּנַת חֲכָמִים — שֶׁהָאַלְמָנָה תִּנָּזֵן מִנְּכָסֵי בַּעְלָהּ הַמֵּת.", "it": "Questo è il decreto dei Saggi — che la vedova sia mantenuta dai beni del marito defunto."},
+    {"n": 3, "he": "כְּמָה הִיא נִזּוֹנֶת? כְּפִי שֶׁנִּזּוֹנֶת בְּחַיֵּי בַּעְלָהּ.", "it": "Quanto è mantenuta? Secondo quanto era mantenuta in vita del marito."},
+    {"n": 4, "he": "יֵשׁ לָהּ בְּרֵירָה — אוֹ לִגְבּוֹת כְּתֻבָּתָהּ אוֹ לִנָּזֵן מִנְּכָסֵי הַיְּתוֹמִים.", "it": "Ha una scelta — o riscuotere la sua ketubah o essere mantenuta dai beni degli orfani."},
+    {"n": 5, "he": "בָּחֲרָה לְהִנָּזֵן — אֵינָהּ יְכוֹלָה לִגְבּוֹת כְּתֻבָּתָהּ לְאַחַר מִכֵּן.", "it": "Se ha scelto di essere mantenuta — non può poi riscuotere la sua ketubah."},
+    {"n": 6, "he": "בָּחֲרָה לִגְבּוֹת כְּתֻבָּתָהּ — פּוֹסְקִין מֵזּוֹנוֹתֶיהָ.", "it": "Se ha scelto di riscuotere la ketubah — cessano i suoi alimenti."},
+    {"n": 7, "he": "לֹא בָּחֲרָה — הַיּוֹרְשִׁים יְכוֹלִים לוֹמַר לָהּ 'טְלִי כְּתֻבָּתֵךְ וְצְאִי'.", "it": "Se non ha scelto — gli eredi possono dirle 'prendi la tua ketubah e vattene'."},
+    {"n": 8, "he": "נִשֵּׂאת הָאַלְמָנָה — פָּסְקוּ מְזוֹנוֹתֶיהָ, שֶׁהַבַּעַל הַשֵּׁנִי חַיָּב בְּמְזוֹנוֹתֶיהָ.", "it": "Se la vedova si è risposata — cessano i suoi alimenti, poiché il secondo marito è obbligato al suo sostentamento."},
+    {"n": 9, "he": "זָנְתָה הָאַלְמָנָה — פָּסְקוּ מְזוֹנוֹתֶיהָ.", "it": "Se la vedova ha commesso adulterio — cessano i suoi alimenti."},
+    {"n": 10, "he": "הָאַלְמָנָה שֶׁמָּחֲלָה מְזוֹנוֹתֶיהָ — מְחִילָתָהּ קַיֶּמֶת.", "it": "La vedova che ha rinunciato al suo sostentamento — la sua rinuncia è valida."},
+    {"n": 11, "he": "הָאַלְמָנָה שֶׁנִּזּוֹנֶת מִנְּכָסֵי יְתוֹמִים — אֵינָהּ יְכוֹלָה לִמְכֹּר אֶת נְכָסֵי הַיְּתוֹמִים.", "it": "La vedova che è mantenuta dai beni degli orfani — non può vendere i beni degli orfani."},
+    {"n": 12, "he": "אֶלָּא בֵּית דִּין מַנִּיחִים לָהּ מְזוֹנוֹת מִנְּכָסֵי הַיְּתוֹמִים כְּפִי הַצֹּרֶךְ.", "it": "Piuttosto il beit din le assegna alimenti dai beni degli orfani secondo il bisogno."},
+    {"n": 13, "he": "הָאַלְמָנָה שֶׁנֶּאֱמַן לָהּ הַבַּעַל 'תִּנָּשֵׂאִי לִפְלוֹנִי' — כּוֹפִין אוֹתָהּ.", "it": "La vedova a cui il marito ha ordinato 'sposati con tal dei tali' — la si costringe."},
+    {"n": 14, "he": "וְיֵשׁ אוֹמְרִים שֶׁאֵין כּוֹפִין אֶלָּא שׁוֹמְעִין לְבַקָּשָׁה.", "it": "E alcuni dicono che non si costringe, ma si ascolta la richiesta."},
+    {"n": 15, "he": "הָאַלְמָנָה הַתּוֹבַעַת כְּתֻבָּתָהּ מִן הַיּוֹרְשִׁים — נִשְׁבַּעַת.", "it": "La vedova che richiede la sua ketubah dagli eredi — giura."},
+    {"n": 16, "he": "הַיּוֹרְשִׁים שֶׁטּוֹעֲנִים שֶׁהָאַלְמָנָה גָּבְתָה כְּבָר — עֲלֵיהֶם הָרְאָיָה.", "it": "Se gli eredi sostengono che la vedova ha già riscosso — sta a loro portare la prova."},
+    {"n": 17, "he": "מֵתָה הָאַלְמָנָה — מְגַבּוֹת יוֹרְשֶׁיהָ כְּתֻבָּתָהּ.", "it": "Se la vedova è morta — i suoi eredi riscuotono la sua ketubah."},
+    {"n": 18, "he": "יוֹרְשֵׁי הָאַלְמָנָה עוֹמְדִים בִּמְקוֹמָהּ לְכָל דָּבָר.", "it": "Gli eredi della vedova si trovano al suo posto in ogni questione."}
+  ],
+  "_glossary_terms_used": ["ketubah", "mezonot", "beit din", "Rosh Hashanah"]
+}

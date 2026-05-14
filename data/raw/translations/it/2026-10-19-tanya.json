@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 27",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כז",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera della Santità), lettera 27",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-19",
+  "hebrew_date": "8 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מִצְוַת הַמַּעֲשֵׂר — שֶׁיַּפְרִישׁ אָדָם עֲשִׂירִית מִמַּשְׂכֻּרְתּוֹ לִצְדָקָה…",
+      "it": "Questa lettera tratta dell'obbligo di dare il ma'aser (decima) delle proprie entrate a tzedakah (carità). L'Alter Rebbe spiega che questo obbligo non è solo legale ma ha una profonda struttura spirituale. Chi separa la decima dei propri guadagni — attrae benedizione divina (berakhah) nei nove decimi rimanenti. Il versetto «asser te'asser» (Devarim 14:22) è letto dai Saggi anche come «asser bishvil she-tit'asher» — «separa la decima affinché tu diventi ricco»: la tzedakah non impoverisce chi la dà, ma apre canali di abbondanza divina."
+    },
+    {
+      "n": 2,
+      "he": "וְהַטַּעַם לְכָךְ — כִּי הַצְּדָקָה נִקְרֵאת בְּשֵׁם 'צֶדֶק' — מִשּׁוּם שֶׁהִיא צֶדֶק אֲמִתִּי…",
+      "it": "L'Alter Rebbe spiega l'etimologia profonda della parola tzedakah: deriva da «tzedek» (giustizia). Non è solo «carità» nel senso di generosità volontaria — è giustizia vera. I beni materiali che ogni persona possiede appartengono in ultima analisi a D-o; l'uomo è solo un custode (shomer). Quando dà tzedakah, l'uomo restituisce ai poveri — che sono i figli di D-o — ciò che è già loro di diritto. Da questa prospettiva, trattenere la tzedakah non è avarizia ma ingiustizia. Questa visione trasforma radicalmente l'atto del dare: non è generosità ma restituzione."
+    },
+    {
+      "n": 3,
+      "he": "וְעוֹד — כִּי הַצְּדָקָה מְכַפֶּרֶת עַל הַחֵטְא, וּמַצִּילָה מִמָּוֶת…",
+      "it": "La tzedakah ha anche un potere di espiazione (kaparah) e di protezione: i Saggi insegnano che «tzedakah tatzil mi-mavet» (la carità salva dalla morte — Mishlei 10:2). L'Alter Rebbe spiega questo in termini chassidici: dare tzedakah con cuore aperto crea una «apertura» (pesach) nell'anima attraverso cui scende abbondanza divina di vita. Chi è chiuso nella sua ricchezza — chiude anche il canale di vitalità divina verso di sé. Chi apre la mano agli altri — apre se stesso alla benedizione dall'Alto. La lettera si conclude con un'esortazione pratica: dare la decima regolarmente, anche in tempi di ristrettezza economica."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ma'aser", "tzedakah", "berakhah", "tzedek", "shomer", "kaparah", "pesach", "asser te'asser"
+  ]
+}

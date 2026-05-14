@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 21-23",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים כא-כג",
+  "name_it": "Mishneh Torah, Leggi del Creditore e del Debitore, capitoli 21-23",
+  "cycle": "rambam-3",
+  "date": "2026-11-20",
+  "hebrew_date": "11 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "21:1-5",
+      "he": "מוֹדֶה בְּמִקְצָת — חַיָּב שְׁבוּעָה…",
+      "it": "(Malveh VeLoveh cap. 21, hal. 1-5) Chi ammette una parte del debito (modeh be-miktzat) — è obbligato a giurare riguardo alla parte negata. La logica talmudica: se ha ammesso la parte piccola, probabilmente è onesto; ma poiché nega la parte grande, forse è in difficoltà e non può pagare — dunque il giuramento è uno stimolo alla restituzione totale. Questa è la «shevu'at modeh be-miktzat» — uno dei giuramenti biblici centrali nel diritto monetario ebraico."
+    },
+    {
+      "n": "22:1-5",
+      "he": "כֵּיצַד מַשְׁבִּיעִין — עוֹמֵד וְנוֹטֵל חֵפֶץ שֶׁל מִצְוָה…",
+      "it": "(Malveh VeLoveh cap. 22, hal. 1-5) Come si esegue il giuramento? Il debitore si alza e tiene in mano un oggetto sacro (sefer Torah, tefillin) mentre pronuncia il giuramento. Il giuramento è formulato in modo esplicito e chiaro. Il beit din è responsabile di spiegare al debitore la gravità del giuramento — che chi giura il falso porta dannazione su sé stesso e sulla propria famiglia. Il giuramento è considerato uno strumento di ultima istanza, non da usare alla leggera."
+    },
+    {
+      "n": "23:1-5",
+      "he": "הַמַּלְוֶה שֶׁטָּעַן שֶׁלֹּא נִפְרַע — וְהַלּוֶה אוֹמֵר פָּרַעְתִּי…",
+      "it": "(Malveh VeLoveh cap. 23, hal. 1-5) Se il creditore afferma di non aver ricevuto il pagamento e il debitore afferma di aver pagato — il debitore deve giurare che ha pagato. Questo è chiamato «shevu'at heset» (il giuramento della risposta) — un giuramento rabbinico imposto sul debitore che nega interamente. Il giuramento del debitore che afferma di aver pagato è accettato, poiché il creditore avrebbe potuto scegliere di conservare la prova del pagamento. La responsabilità di mantenere la documentazione spetta al creditore."
+    }
+  ],
+  "_glossary_terms_used": [
+    "modeh be-miktzat", "shevu'at modeh be-miktzat", "shevu'at heset", "beit din", "sefer Torah", "tefillin"
+  ]
+}

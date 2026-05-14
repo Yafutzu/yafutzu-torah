@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chametz UMatzah 2",
+  "name_he": "משנה תורה, הלכות חמץ ומצה, פרק ב",
+  "name_it": "Mishneh Torah, Leggi del Chametz e della Matzah, capitolo 2",
+  "cycle": "rambam-1",
+  "date": "2026-07-08",
+  "hebrew_date": "23 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "חֲמִשָּׁה מִינֵי דָּגָן בִּלְבַד מִתְחַמְּצִין, וְאֵלּוּ הֵן: חִטִּים, שְׂעוֹרִים, כֻּסֶּמֶת, שִׁיפוֹן, וְשִׁבֹּלֶת שׁוּעָל.",
+      "it": "Solo cinque specie di cereali diventano chametz, e sono: frumento (chitim), orzo (se'orim), farro (kussemet), segale (shipon), e avena (shibolet shu'al)."
+    },
+    {
+      "n": 2,
+      "he": "שְׁאָר מִינֵי קִטְנִיּוֹת — אוֹרֶז, דֹּחַן, קִטְנִיּוֹת — אֵינָן מִתְחַמְּצִין אֶלָּא נִסְרָחִין.",
+      "it": "Le altre specie di legumi — riso, miglio, leguminose — non diventano chametz ma si decompongono."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד מִתְחַמְּצִין? כְּשֶׁנּוֹגֵעַ הַמַּיִם בָּהֶן וְנֶחְמֶצֶת הָעִיסָה בְּעִנְיַן שֶׁתִּתְפַּח.",
+      "it": "Come diventano chametz? Quando l'acqua viene a contatto con esse e l'impasto lievita in modo da gonfiare."
+    },
+    {
+      "n": 4,
+      "he": "הַחִיטָּה שֶׁנָּפְלָה לְמַיִם — אִם לֹא נִתְבַּקְּעָה אֵינָהּ נַעֲשֵׂית חָמֵץ.",
+      "it": "Il grano di frumento che è caduto nell'acqua — se non si è spaccato non diventa chametz."
+    },
+    {
+      "n": 5,
+      "he": "הַמְחַמֵּץ בְּחֲמִשָּׁה מִינִים אֵלּוּ — עוֹבֵר בְּלֹא תַּעֲשֶׂה.",
+      "it": "Chi lievita con queste cinque specie — viola un divieto (lo ta'aseh)."
+    },
+    {
+      "n": 6,
+      "he": "שִׁעוּר חָמֵץ שֶׁחַיָּבִין עָלָיו — כְּזַיִת.",
+      "it": "La misura minima di chametz per cui si è passibili di pena — è un volume di oliva (kazayit)."
+    },
+    {
+      "n": 7,
+      "he": "פָּחוֹת מִכְּזַיִת אָסוּר לֶאֱכֹל, אֲבָל אֵין לוֹקִין עָלָיו.",
+      "it": "Meno di un kazayit è proibito mangiarlo, ma non si riceve la flagellazione per esso."
+    },
+    {
+      "n": 8,
+      "he": "הַחָמֵץ הַמֻּחְמָץ מֵאֵלָיו — אָסוּר בַּאֲכִילָה.",
+      "it": "Il chametz che è lievitato da solo — è proibito nel mangiare."
+    },
+    {
+      "n": 9,
+      "he": "הֶחָמֵץ הָעָבָה — כְּגוֹן לֶחֶם, עוּגוֹת — הוּא הַחָמֵץ הַגָּמוּר.",
+      "it": "Il chametz solido — come il pane, le focacce — è il chametz completo."
+    },
+    {
+      "n": 10,
+      "he": "הֶחָמֵץ הַנּוֹקְשֶׁה — כְּגוֹן עִיסָה שֶׁלֹּא הִסְרִיחָה וְלֹא נִתְפַּח אֶלָּא עָבָה — הוּא חָמֵץ נוּקְשֶׁה.",
+      "it": "Il chametz duro (chametz nuksheh) — come un impasto che non si è decomposto né gonfiato ma è indurito — è il chametz duro."
+    },
+    {
+      "n": 11,
+      "he": "עַל חָמֵץ נוּקְשֶׁה — אֵין לוֹקִין, אֲבָל אָסוּר.",
+      "it": "Per il chametz duro — non si riceve la flagellazione, ma è comunque proibito."
+    },
+    {
+      "n": 12,
+      "he": "הַחִטָּה שֶׁנִּשְׁרְתָה בְּמַיִם שְׁאָר הַשָּׁנָה — אֵינָהּ מִתְחַמֶּצֶת אֶלָּא אִם כֵּן שָׁהֲתָה בָּהֶם כְּדֵי שֶׁתִּתְחַמֵּץ.",
+      "it": "Il grano che viene immerso nell'acqua durante il resto dell'anno — non diventa chametz a meno che non vi sia rimasto abbastanza a lungo da lievitare."
+    },
+    {
+      "n": 13,
+      "he": "הָעִיסָה שֶׁחִמְּמוּהָ בָּאֵשׁ — כְּדֵי לְמַהֵר בִּשּׁוּלָהּ, שֶׁלֹּא תֶחְמַץ — מֻתֶּרֶת.",
+      "it": "L'impasto che è stato riscaldato al fuoco — per accelerare la cottura e impedire che lieviti — è permesso."
+    },
+    {
+      "n": 14,
+      "he": "הַמְחַמֵּץ עִיסָתוֹ בְּפֶסַח בְּשׁוֹגֵג — אָסוּר לֶאֱכֹל אוֹתָהּ.",
+      "it": "Chi ha fatto lievitare il proprio impasto a Pesach involontariamente — è proibito mangiarla."
+    },
+    {
+      "n": 15,
+      "he": "הַמְחַמֵּץ בְּמֵזִיד — לוֹקֶה, וְהָעִיסָה אֲסוּרָה בַּאֲכִילָה.",
+      "it": "Chi fa lievitare intenzionalmente — riceve la flagellazione, e l'impasto è proibito nel mangiare."
+    },
+    {
+      "n": 16,
+      "he": "כָּל חָמֵץ שֶׁנָּפְלָה עָלָיו דְּלֵיקָה בְּפֶסַח — מֻתָּר, שֶׁנִּשְׂרַף מֵאֵלָיו.",
+      "it": "Qualsiasi chametz su cui è caduto un incendio a Pesach — è permesso, poiché si è bruciato da solo."
+    },
+    {
+      "n": 17,
+      "he": "הַחָמֵץ שֶׁנָּפַל לְתוֹךְ יַיִן אוֹ שֶׁמֶן — אוֹסֵר אֶת הַתַּעֲרוֹבֶת.",
+      "it": "Il chametz che è caduto nel vino o nell'olio — rende proibita la miscela."
+    },
+    {
+      "n": 18,
+      "he": "תַּעֲרוֹבֶת חָמֵץ — בִּטֵּל בְּשִׁשִּׁים.",
+      "it": "La miscela di chametz — è annullata se è una parte su sessanta (bitul beshishim)."
+    },
+    {
+      "n": 19,
+      "he": "אֲבָל בְּפֶסַח — חָמֵץ בְּמַשֶּׁהוּ אוֹסֵר.",
+      "it": "Ma a Pesach — anche la minima quantità di chametz (mashehu) rende proibito."
+    },
+    {
+      "n": 20,
+      "he": "הֲלָכָה זוֹ — חוּמְרָא יְתֵרָה שֶׁחִדְּשׁוּ חֲכָמִים בְּחָמֵץ בְּפֶסַח.",
+      "it": "Questa halachah — è una severità aggiuntiva che i Saggi hanno innovato riguardo al chametz a Pesach."
+    }
+  ],
+  "_glossary_terms_used": ["chametz", "chametz nuksheh", "Pesach", "kazayit", "bitul beshishim", "mashehu", "lo ta'aseh", "kitniyot", "chitim", "se'orim", "kussemet", "shipon", "shibolet shu'al"]
+}

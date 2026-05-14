@@ -1,0 +1,114 @@
+{
+  "ref": "Mishneh Torah, Sabbath 11",
+  "name_he": "משנה תורה, הלכות שבת, פרק יא",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 11",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-01",
+  "hebrew_date": "16 Sivan 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל הַכֵּלִים נִטָּלִין בְּשַׁבָּת וּמְטַלְטְלִין אוֹתָן…",
+      "it": "Tutti gli utensili si possono prendere e spostare di Shabbat — purché abbiano un uso permesso di Shabbat. Il principio generale del muktzeh (oggetti che non si possono spostare di Shabbat): un oggetto è muktzeh se non ha alcun uso permesso di Shabbat. Un oggetto che ha sia usi permessi che usi proibiti — si può spostare."
+    },
+    {
+      "n": 2,
+      "he": "כֵּלִים שֶׁמְּלַאכְתָּן לְאִסּוּר…",
+      "it": "Utensili la cui funzione principale è per una melachah proibita (kelim she-melakhtam le-issur) — ad esempio un martello, un ago da cucito, un'accetta — si possono spostare solo «le-tzorech gufo» (per un uso permesso dell'utensile stesso, come schiacciare un'arachide con il martello) o «le-tzorech mekomo» (per liberare il suo posto). Non si possono spostare senza necessità."
+    },
+    {
+      "n": 3,
+      "he": "כֵּלִים שֶׁמְּלַאכְתָּן לְהֶיתֵּר…",
+      "it": "Utensili la cui funzione principale è per un'azione permessa (kelim she-melakhtam le-heter) — come coltelli da cucina, tavole, libri — si possono spostare anche senza necessità immediata (le-tzorech gufo u-le-tzorech mekomo ve-afilu mi-chamah le-tzel — anche dalla luce del sole all'ombra)."
+    },
+    {
+      "n": 4,
+      "he": "מוּקְצֶה מַחְמַת גּוּפוֹ…",
+      "it": "Muktzeh per natura intrinseca (muktzeh machmat gufo): oggetti che non sono utensili e non hanno alcun uso di Shabbat — come pietre, terra, legna grezza, frutti ancora sull'albero. Questi non si possono spostare del tutto di Shabbat, per alcuna ragione. La ragione: non sono «meyuadim» (designati) per alcun uso di Shabbat."
+    },
+    {
+      "n": 5,
+      "he": "מוּקְצֶה מַחְמַת חֶסְרוֹן כִּיס…",
+      "it": "Muktzeh per il timore di perdita finanziaria (muktzeh machmat chesron kis): oggetti di grande valore che il proprietario vuole proteggere dall'uso quotidiano — come strumenti di lavoro costosi, rotoli di Torah, ecc. Il proprietario li ha esclusi mentalmente dall'uso di Shabbat prima di Shabbat, e questa esclusione mentale li rende muktzeh."
+    },
+    {
+      "n": 6,
+      "he": "בָּסִיס לְדָבָר הָאָסוּר…",
+      "it": "Un oggetto che è base (basis) per un oggetto muktzeh — diventa anch'esso muktzeh. Esempio: un tavolo su cui si trova una lampada accesa — non si può spostare il tavolo, poiché spostarlo significherebbe spostare la lampada (muktzeh). Se sul tavolo ci sono sia oggetti permessi che proibiti — dipende da quale il proprietario preferisce."
+    },
+    {
+      "n": 7,
+      "he": "נוֹלָד — אָסוּר…",
+      "it": "Nolad («nato» = qualcosa di nuovo che non esisteva prima di Shabbat) — è proibito: ad esempio, il guscio di un uovo rotto di Shabbat (il guscio non esisteva come oggetto separato prima di Shabbat). Le candele spente (pekaat ba-shabbat) — il moccolo rimasto dopo l'estinzione della fiamma è nolad e non si può spostare."
+    },
+    {
+      "n": 8,
+      "he": "כֵּלִים שֶׁנִּשְׁבְּרוּ בְּשַׁבָּת…",
+      "it": "Utensili che si sono rotti di Shabbat — i pezzi sono muktzeh (nolad) se il pezzo rotto non ha più alcun uso. Ma se il pezzo ha ancora un uso — non è muktzeh. Esempio: un bastone di legno che si è spezzato di Shabbat — i pezzi possono essere usati come bastoni più corti? Solo se hanno misura sufficiente per un uso specifico."
+    },
+    {
+      "n": 9,
+      "he": "מְחַתֵּךְ קִישׁוּאִים בְּשַׁבָּת…",
+      "it": "Chi taglia zucchine di Shabbat per darle a cibo ad animali — è obbligato per il macinare (poiché taglia grosso cibo in pezzi più piccoli). Chi taglia in pezzi grandi solo per comodità — è esente. Il criterio: tagliare in pezzi piccoli è «macinare»; tagliare in pezzi grandi non è macinare."
+    },
+    {
+      "n": 10,
+      "he": "אֵין פּוֹלִין אֶת הַכִּנָּה בְּשַׁבָּת…",
+      "it": "Non si rimuovono i pidocchi di Shabbat — perché ucciderli equivale a «cacciare» (tziad). I Saggi hanno discusso se il pidocchio si generi spontaneamente (caso in cui non sarebbe «cacciare») o meno. La halachah è che uccidere pidocchi di Shabbat è proibito rabbinicamente."
+    },
+    {
+      "n": 11,
+      "he": "הַצָּד דָּג מִן הַיָּם — חַיָּב…",
+      "it": "Chi pesca un pesce dal mare di Shabbat — è obbligato per «cacciare». La misura minima: qualsiasi pesce che, se lasciato in libertà, sopravviverebbe. Chi trappa un uccello — è obbligato. La caccia si completa quando l'animale è «catturato» — cioè non può sfuggire senza sforzo ulteriore."
+    },
+    {
+      "n": 12,
+      "he": "הַצָּד נָחָשׁ בְּשַׁבָּת — אִם מְפַחֵד מִמֶּנּוּ — פָּטוּר…",
+      "it": "Chi acchiappa un serpente di Shabbat — se lo fa per paura che non lo morda — è esente [poiché non è «caccia» ma autodifesa]. Se lo acchiappa per giocarci — è obbligato. Chi blocca un serpente o un cane pericoloso per evitare che morda — è esente biblicamente."
+    },
+    {
+      "n": 13,
+      "he": "לֹא יִפְתַּח אָדָם חָבִית שֶׁל מֻרְיָס…",
+      "it": "Non si apre un barile di pesce marinato di Shabbat per estrarne il pesce con un utensile appuntito che potrebbe rompere il barile — perché sembrerebbe costruire un'apertura. Ma aprire con le mani — è permesso. Non si fa un'apertura nuova in un contenitore di Shabbat, poiché fare un'apertura equivale al «costruire» (boneh)."
+    },
+    {
+      "n": 14,
+      "he": "מוֹצִיאִין אֶת הַדֶּלֶק לַנֵּר בְּשַׁבָּת…",
+      "it": "Si può aggiungere olio a una lampada già accesa di Shabbat tramite un tubo — senza toccare la fiamma. Ma non si aggiunge olio direttamente alla fiamma (che spegnerebbe e riaccenderebbe). Non si sposta la lampada di Shabbat mentre è accesa — per evitare che la fiamma si muova e sembri che si stia alimentando il fuoco."
+    },
+    {
+      "n": 15,
+      "he": "הַמְכַבֶּה אֶת הַנֵּר לְצֹרֶךְ הַחוֹלֶה…",
+      "it": "Chi spegne la candela per un malato (perché la luce lo disturba e impedisce il sonno necessario) — è permesso, poiché si tratta di esigenza medica. Chi spegne per risparmiare olio — è obbligato al sacrificio espiatorio. Chi spegne per risparmiare il lucignolo — è esente biblicamente (la distruzione del lucignolo non è un'azione costruttiva)."
+    },
+    {
+      "n": 16,
+      "he": "אֵין טוֹמְנִין אֶת הַמַּיִם הַצּוֹנְנִין בְּשַׁבָּת…",
+      "it": "Non si insaccano acqua fredda o altri alimenti freddi di Shabbat in materiali che aggiungono freddo — per decreto (simmetrico alla legge dell'hatmanah che proibisce aggiungere calore). Ma si può mettere un vaso d'acqua in acqua fredda o ghiaccio per mantenerlo fresco — poiché il ghiaccio non «aggiunge» freddo ma solo mantiene quello esistente."
+    },
+    {
+      "n": 17,
+      "he": "אֵין נוֹתְנִין כֵּלִים תַּחַת הַנֵּר בְּשַׁבָּת לְקַבֵּל שֶׁמֶן הַנּוֹטֵף…",
+      "it": "Non si mette un recipiente sotto la candela di Shabbat per raccogliere l'olio che gocciola — perché l'olio che cade dalla candela è muktzeh (destinato alla combustione, non al consumo). Ma se il recipiente era lì prima di Shabbat — si può lasciare."
+    },
+    {
+      "n": 18,
+      "he": "אֵין מַדְלִיקִין מִנֵּר לְנֵר בְּשַׁבָּת…",
+      "it": "Non si accende da una fiamma all'altra di Shabbat — poiché aumenterebbe la seconda fiamma (alimentarla). Ma si può accendere da un tizzone ardente. Non si usa una candela di Shabbat per altri scopi — come leggere, cercare oggetti, esaminare abiti. La candela è per illuminare la stanza, non per usi specifici."
+    },
+    {
+      "n": 19,
+      "he": "הַמַּדְלִיק אֵשׁ בְּשַׁבָּת בִּשְׁגָגָה — חַיָּב חַטָּאת…",
+      "it": "Chi accende fuoco di Shabbat per errore — è obbligato al sacrificio espiatorio. Chi accende deliberatamente — è soggetto a karet (o lapidazione con testimoni). Questo vale per accendere qualsiasi tipo di fuoco: fiamma, brace, carbone. L'accensione è una delle 39 melachot originarie del Mishkan."
+    },
+    {
+      "n": 20,
+      "he": "מִצְוָה מִן הַמּוּבְחָר לְהַדְלִיק נֵר שַׁבָּת בְּשֶׁמֶן זַיִת…",
+      "it": "La mitzva ideale (mitzva min ha-muvchar) è accendere la candela di Shabbat con olio d'oliva — come il Menorah del Tempio che richiedeva olio d'oliva puro. Tuttavia tutti gli oli e i lucignoli che producono una fiamma stabile e chiara sono validi. La quantità di olio deve essere sufficiente da durare dall'inizio della notte fino a che le persone abbiano finito di camminare nell'ambito pubblico."
+    }
+  ],
+  "_glossary_terms_used": [
+    "muktzeh", "kelim she-melakhtam le-issur", "kelim she-melakhtam le-heter", "muktzeh machmat gufo", "muktzeh machmat chesron kis", "basis", "nolad", "hatmanah", "boneh", "karet", "mitzva min ha-muvchar"
+  ]
+}

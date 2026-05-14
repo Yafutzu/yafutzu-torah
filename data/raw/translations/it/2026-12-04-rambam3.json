@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 9-11",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים ט-יא",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 9-11",
+  "cycle": "rambam-3",
+  "date": "2026-12-04",
+  "hebrew_date": "25 Kislev 5787 — Chanukah giorno 1",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "9:1-5",
+      "he": "הַנִּסְקָלִין — אֵלּוּ הֵן...",
+      "it": "(Sanhedrin cap. 9, hal. 1-5) Le categorie soggette a lapidazione (sekilah): idolatria, blasfemia, profanazione dello Shabbat deliberata con testimoni, magia (ov ve-yide'oni), violazioni sessuali gravi (relazioni con madre, suocera, un'altra donna sposata, una donna fidanzata). La lapidazione è la pena più severa — è elencata per prima tra le quattro pene capitali. Tema Chanukah: i Greci abolirono il potere del Sinedrio di applicare le pene capitali. La loro strategia: se il beit din non può punire le trasgressioni pubbliche, le trasgressioni si diffonderanno. Chanukah celebra la restaurazione dell'autorità della Torah."
+    },
+    {
+      "n": "10:1-5",
+      "he": "הַנִּשְׂרָפִין — אֵלּוּ הֵן...",
+      "it": "(Sanhedrin cap. 10, hal. 1-5) Le categorie soggette a bruciatura (sereifah): la figlia di un kohen che ha commesso adulterio (poiché profana anche la santità del padre sacerdote), chi ha relazioni con la madre e la nonna (ishah ve-vito), chi è un falso profeta che predica l'idolatria. La procedura della sereifah: non è il fuoco esterno — è il piombo fuso (uferes shel oferet) fatto scendere in gola. Questa procedura minimizza il dolore fisico esterno pur eseguendo la sentenza."
+    },
+    {
+      "n": "11:1-4",
+      "he": "הַנֶּהֱרָגִין בְּסַיִף — אֵלּוּ הֵן...",
+      "it": "(Sanhedrin cap. 11, hal. 1-4) Le categorie soggette a decapitazione (hereg): il rotzea'ch (assassino deliberato di un essere umano), i residenti di una «ir ha-nidachat» (città idolatra — i cui abitanti hanno abbandonato la Torah per l'idolatria collettiva). La città idolatra richiede un processo speciale: il Gran Sinedrio delibera, la città viene avvertita, e solo se persiste viene distrutta. Chanukah 1: la prima candela illumina il buio più profondo — così come la legge della città idolatra richiede un lungo processo prima della distruzione, Chanukah fu preceduto da tre anni di lotta prima della vittoria."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sekilah", "ov ve-yide'oni", "beit din", "sereifah", "kohen", "uferes shel oferet", "hereg", "rotzea'ch", "ir ha-nidachat", "Sanhedrin"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "ref": "Mishneh Torah, Blessings 9",
+  "name_he": "הלכות ברכות, פרק ט",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 9",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-12",
+  "hebrew_date": "25 Iyyar 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כְּשֵׁם שֶׁאָסוּר לָאָדָם לֵהָנוֹת בְּמַאֲכָל אוֹ בְּמַשְׁקֶה קֹדֶם בְּרָכָה כָּךְ אָסוּר לוֹ לֵהָנוֹת בְּרֵיחַ טוֹב קֹדֶם בְּרָכָה…",
+      "it": "Come è vietato godere di cibo o bevanda prima di recitare la benedizione, così è vietato godere di un profumo gradevole prima di recitare la benedizione. Come si benedice su un profumo gradevole? Se è un albero o qualcosa che proviene da un albero: «borei atzei vesamìm» (che crea alberi aromatici). Se è un'erba o qualcosa che proviene da un'erba: «borei isvei vesamìm» (che crea erbe aromatiche). Se non proviene né da albero né dalla terra — come il muschio, che proviene da un animale: «borei minei vesamìm» (che crea varie specie di aromi). Se è un frutto commestibile — come l'etrog o la mela: «she-natan rèach tov ba-perot» (che ha dato profumo gradevole ai frutti). Su qualsiasi profumo, se ha recitato «borei minei vesamìm», ha assolto l'obbligo."
+    },
+    {
+      "n": 2,
+      "he": "אֵין מְבָרְכִין עַל הַמֻּגְמָר עַד שֶׁתַּעֲלֶה תִּמְרָתוֹ…",
+      "it": "Non si recita la benedizione sul profumatore (mugmàr) finché non si alza la colonna di fumo. Come si benedice? Se ciò che brucia è di origine arborea: «borei atzei vesamìm». Se è di origine erbacea: «borei isvei vesamìm». Se proviene da un animale o simile: «borei minei vesamìm»."
+    },
+    {
+      "n": 3,
+      "he": "שֶׁמֶן שֶׁל אֲפַרְסְמוֹן וְכַיּוֹצֵא בּוֹ מְבָרֵךְ עָלָיו בּוֹרֵא שֶׁמֶן עָרֵב…",
+      "it": "Sul balsamo e simili si recita «borei shemen arev» (che crea olio fragrante). Su olio d'oliva che è stato macerato o macinato fino a sprigionare il suo profumo si recita «borei atzei vesamìm». Su olio in cui sono stati mescolati aromi, simile all'olio dell'unzione, si recita «borei minei vesamìm». Se gli vengono portati olio e mirto, recita la benedizione sul mirto e include l'olio, poiché la benedizione è la stessa per entrambi: «borei atzei vesamìm»."
+    },
+    {
+      "n": 4,
+      "he": "הָיוּ לְפָנָיו בֹּשֶׂם שֶׁהוּא עֵץ וּבֹשֶׂם שֶׁהוּא עֵשֶׂב אֵין בְּרָכָה אַחַת מֵהֶן פּוֹטֶרֶת אֶת חֲבֵרוֹ…",
+      "it": "Se davanti a lui vi è un aroma che proviene da un albero e un aroma che proviene da un'erba, nessuna delle due benedizioni include l'altra: recita una benedizione su ciascuno separatamente. Se gli vengono portati vino e olio profumato, tiene il vino nella destra e l'olio nella sinistra, recita la benedizione sul vino e lo beve, poi recita la benedizione sull'olio, lo annusa e lo spalma sulla testa del servitore. Se il servitore è un talmid chakham, lo spalma sulla parete."
+    },
+    {
+      "n": 5,
+      "he": "דָּבָר שֶׁהוּא סָפֵק אִם מִן הָעֵץ אִם מִן הָאֲדָמָה מְבָרֵךְ עָלָיו בּוֹרֵא מִינֵי בְּשָׂמִים…",
+      "it": "Nel dubbio se un aroma provenga da un albero o dalla terra si recita «borei minei vesamìm». Su una miscela di aromi preparata da un profumiere si recita «borei minei vesamìm». Chi entra in una profumeria con molte specie di aromi recita «borei minei vesamìm». Se vi trascorre l'intera giornata, recita una sola benedizione. Se entra ed esce più volte, recita una benedizione ogni volta."
+    },
+    {
+      "n": 6,
+      "he": "הַשּׁוֹשַׁנָּה וַחֲלָפֵי הַמַּיִם מְבָרְכִין עֲלֵיהֶן בּוֹרֵא עֲצֵי בְּשָׂמִים…",
+      "it": "Sulla rosa e sulla lavanda d'acqua si recita «borei atzei vesamìm». Sul narciso di giardino: «borei atzei vesamìm»; su quello di campo: «borei isvei vesamìm». Sulla rosa, sull'acqua di rose, sull'incenso e sulla resina di lentisco e simili: «borei atzei vesamìm»."
+    },
+    {
+      "n": 7,
+      "he": "שְׁלֹשָׁה מִינֵי רֵיחַ טוֹב אֵין מְבָרְכִין עֲלֵיהֶן…",
+      "it": "Vi sono tre tipi di profumo gradevole su cui non si recita benedizione: un profumo vietato; un profumo usato per eliminare un odore cattivo; e un profumo che non è stato preparato perché venga annusato in sé."
+    },
+    {
+      "n": 8,
+      "he": "כֵּיצַד. בְּשָׂמִים שֶׁל עַכּוּ״ם וּבְשָׂמִים שֶׁל עֶרְוָה מִן הָעֲרָיוֹת אֵין מְבָרְכִין עֲלֵיהֶן…",
+      "it": "Come si applica? Aromi di idoli e aromi legati a relazioni sessuali vietate non richiedono benedizione perché è vietato annusarli. Aromi usati per i defunti, aromi di toilette e olio usato per eliminare lo sporco non richiedono benedizione, perché preparati per eliminare un odore cattivo. Il profumatore usato per profumare utensili o vesti non richiede benedizione, perché non è stato preparato perché venga annusato in sé. Allo stesso modo, chi annusa abiti così profumati non recita benedizione, perché non vi è la sostanza dell'aroma presente — solo il profumo senza sostanza."
+    },
+    {
+      "n": 9,
+      "he": "בְּשָׂמִים שֶׁל מְסִבָּה שֶׁל עַכּוּ״ם אֵין מְבָרְכִין עֲלֵיהֶם…",
+      "it": "Sugli aromi di un banchetto di non ebrei non si recita benedizione, perché un banchetto del genere è presumibilmente dedicato all'idolatria. Chi cammina fuori dalla città e percepisce un profumo gradevole: se la maggioranza della città sono non ebrei non recita benedizione; se la maggioranza sono ebrei, recita. Se si mischia un profumo su cui si recita la benedizione con uno su cui non si recita, si segue la maggioranza."
+    }
+  ],
+  "_glossary_terms_used": [
+    "borei atzei vesamìm", "borei isvei vesamìm", "borei minei vesamìm",
+    "mugmàr", "talmid chakham", "etrog"
+  ]
+}

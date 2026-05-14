@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shaar Avot HaTumah 14-16",
+  "name_he": "משנה תורה, הלכות שאר אבות הטומאות, פרקים יד-טז",
+  "name_it": "Mishneh Torah, Leggi degli Altri Principali Genitori dell'Impurità, capitoli 14-16",
+  "cycle": "rambam-3",
+  "date": "2026-09-02",
+  "hebrew_date": "20 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "14:1", "he": "טֻמְאָה בְּלוּעָה — דָּבָר טָמֵא שֶׁנִּבְלַע לְתוֹךְ כְּלִי — אֵינוֹ מְטַמֵּא אֶת הַכְּלִי מִבַּחוּץ.", "it": "L'impurità inghiottita — una cosa impura inghiottita all'interno di un vaso — non rende impuro il vaso dall'esterno."},
+    {"n": "14:2", "he": "אֲבָל אִם הַכְּלִי פָּתוּחַ — הַטֻּמְאָה הַבְּלוּעָה מְטַמֵּא אֶת הֶאֱוִיר שֶׁבְּתוֹכוֹ.", "it": "Ma se il vaso è aperto — l'impurità inghiottita rende impuro l'aria al suo interno."},
+    {"n": "14:3", "he": "כְּלִי חֶרֶשׂ — מִטַּמֵּא רַק דֶּרֶךְ אֲוִירוֹ. לְפִיכָךְ טֻמְאָה בְּלוּעָה בְּכְלִי חֶרֶשׂ — אֵינָהּ מְטַמֵּא.", "it": "Un vaso di argilla — si contamina solo attraverso la sua aria. Pertanto l'impurità inghiottita in un vaso di argilla — non rende impuro."},
+    {"n": "15:1", "he": "הַכֵּלִים שֶׁנִּטְמְאוּ — טָהֳרָתָם בִּטְבִילָה בְּמִקְוֶה כָּשֵׁר.", "it": "I vasi che sono diventati impuri — la loro purificazione avviene con l'immersione in un mikveh valido."},
+    {"n": "15:2", "he": "צָרִיךְ שֶׁיִּהְיֶה הַכְּלִי שָׁלֵם בִּשְׁעַת הַטְּבִילָה — לֹא שָׁבוּר.", "it": "È necessario che il vaso sia integro al momento dell'immersione — non rotto."},
+    {"n": "15:3", "he": "כַּוָּנָה לְטָהֳרָה — צְרִיכָה כַּוָּנָה לְטָהֵר. אֵין טְבִילָה בְּאֹנֶס מוֹעֶלֶת לְכֵלִים.", "it": "Intenzione per la purificazione — è richiesta l'intenzione di purificare. L'immersione forzata non è efficace per i vasi."},
+    {"n": "16:1", "he": "הָעֹקֶץ שֶׁל הַפְּרִי — כָּל זְמַן שֶׁהוּא מְחֻבָּר לַפְּרִי הֲרֵי הוּא כַּפְּרִי לְעִנְיַן טֻמְאָה.", "it": "Il gambo del frutto — finché è attaccato al frutto è come il frutto riguardo all'impurità."},
+    {"n": "16:2", "he": "נֵי הַקַּרְקַע — אֵין מְקַבֵּל טֻמְאָה. נִתְלַשׁ — מְקַבֵּל טֻמְאָה.", "it": "Attaccato al suolo — non riceve impurità. Staccato — riceve impurità."},
+    {"n": "16:3", "he": "דָּבָר הַמְחֻבָּר לַקַּרְקַע — אֵינוֹ בְּכְלַל 'כְּלִי' וּלְכֵן אֵינוֹ מְקַבֵּל טֻמְאָה.", "it": "Una cosa attaccata al suolo — non rientra nella categoria di 'vaso' e quindi non riceve impurità."}
+  ],
+  "_glossary_terms_used": ["tum'ah belua'ah", "kli cheres", "mikveh", "tahara"]
+}

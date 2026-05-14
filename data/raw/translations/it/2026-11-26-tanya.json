@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 24",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כד",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 24",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-26",
+  "hebrew_date": "17 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שְׁנֵי דְּבָרִים עִיקָּרִיִּים מְעַכְּבִין אֶת הָעֲבוֹדָה — הַגַּאֲוָה וְהָעַצְבוּת…",
+      "it": "Due ostacoli principali impediscono il servizio divino: la superbia (ga'avah) e la tristezza (atzvut). La superbia è la pretesa dell'anima animale di esistere in modo indipendente da D-o — il senso di «io» separato e auto-sufficiente. La tristezza è la risposta dell'anima animale quando fallisce — l'abbattimento, la disperazione, il senso che il servizio divino sia impossibile per me. L'Alter Rebbe insegna che questi due stati — ga'avah e atzvut — sono più pericolosi del peccato stesso."
+    },
+    {
+      "n": 2,
+      "he": "הַגַּאֲוָה — הִיא שֹׁרֶשׁ הַחֵטְא…",
+      "it": "La ga'avah (superbia) è la radice del peccato. Quando una persona sente che la sua esistenza è indipendente da D-o — che lei è il centro del mondo — ogni proibizione diventa un'imposizione su un «io» che ha diritto di scegliere. La superbia non è necessariamente l'arroganza ovvia; spesso è sottile: la presunzione che i miei bisogni siano più urgenti della volontà di D-o. L'antidoto alla ga'avah è la «anavah» (umiltà) — la consapevolezza che ogni momento della propria esistenza è un dono divino."
+    },
+    {
+      "n": 3,
+      "he": "הָעַצְבוּת — הִיא יוֹתֵר מְסֻכֶּנֶת מֵהַחֵטְא עַצְמוֹ…",
+      "it": "La atzvut (tristezza/abbattimento) è più pericolosa del peccato stesso. Quando una persona cade nel peccato, il rimpianto sincero (charatah) è appropriato e necessario — ma deve essere breve. Dopodiché si torna immediatamente alla simchah (gioia). La tristezza prolungata è un inganno dell'anima animale: fa sembrare che il peccato sia irreparabile, che l'anima sia irrecuperabile. In realtà la tristezza prolungata paralizza l'avodah futura ed è dunque più dannosa del peccato originale. L'Alter Rebbe prescrive: un momento di charatah genuina, poi — simchah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ga'avah", "atzvut", "anavah", "simchah", "charatah", "avodah", "beinoni", "nefesh ha-behamit"
+  ]
+}

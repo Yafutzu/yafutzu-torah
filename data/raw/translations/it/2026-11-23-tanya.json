@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 21",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כא",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 21",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-23",
+  "hebrew_date": "14 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה כֵּתֶר הַתַּחְתּוֹן — הוּא הָרָצוֹן הָעֶלְיוֹן הַמִּתְלַבֵּשׁ בַּתּוֹרָה וּמִצְווֹת…",
+      "it": "Il «keter tachton» (corona inferiore) è il Volere Supremo (Ratzon Elyon) come si manifesta nella Torah e nelle mitzvot. In termini di kabbalah, il «keter» è la dimensione più alta della struttura divina — il Volere puro. Quando una persona compie una mitzvah, si connette a questo Volere supremo. L'Alter Rebbe usa questo linguaggio caballistico per comunicare un principio pratico: ogni mitzvah — indipendentemente da quanto sembri ordinaria — è un punto di contatto con la dimensione più alta del divino."
+    },
+    {
+      "n": 2,
+      "he": "וּמִשּׁוּם כָּךְ — הַדְּבֵקוּת הַנִּקְנֵית עַל יְדֵי הַמִּצְווֹת — אֵינָהּ צְרִיכָה לַהִיוֹת בְּאֶקְסְטָזָה…",
+      "it": "La deveikut (adesione a D-o) acquisita tramite le mitzvot — non richiede estasi. L'Alter Rebbe chiarisce un punto fondamentale che distingue la sua visione da certe forme di misticismo: la deveikut autentica non consiste necessariamente in esperienze estatiche o visioni mistiche. Consiste nel compiere la volontà di D-o attraverso l'azione. Chi compie una mitzvah — anche in silenzio, anche senza sentire nulla di speciale — è in quel momento «adeso» (davuk) a D-o nel senso più profondo."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ שֶׁאָמְרוּ — כָּל הַמִּצְווֹת — דִּינֵיהֶן שָׁוִין…",
+      "it": "I Saggi hanno insegnato: «Tutte le mitzvot — le loro leggi sono uguali» (Makkot 23b). L'Alter Rebbe interpreta: non nel senso che non vi sia differenza tra le mitzvot in termini di dettagli legali, ma nel senso che ognuna di esse porta lo stesso livello di connessione con il Volere divino. Non c'è mitzvah «importante» e mitzvah «insignificante» in quanto al loro potere di connettere l'anima a D-o. Questa visione è liberatoria: ogni momento di azione giusta è pienamente significativo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "keter tachton", "Ratzon Elyon", "mitzvot", "kabbalah", "keter", "deveikut", "davuk"
+  ]
+}

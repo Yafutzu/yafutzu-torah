@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 7-8",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרקים ז-ח",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitoli 7-8",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-18",
+  "hebrew_date": "4 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פרק ז: הַצַּדִּיק הוּא שֶׁהָרַע שֶׁבּוֹ נִהְפַּךְ לְטוֹב, וְנִכְלָל בַּקְּדֻשָּׁה. אֵין לוֹ יֵצֶר הָרָע כְּלָל, כִּי בִּטְּלוֹ לְגַמְרֵי.",
+      "it": "Capitolo 7: Il Tzaddik (giusto) è colui nel quale il male che è in lui si è trasformato in bene, ed è assorbito nella santità. Non ha più alcun istinto del male (yetzer ha-ra), poiché lo ha annullato completamente."
+    },
+    {
+      "n": 2,
+      "he": "הָרָשָׁע — הוּא שֶׁנֶּפֶשׁ הַבְּהֵמִית גּוֹבֶרֶת אֶצְלוֹ. וְיֵשׁ רָשָׁע וְטוֹב לוֹ, וְרָשָׁע וְרַע לוֹ — לְפִי מִדְרֵגַת שְׁלִיטַת הָרַע.",
+      "it": "Il Rasha (malvagio) è colui nel quale l'anima animale (nefesh ha-behamit) domina. Vi è il 'rasha ve-tov lo' (malvagio cui va bene) e il 'rasha ve-ra lo' (malvagio cui va male) — a seconda del grado di dominio del male."
+    },
+    {
+      "n": 3,
+      "he": "פרק ח: צַדִּיק גָּמוּר — הוּא שֶׁאֵין בּוֹ שׁוּם שְׁאֵרִית רַע. צַדִּיק שֶׁאֵינוֹ גָּמוּר — יֵשׁ בּוֹ שְׁאֵרִית יֵצֶר הָרָע אַף שֶׁאֵינוֹ שׁוֹלֵט.",
+      "it": "Capitolo 8: Il Tzaddik Gamur (giusto completo) è colui nel quale non vi è nessun residuo di male. Il Tzaddik she-eino gamur (giusto incompleto) ha ancora un residuo dell'istinto del male, sebbene questo non domini."
+    },
+    {
+      "n": 4,
+      "he": "הֶפְרֵשׁ בֵּין צַדִּיק גָּמוּר לְצַדִּיק שֶׁאֵינוֹ גָּמוּר — בְּמִדְרֵגַת בִּטּוּל הָרַע. בַּצַּדִּיק הַגָּמוּר — הָרַע נֶהְפַּךְ לְטוֹב מַמָּשׁ.",
+      "it": "La differenza tra il Tzaddik Gamur e il Tzaddik she-eino gamur sta nel grado di annullamento del male. Nel Tzaddik Gamur — il male si trasforma letteralmente in bene."
+    }
+  ],
+  "_glossary_terms_used": ["Tzaddik", "Rasha", "Beinoni", "yetzer ha-ra", "nefesh ha-behamit", "tzaddik gamur", "tzaddik she-eino gamur"]
+}

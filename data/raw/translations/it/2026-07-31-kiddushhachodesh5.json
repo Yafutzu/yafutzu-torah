@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 5",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ה",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 5",
+  "cycle": "rambam-1",
+  "date": "2026-07-31",
+  "hebrew_date": "17 Av 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַחַמָּה יֵשׁ לָהּ שְׁתֵּי תְּנוּעוֹת: תְּנוּעַת הָאֶמְצַע, וְהִיא הַמְּהִירָה, וּתְנוּעַת הַמַּסְלוּל, וְהִיא הָאִטִּית.",
+      "it": "Il sole ha due movimenti: il moto medio (tenu'at ha-emtza), che è rapido, e il moto dell'orbita (tenu'at ha-maslul), che è lento."
+    },
+    {
+      "n": 2,
+      "he": "הַלְּבָנָה יֵשׁ לָהּ שְׁתֵּי תְּנוּעוֹת: תְּנוּעַת הָאֶמְצַע, וּתְנוּעַת הַמַּסְלוּל.",
+      "it": "La luna ha anch'essa due movimenti: il moto medio e il moto dell'orbita."
+    },
+    {
+      "n": 3,
+      "he": "הַפַּרְשָׁה — הִיא הַהֶפְרֵשׁ שֶׁבֵּין מְקוֹם הַלְּבָנָה הָאֲמִתִּי לִמְקוֹמָהּ הַמְּמֻצָּע.",
+      "it": "La 'parsah' (anomalia) è la differenza tra la posizione reale della luna e la sua posizione media."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד יוֹדְעִין אִם נִרְאֵית הַלְּבָנָה אוֹ לֹא? מְחַשְּׁבִין מְקוֹמָהּ בָּעוֹלָם.",
+      "it": "Come si sa se la luna è visibile o no? Si calcola la sua posizione nel cielo."
+    },
+    {
+      "n": 5,
+      "he": "אֵין הַלְּבָנָה נִרְאֵית אֶלָּא כְּשֶׁתִּהְיֶה גְּדוֹלָה מִן הַשֶּׁמֶשׁ בִּשְׁתֵּים עֶשְׂרֵה מַעֲלוֹת.",
+      "it": "La luna è visibile solo quando è distante dal sole di almeno dodici gradi."
+    },
+    {
+      "n": 6,
+      "he": "כְּשֶׁיִּהְיֶה הֶפְרֵשׁ זֶה תֵּשַׁע מַעֲלוֹת — בְּוַדַּאי אֵינָהּ נִרְאֵית.",
+      "it": "Quando la differenza è di nove gradi o meno — con certezza non è visibile."
+    },
+    {
+      "n": 7,
+      "he": "בֵּין תֵּשַׁע לִשְׁתֵּים עֶשְׂרֵה — צָרִיךְ לְחַשֵּׁב בְּדִיּוּק.",
+      "it": "Tra i nove e i dodici gradi — bisogna calcolare con precisione [tenendo conto di altri fattori astronomici]."
+    },
+    {
+      "n": 8,
+      "he": "כְּשֶׁרוֹאִין בֵּית דִּין שֶׁהַלְּבָנָה יְכוֹלָה לְהֵרָאוֹת — מְצַפִּין לָעֵדִים.",
+      "it": "Quando il Tribunale calcola che la luna potrebbe essere visibile — aspetta i testimoni."
+    },
+    {
+      "n": 9,
+      "he": "אִם הָיָה יוֹם שְׁלֹשִׁים וְלֹא בָּאוּ עֵדִים — מַשְׁלִימִין הַחֹדֶשׁ שְׁלֹשִׁים יוֹם.",
+      "it": "Se è il trentesimo giorno e non sono venuti testimoni — si completa il mese a trenta giorni, e il giorno successivo è automaticamente Rosh Chodesh."
+    },
+    {
+      "n": 10,
+      "he": "כָּל הַדְּבָרִים הָאֵלּוּ שֶׁבֵּאַרְנוּ — יֵשׁ לָהֶם עִקָּרִים גְּדוֹלִים בְּחָכְמַת הַתְּכוּנָה, וּמִי שֶׁרוֹצֶה לְהַעֲמִיק — יַעֲסֹק בָּהֶם.",
+      "it": "Tutte queste cose che abbiamo spiegato hanno fondamenti profondi nella scienza dell'astronomia (chachmat ha-tekkunah), e chi desidera approfondire — si occupi di esse."
+    }
+  ],
+  "_glossary_terms_used": ["tenu'at ha-emtza", "maslul", "parsah", "Rosh Chodesh", "chachmat ha-tekkunah"]
+}

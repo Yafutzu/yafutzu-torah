@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shemitah VeYovel 6-8",
+  "name_he": "משנה תורה, הלכות שמיטה ויובל פרקים ו–ח",
+  "name_it": "Mishneh Torah, Leggi dello Shemitah e del Giubileo, capitoli 6–8",
+  "cycle": "rambam-3",
+  "date": "2026-06-27",
+  "hebrew_date": "12 Tammuz 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "שְׁמִיטַת כְּסָפִים...",
+      "it": "La Shemitat Kesafim (annullamento dei prestiti al settimo anno): la Torah prescrive che alla fine del settimo anno tutti i prestiti tra ebrei vengano annullati (Deuteronomio 15:1-3). Il creditore non può esigere il pagamento dopo la shemitah. Se il debitore vuole pagare volontariamente, il creditore può accettare, ma non deve chiederlo."
+    },
+    {
+      "n": "6:2-4",
+      "he": "מְשַׁמֵּט הִלְוָאוֹת...",
+      "it": "Quali prestiti vengono annullati dalla shemitah: solo i prestiti personali tra privati, non i debiti commerciali (milveh be-shtar — prestito documentato ufficialmente). I debiti che dipendono da una causa legale pendente (bet din) non sono annullati. I prestiti con garanzia (mashkon) non sono annullati finché la garanzia è nelle mani del creditore. Il Rambam elenca sistematicamente le eccezioni."
+    },
+    {
+      "n": "6:5-8",
+      "he": "פְּרוֹזְבּוּל — תַּקָּנַת הִלֵּל...",
+      "it": "Il Pruzbul — la takanah (decreto) di Hillel: Hillel il Vecchio vide che le persone ricche si rifiutavano di prestare denaro ai poveri per paura che la shemitah annullasse il prestito. Istituì quindi il Pruzbul — un documento formale depositato in Bet Din che trasferisce il prestito al tribunale, rendendo il creditore un 'agente' del Bet Din. I debiti del Bet Din non vengono annullati dalla shemitah."
+    },
+    {
+      "n": "6:9-12",
+      "he": "כֵּיצַד כּוֹתְבִין פְּרוֹזְבּוּל...",
+      "it": "Come si scrive il Pruzbul: il creditore va dal Bet Din e dice: 'Consegno a voi, giudici del luogo tale, tutti i miei crediti affinché possiate riscuoterli in qualsiasi momento vogliate.' Il Bet Din firma il documento. Da quel momento, il prestito è formalmente del Bet Din e non viene annullato dalla shemitah. Il Pruzbul è ancora usato oggi prima dell'anno shemitah."
+    },
+    {
+      "n": "7:1",
+      "he": "אֵיזֶה פֵּרוֹת מִתְקַדְּשִׁין בִּשְׁמִיטָה...",
+      "it": "Quali frutti acquisiscono la kedushah della shemitah? Il Rambam spiega i tre criteri che determinano quando un frutto è 'frutto di shemitah': 1) Leket — se cade durante la shemitah (anche se piantato prima). 2) Chanata — se il frutto si è formato durante la shemitah (per gli alberi). 3) Shlichut panim — se il frutto ha acquisito forma definitiva durante la shemitah."
+    },
+    {
+      "n": "7:2-5",
+      "he": "אֵיזֶה פֵּרוֹת אֵין בָּהֶם קְדֻשַּׁת שְׁבִיעִית...",
+      "it": "Quali frutti non hanno kedushah della shemitah: le piante annuali la cui crescita inizia dopo Rosh Hashanah dell'ottavo anno (dopo la fine della shemitah) non hanno kedushah, anche se la terra era in shemitah durante la loro germinazione iniziale. Il criterio per i cereali è 'hashrishat shorashim' — l'attecchimento delle radici."
+    },
+    {
+      "n": "7:6-9",
+      "he": "עַמֵּי הָאָרֶץ וּפֵרוֹת שְׁמִיטָה...",
+      "it": "Gli amei ha-aretz (persone sospettate di non osservare la halachah) e i frutti della shemitah: se un am ha-aretz vende frutti durante la shemitah, si sospetta che siano frutti di shemitah venduti illegalmente. Il compratore deve essere cauto. Il Rambam descrive come distinguere tra un venditore affidabile (ne'eman) e uno sospettato."
+    },
+    {
+      "n": "8:1",
+      "he": "הַסְּפִיחִין אֲסוּרִים...",
+      "it": "I Sefikhim sono vietati dall'autorità rabbinica: benché la Torah permetta di mangiare le piante auto-seminate della shemitah, i Saggi le hanno vietate per prevenire l'inganno. Questa è una 'gezerah' (decreto) rabbinica per proteggere l'integrità della shemitah. Il divieto dei sefikhim è uno dei pochi casi in cui i Saggi hanno vietato qualcosa permesso biblicamente per ragioni preventive."
+    },
+    {
+      "n": "8:2-5",
+      "he": "מֵאֵיזֶה מִינִים אֲסוּרִין הַסְּפִיחִין...",
+      "it": "Da quali specie i sefikhim sono vietati: principalmente i cereali e i legumi — le specie che di solito si coltivano intenzionalmente. Gli alberi da frutto non sono coperti dal divieto dei sefikhim (i loro frutti hanno la kedushah di shemitah ma non il divieto dei sefikhim). Il Rambam distingue tra frutti degli alberi (a lungo ciclo) e piante annuali."
+    },
+    {
+      "n": "8:6-9",
+      "he": "מֶה שֶׁעוֹלֶה מִן הַשָּׂדֶה...",
+      "it": "Cosa cresce nei campi durante la shemitah: anche le erbacce e le piante selvatiche che crescono spontaneamente nei campi di proprietà privata durante la shemitah diventano hefker. Il Rambam spiega: la shemitah non è solo il riposo della terra dall'agricoltura attiva — è anche il ritorno simbolico della terra a tutti, come era prima che la terra fosse divisa tra i tribù d'Israele."
+    }
+  ],
+  "_glossary_terms_used": ["shemitat kesafim", "Pruzbul", "takanah", "Hillel", "Bet Din", "sefikhim", "kedushah", "hefker", "gezerah", "am ha-aretz", "ne'eman", "shemitah", "chanata"]
+}

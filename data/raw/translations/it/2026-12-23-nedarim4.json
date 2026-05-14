@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 4",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ד",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-23",
+  "hebrew_date": "14 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַבַּעַל מֵפֵר נִדְרֵי אִשְׁתּוֹ בְּיוֹם שָׁמְעוֹ…",
+      "it": "Il marito ha il potere di annullare (hafarah) i voti di sua moglie il giorno stesso in cui li sente. La fonte biblica è Numeri 30: «Se il suo marito li annullerà nel giorno in cui li sente, qualsiasi voto... verrà annullato.» Il meccanismo è diverso dallo scioglimento (hatarat nedarim) davanti al saggio: il marito non indaga petach né charatah — ha semplicemente il potere di revocare il voto pronunciando «mufar lach» («annullato per te»)."
+    },
+    {
+      "n": 2,
+      "he": "אֵי זֶה נִדְרֵי אִשְׁתּוֹ שֶׁמֵּפֵר הַבַּעַל…",
+      "it": "Quali voti del marito può annullare? Solo i voti che «la affliscono» (innui nefesh) o i voti che riguardano il rapporto tra lei e il marito. Voti di digiuno, voti di astinenza dal bagno, voti che limitano la vita domestica condivisa — questi il marito può annullare, perché incidono direttamente sulla vita coniugale. Voti che riguardano terze persone o obblighi religiosi indipendenti — il marito non può annullare."
+    },
+    {
+      "n": 3,
+      "he": "הָאָב מֵפֵר נִדְרֵי בִּתּוֹ הַקְּטַנָּה…",
+      "it": "Il padre ha il potere di annullare i voti della figlia minore (ketanah) — una ragazza che non ha ancora raggiunto la maturità halakhica. Il padre rappresenta la sua figlia nel sistema legale ebraico, e il suo annullamento del voto è altrettanto efficace come quello del marito sulla moglie. Nel caso di una na'arah (adolescente nel primo anno di maturità): sia il padre che il marito (se è già sposata) possono annullare i suoi voti, ma solo insieme — se uno annulla e l'altro no, il voto rimane in piedi."
+    },
+    {
+      "n": 4,
+      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים — בְּנִדְרֵי עִנּוּי נֶפֶשׁ…",
+      "it": "In quali casi si applica il potere di annullamento? Specificamente nei «nidrei innui nefesh» (voti di afflizione personale) e nei «devarim shebeinan u-beina» (questioni tra marito e moglie). «Nidrei innui nefesh» include: voti di digiuno, voti di astinenza da bagno, voti che limitano l'abbigliamento o il comfort fisico. «Devarim shebeinan u-beina» include: voti che limitano il rapporto coniugale, voti che impediscono al marito di beneficiare della moglie o viceversa."
+    },
+    {
+      "n": 5,
+      "he": "נִדְרֵי שֶׁבֵּין אִשָּׁה לַחֲבֵרוֹ — הַבַּעַל אֵינוֹ מֵפֵר…",
+      "it": "I voti che riguardano il rapporto della moglie con terzi — il marito non può annullarli. Se la moglie vota «konam se beneficio dalla casa di Lea» (una sua amica) — questo voto non incide sul rapporto coniugale e il marito non ha potere di annullarlo. Solo il saggio, tramite hatarat nedarim con petach e charatah, può sciogliere questo tipo di voto. Il sistema mantiene così un equilibrio: il marito ha autorità sulla vita coniugale condivisa, ma non sulla vita sociale e religiosa indipendente della moglie."
+    },
+    {
+      "n": 6,
+      "he": "הֵפֵר הַבַּעַל — אֵינוֹ יָכוֹל לַחֲזֹר בּוֹ…",
+      "it": "Una volta che il marito ha pronunciato l'annullamento («mufar lach»), non può ritrattarlo. L'annullamento è definitivo e irrevocabile. Analogamente, se il marito ha confermato il voto («kiyem» — rafforzando il voto della moglie), non può poi annullarlo: la conferma ha reso il voto inattaccabile anche dall'annullamento del marito. Il sistema riflette la filosofia halakhica generale: le parole hanno peso, e ciò che viene pronunciato non può semplicemente essere cancellato — richiede una procedura formale o produce effetti definitivi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hafarah", "hatarat nedarim", "mufar lach", "innui nefesh", "nidrei innui nefesh", "devarim shebeinan u-beina", "na'arah", "ketanah", "konam", "kiyem"
+  ]
+}

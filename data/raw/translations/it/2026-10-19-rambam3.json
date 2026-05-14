@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mechirah 19-21",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים יט-כא",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 19-21",
+  "cycle": "rambam-3",
+  "date": "2026-10-19",
+  "hebrew_date": "8 Cheshvan 5787",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": "19:1-7",
+      "he": "הַמּוֹכֵר לַחֲבֵרוֹ דָּבָר שֶׁיֵּשׁ בּוֹ מוּם — וְלֹא הוֹדִיעוֹ…",
+      "it": "(Mechirah cap. 19) Mekach ta'ut (vendita per errore a causa di difetto occulto): se il venditore sapeva di un difetto significativo (mum gadol) e non lo ha rivelato all'acquirente — la vendita è annullabile e l'acquirente può restituire il bene. La definizione di «mum gadol»: un difetto che, se noto all'acquirente al momento della vendita, avrebbe indotto quest'ultimo a non concludere l'acquisto o ad acquistare solo a un prezzo inferiore. Difetti minori (mumim ketanim) — non invalidano la vendita ma possono dar luogo a compensazione. L'obbligo di rivelazione è sia legale che morale: il divieto di «lifnei iver» (far inciampare il cieco) include l'ingannare l'acquirente."
+    },
+    {
+      "n": "20:1-8",
+      "he": "מָכַר לוֹ בְּהֵמָה וְנִמְצֵאת טְרֵפָה — חוֹזֵר הַמֶּכֶר…",
+      "it": "(Mechirah cap. 20) Vendita di animali difettosi: se si vende un animale e risulta treifah (animale con difetto organico che lo rende non kosher) — la vendita torna indietro, poiché il difetto è «mum gadol» che invalida completamente il valore dell'acquisto. Se si vende un animale da lavoro e risulta zaken (vecchio oltre la capacità lavorativa dichiarata) — la vendita è annullabile. Le halachot 4-8 trattano casi di difetti che emergono dopo la vendita: se il difetto esisteva già prima della vendita (mum shehayah kodem la-mekicha) — la vendita è annullabile; se il difetto è sopravvenuto dopo la vendita — l'acquirente non può restituire il bene."
+    },
+    {
+      "n": "21:1-6",
+      "he": "הַמּוֹכֵר שָׂדֶה וְנִמְצֵאת גְּנוּבָה אוֹ מְשֻׁעְבֶּדֶת — חוֹזֵר הַמֶּכֶר…",
+      "it": "(Mechirah cap. 21) Difetti nei beni immobili: se si vende un campo e risulta che esso è gravato da un pegno (meshubad — ipotecato) o da una controversia legale non nota all'acquirente — la vendita è annullabile. Se il venditore aveva garantito espressamente la qualità del bene (acharayut — garanzia) — è responsabile anche dei difetti scoperti dopo la vendita. Il principio di acharayut: nella vendita di immobili, il venditore si assume di default la garanzia sulla validità del titolo (acharayut nekhassim) — se non la esclude espressamente. Un acquirente che compra «come appare, senza garanzia» (be-lo acharayut) — non ha diritto di restituzione per difetti occulti del titolo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mekach ta'ut", "mum gadol", "mumim ketanim", "lifnei iver", "treifah", "acharayut", "meshubad", "mum shehayah kodem la-mekicha"
+  ]
+}

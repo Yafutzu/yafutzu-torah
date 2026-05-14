@@ -1,0 +1,132 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 7",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ז",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 7",
+  "cycle": "rambam-1",
+  "date": "2026-09-24",
+  "hebrew_date": "13 Tishrei 5787",
+  "halachot_count": 24,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁמוֹת הַבַּעַל וְהָאִשָּׁה שֶׁכּוֹתְבִין בַּגֵּט — צְרִיכִין לִהְיוֹת שֵׁמוֹתָם הַמּוּכָּרִים. שֵׁם שֶׁאֵינוֹ מוּכָּר — פָּסוּל.",
+      "it": "I nomi del marito e della moglie che si scrivono nel get — devono essere i loro nomi comunemente noti. Un nome non noto — il get è invalido."
+    },
+    {
+      "n": 2,
+      "he": "מִי שֶׁיֵּשׁ לוֹ שֵׁם עִבְרִי וְשֵׁם לַעַז — צָרִיךְ לִכְתֹּב שְׁנֵיהֶם בַּגֵּט. 'פְּלוֹנִי וְכֻלֵּה הוּא פְּלוֹנִי' — לְשׁוֹן הַגֵּט.",
+      "it": "Chi ha un nome ebraico e un nome in lingua straniera — deve scrivere entrambi nel get. 'Tizio e il suo altro nome è Tizio' — questa è la formula del get."
+    },
+    {
+      "n": 3,
+      "he": "שֵׁם הַכִּינּוּי — כְּגוֹן שֶׁקּוֹרִין אוֹתוֹ בְּכִינּוּי בֵּין הַשְּׁכֵנִים — כּוֹתְבִין גַּם אוֹתוֹ. 'דְּמִתְקְרֵי' (הַנִּקְרָא) — לְשׁוֹן הַגֵּט לְהוֹסָפַת שֵׁם.",
+      "it": "Il soprannome — ad esempio se lo chiamano con un soprannome tra i vicini — si scrive anche quello. 'DiMetkrei' (che viene chiamato) — questa è la formula del get per aggiungere un nome."
+    },
+    {
+      "n": 4,
+      "he": "הָיוּ לוֹ שְׁלֹשָׁה שֵׁמוֹת — כּוֹתְבִין כֻּלָּם. שֵׁם שֶׁלֹּא כָּתַב — אִם הוּא עִיקַּר שִׁמּוֹ — פָּסוּל.",
+      "it": "Se aveva tre nomi — li si scrivono tutti. Un nome non scritto — se è il suo nome principale — il get è invalido."
+    },
+    {
+      "n": 5,
+      "he": "אֵינוֹ יוֹדֵעַ שְׁמוֹ — שׁוֹאֲלִין אֶת הַשְּׁכֵנִים. אֵין יוֹדְעִין — שׁוֹאֲלִין מְיֻדָּעָיו. יֵשׁ סָפֵק — כּוֹתְבִין שְׁנֵי שֵׁמוֹת.",
+      "it": "Se non si conosce il suo nome — si chiedono ai vicini. Se non sanno — si chiede ai suoi conoscenti. Se c'è dubbio — si scrivono entrambi i nomi."
+    },
+    {
+      "n": 6,
+      "he": "שֵׁם הָאָב בַּגֵּט — כּוֹתְבִין. לֹא כָּתַב — כָּשֵׁר בְּדִיעֲבַד.",
+      "it": "Il nome del padre nel get — si scrive. Se non l'ha scritto — è valido dopo il fatto."
+    },
+    {
+      "n": 7,
+      "he": "הַגֵּט שֶׁנִּכְתַּב בְּשֵׁם אַחֵר — כְּגוֹן שֶׁיֵּשׁ לוֹ שֵׁם אֶחָד וְכָתַב שֵׁם שֶׁאֵינוֹ מִשֶּׁלּוֹ — פָּסוּל.",
+      "it": "Il get scritto con un altro nome — ad esempio se ha un nome e ha scritto un nome che non è suo — è invalido."
+    },
+    {
+      "n": 8,
+      "he": "שִׁנָּה שְׁמוֹ לְשֵׁם הֶחָלִי — כְּגוֹן שֶׁהָיָה חוֹלֶה וְנִקְרָא בְּשֵׁם אַחֵר — יֵשׁ לִכְתֹּב שְׁנֵיהֶם.",
+      "it": "Se ha cambiato il suo nome a causa di una malattia — ad esempio se era malato e fu chiamato con un altro nome — occorre scrivere entrambi."
+    },
+    {
+      "n": 9,
+      "he": "קִבֵּל עָלָיו שֵׁם בְּגַלּוּת — כּוֹתְבִין גַּם הַשֵּׁם שֶׁנָּטַל בַּגּוֹלָה.",
+      "it": "Se ha adottato un nome in esilio — si scrive anche il nome che ha preso in esilio."
+    },
+    {
+      "n": 10,
+      "he": "הַלֵּוִי וְהַכֹּהֵן — כּוֹתְבִין תּוֹאָרָם בַּגֵּט. 'פְּלוֹנִי הַלֵּוִי' אוֹ 'פְּלוֹנִי הַכֹּהֵן.'",
+      "it": "Il levita e il cohen — si scrive il loro titolo nel get. 'Tizio il Levita' o 'Tizio il Cohen.'"
+    },
+    {
+      "n": 11,
+      "he": "שֵׁם הָאִשָּׁה — אוֹתוֹ הַדִּין. כּוֹתְבִין שְׁמָהּ הַמּוּכָּר, וְאִם יֵשׁ לָהּ כִּינּוּי — גַּם אוֹתוֹ.",
+      "it": "Il nome della moglie — la stessa legge. Si scrive il suo nome noto, e se ha un soprannome — anche quello."
+    },
+    {
+      "n": 12,
+      "he": "שְׁנֵי אֲנָשִׁים שֶׁשְּׁמוֹתָם שָׁוִים בָּעִיר — כּוֹתְבִין סִימָן מֻבְחָן לְהַבְדִּיל בֵּינֵיהֶם.",
+      "it": "Due uomini con lo stesso nome nella stessa città — si scrive un segno distintivo per differenziarli."
+    },
+    {
+      "n": 13,
+      "he": "הַנִּכְתַּב בַּגֵּט 'פְּלוֹנִי בֶּן פְּלוֹנִי' — שֵׁם הָאָב מַסְיַּיַע לְהַבְחִין.",
+      "it": "Ciò che è scritto nel get 'Tizio figlio di Tizio' — il nome del padre aiuta a identificare."
+    },
+    {
+      "n": 14,
+      "he": "לֹא יָדַע שֵׁם אָבִיו — כּוֹתֵב 'בֶּן אִמּוֹ פְּלוֹנִית.'",
+      "it": "Se non conosce il nome di suo padre — scrive 'Figlio di sua madre Tiziana.'"
+    },
+    {
+      "n": 15,
+      "he": "בֵּן שֶׁנּוֹלַד בִּזְנוּת — כּוֹתְבִין שֵׁם אִמּוֹ.",
+      "it": "Un figlio nato da una relazione illecita — si scrive il nome di sua madre."
+    },
+    {
+      "n": 16,
+      "he": "שֵׁם שֶׁנִּשְׁתַּנָּה — כְּגוֹן 'יְהוֹשֻׁעַ' שֶׁנִּקְרָא 'הוֹשֵׁעַ' בְּפִי הַכֹּל — כּוֹתְבִין שְׁנֵיהֶם.",
+      "it": "Se il nome è stato modificato — ad esempio 'Yehoshua' che tutti chiamano 'Hoshea' — si scrivono entrambi."
+    },
+    {
+      "n": 17,
+      "he": "כָּתַב שֵׁם גָּדוֹל בְּמָקוֹם קָטָן — כְּגוֹן 'אַבְרָהָם' בְּמָקוֹם 'אַבְרָם' — פָּסוּל.",
+      "it": "Se ha scritto il nome lungo al posto di quello breve — ad esempio 'Avraham' invece di 'Avram' — il get è invalido."
+    },
+    {
+      "n": 18,
+      "he": "כָּתַב שֵׁם קָטָן בְּמָקוֹם גָּדוֹל — כְּגוֹן 'אַבְרָם' בְּמָקוֹם 'אַבְרָהָם' — פָּסוּל.",
+      "it": "Se ha scritto il nome breve al posto di quello lungo — ad esempio 'Avram' invece di 'Avraham' — il get è invalido."
+    },
+    {
+      "n": 19,
+      "he": "נֻסַּח הוֹסָפַת שֵׁם: 'דְּמִתְקְרֵי פְּלוֹנִי' — 'שֶׁמִּתְקַרֵּא פְּלוֹנִי' — מִנְהָג גְּאוֹנִים לְהוֹסִיף שֵׁם זֶה לְבַטֵּחַ.",
+      "it": "La formula per aggiungere un nome: 'DiMetkrei Tizio' — 'che viene chiamato Tizio' — è consuetudine dei Geonim aggiungere questo nome per sicurezza."
+    },
+    {
+      "n": 20,
+      "he": "כָּתַב שֵׁם שֶׁלֹּא בִּכְתָב הַמּוּכָּר — כְּגוֹן שֶׁכָּתַב 'יוֹסֵי' בְּמָקוֹם 'יוֹסֵף' — יֵשׁ לִבְדֹּק אִם כָּך הָיָה מֻכָּר.",
+      "it": "Se ha scritto un nome nella forma non standard — ad esempio 'Yosei' invece di 'Yosef' — si verifica se era così conosciuto."
+    },
+    {
+      "n": 21,
+      "he": "הַגֵּט נִכְתַּב בְּשֵׁם עִקָּרִי שֶׁלּוֹ — כּוֹתְבִין הַשֵּׁם שֶׁעִקָּרוֹ, אֲפִלּוּ אֵינוֹ קוֹרֵא בּוֹ לְעַצְמוֹ.",
+      "it": "Il get è scritto con il suo nome principale — si scrive il nome di base, anche se non lo usa per se stesso."
+    },
+    {
+      "n": 22,
+      "he": "שֵׁם שֶׁנִּשְׁכַּח לְגַמְרֵי — בֵּית דִּין יָכוֹל לְהַשְׁאִיל שֵׁם אַחֵר.",
+      "it": "Un nome completamente dimenticato — il tribunale può assegnare un altro nome."
+    },
+    {
+      "n": 23,
+      "he": "כָּל הָעִנְיָנִים הָאֵלּוּ בִּשְׁמוֹת — מִפְּנֵי שֶׁהַגֵּט קָשׁוּר לְאִישׁ מֻסְיָּם, וְכָל טָעוּת בַּשֵּׁם פּוֹסֶלֶת.",
+      "it": "Tutte queste questioni sui nomi — perché il get è legato a una persona specifica, e qualsiasi errore nel nome lo invalida."
+    },
+    {
+      "n": 24,
+      "he": "לְכֵן חַיָּבִין לִזָּהֵר מְאֹד בִּכְתִיבַת הַשֵּׁמוֹת, וְאִם יֵשׁ סָפֵק — שׁוֹאֵל פּוֹסֵק.",
+      "it": "Perciò si deve essere molto attenti nella scrittura dei nomi, e in caso di dubbio — si consulta un'autorità halakhica."
+    }
+  ],
+  "_glossary_terms_used": ["get", "shem", "kinnui", "beit din", "posek", "demitikrei"]
+}

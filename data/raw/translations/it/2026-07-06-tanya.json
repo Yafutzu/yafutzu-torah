@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 3",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ג",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 3",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-06",
+  "hebrew_date": "21 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ג: עַל הַמַּשְׁמָעוּת הַפְּנִימִית שֶׁל הַמִּצְווֹת — כָּל מִצְוָה מְתַאִימָה לְאֵיבֶר מְסֻיָּם בַּגּוּף וּלִסְפִירָה מְסֻיֶּמֶת. הַמִּצְווֹת הֵן כְּלֵי לְמַשַּׁךְ אוֹר אֱלֹקִי לְעוֹלָמוֹת הָעֶלְיוֹנִים.",
+      "it": "Saggio 3: Sul significato interiore delle mitzvot — ogni mitzva corrisponde a un organo specifico del corpo e a una Sefirah specifica. Le mitzvot sono vasi (kelim) per attrarre la luce divina nei mondi superiori (olamot ha-elyonim)."
+    },
+    {
+      "n": 2,
+      "he": "רַמַ\"ג מִצְווֹת עֲשֵׂה כְּנֶגֶד רַמַ\"ג אֵיבָרִים, וְשִׁסָּ\"ה מִצְווֹת לֹא תַעֲשֶׂה כְּנֶגֶד שִׁסָּ\"ה גִידִּים. בְּקִיּוּם מִצְוָה — מַמְשִׁיכִים אוֹר לְסְפִירָה הַמְּתַאֲמֶת.",
+      "it": "248 comandamenti positivi (mitzvot aseh) corrispondono ai 248 organi, e 365 comandamenti negativi (mitzvot lo ta'aseh) corrispondono ai 365 tendini. Nel compimento di una mitzva — si attira luce verso la Sefirah corrispondente."
+    },
+    {
+      "n": 3,
+      "he": "הַקֶּשֶׁר הַמִּיסְטִי בֵּין קִיּוּם מִצְוָה לְבֵין פְּעָלוֹת בְּעוֹלָמוֹת הָעֶלְיוֹנִים — זֶהוּ הַבְּסִיס לְהֲבָנַת חֲשִׁיבוּת כָּל מִצְוָה וּמִצְוָה, אֲפִלּוּ קַלָּה שֶׁבַּקַּלּוֹת.",
+      "it": "Il legame mistico tra il compimento di una mitzva e le azioni nei mondi superiori — questa è la base per capire l'importanza di ogni singola mitzva, anche la più «leggera» tra le leggere."
+    }
+  ],
+  "_glossary_terms_used": ["mitzvot", "Sefirot", "kelim", "olamot ha-elyonim", "mitzvot aseh", "mitzvot lo ta'aseh", "Kuntres Acharon", "or", "avodah"]
+}

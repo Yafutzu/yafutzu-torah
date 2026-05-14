@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 12",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק יב",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 12",
+  "cycle": "tanya",
+  "date": "2026-09-22",
+  "hebrew_date": "11 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וּבְזֶה יִתְבָּאֵר הַכְּלָל: הַתְּשׁוּבָה תָּמִיד פְּתוּחָה לְכָל אֶחָד. אֵין חוֹטֵא גָּדוֹל שֶׁיַּחְסֹם אֶת דַּרְכּוֹ לְפָנָיו. שַׁעֲרֵי תְשׁוּבָה אֵינָן נִנְעָלִים לְעוֹלָם.",
+      "it": "Con questo si chiarisce la regola: la teshuvah è sempre aperta a ciascuno. Non c'è peccatore così grande da sbarrarsi la strada. Le porte della teshuvah non si chiudono mai."
+    },
+    {
+      "n": 2,
+      "he": "רַחֲמֵי הַשֵּׁם אֵין לָהֶם קֵץ. 'כִּי לֹא כָלוּ רַחֲמָיו' — זֶה עִיקַּר הָאֱמוּנָה. הַחוֹטֵא הַגָּדוֹל בְּיוֹתֵר, אִם יָשׁוּב — הַשֵּׁם מְקַבְּלוֹ בְּשִׂמְחָה.",
+      "it": "La misericordia di Dio non ha fine. 'Perché la Sua misericordia non si è esaurita' — questo è il principio fondamentale della fede. Il più grande peccatore, se torna — Dio lo accoglie con gioia."
+    },
+    {
+      "n": 3,
+      "he": "וְהַהַבְטָחָה הַנִּצְחִית: 'וְסָלַחְתִּי לַעֲוֹנָם וּלְחַטָּאתָם לֹא אֶזְכָּר עוֹד.' זֶה הַסְּיוּם הַמֻּבְטָח שֶׁל כָּל תְּשׁוּבָה אֲמִתִּית. סִיּוּם אִגֶּרֶת הַתְּשׁוּבָה.",
+      "it": "E la promessa eterna: 'Perdonerò la loro iniquità e il loro peccato non ricorderò più.' Questa è la conclusione garantita di ogni vera teshuvah. Si conclude l'Iggeret HaTeshuvah (Parte III della Tanya)."
+    }
+  ],
+  "_glossary_terms_used": ["teshuvah", "rachamim", "selichah", "sha'arei teshuvah", "Iggeret HaTeshuvah"]
+}

@@ -1,0 +1,87 @@
+{
+  "ref": "Mishneh Torah, Heave-Offerings 10-12",
+  "name_he": "משנה תורה, הלכות תרומות, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi delle Terumot (Offerte Sacerdotali), capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-06-11",
+  "hebrew_date": "26 Sivan 5786",
+  "halachot_count": 31,
+  "halachot": [
+    {
+      "n": "10:1",
+      "he": "הַמַּפְרִישׁ תְּרוּמָה מִשֶּׁל חֲבֵרוֹ...",
+      "it": "Chi separa la terumah (offerta sacerdotale) dai prodotti altrui senza autorizzazione — la sua azione non ha valore. Solo il proprietario, o chi è stato da lui incaricato, può separare validamente la terumah."
+    },
+    {
+      "n": "10:2-3",
+      "he": "הַמַּפְרִישׁ תְּרוּמָה מִן הַטָּמֵא...",
+      "it": "Chi separa terumah da prodotti impuri (tameh) per prodotti puri (tahor) — la sua terumah è valida ma è un atto vietato dai Saggi. Tuttavia, se lo ha già fatto, la terumah è separata. Ugualmente, non si deve separare terumah da prodotti di qualità inferiore per quelli di qualità superiore."
+    },
+    {
+      "n": "10:4-6",
+      "he": "תְּרוּמָה שֶׁהֻפְרָשָׁה בְּטָעוּת...",
+      "it": "Terumah separata per errore — ad esempio chi pensava di separare da buono per buono ma si è sbagliato — la questione dipende dall'intenzione originale. Se c'era intenzione valida, la terumah è retroattivamente efficace; se mancava l'intenzione, non lo è."
+    },
+    {
+      "n": "10:7-9",
+      "he": "הַמַּפְרִישׁ תְּרוּמָה וְנִמְצֵאת טְבֵלָה...",
+      "it": "Se qualcuno separa la terumah e poi si scopre che la massa da cui ha separato era già tevel (non ancora diezmata) — la terumah separata è valida ma bisogna completare il processo per il resto. I casi di terumah retroattiva (bereirah) sono analizzati in dettaglio."
+    },
+    {
+      "n": "10:10-12",
+      "he": "שְׁנַיִם שֶׁהִפְרִישׁוּ בְּאֶחָד...",
+      "it": "Due persone che hanno separato la terumah insieme da un unico contenitore — se le loro quote si sono mescolate, la terumah è valida. Se ciascuno ha agito sulla sua porzione, la terumah è valida solo sulla porzione di ciascuno."
+    },
+    {
+      "n": "11:1",
+      "he": "הָאוֹכֵל תְּרוּמָה — אֶחָד כֹּהֵן...",
+      "it": "La terumah può essere mangiata solo da un kohen (sacerdote) e dai membri della sua famiglia che vivono con lui, inclusi moglie, figli, schiavi e lavoranti. Un israelita (non-kohen) che mangia terumah intenzionalmente è punito con la flagellazione (malkut)."
+    },
+    {
+      "n": "11:2-4",
+      "he": "הַכֹּהֶנֶת שֶׁנִּשֵּׂאת לְיִשְׂרָאֵל...",
+      "it": "La figlia di un kohen che ha sposato un israelita perde il diritto di mangiare terumah. Se rimane vedova o divorziata senza figli dall'israelita, riacquista il diritto. Se ha figli dall'israelita, non può tornare a mangiare terumah anche dopo la morte del marito."
+    },
+    {
+      "n": "11:5-7",
+      "he": "הָעֶבֶד הַכֹּהֵן אוֹכֵל בִּתְרוּמָה...",
+      "it": "Lo schiavo canaanita di un kohen mangia terumah perché è considerato 'proprietà' del kohen. Uno schiavo liberato perde questo diritto immediatamente. I lavoranti salariati (sechirin) e gli affittuari non possono mangiare terumah."
+    },
+    {
+      "n": "11:8-10",
+      "he": "אוֹכֵל אָדָם תְּרוּמָה בְּשׁוֹגֵג...",
+      "it": "Chi mangia terumah per errore (be-shogeg) — senza sapere che fosse terumah — deve restituire il valore dei prodotti al kohen e aggiungere un quinto (chomesh) del valore. Se è lui stesso il kohen, non deve niente. Se paga il rimborso con prodotti di chullin (non-sacri), quei prodotti diventano terumah."
+    },
+    {
+      "n": "11:11-14",
+      "he": "הָאוֹכֵל תְּרוּמָה בְּזָדוֹן...",
+      "it": "Chi mangia terumah intenzionalmente (be-zadon), sapendo che è terumah e che gli è proibita — paga il valore del danno ma non il quinto aggiuntivo. Se è un sacerdote profanato (challal) o non adatto, è soggetto a diverse penalità. I casi di dubbio sono discussi: se qualcuno non sa se è kohen o no, tratta la terumah con precauzione."
+    },
+    {
+      "n": "11:15-18",
+      "he": "שֶׁמֶן שֶׁל תְּרוּמָה שֶׁנִּטְמָא...",
+      "it": "L'olio di terumah che è diventato impuro — non deve essere mangiato ma può essere bruciato nella lampada del Tempio o in altre lampade sacre. Questo insegna che anche la terumah impura ha un grado di santità residuo che proibisce di trattarla come spazzatura."
+    },
+    {
+      "n": "12:1-3",
+      "he": "תְּרוּמָה שֶׁנִּטְמֵאת — שׂוֹרְפִין אוֹתָהּ...",
+      "it": "La terumah diventata impura (tameh) deve essere bruciata — non buttata via né data ai non-kohanim, poiché ha ancora la santità della terumah. Il fuoco è il modo corretto per smaltirla con dignità."
+    },
+    {
+      "n": "12:4-6",
+      "he": "כֹּהֵן שֶׁהוּא טָמֵא לֹא יֹאכַל תְּרוּמָה...",
+      "it": "Un kohen che è ritualmente impuro (tameh) non può mangiare terumah. Se lo fa intenzionalmente, è punito con la flagellazione. Se per errore, deve pagare il rimborso e il quinto. L'impurità rilevante comprende: contatto con un cadavere, impurità da perdite corporali, e altre fonti di tumah elencate nella Torah."
+    },
+    {
+      "n": "12:7-10",
+      "he": "תְּרוּמָה בְּטֻמְאָה — אֵין שׂוֹרְפִין אוֹתָהּ אֶלָּא בִּטְהָרָה...",
+      "it": "La terumah impura deve essere bruciata in condizioni di purezza rituale, o almeno senza aggravare la situazione. Non si brucia terumah impura insieme a oggetti di chullin, per non degradare ulteriormente la sua santità. I dettagli tecnici includono il tipo di fuoco e la procedura."
+    },
+    {
+      "n": "12:11-15",
+      "he": "הַמְסַפֵּק תְּרוּמָה לְטָמֵא...",
+      "it": "Chi fornisce terumah a un kohen impuro sapendo che la mangerà — ha trasgredito un divieto. Il kohen impuro che mangia è l'unico penalizzato nella pratica, ma chi lo ha aiutato ha pure compiuto un atto proibito secondo i Saggi. Questo capitolo conclude la trattazione dell'impurità della terumah."
+    }
+  ],
+  "_glossary_terms_used": ["terumah", "tevel", "tumah", "tahor", "tameh", "kohen", "challal", "chomesh", "malkut", "chullin", "bereirah"]
+}

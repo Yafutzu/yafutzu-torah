@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 4",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק ד",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 4",
+  "cycle": "tanya",
+  "date": "2026-09-02",
+  "hebrew_date": "20 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "כָּל הָעוֹלָמוֹת כֻּלָּם — כְּלֹא מַמָּשׁ חֲשִׁיבִי קַמֵּיהּ. פֵּרוּשׁ: לֹא שֶׁהָעוֹלָם אַיִן מַמָּשׁ, אֶלָּא מִצַּד הָאֱמֶת הָעֶלְיוֹנָה אֵין לוֹ קִיּוּם עַצְמִי.", "it": "Tutti i mondi — sono considerati come se fossero nulla davanti a Lui. Spiegazione: non che il mondo sia letteralmente nulla, ma dal punto di vista della Verità Suprema esso non ha esistenza indipendente."},
+    {"n": 2, "he": "הָרַמְבַּ\"ן כָּתַב 'אֵין דָּבָר עוֹמֵד לְבַדּוֹ אֶלָּא בְּכֹחַ בּוֹרְאוֹ'. כָּל רֶגַע וָרֶגַע הַקָּדוֹשׁ בָּרוּךְ הוּא מַחֲיֶה אֶת הָעוֹלָם בְּבִחִינַת 'יֵשׁ מֵאַיִן'.", "it": "Il Ramban ha scritto 'nessuna cosa esiste da sola se non con la forza del suo Creatore'. Ogni singolo momento il Santo Benedetto dà vita al mondo in forma di 'yesh me'ayin'."},
+    {"n": 3, "he": "לֹא נִשְׁתַּנָּה בְּשׁוּם שִׁינּוּי — פֵּרוּשׁ, שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא לֹא עָבַר שׁוּם שִׁינּוּי בִּבְרִיאַת הָעוֹלָם, שֶׁבְּרִיאַת הָעוֹלָם הִיא כְּמוֹ דִּבּוּר בִּלְבַד.", "it": "Non è cambiato in alcun modo — significa che il Santo Benedetto non ha subito alcun cambiamento nella creazione del mondo, poiché la creazione del mondo è come una semplice parola."}
+  ],
+  "_glossary_terms_used": ["ke-lo mamash", "yesh me'ayin", "or Ein Sof"]
+}

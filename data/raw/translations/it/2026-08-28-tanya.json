@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 52",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נ\"ב",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 52",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-28",
+  "hebrew_date": "15 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כלל הוא: 'מעלין בקדש ולא מורידין' — בקדושה תמיד עולים, לא יורדים. עיקרון זה נוהג בכל שנת הקודש: מראש השנה ליום הכיפורים לסוכות לחנוכה — כל חג ומועד הוא מדרגה גבוהה יותר.",
+      "it": "La regola è: 'ma'alin be-kodesh ve-lo moridin' (si sale in santità e non si scende) — nella santità si sale sempre, non si scende. Questo principio vale per l'intero anno sacro: da Rosh Hashanah a Yom Kippur a Sukkot a Chanukah — ogni festa e solennità è un gradino più alto."
+    },
+    {
+      "n": 2,
+      "he": "ראש השנה — כתרגום הדין והמלכות. יום כיפור — גילוי רחמים עליונים. סוכות — שמחת הגאולה. חנוכה — נס האור. הכל — עלייה.",
+      "it": "Rosh Hashanah — il momento del giudizio (din) e dell'incoronazione Divina (malkhut). Yom Kippur — la rivelazione della misericordia suprema (rachamim). Sukkot — la gioia della redenzione. Chanukah — il miracolo della luce. Tutto — è ascesa."
+    },
+    {
+      "n": 3,
+      "he": "לפיכך — כשמתקרב חג — יש להתכונן אליו בהתרוממות. כי כל חג דורש דרגה גבוהה יותר של הכנה ועבודה מהחג שלפניו.",
+      "it": "Pertanto — quando si avvicina una festa — ci si deve preparare ad essa con elevazione. Poiché ogni festa richiede un grado più alto di preparazione e di servizio Divino rispetto alla festa precedente."
+    }
+  ],
+  "_glossary_terms_used": ["ma'alin be-kodesh ve-lo moridin", "din", "malkhut", "rachamim"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 10",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק י",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 10",
+  "cycle": "tanya",
+  "date": "2026-09-20",
+  "hebrew_date": "9 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יוֹם הַכִּפּוּרִים בְּעַצְמוֹ מְכַפֵּר — כְּמַאֲמַר חֲזַ\"ל. כֵּיצַד? מִפְּנֵי שֶׁבְּיוֹם זֶה מִדַּת הָרַחֲמִים הָעֶלְיוֹנָה שׁוֹלֶטֶת לְגַמְרֵי, וּמִדַּת הַדִּין נִסְתֶּרֶת.",
+      "it": "Yom Kippur stesso espia — come dicono i nostri Saggi di benedetta memoria. Come? Perché in questo giorno l'attributo supremo della misericordia domina completamente, e l'attributo della giustizia si nasconde."
+    },
+    {
+      "n": 2,
+      "he": "הַצּוֹם וְהַתְּפִלָּה בְּיוֹם הַכִּפּוּרִים יֵשׁ לָהֶם כֹּחַ לְעַלּוֹת לְמָקוֹם עֶלְיוֹן שֶׁאֵין שׁוּם חֵטְא יָכוֹל לְהַגִּיעַ שָׁם. לְכֵן הַכַּפָּרָה שְׁלֵמָה.",
+      "it": "Il digiuno e la preghiera di Yom Kippur hanno il potere di elevarsi a un luogo supremo dove nessun peccato può giungere. Perciò l'espiazione è completa."
+    },
+    {
+      "n": 3,
+      "he": "אַשְׁרֵי הָעָם שֶׁיּוֹדֵעַ תְּרוּעָה — זֶה עַם יִשְׂרָאֵל שֶׁיּוֹדֵעַ לְהִתְקָרֵב אֶל הַקָּדוֹשׁ בָּרוּךְ הוּא בִּימֵי הַסְּלִיחָה וְהַמְּחִילָה.",
+      "it": "Beato il popolo che conosce il teruah — questo è il popolo d'Israele che sa avvicinarsi al Santo Benedetto nei giorni del perdono e della remissione."
+    }
+  ],
+  "_glossary_terms_used": ["Yom Kippur", "middat harachamim", "middat hadin", "kapparah", "teshuvah", "tzom"]
+}

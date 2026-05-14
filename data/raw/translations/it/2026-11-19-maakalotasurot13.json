@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 13",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק יג",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 13",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-19",
+  "hebrew_date": "10 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "גְּבִינַת הָעוֹבְדֵי כּוֹכָבִים — אֲסוּרָה…",
+      "it": "Il formaggio prodotto da non ebrei (gevinat akum) — è proibito per decreto rabbinico. La proibizione è antica e risale ai tempi dei Saggi. Il Rambam identifica le ragioni possibili: (1) il caglio (rennet) usato dai non ebrei per cagliare il latte potrebbe provenire da animali non kosher; (2) il decreto mira a prevenire l'intimità sociale con i non ebrei che potrebbe portare all'intermarriage. Entrambe le ragioni convergono nel rendere il formaggio di non ebrei non kosher, indipendentemente dalla provenienza del latte."
+    },
+    {
+      "n": 2,
+      "he": "חָלָב שֶׁחֲלָבוֹ עוֹבֵד כּוֹכָבִים בִּלְבַד — אָסוּר…",
+      "it": "Il latte munto solo da un non ebreo senza supervisione ebraica — è proibito (chalav akum). La ragione: si teme che il non ebreo abbia mischiato latte di animali non kosher (latte di cavalla, di cammella, ecc.) con il latte di mucca. Se un ebreo ha supervisionato la mungitura e può attestare che il latte proviene solo da animali kosher — il latte è permesso (chalav Yisrael). Questa distinzione è la base della moderna prassi di chalav Yisrael."
+    },
+    {
+      "n": 3,
+      "he": "גְּבִינָה שֶׁנַּעֲשֵׂית בְּקֵיבָה שֶׁל נְבֵלָה…",
+      "it": "Il formaggio prodotto con caglio di un animale morto per cause non rituali (neveilah) o di un animale non kosher — è proibito. Il caglio proveniente dall'abomaso (keivah) di un vitello non macellato ritualmente rende il formaggio non kosher. Questa è una delle ragioni principali per cui la tradizione ha stabilito la proibizione di gevinat akum: non si conosce la fonte del caglio usato dai produttori non ebrei. Il controllo rabbinico della produzione del formaggio è dunque essenziale."
+    },
+    {
+      "n": 4,
+      "he": "פַּת הָעוֹבְדֵי כּוֹכָבִים — גָּזְרוּ עָלֶיהָ…",
+      "it": "Il pane dei non ebrei (pat akum) — i Saggi hanno decretato contro di esso. Il motivo è identico a quello del formaggio: prevenire l'intimità sociale. Il Rambam distingue due situazioni: in una città dove vi sono fornai ebrei (nahtomim Yisrael), è proibito comprare pane da fornai non ebrei. In una città dove non vi sono fornai ebrei, alcuni permetti il pane di non ebrei per evitare che si arrivi alla privazione. La halachah segue la linea più stringente in città dove il pane ebraico è disponibile."
+    },
+    {
+      "n": 5,
+      "he": "פַּת פַּלְטֶר — פַּת שֶׁנַּעֲשֵׂית לִמְכֹּר בַּשּׁוּק — יֵשׁ מְקוֹמוֹת שֶׁנָּהֲגוּ לְהַתִּיר…",
+      "it": "Il pane del fornaio commerciale non ebreo (pat palter — pane da negozio, distinto dal pane domestico) — in alcuni luoghi si è diffusa la consuetudine di permetterlo, perché il contatto sociale che avviene tramite il commercio è meno intimo di quello che avviene mangiando in casa altrui. Il Rambam riporta questa distinzione tra pat ba'al ha-bayit (pane fatto in casa da un non ebreo) e pat palter (pane commerciale). Nelle comunità dove la consuetudine è di permettere pat palter, ci si può affidare a essa."
+    },
+    {
+      "n": 6,
+      "he": "שֶׁמֶן — מֻתָּר אֲפִלּוּ שֶׁל עוֹבְדֵי כּוֹכָבִים…",
+      "it": "L'olio — è permesso anche quello di non ebrei, come stabilito nel capitolo precedente. Sebbene i Saggi avessero inizialmente decretato contro l'olio di non ebrei (insieme al vino e al pane), il decreto sull'olio fu revocato poiché non fu accettato dall'intera comunità ebraica. Questo episodio insegna un principio fondamentale: un decreto rabbinico deve essere praticabile e accettato dalla comunità per avere forza legale permanente."
+    },
+    {
+      "n": 7,
+      "he": "הַמְבַשֵּׁל בְּשׂוֹם עִם גְּבִינַת הָעוֹבְדֵי כּוֹכָבִים — אֲסוּר…",
+      "it": "Chi cuoce aglio con formaggio di non ebrei — il piatto è proibito, poiché il sapore del formaggio non kosher si trasferisce all'aglio. Questo è un'applicazione del principio generale di ta'am ke-ikar (il sapore è come la sostanza stessa): il sapore di un alimento proibito che si trasferisce a un alimento permesso durante la cottura rende proibito l'alimento permesso. Il formaggio di non ebrei dunque non solo è proibito di per sé ma può rendere proibiti altri alimenti permessi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "gevinat akum", "chalav akum", "chalav Yisrael", "neveilah", "keivah", "pat akum", "nahtomim", "pat palter", "ta'am ke-ikar"
+  ]
+}

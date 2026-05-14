@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 7",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק ז",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-07",
+  "hebrew_date": "26 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁנֵי אַחִין שֶׁנָּשְׂאוּ שְׁתֵּי אֲחָיוֹת וּמֵת אֶחָד מֵהֶן…",
+      "it": "Due fratelli che hanno sposato due sorelle: se uno dei fratelli muore — la cognata (yevamah) è proibita al fratello superstite che ha sposato sua sorella, poiché sarebbe contemporaneamente sua moglie e la sua cognata. In tal caso la yevamah è completamente libera senza chalitzah né yibbum — poiché la sua «tzarah» (co-moglie sorella) è già sposata al yavam e crea una situazione di ervah (relazione proibita)."
+    },
+    {
+      "n": 2,
+      "he": "שְׁנֵי אַחִין שֶׁנָּשְׂאוּ שְׁתֵּי נָשִׁים שֶׁאֵינָן קְרוֹבוֹת — וּמֵת אֶחָד מֵהֶן…",
+      "it": "Due fratelli che hanno sposato due donne non imparentate tra loro: se uno muore — la cognata può essere sia presa in yibbum che liberata con chalitzah dal fratello superstite, a meno che non vi siano altri impedimenti. Se poi anche il secondo fratello muore — la moglie del secondo fratello diventa anch'essa yevamah che cade sugli altri fratelli rimanenti. Il capitolo esamina le catene di obblighi che si creano in famiglie con molti fratelli."
+    },
+    {
+      "n": 3,
+      "he": "שְׁלֹשָׁה אַחִין שֶׁנָּשְׂאוּ שְׁלֹשׁ נָשִׁים שֶׁאֵינָן קְרוֹבוֹת…",
+      "it": "Tre fratelli che hanno sposato tre donne non imparentate: se due dei fratelli muoiono — le loro mogli cadono sullo stesso fratello superstite come yevamot. Il fratello superstite può compiere yibbum con una di loro e chalitzah con l'altra. Non è obbligato a fare yibbum con entrambe — la Torah richiede che si prenda cura di ogni yevamah, ma una sola può diventare sua moglie tramite yibbum; le altre ricevono la chalitzah."
+    },
+    {
+      "n": 4,
+      "he": "שְׁלֹשָׁה אַחִין שֶׁנָּשְׂאוּ שְׁלֹשׁ נָשִׁים קְרוֹבוֹת…",
+      "it": "Tre fratelli che hanno sposato tre donne imparentate tra loro (ad esempio tre sorelle): se uno muore — la yevamah è proibita a entrambi i fratelli superstiti (ognuno dei quali è marito di una sorella della yevamah). In tal caso la yevamah è completamente libera senza alcun atto. Questo è uno dei casi più complessi nelle leggi di yibbum, in cui la struttura delle parentele interne alla famiglia crea situazioni di auto-esenzione."
+    },
+    {
+      "n": 5,
+      "he": "הָאַח שֶׁנָּשָׂא אֵשֶׁת אָחִיו שֶׁלֹּא בְּיִיבּוּם — עָבַר עַל לֹא תַעֲשֶׂה…",
+      "it": "Il fratello che sposa la cognata senza compiere lo yibbum rituale — ha trasgredito un divieto (lo stare «senza la moglie del fratello defunto» è richiesto dalla Torah come passo verso lo yibbum o la chalitzah). Il matrimonio in tali casi è comunque valido retroattivamente, poiché la coabitazione effettua lo yibbum, ma l'azione era formalmente irregolare. Il beit din in tal caso registra che lo yibbum è avvenuto e chiude la pratica."
+    },
+    {
+      "n": 6,
+      "he": "יָבָם שֶׁחָלַץ לִיְבִמָתוֹ וְחָזַר וְקִדְּשָׁהּ — אֵינוֹ קִדּוּשִׁין…",
+      "it": "Il yavam che ha compiuto la chalitzah con la yevamah e poi vuole sposarla normalmente (con kiddushin) — non può farlo. La chalitzah non permette il matrimonio ordinario tra il yavam e la yevamah; al contrario, la chalitzah crea un divieto permanente tra di loro. Dopo la chalitzah la yevamah è libera di sposarsi con chiunque altro, ma non con il yavam che le ha dato la chalitzah né con nessuno dei fratelli del defunto."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yibbum", "chalitzah", "yavam", "yevamah", "tzarah", "ervah", "beit din", "kiddushin", "zikah"
+  ]
+}

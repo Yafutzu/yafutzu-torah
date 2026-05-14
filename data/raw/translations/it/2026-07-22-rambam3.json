@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Pesulei HaMukdashim 5-7",
+  "name_he": "משנה תורה, הלכות פסולי המוקדשין, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi delle Offerte Invalide, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-07-22",
+  "hebrew_date": "8 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "אָסוּר לִשְׁחֹט חֻלִּין בַּעֲזָרָה. הַשּׁוֹחֵט חֻלִּין בַּעֲזָרָה — לוֹקֶה.",
+      "it": "È vietato macellare animali non-sacri (chullin) nel cortile del Tempio (azarah). Chi macella non-sacri nell'azarah — è soggetto a flagellazione."
+    },
+    {
+      "n": "5:2",
+      "he": "אֵין חֻלִּין נִשְׁחָטִין בָּעֲזָרָה — גְּזֵרַת חֲכָמִים הִיא, מִשּׁוּם כְּבוֹד הַמִּקְדָּשׁ.",
+      "it": "Il divieto di macellare chullin nell'azarah — è un decreto dei Saggi, per rispetto del Santuario."
+    },
+    {
+      "n": "5:3",
+      "he": "הַנֶּהֱנֶה מֵהֶם — מֻתָּר. הַבָּשָׂר — מֻתָּר בַּאֲכִילָה.",
+      "it": "Chi trae vantaggio dagli animali non-sacri macellati nell'azarah — è permesso. La carne — è permessa al consumo."
+    },
+    {
+      "n": "6:1",
+      "he": "בַּעַל מוּם שֶׁהִקְדִּישׁוֹ — אֵין קָרֵב עַל גַּבֵּי הַמִּזְבֵּחַ. יִפָּדֶה וְיֵצֵא לְחֻלִּין.",
+      "it": "Un animale con un difetto (ba'al mum) che è stato consacrato — non può essere offerto sull'altare. Viene riscattato e ritorna allo stato non-sacro."
+    },
+    {
+      "n": "6:2",
+      "he": "נוֹלַד בּוֹ מוּם אַחַר הַקְדָּשָׁה — אִם מוּם עוֹבֵר — יַמְתִּינוּ לוֹ. אִם מוּם קָבוּעַ — יִפָּדֶה.",
+      "it": "Se un difetto si sviluppa dopo la consacrazione — se è un difetto temporaneo (mum oveir) — si aspetta che guarisca. Se è un difetto permanente (mum kavu'a) — viene riscattato."
+    },
+    {
+      "n": "6:3",
+      "he": "מוּם שֶׁעָשָׂה בְּיָדוֹ — אוֹסֵר אֶת הָאֵיבָר וְאֶת הַבְּהֵמָה לְגַמְרֵי.",
+      "it": "Un difetto causato deliberatamente dalla sua stessa mano — invalida l'arto e l'intero animale."
+    },
+    {
+      "n": "7:1",
+      "he": "הַמֵּמִיר — עוֹשֶׂה תְּמוּרָה, שֶׁנֶּאֱמַר: 'לֹא יַחֲלִיפֶנּוּ וְלֹא יָמִיר אֹתוֹ'.",
+      "it": "Chi esegue una sostituzione (temurah) — transgredisce un commandamento della Torah, come è detto: 'Non lo cambierà e non lo sostituirà' (Levitico 27:10)."
+    },
+    {
+      "n": "7:2",
+      "he": "עָשָׂה תְּמוּרָה — לוֹקֶה, וּשְׁנֵיהֶם קֹדֶשׁ. הַחֻלִּין נֶחֱשָׁבִין קָדוֹשׁ כְּהַקֹּדֶשׁ שֶׁנִּמְרָה.",
+      "it": "Se eseguì la temurah — viene flagellato, e entrambi gli animali diventano sacri. L'animale non-sacro acquista la santità di quello sacro che era stato scambiato."
+    },
+    {
+      "n": "7:3",
+      "he": "תְּמוּרָה חָלָה אֲפִלּוּ בִּשְׁגָגָה — שֶׁנֶּאֱמַר 'וְהָיָה הוּא וּתְמוּרָתוֹ יִהְיֶה קֹדֶשׁ'.",
+      "it": "La temurah ha effetto anche involontariamente — come è detto: 'Esso e il suo sostituto saranno santi' (Levitico 27:10)."
+    }
+  ],
+  "_glossary_terms_used": ["chullin", "azarah", "ba'al mum", "mum oveir", "mum kavu'a", "temurah", "pidyon"]
+}

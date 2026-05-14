@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 2",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק ב",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-25",
+  "hebrew_date": "16 Kislev 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "חֲמִשָּׁה דְּבָרִים מְפַסְּלִין אֶת הַשְּׁחִיטָה — שְׁהִיָּה, דְּרָסָה, חֲלָדָה, הַגְרָמָה, עִקּוּר…",
+      "it": "Cinque cose invalidano la shechitah (e rendono l'animale neveilah — carcassa non kasher): (1) shehiyah — pausa durante il taglio; (2) derasah — pressione invece del taglio glissante; (3) chaladah — introduzione del coltello sotto la pelle o sotto il tessuto; (4) hagramah — taglio al di fuori della zona valida; (5) ikkur — lacerazione o sradicamento dell'organo. Tutte e cinque sono invalidazioni derivate da interpretazione tradizionale (halachah le-Moshe mi-Sinai)."
+    },
+    {
+      "n": 2,
+      "he": "שְׁהִיָּה — שֶׁשָּׁהָה בַּשְּׁחִיטָה…",
+      "it": "Shehiyah — che ha fatto una pausa durante la shechitah. Se il shochet stava tagliando e si è fermato — anche solo per un momento — con il coltello ancora nella gola dell'animale, la shechitah è invalida. La ragione: la pausa durante il taglio equivale a pressione (derasah) sulle pareti dei simanim, che causa sofferenza non necessaria e invalida il taglio. Quanto deve essere la pausa per invalidare? Il Rambam dice: abbastanza che si possa rimuovere e reinserire il coltello (kedi she-yuchal lehosif ve-lehachzir)."
+    },
+    {
+      "n": 3,
+      "he": "דְּרָסָה — שֶׁדָּרַס בַּסַּכִּין…",
+      "it": "Derasah — che ha premuto con il coltello. Se il shochet ha premuto il coltello verso il basso invece di far scorrere la lama avanti e indietro, la shechitah è invalida. Il taglio valido è un movimento glissante (holachah va-hava'ah — avanti e indietro); la pressione verso il basso schiaccia i simanim invece di tagliarli nettamente. Anche un singolo movimento in avanti senza ritorare è valido post-facto (be-diavad), ma il metodo corretto richiede il movimento bidirezionale."
+    },
+    {
+      "n": 4,
+      "he": "חֲלָדָה — שֶׁהֶחְלִיד אֶת הַסַּכִּין…",
+      "it": "Chaladah — che ha nascosto il coltello. Se il coltello è stato introdotto sotto la lana folta dell'animale, sotto la pelle del collo, o sotto un altro organo in modo che il taglio avvenga «al buio» — la shechitah è invalida. La ragione: non si vede cosa sta tagliando; potrebbe aver tagliato organi sbagliati o aver agito impropriamente. Il coltello deve essere visibile durante tutta l'operazione. Anche introdurre il coltello tra due simanim (tra trachea ed esofago) senza che siano entrambi visibili — è chaladah."
+    },
+    {
+      "n": 5,
+      "he": "הַגְרָמָה — שֶׁהִגְרִים…",
+      "it": "Hagramah — che ha deviato il taglio fuori dalla zona valida. La shechitah deve avvenire nella zona definita della gola — né troppo vicino alla testa (che è hagramah verso l'alto) né troppo vicino al corpo (hagramah verso il basso). Se il shochet ha tagliato parzialmente nella zona valida e parzialmente fuori — si calcola se la maggior parte del taglio era nella zona valida. Se la maggior parte era fuori — la shechitah è invalida."
+    },
+    {
+      "n": 6,
+      "he": "עִקּוּר — שֶׁעָקַר אֶת הַסִּימָנִין…",
+      "it": "Ikkur — che ha lacerato o strappato i simanim. Se nel processo del taglio i simanim (trachea o esofago) sono stati lacerati o strappati — non tagliati nettamente — la shechitah è invalida. Questo può accadere se il coltello è intaccato (pagum) e strappa invece di tagliare, o se si usa un movimento di sega grossolana. Il taglio deve essere netto e fluido; qualsiasi lacerazione di strappamento invalida."
+    },
+    {
+      "n": 7,
+      "he": "כֻּלָּן — בֵּין בְּכַוָּנָה בֵּין בְּשׁוֹגֵג — מְפַסְּלִין…",
+      "it": "Tutte le cinque invalidazioni — sia deliberate (be-mezid) sia accidentali (be-shogeg) — invalidano la shechitah. Non si tratta di sanzioni morali sul shochet ma di requisiti tecnici oggettivi della shechitah stessa. Anche se il shochet era completamente ignaro di aver commesso l'invalidazione — la carne rimane neveilah. Questo sottolinea l'importanza della competenza tecnica e dell'attenzione continua del shochet durante l'operazione."
+    },
+    {
+      "n": 8,
+      "he": "נוֹלַד בָּהֶן סָפֵק — יֵשׁ בּוֹ פְּלוּגְתָּא…",
+      "it": "Se nasce un dubbio riguardo a una delle cinque invalidazioni — vi è una disputa tra le autorità. Il principio generale: in caso di dubbio (safek) riguardo a invalidazioni di shechitah — si è stringenti (le-chumra) poiché si tratta di un dubbio di proibizione biblica (safek de-oraita). Solo un rav competente può valutare ogni caso specifico di dubbio nella shechitah. Il shochet che non sa — deve chiedere prima di permettere la carne."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shehiyah", "derasah", "chaladah", "hagramah", "ikkur", "neveilah", "simanim", "shochet", "holachah va-hava'ah", "pagum", "safek", "safek de-oraita"
+  ]
+}

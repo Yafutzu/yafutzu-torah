@@ -1,0 +1,42 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 21-23",
+  "name_he": "משנה תורה, הלכות טומאת מת, פרקים כא-כג",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere, capitoli 21-23",
+  "cycle": "rambam-3",
+  "date": "2026-08-14",
+  "hebrew_date": "1 Elul 5786",
+  "halachot_count": 11,
+  "halachot": [
+    {
+      "n": "21:1",
+      "he": "בית הפרס — שדה שנחרש קבר בתוכה — טמאה מדרבנן. ויש שלושה סוגי בית הפרס: שדה שנחרש בה קבר, שדה שנזרעה בה אבידה — דהיינו שנמצאו בה עצמות בלא ידיעת מקומן, ושדה שאבד בה קבר.",
+      "it": "Il beit ha-pras — un campo in cui è stata arata una tomba — è impuro per decreto rabbinico. Esistono tre tipi di beit ha-pras: un campo in cui è stata arata una tomba, un campo in cui si sono smarrite delle ossa — ovvero vi si trovano ossa di posizione sconosciuta, e un campo in cui si è persa la tomba."
+    },
+    {
+      "n": "21:2",
+      "he": "בבית הפרס — כוהן אסור ליכנס. ואם נכנס — נטמא בספק. ויש שאמרו שמותר לכוהן לעבור בבית הפרס ולנפח את העפר לפניו.",
+      "it": "Nel beit ha-pras — a un kohen è vietato entrare. Se entra — diventa impuro in modo incerto (safek tamei). Alcuni dissero che è permesso al kohen attraversare il beit ha-pras soffiando via la polvere davanti a sé."
+    },
+    {
+      "n": "22:1",
+      "he": "מערה שמשתמשים בה לקבורה — היא מטמאת כמו קבר ממש. ואם היתה פתחה לשדה — השדה טמאה כבית הפרס. ואם היתה פתחה לרשות הרבים — הרשות הרבים טמאה.",
+      "it": "Una grotta usata per la sepoltura — è impura come una tomba ordinaria. Se la sua apertura dà su un campo — il campo è impuro come un beit ha-pras. Se la sua apertura dà su uno spazio pubblico — lo spazio pubblico è impuro."
+    },
+    {
+      "n": "22:2",
+      "he": "מערה שיש בה מת — האוהל שעליה מטמא. אם יש 'צינור' — פתח שמחבר בין המערה לבין חלל אחר — הטומאה עוברת דרכו.",
+      "it": "Una grotta in cui si trova un cadavere — la tettoia (ohel) sopra di essa trasmette impurità. Se vi è un 'tzinor' — un'apertura che collega la grotta con un altro spazio — l'impurità passa attraverso di esso."
+    },
+    {
+      "n": "23:1",
+      "he": "חי אינו יכול להיות 'אוהל' על המת — שנאמר 'באדם כי ימות באוהל' — 'אוהל' הוא דבר קבוע, לא אדם חי. לפיכך, אם אדם עמד על קבר — אינו מטמא את מה שמעליו.",
+      "it": "Un essere vivente non può fungere da 'ohel' per un cadavere — poiché è detto: 'Quando un uomo morirà nella tenda' (Bemidbar 19:14) — 'tenda' si riferisce a qualcosa di fisso, non a una persona viva. Pertanto, se una persona è rimasta in piedi sopra una tomba, non trasmette l'impurità a ciò che si trova sopra di lei."
+    },
+    {
+      "n": "23:2",
+      "he": "בית שיש בו מת ויש בו חלון — הטומאה יוצאת דרך החלון אם יש בו שיעור טפח. ואם אין שיעור — הטומאה אינה יוצאת.",
+      "it": "Una casa in cui si trova un cadavere e che ha una finestra — l'impurità esce attraverso la finestra se essa misura almeno un tefach. Se è più piccola di un tefach — l'impurità non esce."
+    }
+  ],
+  "_glossary_terms_used": ["beit ha-pras", "kohen", "ohel", "tzinor", "tefach", "safek tamei"]
+}

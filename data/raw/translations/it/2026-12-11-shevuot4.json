@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 4",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ד",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-11",
+  "hebrew_date": "2 Tevet 5787 — Chanukah giorno 8 (ULTIMO GIORNO — ZOT CHANUKAH)",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבוּעַת הַדַּיָּנִים — שֶׁהִיא שְׁבוּעַת הַמּוֹדֶה בְּמִקְצָת...",
+      "it": "Shevuat ha-dayanim (giuramento dei giudici): un tipo specifico di giuramento richiesto dal beit din (tribunale) in controversie monetarie. Il caso paradigmatico: modeh be-miktzat — ammissione parziale. Se Reuven reclama 100 zuz da Shimon, e Shimon ammette di doverne 50 ma nega i restanti 50 — Shimon deve giurare (shevuat modeh be-miktzat) che non deve i restanti 50. La logica talmudica: se avesse voluto mentire completamente, avrebbe negato tutto; il fatto che ammette parte suggerisce buona fede, ma richiede giuramento sulla parte negata."
+    },
+    {
+      "n": 2,
+      "he": "שְׁבוּעַת הַמּוֹדֶה בְּמִקְצָת — מִדְּאוֹרַיְיתָא...",
+      "it": "La shevuat modeh be-miktzat è di origine biblica (mi-d'oraita), derivata dal versetto «e giurerà che non ha allungato la mano sul bene del suo compagno» (Esodo 22:10). Il giuramento deve essere pronunciato tenendo in mano un oggetto sacro (sefer Torah, tefillin) e invocando il Nome di D-o. Il giuramento vincola completamente: se giura falsamente, oltre alla trasgressione dello spergiuro, è tenuto a restituire l'intera somma originariamente reclamata."
+    },
+    {
+      "n": 3,
+      "he": "שְׁבוּעַת הַמַּשְׁבִּיעַ עֵד אֶחָד...",
+      "it": "Giuramento con un solo testimone (ed echad): se c'è un solo testimone che testimonia che il convenuto deve l'intera somma, ma il convenuto nega — deve giurare per contrastare il testimone. La regola: un singolo testimone non può da solo far condannare, ma obbliga il convenuto a giurare. Se il convenuto si rifiuta di giurare — viene condannato a pagare in base al testimone unico. Questo è il «giuramento del convenuto» (shevuat ha-nitvah)."
+    },
+    {
+      "n": 4,
+      "he": "שְׁבוּעַת הַתּוֹבֵעַ — כְּשֶׁאֵין עֵדִים...",
+      "it": "Shevuat ha-tova'a (giuramento dell'attore): in certi casi rari, il beit din può richiedere che sia l'attore (il reclamante) a giurare prima di ricevere il pagamento — ad esempio quando c'è sospetto che la sua pretesa sia esagerata, o quando le prove sono molto deboli. Questo giuramento inverso è un'innovazione rabbinica (takkanat ha-geonim) per proteggere il convenuto da richieste fraudolente."
+    },
+    {
+      "n": 5,
+      "he": "שְׁבוּעַת הֶסֵּת — תַּקָּנַת חֲכָמִים...",
+      "it": "Shevuat hesset (giuramento di induzione): un'ulteriore innovazione rabbinica. Quando un attore reclama e il convenuto nega completamente (kofer ba-kol) senza ammettere nulla — normalmente il convenuto sarebbe esente dal giuramento (poiché non c'è ammissione parziale). Ma i Saggi hanno istituito che il convenuto giuri comunque, per scoraggiare negazioni false. Questo giuramento rabbinico si chiama «hesset» (induzione) perché induce una verifica."
+    },
+    {
+      "n": 6,
+      "he": "זֹאת חֲנֻכָּה — שְׁמוֹנָה נֵרוֹת...",
+      "it": "Zot Chanukah — ultimo giorno: questa sera splendono otto candele, la pienezza del miracolo. Il Talmud insegna che il miracolo durò otto giorni — uno oltre i sette giorni naturali del ciclo settimanale. Il numero otto (shemonah) simboleggia la trascendenza della natura — ciò che va oltre i sette. Il giuramento in beit din (shevuat dayanim) opera anch'esso «oltre» la norma processuale naturale: quando le prove umane si esauriscono, il giuramento accede al Testimone Divino che vede ogni cosa. Zot Chanukah: «ecco Chanukah» — la pienezza della luce rimane nell'anima ebraica anche dopo che le candele si spengono."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevuat ha-dayanim", "beit din", "modeh be-miktzat", "shevuat modeh be-miktzat", "mi-d'oraita", "ed echad", "shevuat ha-nitvah", "shevuat ha-tova'a", "takkanat ha-geonim", "shevuat hesset", "kofer ba-kol", "Zot Chanukah"
+  ]
+}

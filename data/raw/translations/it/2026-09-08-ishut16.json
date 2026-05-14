@@ -1,0 +1,28 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 16",
+  "name_he": "משנה תורה, הלכות אישות, פרק טז",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 16",
+  "cycle": "rambam-1",
+  "date": "2026-09-08",
+  "hebrew_date": "26 Elul 5786",
+  "halachot_count": 16,
+  "halachot": [
+    {"n": 1, "he": "הַבַּעַל שֶׁיָּצָא לְדֶרֶךְ רְחוֹקָה — חַיָּב לְהַנִּיחַ לְאִשְׁתּוֹ מְזוֹנוֹת כְּדֵי שֶׁתִּחְיֶה.", "it": "Il marito che è partito per un lungo viaggio — è obbligato a lasciare alla moglie cibo sufficiente per vivere."},
+    {"n": 2, "he": "כַּמָּה יַנִּיחַ? לְפִי זְמַן הַדֶּרֶךְ וְחֶשְׁבּוֹן הַמְּזוֹנוֹת.", "it": "Quanto deve lasciare? Secondo la durata del viaggio e il calcolo del sostentamento."},
+    {"n": 3, "he": "יָצָא וְלֹא הִנִּיחַ לָהּ מְזוֹנוֹת — בֵּית דִּין מוֹצִיאִין לָהּ מִנְּכָסָיו.", "it": "Se è partito senza lasciarle cibo — il beit din preleva dai suoi beni per lei."},
+    {"n": 4, "he": "מִנְּכָסִים שֶׁיֵּשׁ לְהֶם אַחְרָיוּת, לֹא מִמִּטַּלְטְלִין — בְּדִין הַמֵּינוּת.", "it": "Da beni immobili, non da beni mobili — secondo il diritto rabbinico."},
+    {"n": 5, "he": "הִנִּיחַ לָהּ מְזוֹנוֹת וְלֹא חָזַר בִּזְמַן קָצוּב — מוֹסִיפִין לָהּ הַמְּזוֹנוֹת.", "it": "Se ha lasciato cibo e non è tornato nel tempo stabilito — le si aggiunge il sostentamento."},
+    {"n": 6, "he": "הָאִשָּׁה שֶׁתָּבְעָה מְזוֹנוֹת מִנְּכָסֵי בַּעְלָהּ בִּזְמַן הֵעָדְרוֹ — שׁוֹמְעִין לָהּ.", "it": "La moglie che ha richiesto sostentamento dai beni del marito durante la sua assenza — si ascolta la sua richiesta."},
+    {"n": 7, "he": "מִנְּכָסִים שֶׁל הַבַּעַל שֶׁבְּמָקוֹמוֹ — מוֹצִיאִין לָהּ.", "it": "Dai beni del marito che si trovano nel suo luogo — le si preleva."},
+    {"n": 8, "he": "שָׁלַח לָהּ שָׁלִיחַ לִגְבּוֹת מְזוֹנוֹתֶיהָ — הַשָּׁלִיחַ פּוֹעֵל בִּשְׁבִילָהּ.", "it": "Se ha mandato un agente a raccogliere il suo sostentamento — l'agente agisce per suo conto."},
+    {"n": 9, "he": "הַשָּׁלִיחַ שֶׁנִּשְׁלַח לְגַבּוֹת מְזוֹנוֹת — אֵינוֹ גּוֹבֶה יוֹתֵר מִן הַשִּׁיעוּר שֶׁנִּקְבַּע.", "it": "L'agente inviato a raccogliere il sostentamento — non raccoglie più del quantitativo stabilito."},
+    {"n": 10, "he": "הָאִשָּׁה שֶׁאֵינָהּ תּוֹבַעַת מְזוֹנוֹת — אֵינָהּ מַפְסֶדֶת אֶת זְכוּתָהּ.", "it": "La moglie che non richiede il sostentamento — non perde il suo diritto."},
+    {"n": 11, "he": "הַזְּמַן שֶׁנּוֹתְנִין לַבַּעַל לַחְזֹר — לְפִי מְלַאכְתּוֹ וְהַמָּקוֹם.", "it": "Il tempo che si dà al marito per tornare — secondo il suo mestiere e il luogo."},
+    {"n": 12, "he": "הָלַךְ בִּרְשׁוּתָהּ — אִם כָּלוּ הַמְּזוֹנוֹת וְלֹא חָזַר, תּוֹבַעַת מִבֵּית דִּין.", "it": "Se è andato con il suo permesso — se il cibo è esaurito e non è tornato, rivendica presso il beit din."},
+    {"n": 13, "he": "הָלַךְ שֶׁלֹּא בִּרְשׁוּתָהּ — חַיָּב יוֹתֵר.", "it": "Se è andato senza il suo permesso — è obbligato a di più."},
+    {"n": 14, "he": "הָאִשָּׁה שֶׁתָּבְעָה גֵּרוּשִׁין מֵחֲמַת אֵיחוּר הַבַּעַל — בֵּית דִּין שׁוֹמְעִין לָהּ.", "it": "La moglie che ha richiesto il divorzio a causa del ritardo del marito — il beit din ascolta la sua richiesta."},
+    {"n": 15, "he": "יֵשׁ גְּבוּל לְמֶשֶׁךְ הֵעָדְרוּת שֶׁסּוֹבֶלֶת הָאִשָּׁה — תַּלְמִידֵי חֲכָמִים עַד שְׁלֹשִׁים יוֹם.", "it": "C'è un limite alla durata dell'assenza che la moglie deve tollerare — gli studiosi di Torah fino a trenta giorni."},
+    {"n": 16, "he": "פּוֹעֲלִים — שִׁשָּׁה חֳדָשִׁים. גַּמָּלִין — שְׁנֵים עָשָׂר חֹדֶשׁ.", "it": "I lavoratori — sei mesi. I conducenti di cammelli — dodici mesi."}
+  ],
+  "_glossary_terms_used": ["mezonot", "beit din", "shaliach"]
+}

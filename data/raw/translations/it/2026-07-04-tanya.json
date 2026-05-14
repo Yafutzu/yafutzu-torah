@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 1",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף א",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 1",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-04",
+  "hebrew_date": "19 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַקּוּנְטְרֵס אַחֲרוֹן — אוֹסֵף מַאֲמָרִים פִּילוֹסוֹפִיִּים מֻסָּפִים לַתַּנְיָא. סַעִיף א: עַל הָעִנְיָן שֶׁל \"צֶלֶם אֱלֹקִים\" (בְּרֵאשִׁית א:כז) — הַמַּשְׁמָעוּת הָעֲמוּקָה שֶׁל בְּרִיאַת הָאָדָם בְּצֶלֶם אֱלֹקִים.",
+      "it": "Il Kuntres Acharon è una raccolta di saggi filosofici aggiunti alla Tanya. Saggio 1: Sul concetto di «tzelem Elokim» (immagine divina, Bereshit 1:27) — il significato profondo della creazione dell'uomo a immagine di D-o."
+    },
+    {
+      "n": 2,
+      "he": "הַהֲבָנָה הַקַּבָּלִית — שֶׁ\"צֶלֶם\" מַצְבִּיעַ עַל עֶשֶׂר הַסְּפִירוֹת, שֶׁהֵן כֹּחוֹת הַנֶּפֶשׁ הָאֱלֹקִית שֶׁל הָאָדָם. הַהֵכְל הָאֱנוֹשִׁי — כֹּחַ הַחָכְמָה, הַבִּינָה וְהַדַּעַת — הוּא ה\"צֶלֶם\".",
+      "it": "La comprensione cabalistica — che «tzelem» indica le dieci Sefirot, che sono le forze dell'anima divina dell'uomo. L'intelletto umano — la forza della Chochmah (Saggezza), Binah (Comprensione) e Da'at (Conoscenza) — questo è il «tzelem»."
+    },
+    {
+      "n": 3,
+      "he": "לְפִיכָךְ מִצְוַת \"וְהָלַכְתָּ בִּדְרָכָיו\" (דברים כח:ט) — שֶׁיְּחַקֶּה הָאָדָם אֶת מִדּוֹת הַקָּדוֹשׁ בָּרוּךְ הוּא: חֶסֶד, רַחֲמִים, אֱמֶת. זֶהוּ אִמּוּת הַ\"צֶלֶם\" בְּחַיֵּי הָאָדָם.",
+      "it": "Pertanto il comandamento di «camminare nelle Sue vie» (Devarim 28:9) — che l'uomo imiti gli attributi del Santo Benedetto Sia: chesed (amore), rachamim (misericordia), emet (verità). Questa è la realizzazione del «tzelem» nella vita umana."
+    }
+  ],
+  "_glossary_terms_used": ["Kuntres Acharon", "Tanya", "tzelem Elokim", "Sefirot", "Chochmah", "Binah", "Da'at", "chesed", "rachamim", "emet", "nefesh ha-elokit"]
+}

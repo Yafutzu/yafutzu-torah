@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Klei HaMikdash 3-5",
+  "name_he": "משנה תורה, הלכות כלי המקדש, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi dei Vasi del Santuario, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-07-03",
+  "hebrew_date": "18 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "מִזְבַּח הַזָּהָב — נַעֲשָׂה מֵעֲצֵי שִׁטִּים, מְצֻפֶּה זָהָב. אָרְכּוֹ אַמָּה, רָחְבּוֹ אַמָּה, קוֹמָתוֹ שְׁתַּיִם אַמּוֹת.",
+      "it": "L'Altare d'Oro (Mizbach HaZahav) — era fatto di legno di acacia, rivestito d'oro. La sua lunghezza era un cubito, la sua larghezza un cubito, la sua altezza due cubiti."
+    },
+    {
+      "n": "3:2",
+      "he": "מִזְבַּח הַנְּחֹשֶׁת — הוּא הַמִּזְבֵּחַ הַחִיצוֹן, שֶׁמַּקְרִיבִין עָלָיו הַקָּרְבָּנוֹת. אָרְכּוֹ שְׁלוֹשִׁים אַמָּה, רָחְבּוֹ שְׁלוֹשִׁים אַמָּה, קוֹמָתוֹ עֶשֶׂר אַמּוֹת.",
+      "it": "L'Altare di Rame (Mizbach HaNechoshet) — è l'altare esterno, su cui si offrono i sacrifici. La sua lunghezza era trenta cubiti, la sua larghezza trenta cubiti, la sua altezza dieci cubiti."
+    },
+    {
+      "n": "3:3",
+      "he": "עַל מִזְבַּח הַזָּהָב — מַקְטִירִין קְטֹרֶת. עַל מִזְבַּח הַנְּחֹשֶׁת — מַקְרִיבִין כָּל הַקָּרְבָּנוֹת.",
+      "it": "Sull'Altare d'Oro — si fa bruciare l'incenso (ketoret). Sull'Altare di Rame — si offrono tutti i sacrifici."
+    },
+    {
+      "n": "4:1",
+      "he": "בִּגְדֵי כְּהֻנָּה — אַרְבָּעָה לְכֹהֵן הֶדְיוֹט: כֻּתֹּנֶת, מִכְנָסַיִם, מִצְנֶפֶת, אַבְנֵט.",
+      "it": "I vestiti sacerdotali (bigdei kehunah) — quattro per il kohen comune: la tunica (kutonet), i calzoni (michnasayim), il turbante (mitznefet), la fascia (avnet)."
+    },
+    {
+      "n": "4:2",
+      "he": "שְׁמוֹנָה לְכֹהֵן גָּדוֹל — אַרְבָּעָה כְּכֹהֵן הֶדְיוֹט, וְעוֹד: אֵפוֹד, חֹשֶׁן, מְעִיל, צִיץ.",
+      "it": "Otto per il Kohen Gadol — quattro come il kohen comune, e in aggiunta: l'efod (efod), il pettorale (choshen), il mantello (me'il), la placca d'oro (tzitz)."
+    },
+    {
+      "n": "4:3",
+      "he": "הַצִּיץ — הָיָה עָשׂוּי זָהָב טָהוֹר, רוֹחְבּוֹ כְּרוֹחַב מֵצַח אֶחָד. כָּתוּב עָלָיו: \"קֹדֶשׁ לַה'\".",
+      "it": "Lo tzitz — era fatto di oro puro, largo quanto la fronte. Vi era inciso: «Sacro al Signore» (Kodesh la-Hashem, Shemot 28:36)."
+    },
+    {
+      "n": "5:1",
+      "he": "הָאֵפוֹד — עָשׂוּי שֵׁשׁ כָּפוּל וּזְהָב, וְאַרְגָּמָן, וּתְכֵלֶת, וְשָׁנִי. עַל שִׁכְמֵי הָאֵפוֹד שְׁנֵי אֲבָנִים: שֹׁהַם, חֲרוּתִים עֲלֵיהֶם שְׁמוֹת שְׁנֵים עָשָׂר שְׁבָטֵי יִשְׂרָאֵל.",
+      "it": "L'efod — era fatto di bisso ritorto e oro, porpora, turchino e scarlatto. Sulle spalle dell'efod due pietre onyx (shoham), su cui erano incisi i nomi delle dodici tribù di Israele."
+    },
+    {
+      "n": "5:2",
+      "he": "הַחֹשֶׁן — כָּפוּל, זֶרֶת אָרְכּוֹ וְזֶרֶת רָחְבּוֹ. בּוֹ אַרְבָּעָה טוּרִין שֶׁל אֲבָנִים, שְׁלוֹשָׁה אֲבָנִים בְּכָל טוּר.",
+      "it": "Il pettorale (choshen) — ripiegato, una spanna di lunghezza e una spanna di larghezza. Vi erano quattro file di pietre, tre pietre per ogni fila."
+    },
+    {
+      "n": "5:3",
+      "he": "שְׁנֵים עָשָׂר אֲבָנִים בַּחֹשֶׁן — כְּנֶגֶד שְׁנֵים עָשָׂר שְׁבָטֵי יִשְׂרָאֵל. חָרוּת עַל כָּל אֶחָד שֵׁם שֶׁל שֵׁבֶט.",
+      "it": "Dodici pietre nel pettorale — corrispondenti alle dodici tribù di Israele. Inciso su ognuna il nome di una tribù."
+    },
+    {
+      "n": "5:4",
+      "he": "אוּרִים וְתֻמִּים — הָיוּ מוּנָּחִים לְתוֹךְ חֶשֶׁב הַחֹשֶׁן. הָיָה שֵׁם הַמְּפֹרָשׁ כָּתוּב בָּהֶם.",
+      "it": "Gli Urim VeTumim — erano posti nel rivestimento del pettorale. Vi era scritto il Nome esplicito (Shem HaMeforash)."
+    },
+    {
+      "n": "5:5",
+      "he": "הָאוּרִים וְתֻמִּים מֵאִירִין לְהוֹרוֹת אֶת שְׁאֵלוֹת יִשְׂרָאֵל.",
+      "it": "Gli Urim VeTumim illuminavano per rispondere alle domande di Israele [al re e al Sanedrin in questioni di stato]."
+    },
+    {
+      "n": "5:6",
+      "he": "הַמֵּעִיל — כֻּלּוֹ תְּכֵלֶת, עַל שׁוּלֵי הַמֵּעִיל רִמּוֹנִים וּפַעֲמוֹנֵי זָהָב.",
+      "it": "Il mantello (me'il) — era interamente turchino, sull'orlo del mantello vi erano melograni e campanellini d'oro."
+    }
+  ],
+  "_glossary_terms_used": ["Mizbach HaZahav", "Mizbach HaNechoshet", "ketoret", "bigdei kehunah", "kutonet", "michnasayim", "mitznefet", "avnet", "efod", "choshen", "me'il", "tzitz", "Kodesh la-Hashem", "Urim VeTumim", "Shem HaMeforash", "amah", "shoham", "Kohen Gadol"]
+}

@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 12-14",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים יב-יד",
+  "name_it": "Mishneh Torah, Leggi del Creditore e del Debitore, capitoli 12-14",
+  "cycle": "rambam-3",
+  "date": "2026-11-17",
+  "hebrew_date": "8 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "12:1-5",
+      "he": "אֵין הַמַּלְוֶה גּוֹבֶה חוֹבוֹ אֶלָּא בְּבֵית דִּין…",
+      "it": "(Malveh VeLoveh cap. 12, hal. 1-5) Il creditore non può riscuotere il suo debito se non tramite beit din (tribunale rabbinico). Non può prendere da sé ciò che gli spetta — anche se è certo del suo diritto — perché la Torah ha affidato la riscossione forzata alla corte. Il mancato rispetto di questa regola rende il creditore un rapinatore (gazlan) anche se il debito era reale. È il messaggero del beit din (shliach beit din) che esegue il sequestro dei beni del debitore. Questo principio riflette la civiltà giuridica della halachah: anche il diritto legittimo deve essere esercitato attraverso le istituzioni."
+    },
+    {
+      "n": "12:6-10",
+      "he": "כַּמָּה מַשְׁאִירִין לַלּוֶה…",
+      "it": "(Malveh VeLoveh cap. 12, hal. 6-10) Quanto si lascia al debitore? Il beit din lascia al debitore quanto basta per la sua sussistenza (par'nasa) — cibo per trenta giorni, vestiario per dodici mesi, un letto su cui dormire, utensili per la sua professione. Tutto il resto può essere sequestrato per soddisfare il credito. Il principio riflette la visione della Torah secondo cui anche il debitore inadempiente mantiene la sua dignità umana. Non si priva una persona del necessario per sopravvivere."
+    },
+    {
+      "n": "13:1-4",
+      "he": "הַמַּלְוֶה אֶת חֲבֵרוֹ עַל הַמַּשְׁכּוֹן — וּמֵת הַלּוֶה…",
+      "it": "(Malveh VeLoveh cap. 13, hal. 1-4) Se il debitore muore, il creditore può riscuotere dai figli che hanno ereditato. Ma i figli del debitore — specialmente se minori — devono essere trattati con speciale cura e delicatezza. Il beit din nomina un guardiano (apotropos) per i minori e supervisiona il processo di riscossione per assicurarsi che i diritti degli orfani siano protetti. «Siate molto attenti nell'affare degli orfani» — così ammonisce il Rambam, citando lo spirito della Torah nella tutela dei vulnerabili."
+    },
+    {
+      "n": "14:1-6",
+      "he": "הַלּוֶה שֶׁמֵּת — גּוֹבִין מִנְּכָסָיו…",
+      "it": "(Malveh VeLoveh cap. 14, hal. 1-6) Alla morte del debitore, il creditore riscuote dal patrimonio ereditario. Si riscuote prima dai beni immobili (karka), poi eventualmente dai beni mobili (metaltelin), secondo le regole di precedenza stabilite dalla halachah. I debiti del defunto vengono pagati prima che gli eredi ricevano le loro quote. Se i beni non bastano a coprire tutti i debiti — si divide proporzionalmente tra i creditori, rispettando le priorità di costituzione dei crediti (hakdam mukdam)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "beit din", "shliach beit din", "gazlan", "par'nasa", "apotropos", "karka", "metaltelin", "hakdam mukdam"
+  ]
+}

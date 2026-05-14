@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 25",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כה",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 25",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-01",
+  "hebrew_date": "18 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כשיהיה לב האדם פנוי מכל טרדות העולם ויסיר מלבו כל מחשבות ועסקי העולם הזה — אז יכול לבוא לבחינת ביטול היש, שהיא מדרגת ה'אין'. ועניין ה'הסתפקות' בעבודת ה' הוא שיסתפק האדם בחלקו ולא יבקש יותר ממה שנותן לו ה'.",
+      "it": "Quando il cuore di una persona è libero da tutte le preoccupazioni del mondo e allontana dalla mente tutti i pensieri e le occupazioni mondane, può allora giungere al livello dell'annullamento dell'esistenza (bittul ha-yesh), che è il grado dell''ayin' (nulla). Il concetto di histapkut (contentezza) nel servizio di D-o significa che la persona si accontenta della propria sorte e non chiede più di quanto D-o le concede."
+    },
+    {
+      "n": 2,
+      "he": "וזוהי מדרגת ה'הסתפקות': שאינו מבקש עושר ומותרות, ואינו קנאי בממון חבירו, ואינו עצוב על מה שאין לו. כי יודע הוא שכל מה שנותן לו הבורא — הכל לטובתו, ואין שום חסרון בחלקו. ומכאן נובעת שמחה פנימית גדולה שאינה תלויה בנסיבות חיצוניות.",
+      "it": "Questo è il livello della histapkut: non si desiderano ricchezze e lussi, non si invidia il denaro del proprio prossimo e non ci si rattrista per ciò che manca. Poiché si sa che tutto ciò che il Creatore concede è per il bene proprio, e non vi è alcuna mancanza nella propria sorte. Da ciò deriva una grande gioia interiore che non dipende da circostanze esterne."
+    },
+    {
+      "n": 3,
+      "he": "ועוד: ה'הסתפקות' אינה רק בממון ובחומר, אלא גם ברוחניות. שלא יהיה אדם עצוב על כך שאינו במדרגה גבוהה בעבודת ה', אלא יעבוד את ה' ממקומו ומדרגתו. וגם שמחה זו שבאה מקבלת הדרגה בשמחה — מעלה את האדם, כי 'שמחה פורצת גדר'.",
+      "it": "Inoltre, la histapkut non riguarda solo il denaro e il materiale, ma anche la spiritualità. La persona non deve rattristarsi per non trovarsi a un livello elevato nel servizio di D-o, ma deve servirlo dal proprio posto e grado attuale. Anche questa gioia — che deriva dall'accettazione serena del proprio livello — eleva la persona, poiché 'la gioia abbatte le barriere' (simchah poretzet geder)."
+    }
+  ],
+  "_glossary_terms_used": ["histapkut", "bittul ha-yesh", "ayin", "simchah poretzet geder"]
+}

@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Sabbath 24",
+  "name_he": "משנה תורה, הלכות שבת, פרק כד",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 24",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-14",
+  "hebrew_date": "29 Sivan 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אָסוּר לִשְׂכֹּר פּוֹעֲלִים בְּשַׁבָּת...",
+      "it": "È proibito assumere lavoratori di Shabbat, anche per un lavoro che deve essere eseguito dopo lo Shabbat. L'atto stesso dell'assunzione (sechirut) è proibito come 'azione feriale' (uvdin de-chol)."
+    },
+    {
+      "n": 2,
+      "he": "אָסוּר לִקְנוֹת וְלִמְכֹּר בְּשַׁבָּת...",
+      "it": "È vietato comprare o vendere beni di Shabbat. Anche se la compravendita non comporta trascrizione di documenti, il semplice atto verbale è proibito come commercio (mekach u-mimkar) — che è vietato per decreto rabbinico."
+    },
+    {
+      "n": 3,
+      "he": "לֹא יֹאמַר אָדָם לַחֲבֵרוֹ 'תֵּן לִי בְּסֶלַע'...",
+      "it": "Non si dice a un amico 'dammi questo per una sela' (moneta). Tuttavia, si può dire 'presta a me' o 'dammi e ti ridò dopo lo Shabbat', poiché il prestito (halva'ah) non è commercio vero e proprio."
+    },
+    {
+      "n": 4,
+      "he": "מוֹכֵר פֵּרוֹת בְּשַׁבָּת — לוֹקֶה...",
+      "it": "Chi vende prodotti di Shabbat riceve la flagellazione rabbinica (makkot mardut). Non si tratta di un divieto biblico, ma i Saggi lo hanno rafforzato con questo tipo di punizione per dissuadere dalla violazione."
+    },
+    {
+      "n": 5,
+      "he": "אֵין פּוֹסְקִין דְּמֵי פֵּרוֹת בְּשַׁבָּת...",
+      "it": "Non si negoziano prezzi di Shabbat. Anche stabilire verbalmente il prezzo futuro di qualcosa è proibito se lo si fa di Shabbat, poiché assomiglia al commercio."
+    },
+    {
+      "n": 6,
+      "he": "הַחוֹכֵר שָׂדֶה לַחֲבֵרוֹ בְּשַׁבָּת...",
+      "it": "Affittare un campo di Shabbat — è proibito. Anche rinnovare un contratto di affitto o un accordo commerciale di qualsiasi tipo non deve essere fatto di Shabbat."
+    },
+    {
+      "n": 7,
+      "he": "שְׁטָרוֹת וּדְבָרִים כְּתוּבִים — אָסוּר לִקְרוֹת...",
+      "it": "Leggere documenti commerciali, contratti o listini prezzi di Shabbat — è vietato anche se la lettura stessa è un atto permesso (poiché leggere normalmente è consentito). Il problema è il contenuto: leggere cose 'commerciali' di Shabbat è proibito per decreto dei Saggi."
+    },
+    {
+      "n": 8,
+      "he": "מוּתָּר לִשְׁאֹל שְׁאֵלָה בְּשַׁבָּת...",
+      "it": "È permesso prendere in prestito oggetti di Shabbat (sho'el be-Shabbat), a condizione che non si specifichi una data di restituzione e non si faccia menzione di denaro. Si dice semplicemente 'prestami questo' — e si restituisce dopo lo Shabbat."
+    },
+    {
+      "n": 9,
+      "he": "מוּתָּר לִשְׁקֹל מַיִם בְּשַׁבָּת...",
+      "it": "È permesso pesare acqua o sale per cucinare di Shabbat se necessario. La pesatura per scopi alimentari diretti di Shabbat non è proibita; lo è solo quella per scopi commerciali."
+    },
+    {
+      "n": 10,
+      "he": "שְׁנַיִם שֶׁמּוֹנִין בְּשַׁבָּת...",
+      "it": "Due persone che contano denaro di Shabbat — anche senza intenzione di commercio ma solo per sapere quanto hanno — stanno compiendo un atto proibito, poiché il contare denaro ricorda il commercio."
+    },
+    {
+      "n": 11,
+      "he": "מוּתָּר לְהָזְמִין אוֹרְחִים בְּשַׁבָּת...",
+      "it": "È permesso invitare ospiti di Shabbat, anche se ciò comporta necessariamente che si prepari cibo per loro. L'ospitalità (hachnasat orchim) è una mitzvah e non è considerata 'commercio' o 'azione feriale'."
+    },
+    {
+      "n": 12,
+      "he": "אַל יֹאמַר אָדָם 'אֲנִי מְחַשֵּׁב...'",
+      "it": "Non si pianificano affari commerciali di Shabbat nel proprio pensiero, anche senza parlarle. 'E non si trovino i tuoi pensieri' (Isaia 58:13) — la tradizione interpreta questo come divieto di pensieri commerciali di Shabbat."
+    },
+    {
+      "n": 13,
+      "he": "כּוֹתֵב שְׁטָרוֹת בְּשַׁבָּת...",
+      "it": "Scrivere documenti commerciali, contratti o cambiali di Shabbat è proibito per due ragioni: (1) la scrittura stessa è una melachah; (2) il contenuto è 'feriale'. Questo vale anche se si scrive in modo strano (shinui) che normalmente sarebbe permesso."
+    },
+    {
+      "n": 14,
+      "he": "אָסוּר לְסַדֵּר חֶשְׁבּוֹנוֹת...",
+      "it": "Non si regolano conti o bilanci di Shabbat. Anche il solo atto di ricordare a voce alta a quanti soldi si deve da qualcuno — è proibito se ha finalità commerciale."
+    },
+    {
+      "n": 15,
+      "he": "לֵיכָן הוֹלֵךְ — מִשּׁוּם עוּבְדִין דְּחוֹל...",
+      "it": "Recarsi di Shabbat a un luogo di commercio, anche senza fare nulla — se l'intenzione è chiaramente commerciale, è proibito come 'azione feriale'. Se si va per uno scopo lecito e si passa casualmente davanti a un negozio, è permesso."
+    },
+    {
+      "n": 16,
+      "he": "אֲבֵידָה שֶׁמּוֹצֵא בְּשַׁבָּת...",
+      "it": "Trovare un oggetto smarrito di Shabbat — non lo si raccoglie per portarlo a casa se ciò richiede portarlo in dominio pubblico (che è proibito). Se è nel dominio privato o c'è un eruv, si può raccogliere per restituirlo al proprietario."
+    },
+    {
+      "n": 17,
+      "he": "מַעֲלֶה שְׂכַר שַׁבָּת...",
+      "it": "Se si è stipulato un contratto di lavoro per una settimana intera senza menzionare lo Shabbat, lo stipendio comprende anche il pagamento per lo Shabbat — poiché lo Shabbat è incluso implicitamente nella settimana lavorativa."
+    },
+    {
+      "n": 18,
+      "he": "הַמַּלְוֶה בְּרִבִּית בְּשַׁבָּת...",
+      "it": "Il prestito ad interesse di Shabbat — il divieto dell'usura si applica anche a ciò che viene concordato di Shabbat, poiché si tratta di un accordo economico. Non si aggiunge alcuna gravità specifica per il fatto che l'accordo è avvenuto di Shabbat, ma non si viene esonerati dal divieto."
+    },
+    {
+      "n": 19,
+      "he": "מוּתָּר לְהִשְׁתַּמֵּשׁ בְּחֻלְּיוֹת...",
+      "it": "È permesso maneggiare monete di Shabbat se necessario per un bisogno imminente e permesso — ad esempio per dare tzedakah (carità) a un povero. Tuttavia, non si fa alcuna transazione, si dona semplicemente."
+    },
+    {
+      "n": 20,
+      "he": "הַכּוֹתֵב שְׁמוֹ עַל מַתָּנָה...",
+      "it": "Scrivere il proprio nome su un regalo di Shabbat — è proibito se ha scopo di trasferimento di proprietà documentato. Ma dire verbalmente 'questo dono è per te' di Shabbat è permesso, poiché i regali (matanot) non sono commercio."
+    },
+    {
+      "n": 21,
+      "he": "כָּל אֵלּוּ אֲסוּרִים מִשּׁוּם שַׁבָּת...",
+      "it": "Conclude il capitolo: tutti questi divieti derivano dalla santità dello Shabbat come 'giorno di riposo' — non solo fisico ma anche mentale ed economico. Il Shabbat è destinato al distacco completo dal mondo del commercio e alla dedizione a Dio, allo studio e alla famiglia."
+    }
+  ],
+  "_glossary_terms_used": ["uvdin de-chol", "mekach u-mimkar", "makkot mardut", "halva'ah", "hachnasat orchim", "melachah", "shinui", "eruv", "tzedakah"]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, To'en VeNit'an 9-11",
+  "name_he": "משנה תורה, הלכות טוען ונטען, פרקים ט-יא",
+  "name_it": "Mishneh Torah, Leggi delle Pretese e delle Contestazioni, capitoli 9-11",
+  "cycle": "rambam-3",
+  "date": "2026-11-25",
+  "hebrew_date": "16 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "9:1-5",
+      "he": "הַחֲזָקָה — מִי שֶׁהֶחְזִיק בַּקַּרְקַע שָׁלֹשׁ שָׁנִים…",
+      "it": "(To'en VeNit'an cap. 9, hal. 1-5) La chazakah (presunzione di possesso/proprietà): chi ha tenuto in possesso non contestato un terreno per tre anni — ha acquisito una presunzione giuridica di proprietà (chazakat karka). Il principio: se per tre anni nessuno ha protestato il possesso, si presume che il possessore abbia acquistato il terreno regolarmente. Il precedente proprietario che protesta dopo tre anni deve provare che il possessore non ha pagato o che il possesso era illecito. I tre anni servono come «finestra di protesta» ragionevole."
+    },
+    {
+      "n": "10:1-5",
+      "he": "אֵין חֲזָקָה בְּקַרְקַע פָּחוֹת מִשָּׁלֹשׁ שָׁנִים…",
+      "it": "(To'en VeNit'an cap. 10, hal. 1-5) Non vi è chazakah su un terreno con meno di tre anni di possesso non contestato. La ragione: le persone generalmente non protestano immediatamente quando qualcuno usa il loro terreno per breve periodo — potrebbero aspettare, tollerare, o non essere al corrente. Solo dopo tre anni il mancato reclamo diventa significativo. Se durante i tre anni c'è stata protesta (mecha'ah) da parte del precedente proprietario — la chazakah non si acquisisce, anche se il possessore ha continuato a usare il terreno."
+    },
+    {
+      "n": "11:1-5",
+      "he": "חֲזָקַת הַגּוּף — חֲזָקַת הַיּוּחֲסִין…",
+      "it": "(To'en VeNit'an cap. 11, hal. 1-5) La chazakah si applica non solo ai beni immobili ma anche allo status delle persone. La «chazakat hayuchasin» (presunzione di lignaggio) stabilisce che chi è noto come ebreo kosher di buona stirpe — si presume che sia tale, a meno che non emerga prova contraria. Analogamente, chi è noto come persona onesta ha una «chazakat kashrut» (presunzione di onestà) che gli conferisce credibilità extra in certi casi legali. La chazakah è dunque sia una categoria di diritto reale sia una categoria di diritto delle persone."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chazakah", "chazakat karka", "mecha'ah", "chazakat hayuchasin", "chazakat kashrut", "beit din"
+  ]
+}

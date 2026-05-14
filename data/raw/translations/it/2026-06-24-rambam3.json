@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bikkurim 9-11",
+  "name_he": "משנה תורה, הלכות בכורים פרקים ט–יא",
+  "name_it": "Mishneh Torah, Leggi delle Primizie, capitoli 9–11",
+  "cycle": "rambam-3",
+  "date": "2026-06-24",
+  "hebrew_date": "9 Tammuz 5786",
+  "halachot_count": 27,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "מִצְוַת פִּדְיוֹן הַבֵּן...",
+      "it": "Il Pidyon HaBen (riscatto del primogenito): il primo figlio maschio che 'apre il seno materno' (peter rechem) di una donna ebraica deve essere riscattato dal padre pagando cinque sela'im d'argento a un kohen. Questo è un comandamento positivo della Torah (Numeri 18:15-16). Il riscatto avviene al compimento del trentesimo giorno dalla nascita."
+    },
+    {
+      "n": "9:2-5",
+      "he": "בֵּן שֶׁנּוֹלַד לְאַחַר נֶפֶל...",
+      "it": "Il figlio nato dopo un aborto: se prima di lui la madre ha avuto un aborto che era già formato (golem), il figlio successivo non è considerato 'peter rechem' e non richiede il riscatto. Se l'aborto era solo un feto non formato (sheretz), il figlio successivo richiede il pidyon. Il Rambam esamina i casi dubbi con precisione."
+    },
+    {
+      "n": "9:6-9",
+      "he": "כֵּיצַד פּוֹדִין אֶת הַבֵּן...",
+      "it": "Come si effettua il pidyon haBen: il padre porta il bambino al kohen il trentunesimo giorno e dice: 'Questo mio figlio primo di sua madre, figlio israelita.' Il kohen chiede: 'Cosa preferisci — tuo figlio o cinque sela'im?' Il padre risponde: 'Voglio mio figlio e ti do i cinque sela'im come obbligo.' Si recitano le brachot, il kohen pronuncia la benedizione sul figlio, e il pidyon è completato."
+    },
+    {
+      "n": "9:10-13",
+      "he": "אֵין פּוֹדִין בְּשֵׁם...",
+      "it": "Non si riscatta il figlio con promissory notes o con valore stimato: il riscatto deve avvenire con monete d'argento reali (del peso di cinque sela'im di argento). Non si usa oro, né altro metallo, né beni immobili. Le monete dell'epoca del Rambam di valore equivalente sono accettate. Il kohen, dopo aver ricevuto il denaro, può restituirlo come regalo, ma l'atto del riscatto deve avvenire prima."
+    },
+    {
+      "n": "10:1",
+      "he": "פֶּטֶר חֲמוֹר — הַחֲמוֹר הַבְּכוֹר...",
+      "it": "Peter chamor (il primogenito dell'asina): la Torah prescrive che il primogenito dell'asina venga riscattato con un agnello (Esodo 13:13). L'agnello del riscatto va al kohen. Se il proprietario non vuole riscattare il primogenito, deve spezzargli il collo (arifa) — è vietato usarlo e vietato lasciarlo senza soluzione. Questa legge si applica solo all'asina, non ad altri animali impuri."
+    },
+    {
+      "n": "10:2-6",
+      "he": "שֶׁה לַפְּדִיּוֹן חֲמוֹר...",
+      "it": "L'agnello per il riscatto del primogenito dell'asino: può essere qualsiasi animale puro — capretto, agnello, persino giovane bovino. Non deve essere di particolare valore. L'importante è l'atto di riscatto. Se si dà al kohen un agnello e poi esso muore nelle mani del kohen, il pidyon è valido. Se si danno al kohen il denaro equivalente, non è valido — occorre proprio un animale."
+    },
+    {
+      "n": "10:7-10",
+      "he": "חֲמוֹר שֶׁנּוֹלַד לוֹ שְׁנֵי רָאשִׁין...",
+      "it": "Casi speciali del peter chamor: un asino con due teste, o un asino di cui non si sa se ha partorito prima o dopo, o un asino nato da una giraffa. Il Rambam esamina questi casi con logica halachica sistematica. Se il primo parto dell'asina è femminile, il secondo figlio maschio non è 'peter rechem' e non richiede riscatto."
+    },
+    {
+      "n": "11:1",
+      "he": "בְּכוֹר בְּהֵמָה טְהוֹרָה...",
+      "it": "Il Bechor (primogenito) di un animale puro domestico (bestiame bovino o ovino): viene dato al kohen automaticamente alla nascita. Non appartiene mai al proprietario. Il kohen lo alleva e quando diventa adatto al sacrificio, lo sacrifica sull'altare e ne mangia la carne e le parti specifiche. Se ha un difetto (ba'al mum), il proprietario può mangiarne la carne dopo che un kohen lo ha esaminato e dichiarato difettato."
+    },
+    {
+      "n": "11:2-6",
+      "he": "כֵּיצַד נוֹתְנִין לַכֹּהֵן...",
+      "it": "Come si consegna il bechor al kohen: il proprietario deve darlo entro trenta giorni dalla nascita per bovini, e entro cinquanta giorni per pecore e capre. Se lo tiene più a lungo senza consegnarlo, non ha violato una proibizione ma deve consegnarlo appena possibile. Il kohen può allevarlo fino a quando non è pronto per l'offerta sull'altare."
+    },
+    {
+      "n": "11:7-10",
+      "he": "בְּכוֹר שֶׁנּוֹלַד טְרֵפָה...",
+      "it": "Un primogenito nato con un difetto organico (terefah) che lo rende non adatto all'altare: il kohen lo riceve comunque ma non può sacrificarlo; può mangiarlo. Se il difetto è sorto solo dopo la nascita (mum she-ba le-achar likichah), vi sono ulteriori distinzioni. Il Rambam conclude i capitoli sul bechor con una sistematizzazione di tutti i casi di difetti che permettono o vietano il consumo."
+    }
+  ],
+  "_glossary_terms_used": ["Pidyon HaBen", "peter rechem", "peter chamor", "sela", "kohen", "ba'al mum", "bechor", "terefah", "arifa", "golem", "brachot", "bestiame"]
+}

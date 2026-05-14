@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 2",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק ב",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 2",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-04",
+  "hebrew_date": "24 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כָּל אֶחָד מִיִּשְׂרָאֵל יֵשׁ לוֹ שְׁתֵּי נְשָׁמוֹת…",
+      "it": "Ogni ebreo ha due anime (neshamot): la nefesh ha-Elohit (anima divina) e la nefesh ha-behamit (anima animale). L'Alter Rebbe basa questa dottrina sulla tradizione kabbalistico-chassidica. La nefesh ha-behamit è la prima ad animare il corpo — essa è la fonte dei desideri, degli istinti, delle emozioni naturali. La nefesh ha-Elohit arriva dopo, a contendere con l'anima animale per il controllo dell'essere."
+    },
+    {
+      "n": 2,
+      "he": "נֶפֶשׁ הָאֱלֹהִית — חֵלֶק אֱלוֹהַּ מִמַּעַל מַמָּשׁ…",
+      "it": "La nefesh ha-Elohit è descritta dall'Alter Rebbe con la formula più audace della kabbalah: «Chelek Eloka mi-ma'al mamash» — letteralmente «una parte di D-o dall'alto in senso assoluto». Non è una metafora poetica — è una affermazione ontologica: l'anima divina di ogni ebreo è una «scintilla» (nitzotz) della Divinità stessa. Questa dottrina si basa sul versetto «Va-yipach be-appav nishmat chayyim» (E soffiò nelle sue narici il soffio della vita — Gen. 2:7) — chi soffia da sé, soffia da dentro se stesso."
+    },
+    {
+      "n": 3,
+      "he": "נֶפֶשׁ הַבְּהֵמִית — מִסְּטָרָא דִּי קְלִיפַּת נֹגַהּ…",
+      "it": "La nefesh ha-behamit proviene da «kelipat nogah» — il guscio/involucro translucido. La kabbalah divide la realtà non-santa in quattro kelipot (involucri/gusci): tre completamente opachi (tohu, bohu, choshech) e uno translucido (nogah). Kelipat nogah è la zona «neutra» — né santa né intrinsecamente malvagia. Da essa provengono i piaceri fisici leciti, i bisogni del corpo, le emozioni naturali. Perché «translucido»? Perché queste forze possono essere elevate attraverso le mitzvot — la kelipat nogah può essere trasformata in santità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "neshamot", "nefesh ha-Elohit", "nefesh ha-behamit", "chelek Eloka mi-ma'al", "nitzotz", "kelipot", "kelipat nogah", "Alter Rebbe", "mitzvot"
+  ]
+}

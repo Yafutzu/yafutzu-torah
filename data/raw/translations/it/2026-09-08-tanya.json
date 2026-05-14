@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 10",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק י",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 10",
+  "cycle": "tanya",
+  "date": "2026-09-08",
+  "hebrew_date": "26 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "כְּשֵׁם שֶׁאֵין אָדָם מֵשִׂים אֶת עַצְמוֹ לְיֵשׁ — כָּךְ הָעוֹלָם אֵינוֹ מֵשִׂים אֶת עַצְמוֹ לְיֵשׁ. הָעוֹלָם הוּא 'יֵשׁ שָׁאוּל' — קִיּוּם שֶׁהָאֱלֹקִים מַלְוֶה לָעוֹלָם בְּכָל רֶגַע.", "it": "Come l'uomo non può creare se stesso — così il mondo non può creare se stesso. Il mondo è 'yesh sha'ul' — un'esistenza che Dio presta al mondo in ogni momento."},
+    {"n": 2, "he": "אִם הָיָה הַקָּדוֹשׁ בָּרוּךְ הוּא 'מוֹנֵעַ' אֶת עַצְמוֹ — הָיָה הָעוֹלָם חוֹזֵר לְאַיִן לְאַלְתַּר. אַיִן כָּאן פֵּרוּשׁ: לֹא קִיּוּם עַצְמִי כְּלָל.", "it": "Se il Santo Benedetto 'trattenesse' Se stesso — il mondo tornerebbe istantaneamente al nulla. Nulla qui significa: nessuna esistenza indipendente affatto."},
+    {"n": 3, "he": "זֶהוּ הַיְסוֹד שֶׁל הָאֱמוּנָה — שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא הוּא הַמְּצִיאוּת הַיְּחִידָה הָאֲמִתִּית, וְהָעוֹלָם תָּלוּי בּוֹ כְּמוֹ שֶׁאוֹר תָּלוּי בַּמָּאוֹר.", "it": "Questo è il fondamento della fede — che il Santo Benedetto è l'unica vera realtà, e il mondo dipende da Lui come la luce dipende dalla sorgente luminosa."}
+  ],
+  "_glossary_terms_used": ["yesh sha'ul", "ein adam meisim atzmo", "or Ein Sof", "emunah"]
+}

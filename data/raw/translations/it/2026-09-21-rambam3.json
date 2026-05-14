@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Mikvaot 7-9",
+  "name_he": "משנה תורה, הלכות מקוואות, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi dei Bagni Rituali (Mikvaot), capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-09-21",
+  "hebrew_date": "10 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "7:1",
+      "he": "יוֹם כִּפּוּר הוּא יוֹם הַטָּהֳרָה הָרוּחָנִית שֶׁל כָּל יִשְׂרָאֵל. מַה מַּתְאִים הוּא לִלְמֹד הַיּוֹם הִלְכוֹת מִקְוָאוֹת — שְׁנֵיהֶם עוֹסְקִים בְּטָהֳרָה. הַמִּקְוֶה מְטַהֵר אֶת הַגּוּף; יוֹם כִּפּוּר מְטַהֵר אֶת הַנֶּפֶשׁ.",
+      "it": "Yom Kippur è il giorno della purificazione spirituale di tutto Israele. Com'è appropriato studiare oggi le leggi dei mikvaot — entrambi trattano di purificazione. Il mikveh purifica il corpo; Yom Kippur purifica l'anima."
+    },
+    {
+      "n": "7:2",
+      "he": "כֵּלִים טְמֵאִים שֶׁטּוֹבְלִין אוֹתָם בַּמִּקְוֶה — צָרִיךְ שֶׁיִּהְיֶה כָּל הַכְּלִי בַּמַּיִם. יָדוֹת הַכְּלִי צְרִיכוֹת לִהְיוֹת גַּם הֵן בַּמַּיִם.",
+      "it": "I vasi impuri che si immergono nel mikveh — occorre che tutto il vaso sia nell'acqua. Anche i manici del vaso devono essere nell'acqua."
+    },
+    {
+      "n": "7:3",
+      "he": "כְּלִי שֶׁיֵּשׁ לוֹ בֵּית צְוָארִין — כְּגוֹן פַּךְ — צָרִיךְ לְהַטְבִּיל גַּם אֶת בֵּית הַצַּוָּאר. הַלּוּפִין — הַחֲבָלִים שֶׁסּוֹבְבִים אוֹתוֹ — בָּעֵינֵי הָרַמְבַּ\"ם, צְרִיכִים גַּם הֵם לִהְיוֹת בַּמַּיִם.",
+      "it": "Un vaso con collo — come una fiala — occorre immergere anche il collo. I lacci che lo circondano — secondo il Rambam devono anch'essi essere nell'acqua."
+    },
+    {
+      "n": "8:1",
+      "he": "הַמַּעְיָן — מְטַהֵר בְּכָל שֶׁהוּא, אֲפִלּוּ אֵין בּוֹ אֶלָּא קַו מַיִם דַּק. הַזָּב וְהַזָּבָה מִטַּהֲרִין בּוֹ. וְזוֹ מַעֲלָה עַל הַמִּקְוֶה.",
+      "it": "La sorgente purifica in qualsiasi quantità, anche se c'è solo un sottile filo d'acqua. Il zav e la zavah si purificano in essa. Questo è un vantaggio rispetto al mikveh."
+    },
+    {
+      "n": "8:2",
+      "he": "מַעְיָן שֶׁפָּסַק — כְּלוֹמַר שֶׁנִּפְסְקָה נְבִיעָתוֹ — אֵינוֹ מְטַהֵר אֶת הַזָּב. אֲבָל מְטַהֵר אֶת הַשְּׁאָר כְּמִקְוֶה.",
+      "it": "Una sorgente che si è prosciugata — cioè il cui flusso si è fermato — non purifica il zav. Ma purifica gli altri come un mikveh."
+    },
+    {
+      "n": "8:3",
+      "he": "מֵי הַנָּהָר הַנּוֹבֵעַ — דִּינָם כְּמַעְיָן לְכָל דָּבָר. מֵי הַנָּהָר שֶׁאֵינוֹ נוֹבֵעַ — כְּמִקְוֶה.",
+      "it": "Le acque di un fiume che scorre — hanno lo stesso statuto di una sorgente per ogni cosa. Le acque di un fiume non corrente — sono come un mikveh."
+    },
+    {
+      "n": "9:1",
+      "he": "סָפֵק אִם יֵשׁ בַּמִּקְוֶה אַרְבָּעִים סְאָה — לְחֻמְרָה בְּקֹדֶשׁ, לְקוּלָא בִּתְרוּמָה.",
+      "it": "Dubbio se il mikveh abbia quaranta se'ah — si è severi riguardo al sacro, e leniente riguardo alle terumot."
+    },
+    {
+      "n": "9:2",
+      "he": "טָבַל וְסָפַק אִם נִשְׁקַע כָּל גּוּפוֹ בַּמַּיִם — לְחֻמְרָה בְּקֹדֶשׁ, לְקוּלָא בִּתְרוּמָה.",
+      "it": "Si è immerso e vi è dubbio se tutto il corpo fosse sommerso nell'acqua — si è severi riguardo al sacro, e leniente riguardo alle terumot."
+    },
+    {
+      "n": "9:3",
+      "he": "מִקְוֶה שֶׁנִּמְדַּד וְנִמְצָא חָסֵר — כָּל הַטְּהָרוֹת שֶׁנַּעֲשׂוּ עַל גַּבָּיו — מַחְלֹקֶת אִם נִטְמְאוּ לְמַפְרֵעַ. וְיֵשׁ לְהַחְמִיר.",
+      "it": "Un mikveh che è stato misurato e trovato carente — riguardo alle purificazioni compiute su di esso — vi è una disputa se siano state impure retroattivamente. E si usa essere severi."
+    }
+  ],
+  "_glossary_terms_used": ["mikveh", "ma'ayan", "zav", "zavah", "safek", "taharot"]
+}

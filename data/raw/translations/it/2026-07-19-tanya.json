@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 9",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק ט",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 9",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-19",
+  "hebrew_date": "5 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "נֶפֶשׁ הַבְּהֵמִית שֶׁבְּיִשְׂרָאֵל — מְקוֹרָהּ מִ'קְּלִפַּת נֹגַהּ', שֶׁהִיא קְלִיפָּה הַמְּעֹרֶבֶת מִטּוֹב וָרַע.",
+      "it": "L'anima animale (nefesh ha-behamit) degli israeliti trae la propria origine dalla kelipat nogah (il 'guscio translucido'), che è un involucro misto di bene e male."
+    },
+    {
+      "n": 2,
+      "he": "מִנֶּפֶשׁ הַבְּהֵמִית — יוֹצְאִין אַרְבַּע מִדּוֹת רָעוֹת, מֵאַרְבַּעָה יְסוֹדוֹת: אֵשׁ — גַּאֲוָה. מַיִם — תַּאֲוָה לְהֲנָאוֹת. רוּחַ — הִתְהַלְּלוּת וְרֵיקוּת. עָפָר — עַצְלוּת וְעַצְבוּת.",
+      "it": "Dall'anima animale emergono quattro caratteristiche negative, corrispondenti ai quattro elementi: Fuoco — superbia (ga'avah). Acqua — brama di piaceri (ta'avah). Vento — vanità e spavalderia (hitchallelut). Terra — pigrizia e malinconia (atzlut ve-atzavut)."
+    },
+    {
+      "n": 3,
+      "he": "אֲבָל כָּל אֵלּוּ הַמִּדּוֹת — יְכוֹלוֹת לְהֵהָפֵךְ לְטוֹב, כְּגוֹן גַּאֲוָה — עֶזְרַת אֱמוּנָה, וְתַאֲוָה — תַּאֲוָה לֶאֱלֹקִים. כִּי הַקְּלִיפָּה הַזֹּאת מְעֹרֶבֶת מִטּוֹב וָרָע.",
+      "it": "Tuttavia tutte queste caratteristiche possono essere trasformate in bene: ad esempio la superbia — può diventare fierezza nella fede; la brama — può diventare anelito verso Dio. Poiché questa kelipah è un misto di bene e male, e il suo elemento di bene è recuperabile."
+    }
+  ],
+  "_glossary_terms_used": ["nefesh ha-behamit", "kelipat nogah", "ga'avah", "ta'avah", "hitchallelut", "atzlut", "atzavut", "kelipah"]
+}

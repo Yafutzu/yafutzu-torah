@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 16",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק טז",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 16",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-22",
+  "hebrew_date": "13 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "תַּעֲרֹבֶת בְּיָבֵשׁ — בָּטֵל בְּרֹב…",
+      "it": "Le miscele secche (ta'arovot be-yavesh) — si annullano nella maggioranza (bitul be-rov). Il principio: in una miscela secca in cui gli elementi sono indistinguibili uno dall'altro, si va dopo la maggioranza. Se la maggioranza è kosher, l'intera miscela è permessa. Questo vale per oggetti simili tra loro (minei be-mino) — ad esempio semi proibiti mescolati con semi permessi dello stesso tipo."
+    },
+    {
+      "n": 2,
+      "he": "תַּעֲרֹבֶת בְּלַח — הַטַּעַם אוֹסֵר…",
+      "it": "Le miscele liquide (ta'arovot be-lach) — il sapore (ta'am) proibisce. In una miscela liquida, ciò che conta non è la quantità ma il sapore: se il sapore della sostanza proibita è percettibile nell'intera miscela, l'intera miscela è proibita. Se il sapore non è percettibile (noten ta'am lif'gam — «conferisce sapore in modo deteriorato»), la miscela è permessa. La regola pratica: 1:60 è la soglia sotto la quale il sapore si presume non percettibile."
+    },
+    {
+      "n": 3,
+      "he": "מִינוֹ — בְּמִינוֹ — אוֹסֵר בְּכָל שֶׁהוּא…",
+      "it": "Una sostanza dello stesso tipo (mino be-mino) — proibisce in qualsiasi quantità (be-khol she-hu). Poiché le due sostanze sono identiche nel sapore, non si può mai dire che il sapore della sostanza proibita è diluito — è indistinguibile dalla sostanza permessa ma rimane presente. Esempio: vino di libagione (yayin nesech) mescolato con vino kosher dello stesso tipo — anche una goccia proibisce tutta la miscela."
+    },
+    {
+      "n": 4,
+      "he": "דָּבָר הַמַּעֲמִיד — כְּגוֹן קֵיבָה שֶׁל נְבֵלָה…",
+      "it": "Un «davar ha-me'amid» (agente coagulante/stabilizzante) — come il caglio di un animale non macellato ritualmente (neveilah) usato per fare il formaggio — proibisce la miscela anche in quantità minima (be-khol she-hu), poiché la sua funzione non è conferire sapore ma strutturare fisicamente il prodotto. Il formaggio stabilizzato da caglio non kosher è proibito completamente, indipendentemente dalla proporzione del caglio. Questa è la base principale del divieto di gevinat akum."
+    },
+    {
+      "n": 5,
+      "he": "זֶה וְזֶה גּוֹרֵם — מֻתָּר…",
+      "it": "«Zeh ve-zeh gorem» — quando sia un fattore permesso sia un fattore proibito contribuiscono insieme a produrre il risultato, e il fattore proibito non è il solo responsabile — la miscela è permessa. Esempio classico: un albero piantato su terreno di kilayim produce frutti — i frutti sono permessi, poiché sia il terreno (fattore proibito) sia il lavoro umano e la pianta stessa (fattori permessi) hanno contribuito alla produzione. Questo principio talmudico ha numerose applicazioni pratiche nel diritto kasherut."
+    },
+    {
+      "n": 6,
+      "he": "הַמְבַשֵּׁל כִּלְאֵי הַכֶּרֶם — אָסוּר בַּהֲנָאָה…",
+      "it": "Chi cuoce kilei ha-kerem (prodotti di specie miste coltivate nella vigna) — il prodotto è proibito in qualsiasi beneficio (asur be-hana'ah). Quando sostanze che sono proibite in beneficio si mescolano con sostanze permesse, l'intera miscela può diventare proibita in beneficio. Questo è un caso in cui la gravità della proibizione originale (asur be-hana'ah) si trasferisce alla miscela. Il Rambam distingue tra proibizioni «solo nel mangiare» e proibizioni «anche nel beneficio» ai fini delle leggi di bitul."
+    },
+    {
+      "n": 7,
+      "he": "שֶׁמֶן שֶׁל תְּרוּמָה שֶׁנָּפַל לִקְדֵרָה שֶׁל חֻלִּין…",
+      "it": "Olio di terumah (offerta sacerdotale) che è caduto in una pentola di alimenti profani (chulin) — si annulla in 100 parti e una parte (bitul be-me'ah ve-echad), secondo la regola speciale per la terumah stabilita dai Saggi. Questo è diverso dalla regola generale di 1:60. La regola del bitul varia dunque in base al tipo di proibizione: terumah richiede 1:101; altre proibizioni richiedono 1:60 o 1:2. Il Rambam enumera le diverse soglie per mostrare il sistema coerente della halachah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ta'arovot", "bitul be-rov", "ta'am", "noten ta'am lif'gam", "mino be-mino", "yayin nesech", "davar ha-me'amid", "neveilah", "gevinat akum", "zeh ve-zeh gorem", "kilei ha-kerem", "asur be-hana'ah", "terumah", "chulin"
+  ]
+}

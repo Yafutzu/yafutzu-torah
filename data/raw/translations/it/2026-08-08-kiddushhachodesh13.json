@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 13",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק יג",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 13",
+  "cycle": "rambam-1",
+  "date": "2026-08-08",
+  "hebrew_date": "25 Av 5786",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אף על פי שחישבנו את המולד, אין קובעים ראש השנה תמיד ביום המולד. יש ארבע דחיות הנקראות 'דחיות' — גורמות לדחיית ראש השנה ליום אחר או לשני ימים אחרים.",
+      "it": "Sebbene si calcoli il momento del molad, Rosh HaShanah non cade sempre il giorno del molad. Esistono quattro regole di rinvio (dehiyyot) che causano lo spostamento di Rosh HaShanah al giorno successivo o a due giorni dopo."
+    },
+    {
+      "n": 2,
+      "he": "הדחייה הראשונה: 'לא אד\"ו ראש'. כלומר, אם חל המולד ביום ראשון (א'), ביום רביעי (ד'), או ביום שישי (ו') — דוחים ראש השנה ליום שאחריו. כי: אם ראש השנה ביום א' — הושענה רבה יהיה בשבת; ביום ד' — יום כיפור יהיה בשישי; ביום ו' — יום כיפור יהיה בשבת.",
+      "it": "Il primo rinvio: 'Lo adu rosh' — ovvero, se il molad cade di domenica (א), di mercoledì (ד), o di venerdì (ו), si rinvia Rosh HaShanah al giorno successivo. Perché: se Rosh HaShanah cade di domenica, Hoshana Rabbah cadrebbe di Shabbat; di mercoledì, Yom Kippur cadrebbe di venerdì; di venerdì, Yom Kippur cadrebbe di Shabbat."
+    },
+    {
+      "n": 3,
+      "he": "הדחייה השנייה: 'מולד זקן'. אם חל המולד ביום שישי שעות ותשע מאות ושמונה וארבעים חלקים — דוחים ראש השנה לשני ימים. שנאמר: ראש השנה הוא יום השלושים, ואם המולד הגיע בשעה מאוחרת — לא יראה הירח עד הלילה.",
+      "it": "Il secondo rinvio: 'molad zaken' (molad tardivo). Se il molad cade all'alba o dopo — cioè dopo le diciotto ore — si rinvia Rosh HaShanah di un giorno. Poiché se il molad cade così tardi, la luna non sarà visibile fino alla notte successiva."
+    },
+    {
+      "n": 4,
+      "he": "הדחייה השלישית: 'גטר\"ד'. אם שנה פשוטה שלאחר שנה מעוברת חל מולד תשרי שלה ביום שלישי, בשעה תשע ומאתיים ורד\"ד חלקים — דוחים ראש השנה ליום חמישי.",
+      "it": "Il terzo rinvio: 'Gatarad'. Se in un anno semplice che segue un anno intercalare il molad di Tishri cade di martedì, alle nove ore, duecentoquatro parti — si rinvia Rosh HaShanah a giovedì."
+    },
+    {
+      "n": 5,
+      "he": "הדחייה הרביעית: 'בטו\"תקפ\"ו'. אם שנה פשוטה שלאחר שנה פשוטה חל מולד תשרי שלה ביום שני, בשעה חמש עשרה ותחילת תחשפ\"ו חלקים — דוחים ראש השנה ליום שלישי.",
+      "it": "Il quarto rinvio: 'Btu takpaph'. Se in un anno semplice che segue un anno semplice il molad di Tishri cade di lunedì, alle quindici ore e 589 parti — si rinvia Rosh HaShanah a martedì."
+    },
+    {
+      "n": 6,
+      "he": "מה הן הסיבות לדחיות אלו? הסיבה העיקרית: יום הכיפורים לא יפול ביום שישי או ביום ראשון — כדי שלא יהיו שני ימים רצופים שאסורים בעשיית מלאכה (כיפור ושבת).",
+      "it": "Quali sono le ragioni di queste regole di rinvio? La ragione principale: Yom Kippur non deve cadere di venerdì o di domenica — per evitare che si creino due giorni consecutivi in cui il lavoro è vietato (Yom Kippur e Shabbat)."
+    },
+    {
+      "n": 7,
+      "he": "סיבה נוספת: הושענה רבה לא יפול בשבת — שלא תיפגע נטילת הערבה. ולמחרת ראש השנה לא יפול יום הכיפורים — שלא יהיו שני ימי צום ברצף.",
+      "it": "Un'altra ragione: Hoshana Rabbah non deve cadere di Shabbat — per non compromettere il rito della aravah (salice). E il giorno dopo Rosh HaShanah non deve cadere Yom Kippur — per non avere due giorni di digiuno consecutivi."
+    },
+    {
+      "n": 8,
+      "he": "כל הדחיות הללו נתקנו על ידי חכמי ישראל כדי שיהיה סדר נכון ומתאים בחגים. ואחרי כל הדחיות — ייקבע ראש השנה, ומתוכו ייקבעו כל ימי השנה.",
+      "it": "Tutte queste regole di rinvio furono stabilite dai Saggi di Israele affinché le festività seguano un ordine corretto e adeguato. Dopo l'applicazione di tutte le dehiyyot, si stabilisce Rosh HaShanah, e da esso si determinano tutti i giorni dell'anno."
+    }
+  ],
+  "_glossary_terms_used": ["dehiyyot", "molad", "lo adu rosh", "molad zaken"]
+}

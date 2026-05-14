@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 6",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ו",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-13",
+  "hebrew_date": "4 Tevet 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבוּעַת שָׁוְא — בִּכְלָלָהּ הַנִּשְׁבָּע עַל דָּבָר מִצְוָה...",
+      "it": "Tra le forme di shevuat shav (giuramento vano) vi è anche: giurare che un oggetto sacro non è tale. Esempio: «Giuro che queste tefillin non sono tefillin» — è shevuat shav. Analogamente, «Giuro che questo sefer Torah non è un sefer Torah» — è vano e profana il Nome divino. Questi giuramenti sono assurdi per definizione, poiché la sacralità degli oggetti è una realtà oggettiva che un giuramento non può alterare."
+    },
+    {
+      "n": 2,
+      "he": "הַנִּשְׁבָּע לְבַטֵּל מִצְוַת עֲשֵׂה — אֵינוֹ חַיָּב...",
+      "it": "Chi giura di non eseguire una mitzvat aseh (precetto positivo della Torah) — ad esempio «Giuro di non mettere le tefillin per sempre» — non è punito per la violazione del giuramento quando poi mette le tefillin, poiché la mitzvah sovrasta il giuramento. La regola: «ein shevuah cholah al ha-mitzvot» — il giuramento non si applica ai precetti. Chi poi mantiene questo giuramento assurdo ed evita le tefillin — pecca per la mancanza della mitzvah, non per il giuramento."
+    },
+    {
+      "n": 3,
+      "he": "הַנִּשְׁבָּע לַעֲשׂוֹת עֲבֵרָה — אַסּוּר לְקַיְּמוֹ...",
+      "it": "Chi giura di commettere una trasgressione — è proibito mantenere questo giuramento. Il giuramento di peccare non è vincolante, anzi mantenerlo sarebbe una seconda trasgressione. La massima halachica: «mitzvah la'avor al shevuah zu» — è un precetto violare questo giuramento (scartando la violazione prevista). La Torah non può usare il meccanismo del giuramento per obbligare alla trasgressione."
+    },
+    {
+      "n": 4,
+      "he": "לֹא תִשָּׂא אֶת שֵׁם ה' אֱלֹקֶיךָ לַשָּׁוְא...",
+      "it": "Il terzo Comandamento: «Lo tisa et shem Hashem Elokecha la-shav» — non portare/alzare il Nome di D-o invano (Esodo 20:7). Il Rambam spiega la parola «tisa» (portare/alzare): il Nome divino deve essere portato/alzato con onore, non abbassato attraverso usi vani. Tra tutti i Dieci Comandamenti, questo è l'unico che il testo biblico accompagna con una minaccia esplicita: «ki lo yenakkeh Hashem et asher yissa et shemo la-shav» — D-o non esenterà chi porta il Suo nome invano."
+    },
+    {
+      "n": 5,
+      "he": "חֹמֶר שֵׁם שָׁמַיִם...",
+      "it": "La gravità dell'uso del Nome celeste: qualsiasi espressione di D-o usata come imprecazione, bestemmia, o giuramento vano — è inclusa in questa proibizione. I Saggi estesero la proibizione anche ai «kinuyim» (epiteti divini) come «Merciful» (Rachaman), «Mighty» (Shaddai), «The Place» (Ha-Makom). Anche giurare per «vita del Signore» in modo vano — è incluso. La protezione del Nome divino dalla profanazione è un pilastro della santità ebraica (kedushah)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevuat shav", "mitzvat aseh", "tefillin", "sefer Torah", "ein shevuah cholah al ha-mitzvot", "Lo tisa et shem Hashem la-shav", "kinuyim", "kedushah", "Rachaman", "Shaddai", "Ha-Makom"
+  ]
+}

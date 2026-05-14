@@ -1,0 +1,87 @@
+{
+  "ref": "Mishneh Torah, Hilchot Korban Pesach 3-5",
+  "name_he": "משנה תורה, הלכות קרבן פסח, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi del Sacrificio Pasquale, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-08-01",
+  "hebrew_date": "18 Av 5786",
+  "halachot_count": 15,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "כל האוכל מבשר הפסח צריך שיהא מנוי עליו. כיצד? כל אחד ואחד ממנה עצמו לאכילת פסח זה לפני שחיטתו, ואם לא נמנה — אינו אוכל ממנו.",
+      "it": "Chiunque mangi della carne del sacrificio pasquale deve essere stato precedentemente iscritto come commensale (manui) per quel korban. Come funziona? Ognuno si iscrive personalmente per quel Pesach prima della sua macellazione; se non si è iscritto, non può mangiarne."
+    },
+    {
+      "n": "3:2",
+      "he": "אין מונין על הפסח אלא אדם שיש לו כזית בשר לאכול. אם יהיה הציבור רב, אף על פי שאין לכל אחד מהם כזית — מונין אותם.",
+      "it": "Non si iscrivono per il Pesach se non coloro a cui spetti almeno un kzayit (volume di un'oliva) di carne. Se il gruppo è molto numeroso, anche se a ciascuno non tocca un kzayit, li si iscrive ugualmente."
+    },
+    {
+      "n": "3:3",
+      "he": "ערל — אסור לאכול בקרבן פסח, שנאמר 'וכל ערל לא יאכל בו'. לפיכך מל אדם את עצמו ואת בניו הקטנים ואת עבדיו הכנענים — ואז יאכל.",
+      "it": "L'incirconciso (arel) non può mangiare del korban Pesach, come è detto: 'E nessun incirconciso ne mangerà' (Shemot 12:48). Pertanto, un uomo deve circoncidere se stesso, i propri figli minorenni e i propri schiavi cananei prima di poter mangiare."
+    },
+    {
+      "n": "3:4",
+      "he": "גוי — אסור לאכול בפסח, שנאמר 'כל בן נכר לא יאכל בו'. ואפילו גר תושב — אינו אוכל, שאין הגר תושב כישראל לעניין קדשים.",
+      "it": "Un non ebreo non può mangiare del Pesach, come è detto: 'Nessuno straniero ne mangerà' (Shemot 12:43). Anche il ger toshav (residente straniero) non ne mangia, poiché il ger toshav non è equiparato all'israelita riguardo alle cose sacre."
+    },
+    {
+      "n": "3:5",
+      "he": "נשים וסומים — מונין אותם על הפסח. עבד שמל — מונין אותו. ואין מונין עליו גוי ועבד שלא מל.",
+      "it": "Le donne e i ciechi vengono iscritti per il Pesach. Uno schiavo circonciso viene iscritto. Non vengono iscritti un non ebreo e uno schiavo non circonciso."
+    },
+    {
+      "n": "4:1",
+      "he": "מצות אכילת הפסח — צלי אש, שנאמר 'צלי אש'. ואין אוכלין אותו נא ולא מבושל במים, שנאמר 'אל תאכלו ממנו נא ובשל מבושל במים'.",
+      "it": "Il precetto è di mangiare il Pesach arrostito al fuoco, come è detto: 'Arrostito al fuoco' (Shemot 12:8-9). Non lo si mangia crudo né lessato in acqua, come è detto: 'Non lo mangiate crudo né lessato nell'acqua' (ibid.)."
+    },
+    {
+      "n": "4:2",
+      "he": "אין שוברים בו עצם, שנאמר 'ועצם לא תשברו בו'. ואין מוציאים ממנו לחוץ, שנאמר 'לא תוציא מן הבית מן הבשר חוצה'. ומה שנותר ממנו עד הבוקר — שורפים אותו.",
+      "it": "Non si spezza alcun osso del Pesach, come è detto: 'E non ne spezzerete un osso' (Shemot 12:46). Non se ne porta fuori nulla, come è detto: 'Non porterete fuori dalla casa nulla della carne' (ibid.). Ciò che rimane fino al mattino viene bruciato."
+    },
+    {
+      "n": "4:3",
+      "he": "אוכלים אותו עם מצות ומרורים, שנאמר 'על מצות ומרורים יאכלוהו'. ואוכלים אותו עד חצות הלילה, לגזירת חכמים, אף על פי שמן הדין נאכל כל הלילה.",
+      "it": "Lo si mangia con matzot e maror (erbe amare), come è detto: 'Con azzime e erbe amare lo mangeranno' (Bemidbar 9:11). Lo si mangia fino a mezzanotte, per decreto dei Saggi, sebbene per legge biblica possa essere consumato tutta la notte."
+    },
+    {
+      "n": "4:4",
+      "he": "אין אוכלים את הפסח אלא בחבורה אחת. מי שיצא מחבורה זו לחבורה אחרת — לוקה על שינוי החבורה.",
+      "it": "Il Pesach si mangia esclusivamente all'interno di un unico gruppo (chaburah). Chi si sposta da quel gruppo a un altro è passibile di flagellazione per aver cambiato gruppo."
+    },
+    {
+      "n": "5:1",
+      "he": "מי שהיה טמא בשעת שחיטת הפסח — פטור מהפסח הראשון ועושה פסח שני. ומי שהיה בדרך רחוקה — אף הוא פטור מהפסח הראשון ועושה פסח שני.",
+      "it": "Chi era impuro (tamei) al momento della macellazione del primo Pesach è esente dal primo Pesach ed è obbligato al Pesach Sheni (secondo Pesach). Chi si trovava in viaggio lontano (derech rechokah) è anch'egli esente dal primo Pesach ed è obbligato al Pesach Sheni."
+    },
+    {
+      "n": "5:2",
+      "he": "מה הדרך הרחוקה? כל שהיה חוץ למודיעין בשעת שחיטת הפסח. ומודיעין היא מרחק של יום וחצי מירושלים.",
+      "it": "Cos'è il 'viaggio lontano'? Chi si trovava al di là di Modi'in al momento della macellazione. Modi'in dista da Gerusalemme un giorno e mezzo di cammino."
+    },
+    {
+      "n": "5:3",
+      "he": "הפסח השני הוא בארבעה עשר לחודש אייר, ושוחטים אותו בערב ואוכלים אותו בלילה, כמו הפסח הראשון. וטעון צלייה ואכילה עם מצות ומרורים.",
+      "it": "Il Pesach Sheni cade il quattordici di Iyar. Lo si macella nel pomeriggio e lo si mangia quella notte, come il primo Pesach. Richiede la cottura al fuoco e si mangia con matzot e maror."
+    },
+    {
+      "n": "5:4",
+      "he": "אין הפסח השני דוחה שבת ולא טומאה, שאין לו חיוב ציבורי כפסח ראשון. כיצד? אם חל ארבעה עשר באייר בשבת — אין שוחטים את הפסח השני.",
+      "it": "Il Pesach Sheni non ha la precedenza né sul Shabbat né sull'impurità, poiché non ha l'obbligo collettivo del primo Pesach. Come? Se il quattordici di Iyar cade di Shabbat, non si macella il Pesach Sheni."
+    },
+    {
+      "n": "5:5",
+      "he": "מה בין פסח ראשון לפסח שני? הראשון — חמץ אסור בבל יראה ובל ימצא. השני — מצה וחמץ עמו בבית. ושניהם שווים בשאר הדינים: צלי, ואכילה עם מצות ומרורים, ושלא ישבור בו עצם.",
+      "it": "Qual è la differenza tra primo e secondo Pesach? Per il primo, il chametz è soggetto ai divieti 'non si vedrà e non si troverà'. Per il secondo, matzah e chametz possono coesistere nella stessa casa. Per il resto le leggi sono identiche: cottura al fuoco, consumo con matzot e maror, e divieto di spezzare le ossa."
+    },
+    {
+      "n": "5:6",
+      "he": "מי שלא עשה פסח שני, אף על פי שהיה חייב בו — אין בידו תשלומין לאחר זה, ואינו לוקה אלא חייב כרת.",
+      "it": "Chi non ha compiuto il Pesach Sheni, pur essendovi obbligato, non ha più modo di recuperarlo, e non è passibile di flagellazione, ma di karet (recisione spirituale)."
+    }
+  ],
+  "_glossary_terms_used": ["manui", "kzayit", "arel", "ger toshav", "maror", "chaburah", "tamei", "derech rechokah", "Pesach Sheni", "karet", "chametz"]
+}

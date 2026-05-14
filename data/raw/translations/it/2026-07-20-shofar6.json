@@ -1,0 +1,77 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 6",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק ו",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 6",
+  "cycle": "rambam-1",
+  "date": "2026-07-20",
+  "hebrew_date": "6 Av 5786",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד נוֹטְלִין אֶת הָאַרְבָּעָה מִינִין? לוּלָב בְּיַד יְמִינוֹ, וְאֶתְרוֹג בְּיַד שְׂמָאלוֹ.",
+      "it": "Come si prendono le quattro specie? Il lulav si tiene con la mano destra, e l'etrog con la mano sinistra."
+    },
+    {
+      "n": 2,
+      "he": "וּמַצְמִידִין הַהֲדַסִּים וְהָעֲרָבוֹת עִם הַלּוּלָב וְאוֹגְדִין אוֹתָן יַחַד.",
+      "it": "I mirti (hadasim) e i salici (aravot) vengono uniti al lulav e legati insieme."
+    },
+    {
+      "n": 3,
+      "he": "כַּמָּה הֲדַסִּים וְכַמָּה עֲרָבוֹת? שְׁלֹשָׁה הֲדַסִּים וּשְׁתֵּי עֲרָבוֹת.",
+      "it": "Quanti mirti e quanti salici? Tre mirti e due salici."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד מְסַדְּרִין אוֹתָן? הֲדַסִּים מִימִין הַלּוּלָב, וְעֲרָבוֹת מִשְּׂמָאלוֹ.",
+      "it": "Come li si dispone? I mirti alla destra del lulav, e i salici alla sua sinistra."
+    },
+    {
+      "n": 5,
+      "he": "אוֹגֵד אֶת שְׁלָשְׁתָּן כְּאֶחָד, מִצְוָה מִן הַמֻּבְחָר. וְאִם לֹא אֲגָדָן — יָצָא.",
+      "it": "Legarli insieme è la forma più eccellente della mitzvah. Se non li ha legati, ha comunque adempiuto al comandamento."
+    },
+    {
+      "n": 6,
+      "he": "נְטִילַת אַרְבָּעַת הַמִּינִין כֵּיצַד? נוֹטֵל אוֹתָן בְּשָׁעָה שֶׁהוּא מְבָרֵךְ עֲלֵיהֶן.",
+      "it": "Come si esegue la presa delle quattro specie? Le si prende nel momento in cui si recita la benedizione su di esse."
+    },
+    {
+      "n": 7,
+      "he": "מְבָרֵךְ: 'בָּרוּךְ אַתָּה ה' אֱלֹקֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת לוּלָב'.",
+      "it": "Si recita la benedizione: 'Baruch attah Adonai Eloheinu Melech ha-olam asher kideshanu be-mitzvotav ve-tzivanu al netilat lulav' — Benedetto sei Tu, Signore nostro Dio, Re dell'universo, che ci hai santificato con i Tuoi comandamenti e ci hai comandato riguardo alla presa del lulav."
+    },
+    {
+      "n": 8,
+      "he": "כֵּיצַד מְנַעְנְעִין? מוֹלִיךְ וּמֵבִיא, מַעֲלֶה וּמוֹרִיד, לְכָל שֵׁשׁ רוּחוֹת הַשָּׁמַיִם.",
+      "it": "Come si esegue il na'anuim (agitazione)? Si porta avanti e indietro, su e giù, verso tutte e sei le direzioni del cielo (est, sud, ovest, nord, su, giù)."
+    },
+    {
+      "n": 9,
+      "he": "לָמָּה מְנַעְנְעִין? לְהִשְׁתַּחֲוֹת לְמִי שֶׁהַשָּׁמַיִם וְהָאָרֶץ שֶׁלּוֹ, וְלַהֲפִיג רוּחוֹת רָעוֹת וּטַלָּלִים הָרָעִים.",
+      "it": "Perché si esegue il na'anuim? Per prostrarsi davanti a Colui al quale appartengono i cieli e la terra, e per allontanare venti cattivi e rugiada dannosa."
+    },
+    {
+      "n": 10,
+      "he": "מִצְוָה לְנַעְנֵעַ בִּשְׁעַת הַלֵּל, בְּ'הוֹדוּ לַה'' הָרִאשׁוֹן וְהָאַחֲרוֹן, וּבְ'אָנָּא ה' הוֹשִׁיעָה נָּא'.",
+      "it": "È una mitzvah agitare il lulav durante il Hallel: al primo e all'ultimo 'Hodu la-Hashem' (Salmo 118:1,29) e al 'Ana Hashem hoshiah na' (Salmo 118:25)."
+    },
+    {
+      "n": 11,
+      "he": "כָּל שִׁבְעַת הַיָּמִים אָדָם עוֹשֶׂה אֶת לוּלָבוֹ שֶׁלּוֹ.",
+      "it": "Per tutti e sette i giorni, una persona adempie la mitzvah con il proprio lulav (non con quello altrui, a meno di riceverlo in dono)."
+    },
+    {
+      "n": 12,
+      "he": "בַּיּוֹם הָרִאשׁוֹן בִּלְבַד — לֹא יֵצֵא בְּלוּלָב שֶׁל חֲבֵרוֹ אֶלָּא אִם כֵּן נְתָנוֹ לוֹ בְּמַתָּנָה.",
+      "it": "Solo il primo giorno non si adempie la mitzvah con il lulav di un altro a meno che non l'abbia ricevuto in dono (poiché il primo giorno la Torah richiede 'per voi' — che sia vostro)."
+    },
+    {
+      "n": 13,
+      "he": "נָשִׁים וַעֲבָדִים וּקְטַנִּים — פְּטוּרִין מִנְּטִילַת לוּלָב מִן הַתּוֹרָה.",
+      "it": "Donne, schiavi e minori sono esenti dall'obbligo biblico di prendere il lulav, ma è un merito per chi lo fa."
+    }
+  ],
+  "_glossary_terms_used": ["lulav", "etrog", "hadasim", "aravot", "na'anuim", "Hallel", "netilat lulav"]
+}

@@ -1,0 +1,469 @@
+{
+  "ref": "Mishneh Torah, Forbidden Foods 17; Ritual Slaughter 1-2",
+  "name_he": "הלכות מאכלות אסורות, פרק יז; הלכות שחיטה, פרקים א-ב",
+  "name_it": "Leggi dei cibi proibiti — capitolo 17; Leggi della shechità — capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-05-13",
+  "hebrew_date": "26 Iyyar 5786",
+  "perakim": [
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 17",
+      "name_he": "הלכות מאכלות אסורות, פרק יז",
+      "name_it": "Leggi dei cibi proibiti — capitolo 17: kasherizzazione delle stoviglie (hechsher keilim)",
+      "halachot_count": 32,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "קְדֵרָה שֶׁל חֶרֶס שֶׁנּתִבַּשֵּׁל בָּהּ בְּשַׂר נְבֵלָה אוֹ בְּשַׂר שְׁקָצִים וּרְמָשִׂים לֹא יְבַשֵּׁל בָּהּ בְּשַׂר שְׁחוּטָה בְּאוֹתוֹ הַיּוֹם. וְאִם בִּשֵּׁל בָּהּ מִין בָּשָׂר הַתַּבְשִׁיל אָסוּר. בִּשֵּׁל בָּהּ מִין אַחֵר בְּנוֹתֵן טַעַם:",
+          "it": "Una pentola di terracotta in cui fu cotta carne di neveilà o di animali striscianti e teeming (sheratzim e remasim): non si deve cuocere in essa carne di un animale macellato regolarmente nello stesso giorno. Se si cuoce carne — il piatto è proibito. Se si cuoce altra sostanza — è proibita se si percepisce il sapore del proibito assorbito."
+        },
+        {
+          "n": 2,
+          "he": "וְלֹא אָסְרָה תּוֹרָה אֶלָּא קְדֵרָה בַּת יוֹמָהּ בִּלְבַד הוֹאִיל וַעֲדַיִן לֹא נִפְגַּם הַשֻּׁמָּן שֶׁנִּבְלָע בַּקְּדֵרָה. וּמִדִּבְרֵי סוֹפְרִים לֹא יְבַשֵּׁל בָּהּ לְעוֹלָם. לְפִיכָךְ אֵין לוֹקְחִין כְּלֵי חֶרֶס יְשָׁנִים מִן הָעַכּוּ\"ם שֶׁנִּשְׁתַּמְּשׁוּ בָּהֶן בְּחַמִּין כְּגוֹן קְדֵרוֹת וּק…",
+          "it": "La Torah ha proibito solo una pentola usata lo stesso giorno (bat yomo), poiché il sapore del grasso assorbito non è ancora deteriorato. Per legge rabbinica, non si deve cuocere mai più in essa. Pertanto non si devono acquistare vasi di terracotta usati dai gentili per cibi caldi. Se si acquistano e vi si cuoce dal secondo giorno in poi — il cibo è permesso."
+        },
+        {
+          "n": 3,
+          "he": "הַלּוֹקֵחַ כְּלֵי תַּשְׁמִישׁ סְעֻדָּה מִן הָעַכּוּ\"ם מִכְּלֵי מַתָּכוֹת וּכְלֵי זְכוּכִית. דְּבָרִים שֶׁלֹּא נִשְׁתַּמֵּשׁ בָּהֶן כָּל עִקָּר מַטְבִּילָן בְּמֵי מִקְוֶה וְאַחַר כָּךְ יִהְיוּ מֻתָּרִין לֶאֱכֹל בָּהֶן וְלִשְׁתּוֹת. וּדְבָרִים שֶׁנִּשְׁתַּמֵּשׁ בָּהֶן עַל יְדֵי צוֹנֵן כְּגוֹן כּוֹסוֹת…",
+          "it": "Chi acquista stoviglie di metallo o vetro da un gentile: quelle mai usate si immergono nel mikveh e poi sono permesse. Quelle usate per cibi freddi (coppe, fiasche, brocche) — si lavano bene e si immergono. Quelle usate per cibi caldi (pentole, caldaie) — si purificano tramite hag'alah e si immergono. Quelle usate al fuoco (spiedi, griglie) — si arroventano fino a che la superficie esterna si scolla, poi si immergono."
+        },
+        {
+          "n": 4,
+          "he": "כֵּיצַד מַגְעִילָן. נוֹתֵן יוֹרָה קְטַנָּה לְתוֹךְ יוֹרָה גְּדוֹלָה וּמְמַלֵּא עָלֶיהָ מַיִם עַד שֶׁיָּצוּפוּ עַל הַקְּטַנָּה וּמַרְתִּיחָהּ יָפֶה יָפֶה. וְאִם הָיְתָה יוֹרָה גְּדוֹלָה מַקִּיף עַל שְׂפָתָהּ בָּצֵק אוֹ טִיט וּמְמַלֵּא מַיִם עַד שֶׁיָּצוּפוּ הַמַּיִם עַל שְׂפָתָהּ וּמַרְתִּיחַ. וְכֻלּ…",
+          "it": "Come si esegue la hag'alah? Si mette una pentola piccola dentro una grande, si riempie d'acqua finché la piccola è sommersa, e si porta a ebollizione vigorosa. Per una pentola grande: si mette impasto o argilla sul bordo per alzarne il livello e si porta a bollore. In ogni caso, se si usarono le stoviglie prima della purificazione — il cibo è kasher, poiché qualsiasi grasso assorbito dà un sapore deteriorato."
+        },
+        {
+          "n": 5,
+          "he": "טְבִילָה זוֹ שֶׁמַּטְבִּילִין כְּלֵי הַסְּעֻדָּה הַנִּלְקָחִים מִן הָעַכּוּ\"ם וְאַחַר כָּךְ יֻתְּרוּ לַאֲכִילָה וּשְׁתִיָּה אֵינָן לְעִנְיַן טֻמְאָה וְטָהֳרָה אֶלָּא מִדִּבְרֵי סוֹפְרִים. וְרֶמֶז לָהּ (במדבר לא כג) \"כָּל דָּבָר אֲשֶׁר יָבֹא בָאֵשׁ תַּעֲבִירוּ בָאֵשׁ וְטָהֵר\" וּמִפִּי הַשְּׁמוּעָה לָ…",
+          "it": "L'immersione delle stoviglie acquistate dai gentili non è legata alla purità rituale, bensì è un decreto rabbinico — una forma di onorare la transizione delle stoviglie dal dominio gentile a quello ebraico."
+        },
+        {
+          "n": 6,
+          "he": "לֹא חִיְּבוּ בִּטְבִילָה זוֹ אֶלָּא כְּלֵי מַתָּכוֹת שֶׁל סְעֻדָּה הַנִּלְקָחִין מִן הָעַכּוּ\"ם. אֲבָל הַשּׁוֹאֵל מִן הָעַכּוּ\"ם. אוֹ שֶׁמִּשְׁכֵּן הָעַכּוּ\"ם אֶצְלוֹ כְּלֵי מַתָּכוֹת. מֵדִיחַ אוֹ מַרְתִּיחַ אוֹ מְלַבֵּן וְאֵינוֹ צָרִיךְ לְהַטְבִּיל. וְכֵן אִם לָקַח כְּלֵי עֵץ אוֹ כְּלֵי אֲבָנִים מֵ…",
+          "it": "Stoviglie di legno, avorio e osso acquistate dai gentili: i Saggi hanno esteso il decreto rabbinico dell'immersione anche a esse. Le stoviglie di terracotta non possono essere purificata dalla Torah e non richiedono immersione (poiché già considerate irrimediabili)."
+        },
+        {
+          "n": 7,
+          "he": "הַלּוֹקֵחַ סַכִּין מִן הָעַכּוּ\"ם מְלַבְּנָהּ בָּאֵשׁ אוֹ מַשְׁחִיזָהּ בָּרֵחַיִם שֶׁלָּהּ. וְאִם הָיְתָה סַכִּין יָפָה שֶׁאֵין בָּהּ פְּגִימוֹת דַּי לוֹ אִם נְעָצָהּ בְּקַרְקַע קָשָׁה עֶשֶׂר פְּעָמִים וְאוֹכֵל בָּהּ צוֹנֵן. וְאִם הָיוּ בָּהּ פְּגִימוֹת אוֹ שֶׁהָיְתָה יָפָה וְרָצָה לֶאֱכֹל בָּהּ חַמ…",
+          "it": "Chi acquista uno spiedo o una griglia da un gentile: se era usato per cuocere al fuoco diretto — richiede libun (arrossamento al fuoco). Se era usato per cuocere in acqua — richiede hag'alah."
+        },
+        {
+          "n": 8,
+          "he": "סַכִּין שֶׁשָּׁחַט בָּהּ טְרֵפָה לֹא יִשְׁחֹט בָּהּ עַד שֶׁיְּדִיחָהּ אֲפִלּוּ בְּצוֹנֵן אוֹ מְקַנְּחָהּ בִּבְלָיוֹת שֶׁל בְּגָדִים:",
+          "it": "Il girarrosto (shashlik) e i fornelli acquistati da un gentile: richiedono arrossamento al fuoco (libun gamur) per via della cottura diretta alla fiamma."
+        },
+        {
+          "n": 9,
+          "he": "וְיֵשׁ שָׁם דְּבָרִים אֲחֵרִים אָסְרוּ אוֹתָן חֲכָמִים וְאַף עַל פִּי שֶׁאֵין לְאִסּוּרָן עִקָּר מִן הַתּוֹרָה גָּזְרוּ עֲלֵיהֶן כְּדֵי לְהִתְרַחֵק מִן הָעַכּוּ\"ם עַד שֶׁלֹּא יִתְעָרְבוּ בָּהֶן יִשְׂרָאֵל וְיָבוֹאוּ לִידֵי חַתְנוּת. וְאֵלּוּ הֵן. אָסְרוּ לִשְׁתּוֹת עִמָּהֶן וַאֲפִלּוּ בְּמָקוֹם שֶׁא…",
+          "it": "Coltello acquistato da un gentile: deve essere arroventato o affilato su pietra da affilatura. Se era un coltello perfettamente liscio senza intacche — è sufficiente inserirlo dieci volte in terra compatta. Poi si possono tagliare cibi freddi."
+        },
+        {
+          "n": 10,
+          "he": "כֵּיצַד. לֹא יִשְׁתֶּה אָדָם בִּמְסִבָּה שֶׁל עַכּוּ\"ם. וְאַף עַל פִּי שֶׁהוּא יַיִן מְבֻשָּׁל שֶׁאֵינוֹ נֶאֱסָר. אוֹ שֶׁהָיָה שׁוֹתֶה מִכֵּלָיו לְבַדּוֹ. וְאִם הָיָה רֹב הַמְּסִבָּה יִשְׂרָאֵל מֻתָּר. וְאֵין שׁוֹתִין שֵׁכָר שֶׁלָּהֶן שֶׁעוֹשִׂין מִן הַתְּמָרִים וְהַתְּאֵנִים וְכַיּוֹצֵא בָּהֶן. וְא…",
+          "it": "Se usò il coltello prima di purificarlo per tagliare carne calda — il cibo è proibito nella misura in cui il coltello ha trasmesso il sapore proibito."
+        },
+        {
+          "n": 11,
+          "he": "יֵין תַּפּוּחִים וְיֵין רִמּוֹנִים וְכַיּוֹצֵא בָּהֶן מֻתָּר לִשְׁתּוֹתָן בְּכָל מָקוֹם. דָּבָר שֶׁאֵינוֹ מָצוּי לֹא גָּזְרוּ עָלָיו. יֵין צִמּוּקִים הֲרֵי הוּא כְּיַיִן וּמִתְנַסֵּךְ:",
+          "it": "Forni (tanur) e piastre (kirah) acquistati da gentili: richiedono libun gamur. La regola pratica è di accendere un fuoco al loro interno fino a che si arrossano completamente."
+        },
+        {
+          "n": 12,
+          "he": "אַף עַל פִּי שֶׁאָסְרוּ פַּת עַכּוּ\"ם. יֵשׁ מְקוֹמוֹת שֶׁמְּקִלִּין בַּדָּבָר וְלוֹקְחִין פַּת הַנַּחְתּוֹם הָעַכּוּ\"ם בְּמָקוֹם שֶׁאֵין שָׁם נַחְתּוֹם יִשְׂרָאֵל וּבַשָּׂדֶה מִפְּנֵי שֶׁהוּא שְׁעַת הַדְּחָק. אֲבָל פַּת בַּעֲלֵי בָּתִּים אֵין שָׁם מִי שֶׁמּוֹרֶה בָּהּ לְהָקֵל שֶׁעִקַּר הַגְּזֵרָה מִ…",
+          "it": "Stoviglie di vetro: i Saggi hanno permesso la loro purificazione tramite hag'alah, poiché la loro superficie è liscia e non assorbe in profondità."
+        },
+        {
+          "n": 13,
+          "he": "הִדְלִיק הָעַכּוּ\"ם אֶת הַתַּנּוּר וְאָפָה בּוֹ יִשְׂרָאֵל. אוֹ שֶׁהִדְלִיק יִשְׂרָאֵל וְאָפָה עַכּוּ\"ם. אוֹ שֶׁהִדְלִיק הָעַכּוּ\"ם וְאָפָה הָעַכּוּ\"ם וּבָא יִשְׂרָאֵל וְנִעֵר הָאֵשׁ מְעַט אוֹ כְּבָשׁוֹ לָאֵשׁ הוֹאִיל וְנִשְׁתַּתֵּף בִּמְלֶאכֶת הַפַּת הֲרֵי זוֹ מֻתֶּרֶת. וַאֲפִלּוּ לֹא זָרַק אֶלָּא …",
+          "it": "Un calice di vetro usato da un gentile per yayin nesech: è proibito trarne vantaggio e quindi il calice stesso è proibito."
+        },
+        {
+          "n": 14,
+          "he": "עַכּוּ\"ם שֶׁבִּשֵּׁל לָנוּ יַיִן אוֹ חָלָב אוֹ דְּבַשׁ אוֹ פְּרִישִׁין וְכַיּוֹצֵא בְּאֵלּוּ (מִכָּל) דָּבָר הַנֶּאֱכָל כְּמוֹת שֶׁהוּא חַי הֲרֵי אֵלּוּ מֻתָּרִין. וְלֹא גָּזְרוּ אֶלָּא עַל דָּבָר שֶׁאֵינוֹ נֶאֱכָל כְּמוֹת שֶׁהוּא חַי. כְּגוֹן בָּשָׂר וְדָג תָּפֵל וּבֵיצָה וִירָקוֹת. אִם בִּשְּׁלָן …",
+          "it": "Stoviglie rotte che un ebreo ripara con materiale non kasher: le parti riparate seguono le leggi del materiale usato per la riparazione."
+        },
+        {
+          "n": 15,
+          "he": "בַּמֶּה דְּבָרִים אֲמוּרִים בְּדָבָר שֶׁהוּא עוֹלֶה עַל שֻׁלְחַן מְלָכִים לֶאֱכֹל בּוֹ אֶת הַפַּת. כְּגוֹן בָּשָׂר וּבֵיצִים וְדָגִים וְכַיּוֹצֵא בָּהֶם. אֲבָל דָּבָר שֶׁאֵינוֹ עוֹלֶה עַל שֻׁלְחַן מְלָכִים לֶאֱכֹל בּוֹ אֶת הַפַּת כְּגוֹן תֻּרְמוֹסִין שֶׁשָּׁלְקוּ אוֹתָן עַכּוּ\"ם אַף עַל פִּי שֶׁאֵינ…",
+          "it": "Stoviglie di gentili usate per cibi kasher: non richiedono purificazione speciale se usate per lo stesso tipo, ma è bene lavarle."
+        },
+        {
+          "n": 16,
+          "he": "וְדָגִים קְטַנִּים שֶׁמְּלָחָן יִשְׂרָאֵל אוֹ עַכּוּ\"ם הֲרֵי הֵן כְּמוֹ שֶׁנִּתְבַּשְּׁלוּ מִקְצָת בִּשּׁוּל. וְאִם צְלָאָן עַכּוּ\"ם אַחַר כֵּן מֻתָּרִין. וְכָל שֶׁבִּשְּׁלוֹ יִשְׂרָאֵל מְעַט בִּשּׁוּלוֹ בֵּין בַּתְּחִלָּה בֵּין בַּסּוֹף מֻתָּר. לְפִיכָךְ אִם הִנִּיחַ הָעַכּוּ\"ם בָּשָׂר אוֹ קְדֵרָה …",
+          "it": "Il principio del nat bar nat (sapore secondario di sapore): se una pentola permessa ha assorbito il sapore di carne proibita e poi si cuoce in essa un altro cibo permesso — quel cibo è proibito solo se si percepisce il sapore."
+        },
+        {
+          "n": 17,
+          "he": "דָּג שֶׁמְּלָחוֹ עַכּוּ\"ם וּפֵרוֹת שֶׁעִשְּׁנָן עַד שֶׁהִכְשִׁירָן לַאֲכִילָה הֲרֵי אֵלּוּ מֻתָּרִין. מָלִיחַ אֵינוֹ כְּרוֹתֵחַ בִּגְזֵרָה זוֹ וְהַמְעֵשָּׁן אֵינוֹ כִּמְבֻשָּׁל. וְכֵן קְלָיוֹת שֶׁל עַכּוּ\"ם מֻתָּרִין וְלֹא גָּזְרוּ עֲלֵיהֶם שֶׁאֵין אָדָם מְזַמֵּן חֲבֵרוֹ עַל הַקְּלָיוֹת:",
+          "it": "Una pentola di carne usata per cuocere latte, o viceversa, viola il divieto di basar be-chalav se la pentola è bat yomo."
+        },
+        {
+          "n": 18,
+          "he": "פּוֹלִין וַאֲפוּנִין וַעֲדָשִׁים וְכַיּוֹצֵא בָּהֶן שֶׁשּׁוֹלְקִין אוֹתָן הָעַכּוּ\"ם וּמוֹכְרִין אוֹתָן אֲסוּרִין מִשּׁוּם בִּשּׁוּלֵי עַכּוּ\"ם בְּמָקוֹם שֶׁעוֹלִין עַל שֻׁלְחַן מְלָכִים מִשּׁוּם פַּרְפֶּרֶת. וּמִשּׁוּם גִּעוּלֵי עַכּוּ\"ם בְּכָל מָקוֹם שֶׁמָּא יְבַשְּׁלוּ אוֹתָן עִם הַבָּשָׂר אוֹ בּ…",
+          "it": "Stoviglie nuove acquistate da un artigiano ebreo: non richiedono immersione. Quelle acquistate da un artigiano gentile — richiedono immersione."
+        },
+        {
+          "n": 19,
+          "he": "עַכּוּ\"ם שֶׁבִּשֵּׁל וְלֹא נִתְכַּוֵּן לְבִשּׁוּל הֲרֵי זֶה מֻתָּר. כֵּיצַד. עַכּוּ\"ם שֶׁהִצִּית אוּר בַּאֲגַם כְּדֵי לְהַעֲבִיר הֶחָצִיר וְנִתְבַּשְּׁלוּ בָּהּ חֲגָבִים הֲרֵי אֵלּוּ מֻתָּרִין. וַאֲפִלּוּ בְּמָקוֹם שֶׁהֵן עוֹלִין עַל שֻׁלְחַן מְלָכִים מִשּׁוּם פַּרְפֶּרֶת. וְכֵן אִם חָרַךְ הָרֹאשׁ ל…",
+          "it": "Chi riceve in prestito stoviglie da un gentile: non richiede immersione, poiché non ha acquistato la proprietà."
+        },
+        {
+          "n": 20,
+          "he": "תְּמָרִים שֶׁשָּׁלְקוּ אוֹתָן עַכּוּ\"ם אִם הָיוּ מְתוּקִין מִתְּחִלָּתָן הֲרֵי אֵלּוּ מֻתָּרִין. וְאִם הָיוּ מָרִין וּמְתַקְּנִין הַבִּשּׁוּל הֲרֵי אֵלּוּ אֲסוּרִין. הָיוּ בֵּינוֹנִיִּים הֲרֵי אֵלּוּ אֲסוּרִין:",
+          "it": "Il principio della kasherizzazione (hechsher keilim): ogni utensile si kasherizza secondo il modo in cui è stato usato — ciò che è stato usato nel liquido bollente si purifica nel liquido bollente; ciò che è stato usato direttamente al fuoco si purifica al fuoco."
+        },
+        {
+          "n": 21,
+          "he": "קָלִי שֶׁל עֲדָשִׁים שֶׁלָּשׁוֹ בֵּין בְּמַיִם בֵּין בְּחֹמֶץ הֲרֵי זֶה אָסוּר. אֲבָל קָלִי שֶׁל חִטִּים וּשְׂעוֹרִים שֶׁלָּשִׁין אוֹתָן בְּמַיִם הֲרֵי זֶה מֻתָּר:",
+          "it": "Stoviglie di materiali sintetici moderni: i decisori contemporanei le trattano generalmente come il metallo — richiedono hag'alah o libun a seconda dell'uso."
+        },
+        {
+          "n": 22,
+          "he": "שֶׁמֶן שֶׁל עַכּוּ\"ם מֻתָּר. וּמִי שֶׁאוֹסְרוֹ הֲרֵי זֶה עוֹמֵד בְּחֵטְא גָּדוֹל. מִפְּנֵי שֶׁמַּמְרֶה עַל פִּי בֵּית דִּין שֶׁהִתִּירוּהוּ. וַאֲפִלּוּ נִתְבַּשֵּׁל הַשֶּׁמֶן הֲרֵי זֶה מֻתָּר. וְאֵינוֹ נֶאֱסָר לֹא מִפְּנֵי בִּשּׁוּלֵי עַכּוּ\"ם מִפְּנֵי שֶׁנֶּאֱכָל כְּמוֹת שֶׁהוּא חַי. וְלֹא מִפְּנֵי…",
+          "it": "Il mikveh per l'immersione delle stoviglie deve avere le stesse misure del mikveh per persone — quaranta se'ah di acqua valida per la purificazione."
+        },
+        {
+          "n": 23,
+          "he": "וְכֵן דְּבַשׁ שֶׁל עַכּוּ\"ם שֶׁנִּתְבַּשֵּׁל וְעָשׂוּ מִמֶּנּוּ מִינֵי מְתִיקָה מֻתָּר מִטַּעַם זֶה:",
+          "it": "Se si immerge una stoviglia con i fori chiusi dalla mano o con altri oggetti a contatto — l'immersione non è valida, poiché l'acqua non raggiunge tutte le parti."
+        },
+        {
+          "n": 24,
+          "he": "כּוֹסְפָן שֶׁל עַכּוּ\"ם שֶׁהוּחַמּוּ חַמִּין בֵּין בְּיוֹרָה גְּדוֹלָה בֵּין בְּיוֹרָה קְטַנָּה מֻתָּר מִפְּנֵי שֶׁנּוֹתֵן טַעַם לִפְגָם הוּא. וְכֵן כְּבָשִׁין שֶׁאֵין דַּרְכָּן לָתֵת לְתוֹכָן חֹמֶץ אוֹ יַיִן אוֹ זֵיתִים הַכְּבוּשִׁין וַחֲגָבִים הַכְּבוּשִׁין שֶׁבָּאִין מִן הָאוֹצָר מֻתָּרִין. אֲבָל…",
+          "it": "Stoviglie che non richiedono immersione per legge ma che è buona usanza immergerle: si immergono senza benedizione."
+        },
+        {
+          "n": 25,
+          "he": "וּמִפְּנֵי מָה אָסְרוּ חֹמֶץ שֵׁכָר שֶׁל עַכּוּ\"ם מִפְּנֵי שֶׁמַּשְׁלִיכִין לְתוֹכוֹ שִׁמְרֵי יַיִן. לְפִיכָךְ הַנִּלְקָח מִן הָאוֹצָר מֻתָּר:",
+          "it": "Riepilogo della kasherizzazione: terracotta — non si può kasherizzare; metallo — hag'alah o libun; vetro — hag'alah rabbinica; legno — lavaggio; tutti richiedono immersione nel mikveh se acquistati da gentili."
+        },
+        {
+          "n": 26,
+          "he": "הַמּוּרְיָס בְּמָקוֹם שֶׁדַּרְכָּן לָתֵת לְתוֹכוֹ יַיִן אָסוּר. וְאִם הָיָה הַיַּיִן יָקָר מִן הַמּוּרְיָס מֻתָּר. וְכָזֶה מוֹרִין בְּכָל דָּבָר שֶׁחוֹשְׁשִׁין לוֹ שֶׁמָּא עֵרְבוּ בּוֹ הָעַכּוּ\"ם דָּבָר אָסוּר. שֶׁאֵין אָדָם מְעָרֵב דָּבָר הַיָּקָר בְּזוֹל שֶׁהֲרֵי מַפְסִיד. אֲבָל מְעָרֵב הַזּוֹל בּ…",
+          "it": "Chi usa stoviglie non kasherizzate per cibi caldi — il cibo è proibito. Per cibi freddi — il cibo è permesso, poiché il sapore assorbito nelle stoviglie fredde non si trasferisce."
+        },
+        {
+          "n": 27,
+          "he": "קָטָן שֶׁאָכַל אֶחָד מִמַּאֲכָלוֹת אֲסוּרוֹת. אוֹ שֶׁעָשָׂה מְלָאכָה בְּשַׁבָּת. אֵין בֵּית דִּין מְצֻוִּין עָלָיו לְהַפְרִישׁוֹ לְפִי שֶׁאֵינוֹ בֶּן דַּעַת. בַּמֶּה דְּבָרִים אֲמוּרִים בְּשֶׁעָשָׂה מֵעַצְמוֹ. אֲבָל לְהַאֲכִילוֹ בְּיָדַיִם אָסוּר וַאֲפִלּוּ דְּבָרִים שֶׁאִסּוּרָן מִדִּבְרֵי סוֹפְרִי…",
+          "it": "Il principio del kli sheni (recipiente secondario): ciò che viene versato da una pentola bollente in un secondo recipiente non trasmette sapori proibiti con la stessa intensità."
+        },
+        {
+          "n": 28,
+          "he": "אַף עַל פִּי שֶׁאֵין בֵּית דִּין מְצֻוִּין לְהַפְרִישׁ אֶת הַקָּטָן. מִצְוָה עַל אָבִיו לִגְעֹר בּוֹ וּלְהַפְרִישׁוֹ כְּדֵי לְחַנְּכוֹ בִּקְדֻשָּׁה. שֶׁנֶּאֱמַר (משלי כב ו) \"חֲנֹךְ לַנַּעַר עַל פִּי דַרְכּוֹ\" וְגוֹ':",
+          "it": "Il vapore (zuhama) che sale dalla pentola con cibo proibito verso un coperchio: se il coperchio gocciola di ritorno nel cibo kasher — il cibo è proibito."
+        },
+        {
+          "n": 29,
+          "he": "אָסְרוּ חֲכָמִים מַאֲכָלוֹת וּמַשְׁקִין שֶׁנֶּפֶשׁ רֹב בְּנֵי אָדָם קִהָה מֵהֶן כְּגוֹן מַאֲכָלוֹת וּמַשְׁקִין שֶׁנִּתְעָרֵב בָּהֶן קִיא אוֹ צוֹאָה וְלֵחָה סְרוּחָה וְכַיּוֹצֵא בָּהֶן. וְכֵן אָסְרוּ חֲכָמִים לֶאֱכֹל וְלִשְׁתּוֹת בְּכֵלִים הַצּוֹאִים שֶׁנַּפְשׁוֹ שֶׁל אָדָם מִתְאוֹנֶנֶת מֵהֶם. כְּגוֹ…",
+          "it": "Il libun gamur richiede che le stoviglie si arrossino al fuoco fino a che le scintille escano o la superficie esterna si scrosti; il libun kal è sufficiente per stoviglie usate con liquidi."
+        },
+        {
+          "n": 30,
+          "he": "וְכֵן אָסְרוּ לֶאֱכֹל בְּיָדַיִם מְסֹאָבוֹת מְזֹהָמוֹת. וְעַל גַּבֵּי כֵּלִים מְלֻכְלָכִים. שֶׁכָּל דְּבָרִים אֵלּוּ בִּכְלַל (ויקרא יא מג) \"אַל תְּשַׁקְּצוּ אֶת נַפְשֹׁתֵיכֶם\". וְהָאוֹכֵל מַאֲכָלוֹת אֵלּוּ מַכִּין אוֹתוֹ מַכַּת מַרְדּוּת:",
+          "it": "Il sale usato per la salatura di carne non kasher: se poi usato per la salatura di carne kasher — la rende proibita, poiché il sale assorbe e trasferisce i sapori."
+        },
+        {
+          "n": 31,
+          "he": "וְכֵן אָסוּר לְאָדָם שֶׁיַּשְׁהֶה אֶת נְקָבָיו כְּלָל בֵּין גְּדוֹלִים בֵּין קְטַנִּים. וְכָל הַמַּשְׁהֶה נְקָבָיו הֲרֵי זֶה בִּכְלַל מְשַׁקֵּץ נַפְשׁוֹ. יֶתֶר עַל חֳלָאִים רָעִים שֶׁיָּבִיא עַל עַצְמוֹ וְיִתְחַיֵּב בְּנַפְשׁוֹ. אֶלָּא רָאוּי לוֹ לְהַרְגִּיל עַצְמוֹ בְּעִתִּים מְזֻמָּנִים כְּדֵי שֶׁ…",
+          "it": "Chiunque si astenga da queste cose porta santità e purezza aggiuntiva alla propria anima e la purifica per il Nome del Santo Benedetto Egli sia, come è detto (Vayikra 11:44): «Santificatevi e siate santi»."
+        },
+        {
+          "n": 32,
+          "he": "וְכָל הַנִּזְהָר בִּדְבָרִים אֵלּוּ מֵבִיא קְדֻשָּׁה וְטָהֳרָה יְתֵרָה לְנַפְשׁוֹ. וּמְמָרֵק נַפְשׁוֹ לְשֵׁם הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁנֶּאֱמַר (ויקרא יא מד) \"וְהִתְקַדִּשְׁתֶּם וִהְיִיתֶם קְדשִׁים כִּי קָדוֹשׁ אָנִי\":",
+          "it": "Chiunque si astenga scrupolosamente da questi divieti porta santità e purezza supplementare alla propria anima e la purifica per il Nome del Santo Benedetto Egli sia, come è detto (Vayikra 11:44): «Santificatevi e siate santi, poiché Io sono santo». La Torah ci ha proibito questi cibi non perché siano impuri di per sé, ma per santificare e purificare il popolo d'Israele."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Ritual Slaughter 1",
+      "name_he": "הלכות שחיטה, פרק א",
+      "name_it": "Leggi della macellazione rituale (Hilchot Shechità) — capitolo 1: obbligo della shechità e copertura del sangue",
+      "halachot_count": 29,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "מִצְוַת עֲשֵׂה שֶׁיִּשְׁחֹט מִי שֶׁיִּרְצֶה לֶאֱכל בְּשַׂר בְּהֵמָה חַיָּה וְעוֹף וְאַחַר כָּךְ יֹאכַל שֶׁנֶּאֱמַר (דברים יב כא) \"וְזָבַחְתָּ מִבְּקָרְךָ וּמִצֹּאנְךָ\". וְנֶאֱמַר בִּבְכוֹר בַּעַל מוּם (דברים יב כב) \"אַךְ כַּאֲשֶׁר יֵאָכֵל אֶת הַצְּבִי וְאֶת הָאַיָּל\". הָא לָמַדְתָּ שֶׁחַיָּה כִּבְהֵ…",
+          "it": "È un comandamento positivo che chiunque voglia mangiare carne di animale domestico, animale selvatico o uccello debba prima sgozzarlo (shochet) e poi mangiarne, poiché è detto (Devarim 12:21): «E sgozzerai del tuo bestiame e del tuo gregge». La shechità è dunque la via prescritta dalla Torah per rendere permessa la carne."
+        },
+        {
+          "n": 2,
+          "he": "וְהִלְכוֹת שְׁחִיטָה בְּכֻלָּן אַחַת הֵן. לְפִיכָךְ הַשּׁוֹחֵט בְּהֵמָה אוֹ חַיָּה אוֹ עוֹף מְבָרֵךְ תְּחִלָּה אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל הַשְּׁחִיטָה. וְאִם לֹא בֵּרֵךְ בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד הַבָּשָׂר מֻתָּר. וְאָסוּר לֶאֱכל מִן הַשְּׁחוּטָה כָּל זְמַן שֶׁהִיא מְפַרְ…",
+          "it": "Le leggi della shechità sono identiche per tutti — animale domestico (behemah), animale selvatico (chayyah) e uccello. Pertanto, chi sgozza un animale, una bestia selvatica o un uccello recita prima la benedizione: «...che ci ha santificato con i Suoi comandamenti e ci ha ordinato riguardo alla shechità»."
+        },
+        {
+          "n": 3,
+          "he": "דָּגִים וַחֲגָבִים אֵינָן צְרִיכִים שְׁחִיטָה אֶלָּא אֲסִיפָתָן הִיא הַמַּתֶּרֶת אוֹתָן. הֲרֵי הוּא אוֹמֵר (במדבר יא כב) \"הֲצֹאן וּבָקָר יִשָּׁחֵט לָהֶם וּמָצָא לָהֶם אִם אֶת כָּל דְּגֵי הַיָּם יֵאָסֵף לָהֶם\", אֲסֵפַת דָּגִים כִּשְׁחִיטַת בָּקָר וְצֹאן. וּבַחֲגָבִים נֶאֱמַר (ישעיה לג ד) \"אֹסֶף הֶחָס…",
+          "it": "I pesci e le cavallette non richiedono shechità; la loro raccolta li rende permessi, come è detto (Bemidbar 11:22): «Verranno sgozzati il bestiame e il gregge per loro... o verranno raccolti per loro tutti i pesci del mare»."
+        },
+        {
+          "n": 4,
+          "he": "זְבִיחָה זוֹ הָאֲמוּרָה בַּתּוֹרָה סְתָם צָרִיךְ לְפָרֵשׁ אוֹתָהּ וְלֵידַע בְּאֵי זֶה מָקוֹם מִן הַבְּהֵמָה שׁוֹחֲטִין. וְכַמָּה שִׁעוּר הַשְּׁחִיטָה. וּבְאֵי זֶה דָּבָר שׁוֹחֲטִין. וּמָתַי שׁוֹחֲטִין. וְהֵיכָן שׁוֹחֲטִין. וְכֵיצַד שׁוֹחֲטִין. וּמַה הֵן הַדְּבָרִים הַמַּפְסִידִין אֶת הַשְּׁחִיטָה. ו…",
+          "it": "La shechità è valida solo recidendo la trachea (kaneh) e l'esofago (veshet). Per gli animali: occorre recidere la maggior parte di entrambi. Per gli uccelli: è sufficiente recidere la maggior parte di uno dei due."
+        },
+        {
+          "n": 5,
+          "he": "מְקוֹם הַשְּׁחִיטָה מִן הַחַי הוּא הַצַּוָּאר. וְכָל הַצַּוָּאר כָּשֵׁר לִשְׁחִיטָה. כֵּיצַד. בַּוֵּשֶׁט מִתְּחִלַּת הַמָּקוֹם שֶׁכְּשֶׁחוֹתְכִין אוֹתוֹ מִתְכַּוֵּץ עַד מָקוֹם שֶׁיַּשְׂעִיר וְיַתְחִיל לִהְיוֹת פְּרָצִין פְּרָצִין כְּכֶרֶס. זֶה הוּא מְקוֹם הַשְּׁחִיטָה בַּוֵּשֶׁט:",
+          "it": "Dove si taglia? Nel collo, nell'area tra le due giunture — dalla giuntura inferiore fino alla giuntura superiore della testa. Questa è l'area designata per la shechità."
+        },
+        {
+          "n": 6,
+          "he": "שָׁחַט לְמַעְלָה מִמָּקוֹם זֶה וְהוּא הַנִּקְרָא תַּרְבַּץ הַוֵּשֶׁט אוֹ לְמַטָּה מִמָּקוֹם זֶה וְהוּא מִתְּחִלַּת בְּנֵי מֵעַיִם שְׁחִיטָתוֹ פְּסוּלָה. וְשִׁעוּר תַּרְבַּץ הַוֵּשֶׁט שֶׁאֵינוֹ רָאוּי לִשְׁחִיטָה לְמַעְלָה בִּבְהֵמָה וְחַיָּה כְּדֵי שֶׁיֹּאחַז בִּשְׁתֵּי אֶצְבְּעוֹתָיו וּבְעוֹף הַכּל…",
+          "it": "La giuntura superiore è il luogo in cui il collo si unisce alla testa; la giuntura inferiore è il luogo in cui il collo si unisce al corpo. Tra di esse — questo è il luogo della shechità."
+        },
+        {
+          "n": 7,
+          "he": "וְאֵי זֶה הוּא מְקוֹם שְׁחִיטָה בַּקָּנֶה. מִשִּׁפּוּי כּוֹבַע וּלְמַטָּה עַד רֹאשׁ כְּנַף הָרֵאָה כְּשֶׁתִּמְשֹׁךְ הַבְּהֵמָה צַוָּארָהּ לִרְעוֹת. זֶה הוּא מְקוֹם הַשְּׁחִיטָה בַּקָּנֶה. וְכָל שֶׁכְּנֶגֶד הַמָּקוֹם הַזֶּה מִבַּחוּץ נִקְרָא צַוָּאר:",
+          "it": "Se si tagliò al di sopra della giuntura superiore (nella testa stessa) — la shechità è invalida (pasula). Se si tagliò al di sotto della giuntura inferiore (nel petto) — la shechità è invalida."
+        },
+        {
+          "n": 8,
+          "he": "אָנְסָה הַבְּהֵמָה עַצְמָהּ וּמָשְׁכָה צַוָּארָהּ הַרְבֵּה אוֹ שֶׁאִנֵּס הַשּׁוֹחֵט אֶת הַסִּימָנִין וּמְשָׁכָן לְמַעְלָה וְשָׁחַט בִּמְקוֹם שְׁחִיטָה בַּצַּוָּאר וְנִמְצֵאת הַשְּׁחִיטָה בַּקָּנֶה אוֹ בַּוֵּשֶׁט שֶׁלֹּא בִּמְקוֹם שְׁחִיטָה הֲרֵי זֶה סְפֵק נְבֵלָה:",
+          "it": "Per gli uccelli: si taglia nello stesso luogo, nel collo. Ma per gli uccelli è sufficiente la maggior parte di uno dei due condotti."
+        },
+        {
+          "n": 9,
+          "he": "וְצָרִיךְ הַשּׁוֹחֵט שֶׁיִּשְׁחֹט בְּאֶמְצַע הַצַּוָּאר. וְאִם שָׁחַט מִן הַצְּדָדִין שְׁחִיטָתוֹ כְּשֵׁרָה. וְכַמָּה הוּא שִׁעוּר הַשְּׁחִיטָה. שְׁנֵי הַסִּימָנִין שֶׁהֵן הַקָּנֶה וְהַוֵּשֶׁט הַשְּׁחִיטָה הַמְעֻלָּה שֶׁיֵּחָתְכוּ שְׁנֵיהֶן בֵּין בִּבְהֵמָה בֵּין בְּעוֹף. וְלָזֶה יִתְכַּוֵּן הַשּׁוֹ…",
+          "it": "Il coltello da shechità (chalef) deve essere esaminato attentamente prima dell'uso: deve essere liscio, privo di intacche (pegimot), e affilato. L'esame si fa passando il polpastrello lungo il filo del coltello in tre direzioni: senso della lunghezza, senso trasversale, e senso obliquo."
+        },
+        {
+          "n": 10,
+          "he": "שָׁחַט הָאֶחָד כֻּלּוֹ וְחֶצְיָהּ הַשֵּׁנִי בִּבְהֵמָה שְׁחִיטָתוֹ פְּסוּלָה. רֻבּוֹ שֶׁל זֶה וְרֻבּוֹ שֶׁל זֶה אַף עַל פִּי שֶׁלֹּא שָׁחַט מִכָּל אֶחָד מֵהֶן אֶלָּא יֶתֶר עַל חֶצְיוֹ כְּחוּט הַשַּׂעֲרָה הֲרֵי זוֹ כְּשֵׁרָה. כֵּיוָן שֶׁשָּׁחַט יֶתֶר עַל חֶצְיוֹ כָּל שֶׁהוּא רֻבּוֹ הוּא:",
+          "it": "Se si trova un'intacca sul coltello — la shechità con quel coltello è invalida e l'animale è un neveilà. Se si trovò l'intacca dopo la shechità e non si sa se era lì prima — l'animale è proibito per dubbio."
+        },
+        {
+          "n": 11,
+          "he": "שָׁחַט חֶצְיוֹ שֶׁל זֶה וְחֶצְיוֹ שֶׁל זֶה אֲפִלּוּ בְּעוֹף שְׁחִיטָתוֹ פְּסוּלָה. קָנֶה שֶׁהָיָה חֶצְיוֹ פָּסוּק וְשָׁחַט עַל מָקוֹם הֶחָתוּךְ מְעַט וְהִשְׁלִימוֹ לְרֹב בֵּין שֶׁהִתְחִיל לִשְׁחֹט בַּמָּקוֹם הַשָּׁלֵם וּפָגַע בַּחֲתָךְ בֵּין שֶׁהִכְנִיס אֶת הַסַּכִּין בַּחֲתָךְ וְהִשְׁלִימוֹ לְרֹב ש…",
+          "it": "Chi sgozza deve esaminare il coltello prima di sgozzare. Se sgozzò senza esaminare — la shechità è kasher ma è stato negligente. Se dopo l'esame il coltello è kasher — l'animale è permesso."
+        },
+        {
+          "n": 12,
+          "he": "כָּל הַשּׁוֹחֵט צָרִיךְ לִבְדֹּק הַסִּימָנִין לְאַחַר שְׁחִיטָה. וְאִם לֹא בָּדַק וְנֶחְתַּךְ הָרֹאשׁ קֹדֶם שֶׁיִּבָּדֵק הֲרֵי זוֹ נְבֵלָה. וַאֲפִלּוּ הָיָה הַשּׁוֹחֵט זָרִיז וּמָהִיר:",
+          "it": "Chi ha il diritto di sgozzare? Qualsiasi persona — uomo o donna, schiavo o schiava — che conosce le leggi della shechità. Un sordo-muto, un imbecille (shoteh) o un minore non possono sgozzare inizialmente; se sgozzarono in presenza di altri esperti — la shechità è valida."
+        },
+        {
+          "n": 13,
+          "he": "כָּל בְּהֵמָה בְּחַיֶּיהָ בְּחֶזְקַת אִסּוּר עוֹמֶדֶת עַד שֶׁיִּוָּדַע בְּוַדַּאי שֶׁנִּשְׁחֲטָה שְׁחִיטָה כְּשֵׁרָה:",
+          "it": "Un gentile che sgozza — anche in presenza di ebrei e con coltello kasher: la shechità è invalida e l'animale è neveilà, poiché il gentile non è obbligato nel comandamento."
+        },
+        {
+          "n": 14,
+          "he": "ובְּאֵי זֶה דָּבָר שׁוֹחֲטִין. בְּכָל דָּבָר בֵּין בְּסַכִּין שֶׁל מַתֶּכֶת בֵּין בְּצוּר אוֹ בִּזְכוּכִית אוֹ בִּקְרוּמִית שֶׁל קְנֵה הָאֲגַם וְכַיּוֹצֵא בָּהֶן מִדְּבָרִים הַחוֹתְכִין. וְהוּא שֶׁיִּהְיֶה פִּיהָ חַד וְלֹא יִהְיֶה בָּהּ פְּגָם. אֲבָל אִם הָיָה כְּמוֹ תֶּלֶם בְּחֻדּוֹ שֶׁל דָּבָר שֶׁ…",
+          "it": "Un apostata ebreo (mumar) che sgozza: la sua shechità è valida per alcuni decisori, dubbia per altri. La pratica comune è di non mangiare dalla sua shechità lechatchilah."
+        },
+        {
+          "n": 15,
+          "he": "הָיָה הַתֶּלֶם הַזֶּה מֵרוּחַ אַחַת לֹא יִשְׁחֹט בָּהּ. וְאִם שָׁחַט דֶּרֶךְ הָרוּחַ שֶׁאֵין הַפְּגִימָה נִכֶּרֶת בָּהּ שְׁחִיטָתוֹ כְּשֵׁרָה:",
+          "it": "Un israelita cieco che sgozza: la shechità è valida se altri supervisionano che stia tagliando nel posto giusto con il coltello giusto."
+        },
+        {
+          "n": 16,
+          "he": "כֵּיצַד. סַכִּין שֶׁתִּבָּדֵק בְּהוֹלָכָה וְלֹא תַּרְגִּישׁ שֶׁיֵּשׁ בָּהּ פְּגָם וּכְשֶׁתַּחְזִיר אוֹתָהּ בַּהֲבָאָה תַּרְגִּישׁ שֶׁיֵּשׁ בָּהּ פְּגָם. אִם שָׁחַט בָּהּ דֶּרֶךְ הוֹלָכָה וְלֹא הֵבִיא שְׁחִיטָתוֹ כְּשֵׁרָה. וְאִם הֵבִיא שְׁחִיטָתוֹ פְּסוּלָה:",
+          "it": "Chi sgozza deve intendere di sgozzare per rendere permessa la carne. Se sgozzò senza alcuna intenzione — è invalido."
+        },
+        {
+          "n": 17,
+          "he": "סַכִּין שֶׁהִיא עוֹלָה וְיוֹרֶדֶת כְּנָחָשׁ וְאֵין בָּהּ פְּגָם שׁוֹחֲטִין בָּהּ לְכַתְּחִלָּה. וסַכִּין שֶׁפִּיהָ חָלָק וְאֵינָהּ חַדָּה הוֹאִיל וְאֵין בָּהּ פְּגָם שׁוֹחֲטִין בָּהּ. וְאַף עַל פִּי שֶׁהוֹלִיךְ וְהֵבִיא בָּהּ כָּל הַיּוֹם עַד שֶׁשָּׁחְטָה שְׁחִיטָתוֹ כְּשֵׁרָה:",
+          "it": "La shechità di notte è permessa purché ci sia luce sufficiente. All'aperto di notte senza luce — non si deve sgozzare lechatchilah."
+        },
+        {
+          "n": 18,
+          "he": "סַכִּין חַדָּה שֶׁהֻשְׁחֲזָה וַהֲרֵי אֵינָהּ חֲלָקָה אֶלָּא מַגָּעָתָהּ כְּמַגָּע רֹאשׁ הַשִּׁבּלֶת שֶׁהוּא מִסְתַּבֵּךְ בְּאֶצְבַּע. הוֹאִיל וְאֵין בָּהּ פְּגָם שׁוֹחֲטִין בָּהּ:",
+          "it": "Chi sgozza per pikuach nefesh (pericolo di vita) in Shabbat — la shechità è kasher."
+        },
+        {
+          "n": 19,
+          "he": "הַתּוֹלֵשׁ קָנֶה אוֹ שֵׁן אוֹ שֶׁקָּצַץ צוּר אוֹ צִפֹּרֶן וַהֲרֵי הֵן חַדִּין וְאֵין בָּהֶן פְּגָם שׁוֹחֲטִין בָּהֶן. וְאִם נְעָצָן בַּקַּרְקַע לֹא יִשְׁחֹט בָּהֶן כְּשֶׁהֵן נְעוּצִין. וְאִם שָׁחַט שְׁחִיטָתוֹ כְּשֵׁרָה:",
+          "it": "Il sangue (dam) che esce dalla shechità degli animali selvatici e degli uccelli deve essere coperto con terra — obbligo di kisui ha-dam (copertura del sangue). Non si applica agli animali domestici."
+        },
+        {
+          "n": 20,
+          "he": "שָׁחַט בָּהֶן כְּשֶׁהֵן מְחֻבָּרִין מִתְּחִלַּת בְּרִיָּתָן קֹדֶם שֶׁיַּעֲקֹר אוֹתָן שְׁחִיטָתוֹ פְּסוּלָה. וְאַף עַל פִּי שֶׁאֵין בָּהֶם פְּגָם:",
+          "it": "Come si copre il sangue? Si mette terra sotto il punto di shechità, si sgozza sopra, poi si copre con altra terra dall'alto. La terra deve essere fine e sciolta."
+        },
+        {
+          "n": 21,
+          "he": "לָקַח לְחִי בְּהֵמָה שֶׁיֵּשׁ בּוֹ שִׁנַּיִם חַדּוֹת וְשָׁחַט בָּהֶן שְׁחִיטָתוֹ פְּסוּלָה. מִפְּנֵי שֶׁהֵן כְּמַגָּל. אֲבָל בְּשֵׁן אַחַת הַקְּבוּעָה בַּלֶּחִי שׁוֹחֵט בָּהּ לְכַתְּחִלָּה וְאַף עַל פִּי שֶׁהִיא קְבוּעָה בּוֹ:",
+          "it": "Chi sgozza deve coprire il sangue immediatamente dopo la shechità. Se non copre — riceve flagellazione rabbinica ma la carne è permessa."
+        },
+        {
+          "n": 22,
+          "he": "לִבֵּן הַסַּכִּין בָּאוּר וְשָׁחַט בָּהּ שְׁחִיטָתוֹ כְּשֵׁרָה. סַכִּין שֶׁצִּדָּהּ אֶחָד מַגָּל וְצִדָּהּ הַשֵּׁנִי יָפֶה לֹא יִשְׁחֹט בַּצַּד הַיָּפֶה לְכַתְּחִלָּה גְּזֵרָה שֶׁמָּא יִשְׁחֹט בַּצַּד הָאַחֵר. וְאִם שָׁחַט הוֹאִיל וּבַצַּד הַיָּפֶה שָׁחַט שְׁחִיטָתוֹ כְּשֵׁרָה:",
+          "it": "L'obbligo di kisui ha-dam si applica ovunque, anche fuori dalla Terra d'Israele, anche nei nostri giorni."
+        },
+        {
+          "n": 23,
+          "he": "הַשּׁוֹחֵט צָרִיךְ שֶׁיִּבְדֹּק הַסַּכִּין בְּחֻדָּהּ וּמִצַּד זֶה וּמִצַּד זֶה. וְכֵיצַד בּוֹדְקָהּ. מוֹלִיכָהּ וּמְבִיאָהּ עַל בְּשַׂר אֶצְבָּעוֹ וּמוֹלִיכָהּ וּמְבִיאָהּ עַל צִפָּרְנוֹ מִשָּׁלֹשׁ רוּחוֹתֶיהָ שֶׁהֵן פִּיהָ וּשְׁנֵי צְדָדָיו כְּדֵי שֶׁלֹּא יִהְיֶה בָּהּ פְּגָם כְּלָל וְאַחַר כָּךְ …",
+          "it": "Se il sangue fu coperto dal vento prima che l'uomo lo coprisse: è esente dall'obbligo, poiché il vento ha già compiuto la copertura."
+        },
+        {
+          "n": 24,
+          "he": "וְצָרִיךְ לִבְדֹּק כֵּן אַחַר הַשְּׁחִיטָה שֶׁאִם מָצָא בָּהּ פְּגָם אַחַר הַשְּׁחִיטָה הֲרֵי זוֹ סְפֵק נְבֵלָה שֶׁמָּא בָּעוֹר נִפְגְּמָה וּכְשֶׁשָּׁחַט הַסִּימָנִים בְּסַכִּין פְּגוּמָה שָׁחַט. לְפִיכָךְ הַשּׁוֹחֵט בְּהֵמוֹת רַבּוֹת אוֹ עוֹפוֹת רַבִּים צָרִיךְ לִבְדֹּק בֵּין כָּל אַחַת וְאַחַת. שׁ…",
+          "it": "Se diversi uccelli furono sgozzati insieme: si copre una volta sola alla fine, coprendo tutto il sangue insieme."
+        },
+        {
+          "n": 25,
+          "he": "בָּדַק הַסַּכִּין וְשָׁחַט בָּהּ וְלֹא בְּדָקָהּ אַחַר שְׁחִיטָה וְשָׁבַר בָּהּ עֶצֶם אוֹ עֵץ וְכַיּוֹצֵא בָּהֶן וְאַחַר כָּךְ בָּדַק וּמְצָאָהּ פְּגוּמָה שְׁחִיטָתוֹ כְּשֵׁרָה. שֶׁחֶזְקַת הַסַּכִּין שֶׁנִּפְגְּמָה בַּדָּבָר הַקָּשֶׁה שֶׁשָּׁבַר בָּהּ. וְכֵן אִם פָּשַׁע וְלֹא בָּדַק הַסַּכִּין אוֹ ש…",
+          "it": "Il sangue di pesce e cavallette non richiede copertura, poiché essi non richiedono shechità."
+        },
+        {
+          "n": 26,
+          "he": "כָּל טַבָּח שֶׁלֹּא בָּדַק הַסַּכִּין שֶׁלּוֹ שֶׁשּׁוֹחֵט בָּהּ לִפְנֵי חָכָם וְשָׁחַט בָּהּ לְעַצְמוֹ בּוֹדְקִין אוֹתָהּ. אִם נִמְצֵאת יָפָה וּבְדוּקָה מְנַדִּין אוֹתוֹ לְפִי שֶׁיִּסְמֹךְ עַל עַצְמוֹ פַּעַם אַחֶרֶת וְתִהְיֶה פְּגוּמָה וְיִשְׁחֹט בָּהּ. ואִם נִמְצֵאת פְּגוּמָה מַעֲבִירִין אוֹתוֹ וּמ…",
+          "it": "Chi copre il sangue deve recitare la benedizione: «...e ci ha ordinato riguardo alla copertura del sangue»."
+        },
+        {
+          "n": 27,
+          "he": "כַּמָּה הוּא אֹרֶךְ הַסַּכִּין שֶׁשּׁוֹחֵט. כָּל שֶׁהוּא. וְהוּא שֶׁלֹּא יִהְיֶה דָּבָר דַּק שֶׁנּוֹקֵב וְאֵינוֹ שׁוֹחֵט כְּמוֹ רֹאשׁ הָאִזְמֵל הַקָּטָן וְכַיּוֹצֵא בּוֹ:",
+          "it": "Se si dimentica di coprire il sangue e poi lo ricorda: lo copre anche dopo, anche molto più tardi. Non c'è termine per l'obbligo."
+        },
+        {
+          "n": 28,
+          "he": "וּמָתַי שׁוֹחֲטִין. בְּכָל זְמַן. בֵּין בַּיּוֹם בֵּין בַּלַּיְלָה. וְהוּא שֶׁתִּהְיֶה אֲבוּקָה עִמּוֹ כְּדֵי שֶׁיִּרְאֶה מַה יַּעֲשֶׂה. וְאִם שָׁחַט בַּאֲפֵלָה שְׁחִיטָתוֹ כְּשֵׁרָה:",
+          "it": "Il sangue delle vene e il sangue delle carni: non richiede copertura secondo la Torah, solo il sangue che sgorga dalla shechità."
+        },
+        {
+          "n": 29,
+          "he": "הַשּׁוֹחֵט בְּיוֹם הַכִּפּוּרִים אוֹ בְּשַׁבָּת בְּשׁוֹגֵג אַף עַל פִּי שֶׁאִלּוּ הָיָה מֵזִיד הָיָה מִתְחַיֵּב בְּנַפְשׁוֹ אוֹ מִתְחַיֵּב מַלְקוֹת עַל יוֹם הַכִּפּוּרִים שְׁחִיטָתוֹ כְּשֵׁרָה:",
+          "it": "Riepilogo del capitolo: la shechità è obbligatoria per rendere permessa la carne; richiede coltello esaminato, luogo preciso nel collo, persona qualificata e intenzione. La copertura del sangue segue obbligatoriamente per animali selvatici e uccelli."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Ritual Slaughter 2",
+      "name_he": "הלכות שחיטה, פרק ב",
+      "name_it": "Leggi della macellazione rituale — capitolo 2: dove e come si sgozza, recisione dei condotti",
+      "halachot_count": 22,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "בְכָל מָקוֹם מֻתָּר לִשְׁחֹט חוּץ מִן הָעֲזָרָה. שֶׁאֵין שׁוֹחֲטִין בָּעֲזָרָה אֶלָּא קָדְשֵׁי מִזְבֵּחַ בִּלְבַד. אֲבָל הַחֻלִּין אָסוּר לְשָׁחֳטָן בָּעֲזָרָה בֵּין בְּהֵמָה בֵּין חַיָּה בֵּין עוֹף. וְכֵן הוּא אוֹמֵר בִּבְשַׂר תַּאֲוָה (דברים יב כא) \"כִּי יִרְחַק מִמְּךָ הַמָּקוֹם אֲשֶׁר יִבְחַר ה'…",
+          "it": "Si può sgozzare in qualunque luogo, tranne che nell'Atrio del Tempio (Azarah), dove si sgozzano solo le offerte sacre dell'altare. Gli animali non sacri (chulin) non si sgozzano nell'Azarah; se vi furono sgozzati — la shechità è invalida e l'animale è come neveilà."
+        },
+        {
+          "n": 2,
+          "he": "וְזֶה שֶׁנִּשְׁחַט חוּץ לַמָּקוֹם הוּא שֶׁמֻּתָּר לְאָכְלוֹ בְּכָל הַשְּׁעָרִים. אֲבָל הַשּׁוֹחֵט חֻלִּין בָּעֲזָרָה אוֹתוֹ הַבָּשָׂר טָהוֹר וְאָסוּר בַּהֲנָיָה כְּבָשָׂר בְּחָלָב וְכַיּוֹצֵא בּוֹ. וְקוֹבְרִים אוֹתוֹ וְאֶפְרוֹ אָסוּר אֲפִלּוּ שָׁחַט לִרְפוּאָה אוֹ לַאֲכִילַת עַכּוּ\"ם אוֹ לְהַאֲכִיל …",
+          "it": "Ciò che viene sgozzato fuori dal luogo sacro è permesso al consumo in qualsiasi porta. Ma chi sgozza chulin nell'Azarah o offerte sacre fuori dall'Azarah — ha violato un divieto e la carne è proibita."
+        },
+        {
+          "n": 3,
+          "he": "וְלֹא בְּהֵמָה וְחַיָּה בִּלְבַד אֶלָּא כָּל הַחֻלִּין אָסוּר לְהַכְנִיסָן לַעֲזָרָה. אֲפִלּוּ בְּשַׂר שְׁחוּטָה אוֹ פֵּרוֹת וּפַת. אִם עָבַר וְהִכְנִיסָן מֻתָּרִין בַּאֲכִילָה כְּשֶׁהָיוּ. וּדְבָרִים אֵלּוּ כֻּלָּן דִּבְרֵי קַבָּלָה הֵן. וְכָל הַשּׁוֹחֵט חֻלִּין בָּעֲזָרָה אוֹ הָאוֹכֵל כְּזַיִת מִב…",
+          "it": "In qualsiasi altra sede del mondo: si può sgozzare ovunque — nel campo, nel deserto, nel cortile di una casa — purché ci sia luce sufficiente."
+        },
+        {
+          "n": 4,
+          "he": "הָאוֹמֵר בְּהֵמָה זוֹ שְׁלָמִים וּוְלָדָהּ חֻלִּין. אִם נִשְׁחֲטָה בָּעֲזָרָה וְלָדָהּ מֻתָּר בַּאֲכִילָה. לְפִי שֶׁאֵינוֹ יָכוֹל לִשְׁחֹט אוֹתוֹ בְּרִחוּק מָקוֹם:",
+          "it": "Chi sgozza su un sasso o su un muro o su qualcosa di affilato che non sia un coltello metallico: la shechità è valida, purché l'oggetto tagli senza che si pressi e senza intacche."
+        },
+        {
+          "n": 5,
+          "he": "אֵין שׁוֹחֲטִין לְתוֹךְ יַמִּים וּנְהָרוֹת שֶׁמָּא יֹאמְרוּ עוֹבֵד מַיִם הוּא זֶה וְנִרְאֶה כְּמַקְרִיב לַמַּיִם. וְלֹא יִשְׁחֹט לִכְלִי מָלֵא מַיִם שֶׁמָּא יֹאמְרוּ לַצּוּרָה שֶׁתֵּרָאֶה בַּמַּיִם שָׁחַט. וְלֹא יִשְׁחֹט בְּתוֹךְ כֵּלִים וְלֹא לְתוֹךְ הַגֻּמָּא שֶׁכֵּן דֶּרֶךְ עוֹבְדֵי עַכּוּ\"ם. וְא…",
+          "it": "Si può sgozzare con qualsiasi cosa che tagli — coltello di selce, di canna, di vetro — purché non abbia intacche. I Saggi hanno però istituito di sgozzare preferibilmente con un coltello metallico."
+        },
+        {
+          "n": 6,
+          "he": "שׁוֹחֲטִין לִכְלִי מַיִם עֲכוּרִין שֶׁאֵין הַצּוּרָה נִרְאֵית בָּהֶן. וְכֵן שׁוֹחֵט חוּץ לְגֻמָּא וְהַדָּם שׁוֹתֵת וְיוֹרֵד לַגֻּמָּא. וּבַשּׁוּק לֹא יַעֲשֶׂה כֵּן שֶׁמָּא יְחַקֶּה אֶת הַמִּינִים. וְאִם שָׁחַט לְגֻמָּא בַּשּׁוּק אָסוּר לֶאֱכל מִשְּׁחִיטָתוֹ עַד שֶׁיִּבְדְּקוּ אַחֲרָיו שֶׁמָּא מִין ה…",
+          "it": "Chi sgozza con una falce (magal) con il lato affilato, non con il lato dentato: la shechità è valida. Se usò il lato dentato — è invalida."
+        },
+        {
+          "n": 7,
+          "he": "כֵּיצַד שׁוֹחֲטִין. מוֹתֵחַ אֶת הַצַּוָּאר וּמוֹלִיךְ הַסַּכִּין וּמְבִיאָהּ עַד שֶׁשּׁוֹחֵט. בֵּין שֶׁהָיְתָה הַבְּהֵמָה רְבוּצָה בֵּין שֶׁהָיְתָה עוֹמֶדֶת וְאָחַז בְּעָרְפָּהּ וְהַסַּכִּין בְּיָדוֹ מִלְּמַטָּה וְשָׁחַט הֲרֵי זוֹ כְּשֵׁרָה:",
+          "it": "Se il coltello era fisso in un muro o nel terreno e l'animale fu trascinato contro di esso: la shechità è valida, purché siano soddisfatte tutte le condizioni."
+        },
+        {
+          "n": 8,
+          "he": "נָעַץ אֶת הַסַּכִּין בַּכֹּתֶל וְהֶעֱבִיר הַצַּוָּאר עָלֶיהָ עַד שֶׁנִּשְׁחַט שְׁחִיטָתוֹ כְּשֵׁרָה. וְהוּא שֶׁיִּהְיֶה צַוָּאר הַבְּהֵמָה לְמַטָּה וְסַכִּין לְמַעְלָה. שֶׁאִם הָיָה צַוַּאר בְּהֵמָה לְמַעְלָה מִן הַסַּכִּין שֶׁמָּא תֵּרֵד הַבְּהֵמָה בְּכֹבֶד גּוּפָהּ וְתֵחָתֵךְ בְּלֹא הוֹלָכָה וַהֲב…",
+          "it": "Chi sgozza con due coltelli contemporaneamente: la shechità è valida, purché recidano entrambi i condotti nello stesso movimento."
+        },
+        {
+          "n": 9,
+          "he": "הַשּׁוֹחֵט וְהוֹלִיךְ אֶת הַסַּכִּין וְלֹא הֱבִיאָהּ אוֹ הֱבִיאָהּ וְלֹא הוֹלִיכָהּ וְשָׁחַט שְׁחִיטָתוֹ כְּשֵׁרָה. הוֹלִיךְ וְהֵבִיא עַד שֶׁחָתַךְ הָרֹאשׁ וְהִתִּיזוֹ שְׁחִיטָתוֹ כְּשֵׁרָה. הוֹלִיךְ וְלֹא הֵבִיא אוֹ הֵבִיא וְלֹא הוֹלִיךְ וְהִתִּיז אֶת הָרֹאשׁ בְּהוֹלָכָה בִּלְבַד אוֹ בַּהֲבָאָה בִּ…",
+          "it": "Se la shechità fu eseguita a fette (poresat) — tagliando a poco a poco anziché in un movimento continuato — è invalida per il difetto di shehiyah (interruzione)."
+        },
+        {
+          "n": 10,
+          "he": "שְׁנַיִם שֶׁאָחֲזוּ בְּסַכִּין אֲפִלּוּ אֶחָד מִצַּד זֶה וְשֵׁנִי מִצַּד אַחֵר כְּנֶגְדּוֹ וְשָׁחֲטוּ שְׁחִיטָתָן כְּשֵׁרָה. וְכֵן שְׁנַיִם שֶׁאָחֲזוּ שְׁנֵי סַכִּינִין וְשָׁחֲטוּ כְּאֶחָד בִּשְׁנֵי מְקוֹמוֹת בַּצַּוָּאר שְׁחִיטָתָן כְּשֵׁרָה. וַאֲפִלּוּ שָׁחַט זֶה הַוֵּשֶׁט בִּלְבַד אוֹ רֻבּוֹ וְהַ…",
+          "it": "Chi sgozza un uccello e recide sia la trachea sia l'esofago con un solo colpo: la shechità è valida."
+        },
+        {
+          "n": 11,
+          "he": "אֵין שְׁחִיטַת הַחֻלִּין צְרִיכָה כַּוָּנָה אֶלָּא אֲפִלּוּ שָׁחַט כְּמִתְעַסֵּק אוֹ דֶּרֶךְ שְׂחוֹק אוֹ שֶׁזָּרַק סַכִּין לְנָעֳצָהּ בַּכֹּתֶל וְשָׁחֲטָה בַּהֲלִיכָתָהּ הוֹאִיל וְהַשְּׁחִיטָה כָּרָאוּי בִּמְקוֹמָהּ וְשִׁעוּרָהּ הֲרֵי זוֹ כְּשֵׁרָה:",
+          "it": "Chi sgozza e non sa se ha reciso la maggior parte dei condotti: deve controllare dopo la shechità."
+        },
+        {
+          "n": 12,
+          "he": "לְפִיכָךְ חֵרֵשׁ אוֹ שׁוֹטֶה אוֹ קָטָן אוֹ שִׁכּוֹר שֶׁנִּתְבַּלְבְּלָה דַּעְתּוֹ וּמִי שֶׁאֲחָזַתּוּ רוּחַ רָעָה שֶׁשָּׁחֲטוּ וַאֲחֵרִים רוֹאִין אוֹתָם שֶׁהַשְּׁחִיטָה כְּתִקְנָהּ הֲרֵי זוֹ כְּשֵׁרָה. אֲבָל סַכִּין שֶׁנָּפְלָה וְשָׁחֲטָה אַף עַל פִּי שֶׁשָּׁחֲטָה כְּדַרְכָּהּ הֲרֵי זוֹ פְּסוּלָה שׁ…",
+          "it": "La trachea è il tubo attraverso il quale si respira; l'esofago è il tubo attraverso il quale si ingerisce il cibo. Entrambi passano nel collo nella zona della shechità."
+        },
+        {
+          "n": 13,
+          "he": "גַּלְגַּל שֶׁל אֶבֶן אוֹ שֶׁל עֵץ שֶׁהָיְתָה הַסַּכִּין קְבוּעָה בּוֹ וְסִבֵּב אָדָם אֶת הַגַּלְגַּל וְשָׂם צַוַּאר הָעוֹף אוֹ הַבְּהֵמָה כְּנֶגְדּוֹ עַד שֶׁנִּשְׁחַט בִּסְבִיבַת הַגַּלְגַּל הֲרֵי זוֹ כְּשֵׁרָה. וְאִם הַמַּיִם הֵן הַמְסַבְּבִין אֶת הַגַּלְגַּל וְשָׂם אֶת הַצַּוָּאר כְּנֶגְדּוֹ בְּשׁ…",
+          "it": "Se si recise solo la trachea nell'animale senza l'esofago: la shechità è invalida. Se si recise solo l'esofago: invalida. Devono essere recisi entrambi nella loro maggior parte."
+        },
+        {
+          "n": 14,
+          "he": "הַשּׁוֹחֵט לְשֵׁם הָרִים לְשֵׁם גְּבָעוֹת לְשֵׁם יַמִּים לְשֵׁם נְהָרוֹת לְשֵׁם מִדְבָּרוֹת אַף עַל פִּי שֶׁלֹּא נִתְכַּוִּן לְעָבְדָן אֶלָּא לִרְפוּאָה וְכַיּוֹצֵא בָּהּ מִדִּבְרֵי הֲבַאי שֶׁאוֹמְרִין הָעַכּוּ\"ם הֲרֵי שְׁחִיטָתוֹ פְּסוּלָה. אֲבָל אִם שָׁחַט לְשֵׁם מַזַּל הַיָּם אוֹ מַזַּל הָהָר אוֹ…",
+          "it": "Per gli uccelli: se si recise la maggior parte della trachea senza toccare l'esofago — la shechità è valida. Se si recise la maggior parte dell'esofago senza toccare la trachea — la shechità è valida."
+        },
+        {
+          "n": 15,
+          "he": "הַשּׁוֹחֵט אֶת הַבְּהֵמָה לִזְרֹק דָּמָהּ לְעַכּוּ\"ם אוֹ לְהַקְטִיר חֶלְבָּהּ לְעַכּוּ\"ם הֲרֵי זוֹ אֲסוּרָה. שֶׁלְּמֵדִין מַחֲשָׁבָה בַּחוּץ בְּחֻלִּין מִמַּחְשֶׁבֶת הַקָּדָשִׁים בִּפְנִים. שֶׁמַּחֲשָׁבָה כָּזוֹ פּוֹסֶלֶת בָּהֶן כְּמוֹ שֶׁיִּתְבָּאֵר בְּהִלְכוֹת פְּסוּלֵי הַמֻּקְדָּשִׁין:",
+          "it": "Se una delle due membrane della trachea fu recisa ma non entrambe: non è considerata recisa. La recisione deve attraversare entrambe le membrane."
+        },
+        {
+          "n": 16,
+          "he": "שְׁחָטָהּ וְאַחַר כָּךְ חָשַׁב לִזְרֹק דָּמָהּ לְעַכּוּ\"ם אוֹ לְהַקְטִיר חֶלְבָּהּ לְעַכּוּ\"ם הֲרֵי זוֹ אֲסוּרָה מִסָּפֵק. שֶׁמָּא סוֹפוֹ הוֹכִיחַ עַל תְּחִלָּתוֹ וּבְמַחֲשָׁבָה כָּזוֹ שָׁחַט:",
+          "it": "L'esofago ha due membrane. La recisione deve attraversare entrambe affinché la shechità sia valida."
+        },
+        {
+          "n": 17,
+          "he": "הַשּׁוֹחֵט לְשֵׁם קָדָשִׁים שֶׁמִּתְנַדְּבִין וְנִדָּרִים כְּמוֹתָן שְׁחִיטָתוֹ פְּסוּלָה שֶׁזֶּה כְּשׁוֹחֵט קָדָשִׁים בַּחוּץ. שָׁחַט לְשֵׁם קָדָשִׁים שֶׁאֵינָן בָּאִין בְּנֵדֶר וּנְדָבָה שְׁחִיטָתוֹ כְּשֵׁרָה:",
+          "it": "Chi sgozza e trova che la trachea era forata prima della shechità: se il foro era nel luogo della shechità — la shechità è valida comunque. Se era fuori dal luogo — l'animale era già treifà prima della shechità."
+        },
+        {
+          "n": 18,
+          "he": "כֵּיצַד. הַשּׁוֹחֵט לְשֵׁם עוֹלָה לְשֵׁם שְׁלָמִים לְשֵׁם תּוֹדָה לְשֵׁם פֶּסַח שְׁחִיטָתוֹ פְּסוּלָה. הוֹאִיל וְהַפֶּסַח מַפְרִישׁ אוֹתוֹ בְּכָל הַשָּׁנָה בְּכָל עֵת שֶׁיִּרְצֶה הֲרֵי הוּא דּוֹמֶה לְדָבָר הַנִּדָּר וְהַנִּדָּב. שָׁחַט לְשֵׁם חַטָּאת לְשֵׁם אָשָׁם וַדַּאי לְשֵׁם אָשָׁם תָּלוּי לְשֵׁ…",
+          "it": "Se la trachea o l'esofago erano stati parzialmente recisi prima della shechità in modo tale che mancava solo poco per completare la recisione: la shechità è invalida."
+        },
+        {
+          "n": 19,
+          "he": "הָיָה מְחֻיָּב חַטָּאת וְשָׁחַט וְאָמַר לְחַטָּאתִי שְׁחִיטָתוֹ פְּסוּלָה. הָיָה לוֹ קָרְבָּן בְּתוֹךְ בֵּיתוֹ וְשָׁחַט וְאָמַר לְשֵׁם תְּמוּרַת זִבְחִי שְׁחִיטָתוֹ פְּסוּלָה שֶׁהֲרֵי הֵמִיר בּוֹ:",
+          "it": "La legge del siman (condotto): se la trachea fu recisa nella sua maggior parte ma spostata di lato prima che l'esofago fosse reciso — la shechità dell'esofago che segue è valida."
+        },
+        {
+          "n": 20,
+          "he": "הָאִשָּׁה שֶׁשָּׁחֲטָה לְשֵׁם עוֹלַת יוֹלֶדֶת וְאָמְרָה זוֹ לְעוֹלָתִי שְׁחִיטָתָהּ כְּשֵׁרָה. שֶׁאֵין עוֹלַת יוֹלֶדֶת בָּאָה בְּנֵדֶר וּנְדָבָה וַהֲרֵי אֵינָהּ יוֹלֶדֶת שֶׁנִּתְחַיְּבָה בְּעוֹלָה. וְאֵין חוֹשְׁשִׁין לָהּ שֶׁמָּא הִפִּילָה. שֶׁכָּל הַמַּפֶּלֶת קוֹל יֵשׁ לָהּ. אֲבָל הַשּׁוֹחֵט לְשֵׁם…",
+          "it": "Chi sgozza dall'interno verso l'esterno: la shechità è valida, purché siano soddisfatte tutte le condizioni."
+        },
+        {
+          "n": 21,
+          "he": "שְׁנַיִם אוֹחֲזִין בְּסַכִּין וְשׁוֹחֲטִין. אֶחָד מִתְכַּוֵּן לְשֵׁם דָּבָר שֶׁהַשּׁוֹחֵט לוֹ שְׁחִיטָתוֹ אֲסוּרָה. וְהַשֵּׁנִי לֹא הָיְתָה לוֹ כַּוָּנָה כְּלָל וַאֲפִלּוּ נִתְכַּוֵּן לְשֵׁם דָּבָר הַמֻּתָּר לְהִתְכַּוֵּן לוֹ הֲרֵי זוֹ פְּסוּלָה. וְכֵן אִם שָׁחַט זֶה אַחַר זֶה וְהִתְכַּוֵּן הָאֶחָד …",
+          "it": "Chi sgozza dall'esterno verso l'interno: la shechità è valida allo stesso modo."
+        },
+        {
+          "n": 22,
+          "he": "יִשְׂרָאֵל שֶׁשָּׁחַט לְעַכּוּ\"ם אַף עַל פִּי שֶׁהָעַכּוּ\"ם מִתְכַּוֵּן לְכָל מַה שֶּׁיִּרְצֶה שְׁחִיטָתוֹ כְּשֵׁרָה. שֶׁאֵין חוֹשְׁשִׁין אֶלָּא לְמַחְשֶׁבֶת הַזּוֹבֵחַ לֹא לְמַחְשֶׁבֶת בַּעַל הַבְּהֵמָה. לְפִיכָךְ עַכּוּ\"ם שֶׁשָּׁחַט לְיִשְׂרָאֵל אֲפִלּוּ הָיָה קָטָן שְׁחִיטָתוֹ נְבֵלָה כְּמוֹ שֶׁי…",
+          "it": "Il luogo minimo della shechità: deve iniziare all'interno dell'area designata del collo. Se iniziò dalla giuntura e tagliò verso l'interno — è valida."
+        }
+      ]
+    }
+  ],
+  "_glossary_terms_used": [
+    "shechità (שחיטה) — macellazione rituale",
+    "shochet (שוחט) — macellaio rituale",
+    "chalef (חלף) — coltello da shechità",
+    "neveilà (נבילה) — animale morto senza shechità valida",
+    "treifà / terefà (טריפה) — animale non idoneo per ferita o malattia",
+    "kaneh (קנה) — trachea",
+    "veshet (ושט) — esofago",
+    "kisui ha-dam (כיסוי הדם) — copertura del sangue",
+    "chayyah (חיה) — animale selvatico (richiede copertura del sangue)",
+    "behemah (בהמה) — animale domestico (non richiede copertura del sangue)",
+    "hag'alah (הגעלה) — purificazione tramite ebollizione",
+    "libun (ליבון) — purificazione tramite arrossamento al fuoco",
+    "bat yomo (בת יומה) — usata lo stesso giorno",
+    "chulin (חולין) — animali non sacri",
+    "Azarah (עזרה) — Atrio del Tempio",
+    "pegimah (פגימה) — intacca nel coltello",
+    "pikuach nefesh (פיקוח נפש) — pericolo di vita",
+    "shoteh (שוטה) — imbecille halakhico"
+  ]
+}

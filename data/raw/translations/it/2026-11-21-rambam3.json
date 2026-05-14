@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 24-26",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים כד-כו",
+  "name_it": "Mishneh Torah, Leggi del Creditore e del Debitore, capitoli 24-26",
+  "cycle": "rambam-3",
+  "date": "2026-11-21",
+  "hebrew_date": "12 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "24:1-5",
+      "he": "הַמַּלְוֶה אֶת חֲבֵרוֹ בִּשְׁטָר — גּוֹבֶה מִנְּכָסִים מְשֻׁעְבָּדִים…",
+      "it": "(Malveh VeLoveh cap. 24, hal. 1-5) Chi presta denaro tramite un documento (shtar — atto di prestito) — può riscuotere dai beni immobili (karka) che il debitore aveva al momento della firma del documento, anche se nel frattempo li ha venduti a terzi (nekhasim meshu'abadim). Il documento crea un «privilegio» (shi'abud) sugli immobili del debitore. Chi compra terreni dal debitore dopo la firma del documento lo fa a suo rischio: il creditore può espropriarlo. Questo è l'effetto principale del prestito documentato rispetto al prestito orale."
+    },
+    {
+      "n": "25:1-4",
+      "he": "הַלּוֶה בְּעֵדִים — לֹא גּוֹבֶה מִנְּכָסִים מְשֻׁעְבָּדִים…",
+      "it": "(Malveh VeLoveh cap. 25, hal. 1-4) Il prestito testimoniato da soli testimoni orali (be-edim) — non crea privilegio sui beni immobili venduti a terzi. A differenza del prestito documentato, il prestito orale dà al creditore solo il diritto di riscuotere dai beni che il debitore ancora detiene al momento della riscossione. Non si può espropriare da terzi acquirenti in buona fede. Questa distinzione spiegava l'importanza pratica enorme di redigere un shtar (documento scritto) al momento del prestito."
+    },
+    {
+      "n": "26:1-5",
+      "he": "שְׁטָר מוּקְדָּם — פָּסוּל…",
+      "it": "(Malveh VeLoveh cap. 26, hal. 1-5) Un documento pre-datato (shtar mukdam — datato prima della sua effettiva firma) — è invalido. La ragione: permetterebbe al creditore di espropriare beni venduti prima del prestito effettivo, danneggiando terzi acquirenti in buona fede. Un documento post-datato (shtar me'uchar — datato dopo la firma) — è valido, ma il creditore perde il diritto di espropriare beni venduti tra la data reale del prestito e la data scritta sul documento. Il notaio (sofer) che redige un documento fraudolento commette una violazione grave."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shtar", "karka", "nekhasim meshu'abadim", "shi'abud", "shtar mukdam", "shtar me'uchar", "sofer"
+  ]
+}

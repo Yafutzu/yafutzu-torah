@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Rotzeach UShmirat Nefesh 11-13",
+  "name_he": "משנה תורה, הלכות רוצח ושמירת נפש, פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi dell'Omicidio e della Protezione della Vita, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-10-12",
+  "hebrew_date": "1 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "11:1-5",
+      "he": "אָסוּר לְאָדָם לְמַכֵּר נֶשֶׁק לְמִי שֶׁיֵּשׁ לָנוּ לָחֹשׁ שֶׁיַּהֲרֹג בּוֹ…",
+      "it": "(Rotzeach UShmirat Nefesh cap. 11, hal. 1-5) È proibito vendere armi a chi si sospetta possa usarle per uccidere. Non si vende un leone feroce, né si insegna a un potenziale assassino le arti della guerra. Il principio: «Lifnei iver lo titen michshol» (davanti al cieco non mettere un inciampo — Lev. 19:14) — si interpreta come proibizione di aiutare chi ha intenzioni malevole. Analogamente: è proibito aiutare qualcuno a compiere qualsiasi peccato, anche se l'atto specifico non è fisicamente pericoloso."
+    },
+    {
+      "n": "12:1-5",
+      "he": "חַיָּב אָדָם לִשְׁמֹר עַצְמוֹ מֵחַיּוֹת רָעוֹת…",
+      "it": "(cap. 12, hal. 1-5) L'obbligo di proteggere se stessi: non si porta un animale pericoloso in un luogo pubblico. Non si tiene un cane pericoloso senza catena. Non si tiene una scala difettosa. Non si attraversa un ponte instabile. Non si beve da un fiume torbido. Tutta la sezione di shmirat nefesh (protezione della vita) è un espresso comandamento positivo della Torah — non è solo prudenza ma un obbligo halachico. Chi si mette deliberatamente in pericolo viola la Torah attivamente."
+    },
+    {
+      "n": "13:1-4",
+      "he": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ — הֲרֵי זֶה כְּלָל גָּדוֹל בַּתּוֹרָה…",
+      "it": "(cap. 13, hal. 1-4) «Ve-ahavta lere'acha kamocha» — Ama il tuo prossimo come te stesso (Lev. 19:18) — è un principio fondamentale della Torah. Il Rambam conclude Hilchot Rotzeach con questo insegnamento: proteggere la vita del prossimo è la massima espressione dell'amore verso di lui. Si concludono le Leggi dell'Omicidio e della Protezione della Vita con l'aiuto del Cielo. Si conclude il Sefer Nezikin (Libro dei Danni) con l'aiuto del Cielo. Si inizia ora il Sefer Kinyan (Libro delle Acquisizioni)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "lifnei iver", "shmirat nefesh", "ve-ahavta lere'acha kamocha", "Sefer Nezikin", "Sefer Kinyan"
+  ]
+}

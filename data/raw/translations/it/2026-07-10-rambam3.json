@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Issurei Mizbeiach 5-7",
+  "name_he": "משנה תורה, הלכות איסורי מזבח, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi delle Cose Proibite sull'Altare, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-07-10",
+  "hebrew_date": "25 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "אָסוּר לְהַקְרִיב חָמֵץ עַל גַּבֵּי הַמִּזְבֵּחַ, שֶׁנֶּאֱמַר: \"כִּי כָל שְׂאֹר וְכָל דְּבַשׁ לֹא תַקְטִירוּ\".",
+      "it": "È proibito offrire chametz (lievito) sull'altare, come è detto: «Poiché nessun lievito e nessun miele brucerete» (Vayikra 2:11)."
+    },
+    {
+      "n": "5:2",
+      "he": "\"דְּבַשׁ\" שֶׁנֶּאֱמַר כָּאן — הוּא דְּבַשׁ פֵּרוֹת, לֹא דְּבַשׁ דְּבוֹרִים.",
+      "it": "Il «miele» menzionato qui — è miele di frutta, non miele d'api."
+    },
+    {
+      "n": "5:3",
+      "he": "מִצְוַת עֲשֵׂה לְהַמְלִיחַ כָּל קָרְבָּן, שֶׁנֶּאֱמַר: \"עַל כָּל קָרְבָּנְךָ תַּקְרִיב מֶלַח\".",
+      "it": "Vi è un comandamento positivo di salare ogni sacrificio, come è detto: «Su ogni tua offerta offrirai sale» (Vayikra 2:13)."
+    },
+    {
+      "n": "5:4",
+      "he": "קָרְבָּן שֶׁלֹּא נִמְלַח — פָּסוּל.",
+      "it": "Un sacrificio che non è stato salato — è invalido."
+    },
+    {
+      "n": "6:1",
+      "he": "אָסוּר לְהַקְרִיב נְסָכִים מִיֵּין נְסֶךְ — יֵין שֶׁנִּגְנֶה בְּיִין גּוֹיִם.",
+      "it": "È proibito offrire libagioni (nesachim) da vino di libagione (yayin nesech) — vino che è stato toccato da non ebrei."
+    },
+    {
+      "n": "6:2",
+      "he": "הַנְּסָכִים — יַיִן כָּשֵׁר, שֶׁלֹּא נְגָעוּ בוֹ גּוֹיִם.",
+      "it": "Le libagioni — vino kasher, che non è stato toccato da non ebrei."
+    },
+    {
+      "n": "6:3",
+      "he": "יֵין שֶׁנִּתְנַסֵּךְ לַעֲבוֹדָה זָרָה — אָסוּר בַּהֲנָאָה.",
+      "it": "Vino che è stato offerto in libagione per l'idolatria — è proibito anche nel godimento (hana'ah)."
+    },
+    {
+      "n": "7:1",
+      "he": "בְּהֵמָה שֶׁנִּפְסְלָה לַמִּזְבֵּחַ וְנִשְׁחֲטָה — מֻתֶּרֶת בַּאֲכִילָה.",
+      "it": "Un animale squalificato per l'altare che è stato macellato — è permesso nel mangiare."
+    },
+    {
+      "n": "7:2",
+      "he": "הֻקְרְבָה בְּהֵמָה פְּסוּלָה עַל גַּבֵּי הַמִּזְבֵּחַ — אִם עָלְתָה לֹא תֵּרֵד.",
+      "it": "Un animale squalificato che è stato offerto sull'altare — se è salito non viene rimosso."
+    },
+    {
+      "n": "7:3",
+      "he": "חוּץ מִחֲמֵשֶׁת דְּבָרִים שֶׁאֲפִלּוּ עָלוּ יֵרְדוּ: שׁוֹר הַנִּסְקָל, עֶגְלָה עֲרוּפָה, בֶּן סֹורֵר, נֶעֱבַד, וְנֶאֱסַר.",
+      "it": "Eccetto cinque cose che anche se sono salite vengono rimosse: il bue lapidato (shor haniskal), la vitella decapitata (eglah arufah), il figlio ribelle (ben sorer), l'animale adorato come idolo (ne'evad), e l'animale proibito (ne'esar)."
+    },
+    {
+      "n": "7:4",
+      "he": "סִיּוּם: סִי קוֹנְקְלוּדוֹנוֹ לֶה לֶגִּי דֶלֶה קוֹזֶה פְּרוֹאִיבִּיטֶה סֻלְ'אַלְטָרֶה.",
+      "it": "Si concludono le Leggi delle Cose Proibite sull'Altare (Hilchot Issurei Mizbeiach)."
+    },
+    {
+      "n": "7:5",
+      "he": "עִיקַּר הַדִּין: כָּל מַה שֶּׁעָלָה לַמִּזְבֵּחַ לֹא יֵרֵד, חוּץ מֵחֲמִשָּׁה דְּבָרִים אֵלּוּ.",
+      "it": "Il principio fondamentale: tutto ciò che è salito sull'altare non viene rimosso, eccetto questi cinque."
+    }
+  ],
+  "_glossary_terms_used": ["chametz", "nesachim", "yayin nesech", "avodah zarah", "hana'ah", "mizbeach", "shor haniskal", "eglah arufah", "ben sorer", "ne'evad", "ne'esar", "korban", "meach"]
+}

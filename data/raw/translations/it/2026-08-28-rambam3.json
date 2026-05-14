@@ -1,0 +1,67 @@
+{
+  "ref": "Mishneh Torah, Hilchot Metamei Mishkav UMoshav 7-8; Hilchot Shaar Avot HaTumah 1",
+  "name_he": "משנה תורה, הלכות מטמאי משכב ומושב, פרקים ז-ח; הלכות שאר אבות הטומאות, פרק א",
+  "name_it": "Mishneh Torah, Leggi di Chi Rende Impuri il Giaciglio e il Sedile, capitoli 7-8; Leggi degli Altri Fonti Primarie di Impurità, capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-08-28",
+  "hebrew_date": "15 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "7:1",
+      "he": "בעל קרי — הוא שיצאה ממנו שכבת זרע. בזמן הבית — היה טמא עד הערב ואחרי טבילה.",
+      "it": "Il ba'al keri — è colui da cui è fuoriuscita una semissione seminale. Al tempo del Tempio — era impuro fino alla sera, dopo l'immersione nel mikveh."
+    },
+    {
+      "n": "7:2",
+      "he": "תקנת עזרא — שבעל קרי לא יקרא בתורה ולא יתפלל עד שיטבול. ואחר כך בטלוה, מפני שקשה היתה על הציבור.",
+      "it": "La takkanah (istituzione) di Ezra — che il ba'al keri non reciti la Torah e non preghi fino a che non si sia immerso. In seguito fu abolita, perché era troppo gravosa per il pubblico."
+    },
+    {
+      "n": "7:3",
+      "he": "ויש שנהגו להחמיר ולטבול קודם תפילה — מנהג חסידות הוא, ולא חובה.",
+      "it": "Vi sono coloro che hanno la consuetudine di essere severi e di immergersi prima della preghiera — è una pratica di pietà (minhag chassidut), non un obbligo."
+    },
+    {
+      "n": "8:1",
+      "he": "סיכום הלכות מטמאי משכב ומושב: הזב, הזבה, הנידה, והיולדת — מטמאים את המשכב ואת המושב. ומשכב ומושב — מטמאים אחרים.",
+      "it": "Riepilogo delle leggi di chi rende impuri il mishkav e il moshav: il zav, la zavah, la niddah e la yoledet — rendono impuri il mishkav e il moshav. E il mishkav e il moshav — rendono a loro volta impuri altri. Si concludono le Leggi di Chi Rende Impuri il Giaciglio e il Sedile."
+    },
+    {
+      "n": "1:1",
+      "he": "שמונה שרצים — מטמאים במגע. ואלו הם: החולד, העכבר, הצב, האנקה, הכח, הלטאה, החומט, התנשמת.",
+      "it": "Otto tipi di sheratzim (creature striscianti/brulicanti) — rendono impuri al tocco. Questi sono: il topo di campagna (choled), il topo (akhbar), il lupo del deserto (tzav), l'anas (ankah), il camaleonte (koach), la lucertola (leta'ah), la chiocciola (chomet) e il geco (tinshemet)."
+    },
+    {
+      "n": "1:2",
+      "he": "הנוגע בשרץ אחד מהם — טמא עד הערב, וטעון טבילה.",
+      "it": "Chi tocca uno di questi sheratzim — è impuro fino alla sera, e necessita dell'immersione nel mikveh."
+    },
+    {
+      "n": "1:3",
+      "he": "הנבלה — בהמה שמתה בלא שחיטה כשרה. הנוגע בה — טמא. הנושא אותה — טמא.",
+      "it": "La nevelah — è l'animale che è morto senza una macellazione rituale valida (shechitah kasherah). Chi la tocca — è impuro. Chi la porta — è impuro."
+    },
+    {
+      "n": "1:4",
+      "he": "הנבלה — מטמאת במגע, במשא, ובאהל. שיעורה — כזית.",
+      "it": "La nevelah — rende impura mediante il tocco, il trasporto e la presenza sotto un tetto comune (ohel). La quantità minima — è come un'oliva (kazayit)."
+    },
+    {
+      "n": "1:5",
+      "he": "הטרפה — בהמה שנשחטה כהלכה אבל יש בה פגם פנימי שגורם למותה — מטמאת כנבלה.",
+      "it": "La treifah — è l'animale che è stato macellato ritualmente ma ha un difetto interno che avrebbe causato la sua morte — rende impura come la nevelah."
+    },
+    {
+      "n": "1:6",
+      "he": "שרץ העוף — הוא עוף טמא שמת. מטמא במגע ובמשא, אבל לא באהל.",
+      "it": "Lo sheretz ha-of — è il volatile non kasher che è morto. Rende impuro mediante il tocco e il trasporto, ma non mediante la presenza sotto un tetto comune."
+    },
+    {
+      "n": "1:7",
+      "he": "ואיסור אכילת נבלה — נוהג בכל בני ישראל. אבל טומאת נבלה — רק לכהנים בדברים מסוימים.",
+      "it": "Il divieto di mangiare la nevelah — si applica a tutti gli Israeliti. Ma l'impurità della nevelah — riguarda principalmente i Kohanim in certi contesti."
+    }
+  ],
+  "_glossary_terms_used": ["ba'al keri", "mikveh", "takkanah", "minhag chassidut", "mishkav", "moshav", "zav", "zavah", "niddah", "yoledet", "sheratzim", "nevelah", "shechitah kasherah", "treifah", "sheretz ha-of", "kazayit", "ohel", "Kohanim"]
+}

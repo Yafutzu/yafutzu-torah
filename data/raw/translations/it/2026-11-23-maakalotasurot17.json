@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 17",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק יז",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 17",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-23",
+  "hebrew_date": "14 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "עָרְלָה — פֵּרוֹת שָׁנָה רִאשׁוֹנָה וּשְׁנִיָּה וּשְׁלִישִׁית שֶׁל הָאִילָן — אֲסוּרִין בַּאֲכִילָה וּבַהֲנָאָה…",
+      "it": "Orlah — i frutti dei primi tre anni di un albero — sono proibiti nel mangiare e nel trarre qualsiasi beneficio (asur be-akhilah u-ve-hana'ah). La proibizione è biblica: «Tre anni saranno per voi incirconcisi (arelim) — non si mangeranno» (Vayikra 19:23). Gli anni si contano dalla piantagione, non dal calendario. Un albero piantato almeno trenta giorni prima di Rosh Hashanah — quegli trenta giorni contano come il primo anno; Rosh Hashanah successivo inizia il secondo anno."
+    },
+    {
+      "n": 2,
+      "he": "כִּלְאֵי הַכֶּרֶם — הֵן הַזְּרָעִים הַנִּזְרָעִים בַּכֶּרֶם…",
+      "it": "Kilei ha-kerem — i semi piantati nella vigna (o che crescono nella vigna) — il prodotto è proibito in qualsiasi beneficio (asur be-hana'ah). Questa è una delle proibizioni più severe della Torah: il grano, le verdure, o altri semi che crescono tra i filari di viti diventano kilei ha-kerem e l'intero raccolto — sia il grano sia l'uva — deve essere bruciato. La ragione del divieto: il mescolamento di cose sacre (la vite, simbolo di Israele) con cose ordinarie."
+    },
+    {
+      "n": 3,
+      "he": "חָדָשׁ — תְּבוּאָה חֲדָשָׁה שֶׁלֹּא הֵבִיאוּ מִמֶּנָּה עֹמֶר — אָסוּר לֶאֱכֹל…",
+      "it": "Chadash — il nuovo grano prima dell'offerta dell'Omer — è proibito nel mangiare. A partire dal 16 di Nissan (il giorno dopo Pesach, quando veniva offerto l'Omer d'orzo nel Tempio) è permesso mangiare il nuovo grano cresciuto prima di Pesach. Ma il grano che è cresciuto dopo Pesach dell'anno precedente è permesso solo dopo il prossimo 16 Nissan. In Terra d'Israele la proibizione è biblica; in diaspora molti seguivano una linea più permissiva, ma il Rambam è stringente."
+    },
+    {
+      "n": 4,
+      "he": "מַה הַשְּׁאֵלָה שֶׁנִּשְׁאֲלָה — מַה טַּעַם אֵלּוּ הַפְּרִישׁוֹת…",
+      "it": "Quale domanda viene posta? Quale è la ragione di questi divieti — orlah, kilayim, chadash? Il Rambam risponde con la sua celebre filosofia delle mitzvot: lo scopo delle proibizioni alimentari — insieme a queste leggi speciali — è formare la volontà umana e insegnare il controllo di sé. Mangiare ciò che si desidera, quando lo si desidera, indebolisce il carattere. L'astinenza da cibi proibiti esercita l'essere umano alla dominazione degli istinti — e questa è la via verso la santità."
+    },
+    {
+      "n": 5,
+      "he": "וּלְפִי שֶׁאֵין אָנוּ יְכוֹלִים לַעֲמֹד עַל כָּל הַטְּעָמִים…",
+      "it": "Poiché non siamo in grado di comprendere la ragione di ogni singola proibizione — il fatto che la Torah le abbia comandate è ragione sufficiente per osservarle. Il Rambam stabilisce il principio: alcune mitzvot hanno ragioni comprensibili (mishpatim — giudizi); altre sono «chukim» (statuti) la cui ragione è nascosta alla mente umana. Le proibizioni alimentari cadono in parte nella categoria dei chukim. La loro osservanza è comunque obbligatoria e meritoria — la fede che ci sia una ragione divina è sufficiente."
+    },
+    {
+      "n": 6,
+      "he": "יִשְׂרָאֵל שֶׁנִּבְדָּלוּ מִן הָעַמִּים — הַהַבְדָּלָה הִיא בְּמַאֲכָלוֹת…",
+      "it": "Israele che si è separato dai popoli — la separazione si manifesta negli alimenti. Il Rambam elabora: la distinzione alimentare tra ebrei e non ebrei non è accidentale né puramente igienica. È un marcatore di identità nazionale e religiosa. Mangiare con chi mangia cose diverse crea inevitabilmente intimità; l'intimità porta all'assimilazione. Le leggi alimentari dunque, nel loro insieme, sono una «recinzione vivente» (seyag chayyim) che protegge l'identità del popolo ebraico attraverso i secoli e le generazioni."
+    },
+    {
+      "n": 7,
+      "he": "זֶהוּ כְּלָל גָּדוֹל שֶׁאָמְרָה תוֹרָה — קְדשִׁים תִּהְיוּ…",
+      "it": "Questo è il principio fondamentale che la Torah ha enunciato: «Siate santi (kedoshim tihyu)» (Vayikra 19:2). Il Rambam conclude Hilchot Ma'achalot Asurot con questa sintesi: le leggi degli alimenti proibiti, nel loro insieme, mirano a formare una nazione di persone che esercitano la volontà su i propri appetiti, che vivono secondo la distinzione divina, e che mantengono la loro separatezza sacra come popolo di D-o. «Si concludono le Leggi degli Alimenti Proibiti con l'aiuto del Cielo.»"
+    }
+  ],
+  "_glossary_terms_used": [
+    "orlah", "asur be-hana'ah", "kilei ha-kerem", "chadash", "omer", "mishpatim", "chukim", "seyag chayyim", "kedoshim tihyu"
+  ]
+}

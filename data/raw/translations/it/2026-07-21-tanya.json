@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 11",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק יא",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 11",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-21",
+  "hebrew_date": "7 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שָׁלֹשׁ קְלִיפּוֹת טְמֵאוֹת לְגַמְרֵי — אֵין בָּהֶן שׁוּם טוֹב כְּלָל. וְקְלִיפַּת נֹגַהּ — מְעֹרֶבֶת מִטּוֹב וָרָע.",
+      "it": "Le tre kelipot completamente impure — non vi è in esse alcun bene. La kelipat nogah invece — è mista di bene e male."
+    },
+    {
+      "n": 2,
+      "he": "נְשָׁמוֹת הָאֻמּוֹת — מֵהַשָּׁלֹשׁ קְלִיפּוֹת הַטְּמֵאוֹת. נְשָׁמוֹת יִשְׂרָאֵל — מֵהַקְּדֻשָּׁה, וְנֶפֶשׁ הַבְּהֵמִית שֶׁלָּהֶם — מִקְּלִיפַּת נֹגַהּ.",
+      "it": "Le anime dei popoli non-ebrei — provengono dalle tre kelipot impure. Le anime d'Israele — provengono dalla santità (kedushah), e la loro anima animale — dalla kelipat nogah."
+    },
+    {
+      "n": 3,
+      "he": "לָכֵן אֲפִלּוּ מַעֲשִׂים טִבְעִיִּים שֶׁל יְהוּדִי — כְּגוֹן אֲכִילָה וּשְׁתִיָּה לִרְפוּאָה — יְכוֹלִין לִהְיוֹת קְדוֹשִׁין, אִם כַּוָּנָתוֹ לְשֵׁם שָׁמַיִם.",
+      "it": "Perciò anche le azioni naturali di un ebreo — come il mangiare e il bere per motivi di salute — possono essere santificate, se la sua intenzione (kavvanah) è per il cielo (leshem shamayim)."
+    }
+  ],
+  "_glossary_terms_used": ["kelipot", "kelipat nogah", "kedushah", "nefesh ha-behamit", "kavvanah", "leshem shamayim"]
+}

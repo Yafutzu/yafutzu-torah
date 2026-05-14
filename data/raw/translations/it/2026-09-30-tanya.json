@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 10",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת י",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettera 10",
+  "cycle": "tanya",
+  "date": "2026-09-30",
+  "hebrew_date": "19 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "נִסּוּךְ הַמַּיִם בְּסוּכּוֹת — 'וּשְׁאַבְתֶּם מַיִם בְּשָׂשׂוֹן' — הַמַּיִם מַצִּיגִים אֶת הַחָכְמָה שֶׁמֵּעַל הַשֵּׂכֶל. מַיִם מִתְרַחֲבִין לְכָל הַמָּקוֹמוֹת — כֵּן הַחָכְמָה הָאֱלֹקִית אֵין לָהּ גְּבוּל.",
+      "it": "La libagione dell'acqua a Sukkot — 'E attingerete acqua con gioia' — l'acqua rappresenta il livello di chochmah che è al di sopra dell'intelletto. L'acqua si allarga in tutti i luoghi — così la saggezza divina non ha limite."
+    },
+    {
+      "n": 2,
+      "he": "שִׂמְחַת בֵּית הַשּׁוֹאֵבָה — הִיא שִׂמְחָה שֶׁבָּאָה מִן הַמָּקוֹר הָעֶלְיוֹן. שָׁם שָׂמְחוּ גְּדוֹלֵי יִשְׂרָאֵל כְּיְלָדִים. שֶׁהַשִּׂמְחָה הַזֹּאת אֵינָהּ מִן הַחֵלֶק הַתַּחְתּוֹן אֶלָּא מִן הַמַּקּוֹר הַגָּבוֹהַּ.",
+      "it": "La Simchat Beit HaShoevah (gioia della casa dell'attingimento) — è una gioia che viene dalla fonte suprema. Là i grandi di Israele si rallegravano come bambini. Perché questa gioia non proviene dalla parte inferiore ma dalla fonte elevata."
+    }
+  ],
+  "_glossary_terms_used": ["nisuch hamayim", "Simchat Beit HaShoevah", "chochmah", "Sukkot", "simchah", "u-she'avtem"]
+}

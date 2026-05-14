@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 8",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ח",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 8",
+  "cycle": "tanya",
+  "date": "2026-09-18",
+  "hebrew_date": "7 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הִנֵּה עִנְיַן הַתְּשׁוּבָה הָעֶלְיוֹנָה — הִיא הַמְּכֻוֶּנֶת כְּנֶגֶד סְפִירַת הַבִּינָה, שֶׁהִיא אֵם הַנְּשָׁמוֹת כֻּלָּן, כְּמוֹ שֶׁכָּתוּב: 'שׁוּבָה יִשְׂרָאֵל עַד ה' אֱלֹהֶיךָ.'",
+      "it": "Ecco il concetto della teshuvah superiore (teshuvah ila'ah), che corrisponde alla sefirah della Binah, madre di tutte le anime, come è scritto: 'Ritorna, Israele, fino al Signore tuo Dio.'"
+    },
+    {
+      "n": 2,
+      "he": "כְּשֶׁאָדָם עוֹשֶׂה תְּשׁוּבָה שְׁלֵמָה, נִשְׁמָתוֹ עוֹלָה לִבְחִינַת בִּינָה וְנוֹלֶדֶת מֵחָדָשׁ — כְּמוֹ שֶׁנֶּאֱמַר: 'כִּי הַיּוֹם יְלַדְתִּיךָ.' בַּעַל תְּשׁוּבָה הוּא מַמָּשׁ חָדָשׁ.",
+      "it": "Quando una persona fa una teshuvah completa, la sua anima ascende al livello della Binah e nasce di nuovo — come è detto: 'Oggi ti ho generato.' Il ba'al teshuvah è letteralmente una persona nuova."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ פֵּשֶׁר הַשֵּׁם 'בַּעַל תְּשׁוּבָה' — בַּעַל פֵּרוּשׁוֹ בַּעֲלִים, כְּמוֹ אָדָם הַחוֹזֵר לְבֵיתוֹ. הוּא חוֹזֵר לִמְקוֹר נִשְׁמָתוֹ וְנִדְבָּק בּוֹ.",
+      "it": "Questo è il significato del termine 'ba'al teshuvah' — ba'al significa padrone/proprietario, come un uomo che torna a casa propria. Egli ritorna alla fonte della sua anima e vi si unisce."
+    }
+  ],
+  "_glossary_terms_used": ["teshuvah ila'ah", "Binah", "ba'al teshuvah", "neshamah", "sefirah"]
+}

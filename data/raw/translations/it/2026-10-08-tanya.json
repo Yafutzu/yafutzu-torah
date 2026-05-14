@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 16",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת טז",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 16",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-08",
+  "hebrew_date": "27 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עַצְבוּת — מְנִיעָה גְּדוֹלָה לַעֲבוֹדַת ה'…",
+      "it": "L'atzvut (tristezza/depressione) è il principale ostacolo alla avodat Hashem (servizio di Dio). L'Alter Rebbe dedica questa lettera alla lotta contro la tristezza — un tema centrale nella filosofia Chassidica. La Chassidut non nega il dolore — lo riconosce pienamente. Tuttavia insegna che la tristezza cronica e la depressione derivano dall'eccessiva focalizzazione sull'io (bittul ha-yesh) piuttosto che sulla Divina Presenza che pervade ogni momento. La simchah (gioia) non è superficialità — è l'atteggiamento profondo di chi vede Dio in ogni circostanza."
+    },
+    {
+      "n": 2,
+      "he": "יֵשׁ הֶבְדֵּל בֵּין עַצְבוּת עַל חֵטְא לְעַצְבוּת כְּלָלִית…",
+      "it": "L'Alter Rebbe distingue due tipi di tristezza: (1) «Atzvut al chet» — tristezza per un peccato specifico commesso: questa tristezza è appropriata MA deve essere breve e trasformarsi rapidamente in teshuvah e simchah. Non si deve indugiare in essa — «katuv she-af al pi ken lo ne'etzevu» (è scritto: non abbatterti — perché l'abbattimento non serve). (2) Atzvut generica (klali) — depressione senza causa specifica, malinconia costante: questa è sempre inappropriata e deriva da una visione distorta della realtà."
+    },
+    {
+      "n": 3,
+      "he": "עֵצָה לִמְנוֹעַ עַצְבוּת — לְהִתְבּוֹנֵן בְּגַדְלוּת ה'…",
+      "it": "Il consiglio pratico dell'Alter Rebbe contro la tristezza: hitbonenut (contemplazione profonda) della grandezza di Dio (gedulat Hashem). Quando si contempla che Dio riempie ogni spazio e ogni momento — la tristezza non può attecchire, perché non c'è «vuoto» in cui essa possa crescere. Anche in un momento di caduta spirituale — il fatto stesso che si desideri tornare a Dio è segno della scintilla divina nell'anima. «Gam zu le-tovah» (anche questo è per il bene — Taanit 21a) — ogni circostanza è un'opportunità di crescita."
+    }
+  ],
+  "_glossary_terms_used": [
+    "atzvut", "avodat Hashem", "simchah", "bittul ha-yesh", "teshuvah", "hitbonenut", "gedulat Hashem", "gam zu le-tovah"
+  ]
+}

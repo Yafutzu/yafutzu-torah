@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Hilchot Issurei Biah 18",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק יח",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 18",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-02",
+  "hebrew_date": "22 Cheshvan 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "חַיָּב אָדָם לִפְרֹשׁ מֵאִשְׁתּוֹ סָמוּךְ לְוֶסְתָּהּ…",
+      "it": "Un uomo è obbligato a separarsi dalla moglie (prisha — separazione) prima del momento atteso del suo veset (ciclo mestruale). Questa separazione è un obbligo halakhico derivato dalla Torah, come insegnano i Saggi dall'espressione «ve-el ishtecha ba-niddatah lo tikrav» (Lev. 18:19). La prisha ha lo scopo di evitare che si verifichino relazioni nel momento stesso dell'insorgere della niddah, poiché ciò comporterebbe un grave peccato."
+    },
+    {
+      "n": 2,
+      "he": "שְׁלֹשָׁה וְסָתוֹת יֵשׁ לָאִשָּׁה…",
+      "it": "Vi sono tre tipi di veset (ciclo mestruale stabilizzato) che una donna può sviluppare: (1) Veset ha-chodesh (ciclo legato al calendario) — il periodo arriva regolarmente in un giorno fisso del mese ebraico, ad esempio sempre il 15 del mese. (2) Veset ha-haflagah (ciclo a intervallo fisso) — il periodo arriva regolarmente ogni tot giorni dall'ultima volta, ad esempio ogni 30 giorni. (3) Veset ha-guf (ciclo legato a sensazioni corporee) — il periodo è preceduto da specifiche sensazioni fisiche caratteristiche di quella donna (pesantezza, sbadigli, starnuti, etc.)."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד קוֹבְעִין אֶת הַוֶּסֶת…",
+      "it": "Come si stabilisce (kevi'at veset) un veset? Un veset si considera stabilito quando lo stesso schema si è ripetuto tre volte consecutive. Ad esempio: se il periodo è arrivato tre mesi consecutivi il 15 del mese, il veset ha-chodesh è stabilito per il 15 di ogni mese. Prima di tre ripetizioni il veset non è fisso — è solo un «veset she-eino kavu'a» (ciclo non stabilizzato). La differenza pratica: per un veset kavu'a (stabilizzato) la prisha è obbligatoria per legge biblicamente; per un veset she-eino kavu'a — rabbinicamente."
+    },
+    {
+      "n": 4,
+      "he": "אֵיזֶהוּ וֶסֶת הַחֹדֶשׁ…",
+      "it": "Il veset ha-chodesh in dettaglio: se la donna ha il suo periodo regolarmente il 15 di Cheshvan, il 15 di Kislev, e il 15 di Tevet — il veset è stabilito. Ogni mese successivo, il marito deve astenersi dai rapporti durante la notte del 15 del mese (l'«onah» — il periodo di 24 ore corrispondente) fino a che lei non si esamini e si accerti che il periodo non è arrivato. Solo dopo tale verifica possono riprendere le relazioni."
+    },
+    {
+      "n": 5,
+      "he": "אֵיזֶהוּ וֶסֶת הַהַפְלָגָה…",
+      "it": "Il veset ha-haflagah in dettaglio: si misura l'intervallo tra un periodo e l'altro. Se per tre volte consecutive l'intervallo è stato di 30 giorni — il veset è stabilito a 30 giorni. La prisha si esegue al 30° giorno dall'ultimo periodo. Un punto importante: se in un mese il periodo arriva prima dell'intervallo stabilito — questo «azzera» il veset ha-haflagah e si ricomincia il conteggio."
+    },
+    {
+      "n": 6,
+      "he": "אֵיזֶהוּ וֶסֶת הַגּוּף…",
+      "it": "Il veset ha-guf in dettaglio: alcune donne hanno sensazioni fisiche caratteristiche prima dell'arrivo del ciclo — come sbadigli ripetuti, pesantezza ai fianchi, mal di testa, brividi, o dolori addominali. Se queste sensazioni si ripetono sistematicamente tre volte prima del periodo, si stabilisce un veset ha-guf. La prisha si esegue quando compaiono quelle sensazioni. Anche quando la donna si trova in un luogo dove non può esaminare il calendario."
+    },
+    {
+      "n": 7,
+      "he": "עָקְרָה הַוֶּסֶת — כֵּיצַד…",
+      "it": "Come si «sradica» (akira) un veset? Un veset stabilizzato si può eliminare solo se per tre cicli consecutivi il periodo non arriva nel giorno/intervallo previsto. Ad esempio: se il veset ha-chodesh era il 15 del mese, e per tre mesi consecutivi il periodo è arrivato in giorni diversi — il veset è sradicato. Finché il veset non è sradicato, la prisha è obbligatoria anche se la donna ha iniziato a seguire uno schema diverso."
+    },
+    {
+      "n": 8,
+      "he": "בַּעַל חַיָּב לִזְכֹּר אֶת וֶסֶת אִשְׁתּוֹ…",
+      "it": "Il marito è obbligato a ricordare il veset della moglie e a prendersi cura di eseguire la prisha nel momento appropriato. Non è sufficiente affidarsi alla moglie per ricordare — è una responsabilità condivisa. I Saggi hanno stabilito che la negligenza del marito nel rispettare la prisha è estremamente grave, poiché rischia di portare a relazioni nel momento stesso dell'insorgere della niddah — la forma più grave di violazione delle leggi di taharat ha-mishpachah (purezza familiare)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "veset", "prisha", "veset ha-chodesh", "veset ha-haflagah", "veset ha-guf", "kevi'at veset", "veset kavu'a", "onah", "akira", "taharat ha-mishpachah", "niddah"
+  ]
+}

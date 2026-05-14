@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Chovel UMazik 1-3",
+  "name_he": "משנה תורה, הלכות חובל ומזיק, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi delle Lesioni e dei Danni, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-10-06",
+  "hebrew_date": "25 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "1:1-6",
+      "he": "הַחוֹבֵל בַּחֲבֵרוֹ — חַיָּב עָלָיו מִשּׁוּם חֲמִשָּׁה דְּבָרִים…",
+      "it": "(Chovel UMazik cap. 1, hal. 1-6) Chi causa lesioni corporali al prossimo — è responsabile per cinque tipi di risarcimento: (1) Nezek (danno fisico permanente — la diminuzione del valore della persona come schiavo); (2) Tza'ar (dolore — il valore monetario della sofferenza causata); (3) Ripui (spese mediche — tutti i costi di guarigione); (4) Shevet (perdita lavorativa — il reddito perso durante la convalescenza, calcolato come il lavoro più semplice); (5) Boshet (vergogna — l'umiliazione pubblica, calcolata secondo lo status sociale delle parti). Tutti e cinque si pagano su base di valutazione del beit din."
+    },
+    {
+      "n": "2:1-5",
+      "he": "כֵּיצַד מְשַׁעֲרִין אֶת הַבֹּשֶׁת…",
+      "it": "(cap. 2, hal. 1-5) Come si valuta la boshet? Dipende da chi umilia e da chi viene umiliato. Chi umilia un uomo importante davanti a molti — paga più di chi umilia una persona semplice in privato. Chi viene umiliato nudo davanti al pubblico — il risarcimento è maggiore di chi viene umiliato vestito. Il Rambam elenca varie situazioni: umiliazione mentre l'aggredito era addormentato (boshet ridotta, poiché non ne ha coscienza immediata); umiliazione da parte di un cieco (boshet piena, poiché l'atto esiste indipendentemente dall'intenzione dell'aggressore)."
+    },
+    {
+      "n": "3:1-6",
+      "he": "הַמַּכֶּה אֶת חֲבֵרוֹ — אַף עַל פִּי שֶׁאֵינוֹ עוֹשֶׂה בּוֹ חַבּוּרָה…",
+      "it": "(cap. 3, hal. 1-6) Chi colpisce il prossimo anche senza causare una ferita visibile — ha trasgredito il divieto di «Lo tireh» (non deve colpire). La proibizione di maltrattare un ebreo è assoluta. Chi colpisce il padre o la madre — il suo peccato è più grave (pena di morte in era del Tempio). Chi colpisce il grande della Torah (talmid chacham) — la pena morale è la più grave di tutte. Il Rambam cita l'insegnamento: «Chi alza la mano contro il prossimo è chiamato malvagio anche se non l'ha ancora colpito» — il gesto solo è una trasgressione."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nezek", "tza'ar", "ripui", "shevet", "boshet", "beit din", "talmid chacham"
+  ]
+}

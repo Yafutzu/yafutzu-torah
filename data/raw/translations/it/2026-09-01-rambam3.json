@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shaar Avot HaTumah 11-13",
+  "name_he": "משנה תורה, הלכות שאר אבות הטומאות, פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi degli Altri Principali Genitori dell'Impurità, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-09-01",
+  "hebrew_date": "19 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "11:1", "he": "הַנּוֹשֵׂא נְבֵלָה בְּפָחוֹת מִכְּזַיִת — אֵינוֹ מִטַּמֵּא. כְּזַיִת — מִטַּמֵּא בְּמַשָּׂא.", "it": "Chi porta una nevelah (carcassa) in meno di un kezayit — non diventa impuro. Un kezayit — diventa impuro tramite il portare."},
+    {"n": "11:2", "he": "הֶבְדֵּל בֵּין נְגִיעָה לְנְשִׂיאָה — בִּנְגִיעָה צָרִיךְ שִׁיעוּר גָּדוֹל יוֹתֵר לְטֻמְאָה. בְּמַשָּׂא — כְּזַיִת מַסְפִּיק.", "it": "Differenza tra tocco e portare — nel tocco è necessaria una quantità maggiore per l'impurità. Nel portare — un kezayit è sufficiente."},
+    {"n": "11:3", "he": "נָשָׂא פָּחוֹת מִכְּזַיִת מִנְּבֵלָה — טָהוֹר. נָשָׂא כְּזַיִת — טָמֵא טֻמְאַת עֶרֶב.", "it": "Chi porta meno di un kezayit di nevelah — è puro. Chi porta un kezayit — è impuro con impurità di sera."},
+    {"n": "12:1", "he": "צֵרוּף נְבֵלוֹת — שְׁנֵי כַּחֲצָאֵי זַיִת מִשְּׁנֵי מְקוֹמוֹת מִצְטָרְפִין לְכְּזַיִת.", "it": "Combinazione di nevelot — due quantità di mezzo kezayit da due luoghi si combinano per formare un kezayit."},
+    {"n": "12:2", "he": "זְמַן הַצֵּרוּף — כָּל זְמַן שֶׁשְּׁנֵיהֶם בְּיַחַד בִּשְׁעַת הַנְּגִיעָה אוֹ הַנְּשִׂיאָה.", "it": "Il tempo per la combinazione — finché entrambi sono insieme al momento del tocco o del portare."},
+    {"n": "12:3", "he": "נִתְפַּזְּרוּ לִפְנֵי שֶׁנָּגַע — אֵינָם מִצְטָרְפִין.", "it": "Se si sono dispersi prima che toccasse — non si combinano."},
+    {"n": "13:1", "he": "מִדְרָס הַזָּב וְהַזָּבָה וְהַנִּדָּה — כְּלִים שֶׁשִּׁמְּשׁוּ אוֹתָם לִשְׁכִיבָה אוֹ לִישִׁיבָה מִטַּמְּאִים בְּטֻמְאַת מִדְרָס.", "it": "Il midras del zav, della zavah e della niddah — gli oggetti usati da loro per sedersi o sdraiarsi trasmettono l'impurità del midras."},
+    {"n": "13:2", "he": "טֻמְאַת מִדְרָס חֲמוּרָה מִטֻּמְאַת מַגָּע — הַמִּדְרָס מְטַמֵּא אֲחֵרִים בְּמַשָּׂא.", "it": "L'impurità del midras è più severa dell'impurità del tocco — il midras rende impuro gli altri tramite il portare."},
+    {"n": "13:3", "he": "דַּרְגּוֹת הַטֻּמְאָה הַנִּגְזֶרֶת מִמִּדְרָס — אַב הַטֻּמְאָה, רִאשׁוֹן, שֵׁנִי.", "it": "I gradi di impurità derivata dal midras — padre dell'impurità, primo grado, secondo grado."}
+  ],
+  "_glossary_terms_used": ["nevelah", "kezayit", "midras", "zav", "zavah", "niddah", "tum'ah"]
+}

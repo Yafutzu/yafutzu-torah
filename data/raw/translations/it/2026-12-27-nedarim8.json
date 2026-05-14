@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 8",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ח",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-27",
+  "hebrew_date": "18 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "«קׂוֹנָם אִם אֶהֱנֶה מִזֶּה» — מַהוּ «הֲנָאָה»…",
+      "it": "Chi vota «konam se trarrò beneficio da X» — qual è la portata di «beneficio» (hana'ah)? Il beneficio include qualsiasi vantaggio diretto: mangiare, bere, indossare, usare gli oggetti dell'altro, ricevere regali, accettare inviti. Ma non include il beneficio indiretto o mediato: se X beneficia di C e C beneficia del votante, questo non costituisce hana'ah dal punto di vista del voto. Il Rambam tratta in dettaglio la casistica per aiutare il giudice a determinare quando il voto è stato violato."
+    },
+    {
+      "n": 2,
+      "he": "«קׂוֹנָם אִם אֶהֱנֶה מִפְּלוֹנִי» — כְּלוּם יָכוֹל לְדַבֵּר עִמּוֹ…",
+      "it": "Chi vota «konam se beneficio da Reuven» — può ancora parlare con Reuven? Il puro scambio verbale, secondo la maggior parte delle opinioni, non costituisce hana'ah nel senso del neder, a meno che il voto non specifichi anche l'interazione verbale. Il Rambam segue l'opinione che la conversazione non è inclusa nel divieto di hana'ah a meno che il votante non l'abbia esplicitamente inclusa. La ragione: il neder si interpreta secondo l'intenzione normale del votante, e di solito chi vota «non beneficerò da X» intende i benefici materiali, non la comunicazione umana di base."
+    },
+    {
+      "n": 3,
+      "he": "«לִפְנֵי עִוֵּר» — הַמְּסַיֵּעַ לְאַחֵר לַעֲבֹר עַל נִדְרוֹ…",
+      "it": "Il principio di «lifnei iver» (non mettere un ostacolo davanti al cieco): chi aiuta qualcun altro a violare il proprio voto — viola anch'egli un divieto Torah. Esempio: se Reuven ha votato di non mangiare da Shim'on, e Shim'on offre consapevolmente a Reuven del cibo — Shim'on viola lifnei iver, anche se tecnicamente è lui a offrire, non Reuven a chiedere. Questo estende la responsabilità del voto dalla persona che lo ha fatto al contesto sociale circostante."
+    },
+    {
+      "n": 4,
+      "he": "הַנּוֹדֵר וְשָׁכַח שֶׁנָּדַר…",
+      "it": "Chi ha fatto un voto e lo ha dimenticato — e poi inadvertitamente lo viola — è esente dalla punizione severa (non è come chi lo viola deliberatamente), ma ha comunque commesso una trasgressione che richiede espiazione. I Saggi hanno insegnato: «Si raccomanda a chiunque fare la hatarat nedarim (scioglimento preventivo dei voti) prima di Rosh HaShanah» — la formula «kol nidrei» detta la sera di Yom Kippur è basata su questo principio, e serve a sciogliere i voti dimenticati o trascurati."
+    },
+    {
+      "n": 5,
+      "he": "כֵּיצַד יוֹדֵעַ אִם עָבַר עַל נִדְרוֹ — בִּשְׁגָגָה אוֹ בְּמֵזִיד…",
+      "it": "Come si determina se la violazione del voto è avvenuta per dimenticanza (bishgagah) o deliberatamente (bemeizid)? Il criterio è la consapevolezza al momento dell'azione: se il votante si ricordava del voto ma ha agito ugualmente — è una violazione deliberata. Se era convinto di non aver fatto un voto, o aveva dimenticato completamente — è bishgagah. Il Rambam sottolinea che questa distinzione ha implicazioni per l'espiazione: la violazione deliberata è più grave e richiede un processo di teshuvah più profondo."
+    },
+    {
+      "n": 6,
+      "he": "הַנּוֹדֵר נֵדֶר גָּדוֹל — יַחֲשֹׁב בְּדַעְתּוֹ קֹדֶם שֶׁיִּדֹּר…",
+      "it": "Il consiglio finale del Rambam nel capitolo: chi vuole fare un voto grande — pensi bene prima di pronunciarlo. La halakhah permette i voti, ma la saggezza consiglia la cautela. Chiedersi: «Sarò in grado di mantenerlo? La situazione futura potrebbe cambiare? Sto votando in un momento di chiarezza o di emozione?» Queste domande preventive sono il vero spirito della Torah sul tema dei voti: non la proibizione assoluta, ma la responsabilità assoluta verso la propria parola."
+    }
+  ],
+  "_glossary_terms_used": [
+    "konam", "hana'ah", "neder", "lifnei iver", "hatarat nedarim", "kol nidrei", "Rosh HaShanah", "Yom Kippur", "teshuvah", "bishgagah", "bemeizid"
+  ]
+}

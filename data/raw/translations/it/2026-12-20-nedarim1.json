@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 1",
+  "name_he": "משנה תורה, הלכות נדרים, פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-20",
+  "hebrew_date": "11 Tevet 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַנֵּדֶר — שׁוֹנֶה מִן הַשְּׁבוּעָה בְּיָסוֹד אֶחָד גָּדוֹל…",
+      "it": "Il neder (voto) è fondamentalmente diverso dalla shevuah (giuramento). La shevuah impone un obbligo sulla persona: «giuro che non mangerò X» — il divieto è sulla persona stessa. Il neder impone uno stato sull'oggetto: «questo pane è per me come un korban (sacrificio)» — l'oggetto acquista uno stato di proibizione. La distinzione è cruciale: una shevuah lega la volontà del giurante; un neder crea uno status oggettivo sull'oggetto indipendentemente dalla volontà."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד הַנֵּדֶר יוֹצֵר אִיסּוּר עַל הַחֵפֶץ…",
+      "it": "Come crea il neder un divieto sull'oggetto? Il voto assimila l'oggetto all'hekdesh (consacrazione al Tempio): così come un oggetto dedicato al Tempio è proibito nell'uso ordinario, così un oggetto su cui è stato pronunciato un neder diventa proibito per il votante. L'espressione tipica del neder è «konam» (una parola sostituiva di «korban»): «konam questo pane per me» significa «questo pane sia per me come se fosse consacrato al Tempio» — e quindi proibito."
+    },
+    {
+      "n": 3,
+      "he": "לֹא יַחֵל דְּבָרוֹ — מִצְוַת לֹא תַּעֲשֶׂה…",
+      "it": "Il comandamento «lo yachel devaro» (Numeri 30:3) — «non profanerà la sua parola» — è il fondamento biblico dei voti. Chi fa un voto e non lo mantiene viola questo precetto negativo. La parola del votante ha forza creativa: nel momento in cui pronuncia il voto, crea uno stato halakhico. Il mantenimento del voto non è solo una questione di onestà personale — è il rispetto per la forza creativa della parola umana, che riflette la forza creativa della parola divina (come nel Bereishit: «D-o disse... e fu»)."
+    },
+    {
+      "n": 4,
+      "he": "אֵי זֶה הוּא נֵדֶר — כָּל שֶׁאוֹסֵר דָּבָר עַל עַצְמוֹ בִּלְשׁוֹן נֵדֶר…",
+      "it": "Che cos'è un neder? Qualsiasi dichiarazione con cui una persona proibisce a se stessa una cosa usando il linguaggio del neder: «questo sia proibito per me», «questo sia come un korban per me», «konam questo per me». Non si richiede una formula precisa — è sufficiente che l'intenzione sia chiara e il linguaggio sia riconosciuto come linguaggio di voto. Il Rambam distingue tra il neder e la semplice promessa: la promessa morale non crea uno stato halakhico; il neder sì."
+    },
+    {
+      "n": 5,
+      "he": "נִדְרֵי הֶקְדֵּשׁ — הַמַּקְדִּישׁ חֵפֶץ לְבֵית הַמִּקְדָּשׁ…",
+      "it": "I voti di consacrazione (nidrei hekdesh): chi consacra un oggetto al Beit HaMikdash — il voto crea un'obbligazione reale di consegnare l'oggetto al Tempio. Se l'oggetto viene usato prima della consegna, si commette un me'ilah (uso illecito di beni sacri). Questi voti erano comuni nell'era del Tempio: i fedeli votavano animali per i sacrifici, denaro per le riparazioni del Tempio, oggetti d'oro per il tesoro sacro. Oggi, in assenza del Tempio, molti di questi voti non sono applicabili nella loro forma originale."
+    },
+    {
+      "n": 6,
+      "he": "הַנּוֹדֵר מִן הַמַּאֲכָל — אָסוּר בְּכָל הָאוֹכָלִין…",
+      "it": "Chi vota di astenersi «dal cibo» in generale — è proibito in tutti gli alimenti. Chi vota di astenersi da un alimento specifico — è proibito solo in quell'alimento specifico e nei suoi derivati diretti. L'interpretazione del neder segue il linguaggio comune: «cibo» nel parlare ordinario include tutto ciò che è normalmente mangiato. Il Rambam segue il principio: «il neder si interpreta secondo il linguaggio comune della gente» — non secondo linguaggio tecnico o personale del votante."
+    },
+    {
+      "n": 7,
+      "he": "הַנּוֹדֵר מִן הַיַּיִן — אָסוּר בְּכָל מִינֵי יַיִן…",
+      "it": "Chi vota di astenersi dal vino — è proibito in tutte le varietà di vino, incluso il vino dolce, il vino di Gaza, il vino di cottura. L'uva acerba e l'aceto di vino — dipende dall'intenzione del votante e dall'uso linguistico locale. Il capitolo introduce il principio guida di tutte le halachot dei voti: il neder è potente e il linguaggio conta. Nei capitoli successivi il Rambam esaminerà i meccanismi di scioglimento e annullamento dei voti — la Torah ha previsto uscite, perché sa che gli esseri umani a volte votano in modo avventato."
+    }
+  ],
+  "_glossary_terms_used": [
+    "neder", "shevuah", "korban", "hekdesh", "konam", "lo yachel devaro", "me'ilah", "nidrei hekdesh", "Beit HaMikdash"
+  ]
+}

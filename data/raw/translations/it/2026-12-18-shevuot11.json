@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 11",
+  "name_he": "משנה תורה, הלכות שבועות, פרק יא",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 11",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-18",
+  "hebrew_date": "9 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבוּעַת שָׁוְא — הִיא שְׁבוּעָה עַל דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ…",
+      "it": "La «shevu'at shav» (giuramento vano) comprende giuramenti su cose che non hanno sostanza o che sono impossibili da realizzare. Il principio: «ein shevuah al davar she-ein bo mamash» — non vi è giuramento valido su qualcosa che è privo di sostanza concreta. Un giuramento del tipo «giuro di volare come un uccello» o «giuro di attraversare il mare a piedi asciutti» — è una shevu'at shav per definizione, in quanto il contenuto è impossibile."
+    },
+    {
+      "n": 2,
+      "he": "הַנִּשְׁבָּע לַעֲבֹר עַל הַמִּצְווֹת — כְּגוֹן שֶׁנִּשְׁבַּע שֶׁלֹּא יִלְבַּשׁ תְּפִלִּין…",
+      "it": "Chi giura di violare un comandamento — ad esempio «giuro che non indosserò i tefillin» oppure «giuro che non rispetterò lo Shabbat» — tale giuramento è una shevu'at shav. Il giuramento non ha effetto e il giurante è tenuto a rispettare il comandamento. Anzi, chi adempie il comandamento (violando il giuramento nullo) non commette alcun peccato. Il giuramento su un'azione che la Torah obbliga o proibisce è intrinsecamente senza sostanza."
+    },
+    {
+      "n": 3,
+      "he": "הַנִּשְׁבַּע לִהְיוֹת צַדִּיק — שְׁבוּעַת שָׁוְא…",
+      "it": "Chi giura «giuro di essere un tzaddik (giusto)» — anche questo è una shevu'at shav, perché la giustizia non è qualcosa che si raggiunge con un giuramento ma con la pratica. Giurare di non commettere mai peccato — è impossibile per un essere umano, e quindi è un giuramento vano. Analogamente, giurare di fare qualcosa che è al di là delle possibilità fisiche umane, come digiunare quaranta giorni consecutivi senza interruzione — è una shevu'at shav per impossibilità fisica."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד הִיא הָעֲבֵרָה שֶׁל שְׁבוּעַת שָׁוְא…",
+      "it": "Come si configura la violazione della shevu'at shav? La violazione avviene nel momento stesso del giuramento — non nell'azione futura. La ragione: un giuramento impossibile o vano è già una profanazione del nome divino nel momento in cui viene pronunciato. Non si aspetta che il futuro dimostri l'impossibilità: il solo fatto di aver invocato il nome divino per un proposito privo di sostanza costituisce già la violazione del terzo comandamento: «Lo non invocherai il nome di Hashem tuo D-o invano.»"
+    },
+    {
+      "n": 5,
+      "he": "הָאוֹמֵר שְׁבוּעָה שֶׁאֹכַל וְשֶׁלֹּא אֹכַל — בְּאוֹתָהּ שָׁעָה…",
+      "it": "Chi dice «giuro che mangerò questo pane» e poi non lo mangia — ha violato una shevu'at shav (se il giuramento era impossibile da mantenere) oppure una shevu'at sheker (giuramento falso). La distinzione è temporale: se al momento del giuramento era già impossibile mantenere l'impegno, è shav; se era possibile ma poi non è stato mantenuto, è sheker. Entrambe le categorie sono proibite dalla Torah, ma la shevu'at shav è considerata più grave per certi aspetti, perché profana il nome divino immediatamente."
+    },
+    {
+      "n": 6,
+      "he": "הַנִּשְׁבַּע עַל עֲמוּד שֶׁל אֶבֶן שֶׁהוּא זָהָב — שְׁבוּעַת שָׁוְא…",
+      "it": "Chi giura su una cosa che è palesemente falsa — ad esempio indica una colonna di pietra e giura «questa colonna è d'oro» — la sua shevu'at shav ha una dimensione meccanica: il giuramento è tecnicamente pronunciato, il nome divino è stato invocato, e la realtà lo smentisce immediatamente. Il Rambam chiarisce che la «meccanica» della violazione è indipendente dall'intenzione: anche se chi giura credeva di avere ragione, se la sua affermazione era oggettivamente impossibile o falsa — la violazione è avvenuta. La cautela nel pronunciare giuramenti è quindi il rimedio principale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevu'at shav", "shevu'at sheker", "shevu'at shav", "tzaddik", "tefillin", "ein shevuah al davar she-ein bo mamash"
+  ]
+}

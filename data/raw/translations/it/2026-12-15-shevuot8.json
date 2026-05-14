@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 8",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ח",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-15",
+  "hebrew_date": "6 Tevet 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד מַשְׁבִּיעִין — מַחְזִיקִין בַּחֵפֶץ שֶׁל מִצְוָה...",
+      "it": "Come si presta giuramento: il giurante deve tenere in mano un oggetto sacro (chefetz shel mitzvah) — un sefer Torah, dei tefillin, o un altro oggetto di kedushah (santità). Tenere l'oggetto sacro nelle mani accentua la consapevolezza della presenza divina durante il giuramento. Questa pratica è di origine rabbinica ma profondamente radicata nella tradizione. Il beit din (tribunale) prepara l'oggetto sacro e lo porge al giurante prima della pronuncia del giuramento."
+    },
+    {
+      "n": 2,
+      "he": "נוּסַח הַשְּׁבוּעָה — מַשְׁבִּיעַ אֲנִי עָלֶיךָ בְּשֵׁם ה'...",
+      "it": "La formula del giuramento: il giudice dice al giurante «Ti giuro nel Nome di D-o, o nell'Onnipotente, o in Shaddai, o nei Sebaot — che dici la verità in questa materia». Il giurante risponde «Amen». Rispondere «Amen» è equivalente a pronunciare l'intero giuramento verbalmente. Questo è insegnato nel Talmud (Shevuot 29b): la risposta «Amen» al giuramento altrui è come pronunciare l'intero giuramento in prima persona."
+    },
+    {
+      "n": 3,
+      "he": "הַנִּשְׁבָּע בְּשֵׁם הַמִּדּוֹת — שְׁבוּעָתוֹ שְׁבוּעָה...",
+      "it": "Chi giura negli attributi (middot) divini — «Giuro per il Misericordioso» (Rachaman), «per il Clemente» (Chanun), «per il Paziente» (Erech apayim) — il suo giuramento è valido. I Saggi hanno incluso questi attributi divini nella categoria dei «kinuyim» (epiteti) del Nome divino. Un giuramento pronunciato in lingua straniera — è valido purché il giurante comprenda il significato di ciò che sta dicendo. La validità del giuramento dipende dalla comprensione, non dalla lingua."
+    },
+    {
+      "n": 4,
+      "he": "נִשְׁבַּע בִּלְשׁוֹן עַמִּים — וְהֵבִין...",
+      "it": "Chi giura in una lingua straniera comprendendo il significato — il giuramento è completamente valido. Chi giura senza capire la lingua (es. ha ripetuto parole in arabo senza sapere cosa significano) — il giuramento è controverso; alcuni autorità lo ritengono valido se l'intento era chiaro dal contesto. Il principio: la sanzione del giuramento dipende dalla «da'at» (consapevolezza) e dall'«arba'ah devarim» (quattro elementi): intenzione, comprensione, pronuncia, oggetto valido del giuramento."
+    },
+    {
+      "n": 5,
+      "he": "שְׁבוּעָה בְּאֹנֶס — אֵינָהּ שְׁבוּעָה...",
+      "it": "Un giuramento pronunciato sotto coercizione (ones) — non è halachicamente vincolante. Se qualcuno ha giurato sotto minaccia di morte o di danno grave — il giuramento è nullo. Questo principio si applica anche nel diritto internazionale ebraico: trattati e accordi stipulati sotto minaccia possono essere considerati nulli. Il giuramento richiede libertà — solo chi è libero di scegliere può obbligarsi sacralamente attraverso la parola."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chefetz shel mitzvah", "sefer Torah", "tefillin", "kedushah", "beit din", "Amen", "middot", "Rachaman", "Chanun", "Erech apayim", "kinuyim", "da'at", "ones"
+  ]
+}

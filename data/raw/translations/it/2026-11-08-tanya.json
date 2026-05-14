@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 6",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק ו",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 6",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-08",
+  "hebrew_date": "28 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מְקוֹם הַנֶּפֶשׁ הָאֱלֹהִית — בַּמֹּחַ…",
+      "it": "L'Alter Rebbe descrive la localizzazione anatomica delle due anime nell'essere umano. La nefesh ha-Elohit ha il suo trono principale nel cervello (moach) — sede dell'intelletto. Da lì irradia verso il cuore, specialmente verso il ventricolo sinistro destro del cuore — il cuore è il luogo delle emozioni dell'anima divina (ahavat Hashem, yirat Hashem). Il percorso è: intelletto → emozioni. La comprensione divina genera l'amore e il timore divini."
+    },
+    {
+      "n": 2,
+      "he": "מְקוֹם הַנֶּפֶשׁ הַבְּהֵמִית — בַּלֵּב הַשְּׂמֹאלִי…",
+      "it": "La nefesh ha-behamit ha il suo trono principale nella camera sinistra del cuore (lev ha-smali) — la sede del sangue e del calore corporeo. Da lì irradia verso il cervello. Il percorso è opposto a quello dell'anima divina: emozione → pensiero. L'anima animale genera prima sentimenti e desideri, poi cerca argomenti razionali per giustificarli (rationalization). Questo è perché le argomentazioni dell'yetzer ha-ra appaiono così convincenti — la nefesh ha-behamit è brava a costruire «ragioni» per le proprie voglie."
+    },
+    {
+      "n": 3,
+      "he": "הַמִּלְחָמָה הַתְּדִירִית — בֵּין שְׁתֵּי הַנְּשָׁמוֹת…",
+      "it": "La lotta perpetua tra le due anime è la condizione normale dell'essere umano. Il cervello (nefesh ha-Elohit) e il cuore sinistro (nefesh ha-behamit) sono in costante tensione. L'Alter Rebbe cita il versetto «Ki yetzer lev ha-adam ra mi-ne'urav» (poiché l'impulso del cuore dell'uomo è malvagio fin dalla sua giovinezza — Gen. 8:21) per mostrare che la lotta inizia già nell'infanzia. Ma questa lotta non è una tragedia — è la condizione necessaria per il libero arbitrio e il servizio divino autentico. Un uomo senza conflitto interiore non ha né merito né crescita."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nefesh ha-Elohit", "nefesh ha-behamit", "moach", "lev ha-smali", "ahavat Hashem", "yirat Hashem", "yetzer ha-ra", "Alter Rebbe"
+  ]
+}

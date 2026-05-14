@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 23-25",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות כג–כה",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettere 23–25",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-30",
+  "hebrew_date": "15 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "רֹאשׁ הַשָּׁנָה — קַבָּלַת מַלְכוּת שָׁמַיִם...",
+      "it": "Lettera 23: Rosh Hashanah è il giorno della 'Incoronazione di Dio come Re' (kabbalat malkhut shamayim). L'Alter Rebbe spiega il significato mistico del shofar: il suono del shofar non è solo un risveglio emotivo — è un atto cosmico che 'introduce' Dio nella regalità del mondo per l'anno nuovo. 'Machnisin et Hashem le-malkhut' — si fa re Dio nel mondo."
+    },
+    {
+      "n": 2,
+      "he": "יוֹם כִּפּוּר — הַכֹּהֵן הַגָּדוֹל בְּקֹדֶשׁ הַקֳּדָשִׁים...",
+      "it": "Lettera 24: Yom Kippur come paradigma della teshuvah più profonda. L'Alter Rebbe usa l'immagine del Kohen Gadol (Sommo Sacerdote) che entra nel Kodesh HaKodashim (Santo dei Santi) una volta all'anno come metafora per lo stato spirituale di ogni ebreo a Yom Kippur: si entra nella propria 'interiorità più profonda', quella dimensione dell'anima che è sempre rimasta pura e unita a Dio."
+    },
+    {
+      "n": 3,
+      "he": "סוּכּוֹת — שִׁבְעַת הָאוּשְׁפִּיזִין...",
+      "it": "Lettera 25: Sukkot e i sette ospiti (ushpizin). L'Alter Rebbe spiega che Avraham, Yitzchak, Yaakov, Moshe, Aharon, Yosef e David — i sette ushpizin — corrispondono alle sette sefirot (attributi divini) di Chesed (amore), Gevurah (rigore), Tiferet (bellezza), Netzach (vittoria), Hod (gloria), Yesod (fondamento) e Malkhut (regalità). La sukkah è la manifestazione fisica di questi sette attributi che ci avvolgono."
+    },
+    {
+      "n": 4,
+      "he": "הַסּוּכָּה — דִּירַת עֲרַי...",
+      "it": "La sukkah è una 'dimora temporanea' (dirat arai) — ma il Zohar insegna che essa è la più elevata delle dimora. Vivere temporaneamente in una capanna di rami rivela che la nostra vera casa non è in questo mondo fisico, ma nella Luce Divina che ci avvolge. Le pareti della sukkah sono letteralmente il 'vestito' di Dio che ci circonda. Queste tre lettere concludono la sezione del calendario festivo nell'Iggeret HaKodesh del Tanya."
+    }
+  ],
+  "_glossary_terms_used": ["Rosh Hashanah", "kabbalat malkhut shamayim", "shofar", "Yom Kippur", "Kohen Gadol", "Kodesh HaKodashim", "teshuvah", "Sukkot", "ushpizin", "sefirot", "Chesed", "Gevurah", "Tiferet", "Netzach", "Hod", "Yesod", "Malkhut", "sukkah", "dirat arai", "Alter Rebbe", "Tanya", "Iggeret HaKodesh"]
+}

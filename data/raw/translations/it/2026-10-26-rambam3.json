@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Zechia UMatana 10-12",
+  "name_he": "משנה תורה, הלכות זכייה ומתנה, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi dell'Acquisizione e dei Doni, capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-10-26",
+  "hebrew_date": "15 Cheshvan 5787",
+  "halachot_count": 16,
+  "halachot": [
+    {
+      "n": "10:1-5",
+      "he": "הַנּוֹתֵן מַתָּנָה לְעֻבָּר — קֹדֶם שֶׁנּוֹלַד — אֵינָהּ מַתָּנָה…",
+      "it": "(Zechia UMatana cap. 10) Doni a un nascituro (ubar — feto): un dono fatto a un feto prima che nasca — non è valido, poiché il feto non ha ancora acquisito personalità giuridica (kinyah) che gli permetta di ricevere beni. Una volta nato — può ricevere beni tramite zechia (acquisizione per suo conto da parte dei genitori). Dono a un minore (katan): è valido se un adulto acquisisce per suo conto («zakhin le-adam she-lo be-fanav»). Un minore di sei anni non può eseguire atti di acquisizione propri; da sei anni in su può eseguire kinyan per beni mobili minori, per usi pratici."
+    },
+    {
+      "n": "11:1-6",
+      "he": "הַמּוֹדֶה בְּפָנָיו — מוֹדָעָה — בָּטֵל הַשְּׁטָר…",
+      "it": "(Zechia UMatana cap. 11) Moda'ah (dichiarazione preventiva di coercizione): se una persona sa che sarà costretta a firmare un documento o a fare un atto legale sotto costrizione, può dichiarare preventivamente davanti a testimoni che l'atto futuro è coercitivo e nullo (moda'ah). La moda'ah deve essere fatta prima dell'atto coercitivo, non dopo. Se il destinatario del documento viene a sapere della moda'ah — l'atto è annullabile. Il Rambam discute quando la moda'ah è efficace e quando no: dipende dalla natura della costrizione e dalla specificità della dichiarazione."
+    },
+    {
+      "n": "12:1-5",
+      "he": "זֶה הַכְּלָל — מַתָּנָה הַנְּתוּנָה בְּאֹנֶס — אֵינָהּ מַתָּנָה…",
+      "it": "(Zechia UMatana cap. 12 — capitolo conclusivo) Un dono fatto sotto costrizione (ones) — non è un dono valido. La regola fondamentale: qualsiasi trasferimento di proprietà richiede «gemirat da'at» — una decisione libera e finale. La costrizione, l'inganno o l'errore eliminano il gemirat da'at e rendono l'atto nullo. Il Rambam conclude le Leggi dell'Acquisizione e dei Doni con il principio unificante: la proprietà si trasferisce solo attraverso il consenso libero di chi cede, espresso attraverso i meccanismi formali (kinyan, shtar, chazakah). «Si concludono le Leggi dell'Acquisizione e dei Doni con l'aiuto del Cielo.»"
+    }
+  ],
+  "_glossary_terms_used": [
+    "ubar", "kinyah", "zechia", "katan", "moda'ah", "ones", "gemirat da'at", "kinyan", "shtar", "chazakah", "zakhin le-adam she-lo be-fanav"
+  ]
+}

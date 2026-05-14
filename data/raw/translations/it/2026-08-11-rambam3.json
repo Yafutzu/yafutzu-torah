@@ -1,0 +1,42 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 12-14",
+  "name_he": "משנה תורה, הלכות טומאת מת, פרקים יב-יד",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere, capitoli 12-14",
+  "cycle": "rambam-3",
+  "date": "2026-08-11",
+  "hebrew_date": "28 Av 5786",
+  "halachot_count": 11,
+  "halachot": [
+    {
+      "n": "12:1",
+      "he": "דם המת מטמא. ושיעור הדם המטמא הוא רביעית הלוג. דם שיצא מן האדם בחייו — אינו מטמא כדם המת.",
+      "it": "Il sangue del cadavere trasmette impurità. La quantità minima di sangue che trasmette impurità è un revi'it ha-log (un quarto di log). Il sangue uscito dall'uomo durante la vita non trasmette l'impurità come il sangue del cadavere."
+    },
+    {
+      "n": "12:2",
+      "he": "דם שפרש מן הגוף בחיים ועודנו עליו — אינו מטמא. דם שפרש ממנו אחרי מותו — מטמא. וכן דם שיצא מן הפצע בשעת גסיסה — דינו כדם המת.",
+      "it": "Il sangue che è uscito dal corpo durante la vita e si trova ancora su di esso non trasmette impurità. Il sangue uscito dopo la morte trasmette impurità. Anche il sangue uscito da una ferita al momento dell'agonia (gasisah) ha lo stesso statuto del sangue del cadavere."
+    },
+    {
+      "n": "13:1",
+      "he": "כלי שלא גמר מלאכתו — אינו מקבל טומאה. שנאמר 'כלי' — עד שתגמר מלאכתו. ואם אינו ראוי לתשמישו — אינו כלי לעניין טומאה.",
+      "it": "Un oggetto che non è stato completato nella sua lavorazione non riceve l'impurità. Come è detto: 'kli' (oggetto) — implica solo dopo il completamento della lavorazione. Se non è adatto al proprio scopo, non è un kli ai fini delle leggi dell'impurità."
+    },
+    {
+      "n": "13:2",
+      "he": "כלי שנשבר ואבד תשמישו — מיטהר. ואם חזר ותיקנו — שב לקבל טומאה. זה הנקרא 'ביטול כלי' — שהשבירה ביטלה ממנו תורת כלי.",
+      "it": "Un oggetto che si è rotto e ha perso la sua funzione — si purifica. Se poi viene riparato, ricomincia a ricevere l'impurità. Questo è chiamato 'bittul kli' (annullamento della qualità di oggetto) — la rottura lo ha privato dello statuto di kli."
+    },
+    {
+      "n": "14:1",
+      "he": "טומאת מת חמורה מכל הטומאות. ולכן כוהן אסור ליטמא למת — אלא לשבעה קרובים בלבד: אביו, אמו, אחיו, אחותו הבתולה, בנו, בתו, ואשתו.",
+      "it": "La tumat met (impurità da cadavere) è la più grave di tutte le impurità. Pertanto a un kohen è vietato rendersi impuro per un cadavere — tranne che per sette parenti stretti: padre, madre, fratello, sorella nubile, figlio, figlia e moglie."
+    },
+    {
+      "n": "14:2",
+      "he": "כוהן גדול — אסור ליטמא אפילו לאביו ואמו. שנאמר 'לאביו ולאמו לא יטמא'. ונביאים קיימו זאת אפילו בשעת גדולתם.",
+      "it": "Il Kohen Gadol (Sommo Sacerdote) non può rendersi impuro nemmeno per il padre e la madre, come è detto: 'Per il suo padre e per sua madre non si renderà impuro' (Vayikra 21:11). I profeti osservarono questa legge anche nei momenti della loro grandezza."
+    }
+  ],
+  "_glossary_terms_used": ["tumat met", "kli", "bittul kli", "kohen", "Kohen Gadol", "gasisah", "revi'it ha-log"]
+}

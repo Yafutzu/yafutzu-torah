@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Avodas Yom HaKippurim 1-3",
+  "name_he": "משנה תורה, הלכות עבודת יום הכיפורים, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi del Servizio del Giorno dell'Espiazione, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-07-27",
+  "hebrew_date": "13 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "1:1",
+      "he": "יוֹם הַכִּפּוּרִים — קָדוֹשׁ בִּקְדֻשָּׁה יְתֵרָה. עֲבוֹדַת הַיּוֹם — כֻּלָּהּ בְּכֹהֵן גָּדוֹל בִּלְבַד.",
+      "it": "Yom Kippur — è santificato con una santità superiore. Il servizio del giorno — è eseguito interamente e unicamente dal Kohen Gadol (Sommo Sacerdote)."
+    },
+    {
+      "n": "1:2",
+      "he": "שִׁבְעַת יָמִים לִפְנֵי יוֹם הַכִּפּוּרִים — מַפְרִישִׁין אֶת הַכֹּהֵן גָּדוֹל מִבֵּיתוֹ לְלִשְׁכַּת פַּרְהֶדְרִין.",
+      "it": "Sette giorni prima di Yom Kippur — il Kohen Gadol viene separato dalla sua casa e condotto alla Camera del Parhedrin (la sua camera speciale nel Tempio)."
+    },
+    {
+      "n": "1:3",
+      "he": "מַלְמְדִין אוֹתוֹ אֶת סֵדֶר הָעֲבוֹדָה, שֶׁלֹּא יִשְׁכַּח כָּל עֵסֶק הַיּוֹם.",
+      "it": "Lo istruiscono nell'ordine del servizio, affinché non dimentichi nulla della procedura del giorno."
+    },
+    {
+      "n": "2:1",
+      "he": "בְּיוֹם הַכִּפּוּרִים — טוֹבֵל כֹּהֵן גָּדוֹל חָמֵשׁ טְבִילוֹת וּמְקַדֵּשׁ יָדָיו וְרַגְלָיו עֶשֶׂר קִדּוּשִׁין.",
+      "it": "A Yom Kippur — il Kohen Gadol si immerge nel mikvaeh (bagno rituale) cinque volte e santifica mani e piedi (kiddush yadayim ve-raglayim) dieci volte."
+    },
+    {
+      "n": "2:2",
+      "he": "חֲמִשָּׁה בְּגָדִים לָבָן לוֹבֵשׁ — וְחוֹזֵר לִלְבוֹשׁ הַזָּהָב לְחֵלֶק מֵהָעֲבוֹדָה.",
+      "it": "Indossa cinque vesti di bianco (bigdei lavan) — e ritorna a indossare le vesti d'oro (bigdei zahav) per una parte del servizio."
+    },
+    {
+      "n": "2:3",
+      "he": "בְּגָדֵי לָבָן — לַעֲבוֹדַת הַקֹּדֶשׁ הַקָּדָשִׁים. בְּגָדֵי זָהָב — לִשְׁאָר הָעֲבוֹדָה.",
+      "it": "Le vesti bianche — per il servizio nel Santo dei Santi. Le vesti d'oro — per il resto del servizio."
+    },
+    {
+      "n": "3:1",
+      "he": "שְׁנֵי שְׂעִירִים — אֶחָד לַה' וְאֶחָד לַעֲזָאזֵל. הַגּוֹרָל מַכְרִיעַ בֵּינֵיהֶם.",
+      "it": "Due capri — uno per l'Eterno (la'Hashem) e uno per Azazel (la'Azazel). Il sorteggio (goral) determina quale è quale."
+    },
+    {
+      "n": "3:2",
+      "he": "הַכֹּהֵן גָּדוֹל מַגְרִיל — יָד יְמִינוֹ עַל אֶחָד וּשְׂמֹאלוֹ עַל הַשֵּׁנִי. אֵיזֶה שֶׁעָלָה בְּיָמִינוֹ — לַה'.",
+      "it": "Il Kohen Gadol estrae il sorteggio — la mano destra su uno e la sinistra sull'altro. Quello che sale nella mano destra — è per l'Eterno."
+    },
+    {
+      "n": "3:3",
+      "he": "חוּט שֶׁל זְהוֹרִית — קוֹשְׁרִין בֵּין קַרְנֵי הַשָּׂעִיר לַעֲזָאזֵל, כְּדֵי לְהַכִּירוֹ.",
+      "it": "Un filo di scarlatto — viene legato tra le corna del capro per Azazel, per riconoscerlo. Quando il capro viene inviato nel deserto, il filo diventa bianco — segno dell'espiazione completata."
+    }
+  ],
+  "_glossary_terms_used": ["Yom Kippur", "Kohen Gadol", "mikvaeh", "kiddush yadayim ve-raglayim", "bigdei lavan", "bigdei zahav", "Kodesh ha-Kodashim", "la'Azazel", "goral"]
+}

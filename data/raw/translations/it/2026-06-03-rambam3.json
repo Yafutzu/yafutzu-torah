@@ -1,0 +1,137 @@
+{
+  "ref": "Mishneh Torah, Kilayim 6-8",
+  "name_he": "הלכות כלאיים פרקים ו'-ח'",
+  "name_it": "Leggi dei Kilayim, Capitoli 6–8",
+  "cycle": "rambam-3",
+  "date": "2026-06-03",
+  "hebrew_date": "18 Sivan 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "הַמַּבְרִיךְ גֶּפֶן בְּמִין אַחֵר",
+      "it": "Chi innesta (mavrich, מַבְרִיךְ) una vite in un'altra specie — ad esempio inclinandone un tralcio sotto terra per farlo attecchire in una pianta di un'altra specie — viola il kilayim hakerem (כִּלְאַיִם הַכֶּרֶם). L'innesto tra specie diverse è proibito dalla Torah."
+    },
+    {
+      "n": "6:2",
+      "he": "הַמַּרְכִּיב אִילָן בְּאִילָן",
+      "it": "L'innesto (harkavah, הַרְכָּבָה) di una specie di albero in un'altra è proibito dalla Torah. Ciò include anche l'innesto di alberi da frutto in alberi sterili e viceversa. Il prodotto di un innesto proibito è permesso nel consumo."
+    },
+    {
+      "n": "6:3",
+      "he": "מַרְכִּיבִין אִילָן בְּאִילָן מִמִּינוֹ",
+      "it": "È permesso innestare un albero dello stesso tipo in un altro dello stesso tipo — per esempio un ulivo in un ulivo — anche se sono varietà diverse, purché appartengano alla stessa specie botanica fondamentale."
+    },
+    {
+      "n": "6:4",
+      "he": "הָאֵבִיּוֹנוֹת וְהַצַּלָּף",
+      "it": "I capperi (tzalaf, צַלָּף) hanno parti diverse (gemme, foglie, frutti) che possono appartenere a categorie diverse di specie. Il Rambam discute se i diversi componenti del capero possono essere considerati parte di un innesto con un'altra specie."
+    },
+    {
+      "n": "6:5",
+      "he": "כֶּרֶם שֶׁחָרֵב מֶחֱצָה",
+      "it": "Un vigneto da cui è morta metà delle viti — ma ne rimangono ancora cinque vive — mantiene il suo status di kerem. Se rimangono meno di cinque, perde tale status e le leggi del kilayim hakerem non si applicano più."
+    },
+    {
+      "n": "6:6",
+      "he": "נְטִיעוֹת שֶׁל גּוֹיִם",
+      "it": "Le piantagioni appartenenti a non ebrei (goyim, גּוֹיִם) non sono soggette alle leggi del kilayim in modo identico. Tuttavia, un ebreo che acquista un campo da un non ebreo con kilayim già esistenti non deve necessariamente rimuoverlo immediatamente."
+    },
+    {
+      "n": "6:7",
+      "he": "הַקּוֹנֶה כֶּרֶם מִן הַנָּכְרִי",
+      "it": "Chi acquista un vigneto da un non ebreo dove erano stati seminati altri semi deve rimuovere i semi estranei (kilayim hakerem). Il kilayim non viene annullato per il fatto che il campo era appartenuto a un non ebreo."
+    },
+    {
+      "n": "6:8",
+      "he": "כֵּיצַד מַצִּיל כֶּרֶם זֶה",
+      "it": "Come si 'salva' un vigneto in cui è cresciuto del kilayim? Si estirpano le piante straniere prima che producano semi. Se hanno già prodotto semi, bisogna rimuovere anche quelli, poiché si teme che si diffondano ulteriormente."
+    },
+    {
+      "n": "7:1",
+      "he": "כִּלְאֵי בְהֵמָה",
+      "it": "Il kilayim degli animali (kilayim behemah, כִּלְאֵי בְהֵמָה) comprende due divieti: incrociare specie diverse (harba'ah, הַרְבָּעָה) e aggiogare insieme specie diverse (charishat kilayim, חֲרִישַׁת כִּלְאַיִם). La proibizione dell'incrocio si basa su Lev. 19:19: 'La tua bestia non farai accoppiarsi con specie diverse'."
+    },
+    {
+      "n": "7:2",
+      "he": "אֵין מַרְבִּיעִין כִּלְאַיִם בִּבְהֵמָה",
+      "it": "È proibito accoppiare (harba'ah) due animali di specie diverse per farli riprodurre. Questo vale sia per gli animali puri (tahorim, טְהוֹרִים) sia per gli animali impuri (tme'im, טְמֵאִים). Il divieto si applica in Eretz Yisrael e fuori dalla Terra d'Israele."
+    },
+    {
+      "n": "7:3",
+      "he": "הַבָּא עַל בְּהֵמַת חֲבֵרוֹ",
+      "it": "Chi fa accoppiare la bestia del suo prossimo con una di specie diversa viola il divieto, anche se non è il proprietario. Il divieto riguarda l'atto in sé, non la proprietà degli animali coinvolti."
+    },
+    {
+      "n": "7:4",
+      "he": "הַחֲמוֹר וְהַסּוּס",
+      "it": "Il mulo (pared, פֶּרֶד) — prodotto del congiungimento di asino (chamor, חֲמוֹר) e cavallo (sus, סוּס) — è esso stesso il risultato di kilayim. Tuttavia il mulo esistente può essere posseduto e usato; è l'atto dell'accoppiamento tra le due specie genitori che è proibito."
+    },
+    {
+      "n": "7:5",
+      "he": "הַכֶּלֶב וְהַשּׁוּעָל",
+      "it": "Il cane (kelev, כֶּלֶב) e la volpe (shu'al, שׁוּעָל), pur essendo entrambi canidi, sono considerati specie diverse ai fini del kilayim. Il criterio non è la famiglia biologica moderna ma la definizione tradizionale delle specie."
+    },
+    {
+      "n": "7:6",
+      "he": "אֵין חוֹרְשִׁין בְּכִלְאַיִם",
+      "it": "Non si ara (charisha, חֲרִישָׁה) con due specie di animali aggiogati insieme — come un bue e un asino — anche se non vengono fatti riprodurre. La proibizione (Deut. 22:10: 'Non arerai con un bue e un asino insieme') riguarda ogni tipo di lavoro in comune."
+    },
+    {
+      "n": "7:7",
+      "he": "אֵין אוֹסְרִין אֶלָּא בְּשׁוֹר וַחֲמוֹר",
+      "it": "La proibizione della Torah menziona esplicitamente bue (shor, שׁוֹר) e asino (chamor). I Saggi estesero il divieto a qualsiasi coppia di specie diverse aggiogata insieme per qualsiasi lavoro, per decreto rabbinico."
+    },
+    {
+      "n": "7:8",
+      "he": "הַמּוֹסֵר בְּהֵמָה לַנָּכְרִי לַחֲרוֹשׁ",
+      "it": "Chi affida il suo animale a un non ebreo con la consapevolezza che verrà aggiogato insieme a un animale di specie diversa viola il divieto di kilayim, poiché causa la trasgressione (lifne iver, לִפְנֵי עִוֵּר — mettere un ostacolo davanti al cieco)."
+    },
+    {
+      "n": "7:9",
+      "he": "הַמֵּשִׁיב בְּהֵמָתוֹ",
+      "it": "Chi guida (meshiv, מֵשִׁיב) due animali di specie diverse aggiogati insieme, anche senza tenerli fisicamente con le mani — per esempio solo usando la voce per guidarli — viola il divieto di kilayim."
+    },
+    {
+      "n": "8:1",
+      "he": "שַׁעַטְנֵז",
+      "it": "Lo sha'atnez (שַׁעַטְנֵז) è la mistura di lana (tzemer, צֶמֶר) e lino (pishtim, פִּשְׁתִּים) in un indumento. È proibito dalla Torah sia per gli uomini sia per le donne, sia in Eretz Yisrael sia fuori. Il divieto si basa su Deut. 22:11: 'Non indosserai sha'atnez'."
+    },
+    {
+      "n": "8:2",
+      "he": "אֵיזֶה הוּא שַׁעַטְנֵז",
+      "it": "Lo sha'atnez viene creato in tre modi: filatura (shazur, שָׁזוּר), tessitura (arugah, אֲרוּגָה), e filza (lavud, לָבוּד — i.e., feltro o feltrag). Solo questi tre metodi creano sha'atnez proibito dalla Torah; altre combinazioni possono essere proibite solo per decreto rabbinico."
+    },
+    {
+      "n": "8:3",
+      "he": "בֶּגֶד צֶמֶר שֶׁתָּפַר בּוֹ חוּט",
+      "it": "Un indumento di lana cucito con un filo di lino — o viceversa — costituisce sha'atnez se il filo è intrecciato nel tessuto in modo stabile. Se il filo è semplicemente appoggiato senza cuciture stabili, non è sha'atnez secondo la Torah."
+    },
+    {
+      "n": "8:4",
+      "he": "כֵּיצַד בּוֹדְקִין אֶת הַשַּׁעַטְנֵז",
+      "it": "Come si controlla un indumento per lo sha'atnez? Si esamina il tessuto filamento per filamento nei punti di cuciture e orli. Le cuciturerie specializzate (bodkei sha'atnez, בּוֹדְקֵי שַׁעַטְנֵז) devono conoscere bene i processi di produzione tessile."
+    },
+    {
+      "n": "8:5",
+      "he": "חוּט אֶחָד שֶׁל פִּשְׁתָּן",
+      "it": "Un solo filo di lino in un capo di lana costituisce sha'atnez proibito dalla Torah, purché sia tessuto o cucito nella struttura dell'indumento. Non importa la proporzione — anche un singolo filo è sufficiente per violare il divieto."
+    },
+    {
+      "n": "8:6",
+      "he": "הַלּוֹבֵשׁ שַׁעַטְנֵז",
+      "it": "Chi indossa sha'atnez viola un divieto negativo (lav, לָאו) punibile con la flagellazione. Il divieto vale anche per chi porta lo sha'atnez sopra un altro indumento, purché sia a contatto diretto con il corpo."
+    },
+    {
+      "n": "8:7",
+      "he": "הַמְּכַסֶּה בְּשַׁעַטְנֵז",
+      "it": "Usare uno sha'atnez come coperta per dormire non viola il divieto se non lo si indossa addosso ma solo ci si copre dall'esterno senza che tocchi il corpo direttamente. Tuttavia i Saggi sono severi anche in questo caso."
+    },
+    {
+      "n": "8:8",
+      "he": "צִיצִית מִצֶּמֶר בְּבֶגֶד פִּשְׁתָּן",
+      "it": "Le tzitzit (צִיצִית — frange) di lana possono essere apposte a un indumento di lino — nonostante costituiscano apparentemente sha'atnez — perché la Torah stessa lo permette (Deut. 22:12). Il comando positivo delle tzitzit sospende il divieto negativo dello sha'atnez in questo caso specifico."
+    }
+  ],
+  "_glossary_terms_used": ["mavrich", "harkavah", "kilayim hakerem", "tzalaf", "kerem", "goyim", "kilayim behemah", "harba'ah", "charishat kilayim", "tahorim", "tme'im", "pared", "chamor", "sus", "kelev", "shu'al", "charisha", "shor", "sha'atnez", "tzemer", "pishtim", "shazur", "arugah", "lavud", "lav", "tzitzit", "lifne iver"]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bi'at HaMikdash 2-4",
+  "name_he": "משנה תורה, הלכות ביאת המקדש, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dell'Ingresso nel Santuario, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-07-06",
+  "hebrew_date": "21 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "כֹּהֵן שֶׁשָּׁתָה יַיִן — אָסוּר לְהִכָּנֵס לַמִּקְדָּשׁ וּלְהוֹרוֹת הֲלָכָה.",
+      "it": "Un kohen che ha bevuto vino — è proibito dall'entrare nel Tempio e dall'insegnare halachah."
+    },
+    {
+      "n": "2:2",
+      "he": "שֵׁכָר כְּיַיִן לְעִנְיָן זֶה. מֵאֵימָתַי הוּא שִׁכּוֹר? כְּשֶׁשָּׁתָה רְבִיעִית יַיִן.",
+      "it": "La birra (shechar) è come il vino in questo contesto. Da quando è considerato ubriaco? Quando ha bevuto un quarto di log (revi'it) di vino."
+    },
+    {
+      "n": "2:3",
+      "he": "הַכֹּהֵן הַמְשַׁמֵּשׁ שִׁכּוֹר — חַיָּב מִיתָה בִּידֵי שָׁמַיִם.",
+      "it": "Il kohen che officia mentre è ubriaco — è passibile di morte per mano del Cielo."
+    },
+    {
+      "n": "3:1",
+      "he": "פָּרָה אֲדֻמָּה — טָהֳרָתָהּ מִטֻּמְאַת הַמֵּת. שׂוֹרְפִין אוֹתָהּ וּמַזִּין מֵאֶפְרָהּ.",
+      "it": "La Parah Adumah (Vacca Rossa) — purifica dall'impurità cadaverica. La si brucia e si asperge delle sue ceneri."
+    },
+    {
+      "n": "3:2",
+      "he": "פָּרָה אֲדֻמָּה נִקְרֵאת \"חֹק\" — שֶׁאֵין לָהּ טַעַם הַמֻּבָּן לָאָדָם.",
+      "it": "La Parah Adumah è chiamata «chok» — poiché non ha una ragione comprensibile all'uomo."
+    },
+    {
+      "n": "3:3",
+      "he": "הַמַּזֶּה מֵי חַטָּאת עַל הַטָּמֵא — מְטַהֲרוֹ. אֲבָל הַמְּטַהֵר עַצְמוֹ נִטְמָא.",
+      "it": "Chi asperge le acque di purificazione (mei chattat) sull'impuro — lo purifica. Ma chi lo purifica diventa a sua volta impuro."
+    },
+    {
+      "n": "4:1",
+      "he": "כֹּהֵן מְחַלֵּל — כֹּהֵן שֶׁנּוֹלַד מִחִלּוּל, כְּגוֹן שֶׁהִתְחַתֵּן עִם גְּרוּשָׁה — פָּסוּל לַעֲבוֹדָה.",
+      "it": "Un kohen mechalel — un kohen nato da un'unione proibita, come chi ha sposato una divorziata — è squalificato dal servizio."
+    },
+    {
+      "n": "4:2",
+      "he": "כֹּהֵן בַּעַל מוּם — פָּסוּל לַעֲבוֹדָה, אֲבָל אוֹכֵל בִּתְרוּמָה.",
+      "it": "Un kohen con difetto fisico — è squalificato dal servizio, ma può mangiare la terumah (quota sacerdotale)."
+    },
+    {
+      "n": "4:3",
+      "he": "שֵׁשׁ עֶשְׂרֵה טֻמְאוֹת הַגּוּף: טְמֵא מֵת, זָב, זָבָה, נִדָּה, יוֹלֶדֶת, בַּעַל קֶרִי, מְצֹרָע, שֶׁרֶץ, נְבֵלָה, שְׁכִבַת זֶרַע, נֹגֵעַ בְּטָמֵא, וְאַחֵרוֹת.",
+      "it": "Sedici impurità corporali: impuro da contatto con il morto, zav, zavah, niddah, yoledet (puerpera), ba'al keri, metzora, sheretz (rettile), neveilah (animale morto), shichvat zera (emissione seminale), chi tocca un impuro, e altre."
+    },
+    {
+      "n": "4:4",
+      "he": "כָּל אֵלּוּ הַטְּמֵאִין — אֲסוּרִין לְהִכָּנֵס לַמִּקְדָּשׁ בִּשְׁעַת טֻמְאָתָן.",
+      "it": "Tutti questi impuri — sono proibiti dall'entrare nel Tempio nel periodo della loro impurità."
+    },
+    {
+      "n": "4:5",
+      "he": "הַכֹּהֵן הַמְּחַלֵּל שֶׁעָבַד — עֲבוֹדָתוֹ פְּסוּלָה.",
+      "it": "Il kohen mechalel che ha officiato — il suo servizio è invalido."
+    },
+    {
+      "n": "4:6",
+      "he": "כֹּהֵן שֶׁנִּטְמָא וְעָבַד — בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד — עֲבוֹדָתוֹ פְסוּלָה.",
+      "it": "Un kohen che è diventato impuro e ha officiato — sia involontariamente sia intenzionalmente — il suo servizio è invalido."
+    }
+  ],
+  "_glossary_terms_used": ["shechar", "revi'it", "Parah Adumah", "chok", "mei chattat", "mechalel", "terumah", "ba'al mum", "zav", "zavah", "niddah", "yoledet", "metzora", "sheretz", "neveilah", "shichvat zera", "tum'ah", "kohen"]
+}

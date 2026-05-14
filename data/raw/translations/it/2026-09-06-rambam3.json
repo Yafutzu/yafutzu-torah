@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Okhalin 6-8",
+  "name_he": "משנה תורה, הלכות טומאת אוכלין, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità dei Cibi, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-09-06",
+  "hebrew_date": "24 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "6:1", "he": "תְּרוּמָה שֶׁנַּעֲשֵׂית שְׁלִישִׁי לְטֻמְאָה — פְּסוּלָה. אֵינָהּ אוֹסֶרֶת אֶת הַחֻלִּין אֶלָּא בִּשְׁלִישִׁי בִּתְרוּמָה.", "it": "La terumah che è diventata terzo grado di impurità — è pasul (invalida). Non vieta il chulin se non al terzo grado nella terumah."},
+    {"n": "6:2", "he": "כֹּהֵן הָאוֹכֵל תְּרוּמָה טְמֵאָה — עוֹבֵר עַל אִסּוּר, אֲבָל אֵינוֹ בִּיעוּר אֶלָּא שְׂרֵפָה.", "it": "Il sacerdote che mangia terumah impura — transgredisce un divieto, ma essa non viene distrutta bensì bruciata."},
+    {"n": "6:3", "he": "תְּרוּמָה טְמֵאָה — מִצְוָה לִשְׂרְפָהּ, שֶׁלֹּא יָבוֹאוּ לֶאֱכֹל אוֹתָהּ.", "it": "La terumah impura — è una mitzvah bruciarla, affinché non si venga a mangiarla."},
+    {"n": "7:1", "he": "תְּרוּמָה טְמֵאָה שֶׁנִּתְעָרְבָה בִּתְרוּמָה טְהוֹרָה — נוֹהֵג בָּהּ כְּדִין תְּרוּמָה טְמֵאָה כֻּלָּהּ.", "it": "La terumah impura che si è mescolata alla terumah pura — si applica ad essa la legge della terumah impura per tutta la miscela."},
+    {"n": "7:2", "he": "אֵין תְּרוּמָה טְמֵאָה מִתְבַּטֶּלֶת בְּחֻלִּין — לְעוֹלָם הִיא חֲשׁוּבָה.", "it": "La terumah impura non si annulla nel chulin — è sempre considerata significativa."},
+    {"n": "7:3", "he": "כֹּהֵן חַיָּב לִשְׂמֹר עַל טָהֳרַת הַתְּרוּמָה מֵחַיּוּב מְיוּחָד שֶׁל קְדוּשַּׁת כְּהוּנָה.", "it": "Il sacerdote è obbligato a mantenere la purezza della terumah da un obbligo speciale di santità sacerdotale."},
+    {"n": "8:1", "he": "מַחְשִׁירִין — מִי שֶׁאֵין בּוֹ הַכְשֵׁר, לֹא יִטַּמֵּא. לְפִיכָךְ פֵּרוֹת שֶׁלֹּא הוּכְשְׁרוּ — טְהוֹרִין אַף כִּי נָגְעוּ בְּטָמֵא.", "it": "Machshirin — ciò che non ha l'hechsher, non diventa impuro. Pertanto i frutti che non sono stati resi suscettibili — sono puri anche se hanno toccato qualcosa di impuro."},
+    {"n": "8:2", "he": "אֹכֶל שֶׁנִּבְלַע בְּתוֹכוֹ מַשְׁקֶה — מוּכְשָׁר מִבִּפְנִים אֲפִלּוּ לֹא נִרְטַב מִבַּחוּץ.", "it": "Il cibo in cui un liquido è stato assorbito all'interno — è reso suscettibile dall'interno anche se non è stato bagnato dall'esterno."},
+    {"n": "8:3", "he": "הַמַּחְשִׁיר כְּלָלִי — בְּלֹא הַכְשֵׁר, אֵין טֻמְאָה לָאֹכֶל. בְּהַכְשֵׁר, קוֹלֶטֶת הַטֻּמְאָה.", "it": "Il principio generale dei machshirin — senza hechsher, non c'è impurità per il cibo. Con hechsher, l'impurità viene assorbita."}
+  ],
+  "_glossary_terms_used": ["terumah", "chulin", "machshirin", "hechsher", "tahara"]
+}

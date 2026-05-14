@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 50",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נ'",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 50",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-26",
+  "hebrew_date": "13 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אמונה פשוטה — היא האמונה שמעל לשכל. אדם שמאמין בפשיטות, ללא ספיקות ושאלות פילוסופיות — יש לו בסיס יציב יותר מפילוסוף שמאמין על פי הוכחות בלבד.",
+      "it": "L'emunah peshutah (fede semplice, pura) è la fede che trascende l'intelletto. Una persona che crede in semplicità, senza dubbi e domande filosofiche — ha un fondamento più stabile del filosofo che crede solo sulla base di prove razionali."
+    },
+    {
+      "n": 2,
+      "he": "הפרדוקס: האמונה הפשוטה של הפשוט שבישראל — עשויה להיות גבוהה יותר מאמונתו המשכלת של החכם. שכן החכם מאמין ב'אלוקים' כפי שהשכל שלו תופס; והפשוט — מאמין ב-ה' שלמעלה מהשכל לגמרי.",
+      "it": "Il paradosso: la fede semplice del più semplice tra gli Ebrei — potrebbe essere più alta della fede intellettuale del sapiente. Poiché il sapiente crede nel 'D-o' come lo afferra il suo intelletto; mentre il semplice — crede in D-o che è completamente al di là dell'intelletto."
+    },
+    {
+      "n": 3,
+      "he": "לכן אסור לבזות את 'פשוטי ישראל' — שמא אמונתם פשוטה בחיצוניותה, אבל עמוקה ביותר בפנימיותה. ואחד מגדולי האמת אמר: 'הייתי רוצה להיות כאחד הפשוטים'.",
+      "it": "Pertanto è proibito disprezzare i 'semplici d'Israele' (peshutei Yisrael) — forse la loro fede è semplice in apparenza, ma è profondissima nella sua interiorità. E uno dei grandi della verità disse: 'Vorrei essere come uno dei semplici'."
+    }
+  ],
+  "_glossary_terms_used": ["emunah peshutah", "peshutei Yisrael"]
+}

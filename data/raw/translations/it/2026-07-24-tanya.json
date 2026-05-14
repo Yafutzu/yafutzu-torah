@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 14-15",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרקים יד-טו",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitoli 14-15",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-24",
+  "hebrew_date": "10 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פרק יד: כָּל יִשְׂרָאֵל יֵשׁ לָהֶם אַהֲבָה מְסֻתֶּרֶת לְהַשֵּׁם יִתְבָּרַךְ, שֶׁנִּשְׁמָתָם חֲצוּבָה מִתַּחַת כִּסֵּא הַכָּבוֹד.",
+      "it": "Capitolo 14: Ogni ebreo possiede un amore nascosto (ahavah mesuteret) per il Signore Benedetto, poiché la sua anima è stata scolpita da sotto il Trono della Gloria (kisei ha-kavod)."
+    },
+    {
+      "n": 2,
+      "he": "אַהֲבָה זוֹ — אֵינָהּ נֶעְדֶּרֶת לְעוֹלָם. אֲפִלּוּ כְּשֶׁהָאָדָם חוֹטֵא — הָאַהֲבָה הַמְּסֻתֶּרֶת שָׁם. וְעַל יְדֵי תְּשׁוּבָה — מִתְגַּלָּה.",
+      "it": "Questo amore non scompare mai. Anche quando la persona pecca — l'amore nascosto è lì. E attraverso la teshuvah (pentimento) — si rivela."
+    },
+    {
+      "n": 3,
+      "he": "פרק טו: יִרְאַת עֹנֶשׁ — הִיא הַיִּרְאָה הַתַּחְתּוֹנָה. יִרְאַת הָרוֹמְמוּת — הִיא הַיִּרְאָה הָעֶלְיוֹנָה. 'רֵאשִׁית חָכְמָה יִרְאַת ה'' — זוֹ יִרְאַת הָרוֹמְמוּת.",
+      "it": "Capitolo 15: Il timore della punizione (yir'at onesh) è il timore inferiore. Il timore della sublimità divina (yir'at ha-romemut) è il timore superiore. 'L'inizio della saggezza è il timore di Dio' (Salmo 111:10) — questo si riferisce al timore della sublimità."
+    },
+    {
+      "n": 4,
+      "he": "יִרְאַת הָרוֹמְמוּת — מַגִּיעָה לָאָדָם כְּשֶׁמִּתְבּוֹנֵן בִּגְדֻלַּת ה' אֵין סוֹף, שֶׁמָּלֵא כָּל הָאָרֶץ כְּבוֹדוֹ, וְלְפָנָיו הַכֹּל כְּאַיִן וּכְאֶפֶס.",
+      "it": "Il timore della sublimità raggiunge la persona quando contempla la grandezza del Dio Infinito (Ein Sof) — che la Sua gloria riempie tutta la terra, e dinanzi a Lui tutto è come nulla e vuoto."
+    }
+  ],
+  "_glossary_terms_used": ["ahavah mesuteret", "kisei ha-kavod", "teshuvah", "yir'at onesh", "yir'at ha-romemut", "Ein Sof"]
+}

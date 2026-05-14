@@ -1,0 +1,42 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 9-11",
+  "name_he": "משנה תורה, הלכות טומאת מת, פרקים ט-יא",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere, capitoli 9-11",
+  "cycle": "rambam-3",
+  "date": "2026-08-10",
+  "hebrew_date": "27 Av 5786",
+  "halachot_count": 11,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "כל הנוגע בטמא — בין אדם בין כלי — נטמא. וכן כל הנושא את הטמא — אפילו לא נגע בו — נטמא. זה הנקרא 'מגע' ו'משא' לטומאה.",
+      "it": "Chiunque tocchi un impuro — sia persona che oggetto — diventa impuro (tamei). Analogamente, chiunque porti ciò che è impuro — anche senza toccarlo — diventa impuro. Questo è chiamato 'contatto' (nega) e 'trasporto' (massa) per l'impurità."
+    },
+    {
+      "n": "9:2",
+      "he": "מה שיעור טומאת המגע? הנוגע ב'אב הטומאה' — נעשה ראשון. הנוגע ב'ראשון' — נעשה שני. ואין שני עושה שלישי בחולין, אבל בקודש — יש שלישי.",
+      "it": "Qual è il grado dell'impurità per contatto? Chi tocca un 'av ha-tumah' (fonte principale di impurità) diventa rishon (primo grado). Chi tocca il rishon diventa sheni (secondo grado). Il sheni non crea un shelishi per i cibi ordinari (chulin), ma per le cose sacre (kodesh) esiste anche il terzo grado."
+    },
+    {
+      "n": "10:1",
+      "he": "חכמים גזרו טומאה על ארץ העמים — כל שטח מחוץ לארץ ישראל. וכן גזרו טומאה על אוויר ארץ העמים. לפיכך, כוהן היוצא לחוצה לארץ — נטמא, אפילו לא נגע בשום מת.",
+      "it": "I Saggi decretarono l'impurità sull'Eretz ha-Ammim — ogni territorio al di fuori di Eretz Yisrael. Decretarono anche l'impurità sull'aria dell'Eretz ha-Ammim. Pertanto un kohen che si reca fuori da Eretz Yisrael diventa impuro, anche se non ha toccato alcun cadavere."
+    },
+    {
+      "n": "10:2",
+      "he": "מדוע גזרו כן? מפני שהגויים לא היו זהירים בקבורה כישראל, ולכן ייתכן שהאדמה בארצם מלאה עצמות מתים. ולכן גזרו על כל אדמת חוצה לארץ כאילו היא 'ארץ ההמון'.",
+      "it": "Perché così decretarono? Perché i non ebrei non erano scrupolosi nella sepoltura come Israele, e quindi è possibile che il suolo delle loro terre sia pieno di ossa di defunti. Pertanto decretarono che tutto il suolo fuori da Eretz Yisrael sia come un campo cimiteriale."
+    },
+    {
+      "n": "11:1",
+      "he": "הקרקע עצמה אינה מקבלת טומאה — שנאמר 'כי לי הארץ'. מה שמחובר לקרקע — נחשב כקרקע ואינו מקבל טומאה. לפיכך אילן שגדל בקרקע — אינו מקבל טומאה.",
+      "it": "Il suolo stesso non riceve l'impurità — come è detto: 'Poiché la terra è mia' (Vayikra 25:23). Ciò che è attaccato al suolo viene considerato come suolo e non riceve l'impurità. Pertanto un albero che cresce nel suolo non riceve l'impurità."
+    },
+    {
+      "n": "11:2",
+      "he": "נתלשה הצמחייה מן הקרקע — נעשית ככלי ומקבלת טומאה. וכן בית שנבנה — מחובר לקרקע ואינו מקבל טומאה בעצמו, אלא הדברים שבתוכו.",
+      "it": "Se la vegetazione è stata staccata dal suolo, diventa come un oggetto e riceve l'impurità. Analogamente, una casa costruita — è attaccata al suolo e non riceve l'impurità di per sé, ma gli oggetti all'interno di essa sì."
+    }
+  ],
+  "_glossary_terms_used": ["tamei", "nega", "massa", "av ha-tumah", "rishon", "sheni", "Eretz ha-Ammim", "kohen", "chulin", "kodesh"]
+}

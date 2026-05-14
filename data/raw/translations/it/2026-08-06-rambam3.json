@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bechorot 5-7",
+  "name_he": "משנה תורה, הלכות בכורות, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dei Primogeniti, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-08-06",
+  "hebrew_date": "23 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "פדיון הבן — מצות עשה לפדות את הבן הבכור מן הכוהן. שנאמר 'פדה תפדה את בכור האדם'. שיעור הפדיון — חמשה שקלים של קודש, שהם מאה וחמישה עשר גרם כסף.",
+      "it": "Il riscatto del figlio (pidyon ha-ben) — è un precetto positivo riscattare il figlio primogenito dal kohen, come è detto: 'Riscatterai il primogenito dell'uomo' (Bemidbar 18:15). L'importo del riscatto è cinque shekel del santuario, equivalenti a centoquindici grammi d'argento."
+    },
+    {
+      "n": "5:2",
+      "he": "מי חייב בפדיון? בן הפטר רחם — הפותח רחם לראשונה. אם נולד אחרי נפל — אינו פטר רחם. ואם הוא בכור לאביו אך לא לאמו — חייב בפדיון.",
+      "it": "Chi è obbligato nel riscatto? Il figlio che apre per primo il grembo materno (peter rechem). Se nasce dopo un aborto, non è peter rechem. Se è primogenito del padre ma non della madre, è comunque obbligato nel riscatto."
+    },
+    {
+      "n": "5:3",
+      "he": "אם האב כוהן — הבן פטור מפדיון; ואם האם בת כוהן — הבן פטור. ואם האם בת לוי — הבן פטור.",
+      "it": "Se il padre è un kohen, il figlio è esente dal riscatto. Se la madre è figlia di un kohen, il figlio è esente. Se la madre è figlia di un levita, il figlio è esente."
+    },
+    {
+      "n": "5:4",
+      "he": "זמן פדיון הבן — מיום השלושים ואילך. קודם שלושים יום — אי אפשר לפדותו. ואם מת קודם שלושים יום — אין בו חיוב פדיון.",
+      "it": "Il momento del riscatto del figlio è dal trentesimo giorno in poi. Prima del trentesimo giorno non è possibile riscattarlo. Se muore prima del trentesimo giorno, non vi è obbligo di riscatto."
+    },
+    {
+      "n": "6:1",
+      "he": "ספק בכורה — כגון שיש ספק אם הולד הוא פטר רחם — אין חייבים לפדותו, מפני הספק. ואין נותנים לכוהן את הכסף, כי 'המוציא מחבירו עליו הראיה'.",
+      "it": "Nel dubbio riguardo al primogenito — per esempio, se c'è dubbio se il neonato sia peter rechem — non si è obbligati a riscattarlo, per via del dubbio. Non si dà il denaro al kohen, poiché 'chi chiede deve dimostrare' (ha-motzi me-chavero alav ha-re'ayah)."
+    },
+    {
+      "n": "7:1",
+      "he": "בכור בהמה בזמן הזה — שאין לנו בית המקדש — אסור לשוחטו אפילו יש בו מום. אלא ימתין עד שיפול בו מום מאליו, ואז ישחטנו ויאכל.",
+      "it": "In epoca attuale, senza il Bet ha-Mikdash, è vietato macellare un primogenito animale anche se ha un difetto fisico. Si attende che il difetto si produca da solo, e poi lo si macella e lo si mangia."
+    },
+    {
+      "n": "7:2",
+      "he": "הכוהן שנפל לו בכור — שומר אותו עד שיפול בו מום, ואז מוכרו לשוק ואוכלו. ואסור לו לגרום לו מום בידיים, שנאמר 'לא תפדה — קדש הוא'.",
+      "it": "Il kohen al quale è giunto un primogenito, lo custodisce finché non si produca un difetto da solo, poi lo vende al mercato o lo mangia. Gli è vietato causargli deliberatamente un difetto, come è detto: 'Non si riscatta — è sacro' (Bemidbar 18:17)."
+    },
+    {
+      "n": "7:3",
+      "he": "מי שנמצא בידו בכור ולא נתנו לכוהן — עובר על מצות עשה. ואם הכוהן לא תבעו — מכל מקום חייב לתת לו. כי הבכור שייך לכוהן מן התורה.",
+      "it": "Chi possiede un primogenito e non lo consegna al kohen transgredisce un precetto positivo. Anche se il kohen non lo ha richiesto, è comunque obbligato a consegnarglielo, perché il primogenito appartiene al kohen per legge della Torah."
+    }
+  ],
+  "_glossary_terms_used": ["pidyon ha-ben", "peter rechem", "kohen", "Bet ha-Mikdash", "ha-motzi me-chavero alav ha-re'ayah"]
+}

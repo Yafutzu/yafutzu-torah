@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ta'aniyot 1",
+  "name_he": "משנה תורה, הלכות תעניות, פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Giorni di Digiuno, capitolo 1",
+  "cycle": "rambam-1",
+  "date": "2026-08-15",
+  "hebrew_date": "2 Elul 5786",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מצות עשה מן התורה לזעוק ולהריע בחצוצרות על כל צרה שתבוא על הציבור, שנאמר 'על הצר הצורר אתכם והרעותם בחצוצרות'. ומפי השמועה למדו שהוא הדין לכל צרה — בין מלחמה בין בצורת.",
+      "it": "È un precetto positivo della Torah gridare e suonare le trombe (chatzotzrot) per ogni sciagura che si abbatte sulla comunità, come è detto: 'Sopra l'avversario che vi opprime suonerete le trombe' (Bemidbar 10:9). Per tradizione orale (mi-pi ha-shemuah) si apprende che lo stesso vale per qualsiasi sciagura — sia guerra che siccità."
+    },
+    {
+      "n": 2,
+      "he": "למה מצוה זו? כדי שלא יאמרו ישראל: 'זהו מקרה ותו לא'. אלא יכירו שהצרה היא מאת ה' — כי חטאו לפניו. וכשיכירו — יעשו תשובה, ותוסר הצרה מעליהם.",
+      "it": "Perché questo precetto? Affinché Israele non dica: 'È solo una coincidenza e nient'altro'. Bensì riconosca che la sciagura viene da D-o — poiché hanno peccato davanti a Lui. Quando riconosceranno, faranno teshuvah, e la sciagura sarà rimossa da loro."
+    },
+    {
+      "n": 3,
+      "he": "המחשב שהצרה היא מקרה טבעי — גורם לו שיוסיף ויכה — שנאמר 'ואם תלכו עמי קרי'. כלומר, אם תאמרו שהכל מקרה — ה' ישלח עליכם צרות כפולות.",
+      "it": "Chi ritiene che la sciagura sia una coincidenza naturale — causa che gli si infliggano ulteriori colpi — come è detto: 'E se camminerete con Me per caso' (Vayikra 26:21). Ovvero, se direte che tutto è casuale — D-o invierà su di voi sciagure doppie."
+    },
+    {
+      "n": 4,
+      "he": "כשתבוא צרה — חובה לצום ולהתפלל. ואין די בתפילה בלא צום — שהצום מכנע את הגוף ומרכך את הלב. וגם אין די בצום בלא תפילה — שהתפילה היא הפנייה לה' ישירות.",
+      "it": "Quando arriva una sciagura — si è obbligati a digiunare e pregare. Non è sufficiente la sola preghiera senza digiuno — perché il digiuno umilia il corpo e ammorbidisce il cuore. E non è sufficiente nemmeno il solo digiuno senza la preghiera — perché la preghiera è il rivolgersi direttamente a D-o."
+    },
+    {
+      "n": 5,
+      "he": "צום ציבורי — חובת הכל. מי שפטור מצום — כגון חולה, מניקה, עוברת — אינו מתענה, אבל שאר עניני הצום חלים עליו.",
+      "it": "Un digiuno pubblico (tzom tzibbur) — obbliga tutti. Chi è esente dal digiuno — come un malato, una nutrice, una donna incinta — non digiuna, ma le altre pratiche del digiuno continuano ad applicarsi a lui."
+    },
+    {
+      "n": 6,
+      "he": "בגזרת הצום — תוקעים בחצוצרות בלבד, ולא בשופר. החצוצרות הן למקדש — לצרכי ציבור; והשופר — לראש השנה וליובל בלבד.",
+      "it": "Nella proclamazione del digiuno — si suonano solo le trombe (chatzotzrot), e non lo shofar. Le trombe sono per il Tempio — per i bisogni della comunità; lo shofar — è solo per Rosh HaShanah e per il Giubileo (Yovel)."
+    },
+    {
+      "n": 7,
+      "he": "הצום הציבורי מלווה בתפילה ציבורית מיוחדת עם תוספות, ובהכרזת 'עננו' בתפילת שמונה עשרה. ומוסיפים 'שש ברכות' בתפילת שחרית של ראש השנה.",
+      "it": "Il digiuno pubblico è accompagnato da una preghiera comunitaria speciale con aggiunte, e dalla recita di 'Aneinu' (Rispondici) nella Amidah. Si aggiungono anche 'sei benedizioni' nella preghiera mattutina di Rosh HaShanah."
+    },
+    {
+      "n": 8,
+      "he": "ויש מדרגות בחומרת הצום: ראשון, שני, שלישי — כל צום קשה יותר מהקודם. ואם לא נענו בראשון — גוזרים שני, ואם לא — שלישי. ומהותם ופרטיהם יתבארו בפרק הבא.",
+      "it": "Esistono gradi nella severità del digiuno: primo, secondo, terzo — ogni digiuno è più rigoroso del precedente. Se non si è stati esauditi al primo — si decreta il secondo, e se non al secondo — il terzo. La loro natura e i dettagli saranno spiegati nel capitolo seguente."
+    }
+  ],
+  "_glossary_terms_used": ["chatzotzrot", "mi-pi ha-shemuah", "teshuvah", "tzom tzibbur", "shofar", "Yovel", "Aneinu"]
+}

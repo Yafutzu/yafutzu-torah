@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Megillah VeChanukah 3",
+  "name_he": "משנה תורה, הלכות מגילה וחנוכה, פרק ג",
+  "name_it": "Mishneh Torah, Leggi della Megillah e di Chanukah, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-22",
+  "hebrew_date": "9 Elul 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "בבית שני כשמלכו יוון על ישראל, גזרו גזירות על ישראל וביטלו דתם ולא הניחו להם לעסוק בתורה ובמצות. ופשטו ידם בממונם ובבנותיהם. ונכנסו להיכל ופרצו בו פרצות וטימאו הטהרות.",
+      "it": "Al tempo del Secondo Tempio, quando i Greci (Yavan) dominarono su Israele, emanarono decreti contro Israele, abolirono la loro religione e non lasciarono loro studiare Torah né osservare i precetti. Posero mano ai loro beni e alle loro figlie. Entrarono nel Santuario (Heichal), vi aprirono brecce e profanarono ciò che era puro."
+    },
+    {
+      "n": 2,
+      "he": "וצר להם לישראל מאד מפניהם, עד שריחם עליהם אלהי אבותינו והושיעם מידם. וגברו בני חשמונאי הכהנים הגדולים והרגום, והושיעו ישראל מידם.",
+      "it": "E Israele si trovò in grande angustia a causa loro, finché il D-o dei loro padri ebbe compassione di loro e li salvò dalla loro mano. I figli dei Chashmonai — i sommi sacerdoti (Kohanim Gedolim) — presero forza, li uccisero e salvarono Israele dalla loro mano."
+    },
+    {
+      "n": 3,
+      "he": "וכשגברו ישראל על אויביהם ואיבדום, בכ"ה בכסלו היה. ונכנסו להיכל ולא מצאו שמן טהור במקדש אלא פך אחד, ולא היה בו אלא להדליק יום אחד.",
+      "it": "Quando Israele prevalse sui suoi nemici e li annientò, ciò avvenne il venticinque di Kislev. Entrarono nel Santuario e non trovarono olio puro nel Tempio se non una piccola brocca sigillata (pach echad), e non conteneva abbastanza per illuminare se non per un solo giorno."
+    },
+    {
+      "n": 4,
+      "he": "והדליקו ממנו נרות המערכה שמונה ימים, עד שכתשו זיתים והוציאו שמן טהור. ומפני זה קבעו חכמים שבאותו הדור שיהיו שמונה ימים אלו ימי שמחה והלל.",
+      "it": "E con quell'olio accesero le lampade del candelabro (Menorah) per otto giorni, fino a quando poterono pestare olive e ricavare olio puro. Per questo motivo i Saggi di quella generazione stabilirono che questi otto giorni fossero giorni di gioia e di lode (Hallel)."
+    },
+    {
+      "n": 5,
+      "he": "ומצות חנוכה — להדליק בכל לילה ולילה נר אחד בכל בית ובית, לפרסם הנס.",
+      "it": "Il precetto di Chanukah è accendere ogni notte una lampada in ogni casa e casa, per pubblicizzare il miracolo (pirsumei nisa)."
+    },
+    {
+      "n": 6,
+      "he": "והמהדרין — נר לכל אחד ואחד. והמהדרין מן המהדרין — בית שמאי אומרים: יום ראשון מדליק שמונה, מכאן ואילך פוחת והולך. ובית הלל אומרים: יום ראשון מדליק אחת, מכאן ואילך מוסיף והולך. ונהגו כבית הלל.",
+      "it": "I meticolosi (mehaddrin) — accendono una lampada per ogni membro della famiglia. I più meticolosi tra i meticolosi (mehaddrin min hamehaddrin) — la scuola di Shammai dice: il primo giorno accende otto, poi decresce; la scuola di Hillel dice: il primo giorno accende una, poi aumenta. La prassi segue la scuola di Hillel."
+    },
+    {
+      "n": 7,
+      "he": "וחנוכה אינה נדחית מפני שום דבר. ואפילו בחנוכה שחל ביום הכיפורים — מדליק.",
+      "it": "Chanukah non viene posticipata per nessuna ragione. Persino se Chanukah coincidesse con Yom Kippur (circostanza impossibile nel calendario attuale, ma citata come principio), si accenderebbe comunque."
+    }
+  ],
+  "_glossary_terms_used": ["Yavan", "Heichal", "Kohanim Gedolim", "Chashmonai", "pach echad", "Menorah", "Hallel", "pirsumei nisa", "mehaddrin", "mehaddrin min hamehaddrin"]
+}

@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chametz UMatzah 7",
+  "name_he": "משנה תורה, הלכות חמץ ומצה, פרק ז",
+  "name_it": "Mishneh Torah, Leggi del Chametz e della Matzah, capitolo 7",
+  "cycle": "rambam-1",
+  "date": "2026-07-13",
+  "hebrew_date": "28 Tammuz 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד סֵדֶר הַלַּיְלָה? מְזִיגַת כּוֹס רִאשׁוֹן, קִדּוּשׁ, אֲכִילַת יָרָק, פְּרִיסַת הַמַּצָּה, שְׁאֵלַת הַבֵּן.",
+      "it": "Come è l'ordine della notte del Seder? Si versa la prima coppa, si fa il kiddush, si mangia il karpas (verdura), si spezza la matzah, il figlio pone la domanda (ma nishtanah)."
+    },
+    {
+      "n": 2,
+      "he": "סִפּוּר יְצִיאַת מִצְרַיִם, הַלֵּל עַד גְּאֻלָּה, כּוֹס שְׁנִיָּה, נְטִילַת יָדַיִם, מוֹצִיא מַצָּה, מָרוֹר, כּוֹרֵךְ.",
+      "it": "Narrazione dell'Esodo, Hallel fino alla redenzione, seconda coppa, lavaggio delle mani, motzi (benedizione del pane), matzah, maror (erba amara), korech (combinazione)."
+    },
+    {
+      "n": 3,
+      "he": "אַחַר כֵּן שֻׁלְחָן עוֹרֵךְ — הַסְּעוּדָה. אַחַר הַסְּעוּדָה — אֲפִיקוֹמָן, כּוֹס שְׁלִישִׁי, הַלֵּל הַגָּדוֹל, כּוֹס רְבִיעִי.",
+      "it": "Poi la tavola apparecchiata (shulchan orech) — il pasto. Dopo il pasto — l'afikoman, la terza coppa, il Grande Hallel (Hallel HaGadol), la quarta coppa."
+    },
+    {
+      "n": 4,
+      "he": "הָאֲפִיקוֹמָן — אוֹכְלִין אוֹתוֹ בְּסוֹף הַסְּעוּדָה, זֵכֶר לְקָרְבַּן פֶּסַח.",
+      "it": "L'afikoman — lo si mangia alla fine del pasto, in memoria del sacrificio di Pesach (Korban Pesach)."
+    },
+    {
+      "n": 5,
+      "he": "אַחַר הָאֲפִיקוֹמָן — אֵין אוֹכְלִין כְּלוּם, כְּדֵי שֶׁיִּשָּׁאֵר טַעַם מַצָּה בְּפִיהֶם.",
+      "it": "Dopo l'afikoman — non si mangia più nulla, affinché rimanga il sapore della matzah in bocca."
+    },
+    {
+      "n": 6,
+      "he": "כָּל אֶחָד מִישְׂרָאֵל חַיָּב לֶאֱכֹל כְּזַיִת מַצָּה בְּשָׁעָה שֶׁחַיָּב לֶאֱכֹל, וְכֵן כְּזַיִת מָרוֹר.",
+      "it": "Ogni ebreo è obbligato a mangiare un volume di oliva (kazayit) di matzah al momento in cui è obbligato a mangiare, e similmente un kazayit di maror."
+    },
+    {
+      "n": 7,
+      "he": "כָּל יְמֵי הַפֶּסַח — הָאוֹכֵל מַצָּה מְקַיֵּם מִצְוָה, אֲבָל אֵינוֹ חוֹבָה.",
+      "it": "Durante tutti i giorni di Pesach — chi mangia matzah adempie una mitzva, ma non è obbligatorio."
+    },
+    {
+      "n": 8,
+      "he": "הַלֵּל בְּלֵיל פֶּסַח — חוֹבָה. וְאוֹמְרִים אוֹתוֹ עַל כּוֹס יַיִן.",
+      "it": "L'Hallel nella notte di Pesach — è obbligatorio. Lo si recita sulla coppa di vino."
+    },
+    {
+      "n": 9,
+      "he": "גָּמַר אֶת הַהַלֵּל — שׁוֹתֶה אֶת הַכּוֹס וְאֵינוֹ מְבָרֵךְ עָלָיו בְּרָכָה אַחֲרוֹנָה.",
+      "it": "Dopo aver completato l'Hallel — beve la coppa senza recitare una benedizione finale (bracha acharonah) su di essa."
+    },
+    {
+      "n": 10,
+      "he": "חֲמִשָּׁה מִינֵי מָרוֹר: חֲזֶרֶת, עוּלְשִׁין, תַּמְכָא, חַרְחֲבִינָה, מָרוֹר. וְהַמְשֻׁבָּח שֶׁבְּכֻלָּן — חֲזֶרֶת, דְּהַיְנוּ חַסָּה.",
+      "it": "Cinque specie di maror: chazeret (lattuga), olshin (cicoria), tamcha (rafano), charchavina, maror. La più pregiata di tutte — la chazeret, cioè la lattuga."
+    }
+  ],
+  "_glossary_terms_used": ["Seder", "kiddush", "karpas", "matzah", "ma nishtanah", "Hallel", "Hallel HaGadol", "korech", "maror", "afikoman", "Korban Pesach", "kazayit", "motzi", "shulchan orech", "bracha acharonah"]
+}

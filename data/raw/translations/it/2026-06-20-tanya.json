@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 10",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת י",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettera 10",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-20",
+  "hebrew_date": "5 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "צַדִּיק וְרַע לוֹ, רָשָׁע וְטוֹב לוֹ — קֻשְׁיָא עַתִּיקָא...",
+      "it": "La decima lettera affronta una delle domande più antiche della teologia: 'tzaddik ve-ra lo, rasha ve-tov lo' — perché i giusti soffrono e gli empi prosperano? (Berakhot 7a, che cita Esodo 33:13). Il Ba'al HaTanya offre la spiegazione cabalistica: ciò che appare come sofferenza per il tzaddik (giusto) non è vera sofferenza, bensì un processo di elevazione spirituale. Ogni 'male' che capita al tzaddik serve a bruciare le ultime tracce di klipah (impurità) che ancora aderiscono alla sua anima. La sofferenza è, per il tzaddik, un 'dono' nascosto — una purificazione che lo porta a livelli sempre più alti."
+    },
+    {
+      "n": 2,
+      "he": "וְהָרָשָׁע שֶׁטּוֹב לוֹ — מְקַבֵּל שְׂכָרוֹ...",
+      "it": "La prosperità dell'empio (rasha) è spiegata come l'ultimo pagamento spirituale che riceve per le buone azioni che ha compiuto in vita — il suo 'saldo' viene liquidato in questo mondo, così non avrà meriti nel Mondo a Venire. È come un debitore che salda il suo debito in questa vita; dopo la morte, non avrà nulla a suo credito. Il Ba'al HaTanya conclude: questa spiegazione non deve portare al cinismo, ma alla fede profonda (emunah) che la supervisione divina (hashgachah pratit) opera in modo perfetto anche quando è invisibile all'occhio umano."
+    }
+  ],
+  "_glossary_terms_used": ["tzaddik", "rasha", "klipah", "hashgachah pratit", "emunah", "Olam HaBa"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 49",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ט",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 49",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-25",
+  "hebrew_date": "12 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אמרו חכמים: 'אל תסמוך על דעתך' — ופירושו בחסידות: שאין לאדם לסמוך על שכלו בלבד בעניני אלוקות ועבודת ה', אלא להישען על הנחיית הרבי.",
+      "it": "I Saggi dissero: 'Al tisha'en al binatecha — non fare affidamento sulla tua [sola] intelligenza' (Proverbi 3:5). Il significato chassidico è: che una persona non faccia affidamento unicamente sul proprio intelletto negli affari Divini e nel servizio di D-o, ma si appoggi alla guida del Rebbe."
+    },
+    {
+      "n": 2,
+      "he": "הביטול לצדיק — אינו ביטול עצמאות, אלא ביטול ל-ה' דרך הצדיק. כשם שאדם מחבר עצמו לנהר המים החיים — כן החסיד מחבר עצמו לצדיק, ודרכו — לאין-סוף.",
+      "it": "Il bittul (l'auto-annullamento) al tzaddik (il giusto, il Rebbe) non è annullamento dell'indipendenza, ma bittul verso D-o attraverso il tzaddik. Come una persona si connette al fiume delle acque vive — così il Chassid si connette al tzaddik, e attraverso di lui — all'Ein Sof (l'Infinito Divino)."
+    },
+    {
+      "n": 3,
+      "he": "הרבי הוא ה'מוח' של הדור — מקשר בין שכל האלוקי לבין הנשמות הפרטיות. לכן ביטול לרבי — מרחיב את הדעת ואת ההבנה, ולא מצמצמה.",
+      "it": "Il Rebbe è il 'cervello' della generazione — connette l'intelletto Divino alle singole anime. Pertanto il bittul al Rebbe — espande la da'at (la conoscenza profonda) e la comprensione, non le restringe."
+    }
+  ],
+  "_glossary_terms_used": ["al tisha'en al binatecha", "bittul", "tzaddik", "Ein Sof", "Chassid", "da'at"]
+}

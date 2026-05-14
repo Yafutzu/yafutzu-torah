@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 11",
+  "name_he": "משנה תורה, הלכות נדרים, פרק יא",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 11",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-30",
+  "hebrew_date": "21 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁנַיִם שֶׁנִּתְפְּסוּ בְּוַד אֶחָד — שְׁנֵי אֲנָשִׁים שֶׁנִּדְּרוּ זֶה לָזֶה…",
+      "it": "Il caso dei «shnayim she-nitpasu be-vad echad» (due persone coinvolte in un unico caso): quando due persone votano reciprocamente — ad esempio Reuven vota «konam se beneficio da Shim'on» e Shim'on vota «konam se beneficio da Reuven» — i due voti sono indipendenti anche se reciproci. Lo scioglimento del voto di Reuven non scioglie automaticamente il voto di Shim'on. Ogni voto richiede la propria procedura di scioglimento."
+    },
+    {
+      "n": 2,
+      "he": "הַשֻּׁתָּפִים שֶׁנִּדְּרוּ זֶה עַל זֶה — כֵּיצַד…",
+      "it": "I soci d'affari (shutafim) che votano l'uno sull'altro — si crea una situazione complessa: i loro beni sono già intrecciati per via della società. Un voto di «non beneficio» tra soci può complicare l'intera gestione della società, poiché i beni comuni sono in parte di entrambi. Il Rambam esamina come distinguere i beni comuni (che entrambi possono usare) dai beni personali (su cui il voto si applica). In generale, il voto non scioglie la società — il tribunale deve trovare una soluzione che permetta la continuazione dell'attività commerciale."
+    },
+    {
+      "n": 3,
+      "he": "הָאוֹסֵר עַצְמוֹ בְּנֵדֶר מִשֶּׁחָבֵרוֹ — כְּלוּם יָכוֹל לְיָעֵץ לוֹ לִנְדֹּר…",
+      "it": "Chi consiglia a un altro di fare un voto inutile o dannoso — viola un principio etico. Il Rambam introduce qui il divieto di consigliare voti non necessari: poiché i voti vincolano e possono creare sofferenza, consigliare a qualcuno di votare senza necessità è un atto di mancanza di attenzione (o peggio) verso il prossimo. Il rispetto per la libertà e il benessere dell'altro richiede che non si incoraggino voti avventati."
+    },
+    {
+      "n": 4,
+      "he": "שְׁנֵי אֲנָשִׁים שֶׁנִּדְּרוּ זֶה עַל זֶה — מְנַסִּים לְהַתִּיר שְׁנֵיהֶם כְּאַחַד…",
+      "it": "Due persone che hanno votato l'una sull'altra — si preferisce sciogliere entrambi i voti nella stessa sessione davanti al tribunale, perché i voti sono correlati e il petach di uno può servire come petach dell'altro. Il saggio che presiede può prendere in considerazione il contesto relazionale complessivo: se i due si erano scontrati, la riconciliazione stessa può essere il petach per entrambi i voti. La halakhah incoraggia così la riconciliazione come via preferibile allo scioglimento puramente tecnico."
+    },
+    {
+      "n": 5,
+      "he": "אָסוּר לְאָדָם לִגְרֹם לַחֲבֵרוֹ שֶׁיִּדֹּר — כְּגוֹן שֶׁמְּפַתֵּהוּ לְהִשָּׁבַע…",
+      "it": "È proibito manipolare qualcuno per farlo votare — ad esempio lusingarlo o pressarlo in modo tale che, nel calore del momento, pronunci un voto che non avrebbe fatto in condizioni normali. La proibizione deriva dal rispetto per l'autonomia altrui e dalla gravità dei voti: causare deliberatamente a qualcuno di pronunciare un voto che poi non potrà mantenere è una forma di danno. Il Rambam vede in questo principio una applicazione dell'amore per il prossimo (ahavat ha-rea)."
+    },
+    {
+      "n": 6,
+      "he": "הַמַּרְבֶּה בִּנְדָרִים — סִימַן רַע לוֹ…",
+      "it": "Chi è abituato a fare molti voti — è un segnale preoccupante. I Saggi hanno detto: «I voti sono un siepe per l'astinenza» (Pirkei Avot 3:13) — i voti aiutano chi fa fatica ad astenersi spontaneamente. Ma chi fa voti di continuo dimostra che il suo carattere non si è ancora formato: ha bisogno di vincoli formali per quello che una persona di buon carattere fa spontaneamente. L'ideale della Torah è un essere umano la cui volontà è allineata con il bene — e per chi ha raggiunto questa condizione, i voti sono raramente necessari."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shnayim she-nitpasu be-vad echad", "konam", "shutafim", "petach", "ahavat ha-rea", "Pirkei Avot", "neder"
+  ]
+}

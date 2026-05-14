@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 1",
+  "name_he": "משנה תורה, הלכות שבועות, פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-08",
+  "hebrew_date": "29 Kislev 5787 — Chanukah giorno 5",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "סֵפֶר הַפְלָאָה — הִלְכוֹת שְׁבוּעוֹת...",
+      "it": "Inizia il Sefer Hafla'ah (Libro della Distinzione/dei Voti). Il Sefer Hafla'ah comprende quattro trattati: Hilchot Shevuot (giuramenti), Hilchot Nedarim (voti), Hilchot Nezirut (voti di nazireato), e Hilchot Arachin ve-Charmim (valutazioni e consacrazioni). Il tema unificante: le parole umane che creano obblighi sacri. Il nome «Hafla'ah» deriva da «pele» (meraviglioso, straordinario) — poiché queste leggi trattano del potere straordinario della parola umana di creare realtà sacra."
+    },
+    {
+      "n": 2,
+      "he": "שְׁבוּעוֹת שְׁתַּיִם שֶׁהֵן אַרְבַּע...",
+      "it": "I giuramenti (shevuot) sono di due tipi che diventano quattro: (1) Shevuat bitui (giuramento espressivo) — su azioni future («giuro di fare X») o passate («giuro di aver fatto X»); questa categoria si suddivide in futuro e passato, diventando due. (2) Shevuat shav (giuramento vano) — giuramento su qualcosa di impossibile o di già comandato dalla Torah; questa categoria si suddivide in vano e falso, diventando due. Totale: quattro categorie. Questa struttura talmudica (shtayim she-hen arba) organizza l'intera discussione dei giuramenti."
+    },
+    {
+      "n": 3,
+      "he": "שְׁבוּעַת שָׁוְא — זֶה שֶׁנִּשְׁבַּע עַל דָּבָר שֶׁאִי אֶפְשָׁר...",
+      "it": "Shevuat shav (giuramento vano): chi giura su qualcosa di impossibile («giuro che questa colonna di marmo è d'oro», «giuro che il cielo è la terra») viola il terzo dei Dieci Comandamenti: «Lo tisa et shem Hashem Elokecha la-shav» — non portare il nome di D-o invano (Esodo 20:7). Anche chi giura di violare una mitzvah (precetto) o di non eseguire una mitzvah — è shevuat shav. La pena: makkot mardut (fustigazione disciplinare rabbinica), non fustigazione biblica."
+    },
+    {
+      "n": 4,
+      "he": "שְׁבוּעַת שִׁקֵּר — הַנִּשְׁבָּע עַל דָּבָר שֶׁעָבַר וְשִׁיקֵּר...",
+      "it": "Shevuat sheker (giuramento falso): chi giura su un fatto passato sapendo che è falso («giuro che ho restituito il debito» quando non lo ha fatto). Questa è più grave della shevuat shav, poiché non solo si usa il nome divino invano ma si mente deliberatamente. La pena: korban asham (sacrificio espiatorio specifico) o, in certi casi, korban oleh ve-yored (sacrificio su scala mobile dipendente dalla ricchezza). Chanukah 5: Hallel si recita tutti gli otto giorni di Chanukah — così come la preghiera glorifica il nome divino, i giuramenti lo invocano e quindi richiedono la massima serietà."
+    },
+    {
+      "n": 5,
+      "he": "כָּל שְׁבוּעָה צְרִיכָה שֵׁם אוֹ כִּנּוּי...",
+      "it": "Ogni giuramento deve invocare il Nome di D-o (Shem ha-meforash) o un attributo divino (kinnui — epiteto come Misericordioso, Potente, Onnipotente). Un giuramento senza invocare il Nome — non è halachicamente vincolante come giuramento, ma può essere un neder (voto). Il Nome usato per il giuramento crea la sacralità dell'obbligo. Chiunque uoda un giuramento falso pronunciato con il Nome di D-o — ne viene colpito spiritualmente."
+    },
+    {
+      "n": 6,
+      "he": "הָאוֹמֵר שְׁבוּעָה שֶׁאוֹכַל — חַיָּב לֶאֱכֹל...",
+      "it": "Chi dice «giuro che mangerò questa pagnotta» — è obbligato a mangiare. Se non mangia — ha violato il giuramento. Chi dice «giuro che non mangerò» e poi mangia — ha violato il giuramento. La differenza con un voto (neder): il neder crea una proibizione sull'oggetto («questa pagnotta mi è vietata»); il giuramento crea un obbligo sulla persona («io sono obbligato a mangiare o a non mangiare»). Distinzione fondamentale: nedarim bil'shon issur, shevuot bil'shon chiuv al ha-guf."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Sefer Hafla'ah", "shevuot", "nedarim", "nezirut", "arachin", "shevuat bitui", "shevuat shav", "shevuat sheker", "Lo tisa et shem Hashem la-shav", "makkot mardut", "korban asham", "korban oleh ve-yored", "Shem ha-meforash", "kinnui", "neder", "Hallel"
+  ]
+}

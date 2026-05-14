@@ -1,0 +1,30 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 14",
+  "name_he": "משנה תורה, הלכות אישות, פרק יד",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 14",
+  "cycle": "rambam-1",
+  "date": "2026-09-06",
+  "hebrew_date": "24 Elul 5786",
+  "halachot_count": 18,
+  "halachot": [
+    {"n": 1, "he": "חַיָּב הַבַּעַל לָתֵת לְאִשְׁתּוֹ מְזוֹנוֹת הַמַּסְפִּיקִים לָהּ.", "it": "Il marito è obbligato a dare alla moglie cibo sufficiente per lei."},
+    {"n": 2, "he": "כַּמָּה הֵם הַמְּזוֹנוֹת? כְּפִי מַה שֶּׁיֵּשׁ בַּמָּקוֹם הַהוּא, וּכְפִי כְּבוֹד שְׁנֵיהֶם.", "it": "Quant'è il sostentamento? Secondo ciò che è in uso in quel luogo, e secondo l'onore di entrambi."},
+    {"n": 3, "he": "הַכֹּל לְפִי עֹשֶׁר הַבַּעַל וַעֲנִיּוּתוֹ — עָשִׁיר נוֹתֵן יוֹתֵר, עָנִי נוֹתֵן פָּחוֹת.", "it": "Tutto secondo la ricchezza o la povertà del marito — il ricco dà di più, il povero dà di meno."},
+    {"n": 4, "he": "הַמְּזוֹנוֹת כּוֹלְלִים לֶחֶם וְקִטְנִיּוֹת וְשֶׁמֶן וְיֵין, כְּפִי מִנְהַג הַמָּקוֹם.", "it": "Il sostentamento include pane, legumi, olio e vino, secondo la consuetudine del luogo."},
+    {"n": 5, "he": "חַיָּב לָתֵת לָהּ כְּסוּת כְּפִי הָעוֹנָה — בֶּגֶד חֹרֶף בַּחֹרֶף וּבֶגֶד קַיִץ בַּקַּיִץ.", "it": "È obbligato a darle abbigliamento secondo la stagione — un abito invernale d'inverno e un abito estivo d'estate."},
+    {"n": 6, "he": "חַיָּב לָתֵת לָהּ כְּלֵי בַּיִת לְצָרְכֶיהָ.", "it": "È obbligato a darle utensili domestici per i suoi bisogni."},
+    {"n": 7, "he": "הַשִּׁיעוּר הַמִּינִימָלִי לַמְּזוֹנוֹת — שְׁנֵי קַבִּין חִטִּים לְשַׁבּוּעַ לְאִשָּׁה.", "it": "Il quantitativo minimo per il sostentamento — due kav di frumento a settimana per la moglie."},
+    {"n": 8, "he": "וְנוֹתֵן לָהּ לְחֵם מִן הַחִטִּים, אוֹ דָּמִים שֶׁל חִטִּים.", "it": "E le dà pane di frumento, o il denaro equivalente al frumento."},
+    {"n": 9, "he": "אָמְרָה הָאִשָּׁה 'אֵינִי רוֹצָה לֶחֶם, אֶלָּא מָעוֹת' — שׁוֹמְעִין לָהּ.", "it": "Se la moglie ha detto 'non voglio pane, ma denaro' — si ascolta la sua richiesta."},
+    {"n": 10, "he": "אָמַר הַבַּעַל 'אֵינִי נוֹתֵן אֶלָּא לֶחֶם' — שׁוֹמְעִין לוֹ.", "it": "Se il marito ha detto 'darò solo pane' — si ascolta la sua richiesta."},
+    {"n": 11, "he": "נָתַן לָהּ מָעוֹת וְקָנְתָה בָּהֶם — הַמּוֹתָר שַׁיָּךְ לָהּ.", "it": "Se le ha dato denaro e lei ha comprato con esso — il surplus appartiene a lei."},
+    {"n": 12, "he": "הִכְנִיסָה לוֹ שִׁפְחָה — אֵינָהּ חַיֶּבֶת לְבַשֵּׁל וְלֶאֱפוֹת, אֲבָל חַיֶּבֶת בִּמְלָאכוֹת אֲחֵרוֹת.", "it": "Se ha portato una schiava — non è obbligata a cucinare e cuocere, ma è obbligata in altri lavori."},
+    {"n": 13, "he": "הָיוּ לוֹ שְׁתֵּי נָשִׁים — חַיָּב לָתֵת לְכָל אַחַת מְזוֹנוֹת שָׁוִים.", "it": "Se aveva due mogli — è obbligato a dare ad ognuna un sostentamento uguale."},
+    {"n": 14, "he": "אֵין הָאִשָּׁה יְכוֹלָה לְמַנּוֹעַ מְזוֹנוֹת מֵחֲבֶרְתָּהּ.", "it": "Una moglie non può privare del sostentamento la sua compagna."},
+    {"n": 15, "he": "הַבַּעַל שֶׁאָמַר 'הֲרֵי מָעוֹת, קְנִי בָּהֶם מְזוֹנוֹתַיִךְ' — שׁוֹמְעִין לוֹ.", "it": "Il marito che ha detto 'ecco il denaro, compraci il tuo cibo' — si ascolta la sua richiesta."},
+    {"n": 16, "he": "חַיָּב הַבַּעַל לִתֵּן לָהּ מֵי רֶגֶל וּמֵי שְׁתִיָּה בְּמִדָּה מְסֻיֶּמֶת.", "it": "Il marito è obbligato a darle acqua per lavarsi i piedi e acqua da bere in quantità determinata."},
+    {"n": 17, "he": "חַיָּב לִתֵּן לָהּ שֶׁמֶן לְמָאוֹר כְּפִי מִנְהַג הַמָּקוֹם.", "it": "È obbligato a darle olio per illuminazione secondo la consuetudine del luogo."},
+    {"n": 18, "he": "כָּל אֵלּוּ הַחִיּוּבִים — מִן הַתַּקָּנוֹת, כְּדֵי שֶׁיִּחְיוּ בְּשָׁלוֹם.", "it": "Tutti questi obblighi — derivano dai decreti rabbinici, affinché vivano in pace."}
+  ],
+  "_glossary_terms_used": ["mezonot", "ketubah"]
+}

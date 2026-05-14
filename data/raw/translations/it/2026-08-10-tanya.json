@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 34",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לד",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 34",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-10",
+  "hebrew_date": "27 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "לימוד תורה לשמה — לא לשם שכר, לא לשם כבוד, ולא אפילו לשם ידיעת ההלכה בלבד — אלא לשם המצוה עצמה, ולשם הדביקות בחכמת ה'. זהו הדרגה הנעלה ביותר בלימוד התורה.",
+      "it": "Lo studio della Torah 'lishmah' (per sé stessa) — non per il compenso, non per la gloria, e neppure solo per conoscere la halachah — ma per il precetto stesso e per la deveikut alla saggezza di D-o. Questo è il livello più elevato nello studio della Torah."
+    },
+    {
+      "n": 2,
+      "he": "לימוד לשמה — אינו אומר שאסור להפיק הנאה ממנו. ההנאה שמקבל הלומד היא חלק מהמצוה עצמה. אבל הכוונה הראשונית — לא לשם ההנאה אלא לשם המצוה. כמו שאוכל מצה: ההנאה אינה אסורה, אך אין לאכול לשם ההנאה בלבד.",
+      "it": "Studio lishmah non significa che sia vietato trarne piacere. Il piacere che il discepolo riceve è parte del precetto stesso. Ma l'intenzione primaria deve essere per il precetto, non per il piacere. Come mangiare la matzah: il piacere non è proibito, ma non si mangia solo per il piacere."
+    },
+    {
+      "n": 3,
+      "he": "התורה לשמה — מרוממת את האדם מעל כל הגבלות החומריות. שנאמר: 'כי הם חיינו ואורך ימינו'. כי התורה היא 'חיי' ממש — חיות האלוהית שבה מחיה את נשמת הלומד. ומי שזוכה ללמוד לשמה — הוא מאוחד עם ה' בפועל.",
+      "it": "La Torah lishmah eleva la persona al di sopra di tutte le limitazioni materiali. Come è detto: 'Poiché esse sono la nostra vita e la lunghezza dei nostri giorni' (Devarim 30:20). La Torah è letteralmente 'vita' — la vitalità divina in essa vivifica la neshama di chi studia. Chi merita di studiare lishmah è realmente unito a D-o."
+    }
+  ],
+  "_glossary_terms_used": ["Torah lishmah", "deveikut", "neshama", "halachah"]
+}

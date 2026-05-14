@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 15",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק טו",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 15",
+  "cycle": "rambam-1",
+  "date": "2026-08-10",
+  "hebrew_date": "27 Av 5786",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מהלך השמש האמצעי ביום אחד הוא נ\"ט דקות ושמונה שניות. זהו מהלכה הקבוע מיום ליום, והיא מקיפה את כל גלגל המזלות — שלוש מאות ושישים מעלות — בשנה שלמה אחת.",
+      "it": "Il moto medio del sole in un giorno è di cinquantanove minuti d'arco e otto secondi. Questo è il suo moto costante di giorno in giorno, e esso percorre l'intera sfera zodiacale — trecentosessanta gradi — in un anno solare completo."
+    },
+    {
+      "n": 2,
+      "he": "עיקר מקום השמש האמצעי — כלומר, נקודת המוצא לחישוב — הוא מקום השמש בתחילת יום רביעי, שהוא יום הבריאה של גרמי השמים. ומכאן מחשבים את מקום השמש לכל יום.",
+      "it": "Il punto di riferimento (ikkar) della posizione media del sole — ovvero il punto di partenza del calcolo — è la posizione del sole all'inizio del quarto giorno della settimana, che è il giorno della creazione dei corpi celesti. Da questo punto si calcola la posizione del sole per ogni giorno."
+    },
+    {
+      "n": 3,
+      "he": "המהלך ל-10 ימים: ט' מעלות, נ\"ח דקות, ועשרים וששה שניות. ל-100 ימים: צ\"ח מעלות, ל\"ג דקות, וחמש עשרה שניות. ל-1000 ימים: שלוש מאות ויותר.",
+      "it": "Il moto solare per 10 giorni: 9 gradi, 58 minuti e 26 secondi. Per 100 giorni: 98 gradi, 33 minuti e 15 secondi. Per 1000 giorni: più di 300 gradi (equivale a poco meno di tre giri completi)."
+    },
+    {
+      "n": 4,
+      "he": "מהלך השמש לשנה אחת: שלוש מאות ושישים וחמש מעלות, וחמש עשרה דקות, ועשרים ושתיים שניות — פחות משישים דקות. כלומר, השמש חוזרת לאותה נקודה בדיוק בשנה הגרגורניאנית.",
+      "it": "Il moto solare in un anno: trecentosessantacinque gradi, quindici minuti e ventidue secondi — un giro completo meno quasi un grado. Ovvero, il sole ritorna esattamente allo stesso punto nell'anno solare."
+    },
+    {
+      "n": 5,
+      "he": "כדי לדעת מקום השמש האמצעי לכל יום שרוצים — לוקחים העיקר ומוסיפים עליו את מהלך כל היום עד לאותו יום. והיוצא מן החשבון — הוא מקום השמש האמצעי.",
+      "it": "Per conoscere la posizione media del sole in qualsiasi giorno desiderato, si prende il punto di riferimento (ikkar) e si aggiunge il moto giornaliero moltiplicato per il numero di giorni fino a quel giorno. Il risultato del calcolo è la posizione media del sole."
+    },
+    {
+      "n": 6,
+      "he": "דוגמה: אם ידועה מקום השמש בתחילת ניסן שנת העולם — ורצינו לדעת מקום השמש ביום מסוים — נמנה מניסן עד אותו יום, ונכפיל במהלך יומי, ונוסיף לעיקר.",
+      "it": "Esempio: se è nota la posizione del sole all'inizio di Nisan dell'anno della Creazione — e vogliamo conoscere la posizione del sole in un giorno determinato — contiamo da Nisan fino a quel giorno, moltiplichiamo per il moto giornaliero, e aggiungiamo al punto di riferimento."
+    },
+    {
+      "n": 7,
+      "he": "לוחות מהלך השמש מבוססים על חישוב זה. הם מראים מקום השמש האמצעי לכל יום ראשון של כל שנה ושנה, ומשם מחשבים את שאר הימים.",
+      "it": "Le tavole del moto solare si basano su questo calcolo. Esse indicano la posizione media del sole per ogni primo giorno di ogni anno, e da lì si calcolano tutti gli altri giorni."
+    },
+    {
+      "n": 8,
+      "he": "עיקר מקום השמש האמצעי שנשתמש בו הוא מקומה בתחילת ליל חמישי שאחרי מולד תוהו — שהוא עשרים ושמונה מעלות ומחצה בתחילת מזל טלה.",
+      "it": "Il punto di riferimento della posizione media del sole che utilizziamo è la sua posizione all'inizio della notte del quinto giorno successivo al molad tohu — che equivale a ventotto gradi e mezzo all'inizio della costellazione dell'Ariete (mazzal Taleh)."
+    }
+  ],
+  "_glossary_terms_used": ["ikkar", "mazzal Taleh", "molad tohu", "moto solare medio"]
+}

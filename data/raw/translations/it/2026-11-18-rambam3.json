@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 15-17",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים טו-יז",
+  "name_it": "Mishneh Torah, Leggi del Creditore e del Debitore, capitoli 15-17",
+  "cycle": "rambam-3",
+  "date": "2026-11-18",
+  "hebrew_date": "9 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "15:1-5",
+      "he": "הַלּוֶה שֶׁמֵּת — גּוֹבִין מִנְּכָסָיו שֶׁהֵם תַּחַת יַד יוֹרְשָׁיו…",
+      "it": "(Malveh VeLoveh cap. 15, hal. 1-5) Il creditore può riscuotere dall'eredità del debitore defunto. Gli eredi ricevono l'eredità soggetta ai debiti del defunto; i creditori hanno precedenza sugli eredi. Tuttavia i beni immobili (karka) che erano in possesso del defunto al momento della morte sono soggetti a riscossione; beni mobili (metaltelin) trasmessi agli eredi — in molti casi non possono essere espropriati dai creditori (per decreto rabbinico a protezione degli orfani). Il beit din supervisiona questo processo con attenzione particolare."
+    },
+    {
+      "n": "16:1-5",
+      "he": "הַלּוֶה שֶׁכָּפַר בְּמִלְוֶה — וְנִשְׁבַּע לַשֶּׁקֶר…",
+      "it": "(Malveh VeLoveh cap. 16, hal. 1-5) Il debitore che nega il debito e giura il falso — ha commesso uno dei peccati più gravi: shevu'at shav (giuramento vano) o shevu'at sheker (giuramento falso). Il Rambam elabora: chi giura falsamente in una disputa monetaria non solo ha violato il comandamento «non pronuncerai invano il nome di D-o» ma ha anche demoralizzato il sistema giuridico. I Saggi dicono che chi giura il falso fa come se negasse il Creatore. Il beit din può obbligarlo a riparare il danno."
+    },
+    {
+      "n": "17:1-6",
+      "he": "שְׁבוּעַת שָׁוְא — הִיא שֶׁנִּשְׁבַּע עַל דָּבָר שֶׁאִי אֶפְשָׁר…",
+      "it": "(Malveh VeLoveh cap. 17, hal. 1-6) La shevu'at shav (giuramento vano) include: giurare su qualcosa di impossibile (che non dormirò mai), giurare di violare un comandamento, giurare su qualcosa di ovvio. La shevu'at sheker (giuramento falso) è giurare su un fatto che si sa essere falso. Entrambe violano il comandamento «lo tissa et shem Hashem Elokecha la-shav». La differenza pratica: shevu'at shav è punita con malkot (flagellazione) biblica; shevu'at sheker in ambito monetario richiede anche restituzione. Il Rambam conclude: la santità del giuramento è il pilastro della fiducia nella società umana."
+    }
+  ],
+  "_glossary_terms_used": [
+    "karka", "metaltelin", "beit din", "shevu'at shav", "shevu'at sheker", "malkot", "lo tissa et shem Hashem"
+  ]
+}

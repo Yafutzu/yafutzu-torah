@@ -1,0 +1,28 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 23",
+  "name_he": "משנה תורה, הלכות אישות, פרק כג",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 23",
+  "cycle": "rambam-1",
+  "date": "2026-09-15",
+  "hebrew_date": "4 Tishrei 5787",
+  "halachot_count": 16,
+  "halachot": [
+    {"n": 1, "he": "כְּתֻבַּת הַבְּתוּלָה — מָאתַיִם זוּז. כְּתֻבַּת הָאַלְמָנָה — מָנֶה.", "it": "La ketubah della vergine — duecento zuz. La ketubah della vedova — cento zuz (maneh)."},
+    {"n": 2, "he": "אֵלּוּ הֵם הַשִּׁיעוּרִים הַמִּינִימָלִיִּים שֶׁתִּקְּנוּ חֲכָמִים.", "it": "Questi sono i quantitativi minimi stabiliti dai Saggi."},
+    {"n": 3, "he": "הַבַּעַל יָכוֹל לְהוֹסִיף עַל הַשִּׁיעוּר הַקָּצוּב — וּתּוֹסֶפֶת זוֹ נִקְרֵאת תּוֹסֶפֶת כְּתֻבָּה.", "it": "Il marito può aggiungere al quantitativo minimo — e questa aggiunta è chiamata tosefet ketubah."},
+    {"n": 4, "he": "תּוֹסֶפֶת כְּתֻבָּה — דִּינָהּ כְּדִין כְּתֻבָּה לְכָל דָּבָר.", "it": "La tosefet ketubah — ha le stesse leggi della ketubah in ogni questione."},
+    {"n": 5, "he": "הַכּוֹתֵב לָאִשָּׁה תּוֹסֶפֶת יְתֵרָה — אֵינוֹ יָכוֹל לַחְזֹר בּוֹ.", "it": "Chi scrive alla moglie una tosefet aggiuntiva — non può tornare indietro."},
+    {"n": 6, "he": "הַמָּקוֹם שֶׁנָּהֲגוּ לִכְתֹּב יוֹתֵר — כּוֹתְבִין יוֹתֵר.", "it": "Il luogo in cui è consuetudine scrivere di più — si scrive di più."},
+    {"n": 7, "he": "הַמָּקוֹם שֶׁנָּהֲגוּ לִכְתֹּב פָּחוֹת מִמָּאתַיִם — אֵין כּוֹתְבִין פָּחוֹת.", "it": "Il luogo in cui è consuetudine scrivere meno di duecento — non si scrive meno."},
+    {"n": 8, "he": "כְּתֻבַּת הַבְּתוּלָה הַגְּדוֹלָה שֶׁנִּישֵּׂאת לְכֹהֵן גָּדוֹל — כּוֹתֵב לָהּ אַרְבַּע מֵאוֹת זוּז.", "it": "La ketubah della vergine adulta che ha sposato il Sommo Sacerdote — le scrive quattrocento zuz."},
+    {"n": 9, "he": "כְּתֻבַּת גְּרוּשָׁה שֶׁנִּישֵּׂאת שֵׁנִית — כְּאַלְמָנָה.", "it": "La ketubah di una divorziata che si risposa — come quella di una vedova."},
+    {"n": 10, "he": "גֵּרְשָׁה וְחָזַר וְנָשָׂא אוֹתָהּ — כְּתֻבָּתָהּ כְּאַלְמָנָה, אֲפִלּוּ הָיְתָה בְּתוּלָה בָּרִאשׁוֹנָה.", "it": "Se la ha divorziata e poi sposata di nuovo — la sua ketubah è come quella di una vedova, anche se era vergine la prima volta."},
+    {"n": 11, "he": "הַמִּינִימוּם אֵינוֹ מִשֻּׁם שֶׁהַתּוֹרָה קָבְעָה, אֶלָּא מִתַּקָּנַת חֲכָמִים.", "it": "Il minimo non è perché la Torah lo ha stabilito, ma dal decreto dei Saggi."},
+    {"n": 12, "he": "מָאתַיִם זוּז — שִׁיעוּר שֶׁהִיה מְסֻיָּם בִּזְמַן חֲכָמִים, וּכְיוֹם מְחַשְּׁבִין לְפִי הַכֶּסֶף.", "it": "Duecento zuz — era un quantitativo definito ai tempi dei Saggi, e oggi si calcola secondo il valore dell'argento."},
+    {"n": 13, "he": "תּוֹסֶפֶת כְּתֻבָּה גּוֹבִין מִנְּכָסִים מְשֻׁעְבָּדִים כְּמוֹ עִיקַּר הַכְּתֻבָּה.", "it": "La tosefet ketubah si riscuote da beni gravati come il valore principale della ketubah."},
+    {"n": 14, "he": "נָדַב לָהּ תּוֹסֶפֶת בְּלֹא כְּתִיבָה — אֵינוֹ מְחֻיָּב.", "it": "Se ha promesso la tosefet senza scrittura — non è obbligato."},
+    {"n": 15, "he": "כָּתַב לָהּ תּוֹסֶפֶת בְּמִשְׁנֶה כֵּתֶב — תַּקָּפָהּ כִּשְׁאָר הַכְּתֻבָּה.", "it": "Se ha scritto la tosefet in un secondo documento — è vincolante come il resto della ketubah."},
+    {"n": 16, "he": "כָּל כְּתֻבָּה, עִיקָּר וְתוֹסֶפֶת — נִגְבֵּית בְּמוֹת הַבַּעַל אוֹ בְּגֵרוּשִׁין.", "it": "Tutta la ketubah, principale e aggiuntiva — si riscuote alla morte del marito o al divorzio."}
+  ],
+  "_glossary_terms_used": ["ketubah", "tosefet ketubah", "zuz", "maneh"]
+}

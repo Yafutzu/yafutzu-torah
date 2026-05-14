@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nizkei Mamon 11-13",
+  "name_he": "משנה תורה, הלכות נזקי ממון, פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi dei Danni ai Beni (Nizkei Mamon), capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-09-26",
+  "hebrew_date": "15 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "11:1",
+      "he": "אָדָם הַמַּזִּיק — כְּלוֹמַר מִי שֶׁבְּגוּפוֹ פָּגַע בְּרְכוּשׁ חֲבֵרוֹ — חַיָּב בְּנֵזֶק שָׁלֵם. שֶׁכֵּן אָמְרוּ חֲכָמִים: 'אָדָם מוּעָד לְעוֹלָם.'",
+      "it": "L'essere umano che causa danno — cioè chi col proprio corpo ha leso la proprietà del prossimo — è responsabile del danno integrale. Come hanno detto i Saggi: 'L'essere umano è sempre mu'ad (recidivo).'"
+    },
+    {
+      "n": "11:2",
+      "he": "בֵּין עֵר בֵּין יָשֵׁן, בֵּין בְּכַוָּנָה בֵּין שֶׁלֹּא בְּכַוָּנָה — חַיָּב. שֶׁנֶּאֱמַר: 'וְשִׁלַּם — מֵיטַב שָׂדֵהוּ' — אֵין הֶבְחֵן בֵּין מֵזִיד לְשׁוֹגֵג.",
+      "it": "Sia sveglio che addormentato, sia intenzionale che non intenzionale — è responsabile. Come è detto: 'E risarcirà — con il meglio del suo campo' — non vi è differenza tra intenzionale e non intenzionale."
+    },
+    {
+      "n": "11:3",
+      "he": "שֵׁן לַשֵּׁן — מֵת בַּחֲבֹל. אֲבָל הַמּוֹצִיא עֵין חֲבֵרוֹ — מְשַׁלֵּם בְּדָמִים, לֹא עֵין תַּחַת עַיִן מַמָּשׁ.",
+      "it": "Dente per dente — si paga col valore. Ma chi ha tolto l'occhio del prossimo — paga in denaro, non un occhio per un occhio letteralmente."
+    },
+    {
+      "n": "12:1",
+      "he": "הַמַּנִּיחַ אֶבֶן בִּרְשׁוּת הָרַבִּים וּנִכְשַׁל בָּהּ אָדָם — חַיָּב. הַמַּנִּיחַ מַיִם בִּרְשׁוּת הָרַבִּים — חַיָּב.",
+      "it": "Chi ha lasciato una pietra nel dominio pubblico e una persona vi è inciampata — è responsabile. Chi ha lasciato dell'acqua nel dominio pubblico — è responsabile."
+    },
+    {
+      "n": "12:2",
+      "he": "שָׁם חֵלֶב בִּרְשׁוּת הָרַבִּים — חַיָּב. שָׁם קוֹצִים — חַיָּב. כָּל הַמַּנִּיחַ דָּבָר שֶׁיֵּשׁ בּוֹ סַכָּנָה — חַיָּב.",
+      "it": "Ha lasciato del grasso nel dominio pubblico — è responsabile. Ha lasciato spine — è responsabile. Chiunque lasci qualcosa di pericoloso — è responsabile."
+    },
+    {
+      "n": "12:3",
+      "he": "הָיָה הָאָדָם שׁוֹמֵר עַל מַנִּיחַ הַסַּכָּנָה — פָּטוּר שׁוֹמֵר, חַיָּב הַמַּנִּיחַ.",
+      "it": "Se una persona stava sorvegliando chi ha lasciato il pericolo — il sorvegliante è esente, responsabile è chi ha lasciato."
+    },
+    {
+      "n": "13:1",
+      "he": "כְּלָל גָּדוֹל בְּהִלְכוֹת נְזִיקִין: 'אָדָם מוּעָד לְעוֹלָם' — כָּל נֵזֶק שֶׁיֵּצֵא מִגּוּפוֹ שֶׁל אָדָם, בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד — מְשַׁלֵּם.",
+      "it": "Grande principio nelle leggi dei danni: 'L'essere umano è sempre mu'ad' — qualsiasi danno proveniente dal corpo di una persona, sia non intenzionale che intenzionale — si paga."
+    },
+    {
+      "n": "13:2",
+      "he": "אֲבָל לַחֲצִי נֵזֶק שֶׁל בְּהֵמָה — הַבְּהֵמָה בְּטִבְעָהּ אֵינָהּ מוּעֶדֶת, לָכֵן בְּתָמָהּ מְשַׁלֶּמֶת חֲצִי.",
+      "it": "Ma riguardo al mezzo danno dell'animale — l'animale per sua natura non è recidivo, perciò da tam paga metà."
+    },
+    {
+      "n": "13:3",
+      "he": "זֶה הָיָה עִנְיַן חִדּוּשׁ הַתּוֹרָה: כָּל גּוּף שֶׁמַּזִּיק — כָּל שֶׁיֵּשׁ לוֹ בְּחִירָה חַיָּב שָׁלֵם, אֵין לוֹ בְּחִירָה — חַיָּב חֲצִי. זֶה שֵׂכֶל הַדִּין.",
+      "it": "Questa era la novità della Torah: qualsiasi corpo che causa danno — se ha libero arbitrio è responsabile intero, se non ha libero arbitrio — è responsabile per metà. Questa è la logica della legge."
+    }
+  ],
+  "_glossary_terms_used": ["adam mu'ad", "nezek", "reshut harabim", "shogeg", "meizid", "bechirah"]
+}

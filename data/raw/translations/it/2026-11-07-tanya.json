@@ -1,0 +1,25 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 5",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק ה",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 5",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-07",
+  "hebrew_date": "27 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שֵׂכֶל הַנֶּפֶשׁ הַבְּהֵמִית — אַף הִיא יֵשׁ לָהּ שֶׂכֶל…",
+      "it": "La nefesh ha-behamit ha anch'essa una struttura intellettuale. L'Alter Rebbe spiega che l'anima animale non è semplicemente istinto grezzo — ha una propria «intelligenza» che la guida nel perseguimento dei propri fini. Le facoltà intellettuali della nefesh ha-behamit (il «Chabad della kelipah») generano le quattro emozioni negative principali: ta'avah (desiderio insaziabile), ga'avah (orgoglio), ka'as (rabbia), e atzvut (apatia/tristezza). Queste quattro sono le manifestazioni primarie della kelipah nell'esperienza interiore dell'uomo."
+    },
+    {
+      "n": 2,
+      "he": "תַּאֲוָה — שֹׁרֶשׁ כָּל הַחֲטָאִים; גַּאֲוָה — שֹׁרֶשׁ הַכֹּל…",
+      "it": "L'Alter Rebbe analizza le quattro emozioni negative: Ta'avah (desiderio): la radice della maggior parte dei peccati pratici — si desidera qualcosa di proibito e lo si persegue. Ga'avah (orgoglio/arroganza): la radice del distacco da D-o — chi è pieno di sé non ha spazio per il Divino. I Saggi insegnano che D-o dice dell'orgoglioso: «Egli e Io non possiamo stare insieme». Ka'as (rabbia): descritta dai Saggi come equivalente all'idolatria — chi si arrabbia perde temporaneamente il controllo della sua nefesh ha-Elohit. Atzvut (tristezza/apatia): non un peccato in sé, ma il terreno più fertile per tutti i peccati — chi è depresso non ha la forza di resistere alla kelipah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nefesh ha-behamit", "Alter Rebbe", "ta'avah", "ga'avah", "ka'as", "atzvut", "kelipah", "nefesh ha-Elohit"
+  ]
+}

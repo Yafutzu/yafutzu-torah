@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 3",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ג",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-10",
+  "hebrew_date": "1 Tevet 5787 — Rosh Chodesh Tevet — Chanukah giorno 7",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבוּעַת בִּטּוּי — הִיא הַנִּשְׁבָּע לַעֲשׂוֹת דָּבָר אוֹ שֶׁלֹּא לַעֲשׂוֹת...",
+      "it": "Shevuat bitui (giuramento espressivo): giuramento di fare o non fare qualcosa in futuro. Esempi: «Giuro che mangerò domani» o «Giuro che non mangerò questa settimana». Se viola il giuramento — è obbligato a portare un korban oleh ve-yored (sacrificio a scala mobile): un animale se è ricco, due tortore o colombe se è di medio reddito, o un decimo di efah di farina se è povero. Questo sistema di sacrificio variabile riflette la giustizia divina: ogni persona è giudicata secondo le proprie possibilità."
+    },
+    {
+      "n": 2,
+      "he": "מִי שֶׁנִּשְׁבַּע וְנֶאְנַס — פָּטוּר...",
+      "it": "Chi ha giurato e poi è stato impossibilitato a mantenere il giuramento per cause di forza maggiore (ones) — è esente dalla pena. Se ha detto «Giuro di andare a Gerusalemme domani» e improvvisamente è malato — non ha violato il giuramento. Questa esenzione riflette il principio halachico generale: «ones rachmana patrei» — la Torah esenta chi è vittima di circostanze indipendenti dalla propria volontà."
+    },
+    {
+      "n": 3,
+      "he": "הֲפָרַת הַשְּׁבוּעָה — בַּעַל מֵפֵר נִדְרֵי אִשְׁתּוֹ...",
+      "it": "Hafarah (annullamento del giuramento): un marito può annullare i voti e i giuramenti di sua moglie se li ode il giorno stesso in cui vengono pronunciati e li annulla entro quel giorno. Un padre può annullare i voti della figlia minore. Questo annullamento deve essere pronunciato verbalmente, non solo pensato. Se il marito «ha confermato» (keyyem) il voto — non può più annullarlo. Il meccanismo di hafarah si applica anche ai nedarim (voti), che vengono trattati separatamente nel prossimo trattato del Sefer Hafla'ah."
+    },
+    {
+      "n": 4,
+      "he": "הַחֲכָמִים מַתִּירִין נְדָרִים...",
+      "it": "I saggi (Chachamim) possono «sciogliere» (matir) voti e giuramenti tramite il processo di hatarat nedarim (scioglimento dei voti). Il processo richiede: (a) che la persona si penta di aver fatto il voto, (b) che presenti «petach» (apertura — un motivo per cui non avrebbe fatto il voto se avesse saputo) o «charatah» (rimorso puro), (c) che tre esperti in halachah (o un mumcheh — esperto speciale) lo sciolgano verbalmente. Rosh Chodesh Tevet: anche nel mese più buio dell'anno (Tevet — il mese del freddo e del digiuno del Gedaliah), la luna si rinnova — così come i voti possono essere rinnovati o sciolti."
+    },
+    {
+      "n": 5,
+      "he": "רֹאשׁ חֹדֶשׁ טֵבֵת — יוֹם טוֹב קָטָן...",
+      "it": "Rosh Chodesh Tevet 5787 — primo del mese di Tevet. Quest'anno Rosh Chodesh Tevet coincide con il settimo giorno di Chanukah — un momento di doppia celebrazione. Si recita Hallel completo per Chanukah; si aggiunge Musaf di Rosh Chodesh. Le leggi dei giuramenti nei giorni di Rosh Chodesh: non vi sono restrizioni particolari ai giuramenti in Rosh Chodesh, ma è un giorno di simchah (gioia) in cui si evitano digiuni e lamentazioni."
+    },
+    {
+      "n": 6,
+      "he": "שֶׁבַע נֵרוֹת מְאִירוֹת בְּלֵיל שְׁבִיעִי...",
+      "it": "Nota di Chanukah — settima candela: sette candele illuminano questa sera di Rosh Chodesh Tevet. Sette — come i giorni della settimana, come i rami del Menorah del Tempio. Il Menorah aveva sette rami — e il miracolo di Chanukah avvenne proprio al Menorah. Il numero sette rappresenta la completezza del mondo naturale (sheva — beracha naturale). Ma domani sera aggiungiamo l'ottava candela — il numero che trascende la natura."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevuat bitui", "korban oleh ve-yored", "ones", "hafarah", "keyyem", "nedarim", "Chachamim", "hatarat nedarim", "petach", "charatah", "mumcheh", "Rosh Chodesh Tevet", "Hallel", "Musaf", "simchah"
+  ]
+}

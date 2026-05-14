@@ -1,0 +1,26 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 13",
+  "name_he": "משנה תורה, הלכות אישות, פרק יג",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 13",
+  "cycle": "rambam-1",
+  "date": "2026-09-05",
+  "hebrew_date": "23 Elul 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {"n": 1, "he": "הָאִשָּׁה שֶׁמּוֹרֶדֶת עַל בַּעְלָהּ וְאָמְרָה 'אֵינִי רוֹצָה לְשַׁמְּשׁוֹ' — פּוֹחֲתִין לָהּ מִכְּתֻבָּתָהּ.", "it": "La moglie che si ribella al marito e dice 'non voglio avere rapporti con lui' — le si diminuisce dalla ketubah."},
+    {"n": 2, "he": "כֵּיצַד? פּוֹחֲתִין לָהּ שִׁבְעָה דִּינָרִים בְּכָל שָׁבוּעַ, עַד שֶׁתִּחְסַר כָּל כְּתֻבָּתָהּ.", "it": "Come? Le si diminuiscono sette dinar ogni settimana, finché tutta la ketubah sia esaurita."},
+    {"n": 3, "he": "מָשְׁלָה יָדָהּ עַל בַּעְלָהּ וְנִמְצֵאת מְגֹרֶשֶׁת בְּלֹא כְּתֻבָּה — כְּדֵי שֶׁלֹּא יְהֵא קַל בְּעֵינֶיהָ לִמְרֹד.", "it": "Alla fine si troverà divorziata senza ketubah — affinché non le sembri facile ribellarsi."},
+    {"n": 4, "he": "אֲבָל אֵין כּוֹפִין אוֹתָהּ לְהַחְזִיר לוֹ — שֶׁאֵין אִשָּׁה מִתְקַדֶּשֶׁת אֶלָּא בְּרָצוֹנָהּ.", "it": "Ma non la si costringe a tornare da lui — poiché una donna non si sposa se non di sua volontà."},
+    {"n": 5, "he": "הַבַּעַל שֶׁמּוֹרֵד עַל אִשְׁתּוֹ וְאָמַר 'אֵינִי רוֹצֶה לְשַׁמְּשָׁהּ' — מוֹסִיפִין לָהּ עַל כְּתֻבָּתָהּ.", "it": "Il marito che si ribella alla moglie e dice 'non voglio avere rapporti con lei' — le si aggiunge alla ketubah."},
+    {"n": 6, "he": "מוֹסִיפִין לָהּ שְׁלֹשָׁה דִּינָרִים בְּכָל שָׁבוּעַ.", "it": "Le si aggiungono tre dinar ogni settimana."},
+    {"n": 7, "he": "וְכֵן כּוֹפִין אוֹתוֹ לְגָרְשָׁהּ אִם עָמַד בְּסֵרוּבוֹ.", "it": "E si può costringere il marito a divorziare se persiste nel suo rifiuto."},
+    {"n": 8, "he": "יֵשׁ הֶפְרֵשׁ בֵּין מוֹרֶדֶת לְמוֹרֵד: מוֹרֶדֶת — אֵין מוֹסִיפִין לָהּ. מוֹרֵד — מוֹסִיפִין לָהּ.", "it": "C'è differenza tra la moredet (moglie ribelle) e il moreid (marito ribelle): alla moredet — si sottrae dalla ketubah; per il moreid — si aggiunge alla ketubah di lei."},
+    {"n": 9, "he": "מוֹרֶדֶת מֵחֲמַת מָאוּס עָלֶיהָ — דִּינָהּ שׁוֹנֶה, שֶׁהַדָּבָר בָּא לָהּ מִן הַשָּׁמַיִם.", "it": "Una moredet per disgusto verso di lui — la sua legge è diversa, poiché ciò le viene dal Cielo."},
+    {"n": 10, "he": "הָאִשָּׁה שֶׁאָמְרָה 'מָאַסְתִּי בְּבַעְלִי, אֵינִי יְכוֹלָה לְהִתְגָּרֵשׁ מִמֶּנּוּ' — כּוֹפִין אֶת הַבַּעַל לְגָרְשָׁהּ.", "it": "La moglie che ha detto 'detesto mio marito, non posso stare con lui' — si costringe il marito a divorziare."},
+    {"n": 11, "he": "וְאֵין לָהּ כְּתֻבָּה בִּמְקוֹם זֶה.", "it": "E in questo caso non ha diritto alla ketubah."},
+    {"n": 12, "he": "הָאִשָּׁה שֶׁמּוֹרֶדֶת בְּלֹא טַעַם — מוֹדִיעִין לָהּ בְּבֵית דִּין שֶׁהִיא מַפְסֶדֶת כְּתֻבָּתָהּ.", "it": "La moglie che si ribella senza motivo — la si informa in beit din che perde la sua ketubah."},
+    {"n": 13, "he": "הוֹדִיעוּהָ וְעָמְדָה בְּסֵרוּבָהּ — מוֹנִין לָהּ שְׁנֵים עָשָׂר חֹדֶשׁ.", "it": "Se è stata informata e ha persistito nel rifiuto — le si contano dodici mesi."},
+    {"n": 14, "he": "וּבְתוֹךְ שְׁנֵים עָשָׂר חֹדֶשׁ אֵין לָהּ מְזוֹנוֹת.", "it": "E durante i dodici mesi non ha diritto al sostentamento."}
+  ],
+  "_glossary_terms_used": ["moredet", "moreid", "ketubah", "beit din", "mezonot"]
+}

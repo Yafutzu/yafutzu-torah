@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, To'en VeNit'an 3-5",
+  "name_he": "משנה תורה, הלכות טוען ונטען, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi delle Pretese e delle Contestazioni, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-11-23",
+  "hebrew_date": "14 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "3:1-5",
+      "he": "שְׁבוּעַת הֶסֵּת — תַּקָּנַת הַגְּאוֹנִים…",
+      "it": "(To'en VeNit'an cap. 3, hal. 1-5) La shevu'at heset (giuramento della risposta) — è un decreto dei Geonim (shevu'at ha-Geonim). Quando un ricorrente avanza una pretesa monetaria precisa contro un convenuto, e il convenuto nega l'intera pretesa, i Geonim stabilirono che il convenuto deve giurare anche se nega completamente. Questo per prevenire il rifiuto impudente di debiti legittimi. Prima di questo decreto, il convenuto che negava completamente era esente dal giuramento. La shevu'at heset è dunque rabbinica — ma ha piena forza legale."
+    },
+    {
+      "n": "4:1-4",
+      "he": "יֵשׁ שְׁלֹשָׁה מִינֵי שְׁבוּעוֹת — שְׁבוּעַת הַתּוֹרָה, שְׁבוּעָה דְּרַבָּנָן, שְׁבוּעַת הֶסֵּת…",
+      "it": "(To'en VeNit'an cap. 4, hal. 1-4) Vi sono tre tipi di giuramenti in ambito monetario: (1) Shevu'at ha-Torah — giuramento biblico: imposto sui guardiani (shomrim), sui lavoratori dipendenti, su chi ammette parte del debito. (2) Shevu'at de-rabbanan — giuramento rabbinico: imposto in casi specifici aggiuntivi dai Saggi. (3) Shevu'at heset — decreto dei Geonim: imposto su chi nega interamente la pretesa. In tutti i casi, il giuramento è pronunciato con tenuta di un oggetto sacro e in forma solenne."
+    },
+    {
+      "n": "5:1-5",
+      "he": "הַנִּשְׁבָּע וְנוֹטֵל — זֶהוּ הַתּוֹבֵעַ שֶׁנִּשְׁבַּע וְגוֹבֶה…",
+      "it": "(To'en VeNit'an cap. 5, hal. 1-5) In certi casi è il ricorrente (tova'a) a giurare e poi riscuotere — non il convenuto. Questo accade quando: il convenuto ammette che deve qualcosa ma non sa quanto esattamente; quando il ricorrente reclama contro eredi minori che non sanno se il debito è stato pagato; quando uno dei testimoni è invalidato. Il giuramento del ricorrente sostituisce le prove insufficienti, ma richiede che ci sia almeno un supporto minimo per la pretesa (hatchalat re'ayah)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevu'at heset", "shevu'at ha-Torah", "shomrim", "tova'a", "hatchalat re'ayah", "beit din"
+  ]
+}

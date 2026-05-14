@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 43",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ג",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 43",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-19",
+  "hebrew_date": "6 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יש דרגות באהבת ה': אהבת בן לאב — אהבה טבעית, ספונטנית. ואהבת עבד לאדונו — אהבה הנרכשת על ידי עבודה ויגיעה. שתיהן אמיתיות, אך שונות בטבען.",
+      "it": "Vi sono gradi nell'amore di D-o: l'amore del figlio al padre (ahavat ben le'av) — un amore naturale e spontaneo. E l'amore del servo al suo padrone (ahavat eved laadono) — un amore acquisito attraverso il lavoro e la fatica. Entrambi sono autentici, ma differiscono per natura."
+    },
+    {
+      "n": 2,
+      "he": "בבחינה מסוימת — 'עבד' גבוה מ'בן'. שהבן אוהב את אביו מתוך הרגש הטבעי שבא מאליו, ואין בו השתדלות. אבל העבד — אהבתו נרכשת על ידי השתדלות ועמל, ולכן שייכת לו ביותר.",
+      "it": "Sotto un certo aspetto — l'oved (servo/lavoratore) è superiore al ben (figlio). Il figlio ama il padre per l'istinto naturale che sorge da sé, senza sforzo. Ma il servo — il suo amore è acquisito attraverso lo sforzo e la fatica, ed è quindi più propriamente suo."
+    },
+    {
+      "n": 3,
+      "he": "יראת הרוממות — היא הפתח לאהבה. כשהאדם מתבונן בגדלות ה' ובאין-ערוך שבינו לבין הבורא — נולדת בו יראת הרוממות, ומתוכה צומחת האהבה האמיתית.",
+      "it": "La yirat haromenut (timore reverenziale della Maestà Divina) è la porta all'amore. Quando una persona contempla la grandezza di D-o e l'abisso incolmabile tra sé e il Creatore — in lui nasce la yirat haromenut, e da essa germoglia il vero amore."
+    }
+  ],
+  "_glossary_terms_used": ["ahavat ben le'av", "ahavat eved laadono", "oved", "ben", "yirat haromenut"]
+}

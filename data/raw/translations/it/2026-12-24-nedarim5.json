@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 5",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ה",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-24",
+  "hebrew_date": "15 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַתָּרַת נְדָרִים — צָרִיךְ שְׁלֹשָׁה אוֹ חָכָם אֶחָד…",
+      "it": "La hatarat nedarim (scioglimento dei voti) richiede o un saggio esperto (mumcheh) che agisce da solo, oppure un tribunale di tre laici competenti. La procedura davanti al tribunale: il votante si presenta e dichiara il proprio voto; i giudici investigano per trovare un petach (apertura) — una circostanza che il votante non aveva considerato; il votante esprime charatah (rimpianto); il tribunale pronuncia «mutar lach» (permesso per te) tre volte."
+    },
+    {
+      "n": 2,
+      "he": "הֶחָכָם מוֹצֵא פֶּתַח לַנֵּדֶר — וּמַתִּיר אוֹתוֹ מֵעִיקָּרוֹ…",
+      "it": "Il saggio trova il petach e scioglie il voto dalla radice (me-ikaro) — come se il voto non fosse mai esistito. Questo è diverso dall'annullamento del marito (hafarah), che opera ex-nunc (da questo momento in poi): lo scioglimento del saggio opera ex-tunc (retroattivamente dalla radice). La logica: il petach dimostra che al momento del voto mancava un elemento essenziale — quindi il voto era già difettoso dalla nascita. Lo scioglimento non cancella il voto; rivela che non era mai stato pienamente valido."
+    },
+    {
+      "n": 3,
+      "he": "שְׁלֹשָׁה תְּנָאִים לְהַתָּרַת נְדָרִים…",
+      "it": "Tre condizioni per lo scioglimento valido del voto: (1) Charatah — il votante deve genuinamente rimpiangere il voto; (2) Petach — deve esserci un varco logico, una circostanza non considerata; (3) Il voto non deve essere già stato violato intenzionalmente. Se il votante ha già violato il suo voto deliberatamente, non si può scioglierlo retroattivamente per giustificare la violazione passata. Lo scioglimento opera verso il futuro (permettendo al votante di comportarsi come se il voto non fosse stato fatto), non verso il passato in modo da giustificare violazioni precedenti."
+    },
+    {
+      "n": 4,
+      "he": "בְּאֵיזֶה עִנְיָן אֵין מַתִּירִין…",
+      "it": "In quali casi non si scioglie il voto? Se il petach è artificioso — costruito ad hoc per convenienze personali piuttosto che identificato come una reale lacuna nella comprensione del votante. Il saggio ha responsabilità di non essere compiacente: sciogliere voti per ragioni frivole sminuisce la sacralità del sistema. Il Rambam cita l'opinione che un saggio che scioglie voti senza un petach genuino viola la proibizione di «aiutare il trasgressore». La serietà del processo è garanzia della serietà dell'istituzione."
+    },
+    {
+      "n": 5,
+      "he": "מַתִּירִין נְדָרִים בְּשַׁבָּת לְצֹרֶךְ שַׁבָּת…",
+      "it": "Si sciolgono i voti di Shabbat (voti che impediscono il godimento dello Shabbat) anche di Shabbat stesso — se ciò è necessario per onorare lo Shabbat. Esempio: chi vota il venerdì sera di astenersi da un alimento che poi risulta essere l'unico cibo disponibile per la cena di Shabbat — il tribunale può sciogliere il voto di Shabbat stesso, perché la necessità di onorare lo Shabbat è un petach valido. In tutti gli altri casi, si preferisce sciogliere i voti prima di Shabbat piuttosto che durante."
+    },
+    {
+      "n": 6,
+      "he": "הַנּוֹדֵר וְנִשְׁאַל עַל נִדְרוֹ לְחָכָם — הַחָכָם מְלַמֵּד זְכוּת…",
+      "it": "Quando il votante si presenta al saggio per lo scioglimento, il saggio ha il dovere di «insegnare merito» (melamed zechut) — cioè di aiutare il votante a trovare il petach, orientando le domande in modo da far emergere le circostanze che il votante non aveva considerato. Il saggio non è un inquisitore ma un avvocato: il suo ruolo è aiutare il votante, non intrappolarlo. Questo riflette il principio più ampio della halakhah: i giudici cercano la verità ma inclinano verso la misericordia quando la lettera della legge lo consente."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hatarat nedarim", "petach", "charatah", "mutar lach", "hafarah", "mumcheh", "me-ikaro", "melamed zechut"
+  ]
+}

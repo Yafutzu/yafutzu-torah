@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 24",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כד",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 24",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-16",
+  "hebrew_date": "5 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שְׁלֹשָׁה בְּנֵי אָדָם הַנּוֹתְנִים צְדָקָה…",
+      "it": "L'Alter Rebbe descrive tre tipi di donatori di tzedakah (carità): (1) Chi dà con riluttanza (be-oness) — perché ha paura delle conseguenze del non dare, o per la pressione sociale: questo è il livello più basso della tzedakah — valida, ma non elevante per il donatore. (2) Chi dà volentieri ma per il riconoscimento (kavod) — vuole che il suo nome sia associato alla donazione: questo è meglio, ma ancora orientato verso l'io. (3) Chi dà con simchah (gioia) e in modo completamente anonimo (belo shem) — questo è il livello chassidico ideale."
+    },
+    {
+      "n": 2,
+      "he": "הַנּוֹתֵן מִפְּנֵי שֶׁהֶעָנִי הוּא חֵלֶק אֱלֹהַּ מִמַּעַל…",
+      "it": "Il livello più alto della tzedakah chassidica: dare perché il ricevente è «chelek Eloka mima'al» — una porzione di D-o dall'alto. Chi ha internamente questa consapevolezza — non vede il povero come un «caso bisognoso» ma come un riflesso della Divina Presenza. Dare tzedakah a tale livello è letteralmente dare a Dio stesso. L'Alter Rebbe cita il versetto di Proverbi 19:17: «Milveh Hashem chonen dal» — «chi si prende cura del povero fa un prestito al Signore». A questo livello la tzedakah è un atto di dveikut (attaccamento a Dio), non solo di mitzvah."
+    },
+    {
+      "n": 3,
+      "he": "שִׂמְחַת הַנְּתִינָה — סִימַן הָאַהֲבָה הָאֲמִתִּית…",
+      "it": "La simchah (gioia) nel dare tzedakah è il segno dell'amore autentico (ahavah amitit) — chi ama davvero dà con gioia, non per obbligo. L'Alter Rebbe cita il Baal Shem Tov: «La gioia del donare è già la ricompensa — non aspettare la ricompensa celeste quando ti è già data in mano». Chi dà con simchah — la sua tzedakah «sale» fino ai livelli di Keter (Corona) nella struttura delle Sefirot, perché la simchah deriva dal livello più alto dell'anima (yechidah). Questo è il sigillo e la corona di tutta la Iggeret HaKodesh: la santità si esprime nella gioia di dare."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzedakah", "simchah", "chelek Eloka mima'al", "dveikut", "ahavah amitit", "Keter", "Sefirot", "yechidah", "Iggeret HaKodesh"
+  ]
+}

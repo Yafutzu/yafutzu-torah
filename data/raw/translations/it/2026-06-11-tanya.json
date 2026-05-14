@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 11",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק יא",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Epistola della Teshuvah), capitolo 11",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-11",
+  "hebrew_date": "26 Sivan 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה בְּדוֹרוֹת הָאַחֲרוֹנִים אֵין כֹּחַ בַּגּוּפוֹת לְסַבֵּל הַתַּעֲנִיּוֹת...",
+      "it": "Il Ba'al HaTanya spiega che nelle generazioni precedenti, il digiuno (tzom) era la via principale della teshuvah (pentimento), poiché aveva la capacità di affievolire la forza del corpo e purificare l'anima. Tuttavia, nelle generazioni recenti, i corpi si sono indeboliti e non reggono più le mortificazioni corporali intense. Pertanto, la via principale diventa lo studio della Torah — in particolare la Torah interiore (pnimiyut ha-Torah), ovvero la Chassidut — e l'atto di tzedakah (carità). Queste pratiche 'occupano' l'anima e la mente in modo più completo del digiuno fisico."
+    },
+    {
+      "n": 2,
+      "he": "וְהַתּוֹרָה נִקְרֵאת 'תּוֹשִׁיָּה' — שֶׁמְּתַשֶּׁת כֹּחוֹ שֶׁל אָדָם...",
+      "it": "Lo studio della Torah viene chiamato 'tushiyah' — termine che i Saggi interpretano come 'ciò che indebolisce (matesheth) le forze dell'uomo', intendendo che la Torah esaurisce le energie del corpo proprio come il digiuno, ma in modo più elevato: essa occupa la mente e l'anima interamente, innalzando l'intelletto verso il Divino. Anche la tzedakah (carità) è equiparata, in ambito mistico, all'espiazione, poiché il denaro è 'la vita della persona' (nefesh ha-adam), e donarlo è come offrire un sacrificio. In questo modo, anche senza i digiuni delle generazioni precedenti, si può compiere una teshuvah completa e autentica."
+    }
+  ],
+  "_glossary_terms_used": ["teshuvah", "tzom", "tzedakah", "pnimiyut ha-Torah", "Chassidut", "tushiyah", "nefesh"]
+}

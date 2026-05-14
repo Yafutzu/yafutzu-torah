@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 6",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, קטע ו",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Trattato Finale), saggio 6",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-30",
+  "hebrew_date": "19 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "קְדֻשַּׁת הַשַּׁבָּת — הִיא יְרִידַת הָאוֹר הָעֶלְיוֹן לַמַּטָּה…",
+      "it": "Il saggio 6 del Kuntres Acharon tratta della qualità spirituale unica del Shabbat. L'Alter Rebbe, basandosi sul Zohar (Parashat Vayakhel e Terumah), insegna: il Shabbat è il giorno in cui «ohr elyon» (la luce superiore — l'ohr del keter, la dimensione più trascendente della Divinità) discende verso il basso — «yeridah le-tzorech aliyah» (discesa per scopo di ascesa). Non è solo che gli ebrei «riposano» il Shabbat — il Shabbat è il giorno in cui D-o Stesso, per così dire, «discende» più in basso nel mondo per illuminarlo dall'interno."
+    },
+    {
+      "n": 2,
+      "he": "וְלָכֵן — הַשַּׁבָּת הוּא 'מֵעֵין עוֹלָם הַבָּא'…",
+      "it": "Il Zohar insegna — e l'Alter Rebbe amplifica — che il Shabbat è «me'ein olam ha-ba» (un anticipo del Mondo a Venire). Il Mondo a Venire (olam ha-ba) è la condizione in cui la luce divina sarà completamente rivelata senza velature. Il Shabbat, settimanalmente, offre un «assaggio» di questa rivelazione: il Shabbat è al di sopra del tempo (le-ma'alah min ha-zeman), come il Mondo a Venire. Chi santifica il Shabbat — «riceve» ogni settimana un deposito di luce spirituale che sustiene le sei giornate di lavoro («shesh yamim ta'aseh melachtecha» — ma la loro fonte è nel settimo)."
+    },
+    {
+      "n": 3,
+      "he": "וְהַנְּשָׁמָה הַיְּתֵרָה — הִיא הַלְבּוּשׁ הָעֶלְיוֹן שֶׁמִּתְלַבֶּשֶׁת בּוֹ הַנְּשָׁמָה בְּשַׁבָּת…",
+      "it": "La «neshamah yeterah» (anima supplementare) che ogni ebreo riceve il Shabbat — non è una metafora poetica ma una realtà spirituale. È una dimensione aggiuntiva di kedushah (santità) che si «veste» sull'anima il Shabbat e le permette di essere ricettiva a livelli di luce divina che nei giorni feriali non potrebbe contenere. Al tramonto del Shabbat, questa neshamah yeterah ritorna alla sua sorgente — ed è per questo che si usa besamim (spezie odorose) nella cerimonia di Havdalah: per consolare l'anima per la «perdita» di questa luce aggiuntiva. Il Shabbat settimanale è dunque il «ricaricatore» spirituale dell'intera settimana."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ohr elyon", "keter", "yeridah le-tzorech aliyah", "me'ein olam ha-ba", "olam ha-ba", "le-ma'alah min ha-zeman", "neshamah yeterah", "kedushah", "besamim", "Havdalah"
+  ]
+}

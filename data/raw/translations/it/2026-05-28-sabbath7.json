@@ -1,0 +1,129 @@
+{
+  "ref": "Mishneh Torah, Sabbath 7",
+  "name_he": "משנה תורה, הלכות שבת, פרק ז",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-28",
+  "hebrew_date": "12 Sivan 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַיּוֹצֵא בְּשַׁבָּת בְּדָבָר שֶׁאֵינוֹ כֶלְשֶׁהוּ שֶׁדֶּרֶךְ בְּנֵי אָדָם לָצֵאת בּוֹ — פָּטוּר…",
+      "it": "Chi esce di Shabbat con qualcosa che non è il tipo di oggetto che la gente normalmente porta con sé — è esente [dal sacrificio espiatorio]. La regola è: il portare di Shabbat riguarda il modo normale in cui le persone portano cose — non modi inconsueti (ki'lui ha-akhil ba-yad she'einah darkah). Chi porta un oggetto in modo insolito (shinui) — è esente biblicamente ma proibito rabbinicamente."
+    },
+    {
+      "n": 2,
+      "he": "יָצָא בְּמַקֵּל — חַיָּב. יָצָא בְּקַנֶּה — חַיָּב…",
+      "it": "Chi esce portando un bastone — è obbligato [se lo porta in mano normalmente]. Chi esce con una canna — è obbligato. Chi esce con un filo annodata alla mano — è obbligato se il filo ha la misura minima. Chi esce con un'acca o uno strumento musicale — è obbligato, poiché questi si portano normalmente così."
+    },
+    {
+      "n": 3,
+      "he": "יָצָא בְּאֶבֶן טוֹבָה — חַיָּב. יָצָא בְּמַחַט — חַיָּב…",
+      "it": "Chi esce portando una gemma preziosa — è obbligato. Chi esce con un ago — è obbligato. Chi esce con un ago in modo inconsueto (nella bocca, nell'orecchio) — è esente. Il principio: il modo normale di portare ogni oggetto determina la responsabilità; portare in modo inconsueto riduce la responsabilità a proibizione rabbinica."
+    },
+    {
+      "n": 4,
+      "he": "הָאִישׁ יוֹצֵא בְּמַנְעָלָיו וּבְסַנְדָּלָיו…",
+      "it": "L'uomo può uscire con le sue scarpe e i suoi sandali [di Shabbat nell'ambito pubblico], poiché le scarpe ai piedi non sono considerate «portare» ma «indossare». Chi mette un sandalo su un piede e porta l'altro a mano — sta portando il secondo sandalo ed è obbligato [se lo porta nell'ambito pubblico]. Una donna può uscire con i suoi ornamenti che normalmente indossa — questi sono considerati «indossare», non «portare»."
+    },
+    {
+      "n": 5,
+      "he": "הַחַיָּל יוֹצֵא בְּכֵלָיו…",
+      "it": "Un soldato può uscire con le sue armi [nelle situazioni in cui è permesso portare armi di Shabbat, come in stato di guerra o assedio]? I Saggi hanno detto: le armi sono vergogna (genut) per lo Shabbat, non ornamento — e quindi un soldato che esce con le armi di Shabbat in tempo di pace deve portare il sacrificio espiatorio. Solo in tempo di guerra o assedio effettivo — le armi sono permesse."
+    },
+    {
+      "n": 6,
+      "he": "יוֹצְאִין בְּקָמֵעַ מֻמְחֶה בְּשַׁבָּת…",
+      "it": "Si può uscire con un amuleto approvato (kame'a mumche) di Shabbat — perché è considerato ornamento o rimedio, non un peso portato. Un amuleto è «approvato» se ha guarito tre volte, o se il suo autore è un esperto riconosciuto. Un amuleto non approvato — non si porta di Shabbat nell'ambito pubblico."
+    },
+    {
+      "n": 7,
+      "he": "יוֹצֵא אָדָם בְּתְפִילִּין בְּשַׁבָּת…",
+      "it": "Non si esce con le tefillin di Shabbat nell'ambito pubblico, poiché le tefillin sono vietate di Shabbat (lo Shabbat è esso stesso «segno» e non necessita del segno aggiuntivo delle tefillin). Chi porta tefillin di Shabbat nell'ambito pubblico — viola sia il trasporto che il Shabbat delle tefillin. Se le ha indossate per errore e si trova nell'ambito pubblico — le porta dentro quattro cubiti alla volta."
+    },
+    {
+      "n": 8,
+      "he": "יוֹצֵא אָדָם בְּטַלִּיתוֹ בְּשַׁבָּת…",
+      "it": "Si può uscire con il tallit (scialle di preghiera) di Shabbat — è indossato, non portato. Anche se il tallit ha le frange (tzitzit) — poiché le frange sono parte integrante del tallit e si considera tutto come un indumento. Chi porta il tallit piegato sulla spalla senza indossarlo — lo sta portando ed è proibito se l'eruv non è stato fatto."
+    },
+    {
+      "n": 9,
+      "he": "יוֹצֵא בְּחוּט הַקָּשׁוּר בְּרֹאשׁ הַמִּדְלָן — פָּטוּר…",
+      "it": "Chi esce con un filo legato al suo dito come promemoria — è esente [poiché è portare in modo inconsueto]. Ma i Saggi hanno proibito di uscire così, affinché non si venga a portare anche nell'ambito pubblico distrattamente. Chi esce con una borsa sull'inguine (per motivi medici) — è permesso se è necessario per la sua salute."
+    },
+    {
+      "n": 10,
+      "he": "הָאִשָּׁה יוֹצֵאת בְּתַכְשִׁיטֶיהָ…",
+      "it": "La donna può uscire con i suoi gioielli di Shabbat — anelli, orecchini, collane, braccialetti — poiché sono indossati, non portati. Una donna non può uscire con un ago da ago da cucito che non ha il buco, poiché non è un ornamento ma uno strumento. Non può uscire con chiavi o chiavistelli attaccati ai suoi ornamenti — a meno che siano chiaramente parte dell'ornamento e non aggiunte funzionali."
+    },
+    {
+      "n": 11,
+      "he": "לֹא יֵצֵא אָדָם בְּסַנְדָּל הַמְסֻמָּר בְּשַׁבָּת…",
+      "it": "Non si esce con un sandalo chiodato di Shabbat — per decreto, poiché in un momento di persecuzione la gente scappava nei nascondigli e sentendo i passi chiodati avanzare pensavano fosse il nemico e si calpestavano a vicenda. Per questo i Saggi vietarono per sempre il sandalo chiodato di Shabbat."
+    },
+    {
+      "n": 12,
+      "he": "הַחוֹלֶה יוֹצֵא בְּסַנְדָּל אֶחָד בְּשַׁבָּת…",
+      "it": "Un malato può uscire con un solo sandalo di Shabbat se il medico ha prescritto che indossi solo un sandalo per motivi terapeutici. In condizioni normali, uscire con un solo sandalo ai piedi (senza che il piede nudo sia per ragioni di salute) — è proibito rabbinicamente, poiché è un'usanza di lutto."
+    },
+    {
+      "n": 13,
+      "he": "יוֹצְאִין בְּבֵיצַת הַחַרְגּוֹל…",
+      "it": "Si può uscire con un uovo di grillo [come rimedio] di Shabbat — poiché si indossa come amuleto medicinale ed è consentito come la kame'a mumche. In generale: qualsiasi oggetto che si porta sul corpo come rimedio o protezione medica riconosciuta — è permesso portarlo di Shabbat in modo di indossarlo."
+    },
+    {
+      "n": 14,
+      "he": "לֹא יֵצֵא הַתַּרְנְגוֹל בְּשֶׂרֶט בְּשַׁבָּת…",
+      "it": "Un gallo non deve uscire di Shabbat con un nastro legato alla zampa — perché trasporta nell'ambito pubblico. Questo insegnamento ci viene detto per due ragioni: (1) i beni degli animali sono responsabilità dei loro proprietari; (2) la proibizione del trasporto si applica anche agli animali quando portano oggetti."
+    },
+    {
+      "n": 15,
+      "he": "אֵין קוֹשְׁרִין אֶת הַבְּהֵמָה בִּרְשׁוּת הָרַבִּים בְּשַׁבָּת…",
+      "it": "Non si lega un animale nell'ambito pubblico di Shabbat — questo potrebbe portare chi si avvicina a inciampare. Ma nell'ambito privato — si può legare. Non si fa uscire un animale con qualcosa sul corpo che non sia il suo normale equipaggiamento di lavoro o protezione."
+    },
+    {
+      "n": 16,
+      "he": "יוֹצְאִין בִּמְסָמֵר הַמִּנְעָל…",
+      "it": "Si può uscire con il chiodo del sandalo — se è parte integrante del sandalo stesso (non un chiodo aggiunto). Questo è diverso dal «sandalo chiodato» che fu proibito per decreto: quello era un sandalo con molti chiodi sul suolo per protezione; questo è un singolo chiodo strutturale che fa parte del sandalo."
+    },
+    {
+      "n": 17,
+      "he": "הַמְּעַנְּגִין בְּשַׁבָּת — אוֹכְלִין גְּדוֹלוֹת…",
+      "it": "Chi desidera godere lo Shabbat (oneg Shabbat) — mangia abbondantemente e beve il vino di qualità. Il Rambam codifica l'oneg Shabbat come obbligatorio: tre pasti di Shabbat (shalosh se'udot), vino per il kiddush e per la havdalah, cibi prelibati. È mitzva mangiare carni, bere vino e mangiare dolci di Shabbat — e tutto ciò che si compra in onore dello Shabbat è ricompensato."
+    },
+    {
+      "n": 18,
+      "he": "כֵּיצַד מְכַבְּדִין אֶת הַשַּׁבָּת…",
+      "it": "Come si onora lo Shabbat (kavod Shabbat)? Ci si lava in acqua calda il venerdì in preparazione dello Shabbat; ci si cambia in abiti puliti e onorevoli in onore dello Shabbat; si prepara la casa, il tavolo e il letto in onore dello Shabbat. Lo Shabbat non è un giorno di austerità ma di gioia e onore — il che comprende la pulizia personale, l'abbigliamento onorevole e il mangiare bene."
+    },
+    {
+      "n": 19,
+      "he": "אֵין מַסִּיחִין הַדַּעַת מִן הַשַּׁבָּת…",
+      "it": "Non ci si distrae dallo Shabbat — cioè non ci si dimentica della santità del giorno nei propri pensieri e azioni. Anche quando si è occupati con le esigenze del corpo (mangiare, dormire) — la mente deve rimanere elevata con la santità dello Shabbat. Questo è il senso di «Ricorda il giorno dello Shabbat per santificarlo» (Shemot 20:8): la memoria è continua, non solo nel kiddush."
+    },
+    {
+      "n": 20,
+      "he": "מִצְוָה לְסַדֵּר שֻׁלְחָנוֹ בְּשַׁבָּת…",
+      "it": "È mitzva apparecchiare la tavola di Shabbat in modo onorevole — anche se non si mangia di più del solito. La tavola apparecchiata onora lo Shabbat visivamente. Si mette la tovaglia bianca; si preparano i due pani di challah (lechem mishneh — «doppio pane» in ricordo della manna doppia del venerdì nel deserto)."
+    },
+    {
+      "n": 21,
+      "he": "מִצְוָה לֶאֱכֹל שָׁלֹשׁ סְעֻדּוֹת בְּשַׁבָּת…",
+      "it": "È mitzva mangiare tre pasti di Shabbat (shalosh se'udot): la sera (dopo il kiddush notturno), al mattino (dopo la preghiera di Shacharit e il kiddush del mattino), e nel pomeriggio (se'udah shelishit). In ciascun pasto si mangiano i due pani (lechem mishneh). Chi non mangia il terzo pasto — ha mancato la mitzva di oneg Shabbat. I poveri che non hanno abbastanza per tre pasti — si esentano qualcosa dai primi due pasti per averlo per il terzo."
+    },
+    {
+      "n": 22,
+      "he": "אָסוּר לָצוּם בְּשַׁבָּת…",
+      "it": "È proibito digiunare di Shabbat — anche un digiuno parziale fino all'ora di pranzo. L'unica eccezione è Yom Kippur quando cade di Shabbat. Chi sogna un sogno cattivo di Shabbat — può digiunare nello stesso giorno per espiarlo, poiché il digiuno lo protegge; ma deve digiunare poi anche un altro giorno per espiare il digiuno del Shabbat."
+    },
+    {
+      "n": 23,
+      "he": "מִצְוָה לְהַבְדִּיל בֵּין הַקֹּדֶשׁ לְחֹל…",
+      "it": "È mitzva fare la havdalah (distinzione tra sacro e profano) alla fine dello Shabbat — recitando la benedizione sul vino, sugli aromi e sulla luce della fiamma, e poi la benedizione di havdalah («Benedetto...che distingue tra sacro e profano, tra luce e tenebra, tra Israele e le nazioni, tra il settimo giorno e i sei giorni del lavoro»). Non si mangia e non si beve dopo la comparsa delle stelle del sabato sera finché non si è recitato la havdalah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kame'a mumche", "oneg Shabbat", "kavod Shabbat", "shalosh se'udot", "lechem mishneh", "havdalah", "kiddush", "tallit", "tzitzit", "tefillin", "shinui", "eruv"
+  ]
+}

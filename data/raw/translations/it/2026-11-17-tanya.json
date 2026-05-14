@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 15",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק טו",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 15",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-17",
+  "hebrew_date": "8 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה — אַף שֶׁנַּפְשׁוֹ הַבַּהֲמִית גּוֹבֶרֶת עָלָיו — מִכָּל מָקוֹם אֵין הַנֵּר נִכְבֶּה לְגַמְרֵי…",
+      "it": "Anche quando l'anima animale (nefesh ha-behamit) prevale sull'anima divina — la candela dell'anima divina non si spegne mai completamente. L'Alter Rebbe introduce l'immagine del «ner dak» — la «piccola fiamma» o «fiamma sottile». L'anima divina brucia sempre, anche nei momenti di oscurità spirituale, come una fiamma nascosta e tenue. Questa è una delle affermazioni più consolanti del Tanya: nessun ebreo è mai completamente abbandonato dalla sua parte divina."
+    },
+    {
+      "n": 2,
+      "he": "כְּמָשָׁל הַנֵּר בְּאוֹר הַיּוֹם — שֶׁאֵינוֹ נִרְאֶה וְאֵינוֹ מַאִיר…",
+      "it": "L'analogia usata dall'Alter Rebbe è quella di una candela alla luce del giorno: la candela è presente e accesa, ma la sua luce non è percepita perché la luce del sole la sovrasta completamente. Così è l'anima divina del beinoni nei momenti in cui l'anima animale domina: presente ma non sentita, reale ma non percettibile. Questa metafora insegna che l'assenza di sentimento spirituale non equivale all'assenza di realtà spirituale."
+    },
+    {
+      "n": 3,
+      "he": "וּמֵאַחַר שֶׁנַּפְשׁוֹ הָאֱלֹקִית אֵינָהּ כְּבוּיָה לְגַמְרֵי — יֵשׁ לוֹ תְּקוּמָה…",
+      "it": "Poiché l'anima divina non è mai completamente spenta, il beinoni ha sempre la capacità di rialzarsi (tekumah). In qualsiasi momento di sincero sforzo — attraverso la preghiera, lo studio, o un atto di volontà — l'anima divina può risvegliarsi e illuminare. L'Alter Rebbe conclude: questa è la ragione per cui nessun ebreo deve mai disperare del suo stato spirituale. La scintilla è sempre lì, in attesa di essere ravvivata."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nefesh ha-behamit", "nefesh ha-Elokit", "ner dak", "beinoni", "tekumah"
+  ]
+}

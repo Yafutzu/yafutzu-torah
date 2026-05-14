@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Nazirite Vow 3-5",
+  "name_he": "משנה תורה, הלכות נזירות, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi del Nazireato, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-05-27",
+  "hebrew_date": "11 Sivan 5786",
+  "halachot_count": 31,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "הַנָּזִיר אָסוּר לִטָּמֵא לְמֵת…",
+      "it": "(Cap. 3, hal. 1) Il nazireo è proibito nel contaminarsi con un cadavere (tum'at met). Non può entrare in una tenda dove si trova un cadavere, toccare un cadavere o portare un cadavere. Anche se il morto è il suo padre, sua madre, suo fratello o sua sorella — non può contaminarsi. Questa è la terza «av» (categoria principale) del nazireato."
+    },
+    {
+      "n": "3:2-7",
+      "he": "עַל אֵי זֶה טֻמְאָה לוֹקֶה הַנָּזִיר…",
+      "it": "(Cap. 3, hal. 2-7) Per quale tipo di impurità viene flagellato il nazireo? Per ogni impurità trasmessa dal cadavere: il contatto diretto con un cadavere, l'ingresso nella tenda del cadavere, il portare un cadavere. Ma non per l'impurità trasmessa da un cadavere attraverso un «avot tumat met» (oggetto che ha portato impurità) — quella è impurità di secondo grado. Le halachot 3-7 specificano: le distinzioni tra tipi di impurità che il nazireo viola; il cadavere di un non ebreo (ha il pari statuto di impurità per il nazireo secondo la legge rabbinica); la «met mitzva» — un cadavere abbandonato che non ha chi lo seppellisca: anche il nazireo deve seppellirlo (pikuach nefesh e kavod ha-met prevalgono sul nazireato); il nazireo che si contamina per errore vs. deliberatamente."
+    },
+    {
+      "n": "3:8-13",
+      "he": "הַנָּזִיר שֶׁנִּטְמָא — סוֹתֵר אֶת הַקּוֹדְמִין…",
+      "it": "(Cap. 3, hal. 8-13) Il nazireo che si è contaminato — annulla tutti i giorni precedenti del suo nazireato: deve rasarsi, portare i sacrifici di purificazione, e ricominciare il nazireato dall'inizio. Le halachot 9-13 specificano: il nazireo che si contamina al penultimo giorno del suo nazireato — annulla tutto e ricomincia; il nazireo che si contamina in dubbio — non annulla il nazireato precedente (safek tum'ah bi-reshut ha-rabbim — dubbio di impurità nello spazio pubblico è puro); le differenze tra nazireo che si contamina volontariamente e quello involontariamente quanto al ricominciare."
+    },
+    {
+      "n": "4:1",
+      "he": "הַנָּזִיר שֶׁגָּמַר נְזִירוּתוֹ — מְגַלֵּחַ בְּסוֹף נְזִירוּתוֹ…",
+      "it": "(Cap. 4, hal. 1) Il nazireo che ha completato il suo nazireato — si rade al termine (tagliat ha-se'ar — rasura del nazireo) e porta tre sacrifici: un olocausto (olah), un sacrificio per il peccato (chatat) e un sacrificio di pace (shelamim). Dopo i sacrifici, il nazireo si taglia i capelli davanti alla porta del Tempio e getta i capelli nel fuoco sotto il paiolo dei sacrifici di pace."
+    },
+    {
+      "n": "4:2-7",
+      "he": "כֵּיצַד מְגַלֵּחַ נְזִירוּת טָהֳרָה…",
+      "it": "(Cap. 4, hal. 2-7) Come avviene la rasura del nazireato puro? Il nazireo si rade tutti i capelli (tagliat ha-se'ar shel tahara) davanti alla porta del Mishkan/Tempio. Porta i suoi tre sacrifici. Il kohen agita (tenufa) il petto e il cosio del sacrificio di pace. Il nazireo prende i capelli rasati e li getta nel fuoco sotto la pentola dello shelamim. Le halachot 3-7 specificano: l'ordine corretto della rasura: prima i sacrifici, poi la rasura (o la rasura contemporaneamente ai sacrifici secondo alcune opinioni); il nazireo che si rade senza portare i sacrifici — ha violato ma non ha annullato il nazireato; il nazireo che porta i sacrifici senza rasarsi — non ha adempiuto l'obbligo della rasura."
+    },
+    {
+      "n": "4:8-13",
+      "he": "נָזִיר שֶׁנִּטְמָא — מְגַלֵּחַ עַל טֻמְאָתוֹ וּמֵבִיא קָרְבָּן טֻמְאָה…",
+      "it": "(Cap. 4, hal. 8-13) Il nazireo contaminato — si rade per la sua impurità e porta il sacrificio dell'impurità (korban tum'ah): due tortore o piccioni, uno come olocausto e uno come sacrificio per il peccato, più un agnello come sacrificio per la colpa (asham). Dopo questa rasura di impurità — ricomincia il suo nazireato dall'inizio. Le halachot 9-13 specificano: la differenza tra la rasura di purezza (al tahara) e la rasura di impurità (al tum'ah); il nazireo che porta il sacrificio dell'impurità senza rasarsi — non ricomincia il nazireato; il nazireo Sansone (nazir olam) — che non si rade mai; il nazireo Sansone — le sue regole speciali."
+    },
+    {
+      "n": "5:1",
+      "he": "נְזִירוּת סְתָם — שְׁלֹשִׁים יוֹם…",
+      "it": "(Cap. 5, hal. 1) Il nazireato standard (nezirut stam) — trenta giorni, come è stato insegnato dai Saggi. Chi dice «sono un nazireo» senza specificare la durata — è nazireo per trenta giorni. Chi dice «sono un nazireo come i capelli della mia testa» o «come la polvere della terra» — è un «nazireo perpetuo» (nazir olam): si rade ogni trenta giorni ma non porta i sacrifici di fine nazireato, poiché il nazireato non finisce mai."
+    },
+    {
+      "n": "5:2-7",
+      "he": "הָאוֹמֵר הֲרֵינִי נָזִיר מֵאָה יוֹם — אֵין לוֹ הֶפְסֵק לְאֶמְצַע…",
+      "it": "(Cap. 5, hal. 2-7) Chi dice «sono un nazireo per cento giorni» — se si contamina al cinquantesimo giorno, deve ricominciare dall'inizio: non da cinquanta, ma da zero, più il tempo rimanente dopo la purificazione (trenta giorni dalla contaminazione + poi continua da dove era). Le halachot 3-7 specificano: il nazireo che ha detto «cento giorni» e si contamina alla fine — annulla solo trenta giorni; il nazireo che si contamina deliberatamente — perde tutti i giorni precedenti sempre; il nazireo che ha fatto il nazireato per molti anni senza contaminarsi — può rasarsi alla fine e portare tutti i sacrifici; il nazireo che ha portato il sacrificio ma non si è rasato entro trenta giorni — deve portare nuovamente il sacrificio."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tum'at met", "met mitzva", "kavod ha-met", "tagliat ha-se'ar", "olah", "chatat", "shelamim", "asham", "korban tum'ah", "nezirut stam", "nazir olam", "tenufa", "kohen"
+  ]
+}

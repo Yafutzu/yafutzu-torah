@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Edut 19-21",
+  "name_he": "משנה תורה, הלכות עדות פרקים יט-כא",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza, capitoli 19-21",
+  "cycle": "rambam-3",
+  "date": "2026-12-16",
+  "hebrew_date": "7 Tevet 5787",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "19:1-5",
+      "he": "עֵדוּת בִּשְׁטָר — כְּשֵׁרָה...",
+      "it": "(Edut cap. 19, hal. 1-5) La testimonianza scritta (edut be-shtar — documento): un contratto (shtar) firmato da due testimoni può servire come prova processuale anche dopo la morte dei testimoni o la loro disqualificazione successiva. La firma fissa il momento della testimonianza — i testimoni «testimoniano» nel momento della firma, e il documento conserva questa testimonianza nel tempo. Questo principio espande enormemente la capacità del sistema giuridico ebraico di gestire controversie su eventi lontani nel tempo."
+    },
+    {
+      "n": "20:1-4",
+      "he": "קִיּוּם שְׁטָרוֹת — בֵּית דִּין מְקַיֵּם...",
+      "it": "(Edut cap. 20, hal. 1-4) Kiyyum shetarot (convalida dei documenti): quando la validità di un documento è contestata, il beit din può «validarlo» tramite la verifica delle firme dei testimoni. Questa verifica si chiama «kiyyum». Come si esegue: si confrontano le firme con altri documenti autentici dello stesso testimone, o si trova qualcuno che riconosce la firma. Una volta convalidato dal beit din, il documento ha piena forza probatoria. Il documento valido è equivalente alla testimonianza orale dei firmatari."
+    },
+    {
+      "n": "21:1-4",
+      "he": "הַמְזַיֵּף שְׁטָר — עוֹבֵר בְּלֹא תַּעֲשֶׂה...",
+      "it": "(Edut cap. 21, hal. 1-4) Il falsificatore di documenti (mezayef shtar) — viola il divieto «lo ta'ane ve-re'acha ed shaker» (non testimoniare falsamente contro il tuo prossimo, Esodo 20:13). La falsificazione è equivalente alla falsa testimonianza orale. La punizione: il falsificatore paga il danno causato dalla sua falsificazione. Se ha falsificato per far condannare qualcuno a morte — è soggetto alla pena degli edim zomemim. Il sistema dei documenti è sacro quanto la testimonianza orale — entrambi invocano la fiducia (ne'emanut) della comunità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "edut be-shtar", "shtar", "kiyyum shetarot", "beit din", "mezayef shtar", "lo ta'ane ve-re'acha ed shaker", "edim zomemim", "ne'emanut"
+  ]
+}

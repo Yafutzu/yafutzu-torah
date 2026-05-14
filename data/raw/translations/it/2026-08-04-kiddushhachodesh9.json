@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 9",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ט",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 9",
+  "cycle": "rambam-1",
+  "date": "2026-08-04",
+  "hebrew_date": "21 Av 5786",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אחר שמחשבים את ה'ארך' הנראה ואת הרוחב ואת ניצוב הירח — יוצאים לבדוק אם הירח ייראה או לא. זהו עיקר החשבון הנקרא 'חשבון הראיה'.",
+      "it": "Dopo aver calcolato l'elongazione apparente (orekh ha-nir'eh), la latitudine e l'inclinazione della luna, si procede a verificare se la luna sarà visibile o meno. Questo è il fulcro del calcolo detto 'calcolo della visibilità' (cheshbon ha-re'iyah)."
+    },
+    {
+      "n": 2,
+      "he": "כיצד? אם יצא ה'ארך' הנראה תשע מעלות ויותר — ייראה הירח בוודאות. ואם יצא פחות מתשע — אם קרוב לתשע — ייתכן שייראה. ואם קרוב לשש — ייתכן שלא ייראה.",
+      "it": "Come? Se l'elongazione apparente risulta di nove gradi o più, la luna è certamente visibile. Se risulta meno di nove gradi ma vicino a nove — potrebbe essere visibile. Se è vicina a sei gradi — potrebbe non essere visibile."
+    },
+    {
+      "n": 3,
+      "he": "אם יצא ה'ארך' הנראה שש מעלות — אם היה הרוחב צפוני, אולי ייראה; ואם הרוחב דרומי — לא ייראה. ואם יצא פחות משש מעלות — לא ייראה בשום אופן.",
+      "it": "Se l'elongazione risulta sei gradi: se la latitudine è settentrionale, potrebbe essere visibile; se è meridionale, non lo è. Se l'elongazione risulta inferiore a sei gradi, non è visibile in nessun caso."
+    },
+    {
+      "n": 4,
+      "he": "שיטת ה'אור הישר': בנוסף לחשבון שלעיל, יש חשבון שני הנקרא 'אור הישר'. זהו חישוב הזווית שבה נמצא הירח ביחס לשמש — האם הוא ב'ראש הגחון' או ב'ראש הזנב'.",
+      "it": "Il metodo dell''or ha-yashar': oltre al calcolo precedente, vi è un secondo metodo chiamato 'or ha-yashar' (luce diretta). Si tratta del calcolo dell'angolo in cui si trova la luna rispetto al sole — se è nella testa (rosh) o nella coda (zanav) dell'eclittica rispetto all'orizzonte."
+    },
+    {
+      "n": 5,
+      "he": "לפי שיטת 'האור הישר': אם הירח נוטה לצפון ממסלול השמש, יהיה ה'ראש' שלו כלפי מעלה ויהיה גבוה יותר מעל האופק; ואם נוטה לדרום — הראש כלפי מטה ויהיה קרוב יותר לאופק.",
+      "it": "Secondo il metodo dell'or ha-yashar: se la luna si inclina a nord rispetto alla traiettoria del sole, la sua testa è rivolta verso l'alto e si trova più in alto sull'orizzonte; se si inclina a sud, la testa è rivolta verso il basso e la luna è più vicina all'orizzonte."
+    },
+    {
+      "n": 6,
+      "he": "מצרפים את שתי השיטות — חשבון ה'ארך' עם חשבון ה'אור הישר' — ומגיעים למסקנה הסופית. ואם לפי שני החשבונות הירח ייראה — מודיעים לבית דין להכין עדים.",
+      "it": "Si combinano i due metodi — il calcolo dell'elongazione e il calcolo dell'or ha-yashar — per giungere alla conclusione finale. Se secondo entrambi i calcoli la luna è visibile, si avvisa il tribunale (Bet Din) di prepararsi a ricevere testimoni."
+    },
+    {
+      "n": 7,
+      "he": "ואם לפי החשבון אין הירח ייראה — אין מצפים לעדים כלל, ואין צריך לדחות את קידוש החודש. אבל אם לפי החשבון הוא בגבול — מחכים לעדים ואם לא באו — מקדשים ביום השלושים בלא עדים.",
+      "it": "Se secondo il calcolo la luna non è visibile, non si attende affatto la testimonianza di testimoni e non è necessario rinviare la santificazione del mese. Ma se secondo il calcolo siamo in zona di incertezza, si attende la testimonianza; se i testimoni non giungono, si santifica il mese al trentesimo giorno senza testimonianza."
+    },
+    {
+      "n": 8,
+      "he": "זוהי שיטת הרמב\"ם בחשבון הראיה, הנסמכת על חכמי הגאונים וחכמי המדע של הגוים שחשבו את חשבונות הכוכבים. ואין הלכה כן אלא בזמן שיש בית דין בירושלים.",
+      "it": "Questo è il metodo del Rambam nel calcolo della visibilità, basato sui Geonim e sugli astronomi non ebrei che calcolarono i movimenti degli astri. Tuttavia questa halachah si applica solo quando esiste un Bet Din a Gerusalemme."
+    }
+  ],
+  "_glossary_terms_used": ["orekh ha-nir'eh", "cheshbon ha-re'iyah", "or ha-yashar", "Bet Din"]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Gezelah VeAvedah 7-9",
+  "name_he": "משנה תורה, הלכות גזלה ואבידה, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi della Rapina e degli Oggetti Smarriti, capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-10-02",
+  "hebrew_date": "21 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "7:1-5",
+      "he": "אֲבֵדַת יִשְׂרָאֵל — חַיָּב לְהַחְזִירָהּ…",
+      "it": "(Gezelah VeAvedah cap. 7, hal. 1-5) La restituzione degli oggetti smarriti (hashavas avedah) è una mitzvah positiva della Torah, ricavata da Deuteronomio 22:1-3: «Se vedi il bue del tuo fratello o la sua pecora che si smarrisce, non nasconderti». L'oggetto smarrito deve avere un segno identificativo (siman) che permetta al proprietario di reclamarlo. Se l'oggetto non ha alcun siman — può essere considerato hefker (abbandonato) se è chiaro che il proprietario ha disperato (ye'ush) di recuperarlo."
+    },
+    {
+      "n": "7:6-9",
+      "he": "מָצָא כְּלִי בָּאַשְׁפָּה — אִם הָיָה מְכֻסֶּה — חַיָּב לְהַכְרִיז…",
+      "it": "(cap. 7, hal. 6-9) Chi trova un oggetto in un luogo di pattumiera — se era coperto, è chiaro che il proprietario lo ha sistemato lì intenzionalmente e non lo ha abbandonato; è tenuto ad annunciarlo (lehakriz). Se era scoperto — probabilmente è stato abbandonato. Gli oggetti trovati in luoghi pubblici dove passano sia ebrei che non-ebrei — si tengono e si annunciano; se nessuno viene a reclamarli con siman — si tiene l'oggetto. Il Rambam discute le varie situazioni geografiche e il loro effetto sull'obbligo di annunciare."
+    },
+    {
+      "n": "8:1-7",
+      "he": "הַמּוֹצֵא כֵּלִים בַּדֶּרֶךְ — אִם רוֹב הָעוֹבְרִים יִשְׂרָאֵל — חַיָּב לְהַכְרִיז…",
+      "it": "(cap. 8, hal. 1-7) Chi trova oggetti sulla via pubblica — segue la maggioranza di coloro che vi transitano. Se la maggioranza sono ebrei — è obbligato ad annunciare l'oggetto. Se la maggioranza sono non-ebrei — l'oggetto può essere tenuto (poiché l'obbligo di restituzione si applica pienamente solo tra ebrei). Se è metà e metà — si comporta strictamente e annuncia. Il Rambam esamina vari tipi di oggetti: animali, documenti, vestiti, denaro — ognuno con le proprie regole di identificazione."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hashavas avedah", "siman", "hefker", "ye'ush", "lehakriz", "avedah"
+  ]
+}

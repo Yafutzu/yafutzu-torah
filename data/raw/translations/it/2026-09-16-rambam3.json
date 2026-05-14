@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 20-22",
+  "name_he": "משנה תורה, הלכות כלים, פרקים כ-כב",
+  "name_it": "Mishneh Torah, Leggi dei Vasi (Kelim), capitoli 20-22",
+  "cycle": "rambam-3",
+  "date": "2026-09-16",
+  "hebrew_date": "5 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "20:1",
+      "he": "כְּלֵי גֶמִי וְכֵפֶה וְסַפְסָל — כְּלוֹמַר כֵּלִים הָעֲשׂוּיִין מִגֶּמִי אוֹ מִקָּנֶה אוֹ מֵעֲלֵי דֶּקֶל — אֵינָם מְקַבְּלִין טֻמְאָה אֶלָּא אִם כֵּן יֵשׁ לָהֶם בֵּית קִבּוּל.",
+      "it": "I vasi di giunco, di canna o di foglie di palma (cesti intrecciati) non ricevono impurità a meno che non abbiano una cavità contenitrice (beit kibul)."
+    },
+    {
+      "n": "20:2",
+      "he": "הָיָה לָהֶם בֵּית קִבּוּל וְנִפְחַת בֵּית הַקִּבּוּל, אֵינָם מְקַבְּלִין טֻמְאָה. נִשְׁתַּיֵּר מֵהֶם שִׁעוּר שֶׁעוֹשֶׂה בּוֹ מְלָאכָה, מְקַבְּלִין.",
+      "it": "Se avevano una cavità che poi si è danneggiata, non ricevono impurità. Se ne rimane una misura sufficiente per un uso funzionale, ricevono impurità."
+    },
+    {
+      "n": "21:1",
+      "he": "הַתַּנּוּר — כְּלִי חֶרֶס הוּא, וּמְקַבֵּל טֻמְאָה מִן הַתּוֹרָה. הַכִּירַיִם שֶׁיֵּשׁ לָהֶן שְׁנֵי בָּתֵּי קִבּוּל — מְקַבֶּלֶת טֻמְאָה כְּשֶׁנִּבְנֵית לְשֵׁם כֵּלִי.",
+      "it": "Il forno (tanur) è un vaso di terracotta e riceve l'impurità dalla Torah. Il doppio-focolare (kirayim) che ha due cavità riceve l'impurità quando è costruito con l'intenzione di essere un vaso."
+    },
+    {
+      "n": "21:2",
+      "he": "כִּירַיִם שֶׁל בַּנָּאִים שֶׁנִּטַּל אֶחָד מִשְּׁנֵי בָּתֵּיהָ — אֵינָה מְקַבֶּלֶת טֻמְאָה. נִשְׁאַר אֶחָד וְהוּא שָׁלֵם — מְקַבֶּלֶת.",
+      "it": "Un doppio-focolare dal quale è stata tolta una delle due cavità non riceve impurità. Se ne rimane una integra, riceve impurità."
+    },
+    {
+      "n": "22:1",
+      "he": "הַקֻּפָּה — סַל גָּדוֹל הָעָשׂוּי לְהַכִּיל דְּבָרִים רַבִּים. אִם יֵשׁ לָהּ בֵּית קִבּוּל, מְקַבֶּלֶת טֻמְאָה. אֵין לָהּ, אֵינָהּ מְקַבֶּלֶת.",
+      "it": "La cesta grande (kuppah), fatta per contenere molte cose, riceve impurità se ha una cavità contenitrice; se no, non la riceve."
+    },
+    {
+      "n": "22:2",
+      "he": "כֵּלִים הָעֲשׂוּיִין מֵעֵץ וְדוֹמִים לַתֵּבָה — מְקַבְּלִין טֻמְאָה כְּשֶׁיֵּשׁ לָהֶם בֵּית קִבּוּל וְנַעֲשׂוּ לְשֵׁם כֵּלִי.",
+      "it": "I vasi simili a casse, fatti di legno, ricevono impurità quando hanno una cavità contenitrice e sono stati fatti con l'intenzione di essere vasi."
+    },
+    {
+      "n": "22:3",
+      "he": "כְּלִי עֵץ שֶׁאֵין לוֹ בֵּית קִבּוּל — כְּגוֹן לוּחַ שֶׁמְּשַׂחֲקִין בּוֹ — אֵינוֹ מְקַבֵּל טֻמְאָה. שֶׁכְּלֵי עֵץ צְרִיכִין בֵּית קִבּוּל.",
+      "it": "Un vaso di legno senza cavità contenitrice — come una tavola su cui si gioca — non riceve impurità, perché i vasi di legno richiedono una cavità."
+    },
+    {
+      "n": "22:4",
+      "he": "הַשֻּׁלְחָן וְהַדַּרְגָּשׁ — יֵשׁ לָהֶם בֵּית קִבּוּל מִפְּנֵי בֵּית קִבּוּל הַמּוֹשָׁב, וּמְקַבְּלִין טֻמְאָה.",
+      "it": "Il tavolo e il divano-letto (dargash) hanno una cavità contenitrice grazie alla superficie di seduta, e ricevono impurità."
+    },
+    {
+      "n": "22:5",
+      "he": "כֵּלִים הַמְּיֻחָדִים לִשְׂרֵפָה — כְּגוֹן כְּלֵי קְבָרוֹת — אֵינָם מְקַבְּלִין טֻמְאָה, שֶׁאֵין אָדָם שׁוֹמֵר אוֹתָם.",
+      "it": "I vasi destinati alla sepoltura o al fuoco non ricevono impurità, perché nessuno li custodisce per un uso normale."
+    }
+  ],
+  "_glossary_terms_used": ["beit kibul", "tumah", "tanur", "kirayim", "kuppah", "kelim"]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Shekhenim 7-9",
+  "name_he": "משנה תורה, הלכות שכנים, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi dei Vicini, capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-10-29",
+  "hebrew_date": "18 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "7:1-6",
+      "he": "חָצֵר שֶׁיֵּשׁ בָּהּ שֻׁתָּפִין — כׇּל אֶחָד כּוֹפֶה אֶת חֲבֵרוֹ לַחְלֹק אִם יֵשׁ בּוֹ דַּיִם…",
+      "it": "(Shekhenim cap. 7) Divisione di cortili condivisi (chazerot): ogni comproprietario può obbligare l'altro a dividere il cortile condiviso — a condizione che la divisione lasci ad ogni parte una quota minima viable (shiur ha-ra'uy la-chalukah). La dimensione minima per la divisione di un cortile: ogni parte deve avere almeno quattro cubiti quadrati di spazio utilisable. Se il cortile è troppo piccolo per una divisione vitale — non si può obbligare la divisione, e rimangono comproprietari. Il principio: la divisione deve creare due unità funzionali, non due spazi inutilizzabili."
+    },
+    {
+      "n": "8:1-6",
+      "he": "הַבּוֹר הַמְּשֻׁתָּף — שְׁנֵי שֻׁתָּפִין בּוֹר אֶחָד — חוֹלְקִין יָמִים…",
+      "it": "(Shekhenim cap. 8) Pozzi, alberi e sentieri condivisi: due vicini che condividono un pozzo (bor) dividono il suo uso per giorni alternati o per fasce orarie. Se l'acqua è insufficiente per entrambi — si può chiedere la vendita all'asta e divisione del ricavato. Un albero che si trova sul confine tra due proprietà — il suo uso (frutti, legna) è diviso equamente. Un sentiero condiviso (derech) — ogni vicino ha il diritto di accesso al proprio terreno; il comproprietario non può bloccare il passaggio."
+    },
+    {
+      "n": "9:1-6",
+      "he": "שֻׁתָּפִין שֶׁחָלְקוּ — כׇּל אֶחָד נוֹטֵל חֶלְקוֹ וְדָרוֹ בּוֹ…",
+      "it": "(Shekhenim cap. 9) Regole sulla divisione completata: una volta che la divisione è stata eseguita (chalkah — il sorteggio o la suddivisione) — ogni partner prende la propria parte e non può più intervenire nell'uso dell'altro. Se emerse un'ingiustizia nella divisione (chad midda — una parte fu valutata male) — si può richiedere la revisione secondo le regole di ona'ah (frode di prezzo, tradizionalmente: se la differenza supera un sesto del valore). Il principio conclusivo: la divisione equa tra vicini è la base della pace sociale (shalom shkhenim)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chazerot", "shiur ha-ra'uy la-chalukah", "bor", "derech", "chalkah", "ona'ah", "shalom shkhenim"
+  ]
+}

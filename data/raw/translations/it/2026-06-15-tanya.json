@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 4-5",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות ד-ה",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettere 4-5",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-15",
+  "hebrew_date": "30 Sivan 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עַצְבוּת — מוֹנַעַת אֶת הָאָדָם מֵעֲבוֹדַת הַשֵּׁם...",
+      "it": "La quarta lettera tratta l'obbligo della gioia (simchah) nel servizio divino. Il Ba'al HaTanya identifica la tristezza (atzavut) come uno degli ostacoli più grandi alla vita spirituale: essa paralizza l'anima, impedisce la preghiera autentica e blocca lo studio. La via per raggiungere la vera simchah non è ignorare le difficoltà, ma trovare radici più profonde: la fede (bitachon) nell'amore costante di Dio per ogni ebreo, e la consapevolezza che la propria anima divina (nefesh ha-elokit) è sempre pura e unita a Dio — indipendentemente dai fallimenti del corpo. La lettera cita 'ivdu et Hashem be-simchah' (servite Dio con gioia) come imperativo fondamentale."
+    },
+    {
+      "n": 2,
+      "he": "הַצְּדָקָה — חַיֵּי הָעוֹלָמוֹת...",
+      "it": "La quinta lettera riprende il tema della tzedakah ma in modo più cosmologico. Citando il Rambam (Maimonide), il Ba'al HaTanya afferma che chi si rifiuta di dare tzedakah è come chi nega il principio fondamentale della Torah (kafar be-ikar). Il significato mistico è più profondo: la tzedakah è la 'forza vitale' (chiyyut) dei mondi superiori — attraverso la tzedakah, l'ebreo diventa partner di Dio nel sostentamento del mondo. Il termine stesso 'tzedakah' (giustizia) indica che donare non è un atto di generosità extra, ma un adempimento della giustizia divina di ridistribuire la ricchezza che Dio ha affidato ai ricchi come depositari."
+    }
+  ],
+  "_glossary_terms_used": ["simchah", "atzavut", "bitachon", "nefesh ha-elokit", "tzedakah", "chiyyut", "kafar be-ikar"]
+}

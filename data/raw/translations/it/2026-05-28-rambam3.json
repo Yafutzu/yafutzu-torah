@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Nazirite Vow 6-8",
+  "name_he": "משנה תורה, הלכות נזירות, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi del Nazireato, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-05-28",
+  "hebrew_date": "12 Sivan 5786",
+  "halachot_count": 29,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "הָאוֹמֵר הֲרֵינִי נָזִיר עַל מְנַת שֶׁאֶשְׁתֶּה יַיִן — אֵין זֶה נְזִירוּת…",
+      "it": "(Cap. 6, hal. 1) Chi dice «sono un nazireo a condizione di poter bere vino» — questo non è un nazireato valido, poiché ha escluso esplicitamente uno dei tre pilastri del nazireato. Il nazireato richiede l'accettazione delle tre proibizioni (vino, taglio dei capelli, impurità dei morti) — chi esclude anche una sola di esse non è nazireo."
+    },
+    {
+      "n": "6:2-6",
+      "he": "הָאוֹמֵר הֲרֵינִי נָזִיר מִן הַגְּרוֹגָרוֹת…",
+      "it": "(Cap. 6, hal. 2-6) Chi dice «sono un nazireo dalle fiche secche» — è un nazireo normale, poiché ha usato la formula del nazireato e poi ha aggiunto un elemento non pertinente. Le halachot 3-6 specificano: il nazireo che dice «mi consacro come [persona X] è nazireo» — se quella persona è nazireo, è nazireo; se quella persona non è nazireo, non è nazireo; la nazireuta per simpatia («sono nazireo come lui»); il nazireuto condizionale alla nascita di un figlio maschio (nazirut ketanah)."
+    },
+    {
+      "n": "6:7-11",
+      "he": "הַנּוֹדֵר בַּנְּזִירוּת בְּחוּצָה לָאָרֶץ…",
+      "it": "(Cap. 6, hal. 7-11) Chi fa voto di nazireato fuori dalla Terra d'Israele — il nazireato è valido, ma se la sua intenzione era di andare in Terra d'Israele per radere i capelli e portare i sacrifici lì, il nazireato fuori dalla Terra non conta verso il suo tempo totale: deve ricominciare il nazireato da quando arriva in Terra d'Israele. Le halachot 8-11 specificano: il caso di chi vive fuori dalla Terra e fa il nazireato sapendo che non può portare i sacrifici; il nazireo in terra straniera che si contamina — deve aspettare di arrivare in Terra d'Israele per la purificazione; la controversia se la rasura del nazireo fuori dalla Terra sia valida."
+    },
+    {
+      "n": "7:1",
+      "he": "הָאִשָּׁה שֶׁנָּדְרָה בַּנְּזִירוּת — בַּעְלָהּ מֵפֵר נִדְרָהּ…",
+      "it": "(Cap. 7, hal. 1) La donna che ha fatto voto di nazireato — il marito può annullare il suo nazireato, come può annullare qualsiasi suo voto. Se il marito annulla il nazireato — il nazireato è privo di effetto retroattivamente. Se il marito ha confermato il nazireato o ha taciuto — la moglie è nazirà."
+    },
+    {
+      "n": "7:2-7",
+      "he": "הֵפֵר לָהּ אֶחָד מִן הַנְּדָרִים וְלֹא אֶחָד מֵהֶם — אֵין הֶפְסֵד לַנְּזִירוּת…",
+      "it": "(Cap. 7, hal. 2-7) Se il marito ha annullato uno dei voti del nazireato ma non il nazireato intero — il nazireato rimane. Poiché il nazireato è un pacchetto di tre proibizioni: o si accetta tutto o non si è nazireo. Il marito non può annullare solo «la proibizione del vino» e lasciare le altre proibizioni. Le halachot 3-7 specificano: la moglie che ha iniziato a contare i giorni del nazireato prima che il marito annullasse — quanti giorni deve ricominciare; il marito che annulla il nazireato della moglie dopo che lei si è già contaminata; la donna divorziata che era nazirà — il primo marito non può più annullare dopo il divorzio; la vedova nazirà."
+    },
+    {
+      "n": "7:8-11",
+      "he": "מִי שֶׁאָמַר לִבְנוֹ הֲרֵי אַתָּה נָזִיר — בְּנוֹ אֵינוֹ נָזִיר…",
+      "it": "(Cap. 7, hal. 8-11) Chi dice a suo figlio «sei un nazireo» — il figlio non è nazireo, poiché nessuno può imporre il nazireato su un altro senza il suo consenso. Ma il padre può consacrare suo figlio minorenne come nazireo — e il bambino è «nazir» per volontà del padre, anche senza propria intenzione. Questa è la «nazireuta paterna» (nezirut ha-av): il padre che consacra il figlio, e il figlio rispetta le leggi del nazireato fino al termine del periodo."
+    },
+    {
+      "n": "8:1",
+      "he": "שְׁנַיִם שֶׁנָּדְרוּ בַּנְּזִירוּת — אֶחָד הֵקֵל וְאֶחָד הֶחֱמִיר…",
+      "it": "(Cap. 8, hal. 1) Due persone che hanno fatto voto di nazireato — una con voto leggero (trenta giorni) e una con voto grave (cento giorni) — se si sono detti «sei come me» e «sei come me»: non si sa chi sia «come chi». Si risolve prendendo il nazireato del più severo per entrambi."
+    },
+    {
+      "n": "8:2-7",
+      "he": "שְׁנַיִם שֶׁנָּדְרוּ, אֶחָד אָמַר הֲרֵינִי כְּפָלוֹנִי…",
+      "it": "(Cap. 8, hal. 2-7) Due persone che hanno fatto voto — uno ha detto «sono come tal persona» e quella persona poi si è contaminata: ha però il nazireato più lungo di quello standard. Le halachot 3-7 esplorano: il caso in cui il nazireo «modello» muore durante il nazireato del «seguace»; il caso dei due che si sono detti «siamo nazireati l'uno come l'altro»; il caso in cui il nazireo porta i propri sacrifici e poi scopre che il suo amico si era contaminato; i fondi raccolti per il nazireato di una persona che poi muore; e la regola che i fondi del nazireato vanno al Tempio come fondi generali (nedavah) se il nazireo muore prima di portarli."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nazirà", "nezirut ha-av", "nedavah", "nazir", "nazireato", "kohen"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 8",
+  "name_he": "אגרת התשובה פרק ח'",
+  "name_it": "Lettera della Teshuvah, Capitolo 8",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-08",
+  "hebrew_date": "23 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְעוֹד יֵשׁ בֵּינֵיהֶם הֶפְרֵשׁ גָּדוֹל",
+      "it": "Il Baal HaTanya introduce il concetto delle bilance del merito (moznei zechuyot, מֹאזְנֵי זְכֻיּוֹת). Ogni persona ha un conto spirituale: da un lato le mitzvot (מִצְווֹת — comandamenti compiuti), dall'altro le aveirot (עֲבֵרוֹת — trasgressioni). Chi ha la maggioranza di meriti è chiamato tzaddik (צַדִּיק — giusto), chi ha più peccati è chiamato rasha (רָשָׁע — empio). La teshuvah ha il potere di trasformare il lato delle aveirot — convertendo peccati in meriti."
+    },
+    {
+      "n": 2,
+      "he": "וְהִנֵּה בִּתְשׁוּבָה מֵאַהֲבָה",
+      "it": "Con la teshuvah me-ahavah (תְּשׁוּבָה מֵאַהֲבָה — teshuvah per amore), i peccati diventano meriti (zdonot na'asot kizechuyot). Come mai? Perché l'amore ardente per Dio che nasce dalla teshuvah è così grande che trasforma retroattivamente la storia del peccatore: ogni caduta che alla fine portò a questo grande ritorno diventa positiva. Il dolore del penitente che ha lontano Dio è così forte che si converte in un fuoco d'amore più intenso di quello che non ha mai peccato. Come dice il Talmud: 'Nel luogo dove stanno i ba'alei teshuvah (בַּעֲלֵי תְּשׁוּבָה — i penitenti), i perfetti tzaddikim non possono stare'."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ עִנְיַן זָכִיתִי",
+      "it": "Il Baal HaTanya introduce il concetto di 'zakhiti' (זָכִיתִי — 'ho meritato') collegato alla teshuvah comunitaria. Quando un intero popolo fa teshuvah, la bilancia dei meriti collettiva si inclina verso il bene. Il Rambam stesso pone questa legge in Hilchot Teshuvah: una singola teshuvah può inclinare la bilancia dell'intera umanità. Il Baal HaTanya sottolinea che la teshuvah di uno incide su tutti, poiché le anime d'Israele sono unite in una radice comune (shoresh meshutefet, שׁוֹרֶשׁ מְשֻׁתָּף)."
+    }
+  ],
+  "_glossary_terms_used": ["moznei zechuyot", "mitzvot", "aveirot", "tzaddik", "rasha", "teshuvah me-ahavah", "zdonot na'asot kizechuyot", "ba'alei teshuvah", "zakhiti", "shoresh meshutefet", "teshuvah"]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 27; To'en VeNit'an 1-2",
+  "name_he": "משנה תורה, הלכות מלווה ולווה פרק כז; הלכות טוען ונטען פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi del Creditore e del Debitore cap. 27; Leggi delle Pretese e delle Contestazioni capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-11-22",
+  "hebrew_date": "13 Kislev 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": "27:1-5",
+      "he": "כָּל הַמַּלְוֶה עַל הַמַּשְׁכּוֹן — אֵינוֹ נִשְׁבָּע…",
+      "it": "(Malveh VeLoveh cap. 27, hal. 1-5) Conclusione delle Leggi del Creditore e del Debitore: quando il creditore non può riscuotere — se il debitore è completamente insolvente, il beit din non può obbligarlo a vendere ciò che è necessario per la sopravvivenza. Vi è anche il concetto di «yoshen» — la prescrizione: se il creditore ha aspettato troppo a lungo senza agire, potrebbe perdere il diritto di espropriare dai beni venduti a terzi. La lien sul bene immobile decade in certe circostanze determinate dalla halachah. «Si concludono le Leggi del Creditore e del Debitore con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "1:1-3",
+      "he": "מִי שֶׁטָּעַן עַל חֲבֵרוֹ מָמוֹן — בֵּין קֶרֶן בֵּין רִבִּית…",
+      "it": "(To'en VeNit'an cap. 1, hal. 1-3) Leggi delle Pretese e delle Contestazioni: questa sezione tratta dei casi in cui due parti portano una disputa monetaria davanti al beit din. Il ricorrente (to'en) afferma che l'altra parte gli deve denaro; il convenuto (nit'an) contesta. Le tipologie di dispute: chi reclama una somma precisa vs. chi reclama una somma vaga; chi reclama denaro, beni, terreno, ecc. Il beit din deve determinare chi ha l'onere della prova e come risolverlo."
+    },
+    {
+      "n": "2:1-5",
+      "he": "הַמּוֹדֶה בְּמִקְצָת — חַיָּב שְׁבוּעַת הַתּוֹרָה…",
+      "it": "(To'en VeNit'an cap. 2, hal. 1-5) Il principio centrale: chi ammette una parte della pretesa (modeh be-miktzat) e nega il resto — è obbligato a giurare sulla parte negata (shevu'at modeh be-miktzat). Questo è un giuramento della Torah (shevu'at Torah) — non semplicemente rabbinico. La logica: se avesse voluto negare tutto, avrebbe potuto farlo; il fatto che ammette una parte dimostra che c'è qualcosa di vero nella pretesa, e quindi si richiede che giuri sulla parte negata per verificarne la veridicità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "beit din", "yoshen", "to'en", "nit'an", "modeh be-miktzat", "shevu'at modeh be-miktzat", "shevu'at Torah"
+  ]
+}

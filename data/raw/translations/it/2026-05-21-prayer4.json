@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, The Order of Prayer 4",
+  "name_he": "משנה תורה, סדר התפילות, פרק ד",
+  "name_it": "Mishneh Torah, Ordine delle Preghiere, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-21",
+  "hebrew_date": "5 Sivan 5786",
+  "halachot_count": 4,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נסח הודוי",
+      "it": "Testo del Viddui (Confessione)."
+    },
+    {
+      "n": 2,
+      "he": "אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ תָּבוֹא לְפָנֶיךָ תְּפִלָּתֵנוּ וְאַל תִּתְעַלַּם מִתְּחִנָּתֵנוּ שֶׁאֵין אָנוּ עַזֵּי פָנִים וּקְשֵׁי עֹרֶף שֶׁנֹּאמַר לְפָנֶיךָ צַדִּיקִים אֲנַחְנוּ וְלֹא חָטָאנוּ…",
+      "it": "«Nostro D-o e D-o dei nostri padri, giunga davanti a Te la nostra preghiera e non ignorare la nostra supplica — perché non siamo così sfacciati e duri di cuore da dire davanti a Te: Noi siamo giusti e non abbiamo peccato. Al contrario, noi e i nostri padri abbiamo peccato. Abbiamo commesso iniquità (ashamnu), abbiamo agito con perfidia (bagadnu), abbiamo rubato (gazalnu), abbiamo parlato con malvagità (dibarnu dofi), abbiamo pervertito (he'evinu), abbiamo agito con empietà (vehirshanu), abbiamo violato i giusti (zadnu), abbiamo fatto violenza (chamasnu), abbiamo aderito alla menzogna (tafalnu sheker), abbiamo consigliato male (ya'atznu ra), abbiamo mentito (kizavnu), abbiamo deriso (latznu), abbiamo disubbidito (maradnu), abbiamo offeso (ni'atznu), abbiamo sfidato (sararnu), abbiamo agito empiamente (avinu), abbiamo trasgredito (pasha'nu), abbiamo recato danno (tzararnu), abbiamo agito con ostinazione (kashinu oref), abbiamo fatto del male (rashamnu), abbiamo corrotto (shichatnu), abbiamo commesso abominazioni (ti'avnu), abbiamo errato (ta'inu), abbiamo traviato (ti'ta'nu)."
+    },
+    {
+      "n": 3,
+      "he": "סַרְנוּ מִמִּצְוֹתֶיךָ וּמִמִּשְׁפָּטֶיךָ הַטּוֹבִים וְלֹא שָׁוָה לָנוּ. וְאַתָּה צַדִּיק עַל כָּל הַבָּא עָלֵינוּ כִּי אֱמֶת עָשִׂיתָ וַאֲנַחְנוּ הִרְשַׁעְנוּ…",
+      "it": "«Ci siamo allontanati dai Tuoi comandamenti e dai Tuoi buoni giudizi, e non ne abbiamo tratto profitto. Ma Tu sei giusto riguardo a tutto ciò che ci è capitato, poiché hai agito con verità mentre noi abbiamo agito empietà. Abbiamo peccato, abbiamo commesso iniquità, perciò non siamo stati salvati. Metti nel nostro cuore di tornare al Tuo timore e d'inclinarci verso il Tuo nome; rimuovi da noi la cattiva inclinazione [yetzer ha-ra'], poiché Tu ci hai creato e Tu sai la nostra inclinazione, che siamo carne e sangue. Come è detto: "Egli sa la nostra formazione, si ricorda che siamo polvere" (Tehillim 103:14). Aiutaci, D-o della nostra salvezza, per la gloria del Tuo nome, e salvaci e perdona i nostri peccati per il Tuo nome — questo è la forma del Viddui breve.»"
+    },
+    {
+      "n": 4,
+      "he": "וְזֶה נֹסַח הַוִּדּוּי הָאָרֹךְ שֶׁנָּהֲגוּ בְּיוֹם הַכִּפּוּרִים…",
+      "it": "«E questo è il testo del Viddui lungo che si recita nel Yom Kippur [nella preghiera di Shacharit, di Mincha e di Ne'ilah]:» — il Viddui lungo con i «Al chet» (Per il peccato che abbiamo commesso davanti a Te con violenza, per il peccato che abbiamo commesso davanti a Te con parole della bocca…) — enumerando le categorie di peccati in forma alfabetica, e chiedendo perdono per ciascuna di esse. Si recita inginocchiati (o piegando la testa) come segno di sottomissione e contizione del cuore davanti al Re dei re. «E per tutti questi [peccati], D-o del perdono, perdonaci, assolvici, espiaci.» Così si conclude il capitolo e la sezione dell'Ordine delle Preghiere del Rambam."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Viddui", "Yom Kippur", "Ne'ilah", "yetzer ha-ra'", "Al chet", "Shacharit", "Mincha"
+  ]
+}

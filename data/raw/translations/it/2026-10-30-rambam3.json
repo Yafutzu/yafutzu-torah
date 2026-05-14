@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Shekhenim 10-12",
+  "name_he": "משנה תורה, הלכות שכנים, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi dei Vicini, capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-10-30",
+  "hebrew_date": "19 Cheshvan 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": "10:1-7",
+      "he": "דִּינָא דְּבַר מְצְרָא — שֶׁמָּכַר אָדָם שָׂדֵהוּ — יֵשׁ לְשָׁכֵן הַגָּבוּל לִקַּח אוֹתָהּ…",
+      "it": "(Shekhenim cap. 10) Dina de-bar metzra (diritto di prelazione del confinante): quando un campo viene venduto, il proprietario del campo adiacente (bar metzra — il confinante) ha il diritto di acquistarlo per primo alle stesse condizioni. Questo è un istituto rabbinico basato sul versetto «ve-asita ha-yashar ve-hatov» (Devarim 6:18) — fa' ciò che è retto e buono. Se il venditore ignora questo diritto e vende a un estraneo — il confinante può obbligare l'acquirente a cedergli il campo al prezzo pagato (kivnei metzra — esercizio del diritto di prelazione post-vendita)."
+    },
+    {
+      "n": "11:1-6",
+      "he": "מֵאֵימָתַי קָנָה הַבַּר מְצְרָא? — מִשֶּׁנָּתַן אֶת הַמָּעוֹת…",
+      "it": "(Shekhenim cap. 11) Procedura per esercitare il diritto di bar metzra: il confinante deve notificare la propria intenzione di esercitare il diritto non appena viene a conoscenza della vendita. Deve pagare il prezzo esatto concordato tra il venditore e l'acquirente originale — non può offrire di meno. Se il confinante non ha il denaro disponibile immediatamente — gli viene concesso un breve periodo (kol yom achad — un giorno, secondo alcune interpretazioni) per procurarsi i fondi. Dopo questo termine, il diritto decade. Il confinante che non agisce tempestivamente perde il suo diritto di prelazione."
+    },
+    {
+      "n": "12:1-7",
+      "he": "בַּר מְצְרָא בָּאִשָּׁה וּבְקָטָן — דִּינוֹ כְּיִשְׂרָאֵל לְכָל דָּבָר…",
+      "it": "(Shekhenim cap. 12) Casi speciali del bar metzra: una donna o un minore che sono confinanti — hanno lo stesso diritto di bar metzra di un uomo adulto israelita. Non si discrimina in base al sesso o all'età quando si tratta di diritti di proprietà. Eccezione: se il confinante è straniero (nochri) — alcuni ritengo che il diritto di bar metzra non si applichi tra ebrei e non-ebrei; altri lo estendono anche a loro. Il Rambam tende a limitare il diritto al contesto ebraico, poiché è basato su «ve-asita ha-yashar ve-hatov» — un versetto che si applica ai rapporti tra ebrei."
+    }
+  ],
+  "_glossary_terms_used": [
+    "dina de-bar metzra", "bar metzra", "ve-asita ha-yashar ve-hatov", "kivnei metzra", "nochri"
+  ]
+}

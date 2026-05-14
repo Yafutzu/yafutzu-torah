@@ -1,0 +1,134 @@
+{
+  "ref": "Mishneh Torah, Sabbath 6",
+  "name_he": "משנה תורה, הלכות שבת, פרק ו",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-27",
+  "hebrew_date": "11 Sivan 5786",
+  "halachot_count": 24,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵי זוֹ הִיא רְשׁוּת הָרַבִּים…",
+      "it": "Cos'è l'ambito pubblico (reshut ha-rabbim)? Le strade e i mercati (sh'vakim u-devarim) che si estendono dall'una all'altra estremità della città (mi-she'ar le-she'ar) in modo diretto, e che abbiano almeno sedici cubiti di larghezza. I deserti, le foreste e i boschi non coperti — sono reshut ha-rabbim se ci transitano molte persone. Il mare, i fiumi e le rive — non sono reshut ha-rabbim."
+    },
+    {
+      "n": 2,
+      "he": "אֵי זוֹ הִיא רְשׁוּת הַיָּחִיד…",
+      "it": "Cos'è l'ambito privato (reshut ha-yachid)? Qualsiasi recinto o luogo delimitato da quattro pareti (o muri) alte almeno dieci tefachim (circa 80 cm), e che abbia un'area di almeno quattro tefachim per quattro tefachim — anche se non è abitato. Un fosso profondo dieci tefachim e largo quattro — è reshut ha-yachid. Un muro alto dieci tefachim e largo quattro — il suo spazio superiore è reshut ha-yachid."
+    },
+    {
+      "n": 3,
+      "he": "אֵי זֶהוּ כַּרְמְלִית…",
+      "it": "Cos'è il karmelit? Un luogo che non ha le caratteristiche dell'ambito pubblico né quelle dell'ambito privato — ad esempio il mare, i fiumi, le porte della città, le piazze vuote (tzidei reshut ha-rabbim). Non è reshut ha-rabbim perché non ci transitano molte persone, e non è reshut ha-yachid perché non è delimitato da pareti. Il karmelit è una categoria rabbinica: nel karmelit è proibito portare e gettare come nel reshut ha-rabbim, per decreto dei Saggi."
+    },
+    {
+      "n": 4,
+      "he": "אֵי זֶהוּ מָקוֹם פָּטוּר…",
+      "it": "Cos'è il luogo esente (makom patur)? Un luogo che ha meno di quattro tefachim di ampiezza ma altezza superiore a tre tefachim — come la cima di un palo, un sasso o una sporgenza nel muro. In questo luogo è permesso portare sia dall'ambito pubblico che da quello privato, perché non appartiene né all'uno né all'altro. Non si è obbligati al sacrificio espiatorio per il portare da o verso il makom patur."
+    },
+    {
+      "n": 5,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת הַיָּחִיד לְרְשׁוּת הַיָּחִיד דֶּרֶךְ הָרְשׁוּת הָרַבִּים — חַיָּב…",
+      "it": "Chi porta dall'ambito privato a un altro ambito privato attraverso l'ambito pubblico — è obbligato. Chi porta dall'ambito privato al karmelit o dal karmelit all'ambito privato — è proibito rabbinicamente ed è esente biblicamente. Chi porta dal karmelit all'ambito pubblico o viceversa — è proibito rabbinicamente ed è esente biblicamente."
+    },
+    {
+      "n": 6,
+      "he": "הַמּוֹצִיא מִמָּקוֹם פָּטוּר לִרְשׁוּת הָרַבִּים — פָּטוּר…",
+      "it": "Chi porta dal makom patur all'ambito pubblico — è esente. Chi porta da reshut ha-yachid al makom patur — è esente. Il makom patur funge da «luogo di passaggio» neutro. Pertanto chi getta un oggetto dall'ambito privato attraverso l'aria al di sopra del makom patur nell'ambito pubblico — dipende: se l'oggetto ha transitato sopra il makom patur a meno di tre tefachim da esso, si considera come se fosse passato per il makom patur."
+    },
+    {
+      "n": 7,
+      "he": "כֶּרֶם שֶׁהוּא מֻקָּף מְחִצּוֹת מִכָּל הַצְּדָדִים…",
+      "it": "Un vigneto circondato da pareti su tutti i lati — se le pareti sono alte almeno dieci tefachim e l'area è almeno quattro per quattro — è reshut ha-yachid. Un cortile con una breccia nel muro larga meno di dieci cubiti — viene «completato» idealmente dalla linea immaginaria che unisce i bordi della breccia (lavud o tzurat ha-petach). Una porta che non ha battente ma ha un architrave e due stipiti laterali — è reshut ha-yachid entro le sue mura."
+    },
+    {
+      "n": 8,
+      "he": "עֲמוּד בִּרְשׁוּת הָרַבִּים גָּבוֹהַּ עֲשָׂרָה — רָשׁוּת הַיָּחִיד לְעַצְמוֹ…",
+      "it": "Una colonna nell'ambito pubblico alta dieci tefachim e larga quattro — il suo piano superiore è reshut ha-yachid autonomo. Chi porta qualcosa dall'ambito pubblico sulla cima della colonna — è obbligato. Chi porta dalla cima della colonna a un altro reshut ha-yachid contiguo — è esente, poiché entrambi sono reshut ha-yachid."
+    },
+    {
+      "n": 9,
+      "he": "בּוֹר בִּרְשׁוּת הָרַבִּים עָמֹק עֲשָׂרָה — רְשׁוּת הַיָּחִיד…",
+      "it": "Una buca nell'ambito pubblico profonda dieci e larga quattro — è reshut ha-yachid. Chi porta qualcosa dall'ambito pubblico nella buca — è obbligato. I bordi della buca che hanno altezza di tre tefachim o meno sopra il suolo dell'ambito pubblico — sono come il suolo stesso (legge del «lavud» — gli elementi entro tre tefachim l'uno dall'altro si considerano connessi)."
+    },
+    {
+      "n": 10,
+      "he": "גַּג שֶׁאֵינוֹ מֻקָּף מְחִיצּוֹת — רְשׁוּת הַיָּחִיד לְגַבֵּי עַצְמוֹ…",
+      "it": "Un tetto non circondato da pareti — è reshut ha-yachid rispetto all'ambito pubblico sottostante, ma è karmelit rispetto a se stesso (poiché le persone non lo abitano regolarmente). I Saggi hanno decretato che il tetto abbia lo statuto intermedio: proibire il portare su di esso come in un karmelit, ma non obbligare come in un reshut ha-yachid."
+    },
+    {
+      "n": 11,
+      "he": "מֶה שֶּׁעַל גַּבֵּי הַכֹּתֶל — רְשׁוּת הַיָּחִיד. מֶה שֶּׁבְּתוֹכוֹ — רְשׁוּת הַיָּחִיד…",
+      "it": "Ciò che è sopra la sommità di un muro (che è alto almeno dieci tefachim e largo quattro) — è reshut ha-yachid. Ciò che è dentro il muro stesso — è reshut ha-yachid. Il muro che separa due reshuyot (ambiti privati) diversi — i due lati appartengono ai rispettivi reshuyot; la sommità appartiene a uno di essi (dipende da chi è il muro)."
+    },
+    {
+      "n": 12,
+      "he": "הַחוֹרִין וְהַסְּדָקִין שֶׁבִּרְשׁוּת הָרַבִּים — רְשׁוּת הַיָּחִיד…",
+      "it": "Le cavità e le fessure nell'ambito pubblico — se sono profonde dieci e larghe quattro — sono reshut ha-yachid. Chi mette qualcosa in tali cavità dall'ambito pubblico — è obbligato [al sacrificio espiatorio]. Questo vale anche per le cavità nei muri dei negozi che si affacciano sull'ambito pubblico."
+    },
+    {
+      "n": 13,
+      "he": "עֲמוּד בִּרְשׁוּת הָרַבִּים גָּבוֹהַּ פָּחוֹת מִי׳ וְרָחָב אַרְבָּעָה — מָקוֹם פָּטוּר…",
+      "it": "Una colonna nell'ambito pubblico alta meno di dieci tefachim e larga almeno quattro — è makom patur. Una colonna alta almeno dieci ma larga meno di quattro — è makom patur. Solo quando è sia alta almeno dieci che larga almeno quattro diventa reshut ha-yachid."
+    },
+    {
+      "n": 14,
+      "he": "שְׁתֵּי רְשֻׁיּוֹת הַיָּחִיד בִּרְשׁוּת הָרַבִּים — מֻתָּר לְהוֹשִׁיט…",
+      "it": "Due ambiti privati nell'ambito pubblico (ad esempio due tetti contigui) — è permesso passare oggetti da uno all'altro attraversando l'aria dell'ambito pubblico, purché i due tetti siano alla stessa altezza e il passaggio avvenga direttamente senza posare l'oggetto nell'ambito pubblico."
+    },
+    {
+      "n": 15,
+      "he": "שְׁנֵי בָּתִּים בִּשְׁנֵי צִדֵּי רְשׁוּת הָרַבִּים — אִם הוֹשִׁיט מִזֶּה לָזֶה…",
+      "it": "Due case ai due lati dell'ambito pubblico — se si è passato da una all'altra un oggetto attraverso l'aria, sia il mittente che il ricevente sono esenti [biblicamente], poiché l'oggetto ha passato per l'ambito pubblico senza mai essere posato in esso. Rabbinicamente però è proibito poiché si è usato lo spazio dell'ambito pubblico."
+    },
+    {
+      "n": 16,
+      "he": "הַמּוֹצִיא מֵחֲנוּת לָרְשׁוּת הָרַבִּים דֶּרֶךְ הַמְּעַרְבָּה — חַיָּב…",
+      "it": "Chi porta da un negozio all'ambito pubblico attraverso il porticato (ma'aravah) — se il porticato è karmelit, è esente biblicamente ma proibito rabbinicamente. Se il porticato è reshut ha-yachid, è obbligato biblicamente poiché ha portato dal reshut ha-yachid al reshut ha-rabbim attraverso un altro reshut ha-yachid (ha comunque completato il trasporto proibito)."
+    },
+    {
+      "n": 17,
+      "he": "רְשׁוּת הָרַבִּים וְרְשׁוּת הַיָּחִיד שֶׁהִקִּיפַן בְּמְחִיצָה — נַעֲשׂוּ רְשׁוּת הַיָּחִיד…",
+      "it": "Ambito pubblico e ambito privato che sono stati circondati da un recinto (mechitzah valida) — diventano entrambi reshut ha-yachid. Questo è il principio dell'eruv: creando una struttura di «porte» (tzurat ha-petach) o un recinto attorno a un'area, si trasforma il karmelit o anche parte del reshut ha-rabbim in reshut ha-yachid, permettendo di portare oggetti all'interno di essa di Shabbat."
+    },
+    {
+      "n": 18,
+      "he": "אֵי זוֹ הִיא מְחִיצָה הַכְּשֵׁרָה…",
+      "it": "Cos'è una parete valida (mechitzah keshera)? Una parete alta almeno dieci tefachim, fatta di qualsiasi materiale (legno, pietra, stoffa, corda, ecc.), purché sia solida e fissa. Una parete di canne se vi sono spazi tra di esse inferiori a tre tefachim — è valida per la legge del «lavud» (gli elementi entro tre tefachim si considerano connessi). Una parete che si muove al vento ma non cade — è discussa: l'opinione principale è che sia valida."
+    },
+    {
+      "n": 19,
+      "he": "מְחִיצָה הָעֲשׂוּיָה בְּשַׁבָּת בְּשׁוֹגֵג — מֻתָּר לְטַלְטֵל בְּתוֹכָהּ…",
+      "it": "Una parete eretta di Shabbat per errore — è permesso portare entro di essa di Shabbat, poiché l'eruv funziona anche per errore. Una parete eretta di Shabbat deliberatamente — è proibito portare entro di essa di Shabbat. Dopo Shabbat — anche quella eretta deliberatamente è permessa, poiché il divieto era per punire il trasgressore, non per rendere il luogo permanentemente proibito."
+    },
+    {
+      "n": 20,
+      "he": "הַדֶּלֶת וְהַנֶּגֶר וְהַמַּנְעוּל — מְחִיצָה הֵם לְפִי דַּרְכָּם…",
+      "it": "La porta, il chiavistello e il lucchetto — sono considerati parete secondo il loro modo d'uso: una porta che si apre e si chiude regolarmente è una parete valida quando è chiusa. Un cancello di città o una porta di cortile che si chiude di notte — è considerato parete valida anche di giorno, purché venga chiuso di notte. Questo è il fondamento dell'eruv su scala cittadina: le porte della città che si chiudono di notte possono rendere tutta la città un «reshut ha-yachid» aperto."
+    },
+    {
+      "n": 21,
+      "he": "אַרְבָּעָה מְחִיצּוֹת הַמַּקִּיפוֹת — רְשׁוּת הַיָּחִיד…",
+      "it": "Quattro pareti che circondano [uno spazio] — creano un reshut ha-yachid. Tre pareti — se la quarta è l'aria aperta — creano un reshut ha-yachid solo per determinati scopi (es. la sukkah ha tre pareti e l'apertura quarta). Due pareti con la terza immaginaria — non è reshut ha-yachid. Una parete sola — non è reshut ha-yachid."
+    },
+    {
+      "n": 22,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת לִרְשׁוּת מִמֹּחֳרַת הַשַּׁבָּת — חַיָּב…",
+      "it": "Chi porta da un ambito all'altro il giorno dopo Shabbat [domenica] — è ovviamente permesso. Chi inizia a portare prima del tramonto del venerdì e completa l'azione dopo il tramonto di Shabbat — se l'akira (sollevamento) era prima di Shabbat e la hanachah (deposito) avviene di Shabbat: è obbligato, poiché la trasgressione si completa di Shabbat."
+    },
+    {
+      "n": 23,
+      "he": "הַמּוֹצִיא בְּשַׁבָּת וְהוֹצִיא בִּשְׁגָגָה — חַיָּב חַטָּאת…",
+      "it": "Chi porta di Shabbat per errore — è obbligato al sacrificio espiatorio. Chi porta deliberatamente di fronte a testimoni e ammonimento — è soggetto alla lapidazione. Chi porta deliberatamente senza testimoni — è soggetto a karet. Questa è la scala di responsabilità per il trasporto (hotza'ah), uguale a quella di tutte le altre categorie principali di lavoro."
+    },
+    {
+      "n": 24,
+      "he": "הַמּוֹצִיא אֹכֶל פָּחוֹת מִשִּׁיעוּר — פָּטוּר…",
+      "it": "Chi porta meno della misura minima — è esente biblicamente, anche se è proibito rabbinicamente. Chi porta la misura esatta — è obbligato. Chi porta più della misura — è obbligato per la misura intera [non per il surplus separatamente], poiché è un'unica azione di trasporto. Chi porta meno della misura in due tempi separati senza intenzione di completare — non si sommano."
+    }
+  ],
+  "_glossary_terms_used": [
+    "reshut ha-rabbim", "reshut ha-yachid", "karmelit", "makom patur", "mechitzah", "tzurat ha-petach", "lavud", "eruv", "hotza'ah", "akira", "hanachah", "karet", "tefach"
+  ]
+}

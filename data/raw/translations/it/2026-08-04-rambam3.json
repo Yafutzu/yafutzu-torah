@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chagigah 2-3; Hilchot Bechorot 1",
+  "name_he": "משנה תורה, הלכות חגיגה פרקים ב-ג; הלכות בכורות פרק א",
+  "name_it": "Mishneh Torah, Leggi dell'Offerta Festiva capitoli 2-3; Leggi dei Primogeniti capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-08-04",
+  "hebrew_date": "21 Av 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "כמה שיעור קרבן חגיגה? לא פחות מכסף מעה כסף, ולא יביא בדמי ביצה ביצה. וכמה שמחת יום טוב? לא פחות ממעה כסף לכל אחד מבני ביתו.",
+      "it": "Qual è la misura minima del korban chagigah? Non meno di un ma'ah d'argento, e non si porta un'offerta di valore inferiore a un uovo. E qual è la misura della gioia festiva (simchat Yom Tov)? Non meno di un ma'ah d'argento per ogni membro della propria famiglia."
+    },
+    {
+      "n": "2:2",
+      "he": "עד כמה מוסיפים? אין לדבר שיעור עליון: כל אחד לפי ממונו. עשיר — מביא קרבנות רבים; עני — מביא כפי יכולתו.",
+      "it": "Fino a quanto si può aggiungere? Non vi è limite superiore: ciascuno offre secondo i propri mezzi. Un ricco porta molti sacrifici; un povero porta secondo le proprie possibilità."
+    },
+    {
+      "n": "2:3",
+      "he": "מי שלא הביא חגיגה ביום טוב הראשון — מביא בכל ימות הרגל, שאר הימים. ואם עברו ימות הרגל ולא הביא — אין לו תשלומין אחר הרגל.",
+      "it": "Chi non ha portato il korban chagigah il primo giorno della festa può portarlo in tutti i giorni festivi rimanenti. Ma se passano i giorni della festa senza averlo portato, non vi è modo di recuperarlo dopo la festa."
+    },
+    {
+      "n": "3:1",
+      "he": "מי שאין לו מה להביא — כגון שאין בידו בהמה להקרבה — אף על פי שחייב מן הדין, פטור ממעשה החגיגה. ומצוה לו לשמוח בשאר דרכי שמחה.",
+      "it": "Chi non ha i mezzi per portare un sacrificio — per esempio perché non possiede un animale da offrire — sebbene sia in linea di principio obbligato, è esente dall'atto della chagigah. È però un precetto per lui di rallegrarsi in altri modi."
+    },
+    {
+      "n": "3:2",
+      "he": "הלל הזקן תיקן להעלות הקרבן ביום הראשון של הרגל קודם אכילת שום דבר, כדי שהשמחה תהיה שלמה. ונוהג כן לדורות.",
+      "it": "Hillel il Vecchio stabilì di portare il sacrificio nel primo giorno della festa prima di mangiare qualsiasi cosa, affinché la gioia sia completa. E questa pratica si tramanda di generazione in generazione. Si concludono le Leggi dell'Offerta Festiva."
+    },
+    {
+      "n": "1:1",
+      "he": "בכור בהמה טהורה — בקר, צאן, ועיזים — הוא קדוש מרחם אמו קדושת דמים ונתנו לכוהן. והכוהן מקריבו ואוכל בשרו.",
+      "it": "Il primogenito (bechor) di un animale puro — bovino, ovino e caprino — è consacrato fin dall'uscita dal grembo materno con la santità dei prezzi (kedushat damim), e viene dato al sacerdote (kohen). Il kohen lo offre in sacrificio e ne mangia la carne."
+    },
+    {
+      "n": "1:2",
+      "he": "הבכור מוקדש מן התורה, שנאמר 'קדש לי כל בכור'. ואין צריך הקדשה בפה, אלא הוא קדוש מאליו.",
+      "it": "Il primogenito è consacrato per legge della Torah, come è detto: 'Consacrami ogni primogenito' (Shemot 13:2). Non è necessaria una dichiarazione orale di consacrazione — è automaticamente sacro."
+    },
+    {
+      "n": "1:3",
+      "he": "הבכור נאכל על ידי הכוהן ובני ביתו. ואינו נאכל אלא בירושלים כקרבן שלמים, שנאמר 'לפני ה' אלהיך תאכלנו'.",
+      "it": "Il primogenito viene mangiato dal kohen e dai membri della sua famiglia. Non si mangia che a Gerusalemme, come un korban shelamim, secondo quanto è detto: 'Lo mangerai davanti al Signore tuo D-o' (Devarim 15:20)."
+    }
+  ],
+  "_glossary_terms_used": ["chagigah", "simchat Yom Tov", "ma'ah", "bechor", "kedushat damim", "kohen", "shelamim"]
+}

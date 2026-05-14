@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Valuations and Vows 8; Mixed Species 1-2",
+  "name_he": "משנה תורה, הלכות ערכין וחרמין פרק ח; הלכות כלאיים פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi delle Stime cap. 8; Leggi delle Specie Miste capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-06-01",
+  "hebrew_date": "16 Sivan 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "הַמַּחְרִים אֶת כָּל נְכָסָיו — אֵין הַחֵרֶם חָל עַל הַדָּבָר שֶׁחַיָּב בּוֹ לַאֲחֵרִים…",
+      "it": "(Arachim cap. 8, hal. 1) Chi consacra in cherem tutti i propri beni — il cherem non si applica a ciò che deve ad altri: debiti, pegni, e la ketuvah della moglie non rientrano nel cherem. Il cherem può includere solo ciò che è veramente suo. Il necessario per la sopravvivenza del dichiarante — non rientra nel cherem."
+    },
+    {
+      "n": "8:2-8",
+      "he": "הַמַּחְרִים נְכָסָיו — אִם הָיָה עֲבָדָיו בִּכְלַל נְכָסָיו…",
+      "it": "(Arachim cap. 8, hal. 2-8) Chi dichiara i propri beni in cherem — se vi erano schiavi tra i beni: gli schiavi cananei diventano di proprietà dei kohanim ma non vengono liberati; gli schiavi ebrei vengono liberati (poiché il cherem su un ebreo non può rendere un ebreo «proprietà» di un altro). Le halachot 3-8 concludono Sefer Hafla'ah: il cherem su oggetti già consacrati (hekdesh) — il cherem aggiunge il vincolo del kohen; la distinzione finale tra erech, damim e cherem; il principio conclusivo che il cherem è lo strumento di consacrazione più severo della Torah. «Si concludono le Leggi delle Stime e dei Voti di Consacrazione con l'aiuto del Cielo. Si conclude il Sefer Hafla'ah.»"
+    },
+    {
+      "n": "1:1",
+      "he": "כִּלְאַיִם — הוּא עִרְבּוּב שְׁנֵי מִינִים…",
+      "it": "(Kilayim cap. 1, hal. 1) Kilayim (specie miste) — è la mescolanza di due specie diverse in modo proibito dalla Torah. Vi sono tre tipi principali di kilayim: (1) Kilayim di semi — piantare due specie di grano insieme; (2) Kilayim di bestiame — accoppiare o far lavorare insieme due specie diverse di animali; (3) Kilayim di indumenti (sha'atnez) — indossare lana e lino tessuti insieme. Questi tre tipi sono proibiti dalla Torah."
+    },
+    {
+      "n": "1:2-7",
+      "he": "אֵי זֶהוּ כִּלְאֵי זְרָעִים…",
+      "it": "(Kilayim cap. 1, hal. 2-7) Cos'è kilayim dei semi? Piantare due specie diverse di piante coltivabili nello stesso campo in modo tale che sembrino mescolate. Solo piantare insieme è proibito — ma mangiare il prodotto di kilayim è permesso (a differenza del kilayim della vite). Le halachot 3-7 specificano: quali specie sono considerate la stessa specie (e quindi non kilayim); il principio del «mir'eh» — l'aspetto visivo determina il kilayim; le piante che sembrano della stessa famiglia ma sono botanicamente distinte; il caso dei cereali (grano, orzo, spelta — sono specie distinte tra loro)."
+    },
+    {
+      "n": "2:1",
+      "he": "כִּלְאֵי הַכֶּרֶם — אֲסוּרִין בַּאֲכִילָה…",
+      "it": "(Kilayim cap. 2, hal. 1) Kilayim della vite (kilayim ha-kerem) — il prodotto che cresce come risultato della mescolanza di semi con una vigna è proibito nel mangiare, nel bere, nel commercio e in qualsiasi beneficio (asur be-hana'ah). Questo è uno dei divieti più severi della categoria kilayim. Non solo è proibito piantare — anche la pianta cresciuta è proibita e deve essere bruciata."
+    },
+    {
+      "n": "2:2-8",
+      "he": "כֵּיצַד מַרְחִיקִין מִן הַגֶּפֶן…",
+      "it": "(Kilayim cap. 2, hal. 2-8) Come si mantiene la distanza dalla vite? Si deve lasciare almeno quattro cubiti vuoti intorno alla vite prima di piantare altri semi. Se la vite è una singola pianta — sei tefachim (palmi) sono sufficienti. Se è una «vigna» (kerem — quattro viti su due file) — si richiedono quattro cubiti. Le halachot 3-8 specificano: la distanza richiesta per diversi tipi di vigneti; il caso in cui il vento porta i semi nella vigna; il caso di erbe selvatiche che crescono nella vigna; le distinzioni tra terra d'Israele (dove la legge si applica biblicamente) e la Diaspora (dove è rabbinicamente proibito)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "cherem", "hekdesh", "kohanim", "erech", "damim", "kilayim", "sha'atnez", "kilayim ha-kerem", "kerem", "asur be-hana'ah"
+  ]
+}

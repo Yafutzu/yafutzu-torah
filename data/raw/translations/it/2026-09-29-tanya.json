@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 9",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ט",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettera 9",
+  "cycle": "tanya",
+  "date": "2026-09-29",
+  "hebrew_date": "18 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אַרְבַּע הַמִּינִים — כֻּלָּם נֶחְשָׁבִים. הָאֶתְרוֹג עִם רֵיחַ וָטַעַם — הוּא הַתַּלְמִיד חָכָם שֶׁיֵּשׁ לוֹ תּוֹרָה וּמַעֲשִׂים טוֹבִים. אֲבָל כָּל אֶחָד — אֲפִלּוּ הָעֲרָבָה בְּלֹא רֵיחַ וּבְלֹא טַעַם — הוּא נֶחְשָׁב לְפָנָיו יִתְבָּרַך.",
+      "it": "Le quattro specie — tutte sono considerate. L'etrog con profumo e sapore — è il talmid chacham che ha Torah e buone opere. Ma ognuna — anche l'aravah senza profumo e senza sapore — è stimata davanti a Lui benedetto."
+    },
+    {
+      "n": 2,
+      "he": "כָּל יִשְׂרָאֵל עֲרֵבִים זֶה לָזֶה — מִצְוָה זוֹ הִיא עִקֶּרֶת הַחֲבָרָה הַיִּשְׂרְאֵלִית. יֵשׁ לְהִתְפַּלֵּל עַל כָּל יִשְׂרָאֵל בְּשָׁוֶה — אֲפִלּוּ עַל מִי שֶׁנִּרְאֶה שֶׁהוּא בְּדַרְגָּה נְמוּכָה. כֹּחַ הָאַחְדוּת עוֹלֶה עַל כֹּל.",
+      "it": "Tutti gli israeliti sono garanti gli uni per gli altri — questo precetto è la base della solidarietà israelitica. Occorre pregare per tutti gli israeliti ugualmente — anche per chi sembra essere a un livello basso. La forza dell'unità supera tutto."
+    }
+  ],
+  "_glossary_terms_used": ["arba minim", "aravah", "etrog", "kol Yisrael arevim", "achdut", "tefillah"]
+}

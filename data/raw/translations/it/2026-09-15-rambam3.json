@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 17-19",
+  "name_he": "משנה תורה, הלכות כלים, פרקים יז-יט",
+  "name_it": "Mishneh Torah, Leggi dei Vasi, capitoli 17-19",
+  "cycle": "rambam-3",
+  "date": "2026-09-15",
+  "hebrew_date": "4 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "17:1", "he": "כְּלִי הַמְחֻבָּר לַקַּרְקַע — אֵינוֹ מְקַבֵּל טֻמְאָה. נִתְלַשׁ מִן הַקַּרְקַע — מְקַבֵּל טֻמְאָה.", "it": "Un vaso attaccato al suolo — non riceve impurità. Se è stato staccato dal suolo — riceve impurità."},
+    {"n": "17:2", "he": "הַחִיבּוּר לַקַּרְקַע — פּוֹטֵר מִן הַטֻּמְאָה. זוֹ גְּזֵרַת הַתּוֹרָה.", "it": "Il collegamento al suolo — esonera dall'impurità. Questo è il decreto della Torah."},
+    {"n": "17:3", "he": "כְּלִי שֶׁחֲצִיוֹ בַּקַּרְקַע — אִם שִׁמּוּשׁוֹ מִחוּץ לַקַּרְקַע — מְקַבֵּל טֻמְאָה. אִם שִׁמּוּשׁוֹ בְּתוֹךְ הַקַּרְקַע — אֵינוֹ מְקַבֵּל.", "it": "Un vaso metà nel suolo — se il suo uso è fuori dal suolo — riceve impurità. Se il suo uso è dentro il suolo — non riceve."},
+    {"n": "18:1", "he": "כֵּלֵי מַתֶּכֶת שֶׁשִּׁמּוּשָׁם הָעִיקָּרִי אֵינוֹ כְּכְּלִי — חֶרֶב, מַפְתֵּחַ, מַחַט — מְקַבְּלִים טֻמְאָה כִּכְלֵי מַתֶּכֶת.", "it": "Gli strumenti di metallo il cui uso principale non è come vaso — spada, chiave, ago — ricevono impurità come i vasi di metallo."},
+    {"n": "18:2", "he": "כָּל כְּלִי מַתֶּכֶת — אַף שֶׁאֵינוֹ מְקַבֵּל — מִטַּמֵּא בְּמַגָּע מֵחֲמַת הַמַּתֶּכֶת.", "it": "Qualsiasi strumento di metallo — anche se non ha un contenitore — si contamina per tocco a causa del metallo."},
+    {"n": "18:3", "he": "כֵּלִים שֶׁנֶּאֱמְרוּ בְּפַרְשַׁת הַמִּלְחָמָה — חֶרֶב, קַשְׁת, אַשְׁפָּה — אֵלּוּ הֵם שֶׁמּוֹנֶה הָרַמְבַּ\"ם.", "it": "I vasi menzionati nel passo della guerra — spada, arco, faretra — questi sono quelli che il Rambam enumera."},
+    {"n": "19:1", "he": "סֵיכּוּם — כֵּלֵי עֵץ: בֵּית קִבּוּל נִדְרָשׁ. כֵּלֵי עוֹר: תִּלּוּי בְּעִבּוּד. כֵּלֵי עֶצֶם: כְּמַתֶּכֶת. כֵּלֵי זְכוּכִית: כְּחֶרֶשׂ. כֵּלֵי מַתֶּכֶת: רְחָבִים. כְּלֵי חֶרֶשׂ: רַק מֵאֲוִיר.", "it": "Sommario — vasi di legno: richiede il contenitore. Vasi di pelle: dipende dalla concia. Vasi di osso: come metallo. Vasi di vetro: come argilla. Vasi di metallo: ampia portata. Vasi di argilla: solo dall'aria."},
+    {"n": "19:2", "he": "הַכְּלָלִים הָאֵלּוּ הֵם הִלְכוֹת כֵּלִים בְּקִצּוּר — כָּל אֶחָד יֵשׁ לוֹ חֹמֶר שׁוֹנֶה שֶׁקּוֹבֵעַ אֶת דִּינוֹ.", "it": "Questi principi sono le Leggi dei Vasi in breve — ognuno ha un materiale diverso che determina la sua legge."},
+    {"n": "19:3", "he": "לִמּוּד הִלְכוֹת טָהֳרָה — שׁוֹמֵר עַל זֵכֶר הַמִּקְדָּשׁ וּמְכִין אֶת הַלֵּב לְגְאֻלָּה שְׁלֵמָה.", "it": "Lo studio delle leggi di purità — preserva il ricordo del Tempio e prepara il cuore alla redenzione completa."}
+  ],
+  "_glossary_terms_used": ["kelim", "kli cheres", "kli metall", "tum'ah", "tahara", "Beit HaMikdash"]
+}

@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chametz UMatzah 4",
+  "name_he": "משנה תורה, הלכות חמץ ומצה, פרק ד",
+  "name_it": "Mishneh Torah, Leggi del Chametz e della Matzah, capitolo 4",
+  "cycle": "rambam-1",
+  "date": "2026-07-10",
+  "hebrew_date": "25 Tammuz 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִי שֶׁמָּצָא חָמֵץ בְּתוֹךְ בֵּיתוֹ בְּפֶסַח — צָרִיךְ לְבַעֵר מִיָּד.",
+      "it": "Chi trova chametz nella propria casa a Pesach — deve eliminarlo immediatamente."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד? אִם מָצָא בְּיוֹם טוֹב — מְכַסֵּהוּ בִּכְלִי עַד לְאַחַר יוֹם טוֹב וְשׂוֹרְפוֹ.",
+      "it": "Come? Se lo trova nello Yom Tov — lo copre con un utensile fino dopo Yom Tov e poi lo brucia."
+    },
+    {
+      "n": 3,
+      "he": "אִם מָצָא בְּחֹל הַמּוֹעֵד — שׂוֹרְפוֹ מִיָּד.",
+      "it": "Se lo trova in Chol HaMoed — lo brucia immediatamente."
+    },
+    {
+      "n": 4,
+      "he": "אִם מָצָא בְּשַׁבָּת — מְכַסֵּהוּ בִּכְלִי וּמְבַטְּלוֹ בְּלִבּוֹ.",
+      "it": "Se lo trova di Shabbat — lo copre con un utensile e lo annulla nel suo cuore."
+    },
+    {
+      "n": 5,
+      "he": "חָמֵץ שֶׁנִּמְצָא בְּיוֹם טוֹב שֵׁנִי — שׂוֹרְפוֹ, שֶׁיּוֹם טוֹב שֵׁנִי קַל מִיּוֹם טוֹב רִאשׁוֹן.",
+      "it": "Il chametz trovato nel secondo giorno di Yom Tov — lo si brucia, poiché il secondo giorno di Yom Tov è meno severo del primo."
+    },
+    {
+      "n": 6,
+      "he": "חָמֵץ שֶׁל גּוֹי שֶׁנֶּאֱמַן עָלָיו — מֻתָּר לְהַשְׁהוֹתוֹ בְּפֶסַח.",
+      "it": "Il chametz di un non ebreo di cui ci si fida — è permesso conservarlo a Pesach."
+    },
+    {
+      "n": 7,
+      "he": "חָמֵץ שֶׁנָּפַל עָלָיו מַפֹּלֶת — בָּטֵל הוּא וְאֵין צָרִיךְ לְבַעֵר.",
+      "it": "Il chametz su cui è caduto un crollo — è annullato e non è necessario eliminarlo."
+    },
+    {
+      "n": 8,
+      "he": "חָמֵץ בְּתוֹךְ הַבּוֹר — אִם אֵין יָכוֹל לְהַגִּיעַ אֵלָיו — בּוֹטֵל בְּלִבּוֹ וְדַיּוֹ.",
+      "it": "Il chametz in fondo a un pozzo — se non si riesce ad arrivarvi — lo annulla nel suo cuore ed è sufficiente."
+    },
+    {
+      "n": 9,
+      "he": "הַמּוֹצֵא גְּרוּגְרוֹת אוֹ צִמּוּקִים שֶׁנִּתְחַמְּצוּ — חַיָּב לְבַעֵר.",
+      "it": "Chi trova fichi secchi o uvetta che sono lievitati — è obbligato ad eliminarli."
+    },
+    {
+      "n": 10,
+      "he": "מִי שֶׁנִּכְנַס לְבֵיתוֹ שֶׁל חֲבֵרוֹ וּמָצָא שָׁם חָמֵץ — חַיָּב לְהוֹדִיעַ לְבַעַל הַבַּיִת.",
+      "it": "Chi entra nella casa del proprio prossimo e trova chametz — è obbligato ad avvertire il padrone di casa."
+    },
+    {
+      "n": 11,
+      "he": "שָׁלִיחַ שֶׁנִּתְמַנָּה לְבַדֵּק — בְּדִיקָתוֹ כִּבְדִיקַת בַּעַל הַבַּיִת.",
+      "it": "Un inviato (shaliach) nominato per controllare — il suo controllo è valido come il controllo del padrone di casa."
+    },
+    {
+      "n": 12,
+      "he": "הַמּוֹכֵר בֵּיתוֹ לְגוֹי קֹדֶם הַפֶּסַח — אֵין צָרִיךְ לְבַדֵּק אִם יָצָא קֹדֶם שְׁלוֹשִׁים יוֹם.",
+      "it": "Chi ha venduto la propria casa a un non ebreo prima di Pesach — non deve controllare se ha lasciato la casa prima di trenta giorni."
+    },
+    {
+      "n": 13,
+      "he": "הַמַּשְׁכִּיר בֵּיתוֹ לְגוֹי — חַיָּב לְבַדֵּק אִם עֲדַיִן בְּרְשׁוּתוֹ.",
+      "it": "Chi ha affittato la propria casa a un non ebreo — è obbligato a controllare se è ancora di sua proprietà."
+    },
+    {
+      "n": 14,
+      "he": "כָּל אֵלּוּ הַדִּינִים נֶאֶמְרוּ לְלַמֵּד שֶׁחָמֵץ בְּפֶסַח הוּא אִסּוּר חָמוּר מְאֹד, וְחַיָּב לְהִתְיַגֵּעַ לְבַעֵר אוֹתוֹ.",
+      "it": "Tutte queste leggi sono state dette per insegnare che il chametz a Pesach è una proibizione molto grave, ed è obbligatorio sforzarsi di eliminarlo."
+    }
+  ],
+  "_glossary_terms_used": ["chametz", "Pesach", "Yom Tov", "Chol HaMoed", "Shabbat", "bitul chametz", "biur chametz", "shaliach", "baal habayit"]
+}

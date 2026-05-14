@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 29",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כט",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 29",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-05",
+  "hebrew_date": "22 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יש שתי חכמות: 'חכמה תתאה' — חכמה של עולם הזה, מדעי הטבע והחברה; ו'חכמה עילאה' — חכמת התורה, שהיא חכמת הבורא. כשאדם לומד תורה — הוא ממש מתאחד עם חכמת ה', כי 'אורייתא וקוב\"ה חד הוא'.",
+      "it": "Vi sono due sapienze: la 'chochmah tata'ah' (sapienza inferiore) — la conoscenza di questo mondo, le scienze naturali e sociali; e la 'chochmah ila'ah' (sapienza superiore) — la sapienza della Torah, che è la sapienza del Creatore. Quando una persona studia Torah, si unisce realmente alla sapienza di D-o, poiché 'la Torah e il Santo Benedetto sono una cosa sola' (Oraita ve-Kudsha Berich Hu chad hu)."
+    },
+    {
+      "n": 2,
+      "he": "לפיכך, לימוד תורה הוא בדרגה גבוהה מן המצוות המעשיות, מן הצד שבמצוות המעשיות — אדם מאחד רצונו עם רצון ה'; ואילו בתורה — מאחד שכלו עם שכל ה'. וייחוד השכל גבוה מייחוד הרצון.",
+      "it": "Pertanto, lo studio della Torah è a un livello più elevato dei precetti pratici, poiché con i precetti pratici si unisce la propria volontà con la volontà di D-o; mentre con la Torah si unisce il proprio intelletto con l'intelletto di D-o. L'unione intellettuale è superiore all'unione volitiva."
+    },
+    {
+      "n": 3,
+      "he": "עם זאת, אין זה אומר שאפשר לוותר על המצוות המעשיות. הרמב\"ם כותב: 'גדולה תלמוד תורה שמביאה לידי מעשה'. כי עיקר התכלית — המעשה. אבל התורה שבה מתאחד השכל עם הבורא — מרוממת את כל מעשה המצוות.",
+      "it": "Tuttavia, ciò non significa che sia possibile rinunciare ai precetti pratici. Il Rambam scrive: 'Grande è lo studio della Torah poiché conduce all'azione'. Poiché lo scopo principale è l'azione. Ma la Torah, attraverso la quale l'intelletto si unisce al Creatore, eleva tutti i precetti pratici."
+    }
+  ],
+  "_glossary_terms_used": ["chochmah tata'ah", "chochmah ila'ah", "Oraita ve-Kudsha Berich Hu chad hu", "deveikut"]
+}

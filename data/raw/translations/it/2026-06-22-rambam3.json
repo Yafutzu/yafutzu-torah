@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bikkurim 3-5",
+  "name_he": "משנה תורה, הלכות בכורים פרקים ג–ה",
+  "name_it": "Mishneh Torah, Leggi delle Primizie, capitoli 3–5",
+  "cycle": "rambam-3",
+  "date": "2026-06-22",
+  "hebrew_date": "7 Tammuz 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "מִי שֶׁיֵּשׁ לוֹ שָׂדֶה אֲרִיסוּת...",
+      "it": "Chi ha un campo in affitto (arisat): l'affittuario porta il bikkurim ma non recita la dichiarazione, poiché la Torah dice 'eretz asher natata li' (la terra che mi hai dato) — e il campo non è proprio suo definitivamente. Il proprietario assenteista non porta il bikkurim poiché non è lui a coltivare la terra. Questa è una delle distinzioni fondamentali tra proprietari e affittuari nelle leggi agricole."
+    },
+    {
+      "n": "3:2-5",
+      "he": "הַקּוֹנֶה אִילָן בְּתוֹךְ שְׂדֵה חֲבֵרוֹ...",
+      "it": "Chi compra un albero nel campo altrui: acquistando solo l'albero (non la terra), porta il bikkurim senza la dichiarazione 'eretz asher natata li'. L'obbligazione del bikkurim richiede sia la proprietà dell'albero che della terra su cui cresce. Questa è la distinzione tra un acquirente di albero e un proprietario completo — solo quest'ultimo fa la dichiarazione piena."
+    },
+    {
+      "n": "3:6-9",
+      "he": "גֵּר שֶׁנִּתְגַּיֵּר מֵבִיא וְאֵינוֹ קוֹרֵא...",
+      "it": "Il convertito (ger) porta i bikkurim ma non recita la dichiarazione 'Arami oved avi' poiché i Patriarchi non sono suoi antenati biologici. Tuttavia il Rambam segue l'opinione che il ger deve portare il bikkurim come tutti gli ebrei, poiché la Torah è stata data anche a chi si unisce al popolo d'Israele. Abraham e Sarah sono 'padre e madre di tutti i convertiti.'"
+    },
+    {
+      "n": "3:10-12",
+      "he": "חֵרֵשׁ שׁוֹטֶה וְקָטָן...",
+      "it": "Il sordomuto, il pazzo e il minore (cheresh, shoteh ve-katan): portano il bikkurim ma non recitano la dichiarazione — poiché non hanno la piena capacità legale (da'at) per eseguire l'atto giuridico della dichiarazione solenne. Qualcuno può recitare la dichiarazione per loro? Il Rambam stabilisce che no — la dichiarazione deve essere recitata dalla persona stessa quando è capace."
+    },
+    {
+      "n": "4:1",
+      "he": "כֵּיצַד מַפְרִישִׁין אֶת הַבִּכּוּרִים...",
+      "it": "Come si separano le primizie in pratica: il coltivatore va nel campo, vede un fico (o altro frutto delle Sette Specie) che sta maturando per la prima volta sulla pianta, e lega intorno ad esso un nastro rosso o uno spago. Questo segna quel frutto come bikkurim già dal momento della maturazione. Non si può 'retrodatare' — la designazione deve avvenire prima del raccolto."
+    },
+    {
+      "n": "4:2-6",
+      "he": "הַמֵּבִיא בִּכּוּרִים אֶחָד לְשִׁשִּׁים...",
+      "it": "La quantità minima di bikkurim: i Saggi non hanno fissato una misura minima dalla Torah, ma hanno stabilito che non si porti meno di un sessantesimo del raccolto come primizie. Chi porta meno di un sessantesimo adempie al precetto dal punto di vista biblico ma non raggiunge lo standard rabbinico. Il Rambam consiglia di essere generosi nell'offerta delle primizie come espressione di gratitudine a Dio."
+    },
+    {
+      "n": "4:7-10",
+      "he": "אֵין מְבִיאִין בִּכּוּרִים קֹדֶם לָעֲצֶרֶת...",
+      "it": "Non si portano le primizie prima di Shavuot (Atzeret): poiché Shavuot è chiamato 'Yom HaBikkurim' (il giorno delle primizie) nella Torah, è il primo giorno in cui si possono portare le primizie. Si può portarle da Shavuot fino a Chanukah (il 25 Kislev). Se si portano dopo Chanukah, l'obbligo è adempiuto ma si perde la gioia del portarle durante il periodo principale."
+    },
+    {
+      "n": "5:1",
+      "he": "כֵּיצַד מַעֲלִין אֶת הַבִּכּוּרִים לִירוּשָׁלַיִם...",
+      "it": "Come si porta il bikkurim a Gerusalemme: le città vicine si organizzano in gruppi (chaburot) che si riuniscono nel capoluogo del distretto. I coltivatori pernottano nella piazza della città, poi all'alba il responsabile (mevi ha-bikkurim) li guida in processione. La processione avanza con bue incoronato davanti, accompagnata dal suono del flauto (chalil), cantando il salmo 'Ebrei salite insieme a Gerusalemme.'"
+    },
+    {
+      "n": "5:2-5",
+      "he": "כְּשֶׁמַּגִּיעִין לְהַר הַבַּיִת...",
+      "it": "Quando la processione arriva al Monte del Tempio: anche il re (melech) si alza in onore della processione se la incontra per strada. I coltivatori cantano: 'Rallegrati con noi nell'abbondanza che Dio ci ha dato.' I colombai del Tempio (yorei hamizbea'ach) vengono ad accogliere la processione. Tutti — nobili e semplici — avanzano con il cesto in testa fino agli atri del Tempio."
+    },
+    {
+      "n": "5:6-9",
+      "he": "כִּשֶּׁהִגִּיעוּ לָעֲזָרָה...",
+      "it": "Quando la processione arriva all'Azarah (cortile del Tempio): i Leviti cantano il Salmo 30: 'Aromercha Hashem ki diletani' (Ti esalterò, o Signore, poiché mi hai tratto in alto). Il coltivatore tiene il cesto sulle proprie spalle, entra nell'Azarah, trova il sacerdote di turno, e procede alla cerimonia della consegna e della dichiarazione. Il rituale delle primizie è una delle più belle espressioni di gratitudine collettiva nella tradizione ebraica."
+    }
+  ],
+  "_glossary_terms_used": ["bikkurim", "Mikra Bikkurim", "ger", "cheresh shoteh ve-katan", "arisat", "Sheva Minim", "Shavuot", "Atzeret", "Yom HaBikkurim", "chalil", "Har HaBayit", "Azarah", "kohen", "levi", "chaburot", "da'at"]
+}

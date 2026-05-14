@@ -1,0 +1,132 @@
+{
+  "ref": "Mishneh Torah, Matnot Aniyim 2-4",
+  "name_he": "הלכות מתנות עניים פרקים ב'-ד'",
+  "name_it": "Leggi dei Doni ai Poveri, Capitoli 2–4",
+  "cycle": "rambam-3",
+  "date": "2026-06-05",
+  "hebrew_date": "20 Sivan 5786",
+  "halachot_count": 27,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "כֵּיצַד מַשְׁהִין פֵּאָה",
+      "it": "La pe'ah (פֵּאָה — angolo del campo) viene lasciata in piedi nell'angolo finale del campo. I Saggi insegnarono che il modo ideale è non raccoglierla ma lasciarla intatta affinché i poveri stessi possano raccoglierla autonomamente, preservando la loro dignità."
+    },
+    {
+      "n": "2:2",
+      "he": "מִי שֶׁאֵינוֹ רוֹצֶה לַעֲזוֹב פֵּאָה",
+      "it": "Se il proprietario del campo si rifiuta di lasciare la pe'ah, il Beit Din (בֵּית דִּין — tribunale rabbinico) la designa dal raccolto già raccolto. La pe'ah non è una donazione volontaria ma un obbligo della Torah la cui osservanza può essere forzata dalla comunità."
+    },
+    {
+      "n": "2:3",
+      "he": "שָׂדֶה שֶׁחָלְקוּהָ שְׁנַיִם",
+      "it": "Se un campo viene diviso tra due coltivatori, ognuno deve lasciare la propria pe'ah separatamente dalla propria porzione. Non si possono combinare le pe'ah dei due in un unico angolo del campo originale."
+    },
+    {
+      "n": "2:4",
+      "he": "שָׂדֶה שֶׁנִּגְמְרָה",
+      "it": "Una volta terminata la raccolta del campo senza lasciare la pe'ah, il proprietario deve separarla dal prodotto raccolto e darla ai poveri. In mancanza di prodotto fisico, si dà il valore equivalente in denaro."
+    },
+    {
+      "n": "2:5",
+      "he": "פֵּאָה מֵאֵימָתַי",
+      "it": "Quando possono i poveri venire a raccogliere la pe'ah? Tre volte al giorno il proprietario deve aprire il campo ai poveri: al mattino presto (shacharit, שַׁחֲרִית), a metà giornata, e al tramonto. Il proprietario non può limitare i tempi di accesso."
+    },
+    {
+      "n": "2:6",
+      "he": "אֵין מוֹנְעִין אֶת הָעֲנִיִּים",
+      "it": "Non si impedisce ai poveri di raccogliere la pe'ah. Chi blocca i poveri dall'accesso al campo o li minaccia viola il principio di 'lo tiktzor' (לֹא תִקְצוֹר — non mietere) dell'angolo, che include anche l'obbligo di renderlo accessibile."
+    },
+    {
+      "n": "3:1",
+      "he": "לֶקֶט",
+      "it": "Il leket (לֶקֶט — spigolatura) è il secondo dei doni per i poveri dall'agricoltura. Consiste nelle singole spighe (shibbolim, שִׁבֳּלִים) che cadono durante la mietitura — non più di due spighe che cadono insieme. Tre spighe cadute insieme non sono leket ma appartengono al proprietario."
+    },
+    {
+      "n": "3:2",
+      "he": "כֵּיצַד הוּא הַלֶּקֶט",
+      "it": "Il leket include solo le spighe cadute durante la mietitura stessa (ketzira, קְצִירָה). Spighe che erano già cadute prima della mietitura, o che il mietitore ha deliberatamente fatto cadere, non sono leket ma appartengono al proprietario."
+    },
+    {
+      "n": "3:3",
+      "he": "מִי שֶׁלִּקֵּט לֶקֶט",
+      "it": "Chi raccoglie il leket per sé stesso — non essendo povero — e poi lo vende o lo dà a un povero, non ha adempiuto correttamente la mitzvah. Il leket deve essere raccolto direttamente dai poveri aventi diritto nel campo stesso."
+    },
+    {
+      "n": "3:4",
+      "he": "הַמַּחֲלִיק אֶת שָׂדֵהוּ",
+      "it": "Chi mieteva in modo irregolare, lasciando zone non mietute all'interno del campo (lo per pe'ah ma per negligenza), deve comunque lasciare la pe'ah nell'angolo finale. Le zone interne non mietute non esentano dall'obbligo della pe'ah finale."
+    },
+    {
+      "n": "3:5",
+      "he": "הַגֶּרֶן שֶׁלּוֹ",
+      "it": "L'obbligo del leket si applica anche al prodotto dell'aia (goren, גּוֹרֶן) — al momento della trebbiatura. Le spighe che cadono durante la trebbiatura (disha, דִּישָׁה) appartengono ai poveri come leket della trebbiatura."
+    },
+    {
+      "n": "3:6",
+      "he": "שִׁכְחָה",
+      "it": "Lo shikhekhah (שִׁכְחָה — covone dimenticato) è il terzo dono ai poveri. Si tratta del covone o del fascio di spighe che il mietitore ha dimenticato di raccogliere nel campo. Una volta che si è allontanato e non ci ha più pensato, quel covone appartiene ai poveri."
+    },
+    {
+      "n": "3:7",
+      "he": "אֵיזֶה הוּא שִׁכְחָה",
+      "it": "Cos'è definito shikhekhah? Solo ciò che il mietitore ha effettivamente dimenticato (shakhach, שָׁכַח). Se il mietitore ha esplicitamente lasciato il covone intendendo tornare, non è shikhekhah. Il fattore determinante è l'intenzione al momento dell'abbandono del campo."
+    },
+    {
+      "n": "3:8",
+      "he": "שְׁנֵי עֳמָרִים סְמוּכִין",
+      "it": "Due covoni vicini sono contesi: se sembrano un unico covone dimenticato, appartengono ai poveri. Se sono chiaramente due covoni separati, ciascuno viene valutato separatamente per determinare se è shikhekhah o no."
+    },
+    {
+      "n": "3:9",
+      "he": "הָעֹמֶר שֶׁשְּׁכָחוֹ פּוֹעֵל",
+      "it": "Se un bracciante (poe'el, פּוֹעֵל) ha dimenticato un covone nel campo del suo datore di lavoro — è shikhekhah del proprietario del campo, non del bracciante. Il bracciante non può 'dimenticare' ciò che non è suo."
+    },
+    {
+      "n": "4:1",
+      "he": "פֵּאָה מֵאֵימָתַי",
+      "it": "La pe'ah dell'albero (pe'at ha-ilan, פֵּאַת הָאִילָן) funziona diversamente dalla pe'ah del campo. Per i frutti degli alberi, si lascia una parte dei frutti nell'albero stesso senza raccoglierla, e i poveri vengono e la raccolgono direttamente dall'albero."
+    },
+    {
+      "n": "4:2",
+      "he": "כַּמָּה פֵּאָה לְאִילָן",
+      "it": "Anche per la pe'ah dell'albero vale il minimo di un sessantesimo. Tuttavia le misure variano secondo la specie: gli alberi di ulivo, fico, uva, melagrana e palma dattilifera hanno ciascuno le proprie tradizioni halachiche sulla pe'ah."
+    },
+    {
+      "n": "4:3",
+      "he": "כֶּרֶם הָעָנִי",
+      "it": "Il 'vigneto del povero' (kerem ha-ani, כֶּרֶם הָעָנִי) è un termine per indicare il vigneto abbandonato che produce spontaneamente frutti accessibili a tutti. I suoi frutti hanno regole particolari per chi li raccoglie."
+    },
+    {
+      "n": "4:4",
+      "he": "אֵין מוֹנְעִין עֶנְיָּה לְנוֹת",
+      "it": "Non si possono escludere specifici poveri dal beneficio della pe'ah. L'obbligo vale per tutti i poveri ebrei (aniyim, עֲנִיִּים) senza discriminazione. I poveri hanno un diritto (zechut, זְכוּת) su questi doni, non solo una grazia."
+    },
+    {
+      "n": "4:5",
+      "he": "עָנִי שֶׁלָּקַט",
+      "it": "Il povero che ha raccolto la pe'ah o il leket del campo non può essere costretto a dividere il raccolto con altri poveri che non erano presenti. La pe'ah raccolta appartiene al povero che l'ha raccolta per primo."
+    },
+    {
+      "n": "4:6",
+      "he": "קְטַנִּים שֶׁל עֲנִיִּים",
+      "it": "I figli minori (ketanim, קְטַנִּים) dei poveri possono raccogliere la pe'ah per conto dei loro genitori. Non possono però raccogliere per sé stessi se i loro genitori sono benestanti, poiché è il bisogno del raccoglitore che determina il diritto."
+    },
+    {
+      "n": "4:7",
+      "he": "עָנִי שֶׁנִּתְעַשֵּׁר",
+      "it": "Il povero che si è arricchito dopo aver raccolto la pe'ah non deve restituirla, poiché al momento della raccolta aveva diritto a essa. Il diritto della pe'ah è determinato dallo stato al momento della raccolta."
+    },
+    {
+      "n": "4:8",
+      "he": "אֵין שַׁמָּאִים",
+      "it": "Non vi sono stime (shamai, שַׁמָּאי) per determinare quanto debba ricevere ogni povero dalla pe'ah. Si lascia che i poveri stessi si organizzino nella raccolta secondo la consuetudine locale, evitando litigi che sminuirebbero la dignità dell'atto."
+    },
+    {
+      "n": "4:9",
+      "he": "חֲבוּרַת עֲנִיִּים",
+      "it": "Se un gruppo di poveri raccoglie insieme la pe'ah, il raccolto viene diviso equamente tra loro. Non si preferisce il più vecchio o il più bisognoso: l'equità (shivyon, שִׁוְיוֹן) nella distribuzione è il principio guida."
+    }
+  ],
+  "_glossary_terms_used": ["pe'ah", "Beit Din", "shacharit", "leket", "shibbolim", "ketzira", "shikhekhah", "goren", "disha", "poe'el", "pe'at ha-ilan", "kerem ha-ani", "aniyim", "zechut", "ketanim", "shivyon"]
+}

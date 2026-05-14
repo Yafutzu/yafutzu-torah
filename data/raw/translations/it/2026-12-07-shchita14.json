@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 14",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק יד",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 14",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-07",
+  "hebrew_date": "28 Kislev 5787 — Chanukah giorno 4",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שׁוֹחֵט שֶׁנִּמְצָא שֶׁהוּא פוֹשֵׁעַ...",
+      "it": "Uno shochet che macella e poi si scopre che era un rasha (malvagio, persona che viola la legge ebraica pubblicamente) al momento della shechitah — la shechitah è retroattivamente invalida. La ragione: la shechitah richiede un agente competente e halachicamente affidabile. Se lo shochet era un mechalel Shabbat be-farhesya (profanatore pubblico dello Shabbat) — anche la carne già venduta potrebbe essere neveilah. Questo caso è halachicamente grave e richiede decisione rabbinica."
+    },
+    {
+      "n": 2,
+      "he": "אֵין מוֹסְרִין בְּשָׂרָם שֶׁל יִשְׂרָאֵל לְטַבָּח שֶׁאֵינוֹ נֶאֱמָן...",
+      "it": "È proibito consegnare la propria carne a un macellaio (tabbach) di cui non ci si fida per la shechitah o la bedikah (esame post-shechitah). Chi compra carne da un macellaio non affidabile viola un divieto rabbinical. La catena di fiducia (ne'emanut) è essenziale: lo shochet deve essere una persona retta, il macellaio deve comprare solo da shochetim affidabili, e il consumatore deve comprare da macellai con supervisione rabbinica (hashgachah)."
+    },
+    {
+      "n": 3,
+      "he": "שְׁלֹשָׁה דְּבָרִים אֲסוּרִין מִן הַתּוֹרָה...",
+      "it": "Tre categorie principali di carne proibita dalla Torah: (1) neveilah — animale che è morto senza shechitah valida o non è morto; (2) treifah — animale con difetto anatomico fatale anche se macellato correttamente; (3) specie non-kosher — animali, uccelli o pesci non-kosher. Ogni categoria ha le proprie conseguenze halachiche distinte: la neveilah è proibita ma può essere data a un non-ebreo; la treifah segue le stesse leggi della neveilah; le specie non-kosher non possono essere date nemmeno a un non-ebreo."
+    },
+    {
+      "n": 4,
+      "he": "הַמּוֹכֵר בְּשַׂר טְרֵפָה כְּכָשֵׁר — עוֹבֵר בְּלֹא תַּעֲשֶׂה...",
+      "it": "Chi vende carne treifah come kosher — viola un divieto biblico di «lifnei iver» (porre un ostacolo davanti al cieco — portare altri a peccare) e di inganno (geneivat daat). La pena: perde la propria credibilità come shochet o venditore di carne. Il beit din (tribunale rabbinico) può sanzionarlo economicamente e vietargli di esercitare. Nota di Chanukah: l'onestà nel commercio (mishkal tzedek — pesi giusti) è parte del kiddush Hashem (santificazione del nome di D-o) che Chanukah celebra."
+    },
+    {
+      "n": 5,
+      "he": "כָּל הַנְּבֵלוֹת וְהַטְּרֵפוֹת — אִסּוּר אֲכִילָה בְּכָל שֶׁהוּא...",
+      "it": "Tutte le neveilot e treifot — la proibizione di mangiarle si applica anche alla più piccola quantità (be-chol shehu). Non esiste un minimo per la proibizione della neveilah, a differenza di altri divieti dove si richiede un minimo (kezayit — oliva). Questo perché la neveilah ha una particolare gravità: contiene «tumah» (impurità) che non appartiene alla carne kosher. Chi mangia anche solo un po' di neveilah viola comunque il divieto biblico."
+    },
+    {
+      "n": 6,
+      "he": "מְסַיֵּם: זֶה הוּא כְּלָל בְּהִלְכוֹת שְׁחִיטָה...",
+      "it": "Conclusione del capitolo: il principio generale della shechitah è che ogni atto di macellazione rituale deve essere eseguito con kavanah (intenzionalità), da una persona competente e religiosa, con un coltello esaminato, seguendo le cinque condizioni fondamentali (shehiyah, derasah, chaladah, hagramah, ikkur) e seguito da un esame (bedikah) degli organi. Chanukah giorno 4 — quattro candele: analogamente alle quattro dimensioni dell'avoda (servizio divino), la shechitah ha quattro pilastri: lo shochet, il coltello, l'atto, e la bedikah."
+    },
+    {
+      "n": 7,
+      "he": "סִיּוּם הַלָּכוֹת שְׁחִיטָה. סִיּוּם סֵפֶר קְדֻשָּׁה.",
+      "it": "Si concludono le Leggi della Macellazione Rituale con l'aiuto del Cielo. Si conclude il Sefer Kedushah (Libro della Santità) con l'aiuto del Cielo. Il Sefer Kedushah comprendeva: Hilchot Issurei Biah (unioni proibite), Hilchot Ma'achalot Asurot (cibi proibiti), e Hilchot Shechitah (macellazione rituale) — tre trattati che definiscono la santità del corpo ebraico nelle sue relazioni, nella sua alimentazione, e nel suo rapporto con la vita e la morte degli animali. Inizia domani il Sefer Hafla'ah (Libro dei Voti e dei Giuramenti)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shochet", "rasha", "mechalel Shabbat be-farhesya", "neveilah", "treifah", "bedikah", "ne'emanut", "hashgachah", "lifnei iver", "geneivat daat", "kiddush Hashem", "kavanah", "shehiyah", "derasah", "chaladah", "hagramah", "ikkur", "kezayit", "tumah", "Sefer Kedushah", "Sefer Hafla'ah"
+  ]
+}

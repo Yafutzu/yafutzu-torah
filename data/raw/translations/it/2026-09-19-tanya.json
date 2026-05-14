@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 9",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ט",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 9",
+  "cycle": "tanya",
+  "date": "2026-09-19",
+  "hebrew_date": "8 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עֲשֶׂרֶת יְמֵי תְשׁוּבָה שֶׁבֵּין רֹאשׁ הַשָּׁנָה לְיוֹם הַכִּפּוּרִים — הֵם יְמֵי רָצוֹן עֶלְיוֹן. דִּרְשׁוּ ה' בְּהִמָּצְאוֹ קְרָאֻהוּ בִּהְיוֹתוֹ קָרוֹב.",
+      "it": "I dieci giorni di teshuvah tra Rosh Hashanah e Yom Kippur sono giorni di suprema benevolenza divina. 'Cercate il Signore mentre si trova, invocatelo mentre è vicino.'"
+    },
+    {
+      "n": 2,
+      "he": "בְּעֵת זוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא מִתְקָרֵב לַבְּרִיּוֹת יוֹתֵר מִכָּל זְמַן אַחֵר בַּשָּׁנָה. וּמִי שֶׁמְּשִׁים לִבּוֹ לָשׁוּב — מֵכִין לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא דֶּרֶךְ.",
+      "it": "In questo periodo il Santo Benedetto si avvicina alle creature più che in qualsiasi altro momento dell'anno. E chi si prepara a tornare — il Santo Benedetto gli prepara la via."
+    },
+    {
+      "n": 3,
+      "he": "לְפִיכָךְ יֵשׁ לְהוֹסִיף בְּתוֹרָה וּבִתְפִלָּה וּבִצְדָקָה בְּיָמִים אֵלּוּ יוֹתֵר מִכָּל הַשָּׁנָה. שֶׁהָאוֹר גָּדוֹל יוֹתֵר וְהַהִתְעוֹרְרוּת לְמַעְלָה יוֹתֵר.",
+      "it": "Perciò occorre aggiungere in Torah, preghiera e tzedakah in questi giorni più che in tutto l'anno, perché la luce è maggiore e il risveglio dall'alto è più intenso."
+    }
+  ],
+  "_glossary_terms_used": ["Aseret Yemei Teshuvah", "Rosh Hashanah", "Yom Kippur", "teshuvah", "ratzon"]
+}

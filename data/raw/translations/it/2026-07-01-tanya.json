@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 26-27",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות כו-כז",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettere 26-27",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-01",
+  "hebrew_date": "16 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אגרת כו: בְּנוֹגֵעַ לְיַחַס שֶׁבֵּין לִמּוּד הַתּוֹרָה וְקִיּוּם הַמִּצְווֹת — \"תַּלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם\", כְּלוֹמַר לִמּוּד הַתּוֹרָה שָׁקוּל כְּנֶגֶד כָּל הַמִּצְווֹת כֻּלָּן.",
+      "it": "Lettera 26: Sul rapporto tra lo studio della Torah e il compimento delle mitzvot — «Talmud Torah ke-neged kulam», ovvero lo studio della Torah è equivalente a tutte le altre mitzvot messe insieme."
+    },
+    {
+      "n": 2,
+      "he": "וְהַטַּעַם — שֶׁהַתּוֹרָה הִיא חָכְמַת ה' וּרְצוֹנוֹ, וְהַמִּתְדַּבֵּק בַּתּוֹרָה מִתְדַּבֵּק בַּה' עַצְמוֹ. לְפִיכָךְ לִמּוּד הַתּוֹרָה הוּא הַדְּרֶגָּה הַגְּבוֹהָה בְּיוֹתֵר בְּעֲבוֹדַת ה'.",
+      "it": "Il motivo — che la Torah è la saggezza di D-o e la Sua volontà, e chi si attacca alla Torah si attacca a D-o stesso. Pertanto lo studio della Torah è il livello più elevato nel servizio divino."
+    },
+    {
+      "n": 3,
+      "he": "אגרת כז: עַל הָעִנְיָן שֶׁל \"אֵין אָדָם מֵשִׂים עַצְמוֹ רָשָׁע\" — בְּמַשְׁמָעוּת חִיּוּבִית. כָּל יְהוּדִי חַיָּב לְהַכִּיר בִּקְדֻשָּׁתוֹ הָעַצְמִית, שֶׁהוּא חֵלֶק אֱלוֹקָה מִמַּעַל מַמָּשׁ.",
+      "it": "Lettera 27: Sul concetto di «ein adam mesim atzmo rasha» (nessuno si rende reo) in senso positivo. Ogni ebreo è obbligato a riconoscere la propria santità essenziale, poiché è una parte letterale di D-o dall'alto."
+    },
+    {
+      "n": 4,
+      "he": "וּמִכָּאן — שֶׁאֵין לָאָדָם לְיָאֵשׁ עַצְמוֹ, שֶׁנִּשְׁמָתוֹ הִיא חֵלֶק אֱלוֹקִי וּקְדֻשָּׁתָהּ אֵינָהּ פּוֹסֶקֶת לְעוֹלָם. וְחָשׁוּב לְגַמֵּר מַה שֶּׁמַּתְחִיל בְּלִמּוּד הַתּוֹרָה.",
+      "it": "E da ciò — che una persona non deve disperare, poiché la sua anima (neshamah) è una parte divina e la sua santità non cessa mai. Ed è importante completare ciò che si inizia nello studio della Torah."
+    }
+  ],
+  "_glossary_terms_used": ["Talmud Torah ke-neged kulam", "mitzvot", "Torah", "ein adam mesim atzmo rasha", "chelek Eloka mima'al mamash", "neshamah", "avodah"]
+}

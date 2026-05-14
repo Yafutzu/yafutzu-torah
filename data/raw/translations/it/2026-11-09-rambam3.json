@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Sechirut 9-11",
+  "name_he": "משנה תורה, הלכות שכירות, פרקים ט-יא",
+  "name_it": "Mishneh Torah, Leggi della Locazione, capitoli 9-11",
+  "cycle": "rambam-3",
+  "date": "2026-11-09",
+  "hebrew_date": "29 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "9:1-4",
+      "he": "שְׁלִיחוּת — שְׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ…",
+      "it": "(Sechirut cap. 9, hal. 1-4) Il principio fondamentale dell'agenzia (shlichut): «Shlucho shel adam ke-moto» (l'agente di una persona è come quella persona stessa). Questo principio, derivato dall'uso del termine «shlichut» nella Torah riguardo ai Leviti (Bemidbar 18:6), permette ad una persona di compiere atti giuridici attraverso un agente — come se li compisse di persona. L'agente può stipulare contratti, compiere acquisizioni (kinyanim), e consegnare documenti legali (shetarot) per conto del mandante. L'agente deve agire entro i limiti del mandato ricevuto."
+    },
+    {
+      "n": "9:5-8",
+      "he": "שָׁלִיחַ שֶׁשִּׁנָּה מִדִּבְרֵי הַמְשַׁלֵּחַ — בָּטְלָה שְׁלִיחוּתוֹ…",
+      "it": "(Sechirut cap. 9, hal. 5-8) L'agente che devia dal mandato: se l'agente agisce oltre il mandato o in modo contrario alle istruzioni del mandante — la sua azione è valida come azione sua personale, ma non vincola il mandante. Esempio: se il mandante dice «acquista per me un campo per 100» e l'agente acquista per 200 — l'acquisto è dell'agente, non del mandante. Il principio «ein shaliach li-dvar aveira» (non vi è agenzia per un atto proibito): se il mandante ordina all'agente di compiere un atto proibito, l'agente non è coperto dall'agenzia — «divrei ha-rav ve-divrei ha-talmid, divrei mi shom'in» (tra le parole del maestro e quelle del discepolo, a chi ubbidire? — al maestro, cioè al Signore)."
+    },
+    {
+      "n": "10:1-4",
+      "he": "הָאֻמָּן הַמְקַבֵּל כֵּלִים לְתַקְּנָם…",
+      "it": "(Sechirut cap. 10, hal. 1-4) L'artigiano (uman) che riceve oggetti per riparazione: il suo status di responsabilità è come quello di un custode retribuito (shomer sachar) — risponde per furto e perdita ma non per ones (forza maggiore). Il principio pratico: poiché l'uman è retribuito per il suo lavoro, deve proteggere l'oggetto durante il tempo in cui è in sua custodia. Se l'oggetto si danneggia durante il lavoro — deve dimostrare che si è trattato di ones per essere esonerato; in caso contrario paga."
+    },
+    {
+      "n": "11:1-4",
+      "he": "הַשּׂוֹכֵר אֶת הַפּוֹעֵל וְחָלָה…",
+      "it": "(Sechirut cap. 11, hal. 1-4) Il lavoratore che si ammala durante il contratto: il datore di lavoro non è obbligato a pagare per i giorni di malattia a meno che non sia stato esplicitamente concordato. Se il lavoratore è un kablan (appaltatore a risultato) — la malattia non lo libera dall'obbligo di consegnare il lavoro: se non consegna, è inadempiente. Se è un po'el (dipendente a ore) — la malattia interrompe l'obbligo di entrambe le parti: né il datore paga né il lavoratore deve lavorare. Le clausole del contratto prevalgono sulle norme di default della halakhah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shlichut", "shaliach", "kinyanim", "shetarot", "ein shaliach li-dvar aveira", "uman", "shomer sachar", "ones", "kablan", "po'el"
+  ]
+}

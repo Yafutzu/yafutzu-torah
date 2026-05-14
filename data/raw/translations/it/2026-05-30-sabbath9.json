@@ -1,0 +1,124 @@
+{
+  "ref": "Mishneh Torah, Sabbath 9",
+  "name_he": "משנה תורה, הלכות שבת, פרק ט",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 9",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-30",
+  "hebrew_date": "14 Sivan 5786",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מֵאֵימָתַי הוּא תְּחִלַּת חֲשֵׁכָה בְּמוֹצָאֵי שַׁבָּת…",
+      "it": "Da quando inizia il buio (cheshkhah) al termine dello Shabbat? Dal momento in cui compaiono tre stelle di media grandezza (shloshah kokhavim beinoniyim). Questo è il momento in cui Shabbat si conclude e Yom Tov/Chol inizia. Prima di quel momento — è ancora Shabbat o Yom Tov e sono proibite tutte le melachot."
+    },
+    {
+      "n": 2,
+      "he": "בֵּין הַשְּׁמָשׁוֹת — הוּא הַזְּמַן הַסָּפֵק…",
+      "it": "Il crepuscolo (bein hashmashot) — è il momento di dubbio tra la fine del giorno e l'inizio della notte. I Saggi hanno detto: il bein hashmashot è lo spazio di tempo dal tramonto del sole fino all'apparizione delle stelle. Questo tempo è dubbioso — forse è ancora giorno, forse è già notte. Di conseguenza: di bein hashmashot è proibito fare melachot di Shabbat per questo dubbio, e i rabbini lo trattano come Shabbat."
+    },
+    {
+      "n": 3,
+      "he": "הַמְּחַלֵּל שַׁבָּת בְּבֵין הַשְּׁמָשׁוֹת — פָּטוּר…",
+      "it": "Chi profana lo Shabbat durante il bein hashmashot — è esente biblicamente [poiché è tempo dubbioso], ma è proibito rabbinicamente. Se si è verificata la violazione di bein hashmashot del venerdì sera (cominciando a cuocere) — il cibo è permesso dopo Shabbat."
+    },
+    {
+      "n": 4,
+      "he": "מֻתָּר לְהוֹסִיף מִן הַחֹל עַל הַקֹּדֶשׁ בְּכָל אֶחָד מֵהֵן…",
+      "it": "È permesso e anzi mitzva aggiungere del profano al sacro — cioè iniziare lo Shabbat (o Yom Tov) un po' prima del tramonto, e terminarlo un po' dopo le stelle. Questo «aggiungere» (tosefet Shabbat) si fa accettando le limitazioni dello Shabbat verbalmente (kabbalat Shabbat). Le donne che accendono le candele accettano lo Shabbat con l'accensione stessa."
+    },
+    {
+      "n": 5,
+      "he": "כֵּיצַד מַקְדִּישִׁין הַיּוֹם — אוֹמֵר קִדּוּשׁ עַל הַיַּיִן…",
+      "it": "Come si santifica il giorno (kiddush)? Si recita il kiddush sul vino: prima la benedizione del vino («Borei peri ha-gafen») e poi la benedizione della santificazione del giorno («Asher kideshanu...»). Il kiddush del venerdì sera include anche la sezione della Creazione («Vayehi erev vayehi voker»). Il kiddush si recita nella preghiera (Ma'ariv) e poi di nuovo sulla tavola sul vino."
+    },
+    {
+      "n": 6,
+      "he": "מִצְוַת הַקִּדּוּשׁ — בַּמָּקוֹם שֶׁהוּא סוֹעֵד…",
+      "it": "La mitzva del kiddush — deve essere recitata nel luogo dove si mangia (makom seudah). Non si recita il kiddush in una stanza e poi si mangia in un'altra. Il kiddush deve essere immediatamente seguito dal pasto (samukh la-seudah). Chi ha recitato il kiddush e non ha mangiato — deve recitarlo di nuovo prima del pasto."
+    },
+    {
+      "n": 7,
+      "he": "הַנָּשִׁים חַיָּבוֹת בְּקִדּוּשׁ מִן הַתּוֹרָה…",
+      "it": "Le donne sono obbligate nel kiddush dalla Torah — poiché la Torah dice «Ricorda» e anche le donne devono «ricordare» il giorno dello Shabbat. Le donne sono obbligate anche nella havdalah al termine di Shabbat. I bambini che hanno raggiunto l'età dell'educazione religiosa (chinukh) devono essere abituati al kiddush."
+    },
+    {
+      "n": 8,
+      "he": "קִדּוּשׁ עַל הַפַּת — כָּשֵׁר…",
+      "it": "Il kiddush sul pane — è valido. Se non si ha vino — si può fare il kiddush direttamente sul pane (lechem). In tal caso si pronuncia la benedizione «HaMotzi lechem min ha-aretz» e poi si santifica il giorno. Ma il vino è preferito sul pane per il kiddush."
+    },
+    {
+      "n": 9,
+      "he": "חֵרֵשׁ שׁוֹטֶה וְקָטָן — אֵינָן מוֹצִיאִין אֶת הָרַבִּים יְדֵי חוֹבָתָם בְּקִדּוּשׁ…",
+      "it": "Un sordomuto, uno sciocco e un minore — non possono adempiere l'obbligo del kiddush per la moltitudine, poiché non sono pienamente obbligati essi stessi. Un minore che ha capito abbastanza il significato del kiddush — può adempiere l'obbligo per se stesso. L'obbligo del kiddush per la moglie e i figli dipende dal capofamiglia, che lo recita per tutti."
+    },
+    {
+      "n": 10,
+      "he": "הַמַּבְדִּיל — מַבְדִּיל עַל הַיַּיִן…",
+      "it": "Chi fa la havdalah — la fa sul vino. La havdalah include: (1) la benedizione del vino; (2) la benedizione degli aromi (besamim — spezie profumate); (3) la benedizione sulla luce della fiamma (borei me'orei ha-esh); (4) la benedizione della havdalah stessa. Le spezie si annusano per confortare l'anima che perde la «neshama yeterah» (l'anima aggiuntiva dello Shabbat). La fiamma si usa perché il fuoco fu creato al termine del primo Shabbat (quando Adamo sfregò due pietre)."
+    },
+    {
+      "n": 11,
+      "he": "אֵין מַבְדִּילִין אֶלָּא עַל כּוֹס שֶׁלֵּם…",
+      "it": "La havdalah si fa solo su un calice pieno (kos shalem). Il calice non deve avere crepe né difetti. La quantità di vino deve essere almeno un revi'it [circa 86 ml]. Si beve la maggior parte del calice dopo la havdalah. Chi non ha vino — può fare la havdalah su bevande importanti del luogo (chamar medinah — «il vino del paese», ad es. birra o idromele secondo alcune opinioni)."
+    },
+    {
+      "n": 12,
+      "he": "הַמַּבְדִּיל בְּתְפִלָּה — צָרִיךְ לְהַבְדִּיל עַל הַכּוֹס…",
+      "it": "Chi ha fatto la havdalah nella preghiera (nel quarto brachah dell'Amidah) — deve comunque fare la havdalah sul calice di vino. Le due havdalot non si escludono: quella nella preghiera è un obbligo che deriva dalla Torah (secondo alcune opinioni); quella sul calice è un obbligo rabbinico. Chi ha dimenticato la havdalah nella preghiera — la dice nel giorno successivo [fino a un certo punto]."
+    },
+    {
+      "n": 13,
+      "he": "אֵין קִדּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה…",
+      "it": "Il kiddush si fa solo nel luogo dove si mangia (makom seudah). Se si è fatto il kiddush fuori dalla sinagoga — si deve mangiare lì immediatamente. Il kiddush fatto in sinagoga è un'istituzione rabbinica per i viaggiatori che dormivano nella sinagoga stessa (ai tempi del Talmud); oggi che non si dorme in sinagoga — vi è discussione se sia ancora necessario."
+    },
+    {
+      "n": 14,
+      "he": "הָיָה בַּמִּדְבָּר אוֹ בִּמְקוֹם שֶׁאֵין לוֹ יַיִן…",
+      "it": "Chi era nel deserto o in un posto senza vino — fa il kiddush sul pane (challah). L'obbligo del kiddush non dipende dall'avere vino — si adempie anche sul pane. Ma il vino è preferito, e se vino è disponibile anche a costo — è preferibile cercarlo per il kiddush."
+    },
+    {
+      "n": 15,
+      "he": "שָׁכַח וְלֹא קִדֵּשׁ בַּלַּיְלָה — מְקַדֵּשׁ בַּיּוֹם…",
+      "it": "Chi ha dimenticato e non ha fatto il kiddush di notte — fa il kiddush di mattina, finché non è mezzogiorno. Chi ha dimenticato anche di mattina — secondo alcune opinioni lo fa anche nel pomeriggio di Shabbat, prima di mezzogiorno. Dopo questo momento — l'obbligo del kiddush del venerdì sera non può più essere recuperato."
+    },
+    {
+      "n": 16,
+      "he": "הַכּוֹס שֶׁל קִדּוּשׁ — חַיָּב לְשַׁמְּרוֹ בְּיָדוֹ…",
+      "it": "Il calice del kiddush — si tiene in mano durante la recitazione. Non lo si appoggia a terra né su un tavolo durante il kiddush (secondo la pratica della maggioranza). Si tiene nella mano destra (a meno che sia mancino) elevato a una distanza di tre tefachim dalla tavola. Gli occhi si alzano al calice durante il kiddush."
+    },
+    {
+      "n": 17,
+      "he": "מֵי מֶלַח שֶׁחֶלֶק גָּדוֹל מֵהֶם מֶלַח — אֲסוּרִין בְּשַׁבָּת…",
+      "it": "Acqua salata in cui la parte maggiore è sale — è proibita di Shabbat [poiché sembra che si stia preparando salamoia per conservare il cibo]. Se la parte maggiore è acqua — è permessa. Il principio: qualsiasi preparazione che ha l'aspetto di una preparazione commerciale è proibita di Shabbat per decreto («uvdin de-chol — azioni ordinarie dei giorni feriali»)."
+    },
+    {
+      "n": 18,
+      "he": "כּוֹתֵב בְּשַׁבָּת…",
+      "it": "Chi scrive di Shabbat — la misura minima è due lettere. Anche se ha scritto una lettera grande che occupa l'intero campo visivo — è esente, poiché la Torah prescrive «due lettere». Chi ha scritto una lettera grande che ha la misura di due lettere — è obbligato. Chi ha scritto con la mano sinistra se è destrorso (o con la destra se è mancino) — è esente biblicamente ma proibito rabbinicamente."
+    },
+    {
+      "n": 19,
+      "he": "הַמּוֹחֵק עַל מְנַת לִכְתֹּב — חַיָּב…",
+      "it": "Chi cancella con intenzione di scrivere — è obbligato per il cancellare, e poi è obbligato anche per il scrivere se scrive. Ma se cancella senza intenzione di scrivere — è esente. Chi sfrega la mano su della scrittura e la cancella involontariamente — è esente."
+    },
+    {
+      "n": 20,
+      "he": "הַקּוֹרֵעַ כּוֹתֶבֶת עַל גַּב הַבְּגָד — חַיָּב…",
+      "it": "Chi strappa [un pezzo di cuoio] per scrivere su di esso con intenzione di usarlo per la scrittura — è obbligato per il strappare («koreia al menat likhov»). Chi brucia l'estremità di un bastone per aguzzarlo come penna — è obbligato per il «makke be-fatish» (completamento di un utensile)."
+    },
+    {
+      "n": 21,
+      "he": "הַמְּסַפֵּר — חַיָּב מִשּׁוּם גּוֹזֵז…",
+      "it": "Chi taglia capelli (mesapper) — è obbligato per la categoria del «tosare». La misura minima è la quantità che cambia visibilmente l'aspetto (ke-grogeret). Chi depila le sopracciglia o l'ascella — è obbligato. Una donna che si rimuove capelli grigi (per estetismo) — è obbligata per il tosare."
+    },
+    {
+      "n": 22,
+      "he": "הַמּוֹלֵל מְלִילוֹת בְּשַׁבָּת — חַיָּב מִשּׁוּם דָּשׁ…",
+      "it": "Chi sfrega spighe di grano (molel melilot) di Shabbat — è obbligato per la categoria del «trebbiare», poiché ha separato i chicchi dalla spiga con il palmo. Chi soffia con la bocca sui chicchi sfregati per rimuovere la pula — è obbligato per la categoria del «vagliare». Questo insegnamento si applica anche nel campo: sfregare spighe di grano appena colte tra le mani è vietato biblicamente di Shabbat."
+    }
+  ],
+  "_glossary_terms_used": [
+    "bein hashmashot", "kiddush", "havdalah", "tosefet Shabbat", "makom seudah", "chamar medinah", "kos shalem", "neshama yeterah", "besamim", "uvdin de-chol", "makke be-fatish", "lechem", "HaMotzi"
+  ]
+}

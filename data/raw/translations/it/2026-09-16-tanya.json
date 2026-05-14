@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 6",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ו",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 6",
+  "cycle": "tanya",
+  "date": "2026-09-16",
+  "hebrew_date": "5 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה עִנְיַן הַוִּדּוּי שֶׁמִּצְוָתוֹ בַּפֶּה — לְפִי שֶׁהַדִּבּוּר הוּא כֹּחַ נִפְרָד מֵהַמַּחֲשָׁבָה, וְצָרִיךְ לְהַמְשִׁיךְ הַתְּשׁוּבָה גַּם לְכֹחַ הַדִּבּוּר.",
+      "it": "Il concetto della confessione (vidui) che per precetto deve essere pronunciata con la bocca è dovuto al fatto che la parola è una facoltà separata dal pensiero, ed è necessario estendere la teshuvah anche alla facoltà del parlare."
+    },
+    {
+      "n": 2,
+      "he": "אַף שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא יוֹדֵעַ כָּל נִסְתָּרוֹת, מִכָּל מָקוֹם הַוִּדּוּי בַּפֶּה מְבָרֵר וּמְחַזֵּק אֶת הַחֲרָטָה שֶׁבַּלֵּב, וְהַדִּבּוּר יֵשׁ בּוֹ כֹּחַ לְחַיֵּב אֶת הָאָדָם וּלְזַכּוֹתוֹ.",
+      "it": "Benché il Santo Benedetto conosca tutti i segreti, la confessione verbale chiarisce e rafforza il pentimento del cuore; alla parola è insita la forza di rendere colpevole o innocente l'uomo."
+    },
+    {
+      "n": 3,
+      "he": "וְנֻסַּח הַוִּדּוּי הוּא: 'אֲבָל אֲנַחְנוּ חָטָאנוּ', וּמוֹנֶה חֶטְאָיו אֶחָד אֶחָד בְּשֵׁם, וְאוֹמֵר: 'יְהִי רָצוֹן שֶׁלֹּא אֶחֱטָא עוֹד.' הַדִּבּוּר קוֹנֶה לָאָדָם עוֹלָמוֹ.",
+      "it": "La formula della confessione è: 'Ma noi abbiamo peccato', e si elencano i propri peccati uno ad uno per nome, e si dice: 'Possa essere Tua volontà che io non pecchi più.' La parola acquisisce all'uomo il suo mondo."
+    }
+  ],
+  "_glossary_terms_used": ["vidui", "teshuvah", "charatah", "lev", "dibur"]
+}

@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 17-18",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרקים יז-יח",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitoli 17-18",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-26",
+  "hebrew_date": "12 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פרק יז: אַהֲבַת ה' הַטִּבְעִית שֶׁבְּנֶפֶשׁ כָּל יְהוּדִי — הִיא כְּשַׁלְהֶבֶת הָעוֹלָה תָּמִיד לְמַעְלָה. אֲפִלּוּ כְּשֶׁמְּכֻסָּה בְּתַאֲווֹת גַּשְׁמִיּוֹת — אֵינֶנָּה מֵתָה.",
+      "it": "Capitolo 17: L'amore naturale di Dio nell'anima di ogni ebreo è come una fiamma che sale sempre verso l'alto. Anche quando è ricoperta di desideri materiali — non muore mai."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד מְגַלִּין אוֹתָהּ? עַל יְדֵי הַהִתְבּוֹנְנוּת — שֶׁיִּפְנֶה לִבּוֹ אֵלֶיהָ, כִּי שָׁם הִיא תָּמִיד.",
+      "it": "Come la si rivela? Attraverso la contemplazione (hitbonenut) — rivolgendo il cuore verso di essa, poiché essa è lì sempre."
+    },
+    {
+      "n": 3,
+      "he": "פרק יח: 'בְּכָל נַפְשְׁךָ' — אֲפִלּוּ נוֹטֵל אֶת נַפְשְׁךָ. זֶהוּ עִנְיַן מְסִירַת נֶפֶשׁ, שֶׁהִיא כֹּחַ שֶׁנִּמְצָא בְּכָל יְהוּדִי.",
+      "it": "Capitolo 18: 'Con tutta la tua anima' (be-chol nafshecha, Deuteronomio 6:5) — anche se Egli prende la tua anima. Questo è il concetto della mesirat nefesh (auto-sacrificio totale), un potenziale che si trova in ogni ebreo."
+    },
+    {
+      "n": 4,
+      "he": "מְסִירַת נֶפֶשׁ זוֹ — כֹּחַ שֶׁל נֶפֶשׁ הָאֱלֹקִית שֶׁבּוֹ. וְכֹחַ זֶה מְשַׁנֶּה אֶת הַמִּצְווֹת הַיּוֹמְיּוֹמִיּוֹת — הֵן נַעֲשׂוֹת בַּעֲלוֹת אֵין סוֹפִי.",
+      "it": "Questa mesirat nefesh è la forza dell'anima divina (nefesh ha-Elokit) che è in lui. E questa forza trasforma le mitzvot quotidiane — esse diventano atti di valore infinito."
+    }
+  ],
+  "_glossary_terms_used": ["ahavah", "hitbonenut", "be-chol nafshecha", "mesirat nefesh", "nefesh ha-Elokit"]
+}

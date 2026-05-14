@@ -1,0 +1,127 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 7",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב, פרק ז",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 7",
+  "cycle": "rambam-1",
+  "date": "2026-07-05",
+  "hebrew_date": "20 Tammuz 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אָסוּר לִשְׁקֹל בְּיוֹם טוֹב, אֲפִלּוּ לְצֹרֶךְ אֹכֶל נֶפֶשׁ.",
+      "it": "È proibito pesare nello Yom Tov, anche per bisogno di cibo."
+    },
+    {
+      "n": 2,
+      "he": "אָסוּר לָמוֹד בְּיוֹם טוֹב, אֲפִלּוּ לְצֹרֶךְ אֹכֶל נֶפֶשׁ, גְּזֵרַת חֲכָמִים.",
+      "it": "È proibito misurare nello Yom Tov, anche per bisogno di cibo, per decreto dei Saggi."
+    },
+    {
+      "n": 3,
+      "he": "אָסוּר לִמְכֹּר בְּיוֹם טוֹב אֲפִלּוּ אוֹכָלִין. כֵּיצַד? לֹא יֹאמַר אָדָם לַחֲבֵרוֹ: תֵּן לִי בְּדִינָר אֹכֶל.",
+      "it": "È proibito vendere nello Yom Tov, anche cibo. Come? Una persona non deve dire al proprio prossimo: «Dammi cibo per un dinar»."
+    },
+    {
+      "n": 4,
+      "he": "אֲבָל מַשְׁאִיל אָדָם לַחֲבֵרוֹ וְנוֹתֵן לוֹ בְּמַתָּנָה, וּבִלְבַד שֶׁלֹּא יַזְכִּיר לוֹ שֵׁם דָּמִים.",
+      "it": "Però si può prestare al proprio prossimo o dargli in dono, a condizione che non si menzioni il prezzo."
+    },
+    {
+      "n": 5,
+      "he": "אָסוּר לִלְווֹת בְּיוֹם טוֹב בְּרִבִּית אוֹ בְּלֹא רִבִּית.",
+      "it": "È proibito prendere in prestito nello Yom Tov, sia con interesse sia senza interesse."
+    },
+    {
+      "n": 6,
+      "he": "מֻתָּר לִשְׁאֹל מֵחֲבֵרוֹ כְּלִי אוֹ אֹכֶל שֶׁיְּשַׁלֵּם לוֹ אַחַר יוֹם טוֹב.",
+      "it": "È permesso chiedere in prestito a un prossimo un utensile o del cibo che si restituirà dopo Yom Tov."
+    },
+    {
+      "n": 7,
+      "he": "אָסוּר לַעֲשׂוֹת חֶשְׁבּוֹנוֹת בְּיוֹם טוֹב, שֶׁזֶּה דֶּרֶךְ חֹל.",
+      "it": "È proibito fare calcoli contabili nello Yom Tov, poiché questo è il modo dei giorni feriali."
+    },
+    {
+      "n": 8,
+      "he": "אָסוּר לְדוּן דִּינֵי מָמוֹנוֹת בְּיוֹם טוֹב.",
+      "it": "È proibito giudicare cause civili (dinei mamonot) nello Yom Tov."
+    },
+    {
+      "n": 9,
+      "he": "מֻתָּר לְשַׁקֵּל בְּיוֹם טוֹב בְּשִׁנּוּי — לֹא בְּמֹאזְנַיִם אֶלָּא בְּגוּפוֹ, לְצֹרֶךְ גָּדוֹל.",
+      "it": "È permesso pesare nello Yom Tov con una variazione rispetto al solito — non con una bilancia, ma con il corpo, in caso di grande necessità."
+    },
+    {
+      "n": 10,
+      "he": "אָסוּר לִכְתֹּב בְּיוֹם טוֹב אֲפִלּוּ דְּבָרִים שֶׁל צֹרֶךְ יוֹם טוֹב.",
+      "it": "È proibito scrivere nello Yom Tov, anche cose necessarie per Yom Tov."
+    },
+    {
+      "n": 11,
+      "he": "אָסוּר לִשְׁלֹחַ דּוֹרוֹן לַחֲבֵרוֹ בְּיוֹם טוֹב דֶּרֶךְ מַשָּׂא.",
+      "it": "È proibito inviare doni al proprio prossimo nello Yom Tov in modo commerciale."
+    },
+    {
+      "n": 12,
+      "he": "אֲבָל מַשְׁלַח אָדָם לַחֲבֵרוֹ כֵּלִים בְּיַד עַצְמוֹ לְצֹרֶךְ שִׂמְחַת יוֹם טוֹב.",
+      "it": "Però si possono inviare utensili al proprio prossimo di persona per la gioia dello Yom Tov."
+    },
+    {
+      "n": 13,
+      "he": "הַמּוֹכֵר בְּסִתְרָא בְּיוֹם טוֹב — קְנָסוֹ חֲכָמִים שֶׁלֹּא יִמְכֹּר לָעוֹלָם.",
+      "it": "Chi vende di nascosto nello Yom Tov — i Saggi lo hanno penalizzato vietandogli di vendere per sempre."
+    },
+    {
+      "n": 14,
+      "he": "מֻתָּר לַחֲלֹק בְּיוֹם טוֹב דְּבָרִים שֶׁיֵּשׁ בָּהֶם צֹרֶךְ לַאֲכִילָה.",
+      "it": "È permesso distribuire nello Yom Tov cose necessarie per il mangiare."
+    },
+    {
+      "n": 15,
+      "he": "אָסוּר לָלוּן בִּפְנִים בְּיוֹם טוֹב כְּדֶרֶךְ שֶׁלּוֹנִין בְּחֹל.",
+      "it": "È proibito dormire all'interno (del negozio/magazzino) nello Yom Tov come si fa nei giorni feriali."
+    },
+    {
+      "n": 16,
+      "he": "הַנּוֹשֵׂא וְנוֹתֵן בְּיוֹם טוֹב בְּמַשָּׂא וּמַתָּן — עוֹבֵר בְּלֹא תַּעֲשֶׂה.",
+      "it": "Chi commercia nello Yom Tov in modo commerciale — viola un divieto (lo ta'aseh)."
+    },
+    {
+      "n": 17,
+      "he": "מֻתָּר לְהַשְׁאִיל כֵּלִים בְּיוֹם טוֹב לְצֹרֶךְ יוֹם טוֹב בְּלֹא הַזְכָּרַת דָּמִים.",
+      "it": "È permesso prestare utensili nello Yom Tov per bisogno dello Yom Tov senza menzionare il prezzo."
+    },
+    {
+      "n": 18,
+      "he": "מֻתָּר לְחַלֵּל שֵׁנִי יוֹם טוֹב לְצֹרֶךְ חוֹלֶה שֶׁיֵּשׁ בּוֹ סַכָּנָה.",
+      "it": "È permesso profanare il secondo giorno di Yom Tov per bisogno di un malato in pericolo di vita."
+    },
+    {
+      "n": 19,
+      "he": "הָאוֹמֵר לַחֲבֵרוֹ \"הַלְוֵנִי\" — מֻתָּר אִם אֵין הַזְכָּרַת דָּמִים.",
+      "it": "Chi dice al proprio prossimo «prestami» — è permesso se non si menziona il prezzo."
+    },
+    {
+      "n": 20,
+      "he": "כְּלָלוֹ שֶׁל דָּבָר: כָּל שֶׁדּוֹמֶה לְמַשָּׂא וּמַתָּן — אָסוּר. כָּל שֶׁדּוֹמֶה לְהַנָּאַת יוֹם טוֹב — מֻתָּר.",
+      "it": "La regola generale: tutto ciò che assomiglia al commercio — è proibito. Tutto ciò che assomiglia al godimento dello Yom Tov — è permesso."
+    },
+    {
+      "n": 21,
+      "he": "מֻתָּר לְהַשְׁאִיל בְּיוֹם טוֹב אֹכֶל לַחֲבֵרוֹ הַצָּרִיךְ לוֹ לִסְעוּדַת יוֹם טוֹב.",
+      "it": "È permesso prestare cibo al proprio prossimo nello Yom Tov quando ne ha bisogno per il pasto di Yom Tov."
+    },
+    {
+      "n": 22,
+      "he": "אָסוּר לַעֲרוֹךְ שְׁטָרוֹת בְּיוֹם טוֹב.",
+      "it": "È proibito redigere documenti contrattuali (shtarot) nello Yom Tov."
+    },
+    {
+      "n": 23,
+      "he": "כָּל אֵלּוּ הָאִסּוּרִים נֶאֶמְרוּ מִדִּבְרֵי חֲכָמִים כְּדֵי שֶׁיְּהֵא יוֹם טוֹב כְּיוֹם מְנוּחָה וְשִׂמְחָה וְלֹא כְּיוֹם חֹל.",
+      "it": "Tutte queste proibizioni sono state istituite dai Saggi affinché lo Yom Tov sia un giorno di riposo e gioia e non come un giorno feriale."
+    }
+  ],
+  "_glossary_terms_used": ["ochel nefesh", "Yom Tov", "dinei mamonot", "shevut", "lo ta'aseh", "masa u-matan", "shtarot"]
+}

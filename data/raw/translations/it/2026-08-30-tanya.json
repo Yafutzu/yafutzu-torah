@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 1",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק א",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah (Il Portale dell'Unità e della Fede), capitolo 1",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-30",
+  "hebrew_date": "17 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "בחלק ב' של התניא — שער היחוד והאמונה — עוסק האדמו\"ר הזקן בביאור תורת הבעש\"ט הקדוש, שכל אות ואות של התורה היא 'צינור' של חיות אלוקית המחיה את כל הנבראים.",
+      "it": "Nella Parte II della Tanya — Sha'ar HaYichud VeHaEmunah — l'Admur haZaken si occupa di spiegare l'insegnamento del Baal Shem Tov (il Besht) che ogni lettera della Torah è un 'canale' (tzinnor) di vitalità Divina che anima tutte le creature."
+    },
+    {
+      "n": 2,
+      "he": "'בראשית ברא אלוקים' — פירושו שהדיבור האלוקי ממש הוא המקיים ומחיה את כל הבריאה ברגע זה ממש. אילו נעצר הדיבור האלוקי — הייתה כל הבריאה חוזרת לאפס ולאין.",
+      "it": "'Bereshit bara Elokim' (In principio D-o creò) — il significato è che la parola Divina stessa è ciò che sostiene e anima tutta la creazione in questo preciso momento. Se la parola Divina si fermasse — tutta la creazione tornerebbe al nulla e al non-essere."
+    },
+    {
+      "n": 3,
+      "he": "אין הבריאה — 'אירוע' שאירע פעם אחת בעבר. הבריאה היא 'תהליך' מתמשך בכל רגע ורגע. ה' בורא את העולם כל רגע מחדש. וזוהי הכוונה של 'המחדש בטובו בכל יום תמיד מעשה בראשית'.",
+      "it": "La creazione non è un 'evento' avvenuto una sola volta nel passato. La creazione è un 'processo' continuo in ogni singolo momento. D-o crea il mondo ogni momento di nuovo. Questo è il significato di 'HaMechadesh be-tuvo be-khol yom tamid ma'aseh bereshit' (Che rinnova nella Sua bontà ogni giorno sempre l'opera della creazione) — recitato ogni mattina nella preghiera."
+    }
+  ],
+  "_glossary_terms_used": ["Sha'ar HaYichud VeHaEmunah", "Admur haZaken", "Baal Shem Tov", "tzinnor", "HaMechadesh be-tuvo be-khol yom tamid ma'aseh bereshit"]
+}

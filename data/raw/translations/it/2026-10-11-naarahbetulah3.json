@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Na'arah Betulah 3",
+  "name_he": "משנה תורה, הלכות נערה בתולה, פרק ג",
+  "name_it": "Mishneh Torah, Leggi della Ragazza Vergine, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-11",
+  "hebrew_date": "30 Tishrei 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַבָּא עַל הַגְּדוֹלָה — פָּטוּר מִן הַקְּנָס…",
+      "it": "Chi ha rapporti con una bogeret (donna adulta oltre i 12½ anni) — è esente dal kenas fisso, poiché la Torah specifica «na'arah» (ragazza nel periodo di na'arut). È comunque obbligato per boshet (vergogna) e pegam (danno alla reputazione), e in caso di violenza anche per tutti gli altri elementi del danno (neizkah). La distinzione tra kenas (multa fissa) e neizkah (risarcimento danni) è fondamentale: il kenas cessa a 12½ anni, ma il risarcimento per danni rimane sempre."
+    },
+    {
+      "n": 2,
+      "he": "הַבָּא עַל הַקְּטַנָּה — פָּטוּר מִן הַקְּנָס…",
+      "it": "Chi ha rapporti con una ketanah (minore sotto i 12 anni) — è anch'esso esente dal kenas specifico della Torah, che riguarda solo la na'arah. È comunque responsabile verso il padre per i danni causati. La ketanah che subisce violenza — il danno fisico e morale è risarcibile come qualsiasi altro danno alla persona, attraverso le categorie generali del diritto dei danni (nezikin)."
+    },
+    {
+      "n": 3,
+      "he": "הַיְּתוֹמָה שֶׁנִּבְעֲלָה — הַקְּנָס שֶׁלָּהּ…",
+      "it": "L'orfana (yetomah) che è stata violentata o sedotta — il kenas appartiene a lei stessa, poiché non ha padre al quale esso andrebbe normalmente. Similmente la boshet e il pegam vanno a lei. Il beit din agisce come tutore della yetomah e sovrintende alla riscossione del pagamento per suo conto. Questa è una delle norme in cui la Torah protegge la donna più vulnerabile — colei che non ha un padre a difenderla."
+    },
+    {
+      "n": 4,
+      "he": "מֵת הָאָב אַחַר שֶׁנִּתְחַיֵּב הַמְפַתֶּה…",
+      "it": "Se il padre muore dopo che l'obbligo di pagamento è già stato stabilito (ad esempio dopo che si erano presentati davanti al beit din e l'imputato era stato dichiarato colpevole) — il diritto al kenas passa agli eredi del padre. Ma se il padre muore prima che si sia presentato davanti al beit din — il kenas cade, poiché era un diritto personale del padre che non è ancora diventato un credito esigibile. Questa distinzione riflette la natura del kenas come pena speciale e non come semplice debito."
+    },
+    {
+      "n": 5,
+      "he": "סִלּוּק הַלְּכוֹת נַעֲרָה בְּתוּלָה…",
+      "it": "Si concludono le Leggi della Ragazza Vergine con l'aiuto del Cielo. Queste leggi rivelano la profonda cura della Torah per la dignità della donna e per la protezione dei più vulnerabili. La multa fissa (kenas) serve come deterrente potente contro la violenza sessuale e la seduzione — indipendentemente dalla volontà delle parti di perdonare, il sistema legale impone conseguenze. Il padre come custode della figlia è protetto dalla Torah, e in sua assenza la Torah stessa protegge la figlia."
+    }
+  ],
+  "_glossary_terms_used": [
+    "bogeret", "na'arah", "ketanah", "kenas", "boshet", "pegam", "neizkah", "na'arut", "yetomah", "beit din", "nezikin"
+  ]
+}

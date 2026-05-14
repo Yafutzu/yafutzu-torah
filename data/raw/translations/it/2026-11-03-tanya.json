@@ -1,0 +1,31 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 1",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק א",
+  "name_it": "Tanya, Parte I — Likkutei Amarim (Raccolta di Detti), capitolo 1",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-03",
+  "hebrew_date": "23 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "cycle_note": "Inizia il secondo ciclo annuale del Tanya Yomi.",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "תַּנְיָא — אָדָם נִשְׁבָּע מִן הַבֶּטֶן: הֱוֵי צַדִּיק וְאַל תְּהִי רָשָׁע…",
+      "it": "INIZIA IL SECONDO CICLO ANNUALE DEL TANYA YOMI. L'Alter Rebbe apre il Tanya con la famosa citazione del Talmud (Niddah 30b): prima della nascita, si amministra all'anima un giuramento — «Hevei tzaddik ve-al tehi rasha» (Sii giusto e non essere malvagio). E in aggiunta: «Ve-afilu kol ha-olam omer lecha tzaddik attah, hevei ve-einecha ke-rasha» (Anche se tutto il mondo ti dice che sei un tzaddik — considera te stesso come rasha). Questo giuramento è il punto di partenza dell'intera opera: nessun ebreo può permettersi l'autocompiacimento spirituale."
+    },
+    {
+      "n": 2,
+      "he": "שְׁלֹשָׁה מִינִים הֵם — צַדִּיק, רָשָׁע, וּבֵינוֹנִי…",
+      "it": "L'Alter Rebbe stabilisce la sua triplice divisione delle anime: il tzaddik (giusto), il rasha (malvagio), e il beinoni (l'intermedio). Nel trattato Avot, il mondo è diviso in quattro tipi — ma il Tanya sceglie tre categorie con confini halakhici precisi. Il tzaddik è colui nel quale il bene ha completamente sconfitto il male. Il rasha è colui nel quale il male domina il bene. Ma il beinoni — e questa è la grande innovazione del Tanya — è una terza categoria del tutto distinta, non semplicemente «nel mezzo»."
+    },
+    {
+      "n": 3,
+      "he": "סֵפֶר זֶה חוּבַּר לְהוֹרוֹת לִישּׁוּרוּן דֶּרֶךְ — זוֹ הִיא דֶּרֶךְ הַבֵּינוֹנִי…",
+      "it": "Lo scopo del Tanya è dichiarato esplicitamente: insegnare la «derech ha-beinoni» — il cammino dell'intermedio. L'Alter Rebbe rivela che la maggior parte degli ebrei — incluso l'autore stesso — non è nel livello del tzaddik, e non deve aspirare a diventarlo in questo momento. Il cammino realistico e adatto alla maggioranza degli ebrei è il cammino del beinoni: non l'eliminazione del yetzer ha-ra (impulso al male), ma il suo controllo completo nel pensiero, nella parola, e nell'azione. Questo è il «secondo ciclo» della vita spirituale — imparare di nuovo, più profondamente, ciò che sappiamo già."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzaddik", "rasha", "beinoni", "yetzer ha-ra", "Alter Rebbe", "derech ha-beinoni", "Tanya"
+  ]
+}

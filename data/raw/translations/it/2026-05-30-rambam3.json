@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Valuations and Vows 2-4",
+  "name_he": "משנה תורה, הלכות ערכין וחרמין, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi delle Stime e dei Voti di Consacrazione, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-05-30",
+  "hebrew_date": "14 Sivan 5786",
+  "halachot_count": 31,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "הַמַּעֲרִיךְ — צָרִיךְ לְשַׁלֵּם עֵרֶךְ גָּמוּר כְּמוֹ שֶׁנִּקְרָא בַּתּוֹרָה…",
+      "it": "(Cap. 2, hal. 1) Chi valuta (ha-ma'arekh) deve pagare la stima completa come prescritta dalla Torah. Non vi è riduzione per malattia o debolezza della persona valutata: la stima (erech) dipende solo dall'età e dal sesso, non dallo stato fisico. Chi valuta una persona molto malata o mutilata — paga lo stesso erech fisso di età/sesso. Questo è diverso dalla valutazione del «prezzo» (damim) che dipende dal valore reale del lavoro di quella persona."
+    },
+    {
+      "n": "2:2-7",
+      "he": "אֵין עֵרֶךְ לַגּוֹי…",
+      "it": "(Cap. 2, hal. 2-7) Non vi è erech (stima fissa) per il non ebreo (goy) — il versetto «quando un uomo farà il voto della stima» si riferisce agli israeliti. Tuttavia il non ebreo può impegnarsi in un voto simile: valutare un israelita — e l'israelita può valutare un non ebreo; in questi casi si paga il «prezzo» (damim) non l'erech fisso. Le halachot 3-7 specificano: il caso di chi ha valutato qualcuno che poi è morto prima del pagamento — se la persona morta non ha erà obbligato a pagare l'erech, l'obbligo non cade sugli eredi; il erech della propria moglie; il erech dei schiavi; il erech di un kohen o un levita."
+    },
+    {
+      "n": "2:8-13",
+      "he": "הַמֵּת בְּתוֹךְ הַזְּמַן — אֵין לוֹ עֵרֶךְ…",
+      "it": "(Cap. 2, hal. 8-13) Chi muore durante il periodo del voto — non ha erech [e chi aveva votato il suo erech è esente]. Se chi ha votato l'erech muore durante il periodo — i suoi eredi devono pagare l'erech per lui. Le halachot 9-13 approfondiscono: il caso di chi ha votato l'erech di se stesso e poi diventa povero — il kohen valuta quanto può pagare; il povero che paga meno — ha assolto l'obbligo completamente; l'erech del kohen che ha riscosso — va ai fondi generali del Tempio; il caso di doppio voto di erech sulla stessa persona."
+    },
+    {
+      "n": "3:1",
+      "he": "הַמַּקְדִּישׁ נְכָסִים — כֵּיצַד הַשָּׂמִים שָׁמִין…",
+      "it": "(Cap. 3, hal. 1) Chi consacra beni al Tempio (makdish nekhasim) — come i sacerdoti valutano? I sacerdoti (kohanim) scendono e valutano i beni al loro valore di mercato. Il valore è il prezzo che un acquirente normale pagherebbe per quei beni in quel momento. Si vende al migliore offerente e il ricavato va al Tempio."
+    },
+    {
+      "n": "3:2-7",
+      "he": "הַמַּקְדִּישׁ עוֹלֶה וּבְהֵמָה — אֵינָן נִמְכָּרוֹת…",
+      "it": "(Cap. 3, hal. 2-7) Chi consacra un animale idoneo a essere un sacrificio — non si vende: l'animale stesso diventa sacrificio. Chi consacra un animale non idoneo al sacrificio (come un animale con un difetto) — si vende e il ricavato va al Tempio. Le halachot 3-7 specificano: la valutazione degli immobili (campi, case); il caso del campo «ereditato» (sadeh achuzah) vs. il campo «acquisito» (sadeh mikneh) — che hanno regole diverse; il riscatto del campo consacrato; il giubileo e la sua influenza sulla consacrazione."
+    },
+    {
+      "n": "3:8-13",
+      "he": "הַמַּקְדִּישׁ שָׂדֶהוּ בִּשְׁנַת הַיּוֹבֵל…",
+      "it": "(Cap. 3, hal. 8-13) Chi consacra il proprio campo nell'anno del Giubileo — la stima è cinquanta sicli d'argento per ogni beit kor di terreno [circa 7.5 dunham] da lì al prossimo Giubileo. Chi consacra dopo il Giubileo — la stima si riduce proporzionalmente agli anni rimanenti. Le halachot 9-13 specificano: il caso di più persone che condividono un campo e uno lo consacra; il caso in cui il campo è già ipotecato; il campo che il Tempio vende — chi lo compra e poi arriva il Giubileo; il caso del campo di Giubileo che nessuno riscatta — va ai kohanim."
+    },
+    {
+      "n": "4:1",
+      "he": "הַחֶרֶם לַה׳ — מִין אֶחָד הוּא. הַחֶרֶם לַכֹּהֲנִים — מִין אֶחָד אַחֵר…",
+      "it": "(Cap. 4, hal. 1) Il cherem (consacrazione irrevocabile) dedicato al Signore — è di un tipo. Il cherem dedicato ai kohanim — è un altro tipo. Il cherem «per il Signore» (la-Shem): i beni vanno al Tempio, non si possono riscattare, e un animale cherem la-Shem viene sacrificato come olocausto. Il cherem «ai kohanim» (la-kohanim): i beni vanno ai kohanim, non si possono riscattare, e diventano di loro piena proprietà (come campi di cherem in Vayikrà 27:21)."
+    },
+    {
+      "n": "4:2-7",
+      "he": "כֵּיצַד מַחְרִים אָדָם נְכָסָיו…",
+      "it": "(Cap. 4, hal. 2-7) Come consacra una persona i propri beni in cherem? Dice: «Questi beni sono cherem» — senza specificare «la-Shem» o «la-kohanim»: è cherem la-Shem (la modalità più severa). Se specifica «la-kohanim» — va ai kohanim. Animali idonei al sacrificio dichiarati cherem la-Shem — diventano olah (olocausto). Animali non idonei dichiarati cherem la-Shem — vengono venduti e il ricavato al Tempio. Le halachot 3-7 specificano: il cherem su schiavi; il cherem su immobili; il cherem su beni mobili; la differenza tra cherem e hekdesh (consacrazione normale)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "erech", "arachim", "damim", "hekdesh", "cherem", "kohanim", "sadeh achuzah", "sadeh mikneh", "Giubileo", "beit kor", "olah", "makdish nekhasim"
+  ]
+}

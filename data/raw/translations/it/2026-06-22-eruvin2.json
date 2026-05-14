@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 2",
+  "name_he": "משנה תורה, הלכות עירובין פרק ב",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-22",
+  "hebrew_date": "7 Tammuz 5786",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד מְעָרְבִין עֵרוּבֵי חֲצֵרוֹת בְּפַת...",
+      "it": "Come si effettua l'eruv chatzerot con il pane: si raccoglie pane da tutte le abitazioni del cortile e lo si riunisce in una sola casa. Ognuno deve contribuire con una quantità sufficiente (kazayit — come un'oliva) per ciascuno dei due pasti del Sabato, per ogni membro della famiglia."
+    },
+    {
+      "n": 2,
+      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים...",
+      "it": "In quali circostanze si applica questa regola? Quando gli abitanti del cortile devono fare l'eruv attivamente. Ma se il cortile appartiene a un singolo proprietario che affitta le abitazioni, non è necessario fare l'eruv, poiché l'intero cortile è già sotto un unico dominio."
+    },
+    {
+      "n": 3,
+      "he": "עֵרוּב שֶׁנִּתְּנוּ לְתוֹכוֹ...",
+      "it": "Se nell'eruv viene aggiunto del cibo: ogni volta che si aggiunge pane all'eruv, si unisce simbolicamente un'altra abitazione. L'eruv può essere rinnovato ogni settimana oppure può essere stabilito per l'intero anno, a condizione che il pane sia ancora intatto all'inizio di ogni Sabato."
+    },
+    {
+      "n": 4,
+      "he": "הָרוֹצֶה לְעָרֵב עַל כָּל הַשַּׁבָּתוֹת...",
+      "it": "Chi desidera fare l'eruv per tutti i Sabati dell'anno: può depositare il pane dell'eruv prima di Rosh Hashanah con l'intenzione esplicita che valga per tutto l'anno. Deve verificare prima di ogni Sabato che il pane sia ancora intero e commestibile; se è ammuffito o consumato, deve rinnovarlo."
+    },
+    {
+      "n": 5,
+      "he": "הָיָה עֵרוּבוֹ בַּגָּג...",
+      "it": "Se l'eruv è depositato sul tetto o in una dispensa elevata: è valido, a condizione che sia accessibile senza difficoltà prima del Sabato. Se l'eruv è in un luogo in cui il proprietario non potrebbe recuperarlo agevolmente durante il Sabato, alcuni poskim (decisori halachici) lo considerano problematico."
+    },
+    {
+      "n": 6,
+      "he": "חָצֵר שֶׁפָּתוּחָה לְרֹאשׁ הַמָּבוֹי...",
+      "it": "Un cortile che si apre su un vicolo (mavuy): i residenti del cortile si uniscono tra di loro con l'eruv chatzerot, e poi i cortili del vicolo si uniscono tramite lo shituf mevo'ot (la condivisione del vicolo). Questi sono due eruvin distinti e complementari."
+    },
+    {
+      "n": 7,
+      "he": "שְׁנֵי חֲצֵרוֹת שֶׁבֵּינֵיהֶן מָחִיצָה...",
+      "it": "Due cortili separati da una parete: se la parete è alta dieci tefachim (una misura halachica, circa 80 cm), i due cortili sono domini separati. Ciascuno deve fare il proprio eruv chatzerot. Se la parete è abbattuta o ha un'apertura, i due cortili si uniscono in un unico spazio."
+    },
+    {
+      "n": 8,
+      "he": "שְׁנֵי חֲצֵרוֹת שֶׁנִּפְרְצוּ זֶה לָזֶה...",
+      "it": "Due cortili che hanno una breccia comune: se la breccia è larga almeno quattro tefachim (circa 32 cm), i due cortili si considerano uniti e le persone dei due cortili devono fare un eruv comune. Se la breccia è più stretta, i cortili rimangono separati."
+    },
+    {
+      "n": 9,
+      "he": "מִי שֶׁאֵינוֹ רוֹצֶה לְעָרֵב...",
+      "it": "Chi non vuole partecipare all'eruv chatzerot: i Saggi non lo obbligano, ma la sua presenza impedisce agli altri di trasportare nel cortile. Tuttavia, se cede il proprio 'diritto di dominio' (bitul reshut) agli altri residenti, essi possono trasportare anche senza il suo pane nell'eruv."
+    },
+    {
+      "n": 10,
+      "he": "כֵּיצַד מְבַטְּלִין אֶת הָרְשׁוּת...",
+      "it": "Come si cede il diritto di dominio (bitul reshut)? Il residente che non partecipa all'eruv dice: 'Il mio dominio è annullato e ceduto a voi.' Questa dichiarazione deve essere fatta prima che inizi il Sabato. Una volta ceduto il dominio, non può riprenderlo durante il Sabato."
+    },
+    {
+      "n": 11,
+      "he": "בִּיטּוּל רְשׁוּת הַנַּעֲשֶׂה בְּשַׁבָּת...",
+      "it": "La cessione del diritto di dominio fatta durante il Sabato: è valida per il trasporto solo nel cortile ma non permette di portare cose dall'abitazione nel cortile. Questo perché l'eruv, che permette il trasporto dall'abitazione nel cortile, non è stato stabilito prima del Sabato."
+    },
+    {
+      "n": 12,
+      "he": "הַמְבַטֵּל רְשׁוּתוֹ לְאֶחָד...",
+      "it": "Chi cede il suo dominio a uno solo dei comproprietari del cortile: la cessione è valida per quel singolo destinatario. Ma se poi quel destinatario porta degli oggetti dall'abitazione nel cortile, il cedente ha violato la condizione dell'eruv, poiché ha beneficiato indirettamente della cessione."
+    },
+    {
+      "n": 13,
+      "he": "הַנּוֹתֵן אֶת עֵרוּבוֹ בְּבֵית שַׁעַר...",
+      "it": "Chi deposita il suo eruv nel portico (beit shaar) o nella veranda (achsadra): l'eruv è valido, a condizione che questi spazi siano accessibili agli abitanti e siano considerati parte integrante del complesso abitativo. Se sono spazi aperti al pubblico, l'eruv potrebbe non essere valido."
+    },
+    {
+      "n": 14,
+      "he": "עֵרוּב שֶׁנִּתְּנוּ לַחֲמִשָּׁה בְּנֵי אָדָם...",
+      "it": "Un eruv stabilito per cinque persone: se uno di loro non è presente quando viene depositato l'eruv, alcuni dicono che l'eruv non è valido per lui, poiché non ha partecipato attivamente. Tuttavia, se un'altra persona ha agito come suo rappresentante (shaliach), l'eruv è valido anche per lui."
+    },
+    {
+      "n": 15,
+      "he": "הַמְעָרֵב עַל יְדֵי בְּנוֹ הַגָּדוֹל...",
+      "it": "Chi fa l'eruv tramite il figlio adulto o la figlia adulta: se sono persone giuridicamente autonome (bnei da'at), devono avere il loro eruv separato oppure acconsentire esplicitamente. Se il figlio mangia alla tavola del padre e non ha un dominio separato, è incluso automaticamente nell'eruv del padre."
+    },
+    {
+      "n": 16,
+      "he": "שׁוֹכֵר שֶׁשָּׁכַר בַּיִת בְּחָצֵר...",
+      "it": "Un inquilino che ha affittato un appartamento nel cortile: è obbligato a partecipare all'eruv chatzerot come tutti gli altri residenti. Anche se il proprietario ha già un eruv, l'inquilino, avendo un dominio separato, deve fare il proprio eruv o cedere il suo dominio agli altri."
+    },
+    {
+      "n": 17,
+      "he": "הָאוֹרֵחַ הַדָּר בְּבַיִת...",
+      "it": "Un ospite che alloggia in un'abitazione: se il proprietario ha stabilito l'eruv per la propria abitazione, l'ospite è incluso nell'eruv del suo ospitante, a condizione che non abbia un dominio separato. Se l'ospite ha una stanza propria con una chiave, potrebbe essere necessario includerlo esplicitamente nell'eruv."
+    },
+    {
+      "n": 18,
+      "he": "חָמֵשׁ חֲצֵרוֹת הַפְּתוּחוֹת זוֹ לָזוֹ...",
+      "it": "Cinque cortili che si aprono l'uno nell'altro: se tutti fanno un eruv comune, il trasporto è permesso tra tutti i cortili. Se invece solo alcuni fanno l'eruv comune e altri no, quelli che non hanno partecipato impediscono il trasporto negli spazi condivisi. La regola del mafkir reshut (abbandono del dominio) può risolvere casi particolari."
+    }
+  ],
+  "_glossary_terms_used": ["eruv chatzerot", "shituf mevo'ot", "bitul reshut", "reshut hayachid", "mavuy", "kazayit", "beit shaar", "achsadra", "shaliach", "bnei da'at", "mafkir reshut", "poskim"]
+}

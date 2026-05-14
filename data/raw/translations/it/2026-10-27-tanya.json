@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 3",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, קטע ג",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Trattato Finale), saggio 3",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-27",
+  "hebrew_date": "16 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "צִמְצוּם עֶלְיוֹן — הוּא הַצִּמְצוּם שֶׁיָּצְרוּ הָעוֹלָמוֹת הָרוּחָנִיּוֹת…",
+      "it": "Il saggio 3 del Kuntres Acharon approfondisce la distinzione tra due livelli di tzimtzum (contrazione divina). Il «tzimtzum elyon» (la contrazione superiore) è quello che ha creato lo spazio per i mondi spirituali (hishtalshelut — la catena delle emanazioni): Atzilut, Beriah, Yetzirah, Asiyah. In questi mondi, la luce divina è presente ma velata — una luce infinitamente più sottile dell'Ein Sof, ma ancora di natura puramente spirituale. Il «tzimtzum tachton» (la contrazione inferiore) è quello che ha creato il mondo fisico-materiale (olam ha-gashmi), che sembra il più distante da D-o."
+    },
+    {
+      "n": 2,
+      "he": "וְהָעוֹלָם הַגַּשְׁמִי — נִרְאֶה כְּנֶעְדַּר מֵאֱלֹקוּת לְגַמְרֵי — אֲבָל אֵינוֹ כֵּן…",
+      "it": "Paradossalmente, il mondo fisico — sebbene sembri il più distante da D-o — è in realtà il scopo e il fine di tutta la creazione. L'Alter Rebbe, seguendo il Maharal e il Baal Shem Tov, insegna: la distanza apparente del mondo fisico è la manifestazione più completa del potere divino di nascondersi e poi di essere rivelato. La rivelazione del divino nel materiale — attraverso le mitzvot, attraverso il birrur (raffinamento delle scintille) — è la «simhah gedolah» (gioia grande) di D-o: che anche nella materia più densa la Sua luce possa brillare."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶה פֵּשֶׁר הַמְּאָמַר — 'נִתְאַוָּה הַקָּדוֹשׁ בָּרוּךְ הוּא לִהְיוֹת לוֹ דִּירָה בַּתַּחְתּוֹנִים'…",
+      "it": "L'Alter Rebbe cita il Midrash Tanchuma: «D-o ha desiderato (nit'aveh) avere una dimora (dirah) nei mondi inferiori (betachtonim)». Questo è il fine di tutta la creazione: D-o vuole che il mondo materiale diventi la Sua «casa» — il luogo dove la Sua presenza è rivelata non nonostante la materialità, ma attraverso di essa. Ogni mitzvo che compie un ebreo trasforma un angolo del mondo materiale in un «luogo di dimora» per la Shekhinah (la presenza divina). La creazione non è un errore o un difetto — è una scelta deliberata e amorevole di D-o di rivelare Se stesso nel più nascosto dei livelli."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzimtzum elyon", "tzimtzum tachton", "hishtalshelut", "Atzilut", "Beriah", "Yetzirah", "Asiyah", "olam ha-gashmi", "birrur", "dirah betachtonim", "Shekhinah", "nit'aveh"
+  ]
+}

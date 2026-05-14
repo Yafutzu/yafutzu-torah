@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 41",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מא",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 41",
+  "cycle": "tanya-yomi",
+  "date": "2026-12-13",
+  "hebrew_date": "4 Tevet 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אַהֲבַת עוֹלָם — אַהֲבָה מִתּוֹךְ הַתְבּוֹנְנוּת בַּטּוֹבוֹת...",
+      "it": "Il capitolo 41 presenta un livello di amore più accessibile dell'ahavah rabbah: l'«ahavat olam» (amore del mondo/eterno) — generato dalla contemplazione (hitbonenut) di tutto il bene (tov) che D-o ha fatto per noi personalmente e per il popolo ebraico collettivamente. Questo amore non richiede capacità mistiche straordinarie — è alla portata di tutti. Si contemplano: l'uscita dall'Egitto, i miracoli del deserto, il dono della Torah, i miracoli personali della propria vita."
+    },
+    {
+      "n": 2,
+      "he": "וְאָהַבְתָּ אֵת ה' אֱלֹקֶיךָ — מֵהַהַתְבּוֹנְנוּת בַּטּוֹבוֹת...",
+      "it": "La connessione con lo Shema: «Ve'ahavta et Hashem Elokecha be-chol levavcha» (Deuteronomio 6:5 — amerai il Signore tuo D-o con tutto il tuo cuore). L'Alter Rebbe insegna che questo versetto descrive la via dell'ahavat olam: contemplare tutto il bene di D-o porta il cuore («lev») ad amare naturalmente il Donatore di tutti i benefici. L'amore fluisce dal riconoscimento (hakarah) — quando si riconosce la fonte di tutto il bene, il cuore risponde con amore."
+    },
+    {
+      "n": 3,
+      "he": "טּוּב ה' לְכָל — נִפְלְאוֹת בְּכָל יוֹם...",
+      "it": "La contemplazione dei miracoli quotidiani (nissim she-be-chol yom): i miracoli non si esauriscono con gli eventi straordinari della storia ebraica. Ogni mattina, ogni respiro, ogni momento di salute e capacità è un miracolo. La preghiera di «Modeh Ani» (ti ringrazio, D-o vivente) all'alba esprime questa consapevolezza. Dall'ahavat olam emerge la capacità di amare D-o anche durante i periodi di mochin de-katnut (coscienza ordinaria) — non solo durante i picchi spirituali di mochin de-gadlut."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ahavat olam", "ahavah rabbah", "hitbonenut", "tov", "Ve'ahavta et Hashem Elokecha", "Shema", "hakarah", "nissim she-be-chol yom", "Modeh Ani", "mochin de-katnut", "mochin de-gadlut"
+  ]
+}

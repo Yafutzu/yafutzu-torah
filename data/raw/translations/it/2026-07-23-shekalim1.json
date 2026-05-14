@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shekalim 1",
+  "name_he": "משנה תורה, הלכות שקלים, פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Sicli, capitolo 1",
+  "cycle": "rambam-1",
+  "date": "2026-07-23",
+  "hebrew_date": "9 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה שֶׁיִּתֵּן כָּל אִישׁ מִיִּשְׂרָאֵל מַחֲצִית הַשֶּׁקֶל בְּכָל שָׁנָה, שֶׁנֶּאֱמַר: 'זֶה יִתְּנוּ כָּל הָעֹבֵר עַל הַפְּקֻדִים'.",
+      "it": "Vi è un comandamento positivo che ogni uomo d'Israele dia una mezza moneta (machatzit ha-shekel) ogni anno, come è detto: 'Questo daranno tutti coloro che sono arruolati' (Esodo 30:13)."
+    },
+    {
+      "n": 2,
+      "he": "מִבֶּן עֶשְׂרִים שָׁנָה וָמַעְלָה — חַיָּב. פָּחוֹת מִבֶּן עֶשְׂרִים — פָּטוּר.",
+      "it": "Da vent'anni in su — obbligato. Sotto i vent'anni — esente."
+    },
+    {
+      "n": 3,
+      "he": "גֵּרִים וַעֲבָדִים מְשֻׁחְרָרִים — חַיָּבִים בְּשֶׁקֶל.",
+      "it": "Proseliti (gerim) e schiavi liberati — sono obbligati nel shekel."
+    },
+    {
+      "n": 4,
+      "he": "נָשִׁים וַעֲבָדִים וּקְטַנִּים — פְּטוּרִין. וְאִם נָתְנוּ — מְקַבְּלִין מֵהֶם.",
+      "it": "Donne, schiavi e minori — esenti. Ma se danno, lo si accetta da loro."
+    },
+    {
+      "n": 5,
+      "he": "כֹּהֲנִים — לֹא נָתְנוּ שֶׁקֶל. מִפְּנֵי דַּרְכֵי שָׁלוֹם, לֹא מִחוּ בָּהֶם חֲכָמִים.",
+      "it": "I Kohanim (sacerdoti) non davano il mezzo shekel. Per motivi di pace, i Saggi non se ne lamentavano."
+    },
+    {
+      "n": 6,
+      "he": "מַחֲצִית הַשֶּׁקֶל — חֲצִי הַשֶּׁקֶל שֶׁל תּוֹרָה, שֶׁהוּא שִׁשָּׁה גְרָמִים כֶּסֶף.",
+      "it": "La mezza moneta (machatzit ha-shekel) è la metà del shekel della Torah, che equivale a sei grammi di argento."
+    },
+    {
+      "n": 7,
+      "he": "הַשְּׁקָלִים שֶׁנִּגְבּוּ — בָּאִין מֵהֶן קָרְבְּנוֹת צִבּוּר כָּל אוֹתָהּ שָׁנָה.",
+      "it": "I sicli raccolti venivano usati per i sacrifici pubblici (korbanot tzibbur) per tutto quell'anno."
+    },
+    {
+      "n": 8,
+      "he": "לָמָּה נָתְנוּ שֶׁקֶל? שֶׁנֶּאֱמַר 'לְכַפֵּר עַל נַפְשֹׁתֵיכֶם' — זוֹ מַחֲצִית הַשֶּׁקֶל הַמְּכַפֶּרֶת.",
+      "it": "Perché si dava il mezzo shekel? Come è detto 'per espiare le vostre anime' (Esodo 30:15) — questa è la mezza moneta che porta espiazione."
+    },
+    {
+      "n": 9,
+      "he": "מִצְוָה זוֹ — אֵין נוֹהֶגֶת בְּזְמַן הַזֶּה שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּם. וְכָל הַנּוֹתֵן בִּזְמַן הַזֶּה — אֵינוֹ יוֹצֵא יְדֵי חוֹבָה.",
+      "it": "Questa mitzvah non si pratica ai nostri giorni, quando il Tempio non esiste. Chi dà ora non adempie l'obbligo. [Nota del traduttore: oggi (9 Av, Tisha B'Av) piangiamo la distruzione del Tempio che rendeva possibile questa e tutte le mitzvot del servizio divino.]"
+    }
+  ],
+  "_glossary_terms_used": ["machatzit ha-shekel", "shekel", "korbanot tzibbur", "gerim", "Kohanim"]
+}

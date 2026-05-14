@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Korban Pesach 9-10; Hilchot Chagigah 1",
+  "name_he": "משנה תורה, הלכות קרבן פסח פרקים ט-י; הלכות חגיגה פרק א",
+  "name_it": "Mishneh Torah, Leggi del Sacrificio Pasquale capitoli 9-10; Leggi dell'Offerta Festiva capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-08-03",
+  "hebrew_date": "20 Av 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "ציבור שהיו רובו טמאים — הפסח נדחה לשלוש עשר לאייר, ועושים אותו בטומאה. שאין הטומאה נדחית אלא ביחיד; אבל ציבור שנטמא — עושה בטומאה.",
+      "it": "Se la maggioranza della comunità era impura (tamei), il Pesach viene posticipato al tredici di Iyar e viene offerto in stato di impurità. L'impurità cede il passo solo per un singolo individuo; ma una comunità che si sia resa impura compie il rito in stato di impurità."
+    },
+    {
+      "n": "9:2",
+      "he": "כיצד? אם היו רוב ישראל טמאים — שוחטים ואוכלים את הפסח בטומאה. ואין זה חילול הקודש, אלא הוא עצמו מצות עשה של תורה שדוחה את הטומאה.",
+      "it": "Come funziona? Se la maggioranza di Israele era impura, si macella e si mangia il Pesach in stato di impurità. Ciò non costituisce profanazione del sacro, ma è un precetto positivo della Torah che ha la precedenza sull'impurità."
+    },
+    {
+      "n": "9:3",
+      "he": "הטהורים שהיו במיעוט — אינם עושים עם הטמאים, שלא ייראו כמחבבים את הטומאה. אלא מקריבים פסח שני בי\"ד אייר.",
+      "it": "I puri che erano minoranza non compiono il rito con gli impuri, per non sembrare che prediligano l'impurità. Invece portano il Pesach Sheni il quattordici di Iyar."
+    },
+    {
+      "n": "10:1",
+      "he": "אין קרבן פסח קרב בזמן הזה שאין לנו בית המקדש. ואם היה לנו — היינו מקריבים. לפיכך חייב כל אדם לזכור ענייני הפסח ולשמור מצוותיו שאינן תלויות בקרבן.",
+      "it": "Il sacrificio pasquale non viene offerto ai nostri giorni, poiché non abbiamo il Bet ha-Mikdash. Se lo avessimo, lo offriremmo. Pertanto ogni persona è obbligata a ricordare le questioni del Pesach e a osservare i precetti che non dipendono dal sacrificio. Si concludono le Leggi del Sacrificio Pasquale."
+    },
+    {
+      "n": "1:1",
+      "he": "שלוש מצוות עשה נצטוו ישראל בכל רגל ורגל: הראיה, שמחה, וחגיגה. הראיה — שיראה פני ה' בירושלים ויביא עולת ראיה. שמחה — שישמח בקרבן שלמים. חגיגה — שיאכל מן הקרבן ביום טוב.",
+      "it": "Per ogni festa di pellegrinaggio (regal) gli israeliti ricevettero tre precetti positivi: la re'iyah, la simchah e la chagigah. La re'iyah — apparire davanti a D-o a Gerusalemme e portare un'offerta olah di comparsa. La simchah — gioire offrendo un korban shelamim (sacrificio di pace). La chagigah — mangiarne durante il giorno festivo."
+    },
+    {
+      "n": "1:2",
+      "he": "מי חייב בראיה? אנשים — חייבים מן התורה. נשים — פטורות מן התורה. וכן קטנים שהגיעו לחינוך — אביהם מחנכם להראות בבית המקדש.",
+      "it": "Chi è obbligato alla re'iyah? Gli uomini — dalla Torah. Le donne — sono esentate dalla Torah. Anche i bambini che hanno raggiunto l'età dell'educazione religiosa: il loro padre li porta per abituarli ad apparire nel Bet ha-Mikdash."
+    },
+    {
+      "n": "1:3",
+      "he": "ואלו פטורים מן הראיה: חרש, שוטה, וקטן; סומא; חיגר; זקן שאינו יכול לעלות ברגליו; חולה; ומי שנאנס באונס.",
+      "it": "I seguenti sono esenti dalla re'iyah: il sordomuto, lo stolto e il minore; il cieco; lo zoppo; il vecchio che non può salire a piedi; il malato; e chi è stato costretto da forza maggiore (ones)."
+    }
+  ],
+  "_glossary_terms_used": ["tamei", "Pesach Sheni", "regal", "re'iyah", "chagigah", "shelamim", "olah", "ones", "Bet ha-Mikdash"]
+}

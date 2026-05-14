@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 8",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ח",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 8",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-11",
+  "hebrew_date": "26 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ח: עַל הָעִנְיָן שֶׁל \"בִּטּוּל הַיֵּשׁ\" (בִּטּוּל הַמְּצִיאוּת הָעַצְמִית) כְּמַטָּרָה הָאוּלְטִימָטִיבִית שֶׁל הַמַּמְשָׁכָה הַחֲסִידִית. אֵין זֶה כִּלּוּי הָ\"אֲנִי\" אֶלָּא הִשְׁתַּנּוּתוֹ.",
+      "it": "Saggio 8: Sul concetto di «bittul hayesh» (annullamento dell'esistenza individuale) come obiettivo ultimo della pratica chassidica. Non si tratta della distruzione del «io» ma della sua trasformazione."
+    },
+    {
+      "n": 2,
+      "he": "הַבִּטּוּל הָאֲמִיתִּי — שֶׁהָאָדָם אֵינוֹ מוֹחֶה עַצְמוֹ, אֶלָּא מַכִּיר שֶׁמְּצִיאוּתוֹ כֻּלָּהּ מֵה' בָּאָה וְלוֹ שַׁיֶּכֶת. וּבָזֶה — הוּא מַשִּׂיג שִׂמְחָה גְּבוֹהָה בְּיוֹתֵר, שֶׁהִיא שִׂמְחַת הָ\"אֵין\".",
+      "it": "Il bittul autentico — non è che la persona si cancelli, ma riconosce che tutta la propria esistenza proviene da D-o e a Lui appartiene. E in questo — raggiunge la gioia più elevata, che è la gioia dell'«Ain» (Non-Essere)."
+    },
+    {
+      "n": 3,
+      "he": "הַשִּׂמְחָה שֶׁל הַבִּטּוּל — גְּבוֹהָה מִכָּל שִׂמְחָה אַחֶרֶת, שֶׁהִיא שִׂמְחָה שֶׁאֵינָהּ תְּלוּיָה בְּשׁוּם דָּבָר חִיצוֹנִי. זֶהוּ בְּעֶצֶם הַמַּדְרֵגָה שֶׁל הַ\"בִּטּוּל\" בְּדֶרֶךְ חַב\"ד.",
+      "it": "La gioia del bittul — è superiore a qualsiasi altra gioia, poiché è una gioia che non dipende da nessuna cosa esterna. Questo è essenzialmente il livello del «bittul» nel cammino di Chabad."
+    }
+  ],
+  "_glossary_terms_used": ["bittul hayesh", "Chabad", "simchah", "avodah", "ain", "yesh", "Kuntres Acharon", "Tanya"]
+}

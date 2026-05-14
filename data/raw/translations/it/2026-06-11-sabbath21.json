@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Sabbath 21",
+  "name_he": "משנה תורה, הלכות שבת, פרק כא",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 21",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-11",
+  "hebrew_date": "26 Sivan 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל חוֹלֶה שֶׁיֵּשׁ בּוֹ סַכָּנָה, מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת...",
+      "it": "Per ogni malato in pericolo di vita (choleh she-yesh bo sakana), si profana lo Shabbat per il suo bene. Chi agisce prontamente è lodevole, e non deve aspettare il permesso del tribunale rabbinico. La regola fondamentale è: 'vechai bahem' — vivere grazie ai precetti e non morire a causa loro."
+    },
+    {
+      "n": 2,
+      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים — בְּחוֹלֶה שֶׁיֵּשׁ בּוֹ סַכָּנָה...",
+      "it": "Questa regola si applica al malato in pericolo di vita. Per lui, si può trasgredire qualsiasi divieto della Torah, inclusi quelli punibili con la pena capitale o il karet (recisione spirituale), pur di salvarlo."
+    },
+    {
+      "n": 3,
+      "he": "חוֹלֶה שֶׁאֵין בּוֹ סַכָּנָה — אֵין מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת...",
+      "it": "Per un malato senza pericolo di vita (choleh she-ein bo sakana), non si trasgrediscono i divieti della Torah, ma si possono allentare i divieti rabbinici (issurim de-rabbanan) quando necessario per il suo conforto e cura."
+    },
+    {
+      "n": 4,
+      "he": "מִי שֶׁנָּפַל עָלָיו גַּל, אַף עַל פִּי שֶׁסָּפֵק הוּא...",
+      "it": "Se una persona è rimasta sepolta da un crollo, anche nel dubbio se sia viva o morta, se la situazione sia risolvibile o meno — si rimuovono le macerie per lei. Il principio è che il dubbio sulla vita umana sposta ogni regola dello Shabbat."
+    },
+    {
+      "n": 5,
+      "he": "הֲרֵי שֶׁבָּדְקוּ וּמְצָאוּהוּ חַי — מְפַנִּין עָלָיו...",
+      "it": "Se lo trovano vivo, si continua a rimuovere le macerie anche di Shabbat fino alla sua completa liberazione. Se lo trovano già morto, lo lasciano lì e non si continua a scavare, poiché non c'è più pericolo di vita."
+    },
+    {
+      "n": 6,
+      "he": "הַמְכַבֶּה אֶת הַנֵּר מִפְּנֵי שֶׁהַחוֹלֶה צָרִיךְ לִישׁוֹן...",
+      "it": "Chi spegne una candela di Shabbat perché il malato in pericolo ha bisogno di dormire è esente da pena, poiché ha agito per salvare una vita. Analogamente, se il malato ha bisogno di luce, si può accendere una candela per lui."
+    },
+    {
+      "n": 7,
+      "he": "מִי שֶׁנְּשָׁכוֹ נָחָשׁ — מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת...",
+      "it": "Per chi è stato morso da un serpente velenoso si profana lo Shabbat in ogni modo necessario, anche se non è certo che il veleno sia letale, poiché c'è un dubbio di pericolo di vita."
+    },
+    {
+      "n": 8,
+      "he": "חַשׁ בְּעֵינָיו — הֲרֵי זֶה סַכָּנָה, וּמְחַלְּלִין עָלָיו...",
+      "it": "Il dolore agli occhi può essere pericoloso per la vita se è accompagnato da febbre o secrezione di sangue o pus. In tal caso si profana lo Shabbat per somministrare i rimedi necessari, inclusa la preparazione di collirio."
+    },
+    {
+      "n": 9,
+      "he": "הֶחֱלִיד אֶת הַיָּד בְּתוֹךְ הַחֲלָל — מְחַלְּלִין...",
+      "it": "Se una parte del corpo è rimasta incastrata in una cavità interna, e c'è rischio di morte, si profana lo Shabbat. In questo contesto, qualsiasi dubbio circa il pericolo di vita richiede di agire come se il pericolo fosse certo."
+    },
+    {
+      "n": 10,
+      "he": "אֵין מְרַפְּאִין בְּשַׁבָּת אֶת הַבָּרִיא...",
+      "it": "Non si somministrano rimedi medici allo Shabbat a una persona sana che vuole migliorare il proprio benessere, poiché i Saggi hanno vietato la medicazione ordinaria di Shabbat per l'uomo sano, come precauzione contro la macinatura di erbe medicinali."
+    },
+    {
+      "n": 11,
+      "he": "חַשׁ בְּשִׁנָּיו — לֹא יְגַמֵּא בַּחֹמֶץ...",
+      "it": "Per il mal di denti non si fa sciacqui con aceto (gargara) di Shabbat poiché è un rimedio evidente. Tuttavia, se intinge il cibo nell'aceto come al solito e in tal modo allevia il dolore, è permesso, poiché sembra mangiare normalmente."
+    },
+    {
+      "n": 12,
+      "he": "מִי שֶׁכְּאָבוֹ חָזָק — יְשַׁעֵן...",
+      "it": "Per chi soffre molto può appoggiarsi a qualcosa per sollievo, ma non può fare cose proibite per via rabbinica. Se il dolore è intenso al punto da indebolire tutto il corpo, si entra nella categoria del malato senza pericolo di vita e si allentano i divieti rabbinici."
+    },
+    {
+      "n": 13,
+      "he": "חוֹלֶה שֶׁצָּרִיךְ לֶאֱכֹל בְּיוֹם הַכִּפּוּרִים...",
+      "it": "Un malato che ha bisogno di mangiare nello Yom Kippur — si dà a lui da mangiare secondo il parere di esperti medici. Se non ci sono esperti, si dà a lui secondo il suo stesso giudizio. Meglio profanare uno Shabbat per salvargli la vita, che perdere tante Shabbatot."
+    },
+    {
+      "n": 14,
+      "he": "אֵין מְעַכְּבִין הַמַּיִם מֵחוֹלֶה...",
+      "it": "Non si trattiene l'acqua da un malato che ne ha bisogno nello Shabbat. Se è un malato in pericolo, si porta l'acqua anche trasgredendo divieti biblici. Se è senza pericolo, si porta l'acqua solo in modo permesso."
+    },
+    {
+      "n": 15,
+      "he": "מְיַלֶּדֶת מְחַלֶּלֶת שַׁבָּת עַל הַיּוֹלֶדֶת...",
+      "it": "Una levatrice profana lo Shabbat per assistere una partoriente: accende lumi, scalda acqua, e fa tutto il necessario. La nascita è considerata pericolo di vita per la madre."
+    },
+    {
+      "n": 16,
+      "he": "הַיּוֹלֶדֶת — מִשֶּׁיֵּשֵׁב הַוָּלָד...",
+      "it": "Dal momento in cui il bambino si presenta (misheyashav ha-valad), la partoriente è considerata in pericolo di vita. Durante i tre giorni successivi al parto si profana lo Shabbat su suo richiesto anche senza che dichiari di aver bisogno."
+    },
+    {
+      "n": 17,
+      "he": "מִיּוֹם שְׁלִישִׁי עַד שְׁבִיעִי...",
+      "it": "Dal terzo al settimo giorno dopo il parto, se la partoriente dice di aver bisogno di qualcosa si profana lo Shabbat per lei. Se non lo dice, non si profana lo Shabbat, ma si possono fare cose permesse o tramite un non ebreo."
+    },
+    {
+      "n": 18,
+      "he": "מֵעֶשֶׂר שְׁבִיעִי וָאֵילָךְ...",
+      "it": "Dal settimo giorno in poi la partoriente è trattata come qualsiasi altra persona malata senza pericolo di vita: non si profana lo Shabbat per lei, salvo indicazione medica contraria."
+    },
+    {
+      "n": 19,
+      "he": "גְּנַאי הוּא לוֹ לְחָכָם...",
+      "it": "È disonorevole per un saggio chiedere il permesso rabbinico prima di profanare lo Shabbat per un malato in pericolo. Chi si affretta ad agire senza indugi è lodevole, perché 'chi è premuroso nelle mitzvot è lodevole' e la vita umana è la mitzvah suprema."
+    },
+    {
+      "n": 20,
+      "he": "כָּל הַכֵּלִים נִטָּלִין בְּשַׁבָּת...",
+      "it": "Tutti gli strumenti medici possono essere spostati di Shabbat per il malato in pericolo di vita, anche se normalmente sarebbero muktzeh (proibiti da spostare). La necessità medica sposta ogni precauzione."
+    },
+    {
+      "n": 21,
+      "he": "הָרַב אוֹמֵר: כָּל הַמְהַדֵּר אַחַר הֶתֵּר...",
+      "it": "Conclude il capitolo: chi cerca con troppa scrupolosità una via permessa per non profanare lo Shabbat quando c'è pericolo di vita perde tempo prezioso e commette un errore. La Torah dice 'vivrete per mezzo di essi' — e non morirete per essi. Affrettarsi a salvare vite è la giusta condotta."
+    }
+  ],
+  "_glossary_terms_used": ["choleh she-yesh bo sakana", "choleh she-ein bo sakana", "karet", "issurim de-rabbanan", "muktzeh", "vechai bahem", "gargara"]
+}

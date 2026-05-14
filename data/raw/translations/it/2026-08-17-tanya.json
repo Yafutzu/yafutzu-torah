@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 41",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"א",
+  "name_it": "Tanya, Parte I — Likutei Amarim (Raccolta di Detti), capitolo 41",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-17",
+  "hebrew_date": "4 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "ענין קידוש השם ביאורו — שאדם מקדש שם שמים בכל עת ובכל שעה, כשעובד את ה' בכוונה ובלב שלם, ואפילו בדברים רגילים שבחיי היומיום.",
+      "it": "Il concetto di kiddush Hashem (santificazione del Nome Divino) — significa che una persona santifica il Nome dei Cieli in ogni momento e in ogni ora, quando serve D-o con intenzione e con cuore integro, anche nelle cose ordinarie della vita quotidiana."
+    },
+    {
+      "n": 2,
+      "he": "מסירת נפש — היא הדרגה העליונה של קידוש ה'. כשאדם מסכן את נפשו ואת חייו על כבוד ה' — מגיע לדרגה שאין למעלה הימנה. אבל קידוש ה' הפנימי של היומיום — גדול מאוד אף הוא.",
+      "it": "Il martirio (mesirat nefesh — letteralmente: la consegna dell'anima) è il grado supremo del kiddush Hashem. Quando una persona rischia la propria anima e la propria vita per l'onore di D-o — raggiunge un livello incomparabile. Tuttavia il kiddush Hashem interiore della vita quotidiana è anch'esso di grandissimo valore."
+    },
+    {
+      "n": 3,
+      "he": "הדרך המובחרת של קידוש השם היא: שיתנהג האדם בכל עניניו — במשא ומתן, בדיבורו, בלבושו — בצורה שאנשים יאמרו: 'אשרי אביו שלימדו תורה, אשרי רבו שלימדו תורה'.",
+      "it": "Il modo eccellente del kiddush Hashem è: che una persona si comporti in tutti i suoi affari — nel commercio, nel parlare, nel vestire — in un modo tale che la gente dica: 'Fortunato suo padre che gli ha insegnato Torah, fortunato il suo maestro che gli ha insegnato Torah'."
+    }
+  ],
+  "_glossary_terms_used": ["kiddush Hashem", "mesirat nefesh"]
+}

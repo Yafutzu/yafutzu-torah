@@ -1,0 +1,419 @@
+{
+  "gregorian": "2026-05-07",
+  "hebrew": { "day": 20, "month": "Iyyar", "year": 5786 },
+  "cycle": "rambam-3 (3-perakim daily)",
+  "translatedBy": "claude-sonnet-4-6 (Yafutzu — in-conversation)",
+  "translator_notes": "Traduzione accademica halachica. Termini tecnici talmudici mantenuti in traslitterazione: arvà/arayot (relazioni proibite), ervà (nudità/proibizione), yichud (intimità/privacy), niddà, mamzèr, shpachà (schiava). Citazioni bibliche tra parentesi quadre. «D-o» per Iddio secondo uso osservante.",
+  "perakim": [
+    {
+      "ref": "Mishneh Torah, Forbidden Intercourse 21",
+      "name_he": "הלכות איסורי ביאה, פרק כא",
+      "name_it": "Leggi delle unioni proibite — Hilchot Issurei Bià, capitolo 21",
+      "halachot_count": 32,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "כָּל הַבָּא עַל עֶרְוָה מִן הָעֲרָיוֹת דֶּרֶךְ אֵיבָרִים אוֹ שֶׁחִבֵּק וְנִשֵּׁק דֶּרֶךְ תַּאֲוָה וְנֶהֱנָה בְּקֵרוּב בָּשָׂר לוֹקֶה מִן הַתּוֹרָה",
+          "it": "Chiunque abbia contatto fisico con una delle arayot senza giungere alla congiunzione carnale, o l'abbracci e la baci per desiderio traendone piacere dal contatto dei corpi, riceve le maloct (flagellazione) per legge della Torah. È detto [Levitico 18:30]: «Guardarsi dall'agire secondo queste pratiche abominevoli», e [ibid. 18:6]: «Non vi avvicinerete per scoprire la nudità» — ossia, siamo proibiti di avvicinarci agli atti che conducono alla scoperta della nudità."
+        },
+        {
+          "n": 2,
+          "he": "כָּל הָעוֹשֶׂה דְּבָרִים אֵלּוּ הֲרֵי הוּא חָשׁוּד עַל הָעֶרְוָה. אָסוּר לְאָדָם לְקָרֵץ בְּיָדָיו אוֹ בְּרַגְלָיו אוֹ לִרְמֹז בְּעֵינָיו לְאַחַת מֵהָעֲרָיוֹת",
+          "it": "Chiunque compia questi atti è considerato sospettabile di transgredire le relazioni sessualmente proibite. È vietato a un uomo fare cenni con le mani o i piedi o ammiccare con gli occhi a una delle arayot, scherzare con lei o comportarsi con lei con leggerezza. È persino vietato odorarne il profumo o contemplarne la bellezza. Chi compia queste azioni intenzionalmente riceve makkot mardut (fustigazione per comportamento ribelle). Chi guardi anche solo un mignolo di una donna con intenzione di trarne piacere è come se ne guardasse le parti intime. È persino vietato udire la voce di una donna che è ervà per lui, o guardarne i capelli."
+        },
+        {
+          "n": 3,
+          "he": "דְּבָרִים אֵלּוּ אֲסוּרִין אַף בְּאִשָּׁה שֶׁהִיא אֲסוּרָה בְּלָאו בִּלְבַד",
+          "it": "Queste cose sono proibite anche nei confronti di una donna il cui divieto si fonda su un semplice comandamento negativo (lav). È tuttavia permesso guardare il viso di una donna nubile ed esaminarla, sia essa vergine o abbia già avuto rapporti, per vedere se è attraente ai propri occhi, allo scopo di sposarla. In tal caso non vi è alcuna proibizione, in quanto lo fa ai fini del matrimonio."
+        },
+        {
+          "n": 4,
+          "he": "אָסוּר לְאָדָם לְהִסְתַּכֵּל בְּנָשִׁים בְּשָׁעָה שֶׁחוֹזְרוֹת מִן הַמֵּת",
+          "it": "È vietato a un uomo fissare le donne mentre ritornano da accompagnare un morto. Non deve camminare in mezzo a loro, nemmeno alle loro spalle; né può camminare con loro sul medesimo percorso. Se si trova su un ponte o in un altro luogo stretto dove le donne passano, deve farsi da parte finché non siano passate. Tutte queste disposizioni mirano a distogliere la mente dai pensieri di tragressione."
+        },
+        {
+          "n": 5,
+          "he": "כָּל הַמַּסְתַּכֵּל אֲפִלּוּ בְּאֶצְבַּע קְטַנָּה שֶׁל אִשָּׁה דֶּרֶךְ תַּאֲוָה כְּאִלּוּ נִסְתַּכֵּל בִּמְקוֹם הַתֻּרְפָּה",
+          "it": "Chiunque guardi anche solo il mignolo di una donna con intenzione di trarne piacere è come se avesse guardato il luogo della nudità. È persino vietato udire la voce di una donna proibita come ervà, o guardare i suoi capelli."
+        },
+        {
+          "n": 6,
+          "he": "אָסוּר לְאָדָם לְהִסְתַּכֵּל בְּבִגְדֵי צִבְעוֹנִין שֶׁל אִשָּׁה שֶׁהוּא מַכִּירָהּ",
+          "it": "È vietato a un uomo fissare gli abiti colorati di una donna che conosce, anche se non è presente, qualora li abbia davanti a sé e la sua mente si rivolga a lei. Allo stesso modo, è vietato passare davanti a una donna prostituta (zonà) — anche davanti a lei è proibito fermarsi. È vietato passeggiarle vicino o stare nell'ingresso di casa sua, come è detto [Proverbi 5:8]: «Allontana da lei la tua via e non avvicinarti all'ingresso della sua casa.»"
+        },
+        {
+          "n": 7,
+          "he": "אָסוּר לְהִסְתַּכֵּל בְּאִשָּׁה יְפָה אֲפִלּוּ פְּנוּיָה",
+          "it": "È vietato fissare una donna avvenente, anche se è nubile. È vietato fissare una donna sposata per la sua bellezza, o guardare anche solo le sue tinture, i suoi colori o i suoi ornamenti. I Saggi hanno detto: «Chi si astiene dal guardare le donne non perverrà mai al peccato.»"
+        },
+        {
+          "n": 8,
+          "he": "חָכָם לֹא יִסְתַּכֵּל בִּבְהֵמוֹת וְחַיּוֹת בִּשְׁעַת עִסּוּקֵיהֶן",
+          "it": "Un sapiente non guarda gli animali e le bestie durante i loro accoppiamenti. È vietato a un uomo stare solo in presenza di due donne, ma una donna può stare sola in presenza di due uomini. Se si tratta di un uomo che si sospetta sia incline a relazioni illecite, non deve stare solo nemmeno in presenza di uomini, per non dare cattivo esempio."
+        },
+        {
+          "n": 9,
+          "he": "אֵשֶׁת אִישׁ שֶׁנֶּחְשְׁדָה עַל אַחֵר לֹא יִתְיַחֵד בַּעְלָהּ עִמָּהּ",
+          "it": "Una donna sposata sospettata di adulterio con un altro non deve stare in situazione di yichud (privacy) con il proprio marito finché non abbia bevuto le acque amare (me hamarìm). Se il marito non vuole farla bere, deve divorziarsi da lei. Allo stesso modo, è vietato a un uomo stare in yichud con qualsiasi donna proibita, foss'anche ella anziana o bambina piccola."
+        },
+        {
+          "n": 10,
+          "he": "אָסוּר לְאָדָם לִיְחוּד עִם שְׁתֵּי נָשִׁים",
+          "it": "È vietato a un uomo stare in yichud con due donne, perché le donne sono mentalmente instabili (da'atàn kallà). Un uomo però può stare solo con dieci donne, poiché la molteplicità dei testimoni è elemento deterrente. Una sola donna, al contrario, non deve stare sola con un uomo, neanche se ha la sua moglie presente a guardarla."
+        },
+        {
+          "n": 11,
+          "he": "הַמִּתְיַחֵד עִם פְּנוּיָה שֶׁאֵינָהּ בַּת נִשּׂוּאִין אַף עַל פִּי שֶׁהִיא פְּנוּיָה",
+          "it": "Chi sta in yichud con una donna nubile che non è adatta al matrimonio — sebbene essa sia nubile — viola un decreto rabbinico. Un uomo che sta in yichud con una donna anche se due uomini sono presenti nella stanza ma la porta è aperta su un luogo pubblico, è permesso, perché il pubblico sorveglia."
+        },
+        {
+          "n": 12,
+          "he": "אָסוּר לְאָדָם לִיְחוּד עִם גּוֹי",
+          "it": "È vietato allo stesso modo stare in yichud con una persona non ebrea (goì), sia maschile sia femminile, a causa del sospetto di relazioni illecite. Un ebreo che abbia costante dimora in un posto dove vi sia un solo goì, o un goì che abiti da solo — è vietato per un ebreo stare con lui in yichud."
+        },
+        {
+          "n": 13,
+          "he": "לֹא יִהְיֶה יְהוּדִי מִתְיַחֵד עִם גּוֹי",
+          "it": "Un ebreo non deve stare in yichud con un non ebreo in un posto sperduto, perché i non ebrei sono sospettati di spargimento di sangue. Ugualmente, non deve stare in yichud con un idolatra. Se c'è paura, quando si trovano in cammino devono far sì che l'ebreo abbia una via d'uscita."
+        },
+        {
+          "n": 14,
+          "he": "כֶּיצַד מֻתָּר לִיְחוּד. שֶׁתִּהְיֶה אִשְׁתּוֹ עִמּוֹ",
+          "it": "In quale modo è permesso lo yichud? Quando vi è la moglie con il marito. In ogni caso in cui sia proibito a un uomo stare in yichud con una donna, è permesso se la sua moglie è presente, perché la moglie sorveglia lui. Ma una donna ebrea non deve stare in yichud con un uomo non ebreo anche se sua moglie è presente, perché la moglie di un goì non lo sorveglia."
+        },
+        {
+          "n": 15,
+          "he": "לֹא יִהְיֶה אֶחָד מִיִּשְׂרָאֵל מִתְיַחֵד עִם הָאֵם",
+          "it": "Un ebreo non deve stare in yichud con sua madre, né con sua figlia. Se si trova a stare solo con sua madre, è permesso: la condizione naturale (le cure materne) impedisce la trasgressione. Analogamente per la figlia. Ma il fratello con la sorella, il padre con la figlia fatta adulta — vi sono dei Maestri che ritengono siano comunque proibiti in yichud, e così è il comportamento consono."
+        },
+        {
+          "n": 16,
+          "he": "כֻּלָּן שֶׁנַּעֲשׂוּ גָּדוֹלוֹת אֲבָל רְגִילִין בְּבֵיתוֹ",
+          "it": "Se una di queste donne è adulta ma abituata a stare in casa sua come servitrice — è vietato allo yichud, perché la familiarità porta alla trasgressione. Qualunque cosa che conduca al peccato è proibita, anche se non è il peccato stesso."
+        },
+        {
+          "n": 17,
+          "he": "מֻתָּר לָאִישׁ לְהִתְיַחֵד עִם אִמּוֹ וְעִם בִּתּוֹ",
+          "it": "È permesso a un uomo stare in yichud con sua madre e con sua figlia, staccarsi con loro, e dormire con loro nel corpo a corpo. L'istinto naturale protegge dall'avere pensieri proibiti. Tuttavia, qualora l'uomo sia dissoluto nella condotta e vi sia timor di peccato, è vietato."
+        },
+        {
+          "n": 18,
+          "he": "הֵיאַךְ מִתְנַהֵג אָדָם עִם קְרוֹבוֹתָיו",
+          "it": "Come deve comportarsi un uomo con le sue parenti? Le bacerà e le abbraccerà, come il fratello con la sorella e la madre con il figlio; e queste cose sono permesse purché la sua mente sia pura (levav zahov) e non vi sia in lui desiderio alcuno. Se il suo cuore lo trae verso di loro, è proibito anche solo toccarle."
+        },
+        {
+          "n": 19,
+          "he": "אָסוּר לָאִישׁ שֶׁתַּעֲשֶׂה לוֹ שׁוּם אִשָּׁה מִלָּאכָה",
+          "it": "È vietato che qualsiasi donna — sia essa minore o adulta, serva o affrancata — esegua servizi personali per un uomo, perché ciò potrebbe portarlo a pensieri di trasgressione. Quali servizi? Lavargli il viso, le mani o i piedi; stendergli il letto in sua presenza; versargli la coppa. Poiché queste cose le fa per un uomo solo sua moglie. Non deve nemmeno inviare saluti a una donna tramite un messaggero."
+        },
+        {
+          "n": 20,
+          "he": "כֵּיצַד מִתְנַהֵג עִם אִשָּׁה שֶׁאֵינָהּ אִשְׁתּוֹ",
+          "it": "Come ci si deve comportare con una donna che non è propria moglie? Non ci si avvicinerà a lei, non si parlerà con lei al di là del necessario, non si camminerà con lei in luogo appartato. Quando passa una donna per la strada, non le si parlerà da dietro; e a maggior ragione non la si guarderà fissamente in viso."
+        },
+        {
+          "n": 21,
+          "he": "אִשָּׁה שֶׁבַּעְלָהּ בָּעִיר לֹא תְּתַקֵּן עַצְמָהּ בִּפְנֵי אִישׁ זָר",
+          "it": "Una donna il cui marito si trova in città non si adornerà davanti a uomini estranei. Qualora il marito sia fuori città, deve essere particolarmente riservata. Tutte queste disposizioni si fondano sulla santità (kedushah) e la purezza morale proprie del popolo d'Israele."
+        },
+        {
+          "n": 22,
+          "he": "אָסוּר לָאָדָם לְקָרֵב עַצְמוֹ לְאִשְׁתּוֹ נִדָּה",
+          "it": "È vietato a un uomo avvicinarsi fisicamente alla propria moglie niddà, anche se lei è un'ervà in quel momento. Sebbene il suo cuore tragga soddisfazione nel vederla, poiché lei gli sarà permessa in seguito, non cadrà in trasgressione. Non deve però scherzare con lei né comportarsi con leggerezza, per non essere condotto al peccato."
+        },
+        {
+          "n": 23,
+          "he": "אָסוּר לָאִישׁ שֶׁתַּעֲשֶׂה לוֹ שׁוּם אִשָּׁה",
+          "it": "È vietato che qualsiasi donna svolga per un uomo servizi personali, per non indurlo a pensieri di trasgressione. Quali servizi? Lavargli il viso, le mani o i piedi, stendergli il letto in sua presenza, versargli la coppa — poiché queste cose sono fatte per un uomo solo da sua moglie. Un uomo non deve nemmeno inviare saluti a una donna in alcun modo, nemmeno tramite un messaggero."
+        },
+        {
+          "n": 24,
+          "he": "הַמְחַבֵּק אַחַת מִן הָעֲרָיוֹת שֶׁלֹּא דֶּרֶךְ תַּאֲוָה",
+          "it": "Chi abbraccia o bacia una delle donne proibite come arayot senza desiderio alcuno — per esempio la sorella adulta, la zia materna o simili — commette una cosa molto vergognosa (davar me'us), ed è proibito e comportamento stolto, anche se non prova alcun desiderio o piacere. Non si deve mostrare familiarità con una donna proibita come ervà in alcun modo, né adulta né minorenne, eccetto una madre con il figlio e un padre con la figlia."
+        },
+        {
+          "n": 25,
+          "he": "כֵּיצַד מִתְנַהֵג אָדָם עִם אֵשֶׁת אָחִיו",
+          "it": "Come ci si comporta con la moglie del fratello, con la moglie del padre, e con simili? Ci si astiene dal toccarle anche senza desiderio, anche se siamo parlando di una donna anziana. Non ci si stringe la mano con loro, non le si abbraccia, e non le si bacia nemmeno in modo non sensuale. È comportamento di kedushah e di separazione dagli atti vili."
+        },
+        {
+          "n": 26,
+          "he": "כָּל הַנּוֹגֵעַ בְּאֵשֶׁת אִישׁ",
+          "it": "Chiunque tocchi una donna sposata con intenzione di piacere, sebbene non vi sia azione carnale, viola una proibizione della Torah e merita la flagellazione, come detto: «Non vi avvicinerete per scoprire la nudità.» Quanto più severa la proibizione della congiunzione carnale con lei, tanto più severa è la proibizione di qualsiasi avvicinamento."
+        },
+        {
+          "n": 27,
+          "he": "אָסוּר לְאָדָם לְדַבֵּר עִם אִשָּׁה בַּשּׁוּק",
+          "it": "È vietato a un uomo parlare con una donna al mercato in modo prolungato, anche se è sua moglie, per non dare adito a chiacchiere. E a maggior ragione con la moglie d'altri. Chi parla troppo con le donne attira su di sé il male, trascura lo studio della Torah e finisce per ereditare la Geenna (Gheinnòm)."
+        },
+        {
+          "n": 28,
+          "he": "הַמַּסְתַּכֵּל בְּאֵשֶׁת אִישׁ כְּדֵי לֵהָנוֹת",
+          "it": "Chi fissa la moglie di un altro con intenzione di goderne la bellezza è come se avesse commesso adulterio con lei nel suo cuore, come detto [Giobbe 31:1]: «Strinsi un patto con i miei occhi, come potrei guardare una vergine?» Chi si astiene da questo non perverrà mai al peccato."
+        },
+        {
+          "n": 29,
+          "he": "הַפּוֹרֵשׁ עַצְמוֹ מִן הָעֲרָיוֹת",
+          "it": "Chi si distacca dalle arayot e dai pensieri illeciti su di esse — merita il titolo di kadosh (santo). Ogni persona che guarda soltanto a ciò che è permesso, e non si avvicina alle cose proibite, ha la sua parte nel Mondo a venire e viene chiamato santo."
+        },
+        {
+          "n": 30,
+          "he": "כֵּיצַד צְרִיכִין לִנְהֹג בְּנָשִׁים",
+          "it": "Come ci si deve comportare con le donne? Si deve cercare di non guardare le donne affatto, eccetto quando è necessario ai fini del matrimonio. Quando si è in compagnia di donne, si deve essere misurati nel parlare e non indugiare nelle conversazioni. I Saggi hanno detto: «Chi guarda anche solo al tallone di una donna ha già il suo cuore rivolto verso di lei.»"
+        },
+        {
+          "n": 31,
+          "he": "כָּל מִי שֶׁיֵּשׁ בּוֹ יֵצֶר הָרַע שֶׁל עֶרְוָה",
+          "it": "Chiunque sia dominato dall'istinto di trasgressione sessuale (yetzer ha-rà shel ervà) — dev'essere particolarmente diligente nello studio della Torah e nell'adempimento dei comandamenti, perché lo studio distoglie la mente dai pensieri malvagi. E i Saggi hanno detto: «La Torah è il grande antidoto (segulà) contro ogni istinto malvagio.»"
+        },
+        {
+          "n": 32,
+          "he": "כָּל הָאֶפְשָׁרִיּוֹת הָאֵלּוּ בְּאִיסּוּר עֶרְוָה",
+          "it": "Tutte queste precauzioni riguardanti il divieto delle relazioni sessuali proibite fanno parte della kedushah (santità) che la Torah prescrive a Israele. Il popolo d'Israele è un popolo santo, separato dall'impurità e dagli atti vili. Benedetto chi si distacca dalle trasgressioni e santifica se stesso nei comportamenti permessi, come detto [Levitico 19:2]: «Siate santi, poiché Io, il Signore vostro D-o, sono santo.»"
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Intercourse 22",
+      "name_he": "הלכות איסורי ביאה, פרק כב",
+      "name_it": "Leggi delle unioni proibite — Hilchot Issurei Bià, capitolo 22",
+      "halachot_count": 21,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "אָסוּר לְהִתְיַחֵד עִם עֶרְוָה מִן הָעֲרָיוֹת בֵּין זְקֵנָה בֵּין יַלְדָּה שֶׁדָּבָר זֶה גּוֹרֵם לְגַלּוֹת עֶרְוָה",
+          "it": "È vietato stare in yichud (intimità solitaria) con una delle donne proibite come arayot, sia essa anziana sia bambina piccola, perché tale comportamento conduce alla rivelazione della nudità (gillui ervà). Le eccezioni sono: una madre con suo figlio, un padre con sua figlia, e un marito con la propria moglie niddà. Se la sposa del futuro marito ha le mestruazioni prima che abbiano avuto rapporti coniugali, è proibito a lui stare in yichud con lei; lei dormirà tra le donne e lui tra gli uomini. Se hanno già avuto rapporti una volta e poi lei è diventata impura, è permesso stare in yichud con lei."
+        },
+        {
+          "n": 2,
+          "he": "לֹא נֶחְשְׁדוּ יִשְׂרָאֵל עַל מִשְׁכַּב זָכוּר",
+          "it": "Gli ebrei non sono sospettati di rapporti omosessuali (mishkav zachar) né di bestialità (rova). Pertanto è permesso a due uomini ebrei dormire insieme sotto lo stesso mantello, e non vi è obiezione a questo. Chi però si allontana dallo yichud anche con un maschio o con un animale merita lode. I Saggi di grande statura si allontanavano dagli animali per non restare soli con loro. Il divieto di yichud con le donne proibite come arayot è tramandato dalla Tradizione Orale."
+        },
+        {
+          "n": 3,
+          "he": "כְּשֶׁקָּרָה מַעֲשֵׂה אַמְנוֹן וְתָמָר",
+          "it": "Quando accadde il fatto di Amnon e Tamar, Davide e il suo tribunale decretarono il divieto di yichud con una donna nubile. Benché la donna nubile non sia un'ervà, tale atto è considerato come yichud con un'ervà. Shammai e Hillel decretarono il divieto di yichud con i non ebrei. Pertanto, chiunque stia in yichud con una donna — ebrea o non ebrea — con cui ciò è vietato, sia l'uomo che la donna ricevono makkot mardut e viene fatto un annuncio pubblico su di loro. Fanno eccezione le donne sposate: sebbene sia proibito stare in yichud con esse, se lo si fa non si riceve la flagellazione corporale, per non dar luogo a una voce che lei abbia commesso adulterio, onde si diffonda la notizia che i suoi figli siano mamzerim."
+        },
+        {
+          "n": 4,
+          "he": "כָּל מָקוֹם שֶׁנֶּאֱסַר הָאִישׁ לְהִתְיַחֵד עִם הָאִשָּׁה",
+          "it": "In ogni caso in cui a un uomo è vietato stare in yichud con una donna, è permesso se è accompagnato dalla propria moglie, perché la moglie lo sorveglia dalla trasgressione. Una donna ebrea non deve però stare in yichud con un uomo non ebreo nemmeno se sua moglie è con lui, perché la moglie di un non ebreo non lo sorveglia."
+        },
+        {
+          "n": 5,
+          "he": "אֵיזֶה הוּא יְחוּד הָאָסוּר",
+          "it": "Qual è lo yichud proibito? Ogni volta che i due si trovano in un luogo dal quale i passanti non possono vederli, oppure in un posto aperto dove qualcuno può vederli ma in un modo tale che nessuno presti attenzione a loro. Ma se ci sono testimoni o passanti che li vedono, non vi è yichud proibito."
+        },
+        {
+          "n": 6,
+          "he": "כֵּיצַד מֻתָּר לָאִישׁ לְהִתְיַחֵד עִם אִשְׁתּוֹ נִדָּה",
+          "it": "In che modo è permesso a un uomo stare in yichud con la propria moglie niddà? Il divieto di yichud non si applica alla moglie, anche quando ella è niddà, perché lei gli sarà nuovamente permessa. Non è così per le altre arayot. Tuttavia, egli non deve comportarsi con lei in modo frivolo né scherzare con lei eccessivamente."
+        },
+        {
+          "n": 7,
+          "he": "אָסוּר לָאָדָם לִישֹׁן בַּיָּחִיד",
+          "it": "È vietato a un uomo dormire da solo in una stanza, per non dare adito a pensieri di trasgressione. I Saggi hanno detto: «Chi dorme da solo — il suo spirito cattivo prende possesso di lui.» Deve dormire in compagnia, oppure con la porta aperta al pubblico."
+        },
+        {
+          "n": 8,
+          "he": "הָאִישׁ נִשְׁכָּר אֶצֶל אִשָּׁה",
+          "it": "Un uomo può essere assunto come operaio da una donna per un lavoro, purché altri siano presenti e non vi sia yichud. Egualmente, una donna può essere assunta come operaia da un uomo, purché siano presenti altri testimoni. In tutti questi casi, l'elemento chiave è l'assenza di yichud."
+        },
+        {
+          "n": 9,
+          "he": "לֹא יִכָּנֵס אָדָם לְבֵית הַקְּבָרוֹת",
+          "it": "Un uomo non deve entrare in un cimitero in compagnia di sole donne, per non incorrere nello yichud proibito. Se vi è un solo uomo con due donne, è proibito; ma se vi è un uomo con molte donne in un luogo pubblico, è permesso, poiché la presenza pubblica funge da deterrente."
+        },
+        {
+          "n": 10,
+          "he": "כָּל יְחוּד שֶׁאוֹמְרִין הָאוֹמְרִין",
+          "it": "Qualunque caso di yichud che venga descritti dai Saggi come proibito — si tratta sempre di una precauzione (seyag) a protezione contro la trasgressione sessuale. Non si tratta di una semplice raccomandazione morale, bensì di un vero divieto di legge. Chi trasgredisce riceve makkot mardut."
+        },
+        {
+          "n": 11,
+          "he": "הֵיאַךְ מִתְנַהֲגִין בְּבֵית הַמֶּרְחַץ",
+          "it": "Come ci si comporta nei bagni pubblici (beit ha-merchaètz)? Una donna non può lavarsi insieme a un uomo che non sia suo marito. Un uomo non può lavarsi con sua figlia adulta. Ogni qualvolta due persone di sesso opposto si trovino in un luogo privato senza abiti — è il caso tipico di yichud proibito."
+        },
+        {
+          "n": 12,
+          "he": "לֹא יְדַבֵּר אָדָם עִם אִשָּׁה בַּשּׁוּק",
+          "it": "Un uomo non deve parlare con una donna al mercato in modo prolungato, neanche se è sua moglie, per non dare adito a chiacchiere. Se è inevitabile, parli brevemente e si allontani. È vietato scambiare messaggi scritti con donne proibite, anche tramite terzi."
+        },
+        {
+          "n": 13,
+          "he": "כֵּיצַד שׁוֹמְרִין מִן הַיִּחוּד",
+          "it": "Come ci si protegge dallo yichud proibito? Assicurandosi che la porta sia aperta su un luogo frequentato dal pubblico; oppure che vi sia un'altra persona presente nella stanza; oppure che si svolga in un luogo pubblico dove le persone entrano ed escono continuamente. Se tutte queste condizioni mancano, vi è yichud proibito."
+        },
+        {
+          "n": 14,
+          "he": "אֵין מוֹסְרִין בְּהֵמָה חַיָּה וְעוֹף לְרוֹעֶה גּוֹי",
+          "it": "Non si affidano animali domestici, bestie selvatiche o volatili a un pastore non ebreo, nemmeno un maschio a un pastore maschio né una femmina a una pastora femmina, perché tutti i non ebrei sono sospettati di bestialità. Abbiamo già spiegato che i non ebrei sono proibiti nei rapporti omosessuali e nella bestialità, ed è detto [Levitico 19:14]: «Non porre inciampo davanti al cieco.»"
+        },
+        {
+          "n": 15,
+          "he": "מִפְּנֵי מָה אֵין מוֹסְרִין בְּהֵמָה נְקֵבָה לְגוֹי נְקֵבָה",
+          "it": "Perché non si affida un animale femmina a una pastora non ebrea? Perché tutti i non ebrei sono presunti dissoluti (chashudim al ha-arayot), e quando un uomo non ebreo verrà a dormire con la pastora, si potrebbero trovare soli con gli animali. Questa è una delle misure di separazione che i Saggi hanno istituito per preservare la purezza morale di Israele."
+        },
+        {
+          "n": 16,
+          "he": "אֵין מַשְׂכִּירִין בָּתִּים לְגוֹיִם",
+          "it": "Non si affittano case ai non ebrei in Eretz Yisrael, perché si teme che conducano là pratiche di idolatria e di immoralità. Al di fuori di Eretz Yisrael è permesso affittare loro case, ma non le si può vendere loro in quei luoghi dove gli ebrei abitano in modo stabile."
+        },
+        {
+          "n": 17,
+          "he": "אָסוּר לְאָדָם לִישֹׁן בְּקָרוֹן עִם גּוֹי",
+          "it": "È vietato a un uomo dormire in un carro insieme a un non ebreo, per il pericolo di bestialità nei confronti dell'ebreo. Se però è necessario viaggiare insieme, uno starà da un lato e l'altro dall'altro lato, e vi sarà qualcuno a sorvegliarli."
+        },
+        {
+          "n": 18,
+          "he": "אֵין הָאִשָּׁה יְהוּדִית מִתְיַחֶדֶת עִם גּוֹי",
+          "it": "Una donna ebrea non deve stare in yichud con un uomo non ebreo, perché tutti i non ebrei sono sospettati di licenziosità (zenut). Questo vale anche se sua moglie è presente, perché la moglie di un non ebreo non lo sorveglia adeguatamente. Ugualmente, una donna ebrea non deve stare in yichud con un schiavo non liberato (eved), anche se il padrone è presente."
+        },
+        {
+          "n": 19,
+          "he": "הָאִישׁ עִם הַזָּכוּר",
+          "it": "Come detto, gli ebrei non sono sospettati di rapporti omosessuali. Tuttavia, qualora vi sia un individuo che si sa essersi macchiato di questo peccato, è vietato stare con lui in yichud. Lo stesso vale per chiunque abbia fama di comportamenti moralmente dissoluti: si deve evitare ogni situazione di yichud con lui."
+        },
+        {
+          "n": 20,
+          "he": "בָּרִאשׁוֹנָה הָיוּ אוֹמְרִין",
+          "it": "In origine si diceva: un uomo non deve stare in yichud con due donne, ma una donna può stare in yichud con due uomini. In seguito i Savi hanno stabilito che anche una donna non deve stare in yichud con due uomini, eccetto in luoghi dove c'è frequente passaggio di persone. In locande, un maschio ebreo non deve dormire con maschi non ebrei, né una femmina con femmine non ebree."
+        },
+        {
+          "n": 21,
+          "he": "אֵין מוֹסְרִין בְּהֵמָה חַיָּה וְעוֹף לְגוֹי",
+          "it": "Non si affida un animale, una bestia o un volatile a un pastore non ebreo, nemmeno un maschio a un maschio né una femmina a una femmina, perché tutti sono sospettati di bestialità. Abbiamo già spiegato che i non ebrei sono proibiti nella bestialità e nell'omosessualità, ed è detto: «Non porre inciampo davanti al cieco.» Il motivo per cui non si affida una femmina a una pastora non ebrea è che tutti i non ebrei sono presunti dissoluti, e un uomo non ebreo potrebbe venire a dormire con la pastora e rimanere da solo con l'animale."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 1",
+      "name_he": "הלכות מאכלות אסורות, פרק א",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 1",
+      "halachot_count": 24,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "מִצְוַת עֲשֵׂה לֵידַע הַסִּימָנִין שֶׁמַּבְדִּילִין בָּהֶן בֵּין בְּהֵמָה וְחַיָּה וְעוֹף וְדָגִים וַחֲגָבִים שֶׁמֻּתָּר",
+          "it": "Vi è un comandamento positivo (mitzvat asè) di conoscere i segni distintivi (simanim) che distinguono tra animali domestici (behemà), bestie selvatiche (chayà), volatili (of), pesci (dagim) e cavallette (chagavim) che è permesso mangiare e quelli che non è permesso mangiare, come è detto [Levitico 11:2]: «Questi sono gli esseri viventi che mangerete.» L'imparare questi segni è un comandamento positivo."
+        },
+        {
+          "n": 2,
+          "he": "סִימָנֵי בְּהֵמָה וְחַיָּה הַטְּהוֹרָה שְׁנַיִם הֵם",
+          "it": "I segni di purità (kashrut) dell'animale domestico e della bestia selvatica sono due: avere le unghie fesse (mafresset parsà) e ruminare (ma'alat guerà). Qualunque animale che abbia entrambi i segni è permesso; qualunque che ne manchi di uno o di entrambi è proibito. La Torah ha specificato tre animali che hanno un solo segno: il cammello rumina ma non ha le unghie fesse; la lepre e il coniglio ruminano ma non hanno le unghie fesse; il maiale ha le unghie fesse ma non rumina."
+        },
+        {
+          "n": 3,
+          "he": "כָּל שֶׁיֵּשׁ לוֹ קְרָנַיִם הוּא מַעֲלֶה גֵּרָה",
+          "it": "Qualunque animale abbia le corna rumina, ed è quindi permesso. La Torah ha scritto i segni affinché si possa riconoscere l'animale in assenza di tradizione esplicita. Qualsiasi animale che abbia corna divise e unghie fesse è permesso, anche se non lo si conosce."
+        },
+        {
+          "n": 4,
+          "he": "עֶשֶׂר בְּהֵמוֹת טְהוֹרוֹת נִמְנוּ בַּתּוֹרָה",
+          "it": "La Torah ha enumerato dieci specie di animali domestici e bestie selvatiche permesse: bue (shor), pecora (keves), capra (ez), cervo (ayàl), gazzella (tzvi), capriolo (yachmuèr), oryx (akò), stambecco (dishon), bisonte (teo) e ruminante selvaggio (zamer). Le prime tre sono animali domestici; le restanti sette sono bestie selvatiche. Le bestie selvatiche si distinguono dagli animali domestici per il fatto che il loro grasso (chelev) è permesso e il loro sangue deve essere ricoperto (kisui ha-dam). Se vi è dubbio se un animale sia domestico o selvatico, il suo grasso è proibito per dubbio, ma non si riceve flagellazione per mangiarlo, e il suo sangue deve essere ricoperto."
+        },
+        {
+          "n": 5,
+          "he": "אֵיזֶהוּ חַיָּה הַטְּהוֹרָה. כֹּל שֶׁיֵּשׁ לוֹ קַרְנַיִם וּפְרָסוֹת",
+          "it": "Qual è la bestia selvatica pura? Qualunque abbia corna ramificate (keranaym mefutzalot). Un animale le cui corna siano a forma di sega (mnusar), o a spirale (aqalqal), o che abbia più punte, o siano solide e non cave — è una bestia selvatica. Qualunque abbia corna come il bovino, che siano cave e che crescano dalla base — è un animale domestico."
+        },
+        {
+          "n": 6,
+          "he": "אֵיזֶה הוּא כּוֹי",
+          "it": "Qual è il koi? È una specie ibrida nata dall'incrocio di un animale domestico puro e di una bestia selvatica pura. Il suo grasso (chelev) è proibito per dubbio, non si riceve flagellazione per mangiarlo, e il suo sangue deve essere ricoperto. Una specie non pura non può mai essere fecondata da una specie pura."
+        },
+        {
+          "n": 7,
+          "he": "סִימָנֵי הָעוֹף לֹא נִתְפָּרְשׁוּ בַּתּוֹרָה",
+          "it": "I segni di purità del volatile non sono esplicitati dalla Torah, che invece ha elencato ventiquattro specie di volatili impuri. Qualunque volatile che non appartenga a queste specie è permesso. I Saggi hanno stabilito quattro segni tramandati come indicativi di un volatile permesso: non essere rapace (dores), avere la zampa posteriore con la direttrice del piede (ovar etzba yeter), avere il gozzo (mursa), e avere il ventriglio (qurqevan) che si sbuccia con le mani. Se il volatile ha tutti e quattro i segni è permesso; ma non ci si fida di questi segni a meno che non vi sia una tradizione tramandata che la specie è permessa."
+        },
+        {
+          "n": 8,
+          "he": "כָּל עוֹף הַדּוֹרֵס טָמֵא",
+          "it": "Qualunque volatile sia rapace (dores) è impuro. Ogni volatile che non sia rapace e per il quale vi sia una tradizione che sia permesso, è permesso. La colazione non la fa con la zampa, non mangia con la zampa preme il cibo. Lo dà a sapere che è puro. Il falco e i suoi simili sono tutti impuri perché si cibano con la zampa. La gru, la colomba e i loro simili sono puri perché non si cibano con la zampa."
+        },
+        {
+          "n": 9,
+          "he": "סִימָנֵי הַדָּגִים שְׁנֵי סִימָנִין",
+          "it": "I segni di purità del pesce sono due: avere pinne (snapir) e squame (kaskeset). Qualunque pesce che abbia pinne e squame è permesso; qualunque che ne sia privo di uno o di entrambi è proibito. Anche se si conosce il pesce e si sa che ha squame in mare ma le perde quando viene estratto dall'acqua — è permesso."
+        },
+        {
+          "n": 10,
+          "he": "כָּל שֶׁיֵּשׁ לוֹ קַשְׂקַשִּׂים יֵשׁ לוֹ סְנַפִּיר",
+          "it": "Qualunque pesce abbia squame (kaskeset) ha anche pinne (snapir); ma non tutto ciò che ha pinne ha squame. Pertanto le squame sono il segno determinante per la purità del pesce. Chi vede squame su un pesce sa che è permesso, senza bisogno di altro segno."
+        },
+        {
+          "n": 11,
+          "he": "הַשֶּׁרֶץ הַמַּיִם שֶׁאֵין לוֹ סְנַפִּיר וְקַשְׂקַשִּׂים",
+          "it": "Lo scerets (creatura strisciante) delle acque che non ha pinne né squame è proibito, come è detto [Levitico 11:10]: «Tutto ciò che non ha pinne e squame nei mari e nei fiumi, tra tutte le cose vive delle acque e tra tutte le creature viventi che vi si trovano, è abominazione per voi.» Chi ne mangi una misura d'oliva (kezayit) è passibile di flagellazione per legge della Torah."
+        },
+        {
+          "n": 12,
+          "he": "סִימָנֵי חֲגָבִים אַרְבָּעָה",
+          "it": "I segni di purità delle cavallette (chagavim) sono quattro: avere quattro zampe, quattro ali che coprano la maggior parte del corpo, gli stinchi anteriori sporgenti per saltare, e le ali che coprano la maggior parte del corpo. Qualunque cavalletta che abbia questi quattro segni è permessa. Tuttavia, poiché è difficile distinguere le specie, in pratica ci si basa sulla tradizione (massoret) di ogni comunità."
+        },
+        {
+          "n": 13,
+          "he": "כָּל חָגָב שֶׁיֵּשׁ לוֹ אַרְבַּע רַגְלַיִם",
+          "it": "Qualunque cavalletta abbia quattro zampe, quattro ali, stinchi sporgenti per saltare e le ali coprano la maggior parte del corpo è permessa. Quelle di cui non si conosce il nome tramandato — si necessita di tradizione. La tradizione delle comunità yemenite, ad esempio, è che il gafam sia permesso; e così ogni comunità segue la propria tradizione tramandata."
+        },
+        {
+          "n": 14,
+          "he": "שְׁמוֹנָה שְׁרָצִים הַמְפֹרָשִׁים בַּתּוֹרָה",
+          "it": "Otto specie di scerets (creature striscianti) sono esplicitamente menzionate dalla Torah come proibite [Levitico 11:29-30]: la talpa (choled), il topo (achbar), il coccodrillo (tzav), il geco (anakà), il lucertolino (koach), la lucertola (letaà), la lumaca (chomet), e la talpa cieca (tinshèmet). Chi mangi una misura d'oliva (kezayit) di una di queste specie, o anche solo un'oliva intera di una di esse, è passibile di flagellazione."
+        },
+        {
+          "n": 15,
+          "he": "אֵין הַשְּׁרָצִים מִטַּמְּאִין בְּמַשָּׂא",
+          "it": "Le creature striscianti proibite non rendono impuri per portamento (massa'), ma soltanto per contatto (maga'). Se uno le tocca — lui e ciò che si trova sui di lui diventa impuro. Ma se le porta senza toccarle, non c'è impurità. Questo è il caso della talpa e del topo e dei loro simili."
+        },
+        {
+          "n": 16,
+          "he": "שְׁרֶצֶץ הָעוֹף — שְׁמוֹנָה",
+          "it": "I volatili striscianti impuri menzionati dalla Torah [Levitico 11:19-20] sono quelli che camminano sul ventre o che hanno quattro zampe. Tra questi vi sono le lumache, i bruchi e tutti i loro simili. Chi ne mangi una misura d'oliva è passibile di flagellazione secondo la Torah."
+        },
+        {
+          "n": 17,
+          "he": "שֶׁרֶץ הָאֲדָמָה שֶׁאֵין לוֹ עַצְמוֹת",
+          "it": "Il rettile (shéretz ha-adamà) che non ha ossa — come la lumaca da giardino — è proibito per legge della Torah. Chi ne mangi una misura d'oliva è passibile di flagellazione, come è detto [Levitico 11:41]: «Qualunque cosa che striscerà sul suolo sarà abominazione, non si mangerà.»"
+        },
+        {
+          "n": 18,
+          "he": "אֵין הַשֶּׁרֶץ מְטַמֵּא בִּמְשָׂא",
+          "it": "La creatura strisciante non rende impura per portamento (massa') bensì solo per contatto diretto. Anche un topo o simile creatura, se li porta senza toccarli con le mani, non vi è impurità. Ma se li tocca — vi è impurità."
+        },
+        {
+          "n": 19,
+          "he": "הַנּוֹגֵעַ בְּשֶׁרֶץ הָאֲדָמָה טָמֵא",
+          "it": "Chi tocca una creatura strisciante terrestre (shéretz ha-adamà) diventa impuro e rende impuro ciò che tocca per primo, ma non ciò che tocca per secondo (ossia è rishon le-tum'à). Questa è l'impurità della Torah. I Saggi tuttavia hanno stabilito misure di protezione aggiuntive."
+        },
+        {
+          "n": 20,
+          "he": "הַבָּא בְּחֶלֶב בְּהֵמָה שֶׁמֵּתָה",
+          "it": "Chi mangi il grasso (chelev) di un animale domestico morto (neveilà) o di uno non macellato ritualmente (terefà), o chi mangi il grasso (chelev) di un animale che non sia dei tre specie di bovini, ovini o caprini — non è passibile di flagellazione per aver mangiato il chelev, bensì soltanto per aver mangiato la neveilà o la terefà. Il chelev delle altre specie è permesso."
+        },
+        {
+          "n": 21,
+          "he": "פִּרְצוּף מְבַשֵּׁל שֶׁל עֵגֶל הַיּוֹצֵא מִן הַבְּהֵמָה",
+          "it": "Il feto trovato nel ventre di una bestia macellata ritualmente è permesso. Anche il suo sangue è permesso, perché fa parte della carne della madre. Non è necessario macellarlo separatamente, ma è sufficiente la macellazione della madre. Tuttavia, se il feto era vivo e uscì dalla madre dopo la macellazione, necessita di macellazione rituale propria."
+        },
+        {
+          "n": 22,
+          "he": "בְּהֵמָה שֶׁיָּלְדָה כְּמִין בְּהֵמָה אַחֶרֶת",
+          "it": "Un animale domestico kosher che partorisca un cucciolo simile ad un animale non kosher — in linea di principio è permesso se si è visto partorire l'animale puro. Se invece si è trovato il cucciolo strano nel gregge senza sapere da dove provenisse, è dubbio e proibito."
+        },
+        {
+          "n": 23,
+          "he": "בְּהֵמָה טְמֵאָה שֶׁיָּלְדָה כְּמִין טְהוֹרָה",
+          "it": "Un animale domestico non kosher che partorisca un cucciolo simile ad un animale kosher — è proibito, anche se ha unghie fesse e rumina e somiglia in tutto a un bue o a una pecora. Il principio è: ciò che nasce da un animale impuro è impuro; ciò che nasce da uno puro è puro. Per questo motivo, un pesce non kosher trovato nel ventre di un pesce kosher è proibito; e un pesce kosher trovato nel ventre di un pesce non kosher è permesso, perché il pesce esterno non lo ha generato ma lo ha inghiottito."
+        },
+        {
+          "n": 24,
+          "he": "בְּהֵמָה טְהוֹרָה שֶׁיָּלְדָה כְּמִין שְׁנֵי גַּבִּין",
+          "it": "Un animale kosher che partorisca un cucciolo con due dorsi e due colonne vertebrali, o che tale creatura venga trovata all'interno di un animale macellato, è proibita a mangiarsi. Questo è ciò che si chiama hashissuà, proibita dalla Torah, come è detto [Deuteronomio 14:7]: «Questi non mangerete tra quelli che ruminano e hanno le unghie fesse, il shisuà...», ossia un animale nato diviso in due. Analogamente, se un embrione simile a un volatile viene trovato dentro un animale macellato, è proibito, anche se assomiglia a un volatile kosher. Quando un embrione viene trovato in un animale, solo quello che ha lo zoccolo è permesso."
+        }
+      ]
+    }
+  ],
+  "_glossary_terms_used": ["arayot", "ervà", "yichud", "niddà", "mamzèr", "makkot mardut", "kedushah", "gillui ervà", "zenut", "behemà", "chayà", "of", "dagim", "chagavim", "simanim", "parsà", "ma'alat guerà", "chelev", "kisui ha-dam", "snapir", "kaskeset", "shéretz", "neveilà", "terefà", "kezayit"]
+}

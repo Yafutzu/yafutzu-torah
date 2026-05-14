@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shaar Avot HaTumah 2-4",
+  "name_he": "משנה תורה, הלכות שאר אבות הטומאות, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi degli Altri Fonti Primarie di Impurità, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-08-29",
+  "hebrew_date": "16 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "שמונה שרצים שמנתה תורה — מטמאים במגע. ושיעורם — כעדשה. פחות מכעדשה — אינו מטמא.",
+      "it": "Gli otto sheratzim (creature brulicanti) elencati dalla Torah — rendono impuri mediante il tocco. La quantità minima — è come una lenticchia (kada'at). Meno di una lenticchia — non rende impuro."
+    },
+    {
+      "n": "2:2",
+      "he": "שרץ שמת — אינו מטמא אלא עד שיתפרק. כל עוד הוא שלם — מטמא.",
+      "it": "Uno sheretz morto — rende impuro finché non si è decomposto. Finché è intero — rende impuro."
+    },
+    {
+      "n": "2:3",
+      "he": "העצמות של שרץ — אינם מטמאים. דמו — אם הוא בכמות כלשהי — מטמא כגופו.",
+      "it": "Le ossa dello sheretz — non rendono impuro. Il suo sangue — se è in qualche quantità — rende impuro come il corpo stesso."
+    },
+    {
+      "n": "3:1",
+      "he": "הנבלה — כל בהמה שמתה בלא שחיטה, בין טהורה בין טמאה — נבלה. ומטמאת במגע ובמשא.",
+      "it": "La nevelah — qualsiasi animale che sia morto senza shechitah (macellazione rituale), sia puro che impuro — è nevelah. E rende impuro mediante il tocco e il trasporto."
+    },
+    {
+      "n": "3:2",
+      "he": "שיעור הנבלה — כזית. פחות מכזית — אינה מטמאת.",
+      "it": "La quantità minima della nevelah — è come un'oliva (kazayit). Meno di un'oliva — non rende impura."
+    },
+    {
+      "n": "3:3",
+      "he": "בהמה שנשחטה ורוב שניה נחתכו — הרי היא נבלה, אף שעדיין חיה.",
+      "it": "Un animale la cui maggioranza dei denti (le giunture tra esofago e trachea) è stata recisa — è già nevelah, anche se è ancora vivo."
+    },
+    {
+      "n": "4:1",
+      "he": "אבר המדולדל — אבר שנחתך מחיי הבהמה, אך עדיין מחובר בגידים — מטמא כנבלה, אף שלא נגמרה חיתוכו.",
+      "it": "L'ever min ha-chai (un arto reciso da un animale vivo) — un arto che è stato reciso dall'animale mentre è ancora in vita, ma è ancora attaccato dai tendini — rende impuro come la nevelah, anche se il taglio non è stato completato."
+    },
+    {
+      "n": "4:2",
+      "he": "איסור אכילת אבר מן החי — הוא אחד משבע מצוות בני נח. כלומר — הוא חל גם על האומות.",
+      "it": "Il divieto di mangiare l'ever min ha-chai (un arto da un animale ancora vivo) — è uno dei sette precetti dei figli di Noè (Sheva Mitzvot Bnei Noach). Vale a dire — si applica anche alle nazioni del mondo."
+    },
+    {
+      "n": "4:3",
+      "he": "ולגבי טומאה — איסור ever min ha-chai הוא גם מטמא כנבלה. כדי ללמד שהאיסור אינו רק עניין של צלם אלוהים, אלא גם של טהרה.",
+      "it": "Riguardo all'impurità — il divieto dell'ever min ha-chai rende anche impuro come la nevelah. Per insegnare che il divieto non è solo questione di dignità della creazione, ma anche di purità (tahorah)."
+    },
+    {
+      "n": "4:4",
+      "he": "השחיטה הכשרה — מתירה את הבהמה לאכילה ומונעת טומאת נבלה. לכן שחיטה — היא גם מצוה וגם הכרח הלכתי.",
+      "it": "La shechitah kasherah — permette l'animale al consumo e previene l'impurità della nevelah. Pertanto la shechitah è sia un precetto sia una necessità halakhica."
+    },
+    {
+      "n": "4:5",
+      "he": "כוונת השוחט — להוציא את הדם ולהתיר הבשר. ואם שחט בלא כוונה — כשרה השחיטה, שהשחיטה אינה תלויה בכוונה.",
+      "it": "L'intenzione del macellaio (shochet) — è di far uscire il sangue e di permettere la carne. Se macelló senza intenzione — la shechitah è valida, poiché la shechitah non dipende dall'intenzione."
+    },
+    {
+      "n": "4:6",
+      "he": "לכן — כל שחיטה שנעשית כהלכתה, בסכין ישרה וחדה, בלי עיכוב או לחיצה — כשרה, גם אם השוחט חשב על דבר אחר.",
+      "it": "Pertanto — qualsiasi shechitah eseguita correttamente, con un coltello liscio e affilato, senza esitazione o pressione — è valida, anche se il macellaio stava pensando ad altro."
+    }
+  ],
+  "_glossary_terms_used": ["sheratzim", "kada'at", "nevelah", "shechitah", "kazayit", "ever min ha-chai", "Sheva Mitzvot Bnei Noach", "tahorah", "shochet"]
+}

@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 13-14",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות יג–יד",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettere 13–14",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-23",
+  "hebrew_date": "8 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שְׁלֹשָׁה לְבוּשִׁים שֶׁל הַנֶּפֶשׁ — מַחֲשָׁבָה דִּבּוּר וּמַעֲשֶׂה...",
+      "it": "Lettera 13: L'Alter Rebbe spiega i tre 'vestiti' dell'anima (levushei hanefesh) — pensiero (machshavah), parola (dibbur), e azione (ma'aseh). Questi tre livelli esprimono e rivelano l'anima nel mondo. Quando una persona studia Torah (dibbur e machshavah) e compie mitzvot (ma'aseh), i tre vestiti diventano strumenti di unione con Dio."
+    },
+    {
+      "n": 2,
+      "he": "הַתּוֹרָה וְהַמִּצְווֹת מְזַכְּכִין אֶת הַלְּבוּשִׁים...",
+      "it": "Torah e mitzvot purificano e affinano i tre vestiti dell'anima: il pensiero viene purificato attraverso lo studio delle idee sacre, la parola attraverso la preghiera e lo studio ad alta voce, e l'azione attraverso l'esecuzione fisica delle mitzvot. Ogni vestito, una volta purificato, risplende con la Luce Divina che l'attraversa."
+    },
+    {
+      "n": 3,
+      "he": "אַהֲבַת ה' וְאַהֲבַת יִשְׂרָאֵל...",
+      "it": "Lettera 14: L'Alter Rebbe insegna che l'amore di Dio (ahavat Hashem) e l'amore di Israele (ahavat Yisrael) sono inseparabili. Come può una persona dire di amare Dio e odiare il Suo figlio? Il Talmud (Shabbat 31a) cita Hillel: 'Non fare al tuo prossimo ciò che è odioso per te — questa è tutta la Torah, il resto è commento.'"
+    },
+    {
+      "n": 4,
+      "he": "כָּל אֶחָד מִיִּשְׂרָאֵל יֵשׁ לוֹ חֵלֶק אֱלוֹהַּ...",
+      "it": "Ogni ebreo ha una 'parte di Dio' (chelek Eloah) nell'anima. Perciò chi ama Dio ama ogni sua manifestazione — e ogni anima ebraica è una manifestazione della Luce Divina. L'Alter Rebbe conclude: l'amore per il prossimo non è semplicemente un precetto etico, ma una conseguenza diretta della comprensione della natura divina di ogni anima ebraica."
+    }
+  ],
+  "_glossary_terms_used": ["levushei hanefesh", "machshavah", "dibbur", "ma'aseh", "ahavat Hashem", "ahavat Yisrael", "chelek Eloah", "Alter Rebbe", "Tanya", "Iggeret HaKodesh"]
+}

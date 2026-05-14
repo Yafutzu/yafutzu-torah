@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Edut 10-12",
+  "name_he": "משנה תורה, הלכות עדות פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza, capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-12-13",
+  "hebrew_date": "4 Tevet 5787",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "10:1-5",
+      "he": "עֵדִים זוֹמְמִין — כֵּיצַד נֶעֱנָשִׁין...",
+      "it": "(Edut cap. 10, hal. 1-5) La punizione degli edim zomemim: ricevono la pena che intendevano infliggere all'accusato. Se intendevano farlo condannare a morte — vengono giustiziati. Se intendevano farlo condannare a fustigazione — vengono fustigati. Se intendevano fargli pagare denaro — pagano loro quella somma. La regola «ka'asher zamam» è precisa: il tribunale applica la stessa pena. Questo principio di giustizia retributiva è uno dei meccanismi più potenti di deterrenza contro la falsa testimonianza."
+    },
+    {
+      "n": "11:1-4",
+      "he": "הָיוּ מֵאָה עֵדִים וְהוּזַמּוּ — כֻּלָּן נֶעֱנָשִׁין...",
+      "it": "(Edut cap. 11, hal. 1-4) Se cento testimoni hanno cospirato — tutti e cento ricevono la punizione. La hazamah non richiede che la seconda coppia testimoni contro ogni singolo della prima coppia separatamente — basta che smascherino la coppia come gruppo. Questione: se su cento edim zomemim, uno di essi si converte alla teshuvah prima della sentenza — viene incluso ugualmente nella punizione? Il Rambam segue la posizione che tutti vengono puniti poiché hanno tutti partecipato al piano."
+    },
+    {
+      "n": "12:1-4",
+      "he": "אֵין הַזָּמָה נוֹהֶגֶת בְּדִינֵי מָמוֹנוֹת...",
+      "it": "(Edut cap. 12, hal. 1-4) La hazamah si applica con la stessa forza nelle cause capitali e in quelle monetarie. Ma vi è una differenza: nelle cause capitali, la hazamah porta alla pena di morte per gli edim zomemim; nelle cause monetarie, porta alla restituzione finanziaria. Il principio rimane identico: «ka'asher zamam» — ciò che ha cospirato di fare, viene fatto a lui. La hazamah è un meccanismo unico della legge ebraica — nessun sistema giuridico antico aveva un equivalente così preciso di giustizia retributiva per i falsi testimoni."
+    }
+  ],
+  "_glossary_terms_used": [
+    "edim zomemim", "ka'asher zamam", "hazamah", "teshuvah", "beit din"
+  ]
+}

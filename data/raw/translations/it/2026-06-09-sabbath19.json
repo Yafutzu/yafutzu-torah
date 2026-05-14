@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Sabbath 19",
+  "name_he": "הלכות שבת פרק י\"ט",
+  "name_it": "Leggi dello Shabbat, Capitolo 19",
+  "cycle": "rambam-1",
+  "date": "2026-06-09",
+  "hebrew_date": "24 Sivan 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַכֵּלִים הַמְיֻחָדִים",
+      "it": "Gli utensili 'designati' (meyuchadim, מְיֻחָדִים) — cioè riservati esplicitamente a un uso specifico — non sono muktzeh anche se normalmente non si usano di Shabbat. Il principio è: la designazione mentale del proprietario determina lo status dell'oggetto più dell'uso effettivo."
+    },
+    {
+      "n": 2,
+      "he": "כְּלִי שֶׁיֵּשׁ לוֹ שְׁנֵי שִׁמּוּשִׁין",
+      "it": "Un utensile con due usi — uno permesso e uno proibito di Shabbat — segue l'uso prevalente (ikkar hashimush, עִיקַּר הַשִּׁמּוּשׁ). Se l'uso principale è permesso, si può usare di Shabbat per entrambi gli scopi. Se l'uso principale è proibito, è muktzeh per entrambi."
+    },
+    {
+      "n": 3,
+      "he": "מִטָּה שֶׁיֵּשׁ עָלֶיהָ",
+      "it": "Un letto (mittah, מִטָּה) è un utensile il cui uso è permesso di Shabbat. Si può spostare, piegare le lenzuola, e usarlo normalmente. Tuttavia se vi sono sopra oggetti muktzeh, bisogna fare attenzione a non spostarli insieme al letto."
+    },
+    {
+      "n": 4,
+      "he": "קִפּוּל הַבְּגָדִים",
+      "it": "Piegare (kippul, קִפּוּל) i vestiti di Shabbat è un argomento delicato. I Saggi permisero di piegare i vestiti di Shabbat in alcune circostanze: se si ha un solo vestito, se non c'è domestico disponibile, e se si piega in modo diverso dall'uso settimanale normale."
+    },
+    {
+      "n": 5,
+      "he": "הַכֵּיצַד מְקַפְּלִין",
+      "it": "Come si piegano i vestiti permessi di Shabbat? Due persone possono piegarli insieme. Si piega un indumento e non più di uno. Si piega in modo che non sembri il normale gesto di preparazione della settimana — altrimenti sembra preparare (mekhin, מְכִין) per la giornata feriale."
+    },
+    {
+      "n": 6,
+      "he": "מַצִּיעִין אֶת הַמִּטָּה",
+      "it": "Si possono rifare i letti (matzi'in et hamittah, מַצִּיעִין אֶת הַמִּטָּה) di Shabbat in preparazione del Shabbat stesso — cioè per dormirci di Shabbat. Non si rifanno i letti la sera di Shabbat (motza'ei Shabbat) in preparazione per la settimana."
+    },
+    {
+      "n": 7,
+      "he": "הַמְרַסֵּק הַשֶּׁלֶג",
+      "it": "Non si frantuma il ghiaccio (sheleg, שֶׁלֶג) o la grandine (barad, בָּרָד) di Shabbat per ottenere acqua, poiché questo equivale a 'libun' (לִבּוּן — rendere bianco/ammorbidire) o a una forma di 'nolad' (נוֹלָד — nuova creazione di sostanza). Il ghiaccio può sciogliersi da solo — ma non lo si frantuma deliberatamente."
+    },
+    {
+      "n": 8,
+      "he": "שׁוֹרִין דָּגִים",
+      "it": "Si può mettere in ammollo (shorin, שׁוֹרִין) del pesce secco (dagim yevashtim, דָּגִים יְבֵשִׁים) in acqua fredda di Shabbat, poiché l'ammollo in acqua fredda non è un processo di cottura. Tuttavia non si mette in acqua calda (chamayin chamim, חַמַּיִן חַמִּין) poiché potrebbe cuocere."
+    },
+    {
+      "n": 9,
+      "he": "הַמַּרְחִיץ אֶת הַקָּטָן",
+      "it": "Si può lavare (marchitz, מַרְחִיץ) un bambino piccolo (katan, קָטָן) di Shabbat in acqua tiepida. Il bambino ha un bisogno immediato di igiene e i Saggi non decretarono divieti severi per la cura dei bambini piccoli."
+    },
+    {
+      "n": 10,
+      "he": "הַמַּרְחִיץ בְּחַמִּין",
+      "it": "Non si bagna tutto il corpo (kol gufo, כָּל גּוּפוֹ) in acqua calda di Shabbat, anche se fu scaldata prima di Shabbat. Questo decreto rabbininico fu introdotto per impedire l'abuso — i bagnini scalcavano segretamente l'acqua di Shabbat. Mani, viso e piedi si possono lavare in acqua calda preriscaldata."
+    },
+    {
+      "n": 11,
+      "he": "הַנִּרְחָץ בְּמֶרְחָץ",
+      "it": "Non si usa un bagno pubblico (merchatza, מֶרְחָצָה) di Shabbat anche se le acque non furono scaldate di Shabbat, a causa del divieto 'uvdin d'chol' (עוּבְדִין דְּחוֹל — azione feriale) — mantenere l'atmosfera di Shabbat distinta dai giorni feriali."
+    },
+    {
+      "n": 12,
+      "he": "מַה שֶׁמֻּתָּר בְּרְחִיצָה",
+      "it": "Cosa è permesso nel lavaggio di Shabbat? Lavarsi mani, viso e piedi in acqua preriscaldata è permesso. Nuotare o bagnarsi in un fiume o mare naturale ha anch'esso delle limitazioni per decreto rabbinico — poiché potrebbe portare a strizzare (sechitah, שְׂחִיטָה) gli abiti."
+    },
+    {
+      "n": 13,
+      "he": "סִיכָה",
+      "it": "L'unzione del corpo (sikha, סִיכָה) con olio di Shabbat è permessa per chi è sano. Chi è malato e ha bisogno dell'unzione come rimedio — ci sono limitazioni secondo le stesse regole della medicina di Shabbat."
+    },
+    {
+      "n": 14,
+      "he": "שִׁנּוּי בְּגָדִים בְּשַׁבָּת",
+      "it": "Cambiare vestiti di Shabbat (shinui bgadim, שִׁנּוּי בְּגָדִים) — indossare abiti speciali di Shabbat — è una mitzvah, non solo un permesso. Vestirsi con rispetto per il Shabbat (kavod Shabbat, כְּבוֹד שַׁבָּת) è una dimensione positiva dell'onore del giorno."
+    },
+    {
+      "n": 15,
+      "he": "הַסּוֹחֵט בְּשַׁבָּת",
+      "it": "Strizzare (sochait, סוֹחֵט) un panno bagnato di Shabbat per ricavarne acqua è proibito poiché equivale a 'desh' (דַּיִשׁ — trebbiatura/estrazione) o a 'laundry'. Strizzare capelli bagnati dopo un bagno è analogamente proibito."
+    },
+    {
+      "n": 16,
+      "he": "נוֹתֵן שֶׁמֶן",
+      "it": "Versare olio sulla testa di Shabbat — non per massaggiare ma semplicemente per ungersi — è permesso. L'unzione è diversa dal lavaggio poiché non comporta l'uso di acqua che potrebbe portare a strizzare."
+    },
+    {
+      "n": 17,
+      "he": "עִשּׂוּי שֵׂיעָר",
+      "it": "Non si pettinano i capelli (isuy se'ar, עִשּׂוּי שֵׂיעָר) di Shabbat con un pettine fitto (masrek, מַסְרֵק) poiché si rischia di tirare fuori capelli (ntilas se'arot, נְטִילַת שְׂעָרוֹת), che è proibito di Shabbat come forma di 'gozez' (גּוֹזֵז — tosatura). Si può usare un pettine a denti larghi."
+    },
+    {
+      "n": 18,
+      "he": "הַמְגַלֵּחַ",
+      "it": "Non si rade la barba (megale'ach, מְגַלֵּחַ) di Shabbat, poiché questo viola il divieto di 'gozez' (tosatura). Anche strappare peli a mano è proibito. Questo vale per tutto il corpo — capelli, barba, e qualsiasi pelo corporeo."
+    },
+    {
+      "n": 19,
+      "he": "הַגּוֹזֵז אֶת הַצִּפָּרְנַיִם",
+      "it": "Non si tagliano le unghie (tzipornaim, צִפָּרְנַיִם) di Shabbat con strumenti — solo con i denti è discutibile se permesso. Questo è un derivato di 'gozez'. Le unghie devono essere tagliate prima di Shabbat come parte della preparazione."
+    },
+    {
+      "n": 20,
+      "he": "תִּסְפֹּרֶת וְסִפּוּר",
+      "it": "Il taglio dei capelli (tispores, תִּסְפֹּרֶת) di Shabbat è proibito come lavoro della Torah nella categoria del 'gozez'. Né il parrucchiere né il cliente possono partecipare a questo atto di Shabbat, nemmeno 'solo un po'."
+    }
+  ],
+  "_glossary_terms_used": ["meyuchadim", "ikkar hashimush", "muktzeh", "mittah", "kippul", "libun", "nolad", "sheleg", "barad", "katan", "sikha", "kavod Shabbat", "desh", "masrek", "gozez", "tzipornaim", "tispores", "uvdin d'chol", "sechitah"]
+}

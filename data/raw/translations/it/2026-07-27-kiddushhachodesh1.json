@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 1",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק א",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 1",
+  "cycle": "rambam-1",
+  "date": "2026-07-27",
+  "hebrew_date": "13 Av 5786",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה שֶׁיִּקְדַּשׁ בֵּית דִּין אֶת הַחֳדָשִׁים וְיִחַשְּׁבוּ הַשָּׁנִים וְיַעֲשׂוּ הָעִבּוּרִין, שֶׁנֶּאֱמַר: 'הַחֹדֶשׁ הַזֶּה לָכֶם רֹאשׁ חֳדָשִׁים'.",
+      "it": "Vi è un comandamento positivo che il Tribunale (Beit Din) santifichi i mesi, calcoli gli anni e determini gli anni intercalari, come è detto: 'Questo mese per voi sarà il primo dei mesi' (Esodo 12:2)."
+    },
+    {
+      "n": 2,
+      "he": "אֵין מְקַדְּשִׁין אֶת הַחֹדֶשׁ אֶלָּא עַל פִּי הָרְאִיָּה, שֶׁיָּבֹאוּ עֵדִים וְיָעִידוּ בִּפְנֵי בֵּית דִּין שֶׁרָאוּ אֶת הַיָּרֵחַ.",
+      "it": "Si santifica il mese soltanto in base alla testimonianza — che vengano testimoni (edim) e depongano davanti al Tribunale di aver visto la luna nuova (yareach)."
+    },
+    {
+      "n": 3,
+      "he": "לֹא מִצְּבָא הַשָּׁמַיִם הָיוּ מְחַשְּׁבִין, אֶלָּא עַל פִּי הָרְאִיָּה.",
+      "it": "Non si calcolava in base ai corpi celesti da soli, ma in base alla testimonianza oculare."
+    },
+    {
+      "n": 4,
+      "he": "רֹאשׁ חֹדֶשׁ — הוּא יוֹם חִדּוּשׁ הַחֹדֶשׁ. וְחֻדְּשׁוֹ — הוּא תְּחִלַּת הִתְחַדְּשׁוּת הַיָּרֵחַ.",
+      "it": "Rosh Chodesh è il giorno del rinnovamento del mese. Il suo rinnovamento è l'inizio del rinnovarsi della luna."
+    },
+    {
+      "n": 5,
+      "he": "מִנְהַג הַשָּׁנִים שֶׁנּוֹהֲגִין בָּהֶן יִשְׂרָאֵל — הֵן הַשָּׁנִים הַיְּרֵחִיּוֹת, כְּלוֹמַר הַשָּׁנִים הַמְּחֻשָּׁבוֹת לְפִי הַיָּרֵחַ.",
+      "it": "Il sistema degli anni usato da Israele è quello degli anni lunari (shanim yerchiot) — anni calcolati in base alla luna."
+    },
+    {
+      "n": 6,
+      "he": "וְהַשָּׁנִים שֶׁאָנוּ מְחַשְּׁבִין — אֵין אָנוּ מְחַשְּׁבִין אֶלָּא לִפְנֵי תְּקוּפַת הַשֶּׁמֶשׁ, כְּלוֹמַר לְעִנְיַן הָרְאִיָּה בִּלְבַד.",
+      "it": "Gli anni che calcoliamo li calcoliamo soltanto in relazione al ciclo solare (tekufat ha-shemesh), ai fini della determinazione della visibilità della luna."
+    },
+    {
+      "n": 7,
+      "he": "כָּל הַחֳדָשִׁים — אֵין פָּחוֹת מִשְּׁלֹשִׁים יוֹם, וְלֹא יוֹתֵר מִשְּׁלֹשִׁים אֶחָד.",
+      "it": "Tutti i mesi non sono mai meno di trenta giorni né più di trentuno."
+    },
+    {
+      "n": 8,
+      "he": "חֹדֶשׁ שֶׁנִּקְדַּשׁ בֵּין בַּיּוֹם בֵּין בַּלַּיְלָה — מְקֻדָּשׁ.",
+      "it": "Un mese che è stato santificato dal Beit Din — sia di giorno sia di notte — è santificato e valido."
+    }
+  ],
+  "_glossary_terms_used": ["Beit Din", "Rosh Chodesh", "edim", "yareach", "tekufat ha-shemesh", "shanim yerchiot"]
+}

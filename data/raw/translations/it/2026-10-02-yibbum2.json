@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 2",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק ב",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-02",
+  "hebrew_date": "21 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵין הָאִשָּׁה נֶאֱסֶרֶת בְּיִיבּוּם אֶלָּא מֵאָחִיו שֶׁמָּת בְּלֹא בָּנִים…",
+      "it": "La donna entra nell'obbligo di yibbum soltanto se il marito è morto senza progenie. Se il marito lascia un figlio o una figlia, un nipote o qualsiasi discendente, anche da un'altra donna — la yevamah è completamente libera e non necessita né di yibbum né di chalitzah. Il termine «benim» (figli) nella Torah è interpretato in modo ampio da includere ogni discendenza valida."
+    },
+    {
+      "n": 2,
+      "he": "הָאַח שֶׁנּוֹלַד אַחַר מִיתַת אָחִיו…",
+      "it": "Il fratello nato dopo la morte del defunto — non è obbligato nello yibbum. Il rapporto di fratellanza deve essere preesistente alla morte. Tuttavia il fratello concepito prima della morte del defunto ma nato dopo — secondo alcune opinioni è incluso nell'obbligo. La halachah è che solo il fratello nato durante la vita del defunto è pienamente obbligato."
+    },
+    {
+      "n": 3,
+      "he": "הָאַח הַשֻּׁתָּף לַמּוּרִישׁ בְּקַרְקַע — חַיָּב בְּיִיבּוּם…",
+      "it": "Il requisito «vivono insieme» (Deut. 25:5) — i Saggi spiegano che non significa necessariamente che vivono fisicamente sotto lo stesso tetto. Significa piuttosto che il fratello è erede del defunto, ovvero che condividono lo stesso padre. Non importa se il fratello viva in un'altra città o persino in un altro paese — l'obbligo di yibbum resta valido finché è fratello dal lato paterno."
+    },
+    {
+      "n": 4,
+      "he": "הָיוּ לוֹ נָשִׁים רַבּוֹת וּמֵת — כֻּלָּן צָרוֹת זוֹ לָזוֹ…",
+      "it": "Se il defunto aveva più mogli — tutte sono yevamot (cognate) obbligate verso i fratelli del defunto. Le mogli del defunto sono chiamate «tzarot» (co-mogli) le une rispetto alle altre in questo contesto. Se una di esse è nella categoria delle arayot rispetto al yavam — non solo lei stessa è esclusa dall'obbligo, ma tutte le sue «tzarot» (co-mogli) sono anch'esse esentate dall'obbligo."
+    },
+    {
+      "n": 5,
+      "he": "גֵּרוּשָׁה שֶׁנִּשֵּׂאת לְאָחִיו וָמֵת — אֵינָהּ זְקוּקָה לְיִיבּוּם…",
+      "it": "Una donna divorziata che si è risposata con il fratello del suo ex marito e questi è morto — non è soggetta allo yibbum rispetto agli altri fratelli, se la sua prima relazione con il primo fratello crea un legame di parentela che la rende proibita. Il Rambam esamina le complesse situazioni in cui catene di matrimoni e divorzi creano o eliminano l'obbligo di yibbum."
+    },
+    {
+      "n": 6,
+      "he": "מִי שֶׁיֵּשׁ לוֹ אַח מִן הָאָב — אֲפִלּוּ הוּא מַמְזֵר — חַיָּב בְּיִיבּוּם…",
+      "it": "Chi ha un fratello dal lato paterno — anche se questi è un mamzer (nato da unione proibita) — è comunque obbligato nello yibbum verso la cognata, perché il rapporto di fratellanza per fini di yibbum si determina esclusivamente dalla discendenza paterna. Questo è uno dei casi in cui lo status di mamzer non elimina l'obbligo legale derivante dalla parentela di sangue."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yibbum", "chalitzah", "yavam", "yevamah", "tzarot", "arayot", "mamzer", "benim"
+  ]
+}

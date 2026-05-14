@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nizkei Mamon 8-10",
+  "name_he": "משנה תורה, הלכות נזקי ממון, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi dei Danni ai Beni (Nizkei Mamon), capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-09-25",
+  "hebrew_date": "14 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": 8,
+      "he": "זֶה וְזֶה גּוֹרֵם — שְׁנֵי גּוֹרְמִים גָּרְמוּ נֵזֶק: אֶחָד אָשֵׁם יוֹתֵר מֵהַשֵּׁנִי — מִשַּׁמְּשִׂין אֶת הָאַחֲרָאִי הַגָּדוֹל יוֹתֵר.",
+      "it": "Entrambi causano (ze ve-ze gorem) — due cause hanno causato il danno: uno è più responsabile dell'altro — si valuta il responsabile principale."
+    },
+    {
+      "n": 9,
+      "he": "שְׁנֵי גּוֹרְמִין שָׁוִין — חוֹלְקִין בְּשָׁוֶה. כְּגוֹן שֶׁנֶּאֶבְדָה בְּהֵמָה מֵחֲמַת שְׁנֵי גּוֹרְמִים שָׁוִים.",
+      "it": "Due cause equivalenti — si divide equamente. Ad esempio se un animale è perito a causa di due cause equivalenti."
+    },
+    {
+      "n": 10,
+      "he": "חוֹפֵר בּוֹר בִּרְשׁוּת הָרַבִּים וְנָפַל בּוֹ שׁוֹר — אִם הָיָה הַשּׁוֹר מוּעָד וְרָץ — יֵשׁ לְחַלֵּק אֶת הָאַחְרָיוּת.",
+      "it": "Chi ha scavato una fossa nel dominio pubblico e vi è caduto un bue — se il bue era mu'ad e stava correndo — si divide la responsabilità."
+    },
+    {
+      "n": "9:1",
+      "he": "צְרוֹרוֹת — אֲבָנִים שֶׁנִּתְזוּ מִתַּחַת רַגְלֵי הַבְּהֵמָה — הֲלָכָה לְמֹשֶׁה מִסִּינַי שֶׁמְּשַׁלֵּם חֲצִי נֵזֶק.",
+      "it": "Tzrorot — pietre schizzate da sotto le zampe dell'animale — è halakhah tramandatasi a Mosè dal Sinai che si paga metà del danno."
+    },
+    {
+      "n": "9:2",
+      "he": "מַדּוּעַ חֲצִי נֵזֶק? שֶׁהַצְּרוֹרוֹת אֵינָן רֶגֶל מַמָּשׁ — שֶׁהָרֶגֶל מֻעֶדֶת לְפַצֵּעַ — אֶלָּא דֶּרֶךְ עֲקִיפִין.",
+      "it": "Perché metà del danno? Perché le tzrorot non sono propriamente 'piede' — perché il piede è recidivo nel calpestare — ma un danno indiretto."
+    },
+    {
+      "n": "9:3",
+      "he": "נִתְּזוּ הַצְּרוֹרוֹת בִּרְשׁוּת הָרַבִּים — מְשַׁלֵּם חֲצִי נֵזֶק. נִתְּזוּ בִּרְשׁוּת הַנִּזָּק — מְשַׁלֵּם נֵזֶק שָׁלֵם.",
+      "it": "Se le tzrorot sono schizzate nel dominio pubblico — si paga metà del danno. Se nel dominio della vittima — si paga danno integrale."
+    },
+    {
+      "n": "10:1",
+      "he": "הַמַּזִּיק בִּגוּפוֹ בְּיָדַיִם — כְּגוֹן שֶׁשָּׁבַר כְּלֵי חֲבֵרוֹ — מְשַׁלֵּם מִן הָעִדִּית כָּאָדָם הַמַּזִּיק.",
+      "it": "Chi danneggia con il proprio corpo fisicamente — ad esempio se ha rotto gli utensili del prossimo — paga con terreni di prima qualità come un essere umano che causa danno."
+    },
+    {
+      "n": "10:2",
+      "he": "הַמְסַיֵּעַ לְמַזִּיק — פָּטוּר בְּדִינֵי אָדָם אֲבָל חַיָּב בְּדִינֵי שָׁמַיִם.",
+      "it": "Chi aiuta il responsabile del danno — è esente nei tribunali umani ma responsabile nei tribunali celesti."
+    },
+    {
+      "n": "10:3",
+      "he": "הַמַּזִּיק שֶׁלֹּא בְּיָדַיִם אֶלָּא בְּגַרְמָא — כְּגוֹן שֶׁהִדְלִיק אֵשׁ בְּמָקוֹם שֶׁנָּפַל עַל רְכוּשׁ חֲבֵרוֹ — חַיָּב בְּדִינֵי שָׁמַיִם, וּלְפִי הַדִּין מְקִיל.",
+      "it": "Chi causa danno non direttamente ma indirettamente (garma) — ad esempio se ha acceso un fuoco in un posto che poi è caduto sulla proprietà del prossimo — è responsabile nei tribunali celesti, e la legge è più leniente."
+    }
+  ],
+  "_glossary_terms_used": ["ze ve-ze gorem", "tzrorot", "garma", "idit", "dinei shamayim", "regel"]
+}

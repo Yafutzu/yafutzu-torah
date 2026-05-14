@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 7",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ז",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-13",
+  "hebrew_date": "4 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַחֵלֶב — אָסוּר לֶאֱכֹל, שֶׁנֶּאֱמַר: כָּל חֵלֶב שׁוֹר וְכֶשֶׂב וָעֵז לֹא תֹאכֵלוּ…",
+      "it": "Il chelev (grasso proibito) — è proibito mangiarlo, come scritto: «Kol chelev shor ve-khesev va-ez lo tokhelu» (Tutto il grasso di bue, pecora e capra non mangerete — Lev. 7:23). Il chelev proibito è il grasso che avvolge gli organi interni: i reni, lo stomaco, l'intestino, e il grasso che circonda il cuore e il fegato. Chi mangia un ka-zayit di chelev deliberatamente è soggetto a karet; per errore — deve portare un sacrificio espiatorio (korban chatat)."
+    },
+    {
+      "n": 2,
+      "he": "אֵיזֶהוּ חֵלֶב הָאָסוּר — הוּא הַחֵלֶב הַמְכַסֶּה אֶת הַקֶּרֶב…",
+      "it": "Quale grasso è il chelev proibito? Il grasso che copre le interiora (ha-mechasseh et ha-kerev), il grasso dei reni (chelev ha-kelayot), e il grasso della milza. Il chelev si caratterizza per la sua consistenza: è un grasso solido, biancastro, che si separa facilmente dalla carne sottostante. Il shuman (grasso permesso) — il grasso intercalato tra i muscoli, che non si separa facilmente — è permesso. La distinzione pratica richiede la perizia di un menakker (addetto alla rimozione) qualificato."
+    },
+    {
+      "n": 3,
+      "he": "חֵלֶב בְּהֵמוֹת טְהוֹרוֹת — אָסוּר…",
+      "it": "Il chelev di animali domestici puri (beheimot tehorot) — ossia bovini, ovini, e caprini — è proibito. Il chelev di animali selvatici puri (chayot) — cervo, daino, etc. — è permesso, sebbene sia grasso simile. Il chelev di animali non-kosher è anch'esso proibito ma per il divieto generale degli animali non-kosher, non specificamente per il divieto del chelev. Il divieto di chelev si applica quindi solo alle tre specie di animali domestici puri menzionate dalla Torah."
+    },
+    {
+      "n": 4,
+      "he": "הַמְנַקֵּר — הוּא הַמּוֹצִיא חֵלֶב וְגִיד הַנָּשֶׁה…",
+      "it": "Il menakker (addetto alla nikur — rimozione) è il professionista specializzato nell'arte di rimuovere il chelev e il gid ha-nasheh (nervo sciatico) dalla carne prima della vendita. Il menakker deve possedere una conoscenza approfondita dell'anatomia degli animali kosher e delle precise localizzazioni del chelev proibito. In molte comunità della Diaspora — specialmente in Europa e America — l'operazione di nikur delle parti posteriori dell'animale (inguine, cosce) è così complessa e dispendiosa che le comunità preferiscono vendere quelle parti a macellai non-ebrei piuttosto che effettuare il nikur."
+    },
+    {
+      "n": 5,
+      "he": "חֵלֶב שֶׁנִּבְלַע בַּבָּשָׂר — בְּבִישּׁוּל — אוֹסֵר אוֹ לֹא…",
+      "it": "Se il chelev si è sciolto e assorbito nella carne durante la cottura: il principio di «ta'am ke-ikar» (il sapore è come la sostanza) — se il chelev dà sapore alla carne durante la cottura, quella carne assume lo status di chelev proibito. La regola del bitul be-shishim (nullificazione in sessanta parti): se il rapporto tra chelev proibito e carne permessa è inferiore a 1:60, il chelev è nullificato halakhicamente e la carne è permessa. Se il rapporto è 1:60 o superiore — tutta la carne è proibita."
+    },
+    {
+      "n": 6,
+      "he": "חֵלֶב שֶׁמֻּתָּר לִשְׁתַּמֵּשׁ בּוֹ…",
+      "it": "Il chelev — sebbene proibito nel mangiare — è permesso per altri usi (mutar be-hana'ah): per unguenti, candele, lubrificanti. Solo il chelev di un animale che è stato consacrato (hekdesh) o di un animale che è stato condannato (shor ha-niskal) è proibito anche nell'uso. Questo contrasta con il vino di libagione dei pagani (yayin nesech) che è proibito sia nel consumo sia nell'uso. La distinzione riflette i diversi livelli di proibizione nella halakhah: ma'achalot asurot (proibiti nel mangiare) vs. issurei hana'ah (proibiti in ogni beneficio)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chelev", "shuman", "menakker", "nikur", "karet", "korban chatat", "gid ha-nasheh", "ta'am ke-ikar", "bitul be-shishim", "hekdesh", "yayin nesech", "issurei hana'ah", "beheimot tehorot"
+  ]
+}

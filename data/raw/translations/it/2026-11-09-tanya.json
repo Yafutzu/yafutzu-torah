@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 7",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק ז",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 7",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-09",
+  "hebrew_date": "29 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַצַּדִּיק — אֲשֶׁר נֶפֶשׁ הָאֱלֹהִית גּוֹבֶרֶת עַל הַבְּהֵמִית…",
+      "it": "Il tzaddik (giusto) è definito dall'Alter Rebbe non semplicemente come «uno che osserva i comandamenti» — ma come colui nel quale la nefesh ha-Elohit ha completamente trionfato sulla nefesh ha-behamit. Nel tzaddik, il bene non solo domina il male — il male è stato trasformato in bene. La Mishnah (Berakhot 61b) parla di coloro il cui yetzer tov (impulso al bene) regna su di loro — il tzaddik è colui il cui yetzer tov domina completamente."
+    },
+    {
+      "n": 2,
+      "he": "שְׁנֵי מַדְרֵגוֹת בְּצַדִּיק — גָּמוּר וְאֵינוֹ גָּמוּר…",
+      "it": "Vi sono due livelli nel tzaddik: (1) Tzaddik gamur (completamente giusto): nel suo cuore, il desiderio del male è stato completamente estirpato — non sente più alcuna attrazione per il peccato. Il male non esiste più in lui come forza attiva. Questo è il livello supremo della perfezione spirituale umana. (2) Tzaddik she-eino gamur (non completamente giusto): la nefesh ha-behamit esiste ancora in lui, ma è completamente sottomessa — non ha potere di esprimersi nella parola, nel pensiero, né tantomeno nell'azione. Entrambi i livelli sono ben al di là della raggiungibilità della persona comune."
+    },
+    {
+      "n": 3,
+      "he": "הַצַּדִּיק גָּמוּר — נֶהְפָּךְ בּוֹ הָרַע לְטוֹב…",
+      "it": "L'aspetto più profondo del tzaddik gamur: in lui il yetzer ha-ra è stato completamente convertito in yetzer tov — la sua nefesh ha-behamit è stata talmente purificata che ora serve D-o con la stessa intensità con cui avrebbe precedentemente cercato il piacere materiale. Questa è la «avodah be-itkafya» (servizio attraverso la sottomissione) portata al suo apice — «be-ithapcha» (servizio attraverso la trasformazione): il male stesso diventa strumento di santità. L'Alter Rebbe cita i Patriarchi come esempi di tzaddikim che hanno raggiunto questo livello."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzaddik", "nefesh ha-Elohit", "nefesh ha-behamit", "yetzer tov", "yetzer ha-ra", "tzaddik gamur", "avodah be-itkafya", "be-ithapcha", "Alter Rebbe"
+  ]
+}

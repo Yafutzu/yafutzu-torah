@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Pesulei HaMukdashim 11-13",
+  "name_he": "משנה תורה, הלכות פסולי המוקדשין, פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi delle Offerte Invalide, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-07-24",
+  "hebrew_date": "10 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "11:1",
+      "he": "קָדְשֵׁי קָדָשִׁים — פְּסוּלֵיהֶן חֲמוּרִים מִקָּדָשִׁים קַלִּים. כִּי קָדְשֵׁי קָדָשִׁים נֶאֱכָלִין בִּקְצָרוֹ שֶׁל יוֹם — יֶתֶר קְדֻשָּׁתָן מַחְמִירָה בִּפְסוּלֵיהֶן.",
+      "it": "Le offerte di massima santità (qodshei qodashim) hanno invalidità più severe di quelle di minore santità (qodashim qalim). Poiché le qodshei qodashim si mangiano entro il giorno stesso — la loro maggiore santità rende più severe le loro invalidità."
+    },
+    {
+      "n": "11:2",
+      "he": "קָדָשִׁים קַלִּים — נֶאֱכָלִין בִּשְׁנֵי יָמִים וְלַיְלָה שֶׁבֵּינֵיהֶם.",
+      "it": "Le qodashim qalim si mangiano nell'arco di due giorni e la notte che li separa."
+    },
+    {
+      "n": "11:3",
+      "he": "נוֹתַר שֶׁל קָדְשֵׁי קָדָשִׁים — מֵיוֹם וָלַיְלָה. נוֹתַר שֶׁל קָדָשִׁים קַלִּים — מִשְּׁנֵי יָמִים.",
+      "it": "Il notar delle qodshei qodashim — si calcola da un giorno e una notte. Il notar delle qodashim qalim — da due giorni."
+    },
+    {
+      "n": "12:1",
+      "he": "קָרְבָּן שֶׁהוּקְרַב וְלֹא נִגְמְרָה עֲבוֹדָתוֹ — לֹא עָלְתָה כַּפָּרָה לַבְּעָלִים.",
+      "it": "Un sacrificio che è stato offerto ma il cui servizio non è stato completato — non ha fornito espiazione al proprietario."
+    },
+    {
+      "n": "12:2",
+      "he": "כֵּיצַד? שָׁחַט וְלֹא זָרַק — לֹא נִתְכַּפֵּר. זָרַק וְלֹא הִקְטִיר — לֹא נִתְכַּפֵּר.",
+      "it": "Come? Macellò ma non asperse il sangue — non vi fu espiazione. Asperse ma non bruciò le parti — non vi fu espiazione."
+    },
+    {
+      "n": "12:3",
+      "he": "יָצָא וְהֵבִיא קָרְבָּן אַחֵר תַּחְתָּיו.",
+      "it": "Il proprietario deve portare un altro sacrificio al posto di quello non completato."
+    },
+    {
+      "n": "13:1",
+      "he": "גְּזֵרוֹת חֲכָמִים בְּעִנְיַן הַקָּרְבָּנוֹת — לִבְנוֹת סְיָג לַתּוֹרָה, שֶׁלֹּא יִכָּשְׁלוּ בָּהֶם.",
+      "it": "I decreti dei Saggi riguardo ai sacrifici — sono per costruire una recinzione attorno alla Torah (seyag la-Torah), affinché non vi si inciampi."
+    },
+    {
+      "n": "13:2",
+      "he": "מִדִּבְרֵיהֶם — שֶׁאָסְרוּ לְהַאֲכִיל אֶת הַכֹּהֵן הַפָּסוּל בְּחֵלֶק קָרְבָּן.",
+      "it": "Tra i loro decreti — proibirono di dar da mangiare a un sacerdote invalido (pasul) dalla parte di un sacrificio che gli spetterebbe."
+    },
+    {
+      "n": "13:3",
+      "he": "כָּל גְּזֵרוֹת חֲכָמִים — כְּאִסּוּרֵי תּוֹרָה לְעִנְיַן מַלְקוֹת. אֲבָל עֹנֶשׁ כָּרֵת — אֵין בָּהֶם.",
+      "it": "Tutti i decreti dei Saggi — sono come proibizioni della Torah riguardo alla flagellazione. Ma la pena del karet — non si applica ad essi."
+    }
+  ],
+  "_glossary_terms_used": ["qodshei qodashim", "qodashim qalim", "notar", "kapparah", "seyag la-Torah", "karet"]
+}

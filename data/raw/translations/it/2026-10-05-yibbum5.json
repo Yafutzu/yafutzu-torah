@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 5",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק ה",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-05",
+  "hebrew_date": "24 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת יִיבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה בִּזְמַן שֶׁהוּא עוֹשֶׂה לְשֵׁם שָׁמַיִם…",
+      "it": "La mitzvah dello yibbum ha la precedenza sulla mitzvah della chalitzah — quando il yavam la compie lishmo, ovvero «per il Nome del Cielo»: per perpetuare il nome del fratello defunto e per adempiere il precetto biblico per le ragioni giuste. In quel caso il yibbum è una grande mitzvah. Tuttavia quando il yavam è mosso da altri motivi — interesse economico, desiderio fisico, o altro — il Rambam stabilisce che è preferibile compiere la chalitzah."
+    },
+    {
+      "n": 2,
+      "he": "בַּזְּמַן הַזֶּה מִצְוַת חֲלִיצָה קוֹדֶמֶת…",
+      "it": "Ai nostri tempi — la chalitzah ha la precedenza. Il Talmud babilonese (Yevamot 39b) riporta una disputa tra Abba Shaul e i Saggi. Abba Shaul ritiene che lo yibbum per motivi non puri è come incesto; i Saggi ritengono che la mitzvah sia valida in ogni caso. La pratica askenazita (seguita dal Rema) è di dare la chalitzah; la pratica sefardita (seguita dal Beit Yosef) è stata storicamente di permettere lo yibbum. Il Rambam nella sua codifica dà istruzioni pratiche per entrambi i casi."
+    },
+    {
+      "n": 3,
+      "he": "הָאִישׁ שֶׁיֵּשׁ לוֹ אֵשֶׁת יָבָם וְנָפְלָה לְפָנָיו — חַיָּב לִיַּיֵּב…",
+      "it": "L'uomo che ha davanti a sé una yevamah (la cognata caduta a lui per yibbum) è obbligato ad agire — o a compiere lo yibbum o a liberarla con la chalitzah. Non può ignorare la situazione indefinitamente. Se il yavam muore prima di aver compiuto l'uno o l'altro atto — la yevamah passa agli altri fratelli superstiti. Se rimane un solo fratello — egli diventa il yavam a tutti gli effetti."
+    },
+    {
+      "n": 4,
+      "he": "הַמְיַיֵּב אֶת אֵשֶׁת אָחִיו שֶׁלֹּא בִּפְנֵי עֵדִים — יִיבּוּמוֹ כָּשֵׁר…",
+      "it": "Lo yibbum compiuto senza testimoni — è valido. Non è come il matrimonio ordinario che richiede testimoni per il kiddushin. La Torah dice che la coabitazione stessa effettua lo yibbum. Tuttavia il ma'amar (dichiarazione formale preliminare) compiuto senza testimoni — è valido anch'esso ma non crea un effetto pienamente vincolante come il kiddushin con testimoni."
+    },
+    {
+      "n": 5,
+      "he": "כֵּיצַד הַיִּיבּוּם — בָּא עָלֶיהָ בֵּינוֹ לְבֵינָהּ — אַף עַל פִּי שֶׁעָשָׂה שֶׁלֹּא כַּהֹגֶן — קָנָה…",
+      "it": "Come si esegue lo yibbum? Il yavam viene alla yevamah privatamente — anche se ha agito in modo non ideale (senza ma'amar preliminare, senza avvertire il beit din) — l'acquisizione (kinyan) è avvenuta. La yevamah diventa sua moglie a pieno titolo con tutti i diritti matrimoniali. Il Rambam sottolinea che idealmente lo yibbum dovrebbe essere preceduto da un ma'amar e svolto con la consapevolezza del beit din, ma retroattivamente qualunque forma di yibbum è valida."
+    },
+    {
+      "n": 6,
+      "he": "הַמְיַיֵּב אֶת יְבִימָתוֹ — קָנָה אוֹתָהּ לְגַמְרֵי…",
+      "it": "Chi compie lo yibbum con la yevamah — l'ha acquisita completamente. Non c'è differenza tra lei e una moglie ordinaria: ha diritto alla ketuvah (contratto matrimoniale), agli alimenti, ai vestiti e alla coabitazione. Se vuole divorziare da lei — deve darle un get come per ogni altra moglie. Se lui muore — lei eredita come ogni altra moglie e non ha bisogno di chalitzah dagli altri fratelli, poiché il legame di zikah si è sciolto con il yibbum."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yibbum", "chalitzah", "yavam", "yevamah", "lishmo", "ma'amar", "beit din", "kiddushin", "kinyan", "ketuvah", "get", "zikah"
+  ]
+}

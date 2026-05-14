@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sechirut 12-13; Shaalah UPikkadon 1",
+  "name_he": "משנה תורה, הלכות שכירות פרקים יב-יג; הלכות שאלה ופקדון פרק א",
+  "name_it": "Mishneh Torah, Leggi della Locazione cap. 12-13; Leggi del Prestito e del Deposito cap. 1",
+  "cycle": "rambam-3",
+  "date": "2026-11-10",
+  "hebrew_date": "1 Kislev 5787 (Rosh Chodesh Kislev)",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "12:1-4",
+      "he": "קַבְּלָן שֶׁקִּבֵּל שָׂדֶה לְעָבְדָהּ — אָחוּז בִּמְלַאכְתּוֹ…",
+      "it": "(Sechirut cap. 12, hal. 1-4) Oggi — Rosh Chodesh Kislev, il mese del rinnovamento — le leggi del kablan (appaltatore) ci ricordano che ogni mese rinnovato porta nuove responsabilità e opportunità di adempimento. Il kablan che si è obbligato a lavorare un campo riceve il compenso in base al risultato: la resa del raccolto. Se la resa è superiore all'attesa — il vantaggio è del proprietario (secondo il contratto); se è inferiore — il kablan può dedurre le spese ma il rischio principale è suo. Il kablan ha un «achariut» (responsabilità) completo sul lavoro a differenza del lavoratore dipendente."
+    },
+    {
+      "n": "13:1-5",
+      "he": "מַחְלֹקֶת בֵּין בַּעַל הַבַּיִת לְשָׂכִיר — הַשָּׂכִיר נִשְׁבָּע…",
+      "it": "(Sechirut cap. 13, hal. 1-5) Controversie tra datore di lavoro e lavoratore riguardo al salario: quando vi è un dubbio su quanto è stato concordato o pagato, la halakhah stabilisce regole di giuramento (shevua'h). Il principio generale: il lavoratore (sachir) giura sulla quantità che ritiene di aver guadagnato e riceve il pagamento (sachir nishba ve-notal) — poiché è impegnato nel lavoro e potrebbe aver dimenticato di prendere il pagamento. I Saggi hanno istituito questa regola per permettere ai lavoratori poveri di ricevere il loro salario in modo expedito. «Si concludono le Leggi della Locazione con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "1:1-5",
+      "he": "הַשּׁוֹאֵל — חַיָּב בְּכָל אֹנֶס…",
+      "it": "(Shaalah UPikkadon cap. 1, hal. 1-5) Hilchot Shaalah UPikkadon (Leggi del Prestito e del Deposito). Il sho'el (chi prende in prestito un oggetto) — ha la massima responsabilità: è responsabile anche per ones (forza maggiore, accidente imprevedibile). Se il bue preso in prestito muore durante il normale lavoro nei campi — il debitore deve pagare. La ragione: il debitore ha tutto il vantaggio dell'oggetto prestato (kol ha-hana'ah shelo), quindi sopporta tutta la responsabilità. L'unica eccezione: «be'alav imo» — se il proprietario è presente e assiste al danno, il debitore è esente."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kablan", "sachir", "shevua'h", "shaalah u-pikkadon", "sho'el", "ones", "kol ha-hana'ah shelo", "be'alav imo", "achariut", "Rosh Chodesh"
+  ]
+}

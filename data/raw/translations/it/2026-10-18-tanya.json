@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 26",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כו",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera della Santità), lettera 26",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-18",
+  "hebrew_date": "7 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַנִּגּוּן — הוּא מַפְתֵּחַ שֶׁל הַלֵּב, וּכְמוֹ שֶׁכָּתַב הַבַּעַל שֵׁם טוֹב…",
+      "it": "Questa lettera tratta dell'importanza spirituale della melodia (niggun) nella servitù divina. Il Baal Shem Tov insegnava che il niggun è la «chiave del cuore» — esso apre dimensioni dell'anima che le parole da sole non possono raggiungere. La melodia opera al di sopra dell'intelletto (mocha — il cervello), toccando direttamente la dimensione del «lev» (cuore) e delle middot (attributi emotivi dell'anima): ahavah (amore) e yirah (timore). Questo è il motivo per cui il pianto ha il suo tipico «suono» — non è un'articolazione verbale ma un'espressione diretta del cuore."
+    },
+    {
+      "n": 2,
+      "he": "נִגּוּן בְּלִי דְּבָרִים יָכוֹל לַעֲלוֹת לְמַעְלָה מִן הַנִּגּוּן עִם דְּבָרִים…",
+      "it": "Il Baal Shem Tov insegnava che una melodia senza parole (niggun bli devarim) può salire più in alto di una melodia con parole. La ragione: le parole appartengono al mondo dell'«tzelem» — la forma intellettuale — e hanno dei limiti dettati dalla struttura grammaticale e semantica. La melodia pura, invece, proviene dal livello di «keter» (corona) dell'anima — la dimensione più trascendente, che è al di là dell'intelletto. Un niggun profondo di hitbonenut (contemplazione meditativa) può quindi elevarsi fino ai mondi più alti senza le limitazioni proprie del linguaggio."
+    },
+    {
+      "n": 3,
+      "he": "וְעַל כֵּן צָרִיךְ הָאָדָם לְחַפֵּשׂ נִגּוּנִים הַמּוֹצִיאִים אֶת הַלֵּב…",
+      "it": "L'Alter Rebbe fornisce un'indicazione pratica: ogni persona dovrebbe cercare le melodie che aprono il proprio cuore in modo autentico — non le melodie popolari e superficiali, ma quelle che inducono hitpa'alut (commozione interiore genuina). Il Tanya insegna che anche durante la preghiera (tefillah) si può e si deve usare il niggun per approfondire la kavvanah (intenzione). Chabad ha sviluppato una ricca tradizione di niggunim — melodie composte dai Rebbes — proprio per questo scopo: elevare la preghiera e la meditazione verso la fonte divina. Il niggun è dunque non solo arte ma strumento di avodah (servitù divina)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "niggun", "Baal Shem Tov", "mocha", "lev", "middot", "ahavah", "yirah", "keter", "hitbonenut", "hitpa'alut", "kavvanah", "tefillah", "avodah"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 27",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כז",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 27",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-03",
+  "hebrew_date": "20 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מידת השמחה היא עמוד גדול בעבודת ה'. שנאמר 'עבדו את ה' בשמחה'. ואי אפשר לעבוד את ה' כראוי כשהאדם עצוב או מדוכא. לפיכך חובה על כל אדם לשמוח בעבודתו תמיד.",
+      "it": "La simchah (gioia) è un pilastro fondamentale nel servizio di D-o. Come è detto: 'Servite il Signore con gioia' (Tehillim 100:2). Non è possibile servire D-o adeguatamente quando si è tristi o abbattuti. Pertanto ogni persona ha l'obbligo di essere gioiosa nel proprio servizio in ogni momento."
+    },
+    {
+      "n": 2,
+      "he": "ומאין תבוא השמחה? לא מנסיבות חיצוניות — בריאות, עושר, הצלחה — כי אלה אינם קבועים. אלא השמחה האמיתית בעבודת ה' באה מן הנשמה האלוהית, שהיא חלק אלוה ממעל. ומי שמרגיש ומכיר שנשמתו היא חלק מה' — שמח שמחה עצמית שאינה תלויה בשום דבר חיצוני.",
+      "it": "Da dove viene la gioia? Non da circostanze esterne — salute, ricchezza, successo — poiché queste non sono permanenti. La vera gioia nel servizio di D-o proviene dall'anima divina (neshama elokit), che è 'una parte di D-o dall'alto' (chelek Eloa mi-ma'al, Giobbe 31:2). Chi sente e riconosce che la propria anima è una parte di D-o gode di una gioia interiore che non dipende da nulla di esterno."
+    },
+    {
+      "n": 3,
+      "he": "לפיכך, אפילו הבינוני — שיש לו מחשבות זרות ומלחמה פנימית — יכול וצריך לשמוח בשמחת הנשמה. כי מלחמת הנשמה אינה פוגעת בעצם הנשמה ובשמחתה. ואדרבה, המלחמה עצמה היא ראיה שהנשמה חיה ופעילה, ועצם קיומה של המלחמה הוא נושא שמחה.",
+      "it": "Pertanto, anche il Beinoni (uomo intermedio) — che ha pensieri estranei e lotta interiore — può e deve gioire nella gioia dell'anima. Perché la lotta dell'anima non tocca l'essenza dell'anima stessa e la sua gioia. Al contrario, la lotta stessa è prova che l'anima è viva e attiva, e la lotta in sé è motivo di gioia."
+    }
+  ],
+  "_glossary_terms_used": ["simchah", "neshama elokit", "chelek Eloa mi-ma'al", "Beinoni"]
+}

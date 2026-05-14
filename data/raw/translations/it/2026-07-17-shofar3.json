@@ -1,0 +1,92 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 3",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק ג",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 3",
+  "cycle": "rambam-1",
+  "date": "2026-07-17",
+  "hebrew_date": "3 Av 5786",
+  "halachot_count": 16,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה לֵישֵׁב בַּסֻּכָּה שִׁבְעַת יָמִים, שֶׁנֶּאֱמַר: בַּסֻּכֹּת תֵּשְׁבוּ שִׁבְעַת יָמִים.",
+      "it": "Vi è un comandamento positivo di dimorare nella sukkah (capanna) per sette giorni, come è detto: 'Nelle sukkot dimorerete per sette giorni' (Levitico 23:42)."
+    },
+    {
+      "n": 2,
+      "he": "הַסֻּכָּה הַכְּשֵׁרָה צְרִיכָה שְׁתֵּי דְּפָנוֹת שְׁלֵמוֹת וּדְפַן שְׁלִישִׁית אֲפִלּוּ טֶפַח.",
+      "it": "La sukkah valida deve avere due pareti complete e una terza parete anche di soli un palmo (tefach)."
+    },
+    {
+      "n": 3,
+      "he": "הַסְּכָךְ צָרִיךְ לִהְיוֹת מִדָּבָר שֶׁגִּדּוּלוֹ מִן הָאָרֶץ וְתָלוּשׁ מִן הַקַּרְקַע.",
+      "it": "Lo schach (copertura della sukkah) deve essere composto da qualcosa che cresce dalla terra e che sia stato reciso dal suolo."
+    },
+    {
+      "n": 4,
+      "he": "אֵין מְסַכְּכִין בְּדָבָר שֶׁאֵינוֹ גָּדֵל מִן הָאָרֶץ, כְּגוֹן הַבְּשָׂרִים וְהָעוֹרוֹת וּכְלֵי מַתָּכוֹת.",
+      "it": "Non si può usare come schach qualcosa che non cresce dalla terra, come carne, pelli o utensili di metallo."
+    },
+    {
+      "n": 5,
+      "he": "אֵין מְסַכְּכִין בְּדָבָר הַמְקַבֵּל טֻמְאָה, אֲפִלּוּ גָּדַל מִן הָאָרֶץ.",
+      "it": "Non si può usare come schach qualcosa che è suscettibile di impurità rituale (tumah), anche se cresce dalla terra."
+    },
+    {
+      "n": 6,
+      "he": "גְּבַהּ הַסֻּכָּה הַכְּשֵׁרָה, לְכַתְּחִלָּה עֶשְׂרִים אַמָּה, בְּדִיעֲבַד אֲפִלּוּ עֲשָׂרָה טְפָחִים.",
+      "it": "L'altezza valida della sukkah è idealmente fino a venti cubiti (ammot); ex post facto, anche soli dieci palmi (tefachim) sono sufficienti."
+    },
+    {
+      "n": 7,
+      "he": "הַסְּכָךְ צָרִיךְ שֶׁיִּהְיֶה צִלּוֹ מְרֻבֶּה עַל חַמָּתוֹ.",
+      "it": "Lo schach deve essere tale che la sua ombra sia maggiore della luce che lascia passare."
+    },
+    {
+      "n": 8,
+      "he": "אִם הָיָה חַמָּתוֹ מְרֻבֶּה עַל צִלּוֹ, פְּסוּלָה.",
+      "it": "Se la luce che penetra attraverso lo schach è maggiore dell'ombra, la sukkah è invalida (pesulah)."
+    },
+    {
+      "n": 9,
+      "he": "סֻכָּה שֶׁסְּכָכָהּ דָּלִיל אֲפִלּוּ כָּל כּוֹכָבִים נִרְאִין מִתּוֹכָהּ, כְּשֵׁרָה.",
+      "it": "Una sukkah il cui schach è rado, al punto che si possono vedere le stelle attraverso di esso, è comunque valida."
+    },
+    {
+      "n": 10,
+      "he": "לֹא יַעֲשֶׂה אֶת הַדְּפָנוֹת מִלְּמַעְלָה וּמְסַכֵּךְ מִלְּמַטָּה.",
+      "it": "Non si devono costruire le pareti sopra e posizionare lo schach al di sotto — le pareti devono sostenere lo schach e non il contrario."
+    },
+    {
+      "n": 11,
+      "he": "הַדְּפָנוֹת יְכוֹלוֹת לִהְיוֹת מִכָּל דָּבָר — בֵּין מִדְּבַר הַמְקַבֵּל טֻמְאָה, בֵּין מִדְּבַר שֶׁאֵינוֹ מְקַבֵּל טֻמְאָה.",
+      "it": "Le pareti possono essere costruite con qualsiasi materiale — sia con materiali suscettibili di impurità che con materiali non suscettibili."
+    },
+    {
+      "n": 12,
+      "he": "מְסַכְּכִין בִּנְסָרִים, כִּדְבְרֵי רַבִּי יְהוּדָה, וַחֲכָמִים אוֹסְרִים אֶלָּא אִם כֵּן הֵבִיא נֶסֶר שֶׁיֵּשׁ בּוֹ אַרְבָּעָה טְפָחִים.",
+      "it": "Secondo Rabbi Yehudah si può usare assi di legno come schach; i Saggi invece lo vietano, a meno che l'asse abbia una larghezza di almeno quattro palmi."
+    },
+    {
+      "n": 13,
+      "he": "מְסַכְּכִין בְּחִצִּים, בְּקָנִים, וּבִשְׁאָר דְּבָרִים הַגְּדֵלִים מִן הָאָרֶץ וּתְלוּשִׁין.",
+      "it": "Si può usare come schach rami di frecce (chitzim), canne (kanim) e altri materiali vegetali recisi dalla terra."
+    },
+    {
+      "n": 14,
+      "he": "הַסֻּכָּה הָעֲשׂוּיָה בֵּין הָאִילָנוֹת — אִם הָאִילָנוֹת דְּפָנוֹת לָהּ, כְּשֵׁרָה.",
+      "it": "Una sukkah costruita tra gli alberi — se gli alberi fungono da pareti, è valida."
+    },
+    {
+      "n": 15,
+      "he": "הָעוֹשֶׂה סֻכָּתוֹ בְּרֹאשׁ הָעֲגָלָה אוֹ בְּרֹאשׁ הַסְּפִינָה — כְּשֵׁרָה, וּמֻתָּר לֵישֵׁב בָּהּ בְּשַׁבָּת.",
+      "it": "Chi costruisce la propria sukkah in cima a un carro o a una nave — è valida, ed è permesso dimorarvi anche di Shabbat."
+    },
+    {
+      "n": 16,
+      "he": "עֲשָׂאָהּ בְּרֹאשׁ הַגָּמָל אוֹ בְּרֹאשׁ הָאִילָן — כְּשֵׁרָה, אֲבָל אֵין עוֹלִים אֵלֶיהָ בְּשַׁבָּת.",
+      "it": "Se è costruita in cima a un cammello o a un albero — è valida, ma non vi si può salire di Shabbat."
+    }
+  ],
+  "_glossary_terms_used": ["sukkah", "schach", "tefach", "ammah", "tumah", "pesulah"]
+}

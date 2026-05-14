@@ -1,0 +1,59 @@
+{
+  "ref": "Mishneh Torah, Vows 7-9",
+  "name_he": "משנה תורה, הלכות נדרים, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-05-24",
+  "hebrew_date": "8 Sivan 5786",
+  "halachot_count": 34,
+  "halachot": [
+    {
+      "n": "7:1",
+      "he": "הַנּוֹדֵר מִן הַיַּיִן — אָסוּר בְּכָל מִינֵי יַיִן…",
+      "it": "(Cap. 7, hal. 1) Chi fa voto di astenersi dal «vino» — è proibito in qualsiasi tipo di vino: rosso, bianco, nuovo, vecchio, crudo, cotto, aceto di vino, miscele di vino. La regola generale: il voto si estende a tutto ciò che rientra nel nome generico dell'oggetto vietato. Se ha detto «konam il vino che non berrò» — è proibito in qualsiasi tipo di vino; se ha detto «konam questo vino» — è proibito solo in quel vino specifico."
+    },
+    {
+      "n": "7:2-5",
+      "he": "הַנּוֹדֵר מִן הַבָּשָׂר — אָסוּר בְּכָל מִינֵי בָּשָׂר…",
+      "it": "(Cap. 7, hal. 2-5) Chi fa voto di astenersi dalla «carne» — è proibito in qualsiasi tipo di carne (bovina, ovina, di uccelli), ma è permesso in pesce (poiché il pesce non si chiama «basar» — carne — nella lingua della Torah). Chi fa voto di astenersi dalle «verdure» — è proibito nelle verdure coltivate ma permesso nei funghi e nelle erbe selvatiche, se queste non si chiamano comunemente «verdure». Le halachot 3-5 specificano: il principio di «lashon benei adam» (linguaggio comune della gente del luogo) che determina cosa rientra in un termine generico; distinzioni tra voto su genere e voto su specie; il caso in cui il votante stesso specifica la sua intenzione («avevo in mente solo X») — la sua dichiarazione è creduta."
+    },
+    {
+      "n": "7:6-10",
+      "he": "הַנּוֹדֵר מִן הַמְּלָח — אָסוּר בְּכָל מִינֵי מֶלַח…",
+      "it": "(Cap. 7, hal. 6-10) Chi fa voto di astenersi dal «sale» — è proibito in qualsiasi tipo di sale; è permesso tuttavia nel sale trasformato e nei cibi già salati (poiché il sale non è più riconoscibile come tale). Chi fa voto di astenersi dall'«olio» — è proibito nell'olio d'oliva e nell'olio di sesamo se questi sono il tipo usuale nella sua regione. Le halachot 7-10 esplorano: voti sull'«acqua» (include tutte le acque naturali ma esclude succhi e bevande prodotte); voti sul «miele»; voti su «latte» (latte animale, non derivati); il principio che il voto segue sempre il linguaggio locale ordinario (lashon benei adam ba-makom ha-hu)."
+    },
+    {
+      "n": "8:1",
+      "he": "אֵי זֶהוּ נֵדֶר שֶׁבְּשַׁבּוּעָה — מֵאָה דִּינָרִים עָלַי כְּקָרְבָּן…",
+      "it": "(Cap. 8, hal. 1) Qual è la differenza tra un voto (neder) e un giuramento (shevuah)? Il voto colpisce l'oggetto (la cosa diventa «come sacrificio» — proibita); il giuramento colpisce la persona (la persona si obbliga o si proibisce un'azione). Esempio: «Cento dinari su di me come un'offerta» — è un voto sull'oggetto (i cento dinari sono come oggetto consacrato); «Giuro che non mangerò carne» — è un giuramento sulla persona."
+    },
+    {
+      "n": "8:2-6",
+      "he": "הָאוֹמֵר לַחֲבֵרוֹ קֹנָם אִם אֲנִי אוֹכֵל עִמְּךָ…",
+      "it": "(Cap. 8, hal. 2-6) Chi dice al suo prossimo «konam se io mangerò con te» — ha proibito su se stesso il cibo di quel prossimo. Chi dice «konam se tu mangerai da me» — ha proibito il suo cibo al prossimo. Chi dice «konam se ne parli con te» — il parlare non può essere «konam» (poiché il konam funziona solo su oggetti fisici, non su azioni); quindi questo equivale a un giuramento. Le halachot 3-6 specificano: voti condizionali («konam se farò X — se poi faccio X, diventa proibito»); il voto confermato da terzi; il voto interpretato in modo ampio o ristretto; e la differenza tra «se» (im) e «affinché» (bishvil) nei voti condizionali."
+    },
+    {
+      "n": "8:7-13",
+      "he": "הַמַּדִּיר אֶת חֲבֵרוֹ שֶׁלֹּא יֵהָנֶה מִמֶּנּוּ…",
+      "it": "(Cap. 8, hal. 7-13) Chi fa votare il suo prossimo di non beneficiare da lui — le implicazioni si estendono: il prossimo non può mangiare nulla che gli appartenga, non può usare i suoi utensili, non può entrare nel suo cortile. Le halachot 8-13 specificano: il caso in cui il prossimo entra ugualmente e usa il cortile senza beneficio diretto; i benefici indiretti (ad esempio passare per il cortile dell'altro senza soffermarsi); le azioni che non rientrano nel concetto di «beneficio» (hana'ah) — come salutarsi (non è un beneficio materiale); chi ha fatto voto al suo prossimo di non beneficiare — il prossimo può comunque testimoniare per lui in tribunale, poiché la testimonianza non è una «hana'ah» diretta."
+    },
+    {
+      "n": "9:1",
+      "he": "הָאוֹמֵר קֹנָם עַל פִּי שֶׁאֲדַבֵּר עִם פְּלוֹנִי — זוֹ שְׁבוּעָה…",
+      "it": "(Cap. 9, hal. 1) Chi dice «konam sulla mia bocca se parlerò con tal persona» — questo è un giuramento (non un voto), poiché riguarda un'azione della sua persona. I Saggi hanno insegnato: il linguaggio del «konam» su azioni personali è equivalente a un giuramento, e si applicano le leggi del giuramento, non quelle del voto. Questa distinzione è fondamentale per determinare le regole di scioglimento."
+    },
+    {
+      "n": "9:2-7",
+      "he": "כֵּיצַד מַתִּירִין נֵדֶר מִן הַתּוֹרָה. כְּשֶׁיָּבוֹא אֵצֶל חָכָם…",
+      "it": "(Cap. 9, hal. 2-7) Come si scioglie un voto secondo la Torah? Quando si va dal saggio — egli non scioglie il voto retroattivamente se non tramite un «petach» (apertura) o una «charatah» (pentimento). Il petach deve essere qualcosa che il votante non sapeva al momento del voto. Le halachot 3-7 specificano i tipi di apertura per i voti su persone specifiche: «Se sapessi che mio padre o mio fratello ci fosse — non avrei detto konam»; «Se sapessi che questo sarebbe diventato un grande nella Torah — non gli avrei proibito»; il caso del voto fatto per onorare o per proteggere la propria dignità che viene poi meno; il voto fatto per errore di fatto (shogeg be-divrei); il voto in cui una delle circostanze presupposte era falsa."
+    },
+    {
+      "n": "9:8-14",
+      "he": "הַנּוֹדֵר וְנִשְׁתַּנּוּ הַדְּבָרִים — כֵּיצַד…",
+      "it": "(Cap. 9, hal. 8-14) Chi ha fatto un voto e le circostanze sono cambiate — come? Ad esempio: chi ha fatto voto di non mangiare con tal persona perché era cattivo, e ora si è ravveduto; o chi ha fatto voto di non beneficiare da tal persona perché la riteneva povera, e ora è diventata ricca. Questi cambiamenti di circostanze possono costituire un petach valido per lo scioglimento del voto. Le halachot 9-14 specificano: il caso in cui il saggio scioglie solo parzialmente il voto; il caso del voto fatto in presenza di molti (voto pubblico — neder be-rabbim) che è più difficile da sciogliere; la regola che il voto fatto in presenza di dieci — non può essere sciolto se non con la stessa presenza di dieci; il voto di yderei (divieto) su se stesso che il saggio può sciogliere anche in absentia del terzo interessato; il principio conclusivo: meglio non fare voti — ma chi ha fatto voto e si pente sinceramente troverà sempre un percorso di scioglimento."
+    }
+  ],
+  "_glossary_terms_used": [
+    "neder", "shevuah", "konam", "petach", "charatah", "hana'ah", "lashon benei adam", "neder be-rabbim", "shogeg be-divrei", "basar", "lashon benei adam ba-makom ha-hu"
+  ]
+}

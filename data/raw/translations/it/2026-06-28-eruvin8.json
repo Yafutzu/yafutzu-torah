@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 8",
+  "name_he": "משנה תורה, הלכות עירובין פרק ח",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-28",
+  "hebrew_date": "13 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵלּוּ דְּבָרִים אוֹסְרִין אֶת הַמָּבוֹי...",
+      "it": "Queste sono le cose che rendono invalido il mavuy per il trasporto: l'assenza di lechi o korah, la presenza di un non ebreo che non ha ceduto il proprio dominio, la mancanza di shituf, o la presenza di un residente che non partecipa e non ha ceduto il suo dominio. Il Rambam elenca sistematicamente tutte le cause di invalidità."
+    },
+    {
+      "n": 2,
+      "he": "גַּג הָעֶלְיוֹן שֶׁהוּא שָׁוֶה...",
+      "it": "Un tetto superiore che è alla stessa altezza del tetto inferiore: i due tetti si considerano come un'unica piattaforma. Il trasporto su di essi è soggetto alle stesse regole della reshut hayachid se sono circondati da pareti di almeno dieci tefachim. Se non sono circondati, hanno la condizione di karmelit."
+    },
+    {
+      "n": 3,
+      "he": "שְׁנֵי גַגּוֹת אֶחָד גָּבֹהַּ...",
+      "it": "Due tetti, uno più alto dell'altro: il tetto più alto e quello più basso sono due domini separati se la differenza di altezza è almeno dieci tefachim. Non si può trasportare dal tetto basso a quello alto (o viceversa) senza un eruv che li unisca, poiché sono come due reshut hayachid distinte verticalmente."
+    },
+    {
+      "n": 4,
+      "he": "חָצֵר שֶׁיֵּשׁ בָּהּ בָּתִּים...",
+      "it": "Un cortile con abitazioni: il cortile stesso è reshut hayachid se è circondato da pareti di almeno dieci tefachim. Le abitazioni che vi si affacciano sono anch'esse reshut hayachid. L'eruv chatzerot serve a unire tutti questi domini privati separati in un unico dominio comune, permettendo il trasporto tra loro."
+    },
+    {
+      "n": 5,
+      "he": "חָצֵר שֶׁלֹּא עֵרְבוּ בָּהּ...",
+      "it": "Un cortile senza eruv: se i residenti non hanno stabilito l'eruv chatzerot, il trasporto dalle loro abitazioni nel cortile è vietato. Il cortile rimane reshut hayachid, ma il divieto dei Saggi impedisce di portare oggetti dall'abitazione privata al cortile comune, per via della pluralità di domini. L'eruv risolve questa pluralità."
+    },
+    {
+      "n": 6,
+      "he": "חָצֵר שֶׁעֵרְבָה עִם הַמָּבוֹי...",
+      "it": "Un cortile che si è unito al mavuy tramite lo shituf: se entrambi sono inclusi nello stesso shituf, il trasporto è permesso tra cortile e mavuy. Tuttavia, il trasporto dalle abitazioni nel cortile richiede anche l'eruv chatzerot separato. Lo shituf del mavuy non sostituisce l'eruv chatzerot delle singole abitazioni."
+    },
+    {
+      "n": 7,
+      "he": "נִפְרְצָה חָצֵר לִרְשׁוּת הָרַבִּים...",
+      "it": "Un cortile che si apre su reshut harabbim (dominio pubblico) per effetto di un crollo: se l'apertura supera dieci amot e non è una porta normale, il cortile perde la sua condizione di dominio chiuso. Il trasporto dal cortile verso la reshut harabbim e viceversa diventa vietato biblicamente (de-oraita), non solo rabbinicamente."
+    },
+    {
+      "n": 8,
+      "he": "כֹּתֶל שֶׁבֵּין שְׁנֵי חֲצֵרוֹת...",
+      "it": "Una parete che separa due cortili: se si abbassa a meno di dieci tefachim, i due cortili diventano comunicanti. Se la parete si abbassa fino al suolo (o ha una breccia), i due cortili si uniscono in uno. In entrambi i casi, se i due cortili avevano eruvin separati, devono fare un eruv comune che include tutti i residenti."
+    },
+    {
+      "n": 9,
+      "he": "הַכָּרְמְלִית מַהִי...",
+      "it": "Cos'è il karmelit? Il Rambam spiega: il karmelit è un dominio che non è né reshut harabbim (pubblico) né reshut hayachid (privato). Esempi: un campo aperto, la riva di un fiume, il mare. Non si può trasportare dalla reshut harabbim al karmelit né dal karmelit alla reshut hayachid, per decreto rabbinico."
+    },
+    {
+      "n": 10,
+      "he": "אֵיזֶהוּ רְשׁוּת הָרַבִּים...",
+      "it": "Cos'è la reshut harabbim? Il Rambam definisce: una strada pubblica larga sedici amot, aperta su entrambe le estremità, usata da seicento mila persone. Le vie urbane comuni non raggiungono questo standard e sono quindi karmelit. Questa definizione restrittiva del Rambam ha importanti conseguenze pratiche per gli eruvin urbani moderni."
+    },
+    {
+      "n": 11,
+      "he": "הָרֹאשׁ שֶׁל רְשׁוּת הָרַבִּים...",
+      "it": "Lo spazio verticale sopra la reshut harabbim: entro dieci tefachim di altezza è ancora reshut harabbim. Oltre i dieci tefachim è reshut hayachid (o mekom petur, spazio esente). Questo ha conseguenze per i balconi e i ponteggi che si estendono sopra una strada pubblica durante il Sabato."
+    },
+    {
+      "n": 12,
+      "he": "מְקוֹם פְּטוּר הוּא...",
+      "it": "Il mekom petur (spazio esente): è uno spazio che non ha la condizione né di reshut harabbim né di reshut hayachid né di karmelit. Esempio: un piccolo rilievo alto meno di tre tefachim ma largo meno di quattro tefachim nel mezzo della reshut harabbim. Non si trasporta in esso dalla reshut harabbim, ma può fungere da 'punto di passaggio' in situazioni speciali."
+    },
+    {
+      "n": 13,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הָרַבִּים...",
+      "it": "Chi trasporta dalla reshut hayachid alla reshut harabbim: questa è una delle trentanove melachot principali del Sabato (melacha de-oraita — proibizione biblica). Chi lo fa intenzionalmente (mezid) è punibile con la morte o con il karet. Chi lo fa inavvertitamente (shogeg) deve portare un sacrificio espiatorio (korban chatat)."
+    },
+    {
+      "n": 14,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת לִרְשׁוּת בְּחֵלֶק...",
+      "it": "Il trasporto in due fasi (hoshit ve-hichnit): se una persona sta nella reshut hayachid e passa un oggetto a un'altra persona nella reshut harabbim (o viceversa), entrambe hanno violato la proibizione — anche se nessuna delle due ha trasportato l'oggetto per quattro amot. La proibizione si applica all'atto di trasferimento del dominio."
+    },
+    {
+      "n": 15,
+      "he": "הַמּוֹסֵר חֵלֶק לְרְשׁוּת...",
+      "it": "Chi cede parte del suo dominio a un dominio diverso: il Rambam esamina i casi complessi in cui si compie il trasporto a fasi. La regola generale è che l'azione di portare fuori da un dominio privato e depositare in uno pubblico costituisce un'unica violazione, anche se l'azione è divisa in più movimenti parziali."
+    },
+    {
+      "n": 16,
+      "he": "חָמֵשׁ חֲצֵרוֹת שֶׁהָיוּ פְּתוּחוֹת לְמָבוֹי...",
+      "it": "Cinque cortili che si aprono su un mavuy: il caso classico in cui l'eruv completo richiede sia l'eruv chatzerot per ciascun cortile sia lo shituf del mavuy. Il Rambam riassume qui le regole di interazione tra i diversi tipi di eruv. Se i residenti di uno dei cortili non vogliono partecipare, il loro cortile è separato ma non invalida necessariamente gli altri."
+    },
+    {
+      "n": 17,
+      "he": "אֵלּוּ הֵן הַמְשֻׁתָּפִין...",
+      "it": "Chi conta come 'partecipante' allo shituf o all'eruv? Il Rambam elenca: chiunque abbia un dominio separato nel cortile o nel mavuy e vi dimori (dirah). I bambini piccoli (sheino ben da'at) sono inclusi nell'eruv dei loro genitori. I pazzi e i sordomuti (cheresh shoteh ve-katan) non stabiliscono eruvin indipendenti ma sono coperti dagli eruvin dei loro tutori."
+    },
+    {
+      "n": 18,
+      "he": "כֻּלָּם שְׁוִין לְדִין הָעֵרוּב...",
+      "it": "Tutti sono uguali davanti alle leggi dell'eruv: kohen, levi, israelita, proselito (ger), schiavo liberato (eved meshuchrar) — tutti devono partecipare all'eruv del cortile o del mavuy in cui abitano. Non vi sono esenzioni basate sullo status o sull'origine. L'eruv è un'istituzione democratica che unifica tutti i residenti ebrei."
+    },
+    {
+      "n": 19,
+      "he": "שַׁבָּת קֹדֶשׁ שֶׁחָלָה בְּיוֹם טוֹב...",
+      "it": "Quando il Sabato cade immediatamente dopo Yom Tov: l'eruv chatzerot non può essere depositato durante Yom Tov (poiché è preparazione per il Sabato, che è vietata da Yom Tov a Sabato senza eruv tavshilin). Per questo, il Sabato è denominato 'Sabato doppio' e richiede che l'eruv tavshilin sia stato stabilito prima di Yom Tov."
+    },
+    {
+      "n": 20,
+      "he": "סִיּוּם הִלְכוֹת עֵרוּבִין...",
+      "it": "Si concludono le Leggi degli Eruvin. Il Rambam ha presentato in questi otto capitoli il sistema completo degli eruvin: l'eruv chatzerot per i cortili, l'eruv techumin per i confini di cammino del Sabato, lo shituf mevo'ot per i vicoli, e le leggi dei domini (reshuyot). Questi istituti rabbinichi riflettono la saggezza pratica dei Saggi nel preservare la santità del Sabato mantenendo la vita comunitaria ebraica."
+    }
+  ],
+  "_glossary_terms_used": ["mavuy", "lechi", "korah", "eruv chatzerot", "shituf mevo'ot", "reshut harabbim", "reshut hayachid", "karmelit", "mekom petur", "melachot", "de-oraita", "mezid", "shogeg", "korban chatat", "bein hashmashot", "eruv tavshilin", "ger", "kohen", "levi", "karet"]
+}

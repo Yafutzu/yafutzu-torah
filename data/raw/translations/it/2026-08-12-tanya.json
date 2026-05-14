@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 36",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לו",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 36",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-12",
+  "hebrew_date": "29 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מה תכלית בריאת העולם? הקב\"ה ברא את העולם כדי שיהיה לו 'דירה בתחתונים' — דירה בעולם הגשמי הנמוך. כי 'נשגב שמו לבדו' — גדולתו מעל כל, ובכל זאת רצה להשכין שכינתו בתחתון ממש.",
+      "it": "Qual è il fine della creazione del mondo? Il Santo Benedetto creò il mondo perché ci fosse una 'dimora nei mondi bassi' (dirah be-tachtonim) — una dimora nel mondo fisico più basso. Poiché 'il Suo nome è esaltato solo' — la Sua grandezza è al di sopra di tutto, eppure ha voluto far dimorare la Sua Presenza (Shechinah) precisamente nel mondo più basso."
+    },
+    {
+      "n": 2,
+      "he": "לכן — המצוות המעשיות שנעשות בעולם הגשמי הן העיקר. כי דווקא בהן — בעשיית פעולה גשמית — נבנית ה'דירה'. ותפילה ולימוד תורה חשובים, אבל המעשה הוא שיוצר את ה'בית'. ולכן 'גדול המעשה'.",
+      "it": "Pertanto — i precetti pratici compiuti nel mondo fisico sono la cosa principale. Poiché proprio in essi — nell'esecuzione di un'azione fisica — si costruisce la 'dimora'. La preghiera e lo studio della Torah sono importanti, ma è il maaseh (azione concreta) che crea la 'casa'. Pertanto 'grande è l'azione' (gadol ha-maaseh)."
+    },
+    {
+      "n": 3,
+      "he": "מכאן הוראה מעשית: אין לוותר על שום מצוה מעשית בגלל עסקי רוחניות. אדרבה — הרוחניות היא הכנה למעשה. וה'כוונה' חשובה, אך המצוה ללא כוונה — עדיין מצוה. אך המצוה עם כוונה — בונה דירה שלמה.",
+      "it": "Da ciò deriva una direzione pratica: non si deve rinunciare a nessun precetto pratico in favore di occupazioni spirituali. Al contrario — la spiritualità è la preparazione all'azione. La kavvanah (intenzione) è importante, ma il precetto senza intenzione è comunque un precetto. Il precetto con intenzione, però, costruisce una dimora completa."
+    }
+  ],
+  "_glossary_terms_used": ["dirah be-tachtonim", "Shechinah", "maaseh", "kavvanah"]
+}

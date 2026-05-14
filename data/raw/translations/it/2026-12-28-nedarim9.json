@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 9",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ט",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 9",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-28",
+  "hebrew_date": "19 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נִדְרֵי עִנּוּי נֶפֶשׁ — אֵלּוּ הַנְּדָרִים שֶׁמְּעַנִּים בָּהֶן אֶת הַגּוּף…",
+      "it": "I «nidrei innui nefesh» (voti di afflizione dell'anima) sono voti che impongono un'afflizione fisica al votante: digiuni, astinenza dal bagno, astinenza dagli abiti puliti, restrizioni nel sonno. Questi voti riguardano il corpo in modo diretto. Per la moglie che fa tali voti: il marito ha il dovere di annullarli immediatamente il giorno in cui li sente, perché le obbligazioni del marito verso la moglie (onah, mezonot, kisui) includono il suo benessere fisico — un voto che lo mette in pericolo contraddice il contratto matrimoniale."
+    },
+    {
+      "n": 2,
+      "he": "חוֹבַת הַבַּעַל לְשֻׁלְחַן אִשְׁתּוֹ — מְזוֹנוֹת, כְּסוּת, עוֹנָה…",
+      "it": "Le obbligazioni del marito verso la moglie (da Esodo 21:10): mezonot (cibo e sostentamento), kisui (abbigliamento), e onah (relazioni coniugali). Un voto della moglie che impedisce a lei di mangiare, di vestirsi normalmente, o che impedisce le relazioni coniugali — contraddice direttamente queste obbligazioni bibliche. Il marito può e deve annullare tali voti. Il sistema esprime una visione del matrimonio come unione totale: la donna non è solo una persona giuridicamente autonoma, ma una metà di una partnership in cui certi diritti e doveri sono condivisi."
+    },
+    {
+      "n": 3,
+      "he": "נָדְרָה לְהִתְעַנּוֹת — בַּעְלָהּ מֵפֵר לָהּ מִיָּד…",
+      "it": "La moglie che vota di digiunare — il marito annulla il voto immediatamente. Anche se il digiuno ha un valore spirituale, e anche se la moglie lo ha fatto con sincera intenzione religiosa — il marito ha il diritto e il dovere di annullare il voto di digiuno, perché il digiuno la indebolisce fisicamente e incide sulla vita coniugale condivisa. L'unica eccezione: i digiuni stabiliti dalla Torah (Yom Kippur, Asarah B'Tevet, ecc.) — su questi il marito non ha potere, perché sono obbligazioni bibliche che precedono il contratto matrimoniale."
+    },
+    {
+      "n": 4,
+      "he": "נָדְרָה שֶׁלֹּא תִּשְׁמֹשׁ מִטָּתָהּ עִם בַּעְלָהּ…",
+      "it": "La moglie che vota di astenersi dalle relazioni coniugali con il marito — questo voto è causa sufficiente per il divorzio con pagamento integrale della ketuvah. Il marito non è obbligato a vivere in un matrimonio senza onah (relazioni coniugali). La halakhah riconosce che le relazioni coniugali sono un diritto reciproco, non solo del marito ma anche della moglie — e un voto che le elimina unilateralmente lede i diritti fondamentali del partner. Se è la moglie a votare, il marito può annullare; se è il marito a votare, lei può richiedere il divorzio."
+    },
+    {
+      "n": 5,
+      "he": "נָדְרָה שֶׁלֹּא לִרְחֹץ וְשֶׁלֹּא לְהִתְקַשֵּׁט…",
+      "it": "La moglie che vota di non lavarsi o di non adornarsi — il marito può annullare il voto, perché incide sulla vita coniugale e sulla dignità condivisa della coppia. La Mishnah (Nedarim 66b) riporta il caso commovente del saggio Akiva, i cui studenti osservarono che sua moglie portava i capelli coperti con un cencio povero — e lui, appena divenne famoso e benestante, le donò una ghirlanda d'oro. Il rispetto per la dignità fisica della moglie è parte dell'obbligo coniugale del marito."
+    },
+    {
+      "n": 6,
+      "he": "נִדְרֵי עִנּוּי נֶפֶשׁ — הַבַּעַל מֵפֵר כָּל שֶׁבֵּינוֹ לְבֵינָהּ…",
+      "it": "Il principio conclusivo del capitolo: il marito può annullare «tutto ciò che è tra lui e lei» — tutti i voti che incidono sul tessuto della vita coniugale condivisa. Non può annullare i voti che riguardano le sue relazioni con altri, i suoi obblighi religiosi verso D-o che precedono il matrimonio, o i suoi impegni filantropici indipendenti. Il confine del potere del marito è il confine della vita coniugale: dentro quella sfera, la Torah gli dà autorità; fuori da essa, la moglie rimane un'entità giuridica pienamente autonoma."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nidrei innui nefesh", "onah", "mezonot", "kisui", "ketuvah", "neder", "hafarah", "Yom Kippur", "Asarah B'Tevet"
+  ]
+}

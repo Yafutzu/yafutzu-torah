@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 1-2",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות א-ב",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettere 1-2",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-13",
+  "hebrew_date": "28 Sivan 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַצְּדָקָה תַּצִּיל מִמָּוֶת — 'כְּנָהָר שׁוֹטֵף'...",
+      "it": "Inizia la Parte IV del Tanya: Iggeret HaKodesh (Epistola Santa), una raccolta delle lettere del Ba'al HaTanya ai suoi chassidim. La prima lettera tratta la grandezza della tzedakah (carità). Citando il versetto 'la tzedakah salva dalla morte' (Proverbi 10:2), il Ba'al HaTanya spiega che la tzedakah è come 'un fiume che scorre' (ke-nahar shotef): non si ferma mai, nutre tutto ciò che incontra. Dal punto di vista mistico, la tzedakah rappresenta il flusso dell'energia divina (shefa eloki) verso il mondo, e chi pratica tzedakah diventa un canale per questa energia. La Shechinah (Presenza Divina) è, per così dire, 'sostenuta' dalla tzedakah del popolo ebraico."
+    },
+    {
+      "n": 2,
+      "he": "הַמַּשְׂכִּיל יָבִין כִּי יֵשׁ שְׁנֵי מִינֵי לִמּוּד...",
+      "it": "La seconda lettera affronta i livelli dello studio della Torah. Il Ba'al HaTanya distingue tra iyun (studio approfondito e analitico) e bekiut (studio estensivo e ampio). Lo studio lishmah (per il proprio nome, cioè per la Torah stessa e non per fini personali) è il livello più elevato: 'apre i cancelli della luce' (poteiach sha'arei ohr). Viene citato il Talmud: 'la Torah lishmah è un elisir di vita' (sam chayyim). Il Ba'al HaTanya esorta i chassidim ad aspirare allo studio lishmah, che unifica lo studente con la Sapienza Divina stessa."
+    }
+  ],
+  "_glossary_terms_used": ["Iggeret HaKodesh", "tzedakah", "Shechinah", "shefa eloki", "iyun", "bekiut", "lishmah", "sam chayyim"]
+}

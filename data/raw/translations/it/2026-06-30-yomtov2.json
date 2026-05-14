@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 2",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב פרק ב",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-30",
+  "hebrew_date": "15 Tammuz 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַלָּשׁ וְהַמְקַנֵּחַ בְּיוֹם טוֹב...",
+      "it": "Impastare la pasta (lash) e pulire i vasi da cucina a Yom Tov: impastare è una delle melachot dell'ochel nefesh permessa a Yom Tov. Tuttavia, impastare una grande quantità di impasto che eccede il necessario per quel giorno è problematico, poiché implica preparazione per i giorni feriali."
+    },
+    {
+      "n": 2,
+      "he": "מְבַשְּׁלִין בְּיוֹם טוֹב לְשָׁבָּת עַל יְדֵי עֵרוּב תַּבְשִׁילִין...",
+      "it": "Si cucina a Yom Tov per il Sabato tramite l'eruv tavshilin: questo è permesso a condizione che l'eruv tavshilin sia stato stabilito prima di Yom Tov. Senza eruv tavshilin, la preparazione del cibo a Yom Tov per il Sabato è vietata, anche se Yom Tov cade il venerdì. L'eruv tavshilin è l'unico meccanismo che permette tale preparazione."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד עוֹשִׂין אֶת עֵרוּב תַּבְשִׁילִין...",
+      "it": "Come si effettua l'eruv tavshilin: si prendono una pagnotta di pane (o matzah a Pesach) e un cibo cotto (anche se è solo un uovo lesso o un pezzo di pesce), e si tengono in mano il giovedì sera o il venerdì pomeriggio (prima di Yom Tov). Si dice la bracha: 'Blessed are You...who commanded us concerning the mitzvah of eruv,' e poi la formula in aramaico che autorizza la cottura per il Sabato."
+    },
+    {
+      "n": 4,
+      "he": "שִׁעוּר הַתַּבְשִׁיל לָעֵרוּב...",
+      "it": "La misura minima del cibo cotto per l'eruv tavshilin: deve essere almeno un kazayit (un volume come un'oliva). Alcuni richiedono anche una misura sufficiente per due pasti (la quantità di due pasti). Il Rambam segue l'opinione che un kazayit sia sufficiente in caso di emergenza, ma la pratica migliore è avere una quantità maggiore."
+    },
+    {
+      "n": 5,
+      "he": "אָבַד הָעֵרוּב אוֹ נֶאֱכַל...",
+      "it": "Se l'eruv tavshilin è andato perso o consumato: se ciò accade prima dell'inizio di Yom Tov, si deve rifarlo. Se accade durante Yom Tov, non si può più rifare, e la cottura per il Sabato è vietata. Se rimane anche solo un kazayit dell'eruv, è ancora valido. Il principio è che l'eruv deve esistere all'inizio di Yom Tov."
+    },
+    {
+      "n": 6,
+      "he": "הַמֵּבִיא יַיִן מֵרְשׁוּת הָרַבִּים בְּיוֹם טוֹב...",
+      "it": "Chi porta il vino dalla reshut harabbim a Yom Tov: il trasporto (hotza'ah) è permesso a Yom Tov per scopi di simchat Yom Tov (gioia della festa). Portare vino per il kiddush e il pasto festivo è considerato una forma di ochel nefesh. Tuttavia, portare oggetti non necessari per il cibo è ancora problematico."
+    },
+    {
+      "n": 7,
+      "he": "מֻתָּר לְהוֹצִיא תִּינוֹק בְּיוֹם טוֹב...",
+      "it": "È permesso portare in braccio un bambino piccolo (tinok) a Yom Tov, uscendo nel dominio pubblico: il trasporto è permesso a Yom Tov. Un bambino piccolo è considerato 'necessario per la gioia di Yom Tov' (tzorech Yom Tov). Il Rambam discute se il permesso si estende anche ad oggetti neutri portati insieme al bambino."
+    },
+    {
+      "n": 8,
+      "he": "הַכַּדּוּר וְהָאֱגוֹז שֶׁמְּשַׂחֲקִין בָּהֶם...",
+      "it": "Una palla o noci usate per il gioco a Yom Tov: il Rambam permette di portarle nella reshut harabbim a Yom Tov, poiché fanno parte della simchat Yom Tov per i bambini. Questo è uno degli esempi dell'approccio del Rambam alla gioia di Yom Tov come permesso ampio e non ristretto."
+    },
+    {
+      "n": 9,
+      "he": "הַמּוֹלִיךְ בְּהֵמָה לְבֵית הַשּׁוֹחֵט...",
+      "it": "Chi porta un animale dal macellaio a Yom Tov: è permesso, poiché è direttamente legato all'ochel nefesh. Non c'è problema di trasporto se si tratta di animali destinati al consumo durante Yom Tov. Se però si porta l'animale per venderlo o macellarlo il giorno dopo, è problematico."
+    },
+    {
+      "n": 10,
+      "he": "צָד דָּגִים בְּיוֹם טוֹב...",
+      "it": "Chi pesca a Yom Tov: la pesca (tzeidah) è una melachah proibita al Sabato, ma a Yom Tov è permessa se il pesce è destinato al pasto di quel giorno. Se si pesca per vendere o conservare per i giorni feriali, è vietato. La regola si applica ugualmente alla caccia e alla raccolta di prodotti selvatici."
+    },
+    {
+      "n": 11,
+      "he": "הַמְמַלֵּחַ בְּיוֹם טוֹב...",
+      "it": "Chi sala la carne (melicha) a Yom Tov: la salatura necessaria per koshering la carne è permessa a Yom Tov come parte dell'ochel nefesh. Tuttavia, salarla per conservarla (mevushal) per i giorni feriali è vietato, poiché è una forma di lavorazione non necessaria per il giorno stesso."
+    },
+    {
+      "n": 12,
+      "he": "הַבּוֹרֵר בְּיוֹם טוֹב...",
+      "it": "Chi separa (borer) il cibo dalle impurità a Yom Tov: borer (separare il buono dal cattivo) è una melachah permessa a Yom Tov quando serve per il cibo del giorno. Si può separare legumi dalla pula, radici dai terricci, a condizione che si usi la mano normalmente (non con strumenti specializzati) e subito prima del pasto."
+    },
+    {
+      "n": 13,
+      "he": "הַמְעַשֵּׁן פֵּרוֹת בְּיוֹם טוֹב...",
+      "it": "Chi affumica la frutta a Yom Tov per migliorarne il sapore o conservarla: se il fumigazione è per il consumo di quel giorno (ad esempio per ammorbidire la frutta), è permessa come ochel nefesh. Se è per conservazione a lungo termine, è vietata. Il principio di distinzione è sempre lo scopo immediato del giorno."
+    },
+    {
+      "n": 14,
+      "he": "הַמֵּבִיא כֵּלִים מִן הָאֻמָּן...",
+      "it": "Chi ritira oggetti dall'artigiano a Yom Tov (oggetti lavorati prima di Yom Tov): è permesso prendere oggetti già terminati prima di Yom Tov. Ma non si possono commissionare lavori a un non ebreo artigiano da eseguire a Yom Tov, poiché questo implica trasgressione da parte dell'artigiano (lifnei iver)."
+    },
+    {
+      "n": 15,
+      "he": "לֹא יֹאמַר אָדָם לְפַעוֹת חֲבֵרוֹ לְפָנָיו בְּיוֹם טוֹב...",
+      "it": "Non si deve chiedere a un non ebreo di fare lavori proibiti a Yom Tov: il principio di 'amira le-akum' (chiedere a un non ebreo di fare ciò che un ebreo non può fare) si applica anche a Yom Tov come al Sabato. Se il lavoro è vietato all'ebreo a Yom Tov, non si può incaricarne un non ebreo."
+    },
+    {
+      "n": 16,
+      "he": "מְחַמְּמִין חַמִּין לִרְחִיצָה בְּיוֹם טוֹב...",
+      "it": "Si può scaldare l'acqua per il bagno a Yom Tov? I Saggi hanno vietato bagnarsi in acqua calda a Yom Tov (a meno che non sia per scopi di ochel nefesh). Tuttavia, riscaldare acqua per lavarsi le mani e il viso è permesso. Bagnarsi completamente in acqua calda fu vietato dopo un decreto rabbinico per evitare che si riscaldi l'acqua eccessivamente."
+    },
+    {
+      "n": 17,
+      "he": "אֵין מְנַפְּחִין בְּיוֹם טוֹב...",
+      "it": "Non si soffia nel fuoco a Yom Tov (con un soffietto): soffiare con uno strumento meccanico per avvivare il fuoco è vietato, poiché assomiglia a 'creare fuoco'. Soffiare con la bocca è permesso, poiché è un atto naturale e non una melachah propria. Il Rambam distingue tra azioni manuali naturali e uso di strumenti meccanici."
+    },
+    {
+      "n": 18,
+      "he": "כָּל שֶׁחַיָּב בְּשַׁבָּת מִשּׁוּם שְׁבוּת...",
+      "it": "Tutto ciò che è vietato al Sabato per ragioni di shevut (decreto rabbinico per preservare la santità del Sabato) è ugualmente vietato a Yom Tov, salvo per le melachot dell'ochel nefesh. I decreti rabbinici di shevut si applicano anche a Yom Tov, poiché la santità di Yom Tov, sebbene inferiore a quella del Sabato, merita comunque protezione."
+    },
+    {
+      "n": 19,
+      "he": "מְשַׁחֲקִין בְּכַדּוּר בְּיוֹם טוֹב...",
+      "it": "Giocare a palla a Yom Tov: il Rambam permette giochi moderati a Yom Tov poiché fanno parte della simchat Yom Tov. Tuttavia, giochi che implicano costruzione di qualcosa (ad esempio costruire muri o strutture), o che portano a melachot proibite, sono vietati. L'intenzione e la natura dell'attività determinano se è permessa."
+    },
+    {
+      "n": 20,
+      "he": "הַקִּדּוּשׁ וְהַהַבְדָּלָה בְּיוֹם טוֹב...",
+      "it": "Il Kiddush e la Havdalah a Yom Tov: si fa il Kiddush a Yom Tov sul vino come al Sabato, proclamando la santità del giorno. Quando Yom Tov termina, si fa la Havdalah nella tefillah (preghiera) ma non separatamente sul vino, a meno che non segua un Sabato — in tal caso si fa la Havdalah sul vino come di consueto."
+    },
+    {
+      "n": 21,
+      "he": "הַחַמָּה וְהַלְּבָנָה מוֹעֵד לְיִשְׂרָאֵל...",
+      "it": "Il sole e la luna sono il calendario di Israele: il Rambam conclude le Leggi dello Yom Tov ricordando che i giorni festivi ebraici sono determinati dal calendario lunare-solare. La santificazione del mese (kiddush hachodesh) da parte del Beit Din stabilisce quando inizia ogni mese, e da ciò derivano tutti i Yom Tov. La Torah ha dato a Israele la capacità di 'santificare i tempi' — mikdash me'at — attraverso l'osservanza fedele dei suoi moedim (festività)."
+    }
+  ],
+  "_glossary_terms_used": ["Yom Tov", "ochel nefesh", "eruv tavshilin", "hotza'ah", "simchat Yom Tov", "melachot", "shevut", "borer", "melicha", "tzeidah", "kiddush", "havdalah", "lifnei iver", "amira le-akum", "kazayit", "moedim", "kiddush hachodesh"]
+}

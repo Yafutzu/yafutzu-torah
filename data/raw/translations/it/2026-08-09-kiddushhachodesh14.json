@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 14",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק יד",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 14",
+  "cycle": "rambam-1",
+  "date": "2026-08-09",
+  "hebrew_date": "26 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "לאחר שקובעים את יום ראש השנה לפי המולד והדחיות — קובעים את אורך החדשים. חדש שלם — שלושים יום; חדש חסר — עשרים ותשעה יום.",
+      "it": "Dopo aver stabilito il giorno di Rosh HaShanah in base al molad e alle dehiyyot, si determina la lunghezza dei mesi. Un mese 'pieno' (chodesh shalem) — trenta giorni; un mese 'mancante' (chodesh chaser) — ventinove giorni."
+    },
+    {
+      "n": 2,
+      "he": "כיצד יודעים אם חדש שלם או חסר? החדשים הקבועים: ניסן — שלם; אייר — חסר; סיון — שלם; תמוז — חסר; אב — שלם; אלול — חסר; תשרי — שלם; חשוון ו כסלו — לפי מה שייקבע בכל שנה; טבת — חסר; שבט — שלם; אדר — חסר; אדר ב' בשנת עיבור — שלם.",
+      "it": "Come si determina se un mese è pieno o mancante? I mesi fissi sono: Nisan — pieno; Iyar — mancante; Sivan — pieno; Tammuz — mancante; Av — pieno; Elul — mancante; Tishri — pieno; Cheshvan e Kislev — secondo quanto si determina ogni anno; Tevet — mancante; Shevat — pieno; Adar — mancante; Adar Sheni nell'anno intercalare — pieno."
+    },
+    {
+      "n": 3,
+      "he": "חשוון וכסלו הם החדשים הגמישים: אם שנה 'שלמה' — שניהם שלמים; אם שנה 'חסרה' — שניהם חסרים; אם שנה 'כסדרה' — חשוון חסר וכסלו שלם.",
+      "it": "Cheshvan e Kislev sono i mesi variabili: se l'anno è 'shalem' (completo, 355 giorni) — entrambi sono pieni; se l'anno è 'chaser' (mancante, 353 giorni) — entrambi sono mancanti; se l'anno è 'kesidrah' (regolare, 354 giorni) — Cheshvan mancante e Kislev pieno."
+    },
+    {
+      "n": 4,
+      "he": "כיצד קובעים אם השנה שלמה, חסרה, או כסדרה? לאחר ידיעת מולד תשרי ודחיות השנה הנוכחית ומולד תשרי של השנה הבאה — נדע כמה ימים יש בשנה, ולפי זה נדע אורך חשוון וכסלו.",
+      "it": "Come si stabilisce se l'anno è shalem, chaser o kesidrah? Dopo aver conosciuto il molad di Tishri e le dehiyyot dell'anno corrente, e il molad di Tishri dell'anno prossimo, si sa quanti giorni ci sono nell'anno, e da ciò si determina la lunghezza di Cheshvan e Kislev."
+    },
+    {
+      "n": 5,
+      "he": "ראש השנה הוא תמיד ביום ה-א, ג, ה, שבת — ולא ביום ב, ד, ו. כי הדחיות מונעות זאת. ולכן ראש חשוון יכול לחול רק ב-ב, ד, ו, שבת.",
+      "it": "Rosh HaShanah cade sempre di domenica, martedì, giovedì o Shabbat — mai di lunedì, mercoledì o venerdì. Poiché le dehiyyot lo impediscono. Di conseguenza Rosh Chodesh Cheshvan può cadere solo di lunedì, mercoledì, venerdì o Shabbat."
+    },
+    {
+      "n": 6,
+      "he": "לפי כל זה, ראשי חדשים אינם קבועים מראש בצורה פשוטה, אלא תלויים בחישוב מולד תשרי, בדחיות, ובאורך השנה. ורק לאחר ידיעת כל אלה — אפשר לדעת ראשי חדשים בדייקנות.",
+      "it": "Alla luce di tutto ciò, le date dei Rosh Chodesh non sono fissate in modo semplice in anticipo, ma dipendono dal calcolo del molad di Tishri, dalle dehiyyot e dalla lunghezza dell'anno. Solo dopo aver conosciuto tutti questi elementi è possibile stabilire con precisione i Rosh Chodesh."
+    },
+    {
+      "n": 7,
+      "he": "כל זה הוא יסוד לוח השנה היהודי, שהוא פלא גדול ומופלא שקבעו חכמי ישראל. ומי שמתעמק בו יראה את גדולת חכמת ישראל.",
+      "it": "Tutto ciò è il fondamento del calendario ebraico, che è una grande e straordinaria opera intellettuale stabilita dai Saggi di Israele. Chi lo approfondisce vedrà la grandezza della sapienza di Israele."
+    }
+  ],
+  "_glossary_terms_used": ["chodesh shalem", "chodesh chaser", "kesidrah", "molad", "dehiyyot"]
+}

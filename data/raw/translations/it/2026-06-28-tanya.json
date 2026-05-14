@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 19-20",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות יט–כ",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettere 19–20",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-28",
+  "hebrew_date": "13 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַבֵּינוֹנִי — עַבְדָּא דְּמַלְכָּא...",
+      "it": "Lettera 19: L'Alter Rebbe riprende il tema centrale del Tanya: il Beinoni (l'intermedio). La lettera chiarisce che il Beinoni non è una persona mediocre — è l'ideale massimo raggiungibile da ogni ebreo nella sua vita quotidiana. Il Beinoni è colui che, anche sentendo l'attrazione del Yetzer haRa (impulso del male), non vi cede mai in pensiero, parola o azione."
+    },
+    {
+      "n": 2,
+      "he": "הַמַּדְרֵגָה שֶׁל בֵּינוֹנִי בְּיַד כָּל אֶחָד...",
+      "it": "Il livello del Beinoni è alla portata di ognuno: questa è una delle affermazioni più democratiche e incoraggianti del Tanya. L'Alter Rebbe insiste che chiunque — anche la persona 'ordinaria' — può raggiungere e mantenere il livello del Beinoni attraverso uno sforzo costante e quotidiano. Non si richiede di 'uccidere' il Yetzer haRa, ma solo di non seguirlo."
+    },
+    {
+      "n": 3,
+      "he": "חֹדֶשׁ אֱלוּל — אֲנִי לְדוֹדִי וְדוֹדִי לִי...",
+      "it": "Lettera 20: Il mese di Elul è il tempo di 'Ani le-dodi ve-dodi li' (Io sono del mio amato e il mio amato è mio — Cantico dei Cantici 6:3). Le iniziali di questa frase in ebraico formano il nome del mese: א-ל-ו-ל. L'Alter Rebbe spiega la metafora del 'Re nel campo': durante Elul, il Re (Dio) lascia il palazzo (i mondi superiori) e scende nel campo (il mondo quotidiano) per incontrare ogni suddito individualmente."
+    },
+    {
+      "n": 4,
+      "he": "הַמֶּלֶךְ בַּשָּׂדֶה — הַזְּמַן שֶׁל קִרְבָה...",
+      "it": "Il Re nel campo: a Elul, Dio è accessibile anche a chi solitamente non ha accesso al palazzo reale. Ogni ebreo, indipendentemente dal suo livello spirituale, può avvicinarsi direttamente a Dio durante Elul. Questa accoglienza speciale di Elul e Tishrei è il tema della Lettera 20: un tempo in cui la distanza tra l'uomo e Dio si accorcia, e ogni teshuvah ha un impatto particolarmente potente."
+    }
+  ],
+  "_glossary_terms_used": ["Beinoni", "Yetzer haRa", "Tanya", "Ani le-dodi ve-dodi li", "Elul", "teshuvah", "Alter Rebbe", "Iggeret HaKodesh"]
+}

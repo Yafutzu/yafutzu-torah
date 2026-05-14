@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, To'en VeNit'an 6-8",
+  "name_he": "משנה תורה, הלכות טוען ונטען, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi delle Pretese e delle Contestazioni, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-11-24",
+  "hebrew_date": "15 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "6:1-5",
+      "he": "אֵין עֵד אֶחָד נֶאֱמָן בְּדִינֵי מָמוֹנוֹת לְחַיֵּב…",
+      "it": "(To'en VeNit'an cap. 6, hal. 1-5) Un solo testimone (ed echad) non è credibile nelle cause monetarie per condannare — poiché la Torah richiede «due testimoni» (shnei edim) per ogni pretesa monetaria. Tuttavia un solo testimone può obbligare il convenuto a giurare: se c'è un testimone che supporta parzialmente la pretesa, il convenuto che nega deve giurare per liberarsi. Questo è il principio di «ed echad be-mammon — mashbi'a ve-lo mekhayev» (un testimone in ambito monetario obbliga al giuramento ma non alla condanna)."
+    },
+    {
+      "n": "7:1-4",
+      "he": "עֵדוּת הַקְּרוֹבִים — פְּסוּלָה…",
+      "it": "(To'en VeNit'an cap. 7, hal. 1-4) La testimonianza dei parenti — è invalida. I parenti che sono invalidati come testimoni includono: padre e figlio, fratelli, suocero e genero, zio e nipote, e molte altre relazioni di parentela sia paterna sia materna. La ragione: i parenti non possono essere imparziali nei confronti dei propri familiari. Anche la testimonianza a favore di se stessi è ovviamente invalida — «nessuno è testimone per sé stesso»."
+    },
+    {
+      "n": "8:1-5",
+      "he": "הָרָשָׁע — פָּסוּל לְעֵדוּת…",
+      "it": "(To'en VeNit'an cap. 8, hal. 1-5) Il rasha (malvagio) — è invalido come testimone. Chi è rasha? Chi ha commesso una transgression per cui la Torah prevede malkot (flagellazione), o chi ha violato certi divieti rabbinali gravi. Un ladro noto, chi prende ribbit (interessi usurari) regolarmente, chi gioca d'azzardo come professione, chi traffica in prodotti di sesta anno — questi sono tutti invalidati come testimoni. Chi ha peccato ma si è pentito sinceramente (ba'al teshuvah) — è di nuovo valido come testimone."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ed echad", "shnei edim", "ed echad be-mammon", "rasha", "malkot", "ribbit", "ba'al teshuvah", "beit din", "umdena"
+  ]
+}

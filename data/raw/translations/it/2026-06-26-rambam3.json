@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shemitah VeYovel 3-5",
+  "name_he": "משנה תורה, הלכות שמיטה ויובל פרקים ג–ה",
+  "name_it": "Mishneh Torah, Leggi dello Shemitah e del Giubileo, capitoli 3–5",
+  "cycle": "rambam-3",
+  "date": "2026-06-26",
+  "hebrew_date": "11 Tammuz 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "בִּיעוּר פֵּרוֹת שְׁבִיעִית...",
+      "it": "Il Biur dei frutti della shemitah: quando un determinato frutto della shemitah scompare dai campi (cioè non c'è più nessuno che lo raccoglie nella natura), è vietato tenere in casa quel tipo di frutto. Si deve toglierlo di casa (biur) e renderlo disponibile a tutti. Questo è il concetto del 'biur' — la 'pulizia' dei frutti sacri della shemitah."
+    },
+    {
+      "n": "3:2-5",
+      "he": "כֵּיצַד עוֹשִׂין בִּיעוּר...",
+      "it": "Come si effettua il biur: si porta il frutto in strada, lo si mostra a tre persone (simbolo del pubblico) e si dichiara: 'Ecco, questo frutto è hefker (senza proprietario) per tutti.' In questo modo il frutto torna allo stato di hefker e chiunque può prenderlo. Il proprietario può poi riprendere una sua parte come tutti gli altri — ma solo come prenda di un hefker comune."
+    },
+    {
+      "n": "3:6-9",
+      "he": "מִי שֶׁיֵּשׁ לוֹ פֵּרוֹת שְׁבִיעִית...",
+      "it": "Chi ha frutti della shemitah in casa dopo il biur: se li ha senza aver fatto il biur è obbligato a portarli fuori immediatamente. I Saggi sono severi su questo punto perché i frutti della shemitah devono rimanere accessibili a tutti. Se li tiene in casa solo per proprio uso, viola il principio della shemitah di 'per il tuo vitto e per il tuo gregge.'"
+    },
+    {
+      "n": "3:10-12",
+      "he": "כֶּסֶף שְׁמִיטָה...",
+      "it": "Il denaro della shemitah (kesef shemitah): il denaro ricevuto in cambio di frutti della shemitah acquista la kedushah di shemitah. Quel denaro può essere usato solo per comprare cibo — non per comprare oggetti non commestibili. E il cibo comprato con quel denaro acquista anch'esso la kedushah di shemitah e deve essere mangiato con la stessa attenzione dei frutti originali."
+    },
+    {
+      "n": "4:1",
+      "he": "הַסְּפִיחִין — מַה הֵם...",
+      "it": "I Sefikhim (auto-seminate): le piante che crescono da sole nel campo durante l'anno di shemitah, senza che il coltivatore le abbia seminato intenzionalmente. La Torah permette di mangiare i sefichim, ma i Saggi hanno vietato di raccoglierli commercialmente, per paura che le persone seminino di nascosto e dichiaring poi che si tratta di sefichim naturali."
+    },
+    {
+      "n": "4:2-5",
+      "he": "הַגֵּרוּשׁ שֶׁל שְׁמִיטָה...",
+      "it": "Il Gerusha (allontanamento dalla terra in shemitah): ci sono piantagioni dove il proprietario deve lasciare aperto il campo per tutti. La Torah dice: 'Ve-shavat ha-aretz Shabbat laHashem' — la terra deve riposare come un Sabato per Dio. Questo obbligo implica anche l'apertura dei campi — che le persone possano entrare liberamente a prendere i frutti abbandonati."
+    },
+    {
+      "n": "4:6-9",
+      "he": "מְלֶאכֶת הַשָּׂדֶה בִּשְׁמִיטָה...",
+      "it": "I lavori agricoli permessi durante la shemitah: si possono eseguire lavori di manutenzione non produttiva — come supportare un albero che sta per cadere, coprire le radici esposte, irrigare in caso di siccità grave. Il criterio è: azioni che 'preservano' quanto già esiste sono permesse; azioni che 'migliorano o espandono' la produzione sono vietate."
+    },
+    {
+      "n": "5:1",
+      "he": "מִסְחַר בְּפֵרוֹת שְׁמִיטָה...",
+      "it": "Il commercio nei frutti della shemitah: è vietato fare del commercio regolare (pundak — negozio fisso) con frutti della shemitah. Tuttavia si può avere un commercio informale e temporaneo. Si può portare frutti di shemitah a casa e invitare amici a prenderne — questo non è 'commercio' ma condivisione. Il Rambam esamina i confini tra condivisione permessa e commercio vietato."
+    },
+    {
+      "n": "5:2-5",
+      "he": "חֶנְוָנִי שֶׁמָּכַר פֵּרוֹת שְׁבִיעִית...",
+      "it": "Un negoziante che vende frutti della shemitah: se vende a prezzo fisso, viola la halachah. Se 'valuta' il prezzo approssimativamente per coprire il trasporto e le spese, alcuni permettono. Il principio è che i frutti della shemitah devono circolare liberamente — il denaro serve solo per coprire i costi operativi minimi, non per generare profitto."
+    },
+    {
+      "n": "5:6-9",
+      "he": "הַחַמְרָן הַמּוֹכֵר פֵּרוֹת שְׁמִיטָה...",
+      "it": "Il venditore ambulante di frutti della shemitah: se è un venditore regolare e noto, il suo acquisto e la sua vendita sollevano dubbi. I Saggi erano preoccupati che la santità dei frutti della shemitah venisse 'commercializzata'. Il compratore che acquista da un venditore sospettato di non osservare la shemitah deve essere cauto nell'uso del cibo acquistato e del denaro pagato."
+    }
+  ],
+  "_glossary_terms_used": ["shemitah", "biur", "hefker", "peirot shevi'it", "kedushah", "kesef shemitah", "sefikhim", "gerusha", "pundak", "ve-shavat ha-aretz"]
+}

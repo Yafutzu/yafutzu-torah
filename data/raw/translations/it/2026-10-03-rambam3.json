@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Gezelah VeAvedah 10-12",
+  "name_he": "משנה תורה, הלכות גזלה ואבידה, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi della Rapina e degli Oggetti Smarriti, capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-10-03",
+  "hebrew_date": "22 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "10:1-6",
+      "he": "רָאָה אֶת הָאֲבֵדָה וְהִתְעַלֵּם מִמֶּנָּה — עָבַר עַל לֹא תַעֲשֶׂה…",
+      "it": "(Gezelah VeAvedah cap. 10, hal. 1-6) Chi vede un oggetto smarrito e si «nasconde» (mit'alem — fa finta di non vedere) — ha violato il divieto biblico di Deuteronomio 22:3: «Non puoi nasconderti». L'obbligo si applica sia all'oggetto smarrito sia all'animale perduto. Eccezione: un anziano o un dotto (talmid chacham) per il quale sarebbe indecoroso raccogliere da terra un animale — è esente. Non è esente però dall'obbligo di trovare qualcuno che lo faccia al suo posto, o di pagare un sostituto."
+    },
+    {
+      "n": "11:1-6",
+      "he": "רָאָה חֲמוֹר שׂוֹנְאוֹ רוֹבֵץ תַּחַת מַשָּׂאוֹ — עֲזֹב תַּעֲזֹב עִמּוֹ…",
+      "it": "(cap. 11, hal. 1-6) Chi vede l'asino del suo nemico caduto sotto il peso del carico — ha l'obbligo di aiutarlo a sollevarlo («azov ta'azov» — Esodo 23:5). Il Rambam stabilisce che in contrasto con l'obbligo di aiutare l'amico prima del nemico in situazioni normali — nel caso di pesi caduti si aiuta prima il nemico, per «piegare il proprio cuore» (lichbo'a yitzro) e vincere il proprio impulso di odio. L'obbligo di «prik u-te'in» (scaricare e ricaricare il peso sull'animale) include anche la cura per il benessere dell'animale (tza'ar ba'alei chaim)."
+    },
+    {
+      "n": "12:1-5",
+      "he": "כֵּיצַד מַחְזִיר אֶת הָאֲבֵדָה — לְאַחַר שֶׁהִכְרִיז…",
+      "it": "(cap. 12, hal. 1-5) Come si restituisce l'oggetto smarrito — dopo aver annunciato (hakrazah): chi reclama l'oggetto deve fornire un siman (segno identificativo). Non è sufficiente affermare «è mio» — deve descrivere caratteristiche specifiche che solo il proprietario conoscerebbe. Se due persone si presentano entrambe con un siman — si porta il caso al beit din. Dopo dodici mesi di annunci senza che nessuno reclami l'oggetto — l'oggetto diventa dell'inventore. Deve però tenerne il valore come deposito nel caso che il proprietario si presenti in futuro."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mit'alem", "talmid chacham", "azov ta'azov", "lichbo'a yitzro", "prik u-te'in", "tza'ar ba'alei chaim", "hakrazah", "siman", "beit din"
+  ]
+}

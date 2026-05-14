@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 3",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק ג",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-03",
+  "hebrew_date": "22 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִשֶּׁמֵּת הַבַּעַל — נֶאֶסְרָה יְבָמָתוֹ לְכָל אָדָם…",
+      "it": "Dal momento della morte del marito — la yevamah diventa proibita a qualsiasi altro uomo. Questo vincolo si chiama «zikah» (legame) — un legame giuridico che la unisce al yavam in modo analogo all'erusin (fidanzamento). La zikah è automatica e non richiede alcun atto positivo né del yavam né della yevamah. Essa rimane in vigore finché non si compie lo yibbum oppure la chalitzah."
+    },
+    {
+      "n": 2,
+      "he": "הַזִּיקָה קוֹנֶה בְּיָבָם מִמִּידַּת הַתּוֹרָה…",
+      "it": "La zikah acquisisce la yevamah per il yavam secondo la Torah — non è un semplice decreto rabbinico. Di conseguenza: se la yevamah muore durante la zikah, il yavam è esente dal lutto per lei come moglie; ma se il yavam compie un atto di ma'amar (dichiarazione formale analogo al kiddushin) la zikah si rafforza ulteriormente e il legame diventa più simile a un matrimonio vero. Finché la zikah è in vigore, la yevamah che si unisce ad altro uomo commette adulterio."
+    },
+    {
+      "n": 3,
+      "he": "הַיְּבָמָה שֶׁנִּשֵּׂאת לְאַחֵר בְּעוֹד שֶׁיֵּשׁ לָהּ יָבָם…",
+      "it": "La yevamah che si sposa con un altro uomo mentre la zikah è ancora vigente — il suo matrimonio è invalido. Deve lasciare il secondo marito senza get (atto di divorzio), perché il matrimonio non era valido dall'inizio. Deve poi attendere di compiere la chalitzah o lo yibbum con il yavam prima di potersi sposare legalmente con chiunque. Se ha avuto rapporti con il secondo marito prima di sapere dell'obbligo — è comunque tenuta a separarsi."
+    },
+    {
+      "n": 4,
+      "he": "הַיָּבָם שֶׁאֵינוֹ רוֹצֶה לְיַיֵּב וְלֹא לַחֲלֹץ — בֵּית דִּין כּוֹפִין אוֹתוֹ…",
+      "it": "Il yavam che non vuole né compiere lo yibbum né la chalitzah — il beit din (tribunale rabbinico) lo costringe a compiere la chalitzah. Il beit din non può costringerlo a compiere lo yibbum contro la sua volontà, perché lo yibbum richiede il consenso sia del yavam che della yevamah. Ma può e deve costringerlo a liberare la yevamah attraverso la chalitzah, poiché non è lecito tenere la yevamah in uno stato di «aguna» (donna incatenata) indefinitamente."
+    },
+    {
+      "n": 5,
+      "he": "הַיְּבָמָה שֶׁאֵינָהּ רוֹצָה לְהִתְיַיֵּב…",
+      "it": "La yevamah che non vuole compiere lo yibbum — il beit din non la costringe allo yibbum contro la sua volontà. In tal caso il yavam è tenuto a darle la chalitzah. Se il yavam vuole lo yibbum ma la yevamah si rifiuta — il beit din stabilisce la chalitzah come soluzione definitiva. La libertà della yevamah è protetta: nessuno la può costringere a sposare il cognato contro la sua volontà."
+    },
+    {
+      "n": 6,
+      "he": "יְבָמָה שֶׁהִיא אֲסוּרָה עַל הַיָּבָם מִשּׁוּם עֶרְוָה…",
+      "it": "La yevamah che è proibita al yavam per ragioni di incesto (ervah) — come ad esempio se è la figlia del yavam stesso o la sua sorella — non si compie né yibbum né chalitzah. La yevamah è completamente libera senza alcun atto formale. Similmente, se la yevamah ha già sposato il yavam e poi si scopre che era una relazione proibita — il matrimonio è nullo e la yevamah è libera."
+    }
+  ],
+  "_glossary_terms_used": [
+    "zikah", "yavam", "yevamah", "yibbum", "chalitzah", "ma'amar", "get", "erusin", "aguna", "beit din", "ervah"
+  ]
+}

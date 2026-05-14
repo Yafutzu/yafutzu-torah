@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 10",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת י",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 10",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-02",
+  "hebrew_date": "21 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הוֹשַׁעְנָא רַבָּה — חֲתִימָה אַחֲרוֹנָה שֶׁל הַדִּין…",
+      "it": "Hoshana Rabbah (21 Tishrei) — l'ultima «sigillatura» del giudizio dell'anno. Il Baal Shem Tov insegnava che sebbene il giudizio venga scritto a Rosh Hashanah e sigillato a Yom Kippur, la «consegna» definitiva del decreto avviene a Hoshana Rabbah. In questo giorno l'Alter Rebbe scrive della Torah come del principale mezzo per elevare l'anima — lo studio della Torah «porta in alto» (ma'aleh) l'anima verso i livelli più alti della Divina Presenza."
+    },
+    {
+      "n": 2,
+      "he": "שֶׁבַע הַקָּפוֹת בְּהוֹשַׁעְנָא רַבָּה — שֶׁבַע עַרוּצִים שֶׁל חֶסֶד…",
+      "it": "Le sette hakafot (circumambulazioni) di Hoshana Rabbah con l'aravah (ramo di salice) — corrispondono ai sette canali del chesed (amore divino) che in questo giorno vengono «tracciati» per l'anno nuovo. L'Alter Rebbe spiega che ogni hakafah attinge da un attributo divino diverso (Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, Malkhut) — e insieme creano un canale di benedizione per tutti e sette i giorni della settimana dell'anno. Chi compie le hakafot con kavanah (intenzione) apre questi canali di shefa (abbondanza divina)."
+    },
+    {
+      "n": 3,
+      "he": "הַתּוֹרָה מַעְלֶה אֶת הַנֶּפֶשׁ מֵעַמְקֵי הַקְּלִפָּוֹת…",
+      "it": "La Torah eleva l'anima dagli abissi delle Klipot (forze di oscurità) — l'Alter Rebbe spiega che ogni parola di Torah studiata è come un «hakafah» spirituale intorno al proprio cuore, che lo purifica e lo avvicina a Dio. In questo Hoshana Rabbah, l'ultima battaglia spirituale dell'anno: la Torah è la «hoshia na» (salva ci, ti preghiamo) — il grido di Hoshana Rabbah è il grido dell'anima che chiede di essere salvata e elevata attraverso lo studio della Torah e la connessione a Dio."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Hoshana Rabbah", "hakafot", "aravah", "chesed", "kavanah", "shefa", "Klipot", "hoshia na"
+  ]
+}

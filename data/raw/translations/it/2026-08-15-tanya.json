@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 39",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לט",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 39",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-15",
+  "hebrew_date": "2 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "בתפילה — יש שתי מדרגות: 'קטנות' ו'גדלות' של המוחין. 'קטנות' — כשהמוח שרוי במצב צמצום ואינו יכול להרגיש ולהכיר את גדולת ה'; 'גדלות' — כשהמוח מורחב ומכיר את הגדולה ויכול לעמוד בתפילה בכוונה שלמה.",
+      "it": "Nella preghiera vi sono due stati: 'katnut' (ristrettezza) e 'gadlut' (espansione) della mente (mochin). Il katnut — quando la mente è in uno stato di contrazione e non riesce a sentire e riconoscere la grandezza di D-o; il gadlut — quando la mente è espansa e riconosce la grandezza e può pregare con kavvanah completa."
+    },
+    {
+      "n": 2,
+      "he": "כיצד מגיעים ל'גדלות' לפני התפילה? על ידי 'הִתְבּוֹנְנוּת' — התעמקות במחשבה בגדולת ה'. שב, שקוט, וחשוב: 'מי אני מול מי אני מתפלל'. כשהמחשבה מעמיקה — הלב מתעורר, והתפילה יוצאת מהלב ואינה רק מן השפה.",
+      "it": "Come si raggiunge il 'gadlut' prima della preghiera? Attraverso la hitbonenut (contemplazione) — un approfondimento del pensiero sulla grandezza di D-o. Siediti, calma la mente e rifletti: 'Chi sono io di fronte a Chi sto pregando'. Quando il pensiero si approfondisce, il cuore si sveglia, e la preghiera emerge dal cuore e non è solo sulle labbra."
+    },
+    {
+      "n": 3,
+      "he": "האלטר רבי מלמד: אין להיות מיואש כשהתפילה יוצאת ב'קטנות'. גם תפילה ב'קטנות' — היא תפילה, ומקובלת לפני ה'. אבל חובה לשאוף ל'גדלות' ולהשקיע זמן בהכנה לפני התפילה. 'קדם כסא מלכות — השתחוו'.",
+      "it": "L'Alter Rebbe insegna: non ci si deve scoraggiare quando la preghiera esce in 'katnut'. Anche la preghiera in katnut è preghiera, e viene accettata davanti a D-o. Tuttavia si è obbligati ad aspirare al 'gadlut' e a investire tempo nella preparazione prima della preghiera. 'Davanti al trono della regalità — prostratevi'."
+    }
+  ],
+  "_glossary_terms_used": ["katnut", "gadlut", "mochin", "hitbonenut", "kavvanah", "Alter Rebbe"]
+}

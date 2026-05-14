@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Sechirut 3-5",
+  "name_he": "משנה תורה, הלכות שכירות, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi della Locazione, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-11-07",
+  "hebrew_date": "27 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "3:1-4",
+      "he": "שְׂכַר שָׂכִיר — לֹא תָלִין פְּעֻלָּת שָׂכִיר אִתְּךָ…",
+      "it": "(Sechirut cap. 3, hal. 1-4) Il pagamento del lavoratore dipendente (sachir/po'el): l'obbligo biblico di «Lo talin pe'ulat sachir ittecha» (Non trattenere la paga del tuo lavoratore con te — Lev. 19:13) richiede il pagamento puntuale. Chi assume un lavoratore per lavoro diurno — deve pagarlo entro la sera dello stesso giorno (ad avdah ha-yom — al tramonto). Chi assume per lavoro notturno — deve pagarlo entro l'alba. Chi ritarda il pagamento viola un divieto negativo della Torah. I Rishonim discutono se il divieto si applichi anche al datore di lavoro che non ha denaro disponibile al momento — la maggioranza lo esonera se non ha possibilità di pagare."
+    },
+    {
+      "n": "3:5-8",
+      "he": "הַפּוֹעֵל אוֹכֵל מִן הַמְּלָאכָה שֶׁהוּא עוֹשֶׂה בָּהּ…",
+      "it": "(Sechirut cap. 3, hal. 5-8) Il diritto del lavoratore di mangiare dal prodotto su cui lavora (to'el ha-po'el — il lavoratore mangia): un operaio agricolo che trebbia il grano, vendemmia l'uva, o raccoglie olive — ha il diritto halakhico di mangiare una quantità ragionevole del prodotto mentre lavora (Deut. 23:25-26). Il datore di lavoro non può impedirgli di mangiare. Tuttavia: (1) non può portarne a casa; (2) non può mangiare più di quanto sia ragionevole durante il lavoro; (3) non può dare ad altri. Questo diritto si applica solo ai prodotti agricoli non completamente lavorati."
+    },
+    {
+      "n": "4:1-4",
+      "he": "הַפּוֹעֵל שֶׁחָזַר בּוֹ בַּחֲצִי הַיּוֹם…",
+      "it": "(Sechirut cap. 4, hal. 1-4) Il lavoratore che torna indietro a metà giornata (poel she-chazar bo): la halakhah permette al lavoratore di smettere di lavorare a metà giornata, poiché «la Torah non è uno schiavismo» — il lavoratore non può essere costretto fisicamente a terminare. Tuttavia: se interrompe senza giusta causa, il datore di lavoro può detrarre dal salario il costo di trovare un sostituto a un costo maggiore. Se il lavoro è urgente e il lavoratore abbandona in un momento critico — il danno causato è a carico del lavoratore."
+    },
+    {
+      "n": "5:1-4",
+      "he": "הַנּוֹתֵן מְלָאכָה לְבֶן בֵּיתוֹ — אֵינוֹ יָכוֹל לְהוֹרִיד שְׂכָרוֹ…",
+      "it": "(Sechirut cap. 5, hal. 1-4) Le deduzioni salariali: il datore di lavoro non può dedurre dal salario del lavoratore costi che non erano stati concordati in anticipo. Se il lavoratore si è ammalato durante il contratto — il salario per i giorni di malattia dipende dai termini del contratto. Il principio generale: il contratto di lavoro (chozeh avodah) deve essere rispettato da entrambe le parti. Cambiamenti nelle condizioni di lavoro richiedono il consenso del lavoratore — il datore non può imporre unilateralmente condizioni più gravose."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sachir", "po'el", "to'el ha-po'el", "chozeh avodah", "Lo talin pe'ulat sachir", "Deut."
+  ]
+}

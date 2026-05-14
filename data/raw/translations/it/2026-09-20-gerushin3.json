@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 3",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ג",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 3",
+  "cycle": "rambam-1",
+  "date": "2026-09-20",
+  "hebrew_date": "9 Tishrei 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַבַּעַל יָכוֹל לְמַנּוֹת שָׁלִיחַ לְמַסֵּר אֶת הַגֵּט לְאִשְׁתּוֹ. וְיָכוֹל לְמַנּוֹת שָׁלִיחַ לְקַבֵּל אֶת הַגֵּט מִן הַבַּעַל.",
+      "it": "Il marito può nominare un agente per consegnare il get alla moglie. E la moglie può nominare un agente per ricevere il get dal marito."
+    },
+    {
+      "n": 2,
+      "he": "שָׁלִיחַ שֶׁמִּנָּהוּ הַבַּעַל לְהוֹלִיךְ אֶת הַגֵּט — נִקְרָא שָׁלִיחַ הוֹלָכָה. שָׁלִיחַ שֶׁמִּנְּאָה הָאִשָּׁה לְקַבֵּל — נִקְרָא שָׁלִיחַ קַבָּלָה.",
+      "it": "L'agente nominato dal marito per portare il get è chiamato shaliach holachah (agente di consegna). L'agente nominato dalla moglie per ricevere è chiamato shaliach kabbalah (agente di ricezione)."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיוָן שֶׁנְּתָנוֹ שָׁלִיחַ קַבָּלָה לְיָדָהּ — הֲרֵי זוֹ מְגֹרֶשֶׁת, כְּאִלּוּ הִגִּיעַ לְיָדָהּ עַצְמָהּ.",
+      "it": "Non appena lo shaliach kabbalah lo ha ricevuto in mano — ella è divorziata, come se lo avesse ricevuto di persona."
+    },
+    {
+      "n": 4,
+      "he": "שָׁלִיחַ הוֹלָכָה — אֵינָהּ מְגֹרֶשֶׁת עַד שֶׁיַּגִּיעַ הַגֵּט לְיָדָהּ אוֹ לְיַד שָׁלִיחַ קַבָּלָה שֶׁלָּהּ.",
+      "it": "Lo shaliach holachah — ella non è divorziata finché il get non giunge nelle sue mani o nelle mani del suo shaliach kabbalah."
+    },
+    {
+      "n": 5,
+      "he": "אָמַר הַבַּעַל לְשָׁלִיחַ 'טֹל גֵּט זֶה וְתֵן לְאִשְׁתִּי' — הֲרֵי זֶה שָׁלִיחַ הוֹלָכָה בִּלְבַד. אֵינוֹ יָכוֹל לְהַחֲזִיר אֶת הַגֵּט לַבַּעַל.",
+      "it": "Se il marito ha detto all'agente: 'Prendi questo get e consegnalo a mia moglie' — questo è solo uno shaliach holachah. Non può restituire il get al marito."
+    },
+    {
+      "n": 6,
+      "he": "אָמַר לָהּ הַבַּעַל 'מַנִּי שָׁלִיחַ לְקַבֵּל גִּטֵּךְ' — וּמִנְּאָה הָאִשָּׁה שָׁלִיחַ — כֵּיוָן שֶׁקִּבֵּל הַשָּׁלִיחַ אֶת הַגֵּט, הִיא מְגֹרֶשֶׁת.",
+      "it": "Se il marito le ha detto: 'Nomina un agente per ricevere il tuo get' — e la moglie ha nominato un agente — non appena l'agente ha ricevuto il get, lei è divorziata."
+    },
+    {
+      "n": 7,
+      "he": "יָכוֹל הַבַּעַל לְבַטֵּל אֶת שְׁלִיחוּת הַהוֹלָכָה עַד שֶׁלֹּא הִגִּיעַ הַגֵּט לְיָדָהּ. אֲבָל אֵינוֹ יָכוֹל לְבַטֵּל שְׁלִיחוּת הַקַּבָּלָה לְאַחַר שֶׁקִּבֵּל הַשָּׁלִיחַ.",
+      "it": "Il marito può annullare la delega di consegna fino a quando il get non è giunto nelle sue mani. Ma non può annullare la delega di ricezione dopo che l'agente ha ricevuto."
+    },
+    {
+      "n": 8,
+      "he": "שְׁלִיחוּת בְּגֵּט — כְּשֵׁרָה בְּכָל אָדָם, חוּץ מֵחֵרֵשׁ, שׁוֹטֶה, וְקָטָן, שֶׁאֵינָם בְּנֵי דַּעַת.",
+      "it": "La delega nel get è valida per qualsiasi persona, tranne un sordomuto, uno psichicamente disturbato e un minore, che non hanno capacità legale."
+    },
+    {
+      "n": 9,
+      "he": "שָׁלִיחַ שֶׁמִּנָּה שָׁלִיחַ לְמַסֵּר — הַגֵּט כָּשֵׁר בְּדִיעֲבַד, שֶׁאָדָם יָכוֹל לְמַנּוֹת שָׁלִיחַ.",
+      "it": "Un agente che ha nominato un sub-agente per consegnare — il get è valido dopo il fatto, perché una persona può nominare un agente."
+    },
+    {
+      "n": 10,
+      "he": "שָׁלִיחַ שֶׁאָמַר 'נְתַתִּי גֵּט לָאִשָּׁה' — וְהִיא אוֹמֶרֶת לֹא קִבַּלְתִּי — בֵּית דִּין בּוֹדְקִין. אִם הֵעִידוּ עֵדִים שֶׁנִּתַּן — מְגֹרֶשֶׁת.",
+      "it": "Se un agente dice: 'Ho consegnato il get alla donna' — e lei dice di non averlo ricevuto — il tribunale esamina. Se testimoni attestano che è stato consegnato — lei è divorziata."
+    },
+    {
+      "n": 11,
+      "he": "שָׁלִיחַ שֶׁאָמַר 'בָּטַל הַגֵּט' — אִם בָּטַלוֹ בְּפָנֵי בֵּית דִּין לִפְנֵי שֶׁהִגִּיעַ לְיָדָהּ — בָּטֵל.",
+      "it": "Se un agente dice 'Il get è annullato' — se lo ha annullato davanti al tribunale prima che giungesse nelle sue mani — è annullato."
+    },
+    {
+      "n": 12,
+      "he": "בִּיטֵּל הַגֵּט שֶׁלֹּא בְּפָנֵי בֵּית דִּין — יֵשׁ מַחְלֹקֶת. וְנוֹהֲגִין לְהַחְמִיר.",
+      "it": "Se ha annullato il get non davanti al tribunale — vi è una disputa. E si usa essere severi."
+    },
+    {
+      "n": 13,
+      "he": "הַמְּגָרֵשׁ אֶת אִשְׁתּוֹ בְּאֶרֶץ יִשְׂרָאֵל וְאִשְׁתּוֹ בְּחוּץ לָאָרֶץ — מְשַׁלֵּחַ לָהּ שָׁלִיחַ. וְכֵן לְהֵפֶך.",
+      "it": "Chi divorzia dalla moglie mentre lui è in Terra d'Israele e lei è fuori dalla Terra d'Israele — le invia un agente. E lo stesso vale al contrario."
+    },
+    {
+      "n": 14,
+      "he": "שָׁלִיחַ שֶׁנִּתַּן לוֹ גֵּט בְּאֶרֶץ יִשְׂרָאֵל וְיָצָא לְחוּץ לָאָרֶץ — אֵינוֹ צָרִיךְ לְהָעִיד עָלָיו כִּי הוּא גֵּט מֵאֶרֶץ יִשְׂרָאֵל.",
+      "it": "Un agente a cui è stato consegnato un get in Terra d'Israele e poi è uscito fuori dalla Terra d'Israele — non ha bisogno di testimoniare su di esso perché è un get dalla Terra d'Israele."
+    },
+    {
+      "n": 15,
+      "he": "שָׁלִיחַ שֶׁקִּבֵּל גֵּט בְּחוּץ לָאָרֶץ וּבָא לְאֶרֶץ יִשְׂרָאֵל — צָרִיךְ לוֹמַר: 'בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם.'",
+      "it": "Un agente che ha ricevuto un get fuori dalla Terra d'Israele e viene in Terra d'Israele — deve dichiarare: 'Davanti a me è stato scritto e davanti a me è stato firmato.'"
+    },
+    {
+      "n": 16,
+      "he": "תַּקָּנַת חֲכָמִים שֶׁיֹּאמַר הַשָּׁלִיחַ 'בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם' — כְּדֵי שֶׁלֹּא תִּהְיֶה אִשָּׁה עֲגוּנָה אִם יֵלֵּךְ הַשָּׁלִיחַ לְמָקוֹם אַחֵר.",
+      "it": "Il decreto dei Saggi che l'agente dichiari 'Davanti a me è stato scritto e davanti a me è stato firmato' è affinché la donna non rimanga un'agunah se l'agente si reca altrove."
+    },
+    {
+      "n": 17,
+      "he": "שָׁלִיחַ שֶׁאָמַר 'בְּפָנַי נִכְתַּב' וְלֹא אָמַר 'בְּפָנַי נֶחְתַּם' — לֹא עָלְתָה לוֹ הַשְּׁלִיחוּת עַד שֶׁיֹּאמַר שְׁנֵיהֶם.",
+      "it": "Un agente che ha detto 'Davanti a me è stato scritto' ma non ha detto 'Davanti a me è stato firmato' — la sua delega non è valida finché non dice entrambe le cose."
+    },
+    {
+      "n": 18,
+      "he": "שָׁלִיחַ שֶׁחָלָה בַּדֶּרֶךְ — מְמַנֶּה שָׁלִיחַ אַחֵר תַּחְתָּיו, וְהַשֵּׁנִי אוֹמֵר 'בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם' כְּשֶׁמַּגִּיעַ לְאֶרֶץ יִשְׂרָאֵל.",
+      "it": "Un agente che si ammala in viaggio — nomina un altro agente al suo posto, e il secondo dice 'Davanti a me è stato scritto e davanti a me è stato firmato' quando arriva in Terra d'Israele."
+    }
+  ],
+  "_glossary_terms_used": ["shaliach", "shaliach holachah", "shaliach kabbalah", "get", "bitul", "agunah"]
+}

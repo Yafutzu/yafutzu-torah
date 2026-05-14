@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 53",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נ\"ג",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 53",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-29",
+  "hebrew_date": "16 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "בסיומו של ה'ספר של בינונים', מסכם האדמו\"ר הזקן: כל מה שנכתב בחלק זה — הוא עבור כל יהודי ויהודי, ואין הדבר מסור לצדיקים בלבד. הדרך של הבינוני — היא הדרך של כולנו.",
+      "it": "Al termine del 'Sefer Shel Beinonim' (il Libro degli Intermedi), l'Admur haZaken (il Rebbe Anziano, autore della Tanya) conclude: tutto ciò che è scritto in questa parte — è per ogni Ebreo, e la cosa non è riservata ai soli tzaddikim. Il percorso del Beinoni è il percorso di tutti noi."
+    },
+    {
+      "n": 2,
+      "he": "המסר הגדול: 'אל תפול ברוחך'. גם אם נפל האדם — יקום. גם אם חטא — ישוב. גם אם נכשל שוב ושוב — יתחיל מחדש. כי המאמץ עצמו — יקר בעיני ה' כזהב.",
+      "it": "Il grande messaggio: 'Al tipol be-ruchacha — non abbatterti di spirito'. Anche se cadde — si rialzi. Anche se peccò — si penta (teshuvah). Anche se inciampò ripetutamente — ricomincia. Poiché lo sforzo stesso — è prezioso agli occhi di D-o come l'oro."
+    },
+    {
+      "n": 3,
+      "he": "ובזה מסיים האדמו\"ר הזקן בברכה ועידוד לכל אחד מישראל: לך ועבוד, לך ותמצא, לך ותזכה לכל הטוב — כי ה' שומע תפילות ובוחן לבבות, ולא נותן אדם תחת ידו ריקם. 'לא ידח ממנו נדח'.",
+      "it": "Con questo l'Admur haZaken conclude con benedizione e incoraggiamento per ogni ebreo: vai e servi, vai e troverai, vai e meriterai ogni bene — poiché D-o ascolta le preghiere e scruta i cuori, e non lascia nessuno a mani vuote. 'Nessuno che lo cerca sarà respinto via da Lui'. Si conclude il Likutei Amarim (Sefer Shel Beinonim), Parte I della Tanya."
+    }
+  ],
+  "_glossary_terms_used": ["Sefer Shel Beinonim", "Admur haZaken", "tzaddikim", "Beinoni", "al tipol be-ruchacha", "teshuvah"]
+}

@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, To'en VeNit'an 15-16; Nachalot 1",
+  "name_he": "משנה תורה, הלכות טוען ונטען פרקים טו-טז; הלכות נחלות פרק א",
+  "name_it": "Mishneh Torah, Leggi delle Pretese e delle Contestazioni cap. 15-16; Leggi dell'Eredità capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-11-27",
+  "hebrew_date": "18 Kislev 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": "15:1-5",
+      "he": "הַחוֹזֵר בְּבֵית דִּין — אִם חָזַר בּוֹ לְאַחַר שֶׁנִּגְמַר הַדִּין — אֵין שׁוֹמְעִין לוֹ…",
+      "it": "(To'en VeNit'an cap. 15, hal. 1-5) Chi «si volta» — chi cambia la sua pretesa durante o dopo il processo — se il cambiamento avviene dopo che il beit din ha concluso il giudizio (nigmar ha-din) — non si ascolta più. Il principio: una volta che il beit din ha emesso il verdetto, le parti non possono riaprire il caso con nuove pretese o con la ritrattazione delle vecchie. Prima che il giudizio sia concluso — le parti possono emendare le loro pretese. Questo protegge l'integrità e la finalità delle decisioni del beit din."
+    },
+    {
+      "n": "16:1-5",
+      "he": "פָּטוּר — מַשְׁמָעוּתוֹ שֶׁהַדַּיָּן פָּטַר אֶת הַנִּתְבָּע מֵהַתַּשְׁלוּם…",
+      "it": "(To'en VeNit'an cap. 16, hal. 1-5) «Patur» (esente) — significa che il beit din ha esentato il convenuto dal pagamento. «Chayav» (obbligato) — significa che il beit din ha condannato il convenuto al pagamento. Queste due parole sono le conclusioni tipiche delle sentenze del beit din. Si concludono le Leggi delle Pretese e delle Contestazioni con l'aiuto del Cielo. «Si concludono le Leggi del Litigante e del Convenuto con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "1:1-4",
+      "he": "הַנַּחֲלָה — מִי יוֹרֵשׁ וּמִי לֹא יוֹרֵשׁ…",
+      "it": "(Hilchot Nachalot cap. 1, hal. 1-4) Le Leggi dell'Eredità: chi eredita e chi non eredita. L'ordine biblico dell'eredità (Bamidbar 27) è il seguente: (1) i figli del defunto (o i loro discendenti); (2) le figlie (o le loro discendenti), se non ci sono figli; (3) il padre del defunto; (4) i fratelli del defunto (o i loro discendenti); (5) le sorelle del defunto; (6) il nonno paterno; (7) altri ascendenti. Il figlio maschio ha precedenza sulla figlia femmina; il primogenito ha diritto al doppio della quota."
+    },
+    {
+      "n": "1:5-8",
+      "he": "בֵּן קוֹדֵם לְבַת — וְיוֹצְאֵי יְרֵכוֹ קוֹדְמִין לוֹ…",
+      "it": "(Hilchot Nachalot cap. 1, hal. 5-8) Il figlio ha precedenza sulla figlia — ma i discendenti del figlio (nipoti) hanno precedenza sulla figlia stessa. Il principio: i discendenti di chi ha precedenza hanno precedenza su chi viene dopo nell'ordine. La figlia eredita solo in assenza di figli (o loro discendenti). Un figlio nato fuori dal matrimonio (mamzer) eredita dal padre naturale. Un figlio adottivo non eredita secondo la halachah — a meno che non sia stato formalmente riconosciuto come figlio biologico."
+    }
+  ],
+  "_glossary_terms_used": [
+    "beit din", "nigmar ha-din", "patur", "chayav", "nachalah", "bechor", "mamzer"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Megillah VeChanukah 1",
+  "name_he": "משנה תורה, הלכות מגילה וחנוכה, פרק א",
+  "name_it": "Mishneh Torah, Leggi della Megillah e di Chanukah, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-20",
+  "hebrew_date": "7 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "קריאת המגילה מצות עשה מדברי סופרים, וכן הדלקת נר חנוכה. ודברי סופרים כולם — חובה, ואסור לזלזל בהם.",
+      "it": "La lettura della Megillah è un precetto positivo (mitzva aseh) di origine rabbinica; analogamente, l'accensione della lampada di Chanukah. Tutti i precetti dei Saggi sono obbligatori e vi è una proibizione di trattarli con leggerezza."
+    },
+    {
+      "n": 2,
+      "he": "כל ישראל חייבים בקריאת המגילה: אנשים ונשים וגרים ועבדים משוחררים.",
+      "it": "Tutti gli Israeliti sono obbligati nella lettura della Megillah: uomini e donne, proseliti (gherim) e schiavi liberati."
+    },
+    {
+      "n": 3,
+      "he": "קטן שהגיע לחינוך — חייב. ואביו חייב לחנכו.",
+      "it": "Un bambino che abbia raggiunto l'età dell'educazione religiosa (chinuch) è obbligato. Il padre è tenuto ad educarlo in questo precetto."
+    },
+    {
+      "n": 4,
+      "he": "זמן קריאתה: בני הכרכין — קורין אותה בחמישה עשר באדר. בני עיירות — קורין אותה בארבעה עשר. ובני כפרים — קורין אותה ביום הכניסה.",
+      "it": "Il tempo della lettura: gli abitanti delle grandi città murate (krachim) la leggono il quindici di Adar; gli abitanti delle città non murate la leggono il quattordici. Gli abitanti dei villaggi possono leggerla nel giorno di raccolta settimanale (yom haknisa)."
+    },
+    {
+      "n": 5,
+      "he": "קורין אותה בלילה ושונין אותה ביום.",
+      "it": "La si legge di notte e la si ripete di giorno."
+    },
+    {
+      "n": 6,
+      "he": "חייב לקרות אותה בלילה, וחייב לקרות אותה ביום — שנאמר: 'אלוקי אקרא יומם ולא תענה ולילה ולא דומיה לי'.",
+      "it": "Si è obbligati a leggerla di notte e si è obbligati a leggerla di giorno, come è detto: 'Dio mio, grido di giorno e Tu non rispondi, e di notte, e non c'è silenzio per me' (Salmi 22:3) — il verso allude alla doppia lettura."
+    },
+    {
+      "n": 7,
+      "he": "קוראה בלא ברכה — יצא. אבל לכתחילה מברך לפניה שלש ברכות.",
+      "it": "Se la si legge senza la benedizione — ha comunque adempiuto l'obbligo. Ma l'ideale è recitare prima tre benedizioni."
+    },
+    {
+      "n": 8,
+      "he": "ואלו הן הברכות: 'על מקרא מגילה', 'שעשה נסים לאבותינו', ו'שהחיינו'.",
+      "it": "Queste sono le tre benedizioni: 'al mikra megillah' (sulla lettura della Megillah), 'she'asah nissim la'avoteinu' (che ha fatto miracoli ai nostri padri), e 'shehecheyanu' (che ci ha fatto vivere fino a questo momento)."
+    },
+    {
+      "n": 9,
+      "he": "קרא מגילה על פה — לא יצא ידי חובתו. ואם כתובה בין הכתובים — יוצא.",
+      "it": "Se la lesse a memoria, senza il testo scritto, non ha adempiuto il suo obbligo. Se però è scritta all'interno dei Ketuvim (Agiografi), può adempiere l'obbligo leggendo da lì."
+    },
+    {
+      "n": 10,
+      "he": "צריך לשמוע כל המגילה מתחילתה ועד סופה. שמע מקצתה — לא יצא.",
+      "it": "È necessario ascoltare tutta la Megillah dall'inizio alla fine. Se ne ascoltò solo una parte, non ha adempiuto il suo obbligo."
+    },
+    {
+      "n": 11,
+      "he": "הקורא מגילה צריך לכוון לצאת ידי חובתו, והשומע צריך לכוון לצאת.",
+      "it": "Chi legge la Megillah deve avere intenzione (kavvanah) di adempiere il precetto, e chi ascolta deve anch'egli avere tale intenzione."
+    },
+    {
+      "n": 12,
+      "he": "נשים חייבות בקריאת המגילה, ואף הן היו באותו הנס.",
+      "it": "Le donne sono obbligate nella lettura della Megillah, poiché anche esse fecero parte del miracolo — la salvezza di Israele avvenne grazie all'azione di Ester, una donna."
+    }
+  ],
+  "_glossary_terms_used": ["mitzva aseh", "chinuch", "krachim", "yom haknisa", "kavvanah", "Ketuvim", "gherim"]
+}

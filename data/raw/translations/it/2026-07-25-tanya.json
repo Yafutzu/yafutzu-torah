@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 16",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק טז",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 16",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-25",
+  "hebrew_date": "11 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַדֶּרֶךְ לְהַגִּיעַ לְאַהֲבָה וְיִרְאָה — הִיא הַהִתְבּוֹנְנוּת, שֶׁהִיא עִיּוּן עָמֹק בִּגְדֻלַּת הַשֵּׁם יִתְבָּרַךְ.",
+      "it": "La via per raggiungere l'amore e il timore di Dio è la hitbonenut (contemplazione profonda) — una riflessione approfondita sulla grandezza del Signore Benedetto."
+    },
+    {
+      "n": 2,
+      "he": "מְמַלֵּא כָּל עָלְמִין — פֵּרוּשׁוֹ שֶׁהַשֵּׁם מָלֵא בְּכָל עוֹלָמוֹת. וְסוֹבֵב כָּל עָלְמִין — שֶׁה' מַקִּיף אֶת כָּל הָעוֹלָמוֹת בְּאוֹרוֹ הַבְּלִי גְּבוּל.",
+      "it": "'ממלא כל עלמין' (memalleh kol almin — riempie tutti i mondi) — significa che il Signore riempie interiormente tutti i mondi. 'וסובב כל עלמין' (sovev kol almin — circonda tutti i mondi) — che Dio circonda e trascende tutti i mondi con la Sua luce infinita."
+    },
+    {
+      "n": 3,
+      "he": "הַחֲסִידִים נָהֲגוּ לְהִתְבּוֹנֵן בְּבֹקֶר קֹדֶם הַתְּפִלָּה בָּעִנְיָן הַזֶּה — לְעוֹרֵר אֲהַבַת ה' בְּלִבָּם. זֶהוּ 'הִתְבּוֹנְנוּת שֶׁל בֹּקֶר'.",
+      "it": "I Chassidim erano soliti contemplare al mattino, prima della preghiera, questi concetti — per risvegliare l'amore di Dio nel loro cuore. Questa è la 'meditazione mattutina' (hitbonenut shel boker) — fondamento della preghiera chassidica."
+    }
+  ],
+  "_glossary_terms_used": ["hitbonenut", "memalleh kol almin", "sovev kol almin", "ahavah", "yir'ah"]
+}

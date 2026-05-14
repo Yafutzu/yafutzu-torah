@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 29",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כט",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 29",
+  "cycle": "tanya-yomi",
+  "date": "2026-12-01",
+  "hebrew_date": "22 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְכַאֲשֶׁר יָבֹא לְלִבּוֹ הִרְהוּרֵי תַּאֲוָה בְּשָׁעַת הַתְּפִלָּה...",
+      "it": "Quando durante la preghiera emergono pensieri di desiderio (hirhurei ta'avah) o pensieri estranei (machshavot zarot) — l'Alter Rebbe insegna una risposta pratica: il pensiero stesso è un'informazione preziosa. Esso rivela l'attività della nefesh ha-behamit (anima animale) in quel momento. Riconoscerlo non è una sconfitta — è un atto di consapevolezza (da'at). Il pensiero non appartiene alla nefesh ha-Elokit (anima divina); è solo il «rumore di fondo» dell'anima animale."
+    },
+    {
+      "n": 2,
+      "he": "כְּשֶׁיַּכִּיר שֶׁהַמַּחְשָׁבָה בָּאָה מִצַּד הַנֶּפֶשׁ הַבְּהֵמִית...",
+      "it": "Riconoscere che il pensiero intrusivo viene dall'anima animale (nefesh ha-behamit) — è di per sé una forma di separazione (havdalah). «Questo non sono io» — questa è la consapevolezza chiave. L'Alter Rebbe insegna: non bisogna lottare contro il pensiero, sopprimerlo con forza, o vergognarsi. Basta riconoscerlo come appartenente all'anima animale e non identificarsi con esso. Il senso di vergogna o frustrazione per i pensieri intrusivi è esso stesso un errore — implica una falsa identificazione con l'anima animale."
+    },
+    {
+      "n": 3,
+      "he": "הַמַּחְשָׁבָה אֵין לָהּ אֲחִיזָה בְּנֶפֶשׁ הָאֱלֹהִית...",
+      "it": "Il pensiero intrusivo non ha presa (achizah) sulla nefesh ha-Elokit (anima divina). L'anima divina rimane integra e pura durante tutta la preghiera — i pensieri intrusivi non la «contaminano». Solo l'anima animale è vulnerabile a questi pensieri. Questa comprensione è liberatoria: chi prega e sperimenta pensieri intrusivi sa che la sua anima divina prega comunque con piena integrità. La Divina Presenza (Shechinah) ascolta la preghiera dell'anima divina, non le interferenze dell'anima animale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hirhurei ta'avah", "machshavot zarot", "nefesh ha-behamit", "nefesh ha-Elokit", "da'at", "havdalah", "achizah", "Shechinah"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Rotzeach UShmirat Nefesh 8-10",
+  "name_he": "משנה תורה, הלכות רוצח ושמירת נפש, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi dell'Omicidio e della Protezione della Vita, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-10-11",
+  "hebrew_date": "30 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "8:1-5",
+      "he": "וְעָשִׂיתָ מַעֲקֶה לְגַגֶּךָ — זוֹ מִצְוַת עֲשֵׂה…",
+      "it": "(Rotzeach UShmirat Nefesh cap. 8, hal. 1-5) «E farai un parapetto per il tuo tetto» (Deut. 22:8) — è un precetto positivo. Chiunque abbia un tetto accessibile — è obbligato a costruire un parapetto (ma'akeh) di almeno dieci tefachim (palmi) di altezza. Questa mitzvah si estende: bisogna rimuovere qualsiasi pericolo da casa propria — un cane morsicante, una scala difettosa, un pozzo aperto. Il principio generale: «Ve-nishmartem me'od lenafshoteichem» (Deut. 4:15) — «Guardatevi molto per le vostre anime» — è l'obbligo di proteggere la propria vita e quella degli altri da ogni pericolo."
+    },
+    {
+      "n": "9:1-5",
+      "he": "כָּל הַמַּצִּיל נֶפֶשׁ אַחַת מִיִּשְׂרָאֵל — מַעֲלֶה עָלָיו כְּאִלּוּ קִיֵּם עוֹלָם מָלֵא…",
+      "it": "(cap. 9, hal. 1-5) Chi salva un'anima di Israele — è come se avesse salvato un intero mondo (Sanhedrin 37a). Il divieto di «lo ta'amod al dam re'echa» (Lev. 19:16) — «non restare indifferente di fronte al sangue del tuo prossimo» — è un divieto attivo: bisogna intervenire per salvare la vita di chi è in pericolo. Se si può salvare una vita spendendo denaro — è obbligatorio farlo. Se si può salvare una vita testimoniando in un tribunale — è obbligatorio. Il principio del pikuach nefesh (salvaguardia della vita): praticamente tutti i precetti della Torah cedono di fronte alla necessità di preservare la vita umana."
+    },
+    {
+      "n": "10:1-5",
+      "he": "כָּל הַמּוֹסֵר יִשְׂרָאֵל בְּיַד אָנוּס — אֵין לוֹ חֵלֶק לָעוֹלָם הַבָּא…",
+      "it": "(cap. 10, hal. 1-5) Chi consegna un ebreo ai nemici (mosser) — ha commesso uno dei peccati più gravi, ed è escluso dal mondo avvenire. La Torah proibisce non solo l'uccisione diretta ma anche qualsiasi azione che mette in pericolo la vita di un ebreo — compreso lo «scivoloso» (davar hamevi li-dei sakkanah — un'azione che porta a pericolo). Il Rambam include in questa sezione il divieto di mangiare in modo pericoloso per la propria salute, di tralasciare cure mediche, e di vivere in una città priva di medico — tutte forme di negligenza verso la protezione della vita."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ma'akeh", "pikuach nefesh", "lo ta'amod al dam re'echa", "mosser", "davar hamevi li-dei sakkanah", "ve-nishmartem"
+  ]
+}

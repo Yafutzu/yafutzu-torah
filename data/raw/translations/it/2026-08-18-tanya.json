@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 42",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ב",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 42",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-18",
+  "hebrew_date": "5 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "חילול השם — הוא ההיפך המוחלט של קידוש השם. כשאדם שנודע כירא שמים מתנהג בצורה שאינה הולמת — הרי זה חילול השם, כי על ידי כך מתמעטת כבוד שמים בעיני הבריות.",
+      "it": "Il chilul Hashem (profanazione del Nome Divino) è l'opposto assoluto del kiddush Hashem. Quando una persona nota come timorata del Cielo si comporta in modo sconveniente — questo è chilul Hashem, poiché attraverso di ciò l'onore dei Cieli diminuisce agli occhi delle creature."
+    },
+    {
+      "n": 2,
+      "he": "חמור חילול השם מכל העבירות, שאינו נמחל על ידי תשובה ויום הכיפורים ויסורים אלא על ידי מיתה. ואפילו בשוגג — טעון תשובה חמורה.",
+      "it": "Il chilul Hashem è più grave di tutte le trasgressioni, poiché non è espiato mediante la teshuvah, Yom Kippur o le sofferenze, se non mediante la morte. E anche involontariamente — richiede una teshuvah profonda."
+    },
+    {
+      "n": 3,
+      "he": "לכן צריך האדם להיזהר ביותר שלא יגרום חילול השם אפילו שלא בכוונה — בדיבורו, בהנהגתו, ובמעשיו. ועל זה נאמר: 'ואהבת את ה' אלוקיך' — שיתאהב שם שמים על ידך.",
+      "it": "Pertanto una persona deve guardarsi moltissimo dal causare chilul Hashem anche involontariamente — nel suo parlare, nel suo comportamento e nelle sue azioni. Su di ciò è detto: 'Amerai il Signore tuo D-o' (Deuteronomio 6:5) — che il Nome dei Cieli diventi amato attraverso di te."
+    }
+  ],
+  "_glossary_terms_used": ["chilul Hashem", "kiddush Hashem", "teshuvah", "Yom Kippur"]
+}

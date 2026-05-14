@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 10",
+  "name_he": "אגרת התשובה פרק י'",
+  "name_it": "Lettera della Teshuvah, Capitolo 10",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-10",
+  "hebrew_date": "25 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה עִנְיַן הַתּוֹרָה שֶׁהִיא מְכַפֶּרֶת",
+      "it": "Il capitolo finale dell'Iggeret HaTeshuvah introduce la Torah come strumento di teshuvah e di copertura (kapparah, כַּפָּרָה) dei peccati. Il Baal HaTanya cita il Talmud (Menachot 110a): 'Chiunque si impegni nello studio della Torah — non ha bisogno di olocausto, né di offerta per il peccato, né di offerta per la colpa'. Lo studio della Torah è più grande di tutti i sacrifici — e quindi più grande di tutta la teshuvah fisica?"
+    },
+    {
+      "n": 2,
+      "he": "אֶלָּא שֶׁהַתּוֹרָה מְכַסָּה",
+      "it": "Il Baal HaTanya spiega il meccanismo: la Torah non sostituisce la teshuvah per chi ha peccato deliberatamente, ma la Torah 'copre' (mecasseh, מְכַסֶּה) i peccati in un senso mistico — eleva l'anima a un livello in cui i peccati del passato non hanno più presa. Come mai? Perché la Torah è la saggezza di Dio (chochmah d'kedushah, חָכְמָה דִּקְדֻשָּׁה) e quando l'anima si fonde con la sapienza Divina attraverso lo studio, essa si trova in uno spazio che trascende l'opposizione del peccato. La Torah è la 'Torat HaTeshuvah' (תּוֹרַת הַתְּשׁוּבָה — la Torah del ritorno) perché per sua natura porta l'anima al ritorno."
+    },
+    {
+      "n": 3,
+      "he": "וְכָל זֶה בִּלְמוּד הַתּוֹרָה לִשְׁמָהּ",
+      "it": "La Torah che 'copre' e che costituisce teshuvah deve essere Torah lishmah (תּוֹרָה לִשְׁמָהּ — lo studio per il nome di Dio, senza scopo personale). Il Baal HaTanya conclude l'Iggeret HaTeshuvah con questo principio: il massimo della teshuvah è il ritorno alla fonte divina attraverso lo studio della Torah con piena devozione e attaccamento (dveikut, דְּבֵקוּת) a Dio. La sequenza completa della teshuvah secondo il Baal HaTanya è: 1) riconoscimento e confessione (vidui), 2) merirut e lev nishbar, 3) accettazione del futuro (kabbalat ha'atid, קַבָּלַת הָעָתִיד), 4) gioia della teshuvah completata, 5) Torah lishmah come ritorno permanente alla fonte. Questa è la teshuvah chassidit completa."
+    }
+  ],
+  "_glossary_terms_used": ["kapparah", "Torah lishmah", "mecasseh", "chochmah d'kedushah", "Torat HaTeshuvah", "dveikut", "vidui", "merirut", "lev nishbar", "kabbalat ha'atid", "teshuvah"]
+}

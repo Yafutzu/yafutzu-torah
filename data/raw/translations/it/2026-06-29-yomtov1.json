@@ -1,0 +1,122 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 1",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב פרק א",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-29",
+  "hebrew_date": "14 Tammuz 5786",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יוֹם טוֹב מִצְוַת עֲשֵׂה לִשְׁבֹּת בּוֹ...",
+      "it": "Yom Tov comporta il comandamento positivo di riposare (mitzvas aseh lishbot) da certi lavori — quelli che non hanno a che fare con il cibo. Questo riposo è diverso da quello del Sabato in quanto alcune melachot (lavori proibiti) legate alla preparazione del cibo (ochel nefesh) sono permesse a Yom Tov, ma non al Sabato."
+    },
+    {
+      "n": 2,
+      "he": "כָּל מְלָאכָה שֶׁחַיָּב עָלֶיהָ בְּשַׁבָּת...",
+      "it": "Ogni melachah per cui si è passibili di punizione al Sabato, se eseguita a Yom Tov senza scopo di preparazione del cibo, è punibile con flagellazione (malkot). La proibizione di Yom Tov è di origine biblica (de-oraita) — la Torah dice esplicitamente: 'melachah lo ta'asu' — ma la pena è malkot anziché karet come al Sabato."
+    },
+    {
+      "n": 3,
+      "he": "אֵיזוֹ מְלָאכָה מֻתֶּרֶת בְּיוֹם טוֹב...",
+      "it": "Quale melachah è permessa a Yom Tov? Solo quella legata all'ochel nefesh — la preparazione del cibo. Pertanto: macinare il grano, impastare, cuocere, macellare e preparare carne, accendere un fuoco per cucinare, filtrare il vino — queste sono permesse. Ma tagliare legna non per cucinare, costruire, scrivere, tessere — queste rimangono vietate."
+    },
+    {
+      "n": 4,
+      "he": "יוֹם טוֹב שֶׁחָל לִהְיוֹת בְּשַׁבָּת...",
+      "it": "Yom Tov che cade di Sabato: le melachot dell'ochel nefesh che sarebbero state permesse a Yom Tov feriale sono vietate al Sabato. Non si cuoce, non si macinano cereali, non si accende il fuoco al Sabato, nemmeno in un Yom Tov che cade di Sabato. Il Sabato ha una santità superiore a quella di Yom Tov (kedushat Shabbat chamura mi-kedushat Yom Tov)."
+    },
+    {
+      "n": 5,
+      "he": "מִצְוַת עֲשֵׂה מִן הַתּוֹרָה לִשְׂמֹחַ בְּיוֹם טוֹב...",
+      "it": "Vi è un comandamento positivo della Torah di gioire a Yom Tov (simchat Yom Tov). Come ci si rallegra? Mangiando carne e bevendo vino (per gli uomini), acquistando abiti e gioielli per le donne e i bambini. Il Rambam sottolinea che la simchah di Yom Tov deve includere tutte le categorie: uomini, donne, bambini, e anche stranieri, orfani e vedove."
+    },
+    {
+      "n": 6,
+      "he": "כֵּיצַד מְשַׂמְּחִין אֶת בְּנֵי בֵּיתוֹ...",
+      "it": "Come si porta gioia ai membri della famiglia a Yom Tov? Ai bambini si danno dolci e frutti secchi. Alle donne si acquistano abiti belli e gioielli secondo le proprie possibilità. Agli uomini si serve carne di manzo e vino. Il Rambam è preciso: la simchah di Yom Tov non è mera astensione dal lavoro, ma un'affermazione attiva di gioia."
+    },
+    {
+      "n": 7,
+      "he": "אַף עַל פִּי שֶׁהַשִּׂמְחָה הִיא מְצִיאוּת...",
+      "it": "Sebbene la gioia sia una condizione della mente, il Rambam sottolinea che a Yom Tov non ci si deve abbandonare alla volgarità o all'eccesso. La gioia deve essere combinata con la venerazione divina (yirat shamayim). Mangiare e bere in modo eccessivo o litigare non è simchat Yom Tov — è gioia della pancia (simchat kresem)."
+    },
+    {
+      "n": 8,
+      "he": "לֹא יִהְיֶה שָׂשׂוֹן בְּחַג אֶלָּא עִם תּוֹרָה...",
+      "it": "La vera gioia di Yom Tov include lo studio della Torah. I Saggi hanno stabilito che metà del giorno festivo sia dedicata al riposo e al pasto, e l'altra metà alle sinagoghe e alle case di studio. Yom Tov è un tempo in cui la gioia carnale e quella spirituale si fondono in un unico servizio divino (avodah)."
+    },
+    {
+      "n": 9,
+      "he": "אֵין מַכְשִׁירֵי אֹכֶל נֶפֶשׁ דּוֹחִין...",
+      "it": "La preparazione degli strumenti per il cibo (machshirei ochel nefesh) non supera il Sabato. Ad esempio: affilare il coltello per macellare può essere fatto a Yom Tov, ma non al Sabato. Tuttavia, la preparazione degli strumenti è permessa a Yom Tov solo se senza di essa il cibo non potrebbe essere preparato affatto."
+    },
+    {
+      "n": 10,
+      "he": "הָאָפָה וְהַבִּשּׁוּל בְּיוֹם טוֹב...",
+      "it": "La cottura e la bollitura a Yom Tov: sono permesse solo per il cibo di quel giorno di Yom Tov. Non si cucina a Yom Tov per il giorno seguente (chulin), e neanche per il Sabato immediatamente successivo — a meno che non si sia stabilito l'eruv tavshilin prima di Yom Tov."
+    },
+    {
+      "n": 11,
+      "he": "עֵרוּב תַּבְשִׁילִין...",
+      "it": "L'eruv tavshilin: quando Yom Tov cade di giovedì-venerdì (o solo venerdì), i Saggi hanno istituito che si prepari dell'eruv tavshilin — un cibo cotto prima di Yom Tov — che permette di cucinare a Yom Tov per il Sabato. Senza eruv tavshilin, è vietato cucinare a Yom Tov per il Sabato che segue."
+    },
+    {
+      "n": 12,
+      "he": "כֵּיצַד עוֹשִׂין עֵרוּב תַּבְשִׁילִין...",
+      "it": "Come si fa l'eruv tavshilin? Si prendono del pane e un cibo cotto (un uovo lesso, un pesce, o altra pietanza) la vigilia di Yom Tov e si dice: 'Con questo eruv sia permesso cuocere, cucinare e fare tutto il necessario da Yom Tov per il Sabato.' Questo è valido per tutta la famiglia che dipende da quel capofamiglia."
+    },
+    {
+      "n": 13,
+      "he": "שָׁכַח וְלֹא עֵרֵב...",
+      "it": "Chi ha dimenticato di fare l'eruv tavshilin: non può cucinare a Yom Tov per il Sabato. Tuttavia il posek può includere quella persona nella propria dichiarazione dell'eruv tavshilin se lo stabilisce prima di Yom Tov. La formula del Rav della città può coprire tutti coloro che dimenticano."
+    },
+    {
+      "n": 14,
+      "he": "הָאוֹפֶה בְּיוֹם טוֹב לְחֹל...",
+      "it": "Chi cuoce a Yom Tov per i giorni feriali (chulin): ha violato la halachah. I Saggi puniscono tale persona con la confisca del pane cotto — non si mangia il pane che è stato cotto illecitamente a Yom Tov per i giorni feriali. Questo è un divieto rabbinico: de-rabbanan asurah ve-lo ochlin mimmenu."
+    },
+    {
+      "n": 15,
+      "he": "אֵין מְבַשְּׁלִין בְּיוֹם טוֹב לְאָרְחִין...",
+      "it": "Non si cucina a Yom Tov per ospiti non attesi: la preparazione del cibo è permessa solo per chi è già presente o atteso con certezza. Se si prepara cibo extra per ospiti ipotetici, questo equivale a preparare per i giorni feriali ed è vietato. La preparazione dell'ochel nefesh è permessa solo per le esigenze del giorno stesso."
+    },
+    {
+      "n": 16,
+      "he": "הַשּׁוֹחֵט בְּיוֹם טוֹב...",
+      "it": "Chi macella (shechitah) a Yom Tov: è permesso, poiché è una delle melachot dell'ochel nefesh. Si può macellare un pollo, una pecora o un altro animale a Yom Tov per mangiarla in quel giorno. Tuttavia, chi macella per vendere o per Yom Tov successivo viola la halachah, poiché sta lavorando per scopo commerciale o differito."
+    },
+    {
+      "n": 17,
+      "he": "הָאוֹפֶה כִּכָּרוֹת בְּיוֹם טוֹב...",
+      "it": "Chi cuoce molte pagnotte a Yom Tov: se ne fa più di quanto può mangiare quel giorno, sospettiamo che stia preparando per i giorni feriali. I Saggi permettono di cuocere una quantità ragionevole (le'atid lavo) per non umiliare chi arriva all'ultimo momento come ospite. Il criterio è la ragionevolezza del quantitativo preparato."
+    },
+    {
+      "n": 18,
+      "he": "מַדְלִיקִין בְּיוֹם טוֹב...",
+      "it": "Si accende il fuoco a Yom Tov: è permesso accendere a Yom Tov da una fiamma già esistente (ma non da zero, senza mezzo di accensione). La Torah dice 'lo tevu'aru eish' (non accendiate il fuoco) solo per il Sabato, non per Yom Tov. Tuttavia non si può creare fuoco dal nulla (con pietre focaie, ad esempio) a Yom Tov."
+    },
+    {
+      "n": 19,
+      "he": "מֻתָּר לְהַעֲבִיר אֵשׁ בְּיוֹם טוֹב...",
+      "it": "È permesso trasferire il fuoco (hava'arat esh) a Yom Tov: si può prendere una fiamma e portarla da un luogo all'altro, o accendere una candela da un'altra fiamma. Questo è uno dei permessi speciali di Yom Tov rispetto al Sabato. Il fuoco è considerato 'già creato' quando viene trasferito, non creato ex novo."
+    },
+    {
+      "n": 20,
+      "he": "שְׂרֵפַת עֵצִים בְּיוֹם טוֹב...",
+      "it": "Bruciare legna a Yom Tov: è permesso solo se la legna è usata per cucinare o riscaldare il cibo. Se la legna è destinata solo a scaldarsi (e non è legata alla preparazione del cibo), vi è una discussione tra i poskim. Il Rambam permette di riscaldarsi con il fuoco che rimane dopo la cottura, come beneficio secondario (achar hakivun)."
+    },
+    {
+      "n": 21,
+      "he": "אֵין מַבְעִירִין בְּיוֹם טוֹב לְהַשְׁמִיד...",
+      "it": "Non si accende il fuoco a Yom Tov per distruggere cibo o oggetti inutili: il fuoco di Yom Tov è permesso solo per scopi di ochel nefesh. Bruciare senza scopo di preparazione del cibo è vietato. Tuttavia, bruciare oggetti nocivi o cibo guasto è permesso se serve a proteggere il cibo buono."
+    },
+    {
+      "n": 22,
+      "he": "הַהוֹצָאָה בְּיוֹם טוֹב...",
+      "it": "Il trasporto (hotza'ah) a Yom Tov: è permesso portare oggetti da reshut hayachid a reshut harabbim a Yom Tov, a differenza del Sabato dove è vietato. Il Rambam cita la tradizione talmudica che l'hotza'ah è una delle melachot specialmente permesse a Yom Tov. Tuttavia non si porta più di quanto necessario per il cibo e per la gioia del giorno."
+    }
+  ],
+  "_glossary_terms_used": ["Yom Tov", "melachot", "ochel nefesh", "simchat Yom Tov", "eruv tavshilin", "de-oraita", "malkot", "karet", "shechitah", "reshut hayachid", "reshut harabbim", "hotza'ah", "yirat shamayim", "machshirei ochel nefesh", "avodah", "poskim"]
+}

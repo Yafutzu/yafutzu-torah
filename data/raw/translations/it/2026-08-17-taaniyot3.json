@@ -1,0 +1,87 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ta'aniyot 3",
+  "name_he": "משנה תורה, הלכות תעניות, פרק ג",
+  "name_it": "Mishneh Torah, Leggi dei Digiuni, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-17",
+  "hebrew_date": "4 Elul 5786",
+  "halachot_count": 15,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יש ימים שכל ישראל מתענין בהן מפני הצרות שאירעו בהן כדי לעורר הלבבות ולפתוח דרכי התשובה. ויהיה זה זיכרון למעשינו הרעים ומעשה אבותינו שהיה כמעשינו עתה.",
+      "it": "Vi sono giorni nei quali tutto Israele digiuna a causa delle calamità che in essi accaddero, al fine di risvegliare i cuori e aprire le vie della teshuvah (il ritorno a D-o). Questo serva come memoriale delle nostre cattive azioni e delle azioni dei nostri padri, che erano simili alle nostre azioni attuali."
+    },
+    {
+      "n": 2,
+      "he": "ואלו הן: שבעה עשר בתמוז, ותשעה באב, וצום גדליה, ועשרה בטבת.",
+      "it": "Essi sono: il diciassette di Tammuz, il nove di Av (Tisha B'Av), il Digiuno di Gedaliah (Tzom Gedaliah), e il dieci di Tevet."
+    },
+    {
+      "n": 3,
+      "he": "שבעה עשר בתמוז חמישה דברים אירעו בו: נשתברו הלוחות, ובטל התמיד, והובקעה ירושלים בחורבן שני, ושרף אפוסטמוס את התורה, והעמיד צלם בהיכל.",
+      "it": "Nel diciassette di Tammuz accaddero cinque cose: furono spezzate le Tavole della Legge (da Mosè, dopo il peccato del Vitello d'Oro); cessò il sacrificio quotidiano (tamid) durante l'assedio; Gerusalemme fu espugnata al tempo della seconda distruzione; il malvagio Apostemos bruciò un rotolo della Torah; e fu posta un'idolo nell'Heichal (il Santuario)."
+    },
+    {
+      "n": 4,
+      "he": "תשעה באב חמישה דברים אירעו בו: נגזר על אבותינו שלא יכנסו לארץ, וחרב הבית בראשונה ובשנייה, ונלכדה ביתר, ונחרשה העיר.",
+      "it": "Nel nove di Av (Tisha B'Av) accaddero cinque cose: fu decretato sui nostri padri nel deserto che non sarebbero entrati nella Terra d'Israele; il Bet HaMikdash (Tempio) fu distrutto la prima volta (da Nabucodonosor); il Bet HaMikdash fu distrutto la seconda volta (dai Romani); la città di Betar fu conquistata; e la città di Gerusalemme fu arata come campo."
+    },
+    {
+      "n": 5,
+      "he": "צום גדליה בן אחיקם הוא בשלישי בתשרי, לפי שנהרג גדליה בן אחיקם ביום זה.",
+      "it": "Il Digiuno di Gedaliah (Tzom Gedaliah) cade il tre di Tishrei, poiché in quel giorno fu assassinato Gedaliah figlio di Achikam."
+    },
+    {
+      "n": 6,
+      "he": "ולמה מתענין על הריגתו? ללמדך שקשה מיתת הצדיקים לפני המקום כחורבן בית המקדש.",
+      "it": "Perché si digiuna per la sua uccisione? Per insegnarci che la morte dei giusti è dolorosa davanti all'Onnipotente (HaMakom) quanto la distruzione del Bet HaMikdash."
+    },
+    {
+      "n": 7,
+      "he": "ועשרה בטבת הוא שסגר מלך בבל נבוכדנצר על ירושלים.",
+      "it": "Il digiuno del dieci di Tevet cade nel giorno in cui il re di Babilonia Nabucodonosor pose l'assedio a Gerusalemme."
+    },
+    {
+      "n": 8,
+      "he": "כל ד' ימים אלו יש בהם מנהגים ותפילות מיוחדות: קריאת התורה ותפילת הנעילה אין בהם אלא בתשעה באב.",
+      "it": "In ciascuno di questi quattro giorni vi sono usanze e preghiere speciali. Tuttavia la lettura speciale della Torah e la preghiera della Neila (chiusura) si recitano soltanto a Tisha B'Av."
+    },
+    {
+      "n": 9,
+      "he": "נשים מעוברות ומניקות מתענות בתשעה באב כשאר האנשים. ובשאר תעניות שאין מתענין בהן אלא מחמת המנהג, אם היו מעוברות או מניקות אינן מתענות.",
+      "it": "Le donne incinte e le nutrici digiunano a Tisha B'Av come gli altri. Negli altri digiuni, invece, che si osservano per sola consuetudine, le donne incinte e le nutrici non sono tenute a digiunare."
+    },
+    {
+      "n": 10,
+      "he": "חולה שאין בו סכנה, מקום שנהגו אין מתענין בו.",
+      "it": "Un malato che non si trovi in pericolo di vita: in un luogo dove la consuetudine è che tali persone non digiunino, non è tenuto a farlo."
+    },
+    {
+      "n": 11,
+      "he": "כל הנאמר בתשעה באב — שמד האכילה והשתיה מחמת מנהג — אינו נוהג בשאר תעניות.",
+      "it": "Tutto ciò che è detto a Tisha B'Av riguardo al divieto di mangiare e bere — che deriva dalla consuetudine — non si applica agli altri digiuni nelle stesse modalità rigide."
+    },
+    {
+      "n": 12,
+      "he": "בשבעה עשר בתמוז ובצום גדליה ועשרה בטבת, אם חל אחד מהם בשבת — נדחה לאחר השבת, לאחד בשבת.",
+      "it": "Il diciassette di Tammuz, il Digiuno di Gedaliah e il dieci di Tevet: se uno di essi cade di Shabbat, viene posticipato al giorno dopo Shabbat, ossia la domenica."
+    },
+    {
+      "n": 13,
+      "he": "ואם חל תשעה באב בשבת, נדחה לעשירי בו.",
+      "it": "Se Tisha B'Av cade di Shabbat, viene posticipato al dieci di Av."
+    },
+    {
+      "n": 14,
+      "he": "בזמן שבית המקדש קיים היו צמות אלו ימי שמחה וששון, שנאמר: 'צום הרביעי וצום החמישי וצום השביעי וצום העשירי יהיה לבית יהודה לששון ולשמחה'.",
+      "it": "Quando il Bet HaMikdash esiste, questi digiuni sono giorni di gioia e letizia, come è detto: 'Il digiuno del quarto mese, il digiuno del quinto mese, il digiuno del settimo mese e il digiuno del decimo mese saranno per la casa di Giuda gioia e letizia' (Zaccaria 8:19)."
+    },
+    {
+      "n": 15,
+      "he": "כשייבנה בית המקדש במהרה בימינו, יתהפכו ימים אלו לשמחה ומועד. לפיכך ראוי לנו לעסוק בתשובה ובמעשים טובים, שמא ייבנה ונזכה לנחמה.",
+      "it": "Quando il Bet HaMikdash verrà ricostruito, presto ai nostri giorni, questi giorni si trasformeranno in gioia e in festività. Pertanto è opportuno che ci dedichiamo alla teshuvah e alle buone azioni, affinché esso venga ricostruito e noi meritiamo la consolazione."
+    }
+  ],
+  "_glossary_terms_used": ["teshuvah", "Tisha B'Av", "Tzom Gedaliah", "tamid", "Heichal", "Bet HaMikdash", "HaMakom", "Neila"]
+}

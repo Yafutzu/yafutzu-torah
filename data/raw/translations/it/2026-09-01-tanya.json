@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 3",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק ג",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah (Porta dell'Unità e della Fede), capitolo 3",
+  "cycle": "tanya",
+  "date": "2026-09-01",
+  "hebrew_date": "19 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "וְהִנֵּה כְּשֵׁם שֶׁדִּבּוּר הָאָדָם הוּא בִּבְחִינַת גִּלּוּי לַחוּץ, כֵּן דִּבּוּרוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא הוּא בִּבְחִינַת גִּלּוּי לַחוּץ. אַךְ הֶבְדֵּל עָצוּם — דִּבּוּר הָאָדָם אֵינוֹ מְחַדֵּשׁ דָּבָר, אֲבָל דִּבּוּר הַקָּדוֹשׁ בָּרוּךְ הוּא מְחַדֵּשׁ יֵשׁ מֵאַיִן.", "it": "Ecco che come il parlare dell'uomo è una manifestazione verso l'esterno, così il parlare del Santo Benedetto è una manifestazione verso l'esterno. Ma c'è una differenza immensa — il parlare dell'uomo non crea nulla di nuovo, mentre il parlare del Santo Benedetto crea esistenza dal nulla (yesh me'ayin)."},
+    {"n": 2, "he": "דִּבּוּר הָאָדָם הוּא בַּהֶבֶל הַפֶּה וּבִנְשִׁימָה, שֶׁהֵם כֵּלִים גַּשְׁמִיִּים. אֲבָל הָאוֹתִיּוֹת שֶׁל הַדִּבּוּר הָאֱלֹהִי הֵן כֵּלִים רוּחָנִיִּים — כֵּלֵי הַכֹּחַ הָאֱלֹהִי הַיּוֹצֵר.", "it": "Il parlare dell'uomo si realizza tramite il soffio della bocca e il respiro, che sono strumenti materiali. Ma le lettere del parlare Divino sono strumenti spirituali — strumenti della forza creatrice Divina."},
+    {"n": 3, "he": "אוֹתִיּוֹת הָעִבְרִית הֵן הַכֵּלִים שֶׁבָּהֶם עוֹלֵם נִבְרָא וּמִתְקַיֵּם. כְּמוֹ שֶׁנֶּאֱמַר 'בְּעֶשְׂרָה מַאֲמָרוֹת נִבְרָא הָעוֹלָם' — אֵלּוּ הֵם כֵּלֵי הַבְּרִיאָה.", "it": "Le lettere ebraiche sono i vasi attraverso cui il mondo è stato creato e si mantiene. Come è detto 'con dieci espressioni il mondo è stato creato' — questi sono i vasi della creazione."}
+  ],
+  "_glossary_terms_used": ["yesh me'ayin", "dibbur", "otiyot"]
+}

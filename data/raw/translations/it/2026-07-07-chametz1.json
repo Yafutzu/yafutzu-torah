@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chametz UMatzah 1",
+  "name_he": "משנה תורה, הלכות חמץ ומצה, פרק א",
+  "name_it": "Mishneh Torah, Leggi del Chametz e della Matzah, capitolo 1",
+  "cycle": "rambam-1",
+  "date": "2026-07-07",
+  "hebrew_date": "22 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְווֹת עֲשֵׂה מִן הַתּוֹרָה לִבְעֵר חָמֵץ מֵהָעוֹלָם בְּיוֹם אַרְבָּעָה עָשָׂר בְּנִיסָן.",
+      "it": "Vi è un comandamento positivo della Torah di eliminare il chametz dal mondo il quattordici di Nissan."
+    },
+    {
+      "n": 2,
+      "he": "וּמִצְוַת עֲשֵׂה לִבְעֹר הַחָמֵץ — לִשְׂרֹף אוֹ לְפָרֵר וּלְהַשְׁלִיךְ לָרוּחַ אוֹ לַיָּם.",
+      "it": "Il comandamento di eliminare il chametz — significa bruciarlo, sminuzzarlo e gettarlo al vento o al mare."
+    },
+    {
+      "n": 3,
+      "he": "וּמִצְוַת עֲשֵׂה לְבַדֵּק אֶת הֶחָמֵץ בְּלֵיל אַרְבָּעָה עָשָׂר בְּנִיסָן.",
+      "it": "Vi è un comandamento positivo di controllare il chametz (bedikat chametz) nella notte del quattordici di Nissan."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד בּוֹדְקִין? בּוֹדֵק לְאוֹר הַנֵּר בְּכָל הַחֲדָרִים וּבְכָל הַמָּקוֹמוֹת שֶׁמַּכְנִיסִין שָׁם חָמֵץ.",
+      "it": "Come si controlla? Si controlla alla luce della candela in tutte le stanze e in tutti i luoghi in cui si porta il chametz."
+    },
+    {
+      "n": 5,
+      "he": "אֵין בּוֹדְקִין לְאוֹר הַחַמָּה, שֶׁאֵין הַנֵּר מֵאִיר יָפֶה לְאוֹר הַחַמָּה.",
+      "it": "Non si controlla alla luce del sole, poiché la candela non illumina bene alla luce del giorno."
+    },
+    {
+      "n": 6,
+      "he": "בָּדַק בְּלֵיל אַרְבָּעָה עָשָׂר — מְבַטֵּל אֶת הֶחָמֵץ בְּלִבּוֹ וְאוֹמֵר: \"כָּל חֲמִירָא...\"",
+      "it": "Chi controlla nella notte del quattordici — annulla il chametz nel suo cuore e dice: «Tutto il lievitato...» (la formula di annullamento del chametz, bitul chametz)."
+    },
+    {
+      "n": 7,
+      "he": "וּבִיּוּר הֶחָמֵץ — שְׂרֵפָה עַד שָׁעָה חֲמִישִׁית בְּיוֹם אַרְבָּעָה עָשָׂר.",
+      "it": "L'eliminazione del chametz — per bruciare entro la quinta ora del quattordici di Nissan."
+    },
+    {
+      "n": 8,
+      "he": "מִן הַתּוֹרָה אָסוּר לֶאֱכֹל חָמֵץ מִשָּׁעָה שִׁשִּׁית בְּיוֹם הָאַרְבָּעָה עָשָׂר.",
+      "it": "Dalla Torah è proibito mangiare chametz dalla sesta ora del quattordici di Nissan."
+    },
+    {
+      "n": 9,
+      "he": "חֲכָמִים הוֹסִיפוּ שְׁתֵּי שָׁעוֹת — שֶׁלֹּא יֹאכַל חָמֵץ מִשָּׁעָה חֲמִישִׁית.",
+      "it": "I Saggi hanno aggiunto due ore — vietando di mangiare chametz già dalla quinta ora."
+    },
+    {
+      "n": 10,
+      "he": "הַחָמֵץ בְּפֶסַח — אֲסוּרוֹ מִן הַתּוֹרָה, וְעוֹבֵר עָלָיו בְּלֹא תַּעֲשֶׂה.",
+      "it": "Il chametz a Pesach — è proibito dalla Torah, e chi lo trasgredisce viola un divieto (lo ta'aseh)."
+    },
+    {
+      "n": 11,
+      "he": "אֵין לֹקִין עַל חָמֵץ שֶׁלֹּא בִּיעֵר אֶלָּא אִם כֵּן אֲכָלוֹ.",
+      "it": "Non si riceve la flagellazione per chametz che non si è eliminato, a meno che non lo si sia mangiato."
+    },
+    {
+      "n": 12,
+      "he": "הָאוֹכֵל חָמֵץ בְּפֶסַח — חַיָּב כָּרֵת.",
+      "it": "Chi mangia chametz a Pesach — è passibile di karet (recisione spirituale)."
+    },
+    {
+      "n": 13,
+      "he": "מִצְוַת בִּדְיקַת חָמֵץ — בְּלֵיל יוֹם אַרְבָּעָה עָשָׂר, לְאַחַר צֵאת הַכּוֹכָבִים.",
+      "it": "Il comandamento della ricerca del chametz — la notte del quattordici, dopo la comparsa delle stelle."
+    },
+    {
+      "n": 14,
+      "he": "הַבּוֹדֵק צָרִיךְ לְבַדֵּק חוּרִין וּסְדָקִין שֶׁמַּכְנִיסִין בָּהֶם חָמֵץ.",
+      "it": "Chi controlla deve controllare fessure e crepe in cui si porta il chametz."
+    },
+    {
+      "n": 15,
+      "he": "אִם שָׁכַח לִבְדֹּק בְּלֵיל אַרְבָּעָה עָשָׂר — בּוֹדֵק בַּיּוֹם.",
+      "it": "Se ha dimenticato di controllare nella notte del quattordici — controlla di giorno."
+    },
+    {
+      "n": 16,
+      "he": "אִם לֹא בָּדַק בְּיוֹם אַרְבָּעָה עָשָׂר — בּוֹדֵק בְּתוֹךְ הַמּוֹעֵד.",
+      "it": "Se non ha controllato il quattordici di giorno — controlla durante Chol HaMoed."
+    },
+    {
+      "n": 17,
+      "he": "אִם לֹא בָּדַק כְּלָל — בּוֹדֵק אַחַר הַפֶּסַח.",
+      "it": "Se non ha controllato affatto — controlla dopo Pesach."
+    },
+    {
+      "n": 18,
+      "he": "הַבּוֹדֵק צָרִיךְ לְבַטֵּל אֶת הֶחָמֵץ שֶׁלֹּא מָצָא.",
+      "it": "Chi controlla deve annullare il chametz che non ha trovato."
+    },
+    {
+      "n": 19,
+      "he": "הַבִּטּוּל הוּא שֶׁיְּחַשֵּׁב בְּלִבּוֹ שֶׁחָמֵץ זֶה הָוֵי כְּעָפָר הָאָרֶץ.",
+      "it": "L'annullamento consiste nel pensare in cuor suo che quel chametz sia come la polvere della terra."
+    },
+    {
+      "n": 20,
+      "he": "נִמְצָא שֶׁיֵּשׁ שְׁלוֹשָׁה עִנְיָנִים: בְּדִיקָה, בִּיעוּר, בִּטּוּל. שְׁלָשְׁתָּם נִדְרָשִׁים.",
+      "it": "Si trova quindi che vi sono tre aspetti: la ricerca (bedikat chametz), l'eliminazione (biur chametz), e l'annullamento (bitul chametz). Tutti e tre sono richiesti."
+    }
+  ],
+  "_glossary_terms_used": ["chametz", "bedikat chametz", "biur chametz", "bitul chametz", "Pesach", "Nissan", "Chol HaMoed", "karet", "lo ta'aseh", "mitzva"]
+}

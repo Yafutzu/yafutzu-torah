@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Second Tithe 2-4",
+  "name_he": "משנה תורה, הלכות מעשר שני ונטע רבעי, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi della Seconda Decima e del Frutto del Quarto Anno, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-06-18",
+  "hebrew_date": "3 Tammuz 5786",
+  "halachot_count": 27,
+  "halachot": [
+    {
+      "n": "2:1-3",
+      "he": "הַפּוֹדֶה מַעֲשֵׂר שֵׁנִי שֶׁלּוֹ — מוֹסִיף חֹמֶשׁ...",
+      "it": "Chi riscatta il proprio maaser sheni (seconda decima) — cioè il proprietario stesso riscatta la propria produce — deve aggiungere un quinto (chomesh) in più al valore di mercato. Se è un'altra persona a riscattarlo per lui, non aggiunge il quinto. Il denaro del riscatto deve poi essere portato a Gerusalemme per acquistare cibo e beveraggi."
+    },
+    {
+      "n": "2:4-6",
+      "he": "מַעֲשֵׂר שֵׁנִי — אֵין פּוֹדִין אוֹתוֹ אֶלָּא בְּכֶסֶף...",
+      "it": "Il maaser sheni si riscatta solo con denaro — non con altri beni o con baratto. Il valore deve essere calcolato secondo il prezzo di mercato del prodotto. Se il prezzo non è noto (ad esempio per produce esotica), si valuta da esperti."
+    },
+    {
+      "n": "2:7-9",
+      "he": "כֶּסֶף מַעֲשֵׂר שֵׁנִי — אֵין לוֹקְחִין...",
+      "it": "Il denaro del riscatto del maaser sheni (kesef maaser sheni) ha santità propria: non si può usare per acquistare qualsiasi cosa, ma solo per cibo e bevande a Gerusalemme. Non si può usare per l'acquisto di schiavi, terreni, animali da lavoro, o qualsiasi altra cosa non alimentare."
+    },
+    {
+      "n": "3:1-3",
+      "he": "נֶטַע רְבָעִי — פֵּרוֹת שְׁנַת רְבִיעִית...",
+      "it": "Il neta revai: i frutti di un albero nel suo quarto anno di vita (dal momento della piantagione) hanno la stessa santità del maaser sheni. Devono essere portati a Gerusalemme e consumati là, o riscattati con denaro che viene portato a Gerusalemme. Questa legge si applica ai frutti dell'albero, non alle verdure o ai cereali."
+    },
+    {
+      "n": "3:4-6",
+      "he": "כֵּיצַד סוֹפְרִין שְׁנַת הַנֶּטַע...",
+      "it": "Come si contano gli anni per il neta revai? Si conta dall'anno della piantagione. Se l'albero è stato piantato prima di Rosh Hashana (15 Av o prima), il primo anno agrario è già iniziato. Se dopo, il primo anno comincia dal Rosh Hashana successivo."
+    },
+    {
+      "n": "3:7-9",
+      "he": "אִילָן שֶׁנֶּעֱקַר — חָזַר לְאֶחָד...",
+      "it": "Un albero che è stato sradicato e ripiantato — ricomincia il conteggio degli anni per l'orla (primi tre anni proibiti) e il neta revai dal momento della rimozione. Anche se era già nel suo quarto anno, deve ricominciare da capo."
+    },
+    {
+      "n": "4:1-3",
+      "he": "כֶּסֶף מַעֲשֵׂר שֵׁנִי — מְחַלְּלִין אוֹתוֹ...",
+      "it": "Il denaro del maaser sheni che è stato portato a Gerusalemme — se è diventato impuro o si è deteriorato, si può riscattare ulteriormente (il denaro 'riscatta' il cibo, e poi altro denaro può 'riscattare' il denaro del riscatto) per usarlo altrove."
+    },
+    {
+      "n": "4:4-6",
+      "he": "מַטְבֵּעַ שֶׁנִּפְסַל — אֵין פּוֹדִין בּוֹ...",
+      "it": "Una moneta fuori corso (matbea she-nifsaol) — non si può usare per riscattare il maaser sheni, poiché non è valuta corrente. Il riscatto deve avvenire con denaro spendibile e reale."
+    },
+    {
+      "n": "4:7-9",
+      "he": "הַמַּרְגִּישׁ מַעֲשֵׂר שֵׁנִי שֶׁלּוֹ...",
+      "it": "I marchi che si mettono sulle monete del maaser sheni: tradizionalmente si marcavano le monete del maaser sheni per distinguerle dalle monete ordinarie, così da ricordarsi di spenderle solo a Gerusalemme per cibo. Se le monete si mischiano con quelle ordinarie, la maggioranza determina lo status."
+    }
+  ],
+  "_glossary_terms_used": ["maaser sheni", "neta revai", "chomesh", "orla", "kesef maaser sheni", "matbea she-nifsaol", "Gerusalemme", "kedushah"]
+}

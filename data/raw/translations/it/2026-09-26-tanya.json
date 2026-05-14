@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 5",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ה",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettera 5",
+  "cycle": "tanya",
+  "date": "2026-09-26",
+  "hebrew_date": "15 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הָאוּשְׁפִּיזִין — שִׁבְעַת הָרוֹעִים: אַבְרָהָם, יִצְחָק, יַעֲקֹב, מֹשֶׁה, אַהֲרֹן, יוֹסֵף, דָּוִד — כָּל אֶחָד מֵהֶם מְתַאִים לִסְפִירָה אַחַת. אַבְרָהָם הוּא חֶסֶד, יִצְחָק גְּבוּרָה, יַעֲקֹב תִּפְאֶרֶת, מֹשֶׁה נֶצַח, אַהֲרֹן הוֹד, יוֹסֵף יְסוֹד, דָּוִד מַלְכוּת.",
+      "it": "Gli Ushpizin — i sette pastori: Abramo, Isacco, Giacobbe, Mosè, Aronne, Giuseppe, Davide — ciascuno di loro corrisponde a una sefirah. Abramo è chesed, Isacco gevurah, Giacobbe tiferet, Mosè netzach, Aronne hod, Giuseppe yesod, Davide malchut."
+    },
+    {
+      "n": 2,
+      "he": "כְּשֶׁמְּקַבְּלִין אֶת הָאוּשְׁפִּיזִין בַּסּוּכָּה — מְקַבְּלִין אֶת הָרוּחָנִיּוּת שֶׁלָּהֶם. הַסּוּכָּה מַמְשִׁיכָה עֲלֵינוּ אֶת גְּדֻלַּת הָאָבוֹת. מִצְוַת אוּשְׁפִּיזִין וְהַכְנָסַת אוּשְׁפִּיזִין — עֵסֶק אֱלֹקִי.",
+      "it": "Quando si accolgono gli Ushpizin nella sukkah — si accoglie la loro spiritualità. La sukkah fa discendere su di noi la grandezza dei Patriarchi. Il precetto degli Ushpizin e l'ospitalità — è un atto divino."
+    }
+  ],
+  "_glossary_terms_used": ["Ushpizin", "shiva roim", "sefirot", "sukkah", "hachnassat orchim", "Sukkot"]
+}

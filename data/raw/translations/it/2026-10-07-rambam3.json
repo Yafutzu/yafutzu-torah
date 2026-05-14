@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Chovel UMazik 4-6",
+  "name_he": "משנה תורה, הלכות חובל ומזיק, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi delle Lesioni e dei Danni, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-10-07",
+  "hebrew_date": "26 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "4:1-5",
+      "he": "אַרְבָּעָה אָבוֹת נְזִיקִין — הַשּׁוֹר, וְהַבּוֹר, וְהַמַּבְעֶה, וְהַהֶבְעֵר…",
+      "it": "(Chovel UMazik cap. 4, hal. 1-5) I quattro principali tipi di danno (avot nezikin) enumerati in Esodo 21-22: (1) Shor (il bue) — danno causato da animale; (2) Bor (il pozzo) — danno causato da ostacolo sul suolo pubblico; (3) Mav'eh (la «brucatura» — dente e piede dell'animale che mangia e calpesta); (4) Hev'er (il fuoco) — danno causato da fiamme. Da ciascuno dei quattro si derivano categorie supplementari (toledot). La responsabilità varia: chi crea il pericolo è sempre responsabile, anche se non ha causato il danno direttamente."
+    },
+    {
+      "n": "5:1-6",
+      "he": "שׁוֹר תָּם שֶׁנָּגַח — מְשַׁלֵּם חֲצִי נֶזֶק…",
+      "it": "(cap. 5, hal. 1-6) Il bue «tam» (innocente — che non ha mai incornato prima, o ha incornato ma non è stato avvertito tre volte) — il suo proprietario paga solo metà del danno causato (chatzi nezek). Il bue «mu'ad» (avvertito — che ha incornato tre volte in tre giorni davanti a testimoni) — il suo proprietario paga il danno intero (nezek shalem). Il motivo della distinzione: quando il proprietario è stato avvertito e non ha protetto gli altri, la sua colpa è piena; quando non era avvertito, la sua colpa è parziale. Il Rambam descrive dettagliatamente il processo di «ha'adaah» (la dichiarazione formale di avvertimento del bue)."
+    },
+    {
+      "n": "6:1-5",
+      "he": "שֹׁמֵר שֶׁמָּסַר לְשֹׁמֵר — חַיָּב הַשֹּׁמֵר הָרִאשׁוֹן…",
+      "it": "(cap. 6, hal. 1-5) Danni causati da oggetti lasciati sul suolo pubblico (bor — la categoria del pozzo): chi scava una fossa sul terreno pubblico e non la copre — è responsabile per qualunque danno causato a persone e animali che vi cadono. Se l'animale cade e muore — paga il valore dell'animale; se la persona cade e si fa male — paga per i cinque elementi (nezek, tza'ar, ripui, shevet, boshet). Eccezione: per la morte di persone da caduta in un pozzo il proprietario del pozzo paga il riscatto (kofer), non la pena di morte, poiché il danno era indiretto (grama)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "avot nezikin", "shor", "bor", "mav'eh", "hev'er", "toledot", "tam", "mu'ad", "chatzi nezek", "nezek shalem", "ha'adaah", "grama", "kofer"
+  ]
+}

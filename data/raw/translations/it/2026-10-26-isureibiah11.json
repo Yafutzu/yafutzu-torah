@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 11",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק יא",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 11",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-26",
+  "hebrew_date": "15 Cheshvan 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "עַמּוֹנִי וּמוֹאָבִי — אֲסוּרִין לָבֹא בִּקְהַל ה' לְעוֹלָם…",
+      "it": "Gli Ammoniti e i Moabiti (maschi) sono proibiti per sempre dall'assemblea d'Israele (kahal Hashem) — «nemmeno alla decima generazione» significa «mai», come spiegato nel Talmud (Yevamot 76b). La ragione della loro esclusione permanente: (1) non vennero incontro agli Israeliti con pane e acqua nel deserto; (2) ingaggiarono Balaam per maledire Israele. Queste sono due trasgressioni gravissime contro il senso di fraternità umana e contro l'onore di Israele."
+    },
+    {
+      "n": 2,
+      "he": "אֲבָל הַנְּקֵבָה — בַּת עַמּוֹן וּבַת מוֹאָב — מֻתֶּרֶת מִיָּד לְאַחַר גִּיּוּר…",
+      "it": "Le donne ammonite e moabite sono permesse immediatamente dopo la conversione. La derivazione: il versetto dice «Ammonita» in forma maschile («Ammonì» — non «Ammonit») — la tradizione halakhica interpreta questo come esclusione dei soli maschi. La prova biblica: Rut la Moabita si convertì e sposò Boaz, israelita di discendenza; da questa unione discese Davide HaMelech. Se la donna moabita fosse stata proibita, l'intera genealogia davidica sarebbe stata compromessa. La permissibilità immediata delle donne ammonite e moabite è quindi provata anche dalla storia di Rut."
+    },
+    {
+      "n": 3,
+      "he": "הַמִּצְרִי וְהָאֱדוֹמִי — לֹא אֲסוּרִין אֶלָּא עַד שְׁלֹשָׁה דוֹרוֹת…",
+      "it": "L'Egiziano e l'Edomita che si convertono — sono proibiti dall'assemblea d'Israele solo per tre generazioni, poi sono permessi. Prima e seconda generazione — proibiti; dalla terza in poi — permessi (poiché la terza generazione è già «figlio di chi nacque da convertito», e la distanza dall'identità originale è sufficiente). La ragione della leniency verso egiziani ed edomiti rispetto agli ammoniti-moabiti: la Torah dice «non disprezzare l'egiziano perché sei stato straniero nella sua terra» (Devarim 23:8) — nonostante la schiavitù, vi è una debito di gratitudine verso l'ospitalità originale."
+    },
+    {
+      "n": 4,
+      "he": "מִפְּנֵי מָה הֻתְּרוּ הַמִּצְרִים? — שֶׁקֵּרְבוּ אֶת אֲבוֹתֵינוּ בְּעֵת הָרָעָב…",
+      "it": "Il Rambam spiega la distinzione: gli Egiziani ospitarono i patriarchi d'Israele durante la carestia — una hospitalità che, anche se seguita dalla schiavitù, merita riconoscimento. Gli Edomiti sono i discendenti di Esau, fratello di Giacobbe — c'è un legame fraterno (ach Esav lecha) che la Torah riconosce. Gli Ammoniti e i Moabiti, invece, non solo non aiutarono — ma attivamente tentarono di danneggiare Israele. Il contrasto tra gratitudine (egitto/edom) e ingratitudine attiva (ammon/moav) spiega la differenza di trattamento halakhico."
+    },
+    {
+      "n": 5,
+      "he": "מִפְּנֵי מָה הֻגְבְּלוּ הַמִּצְרִים לִשְׁלֹשָׁה דוֹרוֹת — וְלֹא מִיָּד?",
+      "it": "Perché gli Egiziani sono limitati per tre generazioni — e non permessi immediatamente come le donne ammonite-moabite? Perché l'Egitto era il luogo della schiavitù di Israele — la schiavitù lascia una traccia di umiliazione che richiede tempo per essere superata. Tre generazioni sono il tempo necessario perché l'eredità della schiavitù si dissolva nel flusso normale della vita ebraica. Dopo tre generazioni, l'egiziano convertito è considerato pienamente integrato nella comunità d'Israele."
+    },
+    {
+      "n": 6,
+      "he": "כָּל אֵלּוּ הָאִסּוּרִים — אֵינָם נוֹהֲגִין בַּזְּמַן הַזֶּה, שֶׁכְּבָר עֵרֵב סַנְחֵרִיב…",
+      "it": "Il Rambam conclude: tutte queste distinzioni nazionali — ammoniti, moabiti, egiziani, edomiti — non sono applicabili praticamente nel nostro tempo, poiché Sennacherib re d'Assiria mescolò tutte le nazioni (irbev et ha-goyim). Di conseguenza, non è più possibile verificare con certezza l'origine nazionale di nessuno. Ogni convertito è trattato come israelita pieno, senza applicare le restrizioni nazionali specifiche. Questa è la posizione halakhica pratica dal tempo talmudico in poi."
+    },
+    {
+      "n": 7,
+      "he": "יִשְׁמָעֵאלִים וְגַרְגָּשִׁים — לֹא הוּזְכְּרוּ בַּכָּתוּב לְאִסּוּר בִּיאַת קָהָל…",
+      "it": "Gli Ismaeliti (figli di Ismaele) e i Girghashiti e altre nazioni non menzionate nel contesto di «lo yavo bekehal Hashem» — non hanno restrizioni specifiche di ingresso nell'assemblea d'Israele. Un convertito da qualsiasi nazione non menzionata specificamente — è permesso immediatamente. Il Rambam rafforza il principio: la Torah restringe l'assemblea solo nei confronti di quei popoli specificamente citati, e l'elenco è chiuso e non estensibile per analogia."
+    },
+    {
+      "n": 8,
+      "he": "כְּלָלוֹ שֶׁל דָּבָר — הַגֵּר הַמִּתְגַּיֵּר כָּרָאוּי — יִשְׂרָאֵל הוּא לְכָל דָּבָר…",
+      "it": "Principio conclusivo: il convertito che si è convertito correttamente (ka-ra'ui) — è israelita a tutti gli effetti (Yisrael hu le-kol davar). La Torah dice «come il nativo sia il forestiero» (ke-ezrach yihyeh ha-ger) — con uguale status legale e spirituale. L'amore verso il ger è una mitzvah speciale: «ve-ahavtem et ha-ger» — amate il convertito. Il Rambam sottolinea il valore enorme della conversione: il ger ha abbandonato tutto per abbracciare la Torah — e la Torah lo accoglie come se fosse nato israelita."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kahal Hashem", "irbev et ha-goyim", "lo yavo bekehal Hashem", "ke-ezrach yihyeh ha-ger", "ve-ahavtem et ha-ger", "ger"
+  ]
+}

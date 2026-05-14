@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Gezelah VeAvedah 16-18",
+  "name_he": "משנה תורה, הלכות גזלה ואבידה, פרקים טז-יח",
+  "name_it": "Mishneh Torah, Leggi della Rapina e degli Oggetti Smarriti, capitoli 16-18",
+  "cycle": "rambam-3",
+  "date": "2026-10-05",
+  "hebrew_date": "24 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "16:1-5",
+      "he": "הַמַּסִּיג גְּבוּל חֲבֵרוֹ — עוֹבֵר בְּלֹא תַעֲשֶׂה…",
+      "it": "(Gezelah VeAvedah cap. 16, hal. 1-5) Chi sposta il confine del vicino (hasagat gevul) — viola il divieto biblico di Deuteronomio 19:14: «Non spostare il confine del tuo vicino». Questo si applica sia ai confini fisici della terra che a quelli commerciali (concorrenza sleale). Chi occupa la proprietà altrui senza permesso (yoshev belo reshut) — è considerato come un rapinatore. Il Rambam estende il principio di hasagat gevul alla sfera intellettuale e commerciale: sottrarre la clientela o il sostentamento di un altro ebreo è moralmente equiparato a spostare un confine fisico."
+    },
+    {
+      "n": "17:1-6",
+      "he": "הַגּוֹזֵל קַרְקַע — חַיָּב לְהַחְזִיר…",
+      "it": "(cap. 17, hal. 1-6) Chi ruba una proprietà immobiliare (karka) — è obbligato a restituirla. La Terra d'Israele ha un regime speciale: non può essere acquisita tramite rapina in modo permanente, poiché appartiene all'Eterno. Chi occupa illegalmente la terra altrui in Israele — deve lasciarla immediatamente e pagare per il periodo di occupazione (demi avedah — affitto per il danno causato). Se ha costruito sulla terra altrui — paga il valore dei materiali ma il proprietario del suolo mantiene i diritti sull'intera proprietà costruita."
+    },
+    {
+      "n": "18:1-5",
+      "he": "סִלּוּק הַלְּכוֹת גְּזֵלָה וַאֲבֵדָה…",
+      "it": "(cap. 18, hal. 1-5) Leggi conclusive della rapina: chi ha rapinato di notte e uccide per proteggersi — la Torah lo giustifica (Esodo 22:1) poiché il rapinatore notturno è presumibilmente pronto anche all'omicidio per ottenere i beni. Chi ha rapinato di giorno — la Torah non giustifica l'uccisione del rapinatore da parte della vittima, poiché il rapinatore diurno generalmente non uccide. Si concludono le Leggi della Rapina e degli Oggetti Smarriti con l'aiuto del Cielo. Il principio finale: restituire ciò che non è proprio è la base della vita civile ebraica — «middat Sedom» (la caratteristica di Sodoma) è non voler dare ciò che spetta agli altri."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hasagat gevul", "yoshev belo reshut", "karka", "demi avedah", "middat Sedom"
+  ]
+}

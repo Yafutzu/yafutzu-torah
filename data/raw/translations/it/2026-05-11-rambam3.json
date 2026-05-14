@@ -1,0 +1,462 @@
+{
+  "ref": "Mishneh Torah, Forbidden Foods 11-13",
+  "name_he": "הלכות מאכלות אסורות, פרקים יא-יג",
+  "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-05-11",
+  "hebrew_date": "24 Iyyar 5786",
+  "perakim": [
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 11",
+      "name_he": "הלכות מאכלות אסורות, פרק יא",
+      "name_it": "Leggi dei cibi proibiti — capitolo 11: yayin nesech e stam yeinam",
+      "halachot_count": 26,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "יַיִן שֶׁנִּתְנַסֵּךְ לְעַכּוּ\"ם אָסוּר בַּהֲנָיָה. וְהַשּׁוֹתֶה מִמֶּנּוּ כָּל שֶׁהוּא לוֹקֶה מִן הַתּוֹרָה. וְכֵן הָאוֹכֵל כָּל שֶׁהוּא מִתִּקְרֹבֶת עַכּוּ\"ם מִבָּשָׂר אוֹ מִפֵּרוֹת אֲפִלּוּ מַיִם וּמֶלַח הָאוֹכֵל מֵהֶן כָּל שֶׁהוּא לוֹקֶה שֶׁנֶּאֱמַר (דברים לב לח) \"אֲשֶׁר חֵלֶב זְבָחֵימוֹ יֹאכֵלו…",
+          "it": "Il vino versato in libagione all'idolatria (yayin nesech) è proibito in ogni godimento. Chi ne beve anche la minima quantità è passibile di flagellazione per Torah. Analogamente, chi mangia la minima quantità di qualcosa offerta all'idolatria — carne, frutta, acqua o sale — è degno di flagellazione, poiché non vi è misura minima, come detto (Devarim 13:18): «Non si attacchi alla tua mano nulla di ciò che è al bando»."
+        },
+        {
+          "n": 2,
+          "he": "יַיִן שֶׁנִּתְנַסֵּךְ לָהּ כְּזֶבַח שֶׁקָּרֵב לָהּ וְכֵיוָן שֶׁאִסּוּר זֶה מִשּׁוּם עַכּוּ\"ם הוּא אֵין לוֹ שִׁעוּר שֶׁנֶּאֱמַר בַּעֲבוֹדַת כּוֹכָבִים וּמַזָּלוֹת (דברים יג יח) \"וְלֹא יִדְבַּק בְּיָדְךָ מְאוּמָה מִן הַחֵרֶם\":",
+          "it": "Il yayin nesech è assimilato a un sacrificio offerto all'idolatria; poiché questo divieto è legato all'idolatria non ha misura minima, come detto (ibid.): «Non si attacchi alla tua mano nulla di ciò che è al bando»."
+        },
+        {
+          "n": 3,
+          "he": "יֵין הָעַכּוּ\"ם שֶׁאֵין אָנוּ יוֹדְעִין אִם נִתְנַסֵּךְ אוֹ לֹא נִתְנַסֵּךְ וְהוּא הַנִּקְרָא סְתַם יֵינָם אָסוּר בַּהֲנָאָה כְּמוֹ יַיִן שֶׁנִּתְנַסֵּךְ. וְדָבָר זֶה מִגְּזֵרוֹת סוֹפְרִים הוּא. וְהַשּׁוֹתֶה מִסְּתַם יֵינָם רְבִיעִית מַכִּין אוֹתוֹ מַכַּת מַרְדּוּת:",
+          "it": "Il vino il cui status rispetto all'idolatra è ignoto — se sia stato usato per libagione o no — è chiamato stam yeinam (vino ordinario dei gentili). È proibito goderne come il yayin nesech: decreto rabbinico. Chi beve un revi'it di stam yeinam riceve makkot mardut (flagellazione disciplinare)."
+        },
+        {
+          "n": 4,
+          "he": "וְכָל יַיִן שֶׁיִּגַּע בּוֹ הָעַכּוּ\"ם הֲרֵי זֶה אָסוּר שֶׁמָּא נִסֵּךְ אוֹתוֹ שֶׁמַּחְשֶׁבֶת הָעַכּוּ\"ם לַעֲבוֹדַת כּוֹכָבִים. הָא לָמַדְתָּ שֶׁיֵּין יִשְׂרָאֵל שֶׁנָּגַע בּוֹ הָעַכּוּ\"ם דִּינוֹ כִּסְתַם יֵינָם שֶׁהוּא אָסוּר בַּהֲנָיָה:",
+          "it": "È proibito qualunque vino toccato da un gentile, poiché forse l'ha versato in libagione, in quanto il pensiero del gentile è orientato all'idolatria. Da qui apprendiamo che anche il vino di un ebreo toccato da un gentile è proibito e soggetto alle leggi dello stam yeinam."
+        },
+        {
+          "n": 5,
+          "he": "עַכּוּ\"ם שֶׁנָּגַע בְּיַיִן שֶׁלֹּא בְּכַוָּנָה וְכֵן תִּינוֹק עַכּוּ\"ם שֶׁנָּגַע בְּיַיִן אָסוּר בִּשְׁתִיָּה וּמֻתָּר בַּהֲנָיָה. הַלּוֹקֵחַ עֲבָדִים מִן הָעַכּוּ\"ם וּמָלוּ וְטָבְלוּ מִיָּד אֵין מְנַסְּכִין וְיַיִן שֶׁנָּגְעוּ בּוֹ מֻתָּר בִּשְׁתִיָּה וְאַף עַל פִּי שֶׁעֲדַיִן לֹא נָהֲגוּ בְּדָתֵי…",
+          "it": "Se un gentile tocca il vino senza intenzione, o lo tocca un bambino gentile: è proibito berlo ma è permesso goderne. Quando si acquistano schiavi da un gentile e vengono circoncisi e immersi subito nel mikveh, non versano più libagioni; è permesso bere il vino che toccano anche se parlano ancora di idolatria."
+        },
+        {
+          "n": 6,
+          "he": "בְּנֵי הַשְּׁפָחוֹת הָעַכּוּ\"ם שֶׁנּוֹלְדוּ בִּרְשׁוּת יִשְׂרָאֵל וּמָלוּ וַעֲדַיִן לֹא טָבְלוּ הַגְּדוֹלִים אוֹסְרִין הַיַּיִן כְּשֶׁיִּגְּעוּ בּוֹ וְהַקְּטַנִּים אֵינָן אוֹסְרִין:",
+          "it": "I figli delle schiave gentili nati nel dominio ebraico e circoncisi, ma non ancora immersi: i più grandi rendono proibito il vino che toccano; i più piccoli non lo rendono proibito."
+        },
+        {
+          "n": 7,
+          "he": "גֵּר תּוֹשָׁב וְהוּא שֶׁקִּבֵּל עָלָיו שֶׁבַע מִצְוֹת כְּמוֹ שֶׁבֵּאַרְנוּ יֵינוֹ אָסוּר בִּשְׁתִיָּה וּמֻתָּר בַּהֲנָיָה. וּמְיַחֲדִין אֶצְלוֹ יַיִן וְאֵין מַפְקִידִין אֶצְלוֹ יַיִן. וְכֵן כָּל עַכּוּ\"ם שֶׁאֵינוֹ עוֹבֵד עַכּוּ\"ם כְּגוֹן אֵלּוּ הַיִּשְׁמְעֵאלִים יֵינָן אָסוּר בִּשְׁתִיָּה וּמֻתָּר ב…",
+          "it": "Riguardo a un ger toshav — colui che ha accettato le sette leggi noachidi: è proibito bere il suo vino ma è permesso goderne. Si può depositare vino presso di lui per breve tempo, ma non affidargliene per lungo periodo. Riguardo a qualsiasi gentile che non adora idoli (come gli Arabi): è proibito bere il suo vino ma è permesso goderne. Riguardo agli adoratori di idoli: è proibito godere del loro stam yeinam."
+        },
+        {
+          "n": 8,
+          "he": "כָּל מָקוֹם שֶׁנֶּאֱמַר בְּעִנְיָן זֶה שֶׁהַיַּיִן אָסוּר אִם הָיָה עַכּוּ\"ם שֶׁנֶּאֱסַר הַיַּיִן בִּגְלָלוֹ עוֹבֵד עַכּוּ\"ם הֲרֵי הוּא אָסוּר בַּהֲנָיָה. וְאִם אֵינוֹ עוֹבֵד עַכּוּ\"ם הֲרֵי הוּא אָסוּר בִּשְׁתִיָּה בִּלְבַד. וְכָל מָקוֹם שֶׁנֶּאֱמַר עַכּוּ\"ם סְתָם הֲרֵי זֶה עוֹבֵד עַכּוּ\"ם:",
+          "it": "Ovunque si dica che il vino è proibito in questo contesto: se il gentile che causa il divieto adora idoli — è proibito goderne; se non adora idoli — è proibito berlo ma è permesso goderne."
+        },
+        {
+          "n": 9,
+          "he": "אֵין מִתְנַסֵּךְ לְעַכּוּ\"ם אֶלָּא יַיִן שֶׁרָאוּי לְהַקְרִיב עַל גַּבֵּי הַמִּזְבֵּחַ וּמִפְּנֵי זֶה כְּשֶׁגָּזְרוּ עַל סְתַם יֵינָם וְגָזְרוּ עַל כָּל יַיִן שֶׁיִּגַּע בּוֹ שֶׁיִּהְיֶה אָסוּר בַּהֲנָיָה לֹא גָּזְרוּ אֶלָּא עַל הַיַּיִן הָרָאוּי לְהִתְנַסֵּךְ. לְפִיכָךְ יַיִן מְבֻשָּׁל שֶׁל יִשְׂרָ…",
+          "it": "Quando è permesso «godere» del vino: è permesso venderlo a un gentile, anche sapendo che lo acquista per libagione, purché non glielo si versi nella bocca o nel vaso della libagione."
+        },
+        {
+          "n": 10,
+          "he": "הוֹרוּ גְּאוֹנֵי הַמַּעֲרָב שֶׁאִם נִתְעָרֵב בְּיֵין יִשְׂרָאֵל מְעַט דְּבַשׁ אוֹ מְעַט שְׂאוֹר הוֹאִיל וְאֵינוֹ רָאוּי לַמִּזְבֵּחַ הֲרֵי הוּא כִּמְבֻשָּׁל אוֹ כְּשֵׁכָר וְאֵינוֹ מִתְנַסֵּךְ וּמֻתָּר לִשְׁתּוֹתוֹ עִם הָעַכּוּ\"ם:",
+          "it": "Quando un ebreo compra vino da un gentile e il gentile lo porta nella sua casa: se le giare erano aperte — sono tutte proibite. Se erano chiuse con chiusura singola — proibite. Se chiuse con doppia chiusura — permesse."
+        },
+        {
+          "n": 11,
+          "he": "מֵאֵימָתַי יֵאָסֵר יֵין הָעַכּוּ\"ם מִשֶּׁיִּדְרֹךְ וְיִמָּשֵׁךְ הַיַּיִן אַף עַל פִּי שֶׁלֹּא יָרַד לַבּוֹר אֶלָּא עֲדַיִן הוּא בַּגַּת הֲרֵי זֶה אָסוּר. לְפִיכָךְ אֵין דּוֹרְכִין עִם הָעַכּוּ\"ם בַּגַּת שֶׁמָּא יִגַּע בְּיָדוֹ וִינַסֵּךְ. וַאֲפִלּוּ הָיָה כָּפוּת. וְאֵין לוֹקְחִין מִמֶּנּוּ גַּת דְּ…",
+          "it": "Se il gentile restò indietro e l'ebreo non sapeva, o se entrò da solo dove c'era il vino e rimase il tempo sufficiente a forare la botte, tapparla e asciugarla — si presume che abbia toccato il vino e tutto è proibito."
+        },
+        {
+          "n": 12,
+          "he": "עַכּוּ\"ם שֶׁדָּרַךְ הַיַּיִן וְלֹא נָגַע בּוֹ וַהֲרֵי יִשְׂרָאֵל עוֹמֵד עַל גַּבָּיו וְיִשְׂרָאֵל הוּא שֶׁכְּנָסוֹ בֶּחָבִית הֲרֵי זֶה אָסוּר בִּשְׁתִיָּה:",
+          "it": "L'ebreo che lascia un gentile nel suo negozio e va e viene: il vino non è proibito, poiché il gentile sa che l'ebreo può tornare in qualsiasi momento."
+        },
+        {
+          "n": 13,
+          "he": "הַחֹמֶץ שֶׁל עַכּוּ\"ם אָסוּר בַּהֲנָיָה מִפְּנֵי שֶׁנַּעֲשָׂה יֵין נֶסֶךְ קֹדֶם שֶׁיַּחְמִיץ. עַכּוּ\"ם שֶׁהָיָה דּוֹרֵס עֲנָבִים בְּחָבִית אַף עַל פִּי שֶׁהַיַּיִן צָף עַל גַּבֵּי יָדָיו אֵין חוֹשְׁשִׁין מִשּׁוּם יֵין נֶסֶךְ. הָיָה אוֹכֵל מִן הַסַּלִּים וְהוֹתִיר כִּסְאָה וּכְסָאתַיִם וּזְרָקָן בַּג…",
+          "it": "Due ebrei che lasciano un gentile solo tra le loro botti: il vino è permesso. Se uno di loro andò a dormire — il vino è proibito. Se entrambi dormivano — proibito."
+        },
+        {
+          "n": 14,
+          "he": "הַחַרְצַנִּים וְהַזַּגִּין שֶׁל עַכּוּ\"ם אֲסוּרִים כָּל י\"ב חֹדֶשׁ. וּלְאַחַר י\"ב חֹדֶשׁ כְּבָר יָבְשׁוּ וְלֹא נִשְׁאֲרָה בָּהֶן לַחְלוּחִית וּמֻתָּרִין בַּאֲכִילָה. וְכֵן שְׁמָרִים שֶׁל יַיִן שֶׁיָּבְשׁוּ לְאַחַר שְׁנֵים עָשָׂר חֹדֶשׁ מֻתָּרִין שֶׁהֲרֵי לֹא נִשְׁאַר בָּהֶן רֵיחַ יַיִן וַהֲרֵי הֵן כ…",
+          "it": "Un ebreo che dormiva nella stessa stanza con il vino e un gentile: il vino è permesso, poiché il gentile non sa quando l'ebreo si sveglierà."
+        },
+        {
+          "n": 15,
+          "he": "נֹאדוֹת הָעַכּוּ\"ם וְקַנְקְנֵיהֶן שֶׁהִכְנִיסוּ בָּהֶן הָעַכּוּ\"ם יֵינָם אָסוּר לִתֵּן לְתוֹכָן יַיִן עַד שֶׁיְּיַשְּׁנָן שְׁנֵים עָשָׂר חֹדֶשׁ אוֹ עַד שֶׁיַּחֲזִירָן לָאוּר עַד שֶׁיִּתְרַפֶּה הַזֶּפֶת שֶׁעֲלֵיהֶן אוֹ שֶׁיֵּחַמּוּ אוֹ עַד שֶׁיִּתֵּן לְתוֹכָן מַיִם שְׁלֹשָׁה יָמִים מֵעֵת לְעֵת וּמְעָ…",
+          "it": "Quando un gentile entra in un cortile dove c'è del vino e l'ebreo era altrove — il vino non è proibito, purché l'ebreo possa udire qualsiasi movimento. Se non poteva udire — il vino è proibito."
+        },
+        {
+          "n": 16,
+          "he": "וּמֻתָּר לִתֵּן לְתוֹכָן שֵׁכָר אוֹ צִיר אוֹ מוּרְיָס מִיָּד וְאֵין צָרִיךְ לִכְלוּם. וּמֻתָּר לִתֵּן הַיַּיִן לְתוֹכָן אַחַר שֶׁנּוֹתֵן הַצִּיר אוֹ הַמּוּרְיָס שֶׁהַמֶּלַח שׂוֹרְפָן:",
+          "it": "Se un ebreo udì che il gentile era entrato in casa sua dove c'era vino: se ci volle il tempo sufficiente per forare una botte, tapparla e asciugarla — il vino è proibito."
+        },
+        {
+          "n": 17,
+          "he": "הַלּוֹקֵחַ כֵּלִים חֲדָשִׁים שֶׁאֵינָם מְזֻפָּתִים מִן הָעַכּוּ\"ם נוֹתֵן לְתוֹכָן יַיִן מִיָּד וְאֵינוֹ חוֹשֵׁשׁ שֶׁמָּא נָתְנוּ בָּהֶן יֵין נֶסֶךְ. וְאִם הָיוּ מְזֻפָּתִין מְדִיחָן וְאַף עַל פִּי שֶׁהֵן חֲדָשִׁים. וְכֵן כְּלִי שֶׁנָּתְנוּ בּוֹ יֵין נֶסֶךְ וְאֵין מַכְנִיסוֹ לְקִיּוּם כְּגוֹן כְּלִי …",
+          "it": "Il vino sorvegliato da donne, schiavi o minori: il gentile non lo rende proibito toccandolo, poiché sa che sono attenti."
+        },
+        {
+          "n": 18,
+          "he": "וְכֵן כּוֹס שֶׁל חֶרֶס שֶׁשָּׁתָה בּוֹ הָעַכּוּ\"ם אָסוּר לִשְׁתּוֹת בּוֹ. הֱדִיחוֹ פַּעַם רִאשׁוֹנָה וּשְׁנִיָּה וּשְׁלִישִׁית מֻתָּר שֶׁכְּבָר הָלְכוּ צִחְצוּחֵי הַיַּיִן שֶׁבּוֹ. וְהוּא שֶׁהָיָה מְצֻפֶּה בַּאֲבָר כְּדֶרֶךְ שֶׁהַיּוֹצְרִין עוֹשִׂין אוֹ שֶׁהָיָה מְזֻפָּת. אֲבָל שֶׁל חֶרֶס צָרִיךְ הֲ…",
+          "it": "Si può fare del vino insieme a un gentile in un cortile o cantina comune, a patto che ci si accordi su ogni operazione. Non si può lasciare il vino con lui senza sorveglianza."
+        },
+        {
+          "n": 19,
+          "he": "כְּלֵי חֶרֶס הַשּׁוֹעִים בַּאֲבָר שֶׁנִּשְׁתַּמְּשׁוּ בָּהֶן בְּיֵין נֶסֶךְ אִם הָיוּ לְבָנִים אוֹ אֲדֻמִּים אוֹ שְׁחוֹרִים מֻתָּרִין. וְאִם הָיוּ יְרֻקִּין אֲסוּרִין מִפְּנֵי שֶׁהֵן בּוֹלְעִים. וְאִם יֵשׁ בָּהֶם מָקוֹם מְגֻלֶּה שֶׁל חֶרֶס בֵּין לְבָנִים בֵּין יְרֻקִּים אֲסוּרִים מִפְּנֵי שֶׁהֵם בּו…",
+          "it": "Il vino che un ebreo ha venduto a un gentile ma è ancora a casa dell'ebreo: è proibito al gentile e permesso all'ebreo finché non avviene la consegna o il pagamento."
+        },
+        {
+          "n": 20,
+          "he": "גַּת שֶׁל אֶבֶן וְשֶׁל עֵץ שֶׁדָּרַךְ בָּהֶן הָעַכּוּ\"ם אוֹ גַּת שֶׁל אֶבֶן שֶׁזִּפְּתָהּ הָעַכּוּ\"ם אַף עַל פִּי שֶׁלֹּא דָּרַךְ בָּהּ מְדִיחָן בְּמַיִם וּבְאֵפֶר אַרְבַּע פְּעָמִים וְדוֹרֵךְ בָּהֶן. וְאִם הָיְתָה בָּהֶם לַחְלוּחִית מַקְדִּים הָאֵפֶר לַמַּיִם. וְאִם לָאו מַקְדִּים הַמַּיִם:",
+          "it": "Il vino in trasporto sorvegliato da un ebreo, anche mentre dormiva: è permesso. Se nessun ebreo era presente — è proibito."
+        },
+        {
+          "n": 21,
+          "he": "גַּת שֶׁל אֶבֶן מְזֻפֶּפֶת שֶׁדָּרַךְ בָּהּ הָעַכּוּ\"ם. אוֹ גַּת שֶׁל עֵץ זְפוּתָה אַף עַל פִּי שֶׁלֹּא דָּרַךְ בָּהּ צָרִיךְ לִקְלֹף אֶת הַזֶּפֶת. וְאִם יִשְּׁנָהּ שְׁנֵים עָשָׂר חֹדֶשׁ אוֹ נָתַן בָּהּ מַיִם שְׁלֹשָׁה יָמִים מֵעֵת לְעֵת אֵינוֹ צָרִיךְ לִקְלֹף. לֹא תִּהְיֶה הַגַּת חֲמוּרָה יֶתֶר מִן…",
+          "it": "Se un ebreo che trasporta vino in barca si allontana: il vino è permesso poiché il rumore del movimento dell'acqua funge da deterrente."
+        },
+        {
+          "n": 22,
+          "he": "גַּת שֶׁל חֶרֶס אַף עַל פִּי שֶׁקָּלַף אֶת הַזֶּפֶת אָסוּר לִדְרֹךְ בָּהּ מִיָּד עַד שֶׁיָּחֵם אוֹתָהּ בְּאֵשׁ עַד שֶׁיִּרְפֶּה הַזֶּפֶת. וְאִם יִשְּׁנָהּ שְׁנֵים עָשָׂר חֹדֶשׁ אוֹ נָתַן בָּהּ מַיִם שְׁלֹשָׁה יָמִים מֻתֶּרֶת כְּמוֹ שֶׁבֵּאַרְנוּ:",
+          "it": "Quando si acquistano anfore di vino da un gentile e alcune si rompono durante il trasporto: si presume che il gentile non le abbia toccate finché erano integre."
+        },
+        {
+          "n": 23,
+          "he": "מְשַׁמֶּרֶת שֶׁל יַיִן שֶׁל עַכּוּ\"ם אִם הָיְתָה שֶׁל שֵׂעָר מְדִיחָהּ וּמְשַׁמֵּר בָּהּ. וְאִם הָיְתָה שֶׁל צֶמֶר מְדִיחָהּ בְּמַיִם וּבְאֵפֶר אַרְבַּע פְּעָמִים וּמְדִיחָהּ עַד שֶׁתִּנָּגֵב וּמְשַׁמֵּר בָּהּ. וְאִם הָיְתָה שֶׁל שֵׁשׁ מְיַשְּׁנָהּ י\"ב חֹדֶשׁ. וְאִם יֵשׁ בָּהֶן קְשָׁרִים מַתִּירָן. …",
+          "it": "Il vino che cade da una botte su un altro vino e un gentile lo raccoglie: è permesso, poiché il gentile non ha toccato il vino nella botte."
+        },
+        {
+          "n": 24,
+          "he": "כְּלֵי הַגַּת שֶׁדָּרַךְ בָּהֶן הָעַכּוּ\"ם יֵין נֶסֶךְ כֵּיצַד מְטַהֲרִין אוֹתָן כְּדֵי שֶׁיִּדְרֹךְ בָּהֶן הַיִּשְׂרָאֵל. הַדַּפִּין וְהָעֲדָשִׁים וְהַלּוּלָבִין מְדִיחָן. הָעֲקָלִין. שֶׁל נְסָרִין וְשֶׁל בִּצְבּוּץ מְנַגְּבָן. שֶׁל שִׁיפָה וְשֶׁל גֶּמִי מְיַשְּׁנָן שְׁנֵים עָשָׂר חֹדֶשׁ. וְאִם רָצ…",
+          "it": "Se un gentile teneva una botte e un ebreo la portava: il vino è permesso. Se invece un ebreo cedette tutta la presa al gentile — il vino è proibito."
+        },
+        {
+          "n": 25,
+          "he": "בִּזְמַן שֶׁהָיְתָה אֶרֶץ יִשְׂרָאֵל כֻּלָּהּ לְיִשְׂרָאֵל הָיוּ לוֹקְחִין הַיַּיִן מִכָּל אָדָם מִיִּשְׂרָאֵל וְאֵין חוֹשְׁשִׁין לוֹ. וּבְחוּצָה לָאָרֶץ לֹא הָיוּ לוֹקְחִין אֶלָּא מֵאָדָם שֶׁהֻחְזַק בְּכַשְׁרוּת. וּבַזְּמַן הַזֶּה אֵין לוֹקְחִין יַיִן בְּכָל מָקוֹם אֶלָּא מֵאָדָם שֶׁהֻחְזַק בְּכַשׁ…",
+          "it": "Il dono di vino fatto a un gentile e restituito da lui: è permesso, poiché il gentile sa che è osservato."
+        },
+        {
+          "n": 26,
+          "he": "הַמִּתְאָרֵחַ אֵצֶל בַּעַל הַבַּיִת בְּכָל מָקוֹם וּבְכָל זְמַן וְהֵבִיא לוֹ יַיִן אוֹ בָּשָׂר אוֹ גְּבִינָה וַחֲתִיכַת דָּג הֲרֵי זֶה מֻתָּר וְאֵינוֹ צָרִיךְ לִשְׁאל עָלָיו אַף עַל פִּי שֶׁאֵינוֹ מַכִּירוֹ אֶלָּא יוֹדֵעַ שֶׁהוּא יְהוּדִי בִּלְבַד. וְאִם הֻחְזַק שֶׁאֵינוֹ כָּשֵׁר וְלֹא מְדַקְדֵּק בּ…",
+          "it": "Il vino di libagione (yayin nesech) è proibito in ogni godimento come il sacrificio stesso all'idolatria; non vi è eccezione alcuna a questo divieto fondamentale della Torah."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 12",
+      "name_he": "הלכות מאכלות אסורות, פרק יב",
+      "name_it": "Leggi dei cibi proibiti — capitolo 12: forme di contatto che rendono proibito il vino",
+      "halachot_count": 29,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "כֵּיצַד הִיא הַנְּגִיעָה שִׁאוֹסֵר בָּהּ הָעַכּוּ\"ם הַיַּיִן. הוּא שֶׁיִּגַּע בַּיַּיִן עַצְמוֹ בֵּין בְּיָדוֹ בֵּין בִּשְׁאָר אֵיבָרָיו שֶׁדַּרְכָּן לְנַסֵּךְ בָּהֶן וִישַׁכְשֵׁךְ. אֲבָל אִם פָּשַׁט יָדוֹ לְחָבִית וְתָפְסוּ אֶת יָדוֹ קֹדֶם שֶׁיּוֹצִיאָהּ וְלֹא יְנִידָהּ וּפָתְחוּ הֶחָבִית מִלְּמַטּ…",
+          "it": "Come si definisce il «tocco» con cui un gentile rende proibito il vino? Quando tocca il vino stesso — con la mano o con qualsiasi altro arto con cui si usa versare una libagione — e lo scuote. Se però ha allungato la mano verso una botte ma gli è stata bloccata, o se la botte fu aperta dal basso e il vino fluì al di sotto della sua mano — il vino non è proibito."
+        },
+        {
+          "n": 2,
+          "he": "נָטַל כְּלִי שֶׁל יַיִן וְהִגְבִּיהוֹ וְיָצַק הַיַּיִן אַף עַל פִּי שֶׁלֹּא שִׁכְשֵׁךְ נֶאֱסַר שֶׁהֲרֵי בָּא הַיַּיִן מִכֹּחוֹ. הִגְבִּיהַּ וְלֹא שִׁכְשֵׁךְ וְלֹא נָגַע מֻתָּר:",
+          "it": "Se prese un contenitore di vino aperto, lo sollevò e lo versò: il vino è proibito anche senza scuoterlo, poiché il vino si è mosso per sua forza. Se sollevò il contenitore senza scuoterlo né toccarlo — è permesso."
+        },
+        {
+          "n": 3,
+          "he": "עַכּוּ\"ם שֶׁהָיָה אוֹחֵז הַכְּלִי בַּקַּרְקַע וְיִשְׂרָאֵל יָצַק לְתוֹכוֹ יַיִן הַיַּיִן מֻתָּר. וְאִם נִדְנֵד הָעַכּוּ\"ם הַכְּלִי נֶאֱסַר הַיַּיִן:",
+          "it": "Se un gentile teneva un contenitore a terra e un ebreo vi versò del vino: è permesso. Se il gentile scosse il contenitore — il vino diventa proibito."
+        },
+        {
+          "n": 4,
+          "he": "כְּלִי סָתוּם מֻתָּר לְטַלְטְלוֹ הָעַכּוּ\"ם מִמָּקוֹם לְמָקוֹם וְאַף עַל פִּי שֶׁהַיַּיִן מִתְנַדְנֵד שֶׁאֵין זֶה דֶּרֶךְ הַנִּסּוּךְ. הֶעֱבִיר נוֹד שֶׁל יַיִן מִמָּקוֹם לְמָקוֹם וְהוּא אוֹחֵז פִּי הַנּוֹד בְּיָדוֹ. בֵּין שֶׁהָיָה הַנּוֹד מָלֵא אוֹ חָסֵר מֻתָּר. וְאַף עַל פִּי שֶׁהַיַּיִן מִתְנַדְנֵ…",
+          "it": "È permesso fare spostare a un gentile un recipiente chiuso da un posto a un altro, anche se il vino si muove, poiché questo non è il modo di versare una libagione. Se sposta un otre mentre un ebreo ne teneva un'estremità — è permesso."
+        },
+        {
+          "n": 5,
+          "he": "עַכּוּ\"ם שֶׁנָּגַע בְּיַיִן וְלֹא נִתְכַּוֵּן לָזֶה הֲרֵי הַיַּיִן מֻתָּר בַּהֲנָיָה בִּלְבַד. כֵּיצַד. כְּגוֹן שֶׁנָּפַל עַל נוֹד שֶׁל יַיִן אוֹ שֶׁהוֹשִׁיט יָדוֹ לְחָבִית עַל מְנָת שֶׁהִיא שֶׁמֶן וְנִמְצֵאת יַיִן:",
+          "it": "Se un gentile scosse un otre di vino legato sull'asino: il vino è proibito. Se l'otre si mosse perché l'asino camminava — è permesso, poiché questo non è il modo di versare libagioni."
+        },
+        {
+          "n": 6,
+          "he": "בָּא הַיַּיִן מִכֹּחוֹ שֶׁל עַכּוּ\"ם בְּלֹא כַּוָּנָה הוֹאִיל וְלֹא נָגַע בַּיַּיִן הֲרֵי זֶה מֻתָּר בִּשְׁתִיָּה. כֵּיצַד. כְּגוֹן שֶׁהִגְבִּיהַּ כְּלִי שֶׁל יַיִן וְיָצַק לִכְלִי אַחֵר וְהוּא מְדַמֶּה שֶׁהוּא שֵׁכָר אוֹ שֶׁמֶן הֲרֵי זֶה מֻתָּר:",
+          "it": "Se un gentile cadde su una botte e la scosse, o aprì una botte rabbiosamente o la chiuse, o batteva su di essa per sentire se era piena — è permesso goderne. Simile è il caso in cui punse una botte con un ago per fare uscire aria."
+        },
+        {
+          "n": 7,
+          "he": "נִכְנַס הָעַכּוּ\"ם לְבַיִת אוֹ לַחֲנוּת לְבַקֵּשׁ יַיִן וּפָשַׁט יָדוֹ כְּשֶׁהוּא מְחַפֵּשׂ וְנָגַע בַּיַּיִן אָסוּר שֶׁהֲרֵי לְיַיִן נִתְכַּוֵּן וְאֵין זֶה נוֹגֵעַ בְּלֹא כַּוָּנָה:",
+          "it": "Un gentile che scosse una botte legata e sigillata: il vino è proibito. Se la botte era aperta e vi soffiò dentro — è proibito."
+        },
+        {
+          "n": 8,
+          "he": "חָבִית שֶׁנִּסְדְּקָה לְאָרְכָּהּ וְקָדַם הָעַכּוּ\"ם וְחִבְּקָה כְּדֵי שֶׁלֹּא יִתְפָּרְדוּ הַחֲרָסִים הֲרֵי זֶה מֻתָּר בַּהֲנָיָה. אֲבָל אִם נִסְדְּקָה לְרָחְבָּהּ וְתָפַס בַּסֶּדֶק הָעֶלְיוֹן כְּדֵי שֶׁלֹּא יִפּל הֲרֵי זֶה מֻתָּר בִּשְׁתִיָּה שֶׁהֲרֵי אֵין הַיַּיִן עַל כֹּחוֹ שֶׁל עַכּוּ\"ם:",
+          "it": "Se un gentile lasciò cadere una mosca da essa con una canna, o batté una bottiglia bollente perché smettesse di bollire, o prese una botte e la gettò nella cisterna per rabbia — è solo permesso goderne. Se, nel primo caso, il gentile fu estratto dalla cisterna vivo — è proibito goderne."
+        },
+        {
+          "n": 9,
+          "he": "עַכּוּ\"ם שֶׁנָּפַל לְבוֹר שֶׁל יַיִן וְהֶעֱלוּהוּ מִשָּׁם מֵת. אוֹ שֶׁמָּדַד הַבּוֹר שֶׁיֵּשׁ בּוֹ הַיַּיִן בְּקָנֶה. אוֹ שֶׁהִתִּיז אֶת הַזְּבוּב וְהַצִּרְעָה מֵעָלָיו בְּקָנֶה. אוֹ שֶׁהָיָה מְטַפֵּחַ עַל פִּי הֶחָבִית הָרוֹתַחַת כְּדֵי שֶׁתָּנוּחַ הָרְתִיחָה. אוֹ שֶׁנָּטַל חָבִית וּזְרָקָהּ בַּחֲמ…",
+          "it": "Quando c'è un foro nel lato di una botte, il tappo scivola e un gentile mette il dito sul foro: tutto il vino dall'alto della botte fino al foro è proibito; il vino sotto il foro è permesso."
+        },
+        {
+          "n": 10,
+          "he": "חָבִית שֶׁהָיָה נֶקֶב בְּצִדָּהּ וְנִשְׁמַט הַפְּקָק מִן הַנֶּקֶב וְהִנִּיחַ הָעַכּוּ\"ם אֶצְבָּעוֹ בִּמְקוֹם הַנֶּקֶב כְּדֵי שֶׁלֹּא יֵצֵא הַיַּיִן כָּל הַיַּיִן שֶׁמֵּרֹאשׁ הֶחָבִית עַד הַנֶּקֶב אָסוּר. וְשֶׁתַּחַת הַנֶּקֶב מֻתָּר בִּשְׁתִיָּה:",
+          "it": "Se un'estremità di un sifone piegato è immersa nel vino e l'altra esce fuori, e uno ha succhiato e il vino ha iniziato a fluire da solo: il vino nella botte è permesso, poiché è il potere dell'aria — non della persona — che lo muove."
+        },
+        {
+          "n": 11,
+          "he": "מֵינֶקֶת כְּפוּפָה שֶׁעוֹשִׂין אוֹתָהּ מִמַּתֶּכֶת אוֹ מִזְּכוּכִית וְכַיּוֹצֵא בָּהֶם. שֶׁהִנִּיחַ רֹאשָׁהּ לְתוֹךְ הַיַּיִן שֶׁבֶּחָבִית וְהָרֹאשׁ הָאַחֵר חוּץ לֶחָבִית וּמָצַץ הַיַּיִן וְהִתְחִיל הַיַּיִן לֵירֵד כְּדֶרֶךְ שֶׁעוֹשִׂין תָּמִיד. וּבָא הָעַכּוּ\"ם וְהִנִּיחַ אֶצְבָּעוֹ עַל פִּי הַמֵּי…",
+          "it": "Un gentile che soffiò nell'otre per gonfiarlo mentre c'era ancora del vino: il vino residuo è proibito. Se soffiò in un sifone per fare uscire il vino — il vino è proibito."
+        },
+        {
+          "n": 12,
+          "he": "הַמְעָרֶה יַיִן לְתוֹךְ כְּלִי שֶׁיֵּשׁ בּוֹ יֵין עַכּוּ\"ם נֶאֱסַר כָּל הַיַּיִן שֶׁבַּכְּלִי הָעֶלְיוֹן. שֶׁהֲרֵי הָעַמּוּד הַנִּצֹּק מְחַבֵּר בֵּין הַיַּיִן שֶׁבַּכְּלִי הָעֶלְיוֹן וּבֵין הַיַּיִן שֶׁבַּכְּלִי הַתַּחְתּוֹן. לְפִיכָךְ הַמּוֹדֵד לְעַכּוּ\"ם לְתוֹךְ כְּלִי שֶׁבְּיָדוֹ יְנַפֵּץ נְפִיצָ…",
+          "it": "Se un ebreo cadde in una cisterna e un gentile gli tese la mano per tirarlo su e nel farlo toccò il vino — è proibito."
+        },
+        {
+          "n": 13,
+          "he": "מַשְׁפֵּךְ שֶׁמָּדַד בּוֹ לְעַכּוּ\"ם אִם יֵשׁ בִּקְצֵה הַמַּשְׁפֵּךְ עֲכָּבַת יַיִן לֹא יִמְדֹּד בּוֹ לְיִשְׂרָאֵל עַד שֶׁיְּדִיחֶנּוּ וִינַגֵּב. וְאִם לֹא הֵדִיחַ הֲרֵי זֶה אָסוּר:",
+          "it": "Un gentile cieco, o la cui mano era rinsecchita: il vino che tocca è permesso, poiché non può versare libagioni."
+        },
+        {
+          "n": 14,
+          "he": "כְּלִי שֶׁיֵּשׁ לוֹ כְּמִין שְׁנֵי חֳטָמִין יוֹצְאִין מִמֶּנּוּ כְּמוֹ הַכֵּלִים שֶׁנּוֹטְלִין בָּהֶם לַיָּדַיִם שֶׁהָיָה מָלֵא יַיִן בְּיַד יִשְׂרָאֵל וְהָיָה יִשְׂרָאֵל מוֹצֵץ וְשׁוֹתֶה מֵחֹטֶם זֶה וְהָעַכּוּ\"ם מוֹצֵץ וְשׁוֹתֶה מִן הַחֹטֶם הַשֵּׁנִי הֲרֵי זֶה מֻתָּר. וְהוּא שֶׁיַּקְדִּים הַיִּשְׂר…",
+          "it": "Il vino che un gentile tocca inconsciamente — mentre dormiva — è permesso."
+        },
+        {
+          "n": 15,
+          "he": "עַכּוּ\"ם שֶׁמָּצַץ הַיַּיִן מִן הֶחָבִית בְּמֵינֶקֶת אָסַר כָּל הַיַּיִן שֶׁבָּהּ. שֶׁכְּשֶׁיִּפָּסֵק יַחֲזֹר הַיַּיִן שֶׁעָלָה בַּמֵּינֶקֶת בִּמְצִיצָתוֹ וְיִפּל לֶחָבִית וְיֶאֱסֹר הַכּל:",
+          "it": "Se un ebreo e un gentile trasportavano botti insieme e il gentile toccò accidentalmente una botte — è permesso."
+        },
+        {
+          "n": 16,
+          "he": "עַכּוּ\"ם שֶׁהָיָה מַעֲבִיר עִם יִשְׂרָאֵל כַּדֵּי יַיִן מִמָּקוֹם לְמָקוֹם וְהוּא הוֹלֵךְ אַחֲרֵיהֶן לְשָׁמְרָן אֲפִלּוּ הִפְלִיגוּ מִמֶּנּוּ כְּדֵי מִיל הֲרֵי אֵלּוּ מֻתָּרוֹת. שֶׁאֵימָתוֹ עֲלֵיהֶן וְאוֹמֵר עַתָּה יֵצֵא לְפָנֵינוּ וְיִרְאֶה אוֹתָנוּ. וְאִם אָמַר לָהֶם לְכוּ וַאֲנִי אָבוֹא אַחֲרֵיכֶ…",
+          "it": "Quando un gentile tocca il vino pensando che fosse birra o olio: se lo ha mosso — è proibito; se ha solo toccato senza muovere — è permesso."
+        },
+        {
+          "n": 17,
+          "he": "וְכֵן הַמֵּנִיחַ עַכּוּ\"ם בַּחֲנוּתוֹ אַף עַל פִּי שֶׁהוּא יוֹצֵא וְנִכְנַס כָּל הַיּוֹם כֻּלּוֹ הַיַּיִן מֻתָּר. וְאִם מוֹדִיעוֹ שֶׁהוּא מַפְלִיג וְשָׁהָה כְּדֵי שֶׁיִּפְתַּח וְיִגֹּף וְתִיגוֹב הַיַּיִן אָסוּר בִּשְׁתִיָּה. וְכֵן הַמֵּנִיחַ יֵינוֹ בְּקָרוֹן אוֹ בִּסְפִינָה עִם הָעַכּוּ\"ם וְנִכְנַס …",
+          "it": "Se un gentile entrò in una casa cercando vino e allungò la mano per cercarlo e toccò il vino — è proibito, poiché intendeva toccare vino. Non è considerato tocco non intenzionale."
+        },
+        {
+          "n": 18,
+          "he": "יִשְׂרָאֵל שֶׁהָיָה אוֹכֵל עִם הָעַכּוּ\"ם וְהִנִּיחַ יַיִן פָּתוּחַ עַל הַשֻּׁלְחָן וְיַיִן פָּתוּחַ עַל הַדֻּלְפְּקִי וְיָצָא. שֶׁעַל הַשֻּׁלְחָן אָסוּר וְשֶׁעַל הַדֻּלְפְּקִי מֻתָּר. וְאִם אָמַר לוֹ מְזֹג וּשְׁתֵה כָּל הַיַּיִן הַפָּתוּחַ שֶׁבַּבַּיִת אָסוּר:",
+          "it": "Se una botte si spaccò longitudinalmente e un gentile la abbracciò per non farla separare — è permesso goderne. Se si spaccò trasversalmente e il gentile la tenne insieme — è proibito goderne, poiché il vino toccò la sua mano."
+        },
+        {
+          "n": 19,
+          "he": "הָיָה שׁוֹתֶה עִם הָעַכּוּ\"ם וְשָׁמַע קוֹל תְּפִלָּה בְּבֵית הַכְּנֶסֶת וְיָצָא אַף הַיַּיִן הַפָּתוּחַ מֻתָּר. שֶׁהַנָּכְרִי אוֹמֵר עַתָּה יִזְכֹּר הַיַּיִן וְיָבוֹא בִּמְהֵרָה וְיִמְצָא אוֹתִי נוֹגֵעַ בְּיֵינוֹ וּלְפִי זֶה אֵינוֹ זָז מִמְּקוֹמוֹ וְאֵין נֶאֱסַר אֶלָּא מַה שֶּׁלְּפָנָיו בִּלְבַד:",
+          "it": "Il vino che scorre lungo la mano di un gentile verso un recipiente: il vino nel recipiente è permesso ma il vino in contatto con la sua mano è proibito."
+        },
+        {
+          "n": 20,
+          "he": "עַכּוּ\"ם וְיִשְׂרָאֵל שֶׁהָיוּ דָּרִין בֶּחָצֵר אַחַת וְיָצְאוּ שְׁנֵיהֶם בְּבֶהָלָה לִרְאוֹת חָתָן אוֹ הֶסְפֵּד. וְחָזַר הָעַכּוּ\"ם וְסָגַר הַפֶּתַח וְאַחַר כָּךְ יִשְׂרָאֵל הֲרֵי הַיַּיִן הַפָּתוּחַ שֶׁבְּבֵית יִשְׂרָאֵל בְּהֶתֵּרוֹ. שֶׁלֹּא סָגַר הָעַכּוּ\"ם אֶלָּא עַל דַּעַת שֶׁכְּבָר נִכְנַס הַי…",
+          "it": "Se un gentile porse un bicchiere pieno di vino a un ebreo e ne versò una goccia — è proibito tutto il bicchiere. Se non era pieno — è permesso."
+        },
+        {
+          "n": 21,
+          "he": "יַיִן שֶׁל יִשְׂרָאֵל וְשֶׁל עַכּוּ\"ם בְּבַיִת אֶחָד וְהָיוּ חָבִיּוֹת פְּתוּחוֹת וְנִכְנַס הָעַכּוּ\"ם לַבַּיִת וְנָעַל הַדֶּלֶת בַּעֲדוֹ נֶאֱסַר כָּל הַיַּיִן. וְאִם יֵשׁ חַלּוֹן בַּדֶּלֶת שֶׁמִּסְתַּכֵּל מִמֶּנּוּ הָעוֹמֵד אֲחוֹרֵי הַפֶּתַח וְרוֹאֶה כְּנֶגְדּוֹ כָּל הֶחָבִיּוֹת שֶׁכְּנֶגֶד הַחַלּו…",
+          "it": "Il mosto che ancora fermenta non è soggetto alle leggi del yayin nesech se toccato da un gentile, finché non sia diventato vino."
+        },
+        {
+          "n": 22,
+          "he": "וְכֵן אִם שָׁאַג אֲרִי וְכַיּוֹצֵא בּוֹ וּבָרַח הָעַכּוּ\"ם וְנֶחְבָּא בֵּין הֶחָבִיּוֹת הַפְּתוּחוֹת הַיַּיִן מֻתָּר שֶׁהוּא אוֹמֵר שֶׁמָּא יִשְׂרָאֵל אַחֵר נֶחְבָּא כָּאן וְהוּא רוֹאֶה אוֹתִי כְּשֶׁאֶגַּע:",
+          "it": "Il vino cotto (mevushal) portato a ebollizione: secondo molti Geonim, un gentile che lo tocca non lo rende proibito, poiché non viene usato per libagioni rituali nel suo stato cotto."
+        },
+        {
+          "n": 23,
+          "he": "אוֹצָר שֶׁל יַיִן שֶׁהָיוּ חָבִיּוֹתָיו פְּתוּחוֹת וְיֵשׁ לְעַכּוּ\"ם חָבִיּוֹת אֲחֵרוֹת בְּאוֹתוֹ הַפֻּנְדָּק. וְנִמְצָא הָעַכּוּ\"ם עוֹמֵד בֵּין חָבִיּוֹת יִשְׂרָאֵל הַפְּתוּחוֹת. אִם נִבְהַל כְּשֶׁנִּמְצָא וְנִתְפַּשׂ עָלָיו כְּגַנָּב הַיַּיִן מֻתָּר בִּשְׁתִיָּה שֶׁמִּפַּחְדּוֹ וְיִרְאָתוֹ אֵין לו…",
+          "it": "Il vino misto ad acqua: se c'è abbastanza vino da tingere l'acqua — è soggetto alle leggi del yayin nesech. Se la quantità d'acqua supera quella del vino — è permesso."
+        },
+        {
+          "n": 24,
+          "he": "גְּדוּד שֶׁנִּכְנַס לַמְּדִינָה דֶּרֶךְ שָׁלוֹם כָּל הֶחָבִיּוֹת הַפְּתוּחוֹת שֶׁבַּחֲנוּיוֹת אֲסוּרוֹת וּסְתוּמוֹת מֻתָּרוֹת. וּבִשְׁעַת מִלְחָמָה אִם פָּשַׁט הַגְּדוּד בַּמְּדִינָה וְעָבַר אֵלּוּ וְאֵלּוּ מֻתָּרוֹת שֶׁאֵין פְּנַאי לְנַסֵּךְ:",
+          "it": "Il sedimento del vino che un gentile tocca: se ancora umido — è proibito; se secco — è permesso."
+        },
+        {
+          "n": 25,
+          "he": "עַכּוּ\"ם שֶׁנִּמְצָא עוֹמֵד בְּצַד הַבּוֹר שֶׁל יַיִן אִם יֵשׁ לוֹ מִלְוֶה עַל אוֹתוֹ הַיַּיִן הֲרֵי זֶה אָסוּר מִפְּנֵי שֶׁלִּבּוֹ גַּס בּוֹ שׁוֹלֵחַ יָדוֹ וּמְנַסֵּךְ. וְאִם אֵין לוֹ עָלָיו מִלְוֶה הַיַּיִן מֻתָּר בִּשְׁתִיָּה:",
+          "it": "Il vino congelato che un gentile tocca: una volta scongelato — è proibito."
+        },
+        {
+          "n": 26,
+          "he": "זוֹנָה עַכּוּ\"ם בִּמְסִבָּה שֶׁל יִשְׂרָאֵל הַיַּיִן מֻתָּר שֶׁאֵימָתָן עָלֶיהָ וְלֹא תִּגַּע. אֲבָל זוֹנָה יִשְׂרְאֵלִית בִּמְסִבַּת עַכּוּ\"ם יֵינָהּ שֶׁלְּפָנֶיהָ בְּכֵלֶיהָ אָסוּר מִפְּנֵי שֶׁהֵן נוֹגְעִין בּוֹ שֶׁלֹּא מִדַּעְתָּהּ:",
+          "it": "Se un gentile spillò il vino con un sifone e un ebreo chiuse il sifone con il dito: il vino nella botte è permesso, poiché l'ebreo interruppe il flusso."
+        },
+        {
+          "n": 27,
+          "he": "עַכּוּ\"ם הַנִּמְצָא בְּבֵית הַגַּת אִם יֵשׁ שָׁם לַחְלוּחִית יַיִן כְּדֵי לִבְלל הַכַּף עַד שֶׁתִּבְלל הַכַּף לְכַף שְׁנִיָּה צָרִיךְ לְהָדִיחַ כָּל בֵּית הַגַּת וִינַגֵּב. וְאִם לָאו מֵדִיחַ בִּלְבַד וְזוֹ הַרְחָקָה יְתֵרָה:",
+          "it": "Un israelita che vende vino a un gentile: finché non ha ricevuto il pagamento e consegnato il vino — il vino toccato dal gentile è proibito, poiché è ancora proprietà dell'ebreo."
+        },
+        {
+          "n": 28,
+          "he": "חָבִית שֶׁצָּפָה בַּנָּהָר אִם נִמְצֵאת כְּנֶגֶד עִיר שֶׁרֻבָּהּ יִשְׂרָאֵל מֻתֶּרֶת בַּהֲנָיָה. כְּנֶגֶד עִיר שֶׁרֻבָּהּ עַכּוּ\"ם אֲסוּרָה:",
+          "it": "Il vino proibito per libagione mischiato con vino permesso in quantità tale che il sapore non si percepisce: è permesso per le categorie dove si applica il bitul. Ma yayin nesech non si annulla mai secondo la Torah."
+        },
+        {
+          "n": 29,
+          "he": "מָקוֹם שֶׁהָיוּ רֹב מוֹכְרֵי הַיַּיִן בּוֹ יִשְׂרְאֵלִים וְנִמְצְאוּ בּוֹ כֵּלִים גְּדוֹלִים מְלֵאִים יַיִן וְהֵם כֵּלִים שֶׁדֶּרֶךְ הַמּוֹכְרִין לְבַדָּם לִכְנֹס בָּהֶם הַיַּיִן הֲרֵי אֵלּוּ מֻתָּרִין בַּהֲנָיָה. חָבִית שֶׁפְּתָחוּהָ גַּנָּבִים אִם רֹב גַּנָּבֵי הָעִיר יִשְׂרָאֵל הַיַּיִן מֻתָּר בּ…",
+          "it": "Tutti i casi in cui si dice «è permesso goderne» ma non berlo: si può vendere a un gentile, depositarlo come garanzia, pagare debiti con esso o usarlo in qualsiasi altra transazione commerciale lecita."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 13",
+      "name_he": "הלכות מאכלות אסורות, פרק יג",
+      "name_it": "Leggi dei cibi proibiti — capitolo 13: custodia, deposito e vendita del vino",
+      "halachot_count": 28,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "הַלוֹקֵחַ בַּיִת אוֹ שֶׁשָּׂכָר בַּיִת בַּחֲצֵרוֹ שֶׁל עַכּוּ\"ם וּמִלְּאָהוּ יַיִן אִם הָיָה הַיִּשְׂרְאֵלִי דָּר בְּאוֹתָהּ חָצֵר אַף עַל פִּי שֶׁהַפֶּתַח פָּתוּחַ הַיַּיִן מֻתָּר. מִפְּנֵי שֶׁהָעַכּוּ\"ם מְפַחֵד תָּמִיד וְאוֹמֵר עַתָּה יִכָּנֵס לְבֵיתוֹ פִּתְאֹם וְיִמְצָא אוֹתִי בְּתוֹךְ בֵּיתוֹ. ו…",
+          "it": "Chi acquista o affitta una stanza nel cortile di un gentile e la riempie di vino: se l'ebreo vi abita nello stesso cortile, è permesso lasciare il vino senza sorveglianza, poiché la paura del proprietario grava sul gentile. Se l'ebreo non vi abita — è proibito lasciarlo senza sorveglianza."
+        },
+        {
+          "n": 2,
+          "he": "יָצָא וְלֹא סָגַר הַפֶּתַח אוֹ שֶׁסָּגַר וְהִנִּיחַ הַמַּפְתֵּחַ בְּיַד עַכּוּ\"ם הֲרֵי הַיַּיִן אָסוּר בִּשְׁתִיָּה. שֶׁמָּא נִכְנַס הָעַכּוּ\"ם וְנִסֵּךְ. שֶׁהֲרֵי אֵין הַיִּשְׂרְאֵלִי שָׁם. וְאִם אָמַר לוֹ אֱחֹז לִי מַפְתֵּחַ זֶה עַד שֶׁאָבוֹא הַיַּיִן מֻתָּר שֶׁלֹּא מָסַר לוֹ שְׁמִירַת הַבַּיִת אֶ…",
+          "it": "Se l'ebreo uscì senza chiudere la porta, o la chiuse lasciando la chiave in mano al gentile — il vino è proibito per il consumo."
+        },
+        {
+          "n": 3,
+          "he": "עַכּוּ\"ם שֶׁשָּׂכַר יִשְׂרָאֵל לִדְרֹךְ לוֹ יֵינוֹ בְּטָהֳרָה כְּדֵי שֶׁיִּהְיֶה מֻתָּר לְיִשְׂרָאֵל וְיִקָּחוּהוּ מִמֶּנּוּ וְהָיָה הַיַּיִן בְּבֵיתוֹ שֶׁל עַכּוּ\"ם. אִם הָיָה יִשִׂרָאֵל זֵה שֵׁשּׁוֹמֵר הַיַּיִן דָּר בְּאוֹתָהּ חָצֵר הַיַּיִן מֻתָּר. וְאַף עַל פִּי שֶׁהַפֶּתַח פָּתוּחַ וְהַשּׁוֹמֵר…",
+          "it": "Se l'ebreo chiuse e appose un sigillo: anche se si scopre che il gentile è entrato — il vino è permesso, a meno che non sia chiaro che il sigillo fu violato."
+        },
+        {
+          "n": 4,
+          "he": "אֲפִלּוּ כָּתַב הָעַכּוּ\"ם לְיִשְׂרָאֵל שֶׁנִּתְקַבֵּל מִמֶּנּוּ הַמָּעוֹת לִמְכֹּר לוֹ בָּהֶן יַיִן הוֹאִיל וְאֵין הַיִּשְׂרְאֵלִי יָכוֹל לְהוֹצִיאוֹ מֵרְשׁוּת הָעַכּוּ\"ם עַד שֶׁיִּתֵּן לוֹ הַמָּעוֹת הֲרֵי הוּא שֶׁל עַכּוּ\"ם וְאָסוּר. אֶלָּא אִם הָיָה הַשּׁוֹמֵר דָּר שָׁם בֶּחָצֵר. וְאֵין הַשּׁוֹמֵ…",
+          "it": "L'ebreo che affida il suo vino a un gentile per custodirlo: se il vino è in un contenitore sigillato — è permesso. Se è aperto — è proibito."
+        },
+        {
+          "n": 5,
+          "he": "הָיָה יַיִן זֶה הַטָּהוֹר שֶׁל עַכּוּ\"ם מֻנָּח בִּרְשׁוּת הָרַבִּים אוֹ בְּבַיִת הַפָּתוּחַ לִרְשׁוּת הָרַבִּים וְיִשְׂרָאֵל הוֹלְכִים וְשָׁבִים מֻתָּר. שֶׁעֲדַיִן לֹא נִכְנַס בִּרְשׁוּת הָעַכּוּ\"ם:",
+          "it": "Il vino di un ebreo nella casa di un gentile, e l'ebreo vi entra e esce liberamente: il vino è permesso, a condizione che l'ebreo possa arrivare in qualsiasi momento senza preavviso."
+        },
+        {
+          "n": 6,
+          "he": "וְאַשְׁפָּה וְחַלּוֹן וְדֶקֶל אַף עַל פִּי שֶׁאֵין בּוֹ פֵּרוֹת הֲרֵי אֵלּוּ כִּרְשׁוּת הָרַבִּים. וְחָבִית יַיִן שָׁם וְעַכּוּ\"ם הַנִּמְצָא שָׁם אֵינוֹ אוֹסְרָהּ. וּבַיִת הַפָּתוּחַ לְשָׁם הֲרֵי הוּא כְּפָתוּחַ לִרְשׁוּת הָרַבִּים:",
+          "it": "Se un gentile è stato assunto per portare botti di vino al porto: se l'ebreo può arrivare e controllare in qualsiasi momento — è permesso. Se non può — è proibito."
+        },
+        {
+          "n": 7,
+          "he": "חָצֵר הַחֲלוּקָה בִּמְסִיפִים וְעַכּוּ\"ם בְּצַד זֶה וְיִשְׂרָאֵל בְּצַד אַחֵר. וְכֵן שְׁנֵי גַּגִּין שֶׁהָיָה גַּג יִשְׂרָאֵל לְמַעְלָה וְגַג הָעַכּוּ\"ם לְמַטָּה. אוֹ שֶׁהָיוּ זֶה בְּצַד זֶה וְיֵשׁ בֵּינֵיהֶן מְסִיפִים. אַף עַל פִּי שֶׁיַּד הָעַכּוּ\"ם מַגַּעַת לְחֵלֶק יִשְׂרָאֵל אֵינוֹ חוֹשֵׁשׁ מִשּ…",
+          "it": "Chi deposita vino in casa di un gentile: è permesso, purché l'ebreo venga e vada regolarmente e non lasci il vino in custodia esclusiva per lungo tempo."
+        },
+        {
+          "n": 8,
+          "he": "מֻתָּר לְיִשְׂרָאֵל לְהַפְקִיד יֵינוֹ בִּכְלִי סָתוּם בְּיַד עַכּוּ\"ם וְהוּא שֶׁיִּהְיֶה לוֹ בּוֹ שְׁנֵי סִימָנִין. וְזֶה הוּא הַנִּקְרָא חוֹתָם בְּתוֹךְ חוֹתָם. כֵּיצַד. סָתַם הֶחָבִית בִּכְלִי שֶׁאֵינוֹ מְהֻדָּק כְּדֶרֶךְ שֶׁסּוֹתְמִין כָּל אָדָם וְטָח בְּטִיט הֲרֵי זֶה חוֹתָם אֶחָד. הָיָה כְּלִי …",
+          "it": "Il vino che scorre da una cantina ebraica verso una cantina di un gentile attraverso un canale: se è aperto — è proibito quando arriva nel dominio del gentile; se è chiuso — è permesso."
+        },
+        {
+          "n": 9,
+          "he": "וְאִם הִפְקִיד בְּיַד עַכּוּ\"ם בְּחוֹתָם אֶחָד הֲרֵי זֶה אָסוּר בִּשְׁתִיָּה וּמֻתָּר בַּהֲנָיָה וְהוּא שֶׁיְּיַחֵד לוֹ קֶרֶן זָוִית:",
+          "it": "Se un ebreo incaricò un gentile di vendere il suo vino ai gentili: il denaro ricavato è permesso, anche se il gentile ha toccato il vino, poiché operava come agente dell'ebreo."
+        },
+        {
+          "n": 10,
+          "he": "יַיִן מְבֻשָּׁל וְהַשֵּׁכָר אוֹ יַיִן שֶׁעֵרְבוֹ עִם דְּבָרִים אֲחֵרִים כְּגוֹן דְּבַשׁ וְשֶׁמֶן וְכֵן הַחֹמֶץ וְהַגְּבִינָה וְהֶחָלָב וְכָל שֶׁאִסּוּרוֹ מִדִּבְרֵי סוֹפְרִים שֶׁהִפְקִידוֹ בְּיַד עַכּוּ\"ם אֵינוֹ צָרִיךְ שְׁנֵי חוֹתָמוֹת אֶלָּא חוֹתָם אֶחָד בִּלְבַד דַּיּוֹ. אֲבָל הַיַּיִן וְהַבָּשָׂ…",
+          "it": "Se un gentile disse a un ebreo: «Dammi il tuo vino e ti porterò il prezzo» — il vino venduto dal gentile è proibito se il gentile lo ha toccato, ma l'ebreo può ricevere il pagamento."
+        },
+        {
+          "n": 11,
+          "he": "יֵרָאֶה לִי שֶׁכָּל מָקוֹם שֶׁאָמַרְנוּ בְּעִנְיָן זֶה בְּיַיִן שֶׁלָּנוּ שֶׁהוּא אָסוּר בִּשְׁתִיָּה וּמֻתָּר בַּהֲנָיָה מִפְּנֵי צַד נְגִיעָה שֶׁנָּגַע בּוֹ הָעַכּוּ\"ם כְּשֶׁהָיָה הָעַכּוּ\"ם עוֹבֵד עַכּוּ\"ם. אֲבָל אִם הָיָה אִסּוּרוֹ בִּגְלַל עַכּוּ\"ם שֶׁאֵינוֹ עוֹבֵד עַכּוּ\"ם כְּגוֹן יִשְׁמְעֵאלִ…",
+          "it": "L'ebreo che compra vino da un gentile e dice al gentile di portarlo a casa sua: se lungo il percorso il gentile è solo con il vino — è proibito."
+        },
+        {
+          "n": 12,
+          "he": "אֲבָל הַמַּפְקִיד יַיִן בְּיַד גֵּר תּוֹשָׁב אוֹ שֶׁשְּׁלָחוֹ עִמּוֹ וְהִפְלִיג אוֹ שֶׁהֵנִיחַ בֵּיתוֹ פָּתוּחַ בַּחֲצַר גֵּר תּוֹשָׁב הֲרֵי זֶה אָסוּר בִּשְׁתִיָּה. שֶׁכָּל חֲשָׁשׁ שֶׁל חִלּוּף וְזִיּוּף יֵרָאֶה לִי שֶׁכָּל הָעַכּוּ\"ם שָׁוִים בּוֹ הוֹאִיל וְנַעֲשָׂה הַיַּיִן בִּרְשׁוּתָן נֶאֱסַר בּ…",
+          "it": "Chi acquista vino da un gentile in un mercato: se lo esamina e sigilla lì — è permesso portarlo a casa. Se non lo sigilla — è proibito."
+        },
+        {
+          "n": 13,
+          "he": "יֵשׁ דְּבָרִים שֶׁאֵין בָּהֶם אִסּוּר נִסּוּךְ כְּלָל וְאָסְרוּ אוֹתָם חֲכָמִים כְּדֵי לְהַרְחִיק מִן הַנִּסּוּךְ. וְאֵלּוּ הֵן. לֹא יִמְזֹג הָעַכּוּ\"ם הַמַּיִם לְתוֹךְ הַיַּיִן שֶׁבְּיַד יִשְׂרָאֵל שֶׁמָּא יָבוֹא לִצֹּק הַיַּיִן לְתוֹךְ הַמַּיִם. וְלֹא יוֹלִיךְ הָעַכּוּ\"ם עֲנָבִים לַגַּת שֶׁמָּא יָ…",
+          "it": "Se due ebrei comprano vino da un gentile e uno accompagna le botti mentre l'altro va avanti: il vino è permesso, poiché il primo rassicura che il secondo tornerà."
+        },
+        {
+          "n": 14,
+          "he": "וְכֵן מֻתָּר שֶׁיָּרִיחַ הָעַכּוּ\"ם בְּחָבִית שֶׁל יַיִן שֶׁלָּנוּ. וּמֻתָּר לְיִשְׂרָאֵל לְהָרִיחַ בְּחָבִית שֶׁל יֵין נֶסֶךְ וְאֵין בָּזֶה שֵׁם אִסּוּר שֶׁאֵין הָרֵיחַ כְּלוּם לְפִי שֶׁאֵין בּוֹ מַמָּשׁ:",
+          "it": "Se un ebreo vende vino a un gentile e il gentile prende possesso del vino ma non ha ancora pagato: il vino è del gentile e soggetto alle sue leggi."
+        },
+        {
+          "n": 15,
+          "he": "כְּבָר בֵּאַרְנוּ שֶׁכָּל דָּבָר שֶׁהוּא אָסוּר בַּהֲנָיָה אִם עָבַר וּמָכְרוּ דָּמָיו מֻתָּרִין חוּץ מֵעַכּוּ\"ם וּמְשַׁמְּשֶׁיהָ וְתִקְרֹבֶת שֶׁלָּהּ וְיַיִן שֶׁנִּתְנַסֵּךְ לָהּ. וְהֶחְמִירוּ חֲכָמִים בִּסְתַם יֵינָם לִהְיוֹת דָּמָיו אֲסוּרִין כִּדְמֵי יַיִן שֶׁנִּתְנַסֵּךְ לְעַכּוּ\"ם. לְפִיכָךְ ע…",
+          "it": "Il vino che un ebreo ha assaggiato da una botte di un gentile per acquistarla: quel vino è permesso all'ebreo."
+        },
+        {
+          "n": 16,
+          "he": "וְכֵן הַשּׂוֹכֵר אֶת הַחֲמוֹר לְהָבִיא עָלָיו יַיִן אוֹ שֶׁשָּׂכַר סְפִינָה לְהָבִיא בָּהּ יַיִן שְׂכָרָן אָסוּר. אִם מָעוֹת נָתְנוּ לוֹ יוֹלִיכֵן לְיָם הַמֶּלַח. וְאִם נָתְנוּ לוֹ בִּשְׂכָרוֹ כְּסוּת אוֹ כֵּלִים אוֹ פֵּרוֹת הֲרֵי זֶה יִשְׂרֹף אוֹתָן וְיִקְבֹּר הָאֵפֶר כְּדֵי שֶׁלֹּא לֵהָנוֹת בּוֹ:",
+          "it": "Se un ebreo e un gentile sono comproprietari di una botte di vino: il gentile non può rendere proibita la parte dell'ebreo toccandola, purché le parti siano distinte. Se il vino è mescolato — è proibito."
+        },
+        {
+          "n": 17,
+          "he": "שָׂכַר לָעַכּוּ\"ם חֲמוֹר לִרְכֹּב עָלָיו וְהִנִּיחַ עָלָיו לוֹגִין שֶׁל יַיִן שְׂכָרוֹ מֻתָּר. שְׂכָרוֹ לְשַׁבֵּר כַּדֵּי יֵין נֶסֶךְ שְׂכָרוֹ מֻתָּר וְתָבוֹא עָלָיו בְּרָכָה מִפְּנֵי שֶׁמְּמַעֵט בְּתִפְלָה:",
+          "it": "Un ebreo che eredita del vino da un padre gentile o riceve vino come regalo da un gentile: il vino è permesso, a meno che non sia provato che il gentile lo ha toccato con intenzione di libagione."
+        },
+        {
+          "n": 18,
+          "he": "הַשּׂוֹכֵר אֶת הַפּוֹעֵל וְאָמַר לוֹ הַעֲבֵר לִי מֵאָה חָבִיּוֹת שֶׁל שֵׁכָר בְּמֵאָה פְּרוּטוֹת וְנִמְצָא אַחַת מֵהֶן יַיִן שְׂכָרוֹ כֻּלּוֹ אָסוּר:",
+          "it": "Il vino dei Kutim (Samaritani) è proibito come lo stam yeinam dei gentili — decreto dei Saggi."
+        },
+        {
+          "n": 19,
+          "he": "אָמַר לוֹ הַעֲבֵר לִי חָבִית בִּפְרוּטָה חָבִית בִּפְרוּטָה וְהֶעֱבִיר וְנִמְצָא בֵּינֵיהֶן חָבִיּוֹת שֶׁל יַיִן. שְׂכַר חָבִיּוֹת שֶׁל יַיִן אָסוּר וּשְׁאָר שְׂכָרוֹ מֻתָּר:",
+          "it": "Vino fatto da apostati ebrei (mumarim) che adorano idoli: è proibito come yayin nesech. Vino di apostati che non adorano idoli: è proibito per decreto rabbinico."
+        },
+        {
+          "n": 20,
+          "he": "אֻמְּנֵי יִשְׂרָאֵל שֶׁשָּׁלַח לָהֶם עַכּוּ\"ם חָבִית שֶׁל יַיִן בִּשְׂכָרָן מֻתָּר שֶׁיֹּאמְרוּ לוֹ תֵּן לָנוּ אֶת דָּמֶיהָ. וְאִם מִשֶּׁנִּכְנְסָה לִרְשׁוּתָן אָסוּר:",
+          "it": "Il vino di un ebreo che violava pubblicamente lo Shabbat: i Geonim hanno diverse opinioni; la regola pratica segue la maggioranza dei decisori."
+        },
+        {
+          "n": 21,
+          "he": "יִשְׂרָאֵל שֶׁהָיָה נוֹשֶׁה בְּעַכּוּ\"ם מָנֶה. הָלַךְ הָעַכּוּ\"ם וּמָכַר עַבוֹדָה זָרָה וְיֵין נֶסֶךְ וְהֵבִיא לוֹ דְּמֵיהֶן הֲרֵי זֶה מֻתָּר. וְאִם אָמַר לוֹ קֹדֶם שֶׁיִּמְכֹּר הַמְתֵּן לִי עַד שֶׁאֶמְכֹּר עַבוֹדָה זָרָה אוֹ יֵין נֶסֶךְ שֶׁיֵּשׁ לִי וְאָבִיא לְךָ. אַף עַל פִּי שֶׁהוּא סְתַם יֵינוֹ.…",
+          "it": "Quando si trova del vino in una città dove la maggioranza sono ebrei: si presume permesso. Se la maggioranza sono gentili: si presume proibito. Se metà e metà: è proibito per precauzione."
+        },
+        {
+          "n": 22,
+          "he": "וְכֵן גֵּר וְעַכּוּ\"ם שֶׁהָיוּ שֻׁתָּפִין וּבָאוּ לַחֲלֹק. אֵין הַגֵּר יָכוֹל לוֹמַר לָעַכּוּ\"ם טֹל אַתָּה עַבוֹדָה זָרָה וַאֲנִי מָעוֹת. אַתָּה יַיִן וַאֲנִי פֵּרוֹת שֶׁהֲרֵי רוֹצֶה בְּקִיּוּמָן כְּדֵי שֶׁיִּטּל כְּנֶגְדָּן. אֲבָל גֵּר וְעַכּוּ\"ם שֶׁיָּרְשׁוּ אֶת אֲבִיהֶן עַכּוּ\"ם יָכוֹל לוֹמַר לוֹ…",
+          "it": "Il vino trovato in una giara sigillata in una città a maggioranza gentile: è permesso, poiché si presume che nessuno l'abbia toccato."
+        },
+        {
+          "n": 23,
+          "he": "יִשְׂרָאֵל שֶׁמָּכַר יֵינוֹ לְעַכּוּ\"ם פָּסַק עַד שֶׁלֹּא מָדַד לוֹ דָּמָיו מֻתָּרִין. שֶׁמִּשֶּׁפָּסַק סָמְכָה דַּעְתּוֹ וּמִשֶּׁמָּשַׁךְ קָנָה וְיֵין נֶסֶךְ אֵינוֹ נַעֲשֶׂה עַד שֶׁיִּגַּע בּוֹ. נִמְצָא בִּשְׁעַת מְכִירָה הָיָה מֻתָּר. מָדַד לוֹ עַד שֶׁלֹּא פָּסַק הַדָּמִים דָּמָיו אֲסוּרִין. שֶׁהֲ…",
+          "it": "Il vino aperto trovato nel dominio pubblico: se in una città a maggioranza ebraica — è permesso; se a maggioranza gentile — è proibito."
+        },
+        {
+          "n": 24,
+          "he": "בַּמֶּה דְּבָרִים אֲמוּרִים בְּשֶׁמָּדַד הַיִּשְׂרְאֵלִי לְכֵלָיו. אֲבָל אִם מָדַד לִכְלִי הָעַכּוּ\"ם אוֹ לִכְלִי יִשְׂרָאֵל שֶׁבְּיַד הָעַכּוּ\"ם צָרִיךְ לִקַּח אֶת הַדָּמִים וְאַחַר כָּךְ יִמְדֹּד. וְאִם מָדַד וְלֹא לָקַח דָּמִים אַף עַל פִּי שֶׁפָּסַק דָּמָיו אֲסוּרִים שֶׁמִּשֶּׁיַגִּיעַ לַכְּלִי …",
+          "it": "Se si trova del vino nelle strade durante le feste dei gentili: è proibito in ogni godimento, poiché è probabile che sia stato usato per libagioni."
+        },
+        {
+          "n": 25,
+          "he": "הַנּוֹתֵן דִּינָר לְחֶנְוָנִי עַכּוּ\"ם וְאָמַר לְפוֹעֲלוֹ הָעַכּוּ\"ם לֵךְ וּשְׁתֵה וֶאֱכל מִן הַחֶנְוָנִי וַאֲנִי מְחַשֵּׁב לוֹ הֲרֵי זֶה חוֹשֵׁשׁ שֶׁמָּא יִשְׁתֶּה יַיִן. שֶׁזֶּה כְּמִי שֶׁקָּנָה לוֹ יֵין נֶסֶךְ וְהִשְׁקָהוּ. וּכְנֶגֶד זֶה בִּשְׁבִיעִית אָסוּר כְּגוֹן שֶׁנָּתַן דִּינָר לְחֶנְוָנִי …",
+          "it": "Il vino prodotto da ebrei in paesi gentili: è permesso, purché siano stati osservati tutti i processi di produzione."
+        },
+        {
+          "n": 26,
+          "he": "אֲבָל אִם אָמַר לָהֶם אִכְלוּ וּשְׁתוּ בְּדִינָר זֶה. אוֹ שֶׁאָמַר לָהֶם אִכְלוּ וּשְׁתוּ עָלַי מִן הַחֶנְוָנִי וַאֲנִי פּוֹרֵעַ אַף עַל פִּי שֶׁנִּשְׁתַּעְבֵּד הוֹאִיל וְלֹא נִתְיַחֵד שִׁעְבּוּדוֹ הֲרֵי זֶה מֻתָּר וְאֵינוֹ חוֹשֵׁשׁ לֹא מִשּׁוּם יֵין נֶסֶךְ וְלֹא מִשּׁוּם שְׁבִיעִית וְלֹא מִשּׁוּם מ…",
+          "it": "Il sommario: yayin nesech — proibito per Torah in ogni godimento; stam yeinam — proibito per decreto rabbinico nel consumo, permesso nel godimento (tranne se il produttore adora idoli)."
+        },
+        {
+          "n": 27,
+          "he": "מֶלֶךְ שֶׁהָיָה מְחַלֵּק יֵינוֹ לָעָם וְלוֹקֵחַ מֵהֶן דָּמָיו כְּפִי מַה שֶּׁיִּרְצֶה. אַל יֹאמַר אָדָם לְעַכּוּ\"ם הֵא לְךָ מָאתַיִם זוּז וְהִכָּנֵס תַּחְתַּי בְּאוֹצַר הַמֶּלֶךְ כְּדֵי שֶׁיִּקַּח עַכּוּ\"ם הַיַּיִן שֶׁכָּתְבוּ בְּשֵׁם יִשְׂרָאֵל וְיִתֵּן הָעַכּוּ\"ם הַדָּמִים לַמֶּלֶךְ. אֲבָל אוֹמֵר …",
+          "it": "Il vino di libagione proibito mischiato con vino permesso: se si percepisce il sapore — tutto è proibito. Non vi è bitul per il yayin nesech."
+        },
+        {
+          "n": 28,
+          "he": "עַכּוּ\"ם שֶׁנָּגַע בְּיֵינוֹ שֶׁל יִשְׂרָאֵל לְאָנְסוֹ מֻתָּר לִמְכֹּר אוֹתוֹ יַיִן לְאוֹתוֹ הָעַכּוּ\"ם שֶׁאֲסָרוֹ לְבַדּוֹ. שֶׁכֵּיוָן שֶׁנִּתְכַּוֵּן זֶה הָעַכּוּ\"ם לְהַזִּיקוֹ וְלֶאֱסֹר יֵינוֹ הֲרֵי זֶה כְּמוֹ שֶׁשְּׁבָרוֹ אוֹ שְׂרָפוֹ שֶׁחַיָּב לְשַׁלֵּם. וְנִמְצְאוּ הַדָּמִים שֶׁלּוֹקֵחַ מִמֶּנ…",
+          "it": "Il vino proibito caduto in un pozzo o lago: se l'acqua acquista sapore di vino — è proibita. Se no — è permessa."
+        }
+      ]
+    }
+  ],
+  "_glossary_terms_used": [
+    "yayin nesech (יין נסך) — vino versato in libagione idolatra",
+    "stam yeinam (סתם יינם) — vino ordinario dei gentili",
+    "neveilà (נבילה) — animale morto senza shechità",
+    "basar be-chalav (בשר בחלב) — carne nel latte",
+    "chelev (חלב) — grasso proibito",
+    "dam (דם) — sangue",
+    "ger toshav (גר תושב) — residente straniero che ha accettato le sette leggi noachidi",
+    "revi'it (רביעית) — misura di liquido (circa 86-150 ml)",
+    "makkot mardut (מכות מרדות) — flagellazione disciplinare rabbinica",
+    "mevushal (מבושל) — vino cotto",
+    "mumar (מומר) — apostata ebreo"
+  ]
+}

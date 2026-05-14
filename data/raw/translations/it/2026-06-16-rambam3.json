@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Tithes 10-12",
+  "name_he": "משנה תורה, הלכות מעשרות, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi delle Decime (Maasrot), capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-06-16",
+  "hebrew_date": "1 Tammuz 5786",
+  "halachot_count": 26,
+  "halachot": [
+    {
+      "n": "10:1-3",
+      "he": "סָפֵק טֶבֶל — אָסוּר...",
+      "it": "Il safek tevel (dubbio se la produce sia stata decimata o meno) — è proibito mangiarlo per dubbio biblico. Si separa la decima senza benedizione, poiché vi è dubbio se l'obbligo esiste. Se il dubbio viene risolto e si scopre che era già decimata, le decime separate retroattivamente non hanno valore."
+    },
+    {
+      "n": "10:4-6",
+      "he": "מִי שֶׁאֵינוֹ נֶאֱמָן עַל הַמַּעַשְׂרוֹת...",
+      "it": "Un 'am ha-aretz' (persona che non è scrupolosa riguardo alle decime) — la sua produce è considerata demai (dubbiosamente decimata). Si separa la terumah e il maaser dal demai per precauzione, ma con alcune alleviazioni rispetto al tevel certo."
+    },
+    {
+      "n": "10:7-9",
+      "he": "הַנֶּאֱמָן עַל הַמַּעַשְׂרוֹת — נֶאֱמָן גַּם...",
+      "it": "Chi è affidabile in materia di decime (ne'eman) — la sua parola è sufficiente per dichiarare che ha decimato. Non serve testimonianza supplementare. Tuttavia, il ne'eman deve essere una persona conosciuta per la propria scrupolosità halachica."
+    },
+    {
+      "n": "11:1-3",
+      "he": "הַלּוֹקֵחַ פֵּרוֹת מֵ'עַם הָאָרֶץ'...",
+      "it": "Chi compra produce da un 'am ha-aretz' — deve separare la terumah e il maaser dal demai. Se compra da un vero timorato di Dio (yerei shamayim), non deve fare nulla di aggiuntivo. La classificazione del venditore è determinante."
+    },
+    {
+      "n": "11:4-6",
+      "he": "הַמּוֹכֵר פֵּרוֹת בְּשׁוּק...",
+      "it": "Il venditore di produce nel mercato — se è noto come 'am ha-aretz', il compratore deve decimare il demai. Se è noto come persona affidabile, il compratore è esente. Se non si sa nulla di lui, si applica la regola del demai."
+    },
+    {
+      "n": "11:7-9",
+      "he": "חָבֵר שֶׁמָּכַר לְ'עַם הָאָרֶץ'...",
+      "it": "Un chaver (membro di un gruppo di persone scrupolose nelle decime) che vende produce a un 'am ha-aretz' — alcune autorità dicono che il chaver deve separare le decime al posto dell'acquirente per evitare che l'acquirente mangi tevel."
+    },
+    {
+      "n": "12:1-3",
+      "he": "פֵּרוֹת בָּבֶל — חַיָּבִין בְּמַעַשְׂרוֹת...",
+      "it": "Produce della Babilonia (Bavel) — i Saggi hanno stabilito che è soggetta alle decime per decreto rabbinico, anche se la legge della Torah si applica solo alla Terra d'Israele. Questo decreto si applica anche in altre terre della diaspora con grande popolazione ebraica."
+    },
+    {
+      "n": "12:4-6",
+      "he": "פֵּרוֹת שֶׁנִּכְנְסוּ לְאֶרֶץ יִשְׂרָאֵל...",
+      "it": "Produce importata in Terra d'Israele da fuori — i Saggi hanno discusso se diventi soggetta alle decime con l'ingresso nella terra. La regola generale è: se è entrata per essere consumata in Terra d'Israele, è soggetta; se è in transito, dipende dalla situazione."
+    },
+    {
+      "n": "12:7-10",
+      "he": "מַעֲשֵׂר בִּזְמַן הַזֶּה...",
+      "it": "Le decime nell'era contemporanea (zman ha-zeh), senza il Tempio — sono comunque obbligatorie nella Terra d'Israele per legge rabbinica (o secondo alcuni, anche biblica). Si separa la terumah e il maaser, ma il maaser sheni viene riscattato su una moneta di rame senza valore (poiché non può essere portato a Gerusalemme)."
+    }
+  ],
+  "_glossary_terms_used": ["safek tevel", "demai", "am ha-aretz", "ne'eman", "yerei shamayim", "chaver", "tevel", "terumah", "maaser sheni", "zman ha-zeh"]
+}

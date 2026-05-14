@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Issurei Mizbeiach 2-4",
+  "name_he": "משנה תורה, הלכות איסורי מזבח, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi delle Cose Proibite sull'Altare, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-07-09",
+  "hebrew_date": "24 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "מוּמִין הַפּוֹסְלִין בַּבְּהֵמָה — יֵשׁ מֵהֶן מִן הַתּוֹרָה וְיֵשׁ מֵהֶן מִדִּבְרֵי חֲכָמִים.",
+      "it": "I difetti che squalificano nell'animale — alcuni sono della Torah e alcuni sono di istituzione rabbinica."
+    },
+    {
+      "n": "2:2",
+      "he": "מוּמִין הַמְּנוּיִין בַּתּוֹרָה — אֵיוֶרֶת, גֵּרָב, יַבֶּלֶת, שֶׁבֶר, חָרוּץ, יַלֶּפֶת.",
+      "it": "I difetti elencati nella Torah — cecità (iverit), scabbia (garav), verruca (yabbelet), frattura (shever), taglio (charuts), lichene (yalefet)."
+    },
+    {
+      "n": "2:3",
+      "he": "חֲכָמִים הוֹסִיפוּ מוּמִין רַבִּים שֶׁהָאָדָם יְכוֹל לְהַכִּירָן בְּקַלּוּת.",
+      "it": "I Saggi hanno aggiunto molti difetti che una persona può riconoscere facilmente."
+    },
+    {
+      "n": "3:1",
+      "he": "בְּהֵמָה שֶׁנֶּעֶבְדָה בָּהּ עֲבֵרָה — פְּסוּלָה לְמִזְבֵּחַ.",
+      "it": "Un animale con cui è stata commessa una trasgressione — è squalificato per l'altare."
+    },
+    {
+      "n": "3:2",
+      "he": "בְּהֵמָה שֶׁנֶּעֶשְׂתָה בָּהּ עֲבֵרָה — כְּגוֹן שֶׁרָבְעוּ אוֹתָהּ — פְּסוּלָה.",
+      "it": "Un animale con cui è stata commessa una trasgressione — come un animale che è stato sodomizzato — è squalificato."
+    },
+    {
+      "n": "3:3",
+      "he": "בְּהֵמָה שֶׁהָרְגָה אֶת הָאָדָם — פְּסוּלָה לְמִזְבֵּחַ.",
+      "it": "Un animale che ha ucciso una persona — è squalificato per l'altare."
+    },
+    {
+      "n": "4:1",
+      "he": "בְּהֵמָה שֶׁנֶּעֶבְדָה עֲבוֹדָה זָרָה — פְּסוּלָה לְמִזְבֵּחַ לְעוֹלָם.",
+      "it": "Un animale che è stato adorato come idolo (avodah zarah) — è squalificato per l'altare per sempre."
+    },
+    {
+      "n": "4:2",
+      "he": "שֶׁנֶּעֱבַד בּוֹ — דְּהַיְנוּ שֶׁעָשׂוּ בּוֹ עֲבוֹדָה זָרָה בְּאֹפֶן כָּלְשֶׁהוּ.",
+      "it": "«Su cui è stata praticata l'idolatria» — ovvero che è stato usato in qualsiasi modo per il culto idolatrico."
+    },
+    {
+      "n": "4:3",
+      "he": "וְלַד בְּהֵמָה שֶׁנֶּעֶבְדָה — כְּשֵׁר לְמִזְבֵּחַ.",
+      "it": "La prole di un animale che è stato adorato come idolo — è idonea per l'altare."
+    },
+    {
+      "n": "4:4",
+      "he": "בְּהֵמָה שֶׁנִּרְבְּעָה — וְלָדָהּ כָּשֵׁר.",
+      "it": "Un animale che è stato sodomizzato — la sua prole è idonea."
+    },
+    {
+      "n": "4:5",
+      "he": "כָּל אֵלּוּ הַפְּסוּלוֹת — אִם עָלוּ לַמִּזְבֵּחַ לֹא יֵרְדוּ.",
+      "it": "Tutti questi squalificati — se sono saliti sull'altare non vengono rimossi."
+    },
+    {
+      "n": "4:6",
+      "he": "חוּץ מִבְּהֵמָה שֶׁנֶּעֶבְדָה — שֶׁאֲפִלּוּ עָלְתָה תֵּרֵד.",
+      "it": "Eccetto l'animale che è stato adorato come idolo — che anche se è salito viene rimosso."
+    }
+  ],
+  "_glossary_terms_used": ["mumim", "Issurei Mizbeiach", "avodah zarah", "pesulim", "mizbeach", "korban"]
+}

@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 7",
+  "name_he": "משנה תורה, הלכות אישות, פרק ז",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-30",
+  "hebrew_date": "17 Elul 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "חייב האיש בעשרה דברים לאשתו, וזוכה בארבעה דברים ממנה.",
+      "it": "Il marito è tenuto a dieci obblighi verso la moglie, e acquista quattro diritti da lei."
+    },
+    {
+      "n": 2,
+      "he": "עשרה דברים שחייב בהם: שאר, כסות, ועונה — אלו כתובים בתורה. ורפואה, פדיון שבויה, קבורה, ופרנסת בניה, ופרנסת בנותיה, וירושת כתובתה — אלו מדברי סופרים.",
+      "it": "I dieci obblighi a cui è tenuto: mantenimento alimentare (she'er), abbigliamento (kesut), e diritti coniugali (onah) — questi tre sono scritti nella Torah. Cure mediche (refu'ah), riscatto dalla prigionia (pidyon shvuyah), sepoltura (kevurah), sostentamento dei figli durante la vedovanza (mezonot banim), sostentamento delle figlie dopo la sua morte (mezonot banot), e l'eredità della ketubah — questi sette sono di origine rabbinica."
+    },
+    {
+      "n": 3,
+      "he": "שאר — חייב לזון את אשתו לפי כבודה.",
+      "it": "She'er (mantenimento alimentare) — è tenuto a nutrire sua moglie in modo adeguato alla sua dignità e al suo livello di vita."
+    },
+    {
+      "n": 4,
+      "he": "כסות — חייב ללבוש אותה לפי מנהג המדינה, ולכל עונה ועונה בגדים הראויים.",
+      "it": "Kesut (abbigliamento) — è tenuto a vestirla secondo le usanze locali (minhag hamedina), e per ogni stagione gli abiti appropriati."
+    },
+    {
+      "n": 5,
+      "he": "עונה — חייב לשמש עמה כדרך בני אדם, בזמן הקבוע לו לפי אומנתו. הפועלים — פעמיים בשבת. הסוחרים — פעם בשבת. החמרים — פעם בשבוע. הגמלים — פעם לשלשים יום.",
+      "it": "Onah (obbligazione coniugale) — è tenuto a vivere con lei secondo l'uso normale, nei tempi stabiliti dalla sua professione. I lavoratori manuali — due volte a settimana. I commercianti che restano in città — una volta a settimana. I conducenti di asini — una volta a settimana. I conducenti di cammelli — una volta ogni trenta giorni."
+    },
+    {
+      "n": 6,
+      "he": "תלמידי חכמים — מצוה לשמש מלילי שבת ללילי שבת.",
+      "it": "I talmidei chakhamim (studiosi di Torah) — la mitzva è di adempiere l'onah dalla notte di Shabbat all'altra notte di Shabbat (ossia una volta a settimana, la notte di Shabbat)."
+    },
+    {
+      "n": 7,
+      "he": "רפואה — אם חלתה, חייב לרפאותה. ואפילו אם אמרה 'הרפא ממוני' — לא שמעין לה.",
+      "it": "Refu'ah (cure mediche) — se si ammalò, è tenuto a curarla. Anche se lei disse 'Curato con i miei soldi' — non la si ascolta (il marito deve coprire le spese mediche)."
+    },
+    {
+      "n": 8,
+      "he": "פדיון שבויה — אם נשבית, חייב לפדותה בכל ממונו.",
+      "it": "Pidyon shvuyah (riscatto dalla prigionia) — se fu fatta prigioniera, è tenuto a riscattarla con tutto il suo patrimonio."
+    },
+    {
+      "n": 9,
+      "he": "קבורה — אם מתה, חייב לקברה ולספוד לה ולהוציא לה כנהוג.",
+      "it": "Kevurah (sepoltura) — se ella morì, è tenuto a seppellirla, ad elevarle un'orazione funebre, e a organizzare tutto secondo la consuetudine."
+    },
+    {
+      "n": 10,
+      "he": "ירושת כתובתה — הבעל יורש את אשתו. ולפיכך תקנו חכמים שיורשי האשה יגבו כתובתה.",
+      "it": "Yerushat ketubah (eredità della ketubah) — il marito eredita la moglie. I Saggi pertanto stabilirono che gli eredi della donna riscuotano la ketubah [come corrispettivo]."
+    }
+  ],
+  "_glossary_terms_used": ["she'er", "kesut", "onah", "refu'ah", "pidyon shvuyah", "kevurah", "mezonot banim", "mezonot banot", "ketubah", "minhag hamedina", "talmidei chakhamim", "yerushat ketubah"]
+}

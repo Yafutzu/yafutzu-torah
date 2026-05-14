@@ -1,0 +1,146 @@
+{
+  "ref": "Mishneh Torah, Blessings 10",
+  "name_he": "הלכות ברכות, פרק י",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 10",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-13",
+  "hebrew_date": "26 Iyyar 5786",
+  "halachot_count": 26,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "בְרָכוֹת אֲחֵרוֹת וּדְבָרִים אֲחֵרִים הַרְבֵּה שֶׁאֵין בָּהֶן פְּתִיחָה וְלֹא חֲתִימָה תִּקְּנוּ חֲכָמִים דֶּרֶךְ שֶׁבַח וְהוֹדָיָה…",
+      "it": "I Saggi hanno istituito altre benedizioni e molti altri detti privi di apertura e chiusura proprie, come espressione di lode e ringraziamento al Santo Benedetto — analoghe alle benedizioni della tefillà già menzionate. Tra queste: chi costruisce una casa nuova o acquista oggetti nuovi — sia che abbia già qualcosa di simile sia che non ce l'abbia — recita: «Benedetto sei Tu, D-o nostro Dio, Re dell'universo, che ci hai vivificato, sostenuto e fatto giungere a questo momento» (shehecheyanu)."
+    },
+    {
+      "n": 2,
+      "he": "וְכֵן הָרוֹאֶה אֶת חֲבֵרוֹ לְאַחַר שְׁלֹשִׁים יוֹם מְבָרֵךְ שֶׁהֶחֱיָנוּ…",
+      "it": "Chi rivede un amico dopo trenta giorni recita «shehecheyanu». Se lo rivede dopo dodici mesi recita: «Benedetto sei Tu, D-o… che resuscita i morti». Chi vede per la prima volta nella stagione un frutto che si rinnova di anno in anno recita «shehecheyanu»."
+    },
+    {
+      "n": 3,
+      "he": "שָׁמַע שְׁמוּעָה טוֹבָה מְבָרֵךְ בָּרוּךְ אַתָּה יְיָ׳ הַטּוֹב וְהַמֵּטִיב…",
+      "it": "Chi apprende una buona notizia recita: «Benedetto… ha-tov ve-ha-meitiv» (il buono che opera il bene). Chi apprende una cattiva notizia recita: «Benedetto… dayan ha-emet» (il vero Giudice). Una persona è tenuta a recitare la benedizione su eventi spiacevoli con serenità d'animo, così come recita la benedizione su eventi lieti con gioia — poiché «amerai il Signore tuo Dio… con tutto il tuo vigore» (Devarim 6:5): incluso in questo amore superiore che ci è stato comandato c'è riconoscere e lodare D-o con gioia anche nel momento della difficoltà."
+    },
+    {
+      "n": 4,
+      "he": "הִגִּיעָה אֵלָיו טוֹבָה אוֹ שֶׁשָּׁמַע שְׁמוּעָה טוֹבָה אַף עַל פִּי שֶׁהַדְּבָרִים מַרְאִין שֶׁטּוֹבָה זוֹ תִּגְרֹם לוֹ רָעָה…",
+      "it": "Se gli è capitata una cosa buona o ha sentito una buona notizia — anche se apparentemente questa buona cosa potrebbe causargli danno — recita ha-tov ve-ha-meitiv. Se gli è capitata una cosa cattiva o ha sentito una cattiva notizia — anche se apparentemente questo male potrebbe portargli bene — recita dayan ha-emet. Le benedizioni si recitano su ciò che accade nel presente, non su ciò che potrebbe accadere in futuro."
+    },
+    {
+      "n": 5,
+      "he": "יָרְדוּ גְּשָׁמִים רַבִּים. אִם יֵשׁ לוֹ שָׂדֶה מְבָרֵךְ שֶׁהֶחֱיָנוּ…",
+      "it": "Per abbondanti piogge: se possiede un campo tutto suo recita «shehecheyanu»; se il campo è in comproprietà con altri recita ha-tov ve-ha-meitiv. Se non possiede un campo recita: «Ti rendiamo grazie, D-o nostro Dio, per ogni singola goccia che hai fatto scendere su di noi. Se la nostra bocca fosse piena [di canti come il mare di acqua]… tutte loderebbero, esalterebbero e benedirebbero il Tuo nome, nostro Re. Benedetto sei Tu, D-o, Dio dall'abbondante gratitudine e lode.»"
+    },
+    {
+      "n": 6,
+      "he": "מֵאֵימָתַי מְבָרְכִין עַל הַגְּשָׁמִים מִשֶּׁיִּרְבֶּה הַמַּיִם עַל הָאָרֶץ…",
+      "it": "Quando si recita la benedizione per le piogge? Quando l'acqua si accumola abbondantemente sulla terra, le gocce di pioggia formano bolle sull'acqua raccolta e le bolle cominciano a scorrere le une verso le altre."
+    },
+    {
+      "n": 7,
+      "he": "אָמְרוּ לוֹ מֵת אָבִיו וִירָשָׁהוּ. אִם יֵשׁ עִמּוֹ אַחִין…",
+      "it": "Se gli riferiscono che suo padre è morto e lui ne eredita: se ha fratelli (che condividono l'eredità) recita prima dayan ha-emet e poi ha-tov ve-ha-meitiv. Se non ha fratelli recita «shehecheyanu». Regola generale: ogni buona cosa che è sua e anche degli altri richiede ha-tov ve-ha-meitiv; una buona cosa che è solo sua richiede «shehecheyanu»."
+    },
+    {
+      "n": 8,
+      "he": "אַרְבָּעָה צְרִיכִין לְהוֹדוֹת…",
+      "it": "Quattro categorie di persone sono tenute a rendere grazie: il malato guarito, il carcerato liberato, chi ha compiuto un viaggio per mare rientrato a terra, e il viaggiatore giunto a destinazione. Devono rendere grazie in presenza di dieci persone, di cui due siano saggi, come è detto: «Lo esaltino nell'assemblea del popolo e nella sede degli anziani lo lodino» (Tehillim 107:32). Come si rende grazie? Si sta in mezzo a loro e si recita: «Benedetto sei Tu, D-o nostro Dio, Re dell'universo, che ricompensa i meritevoli di bene, che mi ha ricompensato con tutto il bene» (birkat ha-gomèl). I presenti rispondono: «Colui che ti ha ricompensato con il bene, Ti ricompensi sempre con il bene. Sela.»"
+    },
+    {
+      "n": 9,
+      "he": "הָרוֹאֶה מָקוֹם שֶׁנַּעֲשׂוּ נִסִּים לְיִשְׂרָאֵל…",
+      "it": "Chi vede un luogo in cui furono compiuti miracoli per il popolo d'Israele — come il Mare dei Giunchi o i guadi del Giordano — recita: «Benedetto… che ha compiuto miracoli per i nostri antenati in questo luogo». Lo stesso vale per qualunque luogo in cui furono compiuti miracoli per molti. Dove il miracolo fu compiuto per un singolo, quel singolo, suo figlio e suo nipote recitano: «Benedetto… che ha compiuto un miracolo per me in questo luogo» o «per i miei antenati in questo luogo». Chi vede la fossa dei leoni o la fornace ardente in cui furono gettati Chananyà, Mishaèl e Azaryà recita: «Benedetto… che ha compiuto miracoli per i giusti in questo luogo». Chi vede un luogo in cui si pratica l'idolatria recita: «Benedetto… che dà pazienza a quanti trasgrediscono la Sua volontà». Dove l'idolatria è stata sradicata in Eretz Yisrael: «che ha sradicato l'idolatria dalla nostra terra»; in Diaspora: «da questo luogo». In entrambi i casi aggiunge: «Come l'hai sradicata da questo luogo, così sradicala da ogni luogo, e volgi il cuore dei suoi adoratori a servirTi»."
+    },
+    {
+      "n": 10,
+      "he": "הָרוֹאֶה בָּתֵּי יִשְׂרָאֵל בְּיִשּׁוּבָן…",
+      "it": "Chi vede un insediamento di case ebraiche fiorenti recita: «Benedetto… che stabilisce il confine della vedova». Se le vede in rovina dice: «Benedetto… il vero Giudice». Chi vede cimiteri ebraici recita: «Benedetto… che vi ha creati con giustizia, vi ha giudicati con giustizia, vi ha sostenuti con giustizia, vi ha tolto la vita con giustizia, e che un giorno vi risusciterà con giustizia alla vita del mondo futuro. Benedetto sei Tu, D-o, che resuscita i morti»."
+    },
+    {
+      "n": 11,
+      "he": "הָרוֹאֶה שֵׁשׁ מֵאוֹת אֶלֶף אָדָם כְּאֶחָד…",
+      "it": "Chi vede seicentomila persone insieme: se sono non ebrei recita il versetto di Geremia (50:12): «Si è grandemente vergognata vostra madre…». Se sono ebrei e si trovano in Eretz Yisrael recita: «Benedetto… chakham ha-razìm» (saggio dei segreti). Chi vede un saggio tra i popoli del mondo: «Benedetto… che ha dato della Sua saggezza alla carne e al sangue». Saggi d'Israele: «…che ha dato della Sua saggezza a quelli che Lo temono». Re d'Israele: «…che ha dato della Sua gloria e della Sua potenza a quelli che Lo temono». Re dei popoli del mondo: «…che ha dato della Sua gloria alla carne e al sangue»."
+    },
+    {
+      "n": 12,
+      "he": "הָרוֹאֶה אֶת הַכּוּשִׁי וְאֶת הַמְשֻׁנִּין בְּצוּרַת פְּנֵיהֶן…",
+      "it": "Chi vede persone con lineamenti del viso o degli arti insoliti recita: «Benedetto… meshanè et ha-beriyòt» (che varia le creature). Chi vede un cieco, uno storpio, un malato di lebbra o di vitiligine e simili recita «dayan ha-emet»; se sono nati così: «meshanè et ha-beriyòt». Chi vede un elefante, una scimmia o un gufo recita: «Benedetto… meshanè et ha-beriyòt»."
+    },
+    {
+      "n": 13,
+      "he": "הָרוֹאֶה בְּרִיּוֹת נָאוֹת וּמְתֻקָּנוֹת בְּיוֹתֵר וְאִילָנוֹת טוֹבוֹת…",
+      "it": "Chi vede creature o alberi di straordinaria bellezza recita: «…il cui mondo è fatto così». Chi esce nei campi o nei giardini nel mese di Nisan e vede alberi in fiore e germogli che spuntano recita: «Benedetto… che non ha lasciato mancare nulla nel Suo mondo e vi ha creato creature buone e alberi belli e piacevoli affinché gli esseri umani ne traggano piacere»."
+    },
+    {
+      "n": 14,
+      "he": "עַל הָרוּחוֹת שֶׁנָּשְׁבוּ בְּזַעַף וְעַל הַבְּרָקִים…",
+      "it": "Su venti tempestosi, lampi, tuoni, fragori possenti uditi dalla terra come grandi macine, stelle cadenti o comete: su ciascuno di essi si recita «Benedetto… she-kocho u-gevurato malè olam» (il cui potere e la cui forza riempiono il mondo). Se preferisce può recitare «oseh ma'asè bereshìt» (che compie l'opera della creazione)."
+    },
+    {
+      "n": 15,
+      "he": "עַל הֶהָרִים וְעַל הַגְּבָעוֹת עַל הַיַּמִּים…",
+      "it": "Chi vede montagne, colline, mari, deserti o fiumi dopo un intervallo di trenta giorni recita «oseh ma'asè bereshìt». Chi vede il Grande Mare (Mediterraneo) dopo trenta giorni o più recita: «Benedetto… she-asà et ha-yam ha-gadòl» (che ha creato il grande mare)."
+    },
+    {
+      "n": 16,
+      "he": "הָרוֹאֶה קֶשֶׁת בֶּעָנָן…",
+      "it": "Chi vede un arcobaleno recita: «Benedetto… zokhèr ha-berìt ve-ne'emàn bi-verità ve-kayam be-ma'amaRò» (che ricorda il patto, è fedele al Suo patto e mantiene la Sua parola). Chi vede la luna al suo rinnovamento recita la berachà «kidush levana»: «Benedetto… che ha creato i cieli con la Sua parola e tutti i loro eserciti con il soffio della Sua bocca. Ha assegnato loro legge e tempo fisso affinché non alterino le loro funzioni. Gioiosi e lieti compiono la volontà del loro Creatore. Operai fedeli, la loro opera è giusta. E alla luna ha detto di rinnovarsi come corona di gloria per chi Egli portò nel ventre — essi sono destinati a rinnovarsi come lei e a glorificare il loro Creatore per la gloria del Suo regno e per tutto ciò che ha creato. Benedetto sei Tu, D-o, che rinnova i mesi»."
+    },
+    {
+      "n": 17,
+      "he": "וְצָרִיךְ לְבָרֵךְ בְּרָכָה זוֹ מְעֻמָּד…",
+      "it": "Questa benedizione si recita in piedi. Chi recita la benedizione sulla luna nel suo tempo è come se ricevesse il volto della Shekhinà. Se non l'ha recitata la prima notte può farlo fino al sedicesimo del mese, finché la luna sia ancora piena."
+    },
+    {
+      "n": 18,
+      "he": "הָרוֹאֶה אֶת הַחַמָּה בְּיוֹם תְּקוּפַת נִיסָן שֶׁל תְּחִלַּת הַמַּחֲזוֹר שֶׁל שְׁמוֹנֶה וְעֶשְׂרִים שָׁנָה…",
+      "it": "Chi vede il sole nel giorno dell'equinozio di primavera all'inizio del ciclo di ventotto anni — quando il solstizio cade all'inizio della notte di mercoledì — e lo vede il mercoledì mattina recita «oseh ma'asè bereshìt». Lo stesso vale quando la luna raggiunge l'inizio della costellazione dell'Ariete all'inizio del mese senza inclinazioni né a nord né a sud; quando ciascuno dei cinque pianeti restanti raggiunge l'inizio della costellazione dell'Ariete senza inclinazioni; e quando si vede la costellazione dell'Ariete sorgere all'orizzonte orientale."
+    },
+    {
+      "n": 19,
+      "he": "הָרוֹאֶה בָּתֵּי עַכּוּ״ם בְּיִשּׁוּבָן…",
+      "it": "Chi vede un insediamento di case di non ebrei fiorente recita il versetto (Mishlei 15:25): «Il Signore abbatterà la casa dei superbi». Se le vede in rovina recita il versetto (Tehillim 94:1): «D-o delle vendette, D-o delle vendette, manifestaTi». Chi vede cimiteri di non ebrei recita il versetto di Geremia (50:12): «Si è grandemente vergognata vostra madre…»."
+    },
+    {
+      "n": 20,
+      "he": "הַנִּכְנָס לַמֶּרְחָץ…",
+      "it": "Chi entra in un bagno termale dice: «Sia volontà dinanzi a Te, D-o mio Dio, di farmi entrare in pace e uscire in pace, e di salvarmi da questo e da situazioni simili in futuro». All'uscita dice: «Rendo grazie a Te, D-o mio Dio, per avermi salvato dal fuoco»."
+    },
+    {
+      "n": 21,
+      "he": "הַנִּכְנָס לְהַקִּיז דָּם…",
+      "it": "Chi si reca per un salasso dice: «Sia volontà dinanzi a Te, D-o mio Dio, che questa operazione sia per me guarigione, poiché Tu sei il guaritore gratuito». All'uscita recita la benedizione: «Benedetto sei Tu, D-o… rofé cholìm» (guaritore degli infermi)."
+    },
+    {
+      "n": 22,
+      "he": "הַהוֹלֵךְ לָמֹד גָּרְנוֹ…",
+      "it": "Chi si reca a misurare il proprio granaio dice: «Sia volontà dinanzi a Te, D-o mio Dio, di mandare benedizione all'opera delle mie mani». Quando inizia a misurare dice: «Benedetto colui che manda benedizione su questo cumulo». Se ha pregato dopo aver già misurato, quella è una preghiera vana — e così chiunque invoca D-o su quanto è già accaduto recita una preghiera vana."
+    },
+    {
+      "n": 23,
+      "he": "הַנִּכְנָס לְבֵית הַמִּדְרָשׁ…",
+      "it": "Chi entra nella casa di studio (beit ha-midrash) dice: «Sia volontà dinanzi a Te, D-o mio Dio, che io non inciampi in una questione di halachà; che non dichiari puro ciò che è impuro né impuro ciò che è puro; che non dichiari permesso ciò che è proibito né proibito ciò che è permesso; che io non inciampi in una questione halàchica facendo ridere i miei colleghi di me, né loro inciampino e rida io di loro»."
+    },
+    {
+      "n": 24,
+      "he": "וּבִיצִיאָתוֹ מִבֵּית הַמִּדְרָשׁ…",
+      "it": "All'uscita dalla casa di studio dice: «Rendo grazie a Te, D-o mio Dio, che hai posto la mia parte tra chi siede nella casa di studio e non tra chi siede agli angoli delle strade. Entrambi ci alziamo di buon mattino: io mi alzo per le parole della Torah, essi per cose vane. Entrambi lavoriamo: io lavoro per la Torah e ricevo ricompensa; essi lavorano e non ricevono ricompensa. Entrambi corriamo: io corro alla vita del mondo futuro, essi corrono alla fossa»."
+    },
+    {
+      "n": 25,
+      "he": "הַנִּכְנָס לִכְרַךְ…",
+      "it": "Chi entra in una grande città dice: «Sia volontà dinanzi a Te, D-o mio Dio, di farmi entrare in questa città in pace». Se è entrato in pace dice: «Rendo grazie a Te, D-o mio Dio, per avermi fatto entrare in pace». Quando desidera uscire dice: «Sia volontà… di farmi uscire da questa città in pace». Se è uscito in pace dice: «Rendo grazie a Te, D-o mio Dio, per avermi fatto uscire in pace. Come mi hai fatto uscire in pace, così guidami in pace, indirizza i miei passi in pace, sostienimi in pace e salvami dalle mani del nemico e degli agguati lungo la strada»."
+    },
+    {
+      "n": 26,
+      "he": "כְּלָלוֹ שֶׁל דָּבָר לְעוֹלָם יִצְעַק אָדָם עַל הֶעָתִיד לָבוֹא…",
+      "it": "Regola generale: una persona deve sempre invocare D-o per il futuro e chiederGli misericordia; deve rendere grazie per ciò che è già accaduto, lodando e ringraziando secondo le proprie forze. Chi moltiplica le lodi e il ringraziamento a D-o in modo continuo — costui è degno di lode."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shehecheyanu", "ha-tov ve-ha-meitiv", "dayan ha-emet", "birkat ha-gomèl",
+    "she-kocho u-gevurato malè olam", "oseh ma'asè bereshìt", "kidush levana",
+    "Shekhinà", "beit ha-midrash", "rofé cholìm", "chakham ha-razìm", "meshanè et ha-beriyòt"
+  ]
+}

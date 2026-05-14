@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 17",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת יז",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettera 17",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-26",
+  "hebrew_date": "11 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "צְדָקָה תַּצִּיל מִמָּוֶת — סוֹד עָמֹק...",
+      "it": "Lettera 17: L'Alter Rebbe spiega il versetto 'tzedakah tatzil mimavet' — la carità salva dalla morte (Proverbi 10:2). Il senso più profondo non è solo fisico: la tzedakah ha il potere di 'salvare' l'anima dal 'morte spirituale' dell'esilio dell'anima nella kelipah. Dare tzedakah è un atto di riparazione (tikkun) che eleva sia il donatore che il ricevente."
+    },
+    {
+      "n": 2,
+      "he": "הַנּוֹתֵן צְדָקָה — נְשָׁמָתוֹ מִתְעַלָּה...",
+      "it": "Chi dà tzedakah: la sua anima si eleva (neshamato mit'aleh). L'Alter Rebbe spiega la kabbala della tzedakah: il denaro che una persona dà viene trasformato da kelipah (forza impura) in kedushah (santità). Quando si dà il proprio denaro guadagnato con fatica a un povero, si 'redime' quella forza vitale dal dominio della kelipah e la si eleva alla sfera della kedushah."
+    },
+    {
+      "n": 3,
+      "he": "יֵשׁ בְּצְדָקָה כֹּחַ מְיוּחָד...",
+      "it": "La tzedakah ha un potere speciale che supera anche la preghiera e lo studio della Torah per certi aspetti: mentre la preghiera e lo studio elevano i vestiti spirituali dell'anima, la tzedakah eleva la vita vitale stessa (chiyut) dell'anima, poiché il denaro rappresenta la forza vitale investita nel lavoro. Dare tzedakah è letteralmente dare parte di sé stessi a un altro. Per questo ha il potere di 'salvare dalla morte' — fisica e spirituale."
+    }
+  ],
+  "_glossary_terms_used": ["tzedakah", "tzedakah tatzil mimavet", "tikkun", "kelipah", "kedushah", "neshamah", "chiyut", "Alter Rebbe", "Tanya", "Iggeret HaKodesh"]
+}

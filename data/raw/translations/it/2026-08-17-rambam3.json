@@ -1,0 +1,87 @@
+{
+  "ref": "Mishneh Torah, Hilchot Parah Adumah 5-7",
+  "name_he": "משנה תורה, הלכות פרה אדומה, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi della Vacca Rossa, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-08-17",
+  "hebrew_date": "4 Elul 5786",
+  "halachot_count": 15,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "כיצד מזין? לוקח האזוב ומטבל במי חטאת ומזה על הטמא. מצוה לקחת שלשה קלחי אזוב.",
+      "it": "Come si effettua l'aspersione (hazayah)? Si prende l'issopo (ezov) e lo si immerge nelle mei chatat (le acque purificate con le ceneri della vacca rossa) e si asperge sul tameh (colui che è impuro). Il precetto richiede di prendere tre steli di issopo."
+    },
+    {
+      "n": "5:2",
+      "he": "הוא מזה ביום השלישי וביום השביעי לטומאתו. אין מזין פחות מפעמיים.",
+      "it": "Si asperge nel terzo giorno e nel settimo giorno dell'impurità. Non si asperge meno di due volte."
+    },
+    {
+      "n": "5:3",
+      "he": "אין מזה אלא כהן טהור. ואם הזה זר — לא עשה כלום.",
+      "it": "L'aspersione può essere effettuata soltanto da un Kohen (sacerdote) puro. Se la effettuò uno straniero (zar) — non fece nulla."
+    },
+    {
+      "n": "5:4",
+      "he": "המזה — צריך שיכוון לשם טהרה, שנאמר: 'וטיהר את הבית'.",
+      "it": "Chi asperge — deve avere intenzione (kavvanah) a scopo di purificazione, come è detto: 'E purificò la casa'."
+    },
+    {
+      "n": "6:1",
+      "he": "המים הפסולים: מים שנשאבו קודם שנתנו בהם האפר — פסולים. מים שנשתנה צבעם — פסולים.",
+      "it": "Le acque invalide: acque che furono attinte prima che vi fosse aggiunta la cenere — sono invalide. Acque il cui colore è cambiato — sono invalide."
+    },
+    {
+      "n": "6:2",
+      "he": "האזוב הפסול: אזוב שאינו מין אזוב — פסול. אזוב שנגזר לפסול — פסול.",
+      "it": "L'issopo invalido: issopo che non è della specie dell'issopo (Origanum syriacum) — invalido. Issopo che è stato tagliato in modo invalido — invalido."
+    },
+    {
+      "n": "6:3",
+      "he": "כהן שהזה כשהוא טמא — לא עשה כלום, ועצמו חייב מלקות.",
+      "it": "Un Kohen che effettuò l'aspersione pur essendo tameh — non fece nulla, e lui stesso è passibile di flagellazione (malkot)."
+    },
+    {
+      "n": "7:1",
+      "he": "כל העוסק בפרה אדומה — מתחילה ועד סוף — מטמא בגדים. וזהו מהפרדוקסים הגדולים של התורה: המטהר — מטמא.",
+      "it": "Chiunque si occupi della vacca rossa — dall'inizio alla fine — rende impuri i propri abiti. Questo è uno dei grandi paradossi della Torah: il purificatore — diventa impuro."
+    },
+    {
+      "n": "7:2",
+      "he": "פרה אדומה — היא חוק, גזירת המלך, שאין טעמה נגלה לנו. רק למשה נגלה הטעם.",
+      "it": "La vacca rossa (Parah Adumah) è un chok (un decreto del Re Divino) il cui motivo non ci è rivelato. Solo a Mosè fu rivelato il motivo."
+    },
+    {
+      "n": "7:3",
+      "he": "ולמרות שאין אנו יודעים את הטעם — חייבים לקיים את המצוה, שנאמר: 'זאת חוקת התורה'.",
+      "it": "E nonostante non conosciamo il motivo — siamo tenuti ad adempire il precetto, come è detto: 'Questo è lo statuto (chukat) della Torah' (Numeri 19:2)."
+    },
+    {
+      "n": "7:4",
+      "he": "הכהן הגדול שסידר את הפרה — מטמא, ואינו יכול לעבוד עבודתו עד שיטבול וייטהר.",
+      "it": "Il Kohen Gadol che preparò la vacca — diventa tameh, e non può svolgere il servizio nel Tempio finché non si immerga e si purifichi."
+    },
+    {
+      "n": "7:5",
+      "he": "ובאמת — אין בתורה כולה דבר טהור ומטמא בבת אחת. אלא כאן — מי החטאת — מטהרים את הטמא ומטמאים את הטהור.",
+      "it": "In tutta la Torah non vi è cosa che purifichi e contamini allo stesso tempo. Ma qui — le mei chatat (le acque della purificazione) — purificano il tameh e rendono impuro il tahor (il puro)."
+    },
+    {
+      "n": "7:6",
+      "he": "זהו הפרדוקס של הפרה האדומה שאמר שלמה המלך: 'אמרתי אחכמה והיא רחוקה ממני'.",
+      "it": "Questo è il paradosso della vacca rossa riguardo al quale il re Salomone disse: 'Ho detto che avrei acquisito saggezza, ma essa è lontana da me' (Ecclesiaste 7:23)."
+    },
+    {
+      "n": "7:7",
+      "he": "בזמן הזה שאין בית המקדש — אין אפשרות לטהר טמא מת. וכל ישראל נחשבים טמאי מת, וסומכין על כך שהטומאה ברשות הרבים ספקה.",
+      "it": "Ai nostri giorni senza il Bet HaMikdash — non è possibile purificare un tameh (impuro) per tumat met (impurità cadaverica). Tutti gli Israeliti sono considerati impuri da tumat met, e ci si basa sul fatto che l'impurità nel dominio pubblico è di status dubbio (safek)."
+    },
+    {
+      "n": "7:8",
+      "he": "ולכן יש הנמנעים מלהיכנס לבית קברות — כדי שלא להוסיף על הטומאה. ויש מחמירין בזה הכהנים ביותר.",
+      "it": "Pertanto vi sono coloro che si astengono dall'entrare nei cimiteri — per non aggiungere all'impurità. E i Kohanim sono particolarmente severi in ciò."
+    }
+  ],
+  "_glossary_terms_used": ["hazayah", "ezov", "mei chatat", "tameh", "Kohen", "zar", "kavvanah", "malkot", "chok", "chukat", "Kohen Gadol", "tumat met", "safek"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 26",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כו",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 26",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-02",
+  "hebrew_date": "19 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כלל גדול בעבודת ה': שאין להיות עצוב ומדוכא, אפילו אם האדם יודע בעצמו שחטא. כי העצבות מונעת מן האדם את עבודת ה', ואי אפשר לאדם לעבוד את ה' כשהוא שרוי בעצבות.",
+      "it": "Una regola fondamentale nel servizio di D-o: non ci si deve lasciare sopraffare dalla tristezza (atzvut) né dall'abbattimento, nemmeno se si sa di aver peccato. Poiché la tristezza impedisce il servizio di D-o, e nessuno può servire D-o adeguatamente quando è immerso nell'atzvut."
+    },
+    {
+      "n": 2,
+      "he": "אבל יש הבדל גדול בין 'לב נשבר' — שהוא הכאב הפנימי שמרגיש האדם על כך שחטא ורחק מה', כאב הבא מתוך אהבה — לבין 'עצבות', שהיא מרה שחורה וייאוש. ה'לב נשבר' מועיל ומזרז את האדם לתשובה; ואילו ה'עצבות' מזיקה ומונעת.",
+      "it": "Ma vi è una distinzione fondamentale tra il 'lev nishbar' (cuore spezzato) — il dolore interiore per aver peccato e per essersi allontanati da D-o, un dolore che nasce dall'amore — e l'atzvut, che è malinconia e disperazione. Il cuore spezzato è utile e stimola la teshuvah; l'atzvut invece è nociva e paralizzante."
+    },
+    {
+      "n": 3,
+      "he": "לפיכך, הדרך הנכונה היא: בשעת עבודת ה' — לשמוח שמחה גדולה. ובשעת חשבון הנפש, שמייחד לו זמן מיוחד מחוץ לשעת העבודה — אז להרגיש צער אמיתי על חטאיו, בלא ייאוש ובלא עצבות. וה'מרירות' הבונה — שהיא הצער הנכון — מביאה את האדם לתשובה שלמה.",
+      "it": "Pertanto, la via giusta è: nel tempo del servizio di D-o ci si rallegra con grande gioia. Nel tempo dell'esame di coscienza (cheshbon ha-nefesh), dedicato appositamente al di fuori del tempo del servizio, si prova un dolore autentico per i propri peccati — senza disperazione e senza atzvut. La 'merirut' (amarezza costruttiva) — che è il giusto dolore — porta la persona alla teshuvah completa."
+    }
+  ],
+  "_glossary_terms_used": ["atzvut", "lev nishbar", "merirut", "cheshbon ha-nefesh", "teshuvah"]
+}

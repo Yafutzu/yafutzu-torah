@@ -1,0 +1,96 @@
+{
+  "ref": "Mishneh Torah, Blessings 8",
+  "name_he": "הלכות ברכות, פרק ח",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-11",
+  "hebrew_date": "24 Iyyar 5786",
+  "halachot_count": 16,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל פֵּרוֹת הָאִילָן מְבָרְכִין עֲלֵיהֶן בַּתְּחִלָּה בּוֹרֵא פְּרִי הָעֵץ וּלְבַסּוֹף בּוֹרֵא נְפָשׁוֹת רַבּוֹת חוּץ מֵחֲמֵשֶׁת הַמִּינִין הַכְּתוּבִין בַּתּוֹרָה…",
+      "it": "Su tutti i frutti dell'albero si recita all'inizio «borei perì ha-etz» e alla fine «borei nefashot rabbòt», ad eccezione delle cinque specie menzionate nella Torah — uva, melograni, fichi, olive e datteri — su cui si recita alla fine la berachà me-ein shalosh. Su frutti della terra e verdure si recita all'inizio «borei perì ha-adamà» e alla fine «borei nefashot rabbòt». Su cose che non crescono dalla terra — come carne, formaggio, pesce, uova, acqua, latte, miele e simili — si recita all'inizio «shehakòl» e alla fine «borei nefashot rabbòt». Chi beve acqua non per dissetarsi non è tenuto a recitare alcuna benedizione, né prima né dopo."
+    },
+    {
+      "n": 2,
+      "he": "הַסּוֹחֵט פֵּרוֹת וְהוֹצִיא מֵהֶן מַשְׁקִין מְבָרֵךְ עֲלֵיהֶן בַּתְּחִלָּה שֶׁהַכֹּל וּלְבַסּוֹף בּוֹרֵא נְפָשׁוֹת…",
+      "it": "Chi spreme frutta (eccetto uva e olive) e ne ricava liquidi recita all'inizio «shehakòl» e alla fine «borei nefashot». Sul vino si recita «borei perì ha-gafen» all'inizio e la berachà me-ein shalosh alla fine. Sull'olio si recita all'inizio «borei perì ha-etz». In quale caso? Quando aveva mal di gola e ha bevuto l'olio insieme al brodo di cottura e simili, poiché ne ha goduto. Se però ha bevuto l'olio da solo, oppure non aveva mal di gola, recita «shehakòl», perché non ha goduto del sapore dell'olio."
+    },
+    {
+      "n": 3,
+      "he": "פֵּרוֹת אוֹ יְרָקוֹת שֶׁדַּרְכָּן לְהֵאָכֵל חַיִּים אִם בִּשְׁלָן אוֹ שְׁלָקָן מְבָרֵךְ עֲלֵיהֶן בַּתְּחִלָּה שֶׁהַכֹּל…",
+      "it": "Frutti o verdure che normalmente si mangiano crudi, se cotti o lessati: si recita «shehakòl» all'inizio e «borei nefashot» alla fine. Verdure che normalmente si mangiano cotte — come cavolo e rapa — se mangiate crude: «shehakòl» all'inizio e «borei nefashot» alla fine; se cotte o lessate: «borei perì ha-adamà» all'inizio e «borei nefashot» alla fine. Cose che normalmente si mangiano sia crude sia cotte: si recita la benedizione appropriata al tipo — frutto dell'albero «borei perì ha-etz», frutto della terra o verdure «borei perì ha-adamà»."
+    },
+    {
+      "n": 4,
+      "he": "יְרָקוֹת שֶׁדַּרְכָּן לְהִשָּׁלֵק שְׁלָקָן מְבָרֵךְ עַל מֵי שֶׁלֶק שֶׁלָּהֶן בּוֹרֵא פְּרִי הָאֲדָמָה…",
+      "it": "Verdure che normalmente si lessano: sul loro brodo di cottura si recita «borei perì ha-adamà» — purché le si sia lessate per berne il liquido, poiché il brodo equivale alle verdure stesse nel luogo in cui si usa berlo. Sul miele di datteri si recita «shehakòl». Datteri impastati a mano, privati dei noccioli e plasmati in una pasta densa: si recita all'inizio «borei perì ha-etz» e alla fine la berachà me-ein shalosh."
+    },
+    {
+      "n": 5,
+      "he": "הַקָּנִים הַמְּתוּקִים שֶׁסּוֹחֲטִין אוֹתָן וּמְבַשְּׁלִין מֵימֵיהֶן עַד שֶׁיִּקְפָּא וְיִדְמֶה לְמֶלַח…",
+      "it": "Sulle canne dolci di cui si estrae il succo e si cuoce fino a cristallizzarlo come sale: la maggior parte dei Geonim prescrive «borei perì ha-adamà»; alcuni dicono «borei perì ha-etz». Così dicono anche per chi succhia le canne: «borei perì ha-adamà». Io dico che questo non è un frutto e si recita solo «shehakòl» — il «miele» di queste canne, alterato dal fuoco, non può avere un trattamento migliore del miele di datteri, che non è alterato dal fuoco e pure richiede «shehakòl»."
+    },
+    {
+      "n": 6,
+      "he": "הַקּוֹר וְהוּא רֹאשׁ הַדֶּקֶל שֶׁהוּא כְּמוֹ עֵץ לָבָן מְבָרֵךְ עָלָיו בַּתְּחִלָּה שֶׁהַכֹּל…",
+      "it": "Sul cuore di palma (kòr), bianco come legno, si recita «shehakòl». Sui fiori del capperifoglio si recita «borei perì ha-adamà», perché non sono frutto. I boccioli del capperifoglio — il frutto stesso, simili a piccoli datteri sottili — richiedono «borei perì ha-etz»."
+    },
+    {
+      "n": 7,
+      "he": "הַפִּלְפְּלִין וְהַזַּנְגְּבִיל בִּזְמַן שֶׁהֵן רְטֻבִּין מְבָרֵךְ עֲלֵיהֶן בּוֹרֵא פְּרִי הָאֲדָמָה…",
+      "it": "Su pepe e zenzero freschi si recita «borei perì ha-adamà». Secchi, non richiedono alcuna benedizione né prima né dopo, perché sono condimenti e non cibo. Allo stesso modo, cibi non idonei all'alimentazione e bevande non idonee al consumo non richiedono alcuna benedizione, né prima né dopo."
+    },
+    {
+      "n": 8,
+      "he": "הַפַּת שֶׁעִפְּשָׁה וְהַיַּיִן שֶׁהִקְרִים וְתַבְשִׁיל שֶׁעָבְרָה צוּרָתוֹ וְהַנּוֹבְלוֹת…",
+      "it": "Su pane ammuffito, vino velato (che ha fatto pellicola), pietanza che ha perso la sua forma, frutta acerba caduta dall'albero, birra, aceto, cavallette, sale, tartufi e funghi si recita «shehakòl». Tutto ciò su cui si recita «shehakòl» richiede «borei nefashot» alla fine. Ogni alimento che richiede una benedizione finale richiede anche una benedizione iniziale."
+    },
+    {
+      "n": 9,
+      "he": "שְׁמָרִים שֶׁנָּתַן עֲלֵיהֶם שְׁלֹשָׁה וְהוֹצִיא מֵהֶן אַרְבָּעָה מְבָרֵךְ עֲלֵיהֶן בּוֹרֵא פְּרִי הַגָּפֶן…",
+      "it": "Fecce su cui si sono versate tre misure d'acqua e se ne sono ricavate quattro: si recita «borei perì ha-gafen», perché questo è vino diluito. Se se ne sono ricavate meno di quattro, anche con sapore di vino, si recita «shehakòl» all'inizio."
+    },
+    {
+      "n": 10,
+      "he": "בֵּרֵךְ עַל פֵּרוֹת הָאִילָן בּוֹרֵא פְּרִי הָאֲדָמָה יָצָא…",
+      "it": "Chi ha recitato «borei perì ha-adamà» su frutti dell'albero ha assolto il proprio obbligo. Chi ha recitato «borei perì ha-etz» su frutti della terra non ha assolto. Su qualsiasi cibo, se ha recitato «shehakòl», ha assolto — anche sul pane e sul vino."
+    },
+    {
+      "n": 11,
+      "he": "לָקַח כּוֹס שֶׁל שֵׁכָר בְּיָדוֹ וְהִתְחִיל הַבְּרָכָה עַל מְנָת לוֹמַר שֶׁהַכֹּל וְטָעָה וְאָמַר בּוֹרֵא פְּרִי הַגָּפֶן…",
+      "it": "Chi ha preso in mano una coppa di birra con l'intenzione di dire «shehakòl», ma ha sbagliato dicendo «borei perì ha-gafen» — non si fa ripetere. Analogamente, se aveva davanti frutti della terra intendendo dire «borei perì ha-adamà» e ha sbagliato dicendo «borei perì ha-etz» — non si fa ripetere. Così pure se aveva davanti una pietanza di cereali con l'intenzione di dire «borei minei mezonòt» e ha detto «ha-motzi» — ha assolto l'obbligo. Poiché quando ha menzionato il Nome e la regalità — che sono l'essenza della benedizione — intendeva la benedizione appropriata a quell'alimento; non avendo errato nell'essenza, ha assolto anche sbagliando nella conclusione."
+    },
+    {
+      "n": 12,
+      "he": "כָּל הַבְּרָכוֹת הָאֵלּוּ אִם נִסְתַּפֵּק לוֹ בָּהֶם אִם בֵּרֵךְ אוֹ לֹא בֵּרֵךְ אֵינוֹ חוֹזֵר וּמְבָרֵךְ…",
+      "it": "Per tutte queste benedizioni, nel dubbio se abbia benedetto o meno, non si ripete la benedizione — né prima né dopo — poiché sono di istituzione rabbinica. Chi ha dimenticato e ha introdotto cibo in bocca senza benedizione: se erano bevande, le inghiotte e recita la benedizione finale. Se erano frutti che diventerebbero repellenti se sputati — come more o uva — li sposta a lato e recita la benedizione, poi li inghiotte. Se non diventerebbero repellenti — come fave o piselli — li sputa, recita la benedizione a bocca libera, poi mangia."
+    },
+    {
+      "n": 13,
+      "he": "הָיוּ לְפָנָיו מִינִין הַרְבֵּה אִם הָיוּ בִּרְכוֹתֵיהֶן שָׁווֹת מְבָרֵךְ עַל אַחַת מֵהֶם…",
+      "it": "Se davanti a lui vi erano più tipi di cibo con la stessa benedizione: recita su uno e include gli altri. Se le benedizioni differiscono: recita su ciascuno la propria. Può dare la precedenza a quello che preferisce. Se li preferisce ugualmente: se tra essi vi è una delle sette specie, recita prima su quella. La specie menzionata prima nel versetto ha la precedenza. Le sette specie sono quelle del versetto (Devarim 8:8): frumento, orzo, vite, fico, melograno, olivo e miele — che è il miele di datteri. I datteri precedono l'uva: i datteri sono menzionati secondi rispetto alla parola «terra», l'uva è terza."
+    },
+    {
+      "n": 14,
+      "he": "בְּרָכָה אַחַת שֶׁהִיא מֵעֵין שָׁלֹשׁ שֶׁל חֲמֵשֶׁת הַמִּינִין שֶׁל פֵּרוֹת וְשֶׁל יַיִן הִיא שֶׁל מִינֵי הַדָּגָן…",
+      "it": "La berachà me-ein shalosh per le cinque specie di frutti e per il vino è analoga a quella per i cereali, salvo che per i frutti si dice «sul legno e sul frutto del legno e sul prodotto del campo e sulla terra preziosa…» e per il vino «sulla vite e sul frutto della vite». In entrambi i casi si conclude «sulla terra e sui frutti»; in Eretz Yisrael «sulla terra e sui suoi frutti». Vi è chi aggiunge prima della chiusura «poiché Tu, D-o, sei buono e operi il bene» come quarta benedizione; e vi è chi sostiene che la quarta benedizione fu istituita solo per la birkat ha-mazon."
+    },
+    {
+      "n": 15,
+      "he": "שָׁתָה יַיִן וְאָכַל תְּמָרִים וְאָכַל תַּבְשִׁיל שֶׁל חֲמֵשֶׁת מִינֵי דָּגָן מְבָרֵךְ בָּאַחֲרוֹנָה…",
+      "it": "Chi ha bevuto vino, mangiato datteri e mangiato una pietanza di cinque specie di cereali recita alla fine un'unica benedizione: «Benedetto sei Tu, D-o nostro Dio, Re dell'universo, per il nutrimento e il sostentamento, per la vite e il frutto della vite, per il legno e il frutto del legno e per il prodotto del campo e per la terra preziosa…» e conclude «Benedetto sei Tu, D-o, per la terra e per il nutrimento e per i frutti»."
+    },
+    {
+      "n": 16,
+      "he": "אֲבָל אִם אָכַל בָּשָׂר וְשָׁתָה יַיִן מְבָרֵךְ בַּסּוֹף עַל זֶה בִּפְנֵי עַצְמוֹ וְעַל זֶה בִּפְנֵי עַצְמוֹ…",
+      "it": "Se invece ha mangiato carne e bevuto vino, recita alla fine una benedizione separata per ciascuno. Se ha mangiato fichi o uva con mele, pere e simili, recita alla fine la berachà me-ein shalosh: essa include tutto, poiché sono tutti frutti dell'albero. Lo stesso principio vale in tutti i casi analoghi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "borei perì ha-etz", "borei perì ha-adamà", "borei nefashot rabbòt", "shehakòl",
+    "berachà me-ein shalosh", "borei perì ha-gafen", "borei minei mezonòt", "ha-motzi",
+    "birkat ha-mazon", "Geonim"
+  ]
+}

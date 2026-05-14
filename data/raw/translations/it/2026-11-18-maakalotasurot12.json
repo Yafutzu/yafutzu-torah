@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 12",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק יב",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 12",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-18",
+  "hebrew_date": "9 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "דָּבָר שֶׁאֵינוֹ נֶאֱכָל כְּמוֹת שֶׁהוּא חַי וְרָאוּי לַשֻּׁלְחַן הַמְּלָכִים — נִתְבַּשֵּׁל עַל יְדֵי עוֹבֵד כּוֹכָבִים — אָסוּר…",
+      "it": "Il cibo che non può essere mangiato crudo (come grano, carne, legumi) e che è degno di essere servito alla tavola dei re (shulchan melachim) — se è stato cotto interamente da un non ebreo — è proibito (bishul akum). Questo è un decreto rabbinico (gezerah de-rabbanan) che mira a prevenire l'intimità sociale tra ebrei e non ebrei che potrebbe portare all'intermarriage. Due condizioni devono essere soddisfatte insieme: (1) non mangiabile crudo; (2) degno della tavola reale."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד יַעֲשֶׂה הַיִּשְׂרָאֵל כְּדֵי שֶׁלֹּא יִהְיֶה בִּישּׁוּל עַכּוּ״ם — יַדְלִיק הָאֵשׁ…",
+      "it": "Come può l'ebreo evitare che si applichi il divieto di bishul akum? Basta che l'ebreo partecipi in qualunque parte del processo di cottura. Se l'ebreo accende il fuoco (yadlik ha-esh) — anche se poi il non ebreo cuoce tutto il cibo — il cibo è permesso. Alcune autorità sono più indulgenti e permettono persino che l'ebreo solo mescoli o aggiunga un ingrediente durante la cottura. Il Rambam accetta che la partecipazione ebraica anche minima sia sufficiente."
+    },
+    {
+      "n": 3,
+      "he": "הַבִּישּׁוּל שֶׁנַּעֲשָׂה בִּכְלֵי רִאשׁוֹן…",
+      "it": "Il processo di cottura che avviene in un «kli rishon» (primo recipiente — quello che era sul fuoco) è il più importante ai fini di bishul akum. Se il cibo è stato trasferito in un secondo recipiente (kli sheni) da un non ebreo dopo che la cottura è completata, non si applica il divieto, poiché la cottura rilevante è già avvenuta. La definizione di «cottura» ai fini di bishul akum segue i criteri della halachah: raggiungimento del punto di «maachal ben drosai» (commestibilità parziale)."
+    },
+    {
+      "n": 4,
+      "he": "דָּגִים קְטַנִּים שֶׁמְּלָחָן עוֹבֵד כּוֹכָבִים — יֵשׁ מִי שֶׁמַּתִּיר…",
+      "it": "Pesci piccoli che sono stati salati da un non ebreo — vi è chi li permette, poiché la salatura non è equiparata alla cottura ai fini di bishul akum. Il Rambam riporta l'opinione permissiva riguardo ai pesci salati, poiché il pesce è mangiabile anche crudo (sashimi, per esempio). Dunque non soddisfa la prima condizione di bishul akum (non mangiabile crudo). Le uova bollite da non ebrei: alcune autorità le permettono poiché l'uovo è in qualche misura mangiabile crudo."
+    },
+    {
+      "n": 5,
+      "he": "פַּת שֶׁאֲפָאָהּ עוֹבֵד כּוֹכָבִים — בִּמְקוֹם שֶׁיֵּשׁ נַחְתּוֹמִין יִשְׂרָאֵל — אֲסוּרָה…",
+      "it": "Il pane cotto da un non ebreo (pat akum): in un luogo dove vi sono fornai ebrei (nahtomim Yisrael), il pane di un non ebreo è proibito. In un luogo dove non vi sono fornai ebrei — alcuni autorizzano il consumo di pat akum per necessità, poiché la restrizione rabbinica mira a prevenire l'intimità sociale, non a creare privazione impossibile. Questa distinzione riflette il principio che i decreti rabbinali tengono conto della praticabilità (lo tigzor gezerah she-ein ha-tzibbur yakhol la-amod bah)."
+    },
+    {
+      "n": 6,
+      "he": "הַשֶּׁמֶן שֶׁל עוֹבְדֵי כּוֹכָבִים — מֻתָּר…",
+      "it": "L'olio dei non ebrei — è permesso. Il Rambam riporta che i Saggi avevano inizialmente decretato contro l'olio di non ebrei, ma questo decreto fu poi revocato da Rabbi Yehudah HaNasi perché non era stato accettato dalla maggioranza del popolo d'Israele. Questo caso è un esempio importante del principio «gezerah she-lo kabaluh» — un decreto non accettato dalla comunità non ha forza legale. L'olio di non ebrei dunque rimane permesso, a differenza del vino."
+    }
+  ],
+  "_glossary_terms_used": [
+    "bishul akum", "gezerah de-rabbanan", "shulchan melachim", "kli rishon", "kli sheni", "maachal ben drosai", "pat akum", "nahtomim", "gezerah she-lo kabaluh"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 18-20",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים יח-כ",
+  "name_it": "Mishneh Torah, Leggi del Creditore e del Debitore, capitoli 18-20",
+  "cycle": "rambam-3",
+  "date": "2026-11-19",
+  "hebrew_date": "10 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "18:1-5",
+      "he": "שְׁמִטַּת כְּסָפִים — בְּמוֹצָאֵי שְׁבִיעִית — מִשְׁמֶטֶת…",
+      "it": "(Malveh VeLoveh cap. 18, hal. 1-5) La shemitat kesafim (remissione dei debiti nell'anno sabbatico): al termine dell'anno shemitah (il settimo anno), tutti i prestiti privati vengono cancellati automaticamente. Il creditore non può più reclamare il debito — anche se il debitore vuole pagare, il creditore dovrebbe dichiarare che rimette il debito. Questa legge biblica mira a prevenire l'accumulo di povertà cronica e a redistribuire le ricchezze nella società ebraica ogni settimo anno."
+    },
+    {
+      "n": "18:6-10",
+      "he": "רָאוּ שֶׁנִּמְנְעוּ מִלְּהַלְווֹת זֶה אֶת זֶה…",
+      "it": "(Malveh VeLoveh cap. 18, hal. 6-10) I Saggi osservarono che si trattenevano dal prestare denaro all'avvicinarsi dell'anno sabbatico — per timore di perdere il credito. Hillel il Vecchio vide che questo causava un grave danno ai poveri (che non riuscivano a ottenere prestiti) e aveva violato il precetto «Non indurire il cuore e non chiudere la mano al tuo fratello povero» (Deut. 15:7). Hillel istituì il prozbul come soluzione legale."
+    },
+    {
+      "n": "19:1-5",
+      "he": "פְּרוֹזְבּוּל — תַּקָּנַת הִלֵּל הַזָּקֵן הִיא…",
+      "it": "(Malveh VeLoveh cap. 19, hal. 1-5) Il prozbul — è la takkanah (decreto) di Hillel il Vecchio. Consiste in un documento redatto davanti al beit din in cui il creditore «trasferisce» formalmente i propri crediti al tribunale. Poiché la shemitat kesafim cancella solo i debiti privati tra individui, ma non quelli «in mano» al beit din, il prozbul esenta il prestito dalla remissione sabbatica. Il creditore può così riscuotere anche dopo la shemitah. Hillel fu autorizzato a questa innovazione perché aveva forza normativa per il bene comune (tikun ha-olam)."
+    },
+    {
+      "n": "20:1-5",
+      "he": "כֵּיצַד כּוֹתְבִין פְּרוֹזְבּוּל…",
+      "it": "(Malveh VeLoveh cap. 20, hal. 1-5) Come si redige il prozbul? Il creditore viene davanti a un beit din di tre giudici e dichiara: «Trasmetto a voi, giudici di [luogo], tutti i crediti che ho, affinché possiate riscuoterli in qualsiasi momento». Il beit din firma il documento. Il prozbul deve essere redatto prima della fine dell'anno shemitah. Dopo che è stato redatto, il debitore non può più liberarsi del debito con la scusa della shemitah. Il Rambam aggiunge: il prozbul è un esempio di come i Saggi abbiano usato l'ingegno legale per equilibrare ideale e realtà."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shemitat kesafim", "shemitah", "prozbul", "takkanah", "beit din", "tikun ha-olam"
+  ]
+}

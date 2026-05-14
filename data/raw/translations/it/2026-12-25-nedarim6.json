@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 6",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ו",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-25",
+  "hebrew_date": "16 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵי זֶה דָּבָר חָל עָלָיו הַנֵּדֶר — כָּל דָּבָר שֶׁיֵּשׁ בּוֹ מַמָּשׁ…",
+      "it": "Su quali oggetti può cadere un neder? Su qualsiasi cosa che abbia sostanza concreta e che sia di uso normale per l'uomo. Cibi kasher, cibi proibiti (anche su questi si può fare un neder, ma la proibizione è già presente indipendentemente), oggetti materiali, azioni. Il principio: il neder deve riguardare qualcosa che ha realtà concreta (mamash) nel mondo — non concetti astratti, non stati d'essere."
+    },
+    {
+      "n": 2,
+      "he": "הַנּוֹדֵר מִן הָאֱסוּר — אֵינוֹ מוֹסִיף אִיסּוּר…",
+      "it": "Chi vota di astenersi da un alimento già proibito dalla Torah — non aggiunge alcun divieto. Il cibo proibito è già proibito; il neder su di esso è superfluo. Tuttavia i Saggi hanno discusso: se qualcuno vota deliberatamente su un alimento proibito, si preoccupa di comunicare qualcosa? Alcuni sostengono che il voto si riferisce a qualcosa di permesso nello stesso genere. La regola pratica: il neder su alimenti proibiti non crea doppio divieto, ma la pronuncia del neder ha comunque il peso formale del giuramento."
+    },
+    {
+      "n": 3,
+      "he": "הַנּוֹדֵר שֶׁלֹּא לֶאֱכֹל — הֲרֵי זֶה כּוֹלֵל כָּל אֳכָלִין…",
+      "it": "Chi vota di non mangiare — include tutti i cibi. Ma se il voto è specifico («non mangerò carne»), include solo la carne e non si estende ad altre proteine. La Torah ha insegnato: «È meglio non votare che votare e non mantenere» (Kohelet 5:4). Il Rambam commenta: un uomo che si astiene completamente dal fare voti è lodato dalla Torah. La santità del sistema non richiede che si usi — richiede solo che, quando lo si usa, lo si usi con serietà assoluta."
+    },
+    {
+      "n": 4,
+      "he": "הַנּוֹדֵר לְהַזִּיק לְגוּפוֹ — שְׁאֵלָה בַּפּוֹסְקִים…",
+      "it": "Chi vota di danneggiarsi fisicamente — i decisori halakhici discutono se il voto sia valido. Da un lato, il corpo appartiene a D-o e non è dell'uomo da usare come meglio crede; dall'altro, la Torah permette il digiuno e l'afflizione del corpo nei giorni sacri. La conclusione pratica: un neder che impone un'afflizione moderata (digiuno di un giorno) è valido; un neder che imporrebbe danni permanenti o severi è nullo, perché nessuno può fare un voto in contrasto con il diritto di D-o sul corpo umano."
+    },
+    {
+      "n": 5,
+      "he": "חוֹמֶר הַנְּדָרִים — אָמְרָה תּוֹרָה «טוֹב אֲשֶׁר לֹא תִדֹּר»…",
+      "it": "La severità dei voti: la Torah stessa dice «meglio non votare» (Kohelet 5:4). Il Rambam riprende questa nota: chi si astiene interamente dal fare voti — è lodato. Chi fa voti ma li mantiene — adempie la legge. Chi fa voti e non li mantiene — è in grave pericolo spirituale. La via dei chasidim (pii) è di evitare i voti nella vita quotidiana, riservando i voti solenni solo a momenti di grande importanza spirituale — come i Tashlumin (voti di offerta di ringraziamento) o i voti di donazione a istituzioni Torah."
+    },
+    {
+      "n": 6,
+      "he": "הַמִּסְתָּרֵק מִן הַנְּדָרִים — הֲרֵי הוּא מְשֻׁבָּח…",
+      "it": "Chi si allontana dai voti — è lodevole. Questo è il punto culminante del capitolo: il Rambam, dopo aver dettagliato tutta la struttura dei voti, conclude con un insegnamento etico fondamentale. Il sistema dei voti esiste perché la natura umana a volte richiede vincoli formali per realizzare impegni. Ma l'ideale è una vita in cui la parola della persona è così affidabile che i voti formali non sono necessari — dove «sì è sì» e «no è no» senza bisogno di invocare il nome divino. Questo è lo stadio più alto dell'integrità personale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "neder", "mamash", "kasher", "chasidim", "Tashlumin", "Kohelet"
+  ]
+}

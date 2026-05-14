@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 37",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לז",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 37",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-13",
+  "hebrew_date": "30 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אין לאדם רשות לפטור עצמו מאפילו מצוה אחת. כי כל מצוה ומצוה — יש לה שורש מיוחד בנשמה, ואם לא קיים את המצוה — חסרה אותה מדרגה בנשמה. ואין מצוה יכולה לתחליף מצוה אחרת.",
+      "it": "Non è lecito esentarsi nemmeno da un singolo precetto. Poiché ogni precetto ha una radice propria nella neshama, e se non lo si compie manca quel livello nella neshama. Nessun precetto può sostituire un altro precetto."
+    },
+    {
+      "n": 2,
+      "he": "כשאדם מקיים מצוה אחת — הוא מוסיף אור ביחידה אחת של נשמתו. וכשמקיים כל שש מאות ושלוש עשרה מצוות — כל חלקי הנשמה מתמלאים באור. ולכן חשיבות כל מצוה — אפילו הנראית קטנה — היא עצומה.",
+      "it": "Quando si compie un precetto, si aggiunge luce a una specifica unità della propria neshama. Quando si adempiono tutte le 613 mitzvot (seicento e tredici precetti), tutte le parti della neshama si riempiono di luce. Pertanto l'importanza di ogni precetto — anche quello che sembra piccolo — è immensa."
+    },
+    {
+      "n": 3,
+      "he": "לפיכך, אפילו עבירה קלה שאדם עשה — 'חסר' אור באחד מאיברי הנשמה. ולכן 'כבדה עלי ידך' — עונש החטא הוא בעצם אובדן אותה מדרגה. ותשובה — מחזירה את האור שחסר.",
+      "it": "Pertanto, anche una piccola trasgressione commessa — 'manca' luce in uno dei membri della neshama. Ecco perché 'la tua mano pesa su di me' (Tehillim 32:4) — la punizione del peccato è in realtà la perdita di quel livello. La teshuvah restituisce la luce che mancava."
+    }
+  ],
+  "_glossary_terms_used": ["neshama", "mitzvot", "teshuvah"]
+}

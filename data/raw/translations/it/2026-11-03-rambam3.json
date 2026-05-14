@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Shutafin 8; Avadim 1-2",
+  "name_he": "משנה תורה, הלכות שותפין פרק ח; הלכות עבדים פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi dei Soci cap. 8; Leggi degli Schiavi capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-11-03",
+  "hebrew_date": "23 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "8:1-5",
+      "he": "שֻׁתָּפוּת שֶׁמֵּת אֶחָד מֵהַשֻּׁתָּפִים — הַשֻּׁתָּפוּת בְּטֵלָה…",
+      "it": "(Shutafin cap. 8, hal. 1-5) La società si scioglie automaticamente quando uno dei soci muore. I beni comuni passano agli eredi del socio defunto, che diventano comproprietari al posto del defunto. Il socio superstite non ha alcun diritto preferenziale di acquisto della quota degli eredi. Gli eredi hanno gli stessi diritti del socio defunto — incluso il diritto di richiedere la divisione dei beni. Se la società aveva debiti in corso — il socio superstite deve liquidarli con la quota della società, e il rimanente va agli eredi. «Si concludono le Leggi dei Soci con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "1:1-4",
+      "he": "עֶבֶד כְּנַעֲנִי — נִקְנֶה בְּכֶסֶף, בִּשְׁטָר, וּבְחֲזָקָה…",
+      "it": "(Avadim cap. 1, hal. 1-4) L'eved Canaani (schiavo canaanita): acquisito tramite denaro (kesef), documento (shtar), o possesso (chazakah). Lo schiavo canaanita è un non-ebreo che entra nel nucleo familiare ebraico attraverso l'acquisizione. Viene circonciso (brit milah) al momento dell'acquisizione se maschio, e si immerge nel mikveh. Osserva le mitzvot positive legate al tempo come una donna ebrea (mitzvot aseh she-ha-zman grama). Il padrone ha piena proprietà sul corpo dello schiavo durante il periodo di schiavitù, ma deve trattarlo con rispetto umano."
+    },
+    {
+      "n": "2:1-5",
+      "he": "עֶבֶד עִבְרִי — נִמְכָּר עַל גְּנֵבָתוֹ אוֹ מוֹכֵר עַצְמוֹ…",
+      "it": "(Avadim cap. 2, hal. 1-5) L'eved Ivri (schiavo ebreo): un ebreo può diventare schiavo in due modi: (1) nimkar al gnevato — viene venduto dal beit din in pagamento di un furto che non può risarcire; (2) mokher atzmo — si vende volontariamente per estrema povertà. Entrambi servono sei anni (Esodo 21:2). Al settimo anno — l'anno di shemitah — viene liberato senza pagamento. Il padrone dell'eved Ivri deve trattarlo «ke-sachir» (come un lavoratore dipendente): non gli può assegnare lavori umilianti, deve nutrirlo e vestirlo adeguatamente, e deve anche provvedere alla sua famiglia se è sposato."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shutafut", "eved Canaani", "eved Ivri", "kesef", "shtar", "chazakah", "brit milah", "mikveh", "mitzvot aseh she-ha-zman grama", "beit din", "shemitah", "sachir"
+  ]
+}

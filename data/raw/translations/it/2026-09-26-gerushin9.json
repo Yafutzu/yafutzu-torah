@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 9",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ט",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 9",
+  "cycle": "rambam-1",
+  "date": "2026-09-26",
+  "hebrew_date": "15 Tishrei 5787",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "גֵּט שֶׁנִּמְצָא בָּטֵל לְאַחַר שֶׁנִּשֵּׂאת — יֵשׁ לְהַבְחִין: אִם הָיְתָה הַשֵּׁנִי בְּחַיֵּי הָרִאשׁוֹן — הִיא כְּאִשֶּׁת אִישׁ לְכָל דָּבָר.",
+      "it": "Un get trovato invalido dopo il secondo matrimonio — occorre distinguere: se si era risposata durante la vita del primo marito — è come una donna sposata per ogni cosa."
+    },
+    {
+      "n": 2,
+      "he": "אִשָּׁה שֶׁנִּשֵּׂאת עַל פִּי גֵּט שֶׁנִּמְצָא פָּסוּל — אִם מֵת הַבַּעַל הָרִאשׁוֹן — בִּיאָתָהּ בְּשֵׁנִי הִיא בִּיאַת זְנוּת. הַוָּלָד מַמְזֵר.",
+      "it": "Una donna risposatasi sulla base di un get trovato invalido — se il primo marito è poi morto — il suo rapporto con il secondo era illecito. Il figlio è un mamzer."
+    },
+    {
+      "n": 3,
+      "he": "הַגֵּט הַמּוּטָּל בְּסָפֵק — כְּגוֹן שֶׁאֵין יָדוּעַ אִם הַגֵּט הוּא שֶׁלָּהּ — הָאִשָּׁה לְחֻמְרָה.",
+      "it": "Un get incerto — ad esempio se non si sa se il get è suo — nei riguardi della donna si è severi."
+    },
+    {
+      "n": 4,
+      "he": "הַכֹּהֵן שֶׁנָּשָׂא גְּרוּשָׁה בְּסָפֵק — בֵּין אִם גֵּרְשָׁהּ גֵּט שֶׁנִּמְצָא פָּסוּל — אָסוּר לוֹ לִשְׁאַת אוֹתָהּ מִסָּפֵק.",
+      "it": "Un cohen che ha sposato una donna divorziata con get che si è poi rivelato invalido — non può risposarla per il dubbio se fosse gerushah."
+    },
+    {
+      "n": 5,
+      "he": "סָפֵק גְּרוּשָׁה — לְכֹהֵן אֲסוּרָה לְכַתְּחִלָּה. לְיִשְׂרָאֵל — מֻתֶּרֶת.",
+      "it": "Una donna dubbiosamente divorziata — a un cohen è proibita a priori. A un comune israelita — è permessa."
+    },
+    {
+      "n": 6,
+      "he": "הָאִשָּׁה שֶׁנִּשֵּׂאת עַל פִּי גֵּט שֶׁנִּמְצָא פָּסוּל לְיִשְׂרָאֵל — יֵשׁ מַחְלֹקֶת אִם הִיא צְרִיכָה גֵּט מִשְּׁנֵיהֶם.",
+      "it": "Una donna risposatasi sulla base di un get trovato invalido con un comune israelita — vi è una disputa se abbia bisogno di un get da entrambi."
+    },
+    {
+      "n": 7,
+      "he": "הָרַמְבַּ\"ם פָּסַק שֶׁצְּרִיכָה גֵּט מִשְּׁנֵיהֶם, שֶׁסָּפֵק גֵּרוּשִׁין לְחֻמְרָה.",
+      "it": "Il Rambam ha stabilito che ha bisogno di un get da entrambi, perché il dubbio di divorzio si risolve in modo severo."
+    },
+    {
+      "n": 8,
+      "he": "גֵּט שֶׁנִּכְתַּב בְּחוּץ לָאָרֶץ וְלֹא אָמַר הַשָּׁלִיחַ 'בְּפָנַי נִכְתַּב' — הוּא סָפֵק גֵּט.",
+      "it": "Un get scritto fuori dalla Terra d'Israele dove l'agente non ha dichiarato 'Davanti a me è stato scritto' — è un get dubbioso."
+    },
+    {
+      "n": 9,
+      "he": "כָּתַב בְּאֶרֶץ יִשְׂרָאֵל וּמָסַר בְּחוּץ לָאָרֶץ — כָּשֵׁר, שֶׁהַכְּתִיבָה הִיא בְּאֶרֶץ יִשְׂרָאֵל.",
+      "it": "Scritto in Terra d'Israele e consegnato fuori — valido, perché la scrittura è in Terra d'Israele."
+    },
+    {
+      "n": 10,
+      "he": "כָּתַב בְּחוּץ לָאָרֶץ וּמָסַר בְּאֶרֶץ יִשְׂרָאֵל — צָרִיךְ הַשָּׁלִיחַ לְהָעִיד.",
+      "it": "Scritto fuori dalla Terra d'Israele e consegnato in Terra d'Israele — l'agente deve testimoniare."
+    },
+    {
+      "n": 11,
+      "he": "גֵּט שֶׁנִּמְצָא בֵּין שְׁטָרוֹת שֶׁל אִשָּׁה — אֵינָהּ מְגֹרֶשֶׁת בּוֹ אֶלָּא אִם כֵּן יֵשׁ עֵדִים שֶׁנִּתַּן לָהּ.",
+      "it": "Un get trovato tra i documenti di una donna — non è divorziata per mezzo di esso a meno che non vi siano testimoni che le fu consegnato."
+    },
+    {
+      "n": 12,
+      "he": "הֵבִיאָה הִיא אֶת גֵּטָּהּ — נֶאֱמֶנֶת לוֹמַר שֶׁהוּא שֶׁלָּהּ. שֶׁאֵין חֶזְקַת סְתָם גֵּט שֶׁנִּמְצָא שֶׁהוּא שֶׁלָּהּ.",
+      "it": "Se ha portato lei stessa il suo get — è credibile nel dire che è suo, perché non vi è presunzione che un get trovato normalmente sia suo."
+    },
+    {
+      "n": 13,
+      "he": "שְׁנֵי גִּיטִּין שֶׁנִּמְצְאוּ קְשׁוּרִים זֶה עִם זֶה — בְּעָלֵיהֶם הֵן שֶׁצָּרִיכִים לְסַיֵּעַ בְּעֵדוּת.",
+      "it": "Due get trovati legati l'uno all'altro — i loro proprietari sono quelli che devono aiutare con la testimonianza."
+    },
+    {
+      "n": 14,
+      "he": "יוֹם טוֹב שֶׁל סוּכּוֹת הַיּוֹם — שִׂמְחַת הֶחָג לֵאוֹר לָנוּ. כָּל דִּין שֶׁנִּלְמָד בְּיוֹם שִׂמְחָה — לִשְׁמוֹ מִתְקַדֵּשׁ.",
+      "it": "Oggi è il primo giorno di Sukkot (Yom Tov) — la gioia della festa ci illumini. Ogni legge studiata in un giorno di gioia — si santifica nel suo nome."
+    }
+  ],
+  "_glossary_terms_used": ["get patur", "safek gerushah", "kohen", "Sukkot", "mamzer", "gerushin"]
+}

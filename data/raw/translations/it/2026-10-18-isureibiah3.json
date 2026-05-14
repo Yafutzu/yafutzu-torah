@@ -1,0 +1,64 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 3",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק ג",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-18",
+  "hebrew_date": "7 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַבָּא עַל אֵשֶׁת אִישׁ — שְׁנֵיהֶם חַיָּבִין מִיתָה…",
+      "it": "Chi ha rapporti con la moglie di un altro uomo (eshet ish) — entrambi sono soggetti alla pena di morte: la donna e l'uomo. La Torah proibisce l'adulterio nel decalogo («lo tin'af») e in Vayikra 20:10. La pena è la chenek (strangolazione) — la pena di morte «minore» del sistema giudiziario ebraico — per entrambi gli adulteri quando la donna è già completamente sposata (nesu'ah)."
+    },
+    {
+      "n": 2,
+      "he": "נַעֲרָה הַמְאֹרָסָה — הַבָּא עָלֶיהָ וְהִיא מְאֹרָסָה לְאִישׁ — שְׁנֵיהֶם בִּסְקִילָה…",
+      "it": "Una fanciulla fidanzata (na'arah ha-me'orasah — una vergine giovane che è nello stadio di erusin, fidanzamento formale) — se ha rapporti con un altro uomo entrambi sono puniti con la sekilah (lapidazione), la forma più grave di pena capitale nel sistema ebraico. Questo vale specificamente se è avvenuto in città — dove si presume che avrebbe potuto gridare e non lo ha fatto. La lapidazione si applica solo a questa categoria specifica: fidanzata + vergine + in città."
+    },
+    {
+      "n": 3,
+      "he": "נַעֲרָה הַמְאֹרָסָה שֶׁזִּנְּתָה בַּשָּׂדֶה — הָאִישׁ בִּלְבַד נֶהֱרָג…",
+      "it": "Se una fanciulla fidanzata ha rapporti in campagna (ba-sadeh) — solo l'uomo è messo a morte (sekilah), ma non lei. La ragione: in campagna si presume che la donna abbia gridato ma non ci fosse nessuno ad ascoltarla (violenza senza possibilità di soccorso). Questo principio — che la posizione geografica modifica la presunzione di consenso — è un importante principio procedurale del diritto penale ebraico."
+    },
+    {
+      "n": 4,
+      "he": "הַבָּא עַל הַנְּשׂוּאָה — הֵם בְּחֶנֶק, וְאִם הָיָה כֹּהֵן — הִיא בִּשְׂרֵפָה…",
+      "it": "Nel caso di adulterio con una donna completamente sposata (nesu'ah) — entrambi ricevono la pena di chenek (strangolazione). Eccezione: se il marito è un kohen (sacerdote), la pena della moglie adultera cambia in srefah (morte per combustione), poiché la moglie di un kohen è soggetta a una severità maggiore. Questo riflette il principio che i kohanim e le loro mogli sono tenuti a un livello superiore di santità (kedushah)."
+    },
+    {
+      "n": 5,
+      "he": "מַה בֵּין מְאֹרָסָה לִנְשׂוּאָה לְעִנְיַן עוֹנֶשׁ זֶנוּת…",
+      "it": "Differenza tra erusin (fidanzamento) e nisuin (matrimonio completo) rispetto alle pene per adulterio: con la me'orasah (fidanzata), il fidanzato acquisisce diritti legali sulla donna — quindi un rapporto con un altro è adulterio biblico. Tuttavia, per la me'orasah vale la sekilah; per la nesu'ah (sposata), la chenek. La logica halakhica: il fidanzamento crea un legame così significativo da rendere l'adulterio comparabile a quello durante il matrimonio vero, ma la diversità di pena riflette i gradi del rapporto."
+    },
+    {
+      "n": 6,
+      "he": "הַבֹּגֶרֶת הַמְאֹרָסָה — הַבָּא עָלֶיהָ בֵּין בָּעִיר בֵּין בַּשָּׂדֶה — שְׁנֵיהֶם בְּחֶנֶק…",
+      "it": "Una donna adulta fidanzata (bogeret me'orasah — una donna che ha superato l'adolescenza e ha compiuto i 12 anni e mezzo) — sia che i rapporti avvengano in città che in campagna — entrambi ricevono chenek, non sekilah. La distinzione tra na'arah (fanciulla giovane tra i 12 e i 12 anni e mezzo) e bogeret è cruciale nel diritto ebraico: la na'arah fidanzata in città è l'unico caso di sekilah per adulterio."
+    },
+    {
+      "n": 7,
+      "he": "אֵין הָאִשָּׁה נֶאֱסֶרֶת עַל בַּעְלָהּ אֶלָּא בְּבִיאָה גְּמוּרָה…",
+      "it": "Una donna non è proibita al proprio marito a causa di adulterio se non vi è stato un rapporto completo (bi'ah gemurah). Semplici atti di intimità (chibbukim u-neshikot — abbracci e baci) con un altro uomo, per quanto riprovevoli moralmente, non rendono la donna proibita al marito dal punto di vista halakhico. La proibizione che rende la donna adultera — «neeseret al ba'alah» — si applica solo dopo bi'ah gemurah."
+    },
+    {
+      "n": 8,
+      "he": "אֵשֶׁת אִישׁ שֶׁזִּנְּתָה בְּאֹנֶס — מֻתֶּרֶת לְבַעְלָהּ…",
+      "it": "Una moglie che ha subito violenza (ones — costrizione fisica) da parte di un altro uomo — rimane permessa al proprio marito. La violenza non crea la proibizione dell'adulterio, poiché la donna non ha agito volontariamente. Eccezione importante: la moglie di un kohen che è stata violata — è proibita al marito kohen, poiché la Torah impone alla moglie del kohen requisiti di purezza rituale che includono il non essere stata con altro uomo anche involontariamente."
+    },
+    {
+      "n": 9,
+      "he": "הָאִישׁ שֶׁקִּנֵּא לְאִשְׁתּוֹ וְנִסְתְּרָה — אֲסוּרָה עָלָיו עַד שֶׁתִּשְׁתֶּה…",
+      "it": "Un marito che ha formalmente avvertito sua moglie (kinui — avvertimento formale) di non isolarsi con un determinato uomo, e poi lei si è isolata con quell'uomo (satirah — seclusion) — la donna è proibita al marito fino a che non abbia bevuto le acque amare della sotah nel Tempio (dopo la distruzione del Tempio, è proibita permanentemente e deve ricevere il divorzio). L'avvertimento (kinui) seguito dall'isolamento (satirah) crea la presunzione di infedeltà."
+    },
+    {
+      "n": 10,
+      "he": "הַמֵּבִיא גֵּט לְאִשְׁתּוֹ וְשָׁלַח לָהּ — מִיַּד שֶׁהִגִּיעַ הַגֵּט לְיָדָהּ, נֶאֶסְרָה עַל כָּל אָדָם…",
+      "it": "Quando il marito ha inviato il divorzio (get) e questo è arrivato nelle mani della moglie — immediatamente la donna diventa «gerushah» (divorziata) e cessa di essere «eshet ish». I rapporti con lei a partire da quel momento non sono più adulterio. Tuttavia, il Rambam sottolinea il principio conclusivo del capitolo: la santità del matrimonio ebraico è di tale natura che ogni trasgressione delle sue leggi tocca la santità stessa del popolo d'Israele — «am kadosh» (popolo santo). Le leggi dell'eshet ish sono al cuore della struttura familiare e della kedushah di Israele."
+    }
+  ],
+  "_glossary_terms_used": [
+    "eshet ish", "erusin", "nisuin", "nesu'ah", "me'orasah", "sekilah", "chenek", "srefah", "kinui", "satirah", "sotah", "bi'ah gemurah", "ones", "bogeret", "na'arah", "get", "gerushah", "kedushah"
+  ]
+}

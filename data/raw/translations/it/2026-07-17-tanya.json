@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 5-6",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרקים ה-ו",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitoli 5-6",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-17",
+  "hebrew_date": "3 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פרק ה: וְזֶהוּ שֶׁכָּתוּב: 'כִּי קָרוֹב אֵלֶיךָ הַדָּבָר מְאֹד בְּפִיךָ וּבִלְבָבְךָ לַעֲשֹׂתוֹ'. כִּי הַבֵּינוֹנִי — אֵין הָרַע גּוֹבֵר בּוֹ לְגַמְרֵי וְלֹא הַטּוֹב לְגַמְרֵי.",
+      "it": "Capitolo 5: Questo è quanto scritto: 'Perché la cosa è molto vicina a te, nella tua bocca e nel tuo cuore per farla' (Deuteronomio 30:14). Poiché nel Beinoni (l'uomo intermedio) — né il male lo domina completamente, né il bene completamente."
+    },
+    {
+      "n": 2,
+      "he": "וּמִלְחֶמֶת שְׁתֵּי הַנְּשָׁמוֹת — הִיא בְּמֹחַ, שֶׁשָּׁם הִיא עִיקַר מִלְחַמְתָּן. כִּי שָׁם שְׁלֹשָׁה לְבוּשִׁים: מַחֲשָׁבָה, דִּבּוּר, וּמַעֲשֶׂה.",
+      "it": "La guerra tra le due anime si combatte nel cervello (moach), poiché lì è il luogo principale del conflitto. Poiché lì si trovano i tre 'vestimenti' dell'anima: il pensiero (machshavah), la parola (dibbur) e l'azione (ma'aseh)."
+    },
+    {
+      "n": 3,
+      "he": "פרק ו: הַבֵּינוֹנִי — הוּא שֶׁאֵין הָרָע מִתְגַּבֵּר בּוֹ כָּל כָּךְ שֶׁיָּצֵא לִפֹּעַל בִּשְׁלֹשָׁה לְבוּשִׁים. אֲבָל בְּלִבּוֹ — שׁוֹלֵט הָרָע בְּשָׁעָה שֶׁשּׁוֹלֵט.",
+      "it": "Capitolo 6: Il Beinoni è colui nel quale il male non prevale al punto da manifestarsi nei tre vestimenti dell'anima (azione, parola o pensiero intenzionale). Tuttavia nel suo cuore — il male domina nelle ore in cui domina."
+    },
+    {
+      "n": 4,
+      "he": "וְלָכֵן הַבֵּינוֹנִי אֵינוֹ מַסְתַּפֵּק בְּ'טוֹב פַּסִּיבִי', אֶלָּא לוֹחֵם תָּמִיד בְּיִצְרוֹ. כִּי מִלְחֶמֶת הַיֵּצֶר — עִנְיַן הַבֵּינוֹנִי תָּמִיד.",
+      "it": "Perciò il Beinoni non si accontenta di una 'bontà passiva', ma combatte continuamente il suo istinto. Poiché la guerra contro il proprio istinto è la condizione perenne del Beinoni."
+    }
+  ],
+  "_glossary_terms_used": ["Beinoni", "nefesh ha-behamit", "nefesh ha-Elokit", "moach", "machshavah", "dibbur", "ma'aseh", "yetzer"]
+}

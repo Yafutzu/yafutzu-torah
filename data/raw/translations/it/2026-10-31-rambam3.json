@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Shekhenim 13-14; Shutafin 1",
+  "name_he": "משנה תורה, הלכות שכנים, פרקים יג-יד; הלכות שותפין, פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Vicini capitoli 13-14 (conclusione); Leggi dei Soci capitolo 1 (inizio)",
+  "cycle": "rambam-3",
+  "date": "2026-10-31",
+  "hebrew_date": "20 Cheshvan 5787",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": "13:1-7",
+      "he": "הֶזֵּק רְאִיָּה — שֵׁם הֶזֵּק הוּא…",
+      "it": "(Shekhenim cap. 13) Hezek re'iyah (danno visivo): il Talmud (Bava Batra 2b) stabilisce il principio fondamentale «hezek re'iyah shemei hezek» — il danno visivo (il fatto che il vicino possa vedere nel cortile o nell'abitazione altrui) è considerato legalmente un «danno» (nezek) e non solo un inconveniente. Di conseguenza, si può obbligare un vicino a costruire un muro o a bloccare una finestra che dà vista sul cortile o sulle stanze private del vicino. Questo protegge la privacy (tzniyut ha-bayit — la riservatezza domestica) delle famiglie che vivono una accanto all'altra."
+    },
+    {
+      "n": "14:1-5",
+      "he": "הַפּוֹתֵחַ חַלּוֹן לַחֲצַר חֲבֵרוֹ — חַיָּב לְסָתְמוֹ…",
+      "it": "(Shekhenim cap. 14 — conclusione di Shekhenim) Chi apre una finestra che dà sul cortile del vicino — è obbligato a chiuderla o a costruire una protezione che impedisca la vista. Se la finestra esisteva già prima che il vicino costruisse il suo cortile — si discute se il diritto acquisito (chazakah della finestra) prevalga. Il Rambam conclude: il principio di hezek re'iyah è uno dei fondamenti del diritto di vicinato ebraico — la pace domestica (shalom bayit) e la privacy familiare sono valori protetti dal diritto halakhico. «Si concludono le Leggi dei Vicini con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "Shutafin 1:1-5",
+      "he": "הַשֻּׁתָּפִין — כָּל אֶחָד כּוֹחוֹ כְּכֹחַ חֲבֵרוֹ בַּנְּכָסִים הַמְּשֻׁתָּפִין…",
+      "it": "(Shutafin cap. 1 — inizio di Hilchot Shutafin, Leggi delle Società) La shutafut (società, comproprietà): quando due o più persone possiedono beni in comune (shutafin — soci), ogni socio ha diritti e responsabilità proporzionali alla sua quota. Nessun socio può agire sui beni comuni senza il consenso dell'altro («ein echad yachol le-shanot be-lo da'at chavero» — un socio non può apportare cambiamenti senza la conoscenza dell'altro). Le decisioni che riguardano la gestione ordinaria richiedono il consenso della maggioranza; le decisioni straordinarie (vendita, ipoteca) richiedono il consenso unanime. La shutafut genera un rapporto di mutua fiducia e responsabilità (emunat shutaf) che è al cuore del diritto commerciale ebraico."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hezek re'iyah", "hezek re'iyah shemei hezek", "tzniyut ha-bayit", "shalom bayit", "shutafut", "shutafin", "emunat shutaf"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Parah Adumah 8-10",
+  "name_he": "משנה תורה, הלכות פרה אדומה, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi della Vacca Rossa, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-08-18",
+  "hebrew_date": "5 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "כל הטמא בטומאת מת — חייב הזיה. ומי שאינו טמא בטומאת מת — אינו צריך הזיה אלא טבילה בלבד.",
+      "it": "Chiunque sia impuro per tumat met (impurità cadaverica) — necessita dell'aspersione (hazayah). Chi non è impuro per tumat met — non necessita dell'aspersione, ma soltanto dell'immersione nel mikveh (tevila)."
+    },
+    {
+      "n": "8:2",
+      "he": "הגר שנטמא במת — חייב הזיה כישראל. שהגר לכל דבריו כישראל.",
+      "it": "Il proselita (ger) che si è reso impuro per tumat met — è tenuto all'aspersione come un Israelita. Poiché il proselita è come un Israelita in tutto."
+    },
+    {
+      "n": "8:3",
+      "he": "עבד כנעני שנטמא במת — אין לו טהרה על ידי מי חטאת, שאינו בר חיוב מצות.",
+      "it": "Lo schiavo cananeo che si è reso impuro per tumat met — non ha purificazione mediante le mei chatat, poiché non è obbligato nei precetti positivi della Torah."
+    },
+    {
+      "n": "9:1",
+      "he": "כיצד מתטהר טמא מת? ביום הראשון — יוצא מן המקום הטמא אם אפשר. ביום השלישי וביום השביעי — מזין עליו. ביום השביעי גם טובל.",
+      "it": "Come si purifica un tameh per tumat met? Nel primo giorno — esce dall'area impura se possibile. Nel terzo giorno e nel settimo giorno — lo si asperge con le mei chatat. Il settimo giorno si immerge anche nel mikveh."
+    },
+    {
+      "n": "9:2",
+      "he": "אין מזין אלא ביום — שנאמר: 'ביום השלישי יתחטא ביום השביעי יטהר'. הזה בלילה — לא עשה כלום.",
+      "it": "Si asperge soltanto di giorno — come è detto: 'Nel terzo giorno si purifichi con l'aspersione (yitchata), nel settimo giorno si purifichi (yithar)' (Numeri 19:12). Se asperse di notte — non fece nulla."
+    },
+    {
+      "n": "9:3",
+      "he": "הכהן שמזה — צריך להיות טהור. וסומכין על כהן שאמר 'טהור אני'.",
+      "it": "Il Kohen che asperge — deve essere puro (tahor). Ci si fida di un Kohen che dichiara 'Sono puro' (tahor ani)."
+    },
+    {
+      "n": "10:1",
+      "he": "טמא שהזה במים שנפל לתוכם מים פסולים — ספק אם נטהר.",
+      "it": "Un tameh che fu asperso con acque in cui cadde dell'acqua invalida — vi è dubbio se si purificò."
+    },
+    {
+      "n": "10:2",
+      "he": "מי חטאת שנשתיירו מהלילה — פסולים לאותה הזיה. ומזין מהם בהזיה אחרת.",
+      "it": "Le mei chatat che sono rimaste dalla notte — sono invalide per quella stessa aspersione. Ma possono essere utilizzate per un'altra aspersione in un'altra occasione."
+    },
+    {
+      "n": "10:3",
+      "he": "ספק אם הוזה — ספק אם לא הוזה — חוזר ומזין בלא ברכה.",
+      "it": "Se vi è dubbio se fu asperso o non fu asperso — si ripete l'aspersione senza benedizione."
+    },
+    {
+      "n": "10:4",
+      "he": "טבל ולא הוזה — לא עלתה לו טבילה. הזיה קודמת לטבילה — אינו טהור.",
+      "it": "Se si immerse senza essere stato asperso — l'immersione non gli è valsa. L'aspersione precede l'immersione — se invertì l'ordine, non è puro."
+    },
+    {
+      "n": "10:5",
+      "he": "הוזה ולא טבל — לא טהר. שניהם — הזיה וטבילה — מעכבים.",
+      "it": "Se fu asperso ma non si immerse — non si purificò. Entrambi — l'aspersione e l'immersione — sono indispensabili."
+    },
+    {
+      "n": "10:6",
+      "he": "טבל ביום השביעי לאחר שקיעת החמה — לא עלתה לו טבילה. כיון שיצא מן הפרשה.",
+      "it": "Se si immerse nel settimo giorno dopo il tramonto del sole — l'immersione non gli è valsa. Poiché è già uscito dall'ambito della pericope (la sezione della Torah che regola la purificazione)."
+    }
+  ],
+  "_glossary_terms_used": ["tumat met", "hazayah", "mikveh", "tevila", "ger", "mei chatat", "Kohen", "tahor", "tahor ani"]
+}

@@ -1,0 +1,319 @@
+{
+  "gregorian": "2026-05-09",
+  "hebrew": { "day": 22, "month": "Iyyar", "year": 5786 },
+  "cycle": "rambam-3 (3-perakim daily)",
+  "translatedBy": "claude-sonnet-4-6 (Yafutzu — in-conversation)",
+  "translator_notes": "Traduzione accademica halachica. Termini tecnici: ever min ha-chay (parte da animale vivo), dam (sangue), chelev (grasso proibito), karet (pena divina di recisione), chayav (passibile di), shechità (macellazione rituale). Citazioni bibliche tra parentesi quadre.",
+  "perakim": [
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 5",
+      "name_he": "הלכות מאכלות אסורות, פרק ה",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 5",
+      "halachot_count": 15,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "מִפִּי הַשְּׁמוּעָה לָמְדוּ שֶׁזֶּה שֶׁנֶּאֱמַר בַּתּוֹרָה \"לֹא תֹאכַל הַנֶּפֶשׁ עִם הַבָּשָׂר\"",
+          "it": "Dalla Tradizione Orale abbiamo appreso che ciò che la Torah dice [Deuteronomio 12:23]: «Non mangerete l'anima insieme alla carne» — proibisce un arto staccato da un animale vivo (ever min ha-chay). Riguardo a un arto staccato da un animale vivo, fu detto a Noè [Genesi 9:4]: «Ma carne con la sua anima, il suo sangue, non mangerete.» La proibizione dell'ever min ha-chay si applica agli animali domestici kosher, alle bestie selvatiche kosher e ai volatili kosher, ma non alle specie non kosher."
+        },
+        {
+          "n": 2,
+          "he": "אֵבֶר הַפּוֹרֵשׁ מִן הַחַי נוֹהֵג בְּבֶהֱמָה",
+          "it": "Il termine «ever» (arto) si applica sia a un arto completo sia a un pezzo di carne: qualunque cosa si stacchi da un animale vivo che abbia la misura minima richiesta — una misura d'oliva (kezayit) per la carne e qualunque misura per l'osso — è proibita come ever min ha-chay. Chi la mangi è passibile di flagellazione (maloct) per legge della Torah."
+        },
+        {
+          "n": 3,
+          "he": "כֵּיצַד הוּא אֵבֶר הַפּוֹרֵשׁ מִן הַחַי",
+          "it": "Qual è un arto staccato da un animale vivo? Qualunque parte staccata da un animale vivo, sia che abbia ossa sia che non ne abbia, purché sia una parte naturale del corpo dell'animale. Se ci si taglia una fetta di carne dalla schiena di un animale vivo senza recidere un arto anatomicamente definito — è proibita come ever min ha-chay ma non si è passibili di flagellazione a meno che non abbia la misura di un'oliva."
+        },
+        {
+          "n": 4,
+          "he": "הַחוֹתֵךְ בָּשָׂר מִן הַחַי",
+          "it": "Chi taglia carne da un animale vivo — se la carne ha la misura di un'oliva, è passibile di flagellazione per ever min ha-chay. Se invece ha tagliato meno di una misura d'oliva, non è passibile di flagellazione, ma è comunque proibito per legge della Torah. Chi mangia questa carne riceve makkot mardut (fustigazione rabbinica)."
+        },
+        {
+          "n": 5,
+          "he": "חֲצִי זַיִת בָּשָׂר מִן הַחַי",
+          "it": "Se si prendono mezza misura d'oliva di carne da un animale vivo e un'altra mezza misura d'oliva dalla stessa o altra parte del corpo — e le si mangia insieme — si è passibili di flagellazione, perché si è combinata la misura completa di una misura d'oliva richiesta per la proibizione."
+        },
+        {
+          "n": 6,
+          "he": "הַנּוֹטֵל אֵבֶר שָׁלֵם מִן הַחַי",
+          "it": "Chi prende un arto completo da un animale vivo — anche se non ha una misura d'oliva di carne — è passibile di flagellazione, poiché si tratta di un ever (arto) nella sua completezza. Ma chi prende un osso da un animale vivo senza che vi sia carne attaccata — non è passibile di flagellazione, perché la proibizione si applica alla carne e non all'osso per sé."
+        },
+        {
+          "n": 7,
+          "he": "הַשּׁוֹחֵט מִן הַצַּוַּאר",
+          "it": "Chi macella un animale tagliando la trachea e l'esofago, e prima che l'animale sia completamente morto taglia una parte del corpo — quella parte è ever min ha-chay e proibita. La macellazione rituale deve essere completata perché l'animale sia considerato morto; fino ad allora, qualunque parte staccata è ever min ha-chay."
+        },
+        {
+          "n": 8,
+          "he": "עוּבָּר שֶׁנִּמְצָא בְּמֵעֵי הַבְּהֵמָה הַמְשֻׁלֶּמֶת",
+          "it": "Un feto portato a termine trovato nel ventre di un animale che poi viene macellato ritualmente — non necessita di macellazione rituale propria. Qualunque parte di esso che sia staccata prima della macellazione della madre è proibita come ever min ha-chay. Dopo la macellazione della madre, tutte le sue parti sono permesse come carne della madre."
+        },
+        {
+          "n": 9,
+          "he": "בָּשָׂר שֶׁנִּתְלַשׁ מִן הַחַי",
+          "it": "Carne staccata da un animale vivo e poi rimasta appesa all'animale — se non è possibile che quella carne si unisca nuovamente al corpo e vi faccia parte integrante, è proibita, anche se l'animale non è stato macellato finché non si è separata completamente. Se l'animale muore, si considera la parte come se si fosse staccata mentre era ancora vivo e si è passibili di flagellazione per ever min ha-chay. Se però la carne poteva ancora unirsi nuovamente al corpo e l'animale è poi stato macellato ritualmente, è permessa."
+        },
+        {
+          "n": 10,
+          "he": "אֵיבָר שֶׁנִּמְשַׁךְ",
+          "it": "Un arto che è stato tirato, schiacciato o macinato — come i testicoli schiacciati o estratti dal loro posto — non è proibito per legge della Torah come ever min ha-chay. La ragione è che possiede ancora traccia di vita, come dimostra il fatto che non decade. È tuttavia proibito mangiarlo per via di una consuetudine osservata da tutto il popolo ebraico di generazione in generazione, poiché assomiglia a un arto separato da un animale vivo."
+        },
+        {
+          "n": 11,
+          "he": "עֶצֶם שֶׁנִּשְׁבַּר",
+          "it": "Un arto la cui ossa si è rotta: se la carne o la pelle copre la maggior parte dello spessore dell'osso rotto e la maggior parte della circonferenza della frattura, è permesso. Se l'osso è fuoriuscito dalla pelle, l'arto è proibito. Quando si macella l'animale o il volatile, si taglia l'arto nel punto della frattura e lo si butta via; il resto dell'arto è permesso."
+        },
+        {
+          "n": 12,
+          "he": "כֵּיצַד מוֹרְדִין מִן הַגּוּף",
+          "it": "Come si stabilisce se un organo è diventato parte del corpo? Se si può ricucire la parte lacerata e vi è aspettativa medica di guarigione, è ancora parte del corpo. Se invece è chiaramente morto e in decomposizione — è un arto staccato e proibito."
+        },
+        {
+          "n": 13,
+          "he": "הַמַּכְנִיס יָדוֹ לִמְעֵי בְּהֵמָה",
+          "it": "Chi introduce la mano nell'interno di un animale, taglia la milza, uno dei reni o simili, ma li lascia all'interno dell'animale, e poi lo macella — le parti tagliate sono proibite come organi da un animale vivo, sebbene siano rimaste nell'interno del ventre dell'animale. Se però ha tagliato una parte di un feto nell'utero senza estrarla, e poi ha macellato la madre, le parti tagliate del feto sono permesse come carne del feto."
+        },
+        {
+          "n": 14,
+          "he": "אֵבֶר מִן הַחַי בְּבֵיצִים",
+          "it": "La proibizione dell'ever min ha-chay non si applica ai pesci né alle cavallette. Se si stacca parte di un pesce vivo e lo si mangia, non si viola la proibizione dell'ever min ha-chay. Tuttavia, per motivi di crudeltà verso gli animali (tzaar baalei chayyim), è meglio non mangiare parti staccate da animali vivi anche quando non vi è proibizione."
+        },
+        {
+          "n": 15,
+          "he": "עוֹף שֶׁנֶּחְלַט",
+          "it": "Un volatile macellato ritualmente — se vi si trova un'arto che era già morto prima della macellazione (ad esempio un'ala necrotica), quell'arto è neveilà e proibito. Se tutto l'arto era sano al momento della macellazione, è permesso. Qualunque dubbio circa lo stato dell'arto prima della macellazione va trattato con rigore (lechumrà)."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 6",
+      "name_he": "הלכות מאכלות אסורות, פרק ו",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 6",
+      "halachot_count": 21,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "הָאוֹכֵל כְּזַיִת מִן הַדָּם בְּמֵזִיד חַיָּב כָּרֵת בְּשׁוֹגֵג מֵבִיא חַטָּאת קְבוּעָה",
+          "it": "Chi mangi intenzionalmente una misura d'oliva di sangue (dam) è passibile di karet (recisione divina). Se lo fa inavvertitamente, deve portare un'offerta di espiazione fissa (chatat kevuà). È esplicitamente detto nella Torah che è passibile solo per il sangue dei tre tipi di animali domestici kosher — bue, pecora e capra — sia che si tratti di sangue di un animale macellato ritualmente sia di neveilà o terefà. Riguardo agli altri animali domestici e alle bestie selvatiche, kosher o non kosher, il loro sangue è come la loro carne."
+        },
+        {
+          "n": 2,
+          "he": "אֵיזֶה הוּא דָּם שֶׁחַיָּבִין עָלָיו",
+          "it": "Quale sangue è soggetto a karet? Il sangue di animali domestici, bestie selvatiche e volatili — sia che siano kosher sia che non lo siano. Ma il sangue di pesci, cavallette, creature striscianti e rettili — non è soggetto a karet, né è proibito per legge della Torah, né comporta flagellazione. Tuttavia, il sangue di pesci che sia visibile è proibito per motivi di apparenza (mar'it ayin), affinché non si pensi che si stia mangiando sangue proibito."
+        },
+        {
+          "n": 3,
+          "he": "דַּם הַדָּגִים וְהַחֲגָבִים",
+          "it": "Il sangue dei pesci e delle cavallette è permesso. Se però è stato raccolto in un recipiente, è proibito per motivi di apparenza. Se il pesce è riconoscibile — ad esempio, se vi sono squame nel recipiente — non vi è problema di apparenza e il sangue è permesso."
+        },
+        {
+          "n": 4,
+          "he": "דַּם הַשֶּׁרֶץ",
+          "it": "Il sangue dei rettili (shéretz) — se uno lo tocca, non diventa impuro per il sangue stesso (poiché l'impurità si applica ai corpi dei rettili e non al loro sangue). Se però bevve il sangue del rettile, è proibito per via dello stesso rettile, perché il sangue del rettile è come la sua carne."
+        },
+        {
+          "n": 5,
+          "he": "דַּם הַלֵּב",
+          "it": "Il sangue del cuore (dam ha-lev): vi è una controversia tra i Rishonim (poskim medievali) se sia soggetto a karet come il sangue ordinario. In pratica, si è severi: si taglia il cuore, si fa uscire il sangue e si sala come il resto della carne. Il cuore non deve essere cotto intero senza essere prima tagliato e il sangue estratto."
+        },
+        {
+          "n": 6,
+          "he": "הָאוֹכֵל דַּם שֶׁנִּתְכַּנֵּס",
+          "it": "Chi mangi sangue che si è coagulato (kibbesh) — è passibile di karet se il sangue era soggetto a tale proibizione. Il sangue coagulato è trattato come il sangue liquido in quanto alle proibizioni. Pertanto, la carne insanguinata che non sia stata salata deve essere trattata con il processo di salatura e lavatura per estrarne il sangue."
+        },
+        {
+          "n": 7,
+          "he": "כֵּיצַד מוֹלְחִין אֶת הַבָּשָׂר",
+          "it": "Come si sala la carne per estrarne il sangue? Si lava la carne, la si cosparge di sale grosso su tutti i lati e la si lascia riposare il tempo necessario affinché il sangue fuoriesca (generalmente un'ora piena, ossia 60 minuti secondo l'uso ashkenazita; meno secondo alcuni costumi). Poi si lava nuovamente la carne tre volte per eliminare il sale e il sangue. Solo dopo questo processo la carne è permessa."
+        },
+        {
+          "n": 8,
+          "he": "כֵּיצַד מוֹלְחִין אֶת הַכָּבֵד",
+          "it": "Come si prepara il fegato (kavèd)? Il fegato è ricco di sangue e non può essere purificato con la sola salatura. Si deve tagliare il fegato su entrambi i lati (shni tzedadim), cosparlo di sale e cuocerlo alla griglia (tzliyà al ha-esh — arrostire sul fuoco) finché il sangue non venga completamente estratto. Solo allora è permesso. Non è permesso bollire il fegato senza prima arrostirlo."
+        },
+        {
+          "n": 9,
+          "he": "הַמֵּלִיחַ בָּשָׂר עִם כָּבֵד",
+          "it": "Chi sala la carne insieme al fegato — il sangue del fegato fuoriesce e può penetrare nella carne. Pertanto, non si sala il fegato insieme ad altra carne a meno che la carne non sia posta sotto il fegato in modo tale che il sangue non vi scorra sopra, oppure si sala separatamente."
+        },
+        {
+          "n": 10,
+          "he": "כָּל מָקוֹם שֶׁנָּגַע הַדָּם",
+          "it": "Qualunque luogo in cui il sangue abbia raggiunto durante il processo di salatura — deve essere lavato e il sangue rimosso. Se il sangue di un fegato ha gocciolato su della carne durante la salatura, quella parte di carne deve essere tagliata e scartata, e il resto della carne può essere salato separatamente e diventa permesso."
+        },
+        {
+          "n": 11,
+          "he": "בָּשָׂר שֶׁלֹּא נִמְלַח",
+          "it": "Carne che non è stata salata entro tre giorni dalla macellazione rituale — il sangue in essa si è coagulato e la salatura non è più efficace nell'estrarlo. Tale carne può essere permessa solo tramite arrostimento alla griglia, che estrae il sangue con il calore. Non è permessa tramite bollitura."
+        },
+        {
+          "n": 12,
+          "he": "בָּשָׂר שֶׁבִּשְּׁלוּהוּ בְּלֹא מְלִיחָה",
+          "it": "Carne che è stata cucinata (bollita) senza salatura previa — è proibita, poiché il sangue rimane nella carne. Non è permesso mangiarla. Il brodo della cottura è anch'esso proibito. Il recipiente deve essere purificato tramite hagalà (immersione in acqua bollente)."
+        },
+        {
+          "n": 13,
+          "he": "הַמּוֹלֵחַ בָּשָׂר בִּכְלִי שֶׁאֵין בּוֹ נְקָבִים",
+          "it": "Chi sala la carne in un recipiente senza fori — il sangue non può fuoriuscire e rimane nel recipiente con la carne. Questa carne non è permessa, perché il sangue fuoriuscito si riassorbe nella carne. Si deve salare la carne in un recipiente forato (kalei) o su una griglia, oppure su un piano inclinato, affinché il sangue possa defluire."
+        },
+        {
+          "n": 14,
+          "he": "הַמּוֹלֵחַ בָּשָׂר עִם דָּגִים",
+          "it": "Chi sala la carne insieme al pesce — non vi è problema di basar be-chalav (carne nel latte), ma vi può essere un problema di sapore (ta'am) se il pesce assorbe il sangue della carne. In pratica, si evita di mangiare pesce cotto nella carne stessa, ma non vi è proibizione della Torah in questo."
+        },
+        {
+          "n": 15,
+          "he": "כָּל דָּם הַיּוֹצֵא מִן הַבָּשָׂר",
+          "it": "Tutto il sangue che fuoriesce dalla carne durante la salatura — è proibito sia di per sé sia perché rende impuri gli alimenti che tocca. I liquidi macchiati di sangue dopo la salatura devono essere buttati via e non riutilizzati."
+        },
+        {
+          "n": 16,
+          "he": "הָעוֹף שֶׁנִּמְלַח שָׁלֵם",
+          "it": "Un volatile salato intero — non è sufficiente la salatura esterna, poiché il sangue all'interno delle cavità non può fuoriuscire. Si deve aprire il volatile e salare anche l'interno, oppure tagliarlo in parti prima della salatura."
+        },
+        {
+          "n": 17,
+          "he": "רֹאשׁ הַבְּהֵמָה",
+          "it": "La testa dell'animale — ha cavità cerebrali ricche di sangue. Si deve aprire la testa, estrarre il cervello, tagliarlo e salarlo separatamente. Le ossa del cranio vanno anch'esse salate. La lingua va incisa e salata su entrambi i lati."
+        },
+        {
+          "n": 18,
+          "he": "רֶגֶל הַבְּהֵמָה",
+          "it": "Lo zoccolo dell'animale — deve essere spaccato e il midollo osseo deve essere salato. Se si cuoce lo zoccolo intero senza precedente salatura, è proibito per il sangue che rimane nel midollo. In pratica, molti sono soliti arrostire gli zoccoli direttamente sul fuoco per bruciare il sangue."
+        },
+        {
+          "n": 19,
+          "he": "הַמֵּלִיחַ וְהַמְּבַשֵּׁל",
+          "it": "Chi sala la carne e poi la cuoce in acqua — l'acqua di cottura è permessa, poiché il sangue è già stato estratto dalla salatura. Ma se si cuoce la carne in acqua con del sale senza salatura preventiva, l'acqua è proibita come sangue."
+        },
+        {
+          "n": 20,
+          "he": "בָּשָׂר שֶׁנִּמְלַח עִם בָּשָׂר אַחֵר",
+          "it": "Carne salata insieme ad altra carne — ogni pezzo assorbe il sangue dell'altro. Se una delle carni era già salata e l'altra non lo era, la carne non salata può assorbire il sangue della carne salata. Pertanto, si evita di saltare insieme carni di stato diverso."
+        },
+        {
+          "n": 21,
+          "he": "כָּל אֵלּוּ הַהֲלָכוֹת שֶׁל דָּם",
+          "it": "Tutte queste norme riguardanti il sangue — sia quelle della Torah sia quelle dei Saggi — mirano a preservare la santità di Israele e a tenerlo lontano dai cibi che contaminano. Il sangue, che è la vita (nefesh) della creatura, è sacro e riservato all'Altare; Israele se ne astiene in segno di reverenza verso il Creatore di tutte le cose viventi."
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 7",
+      "name_he": "הלכות מאכלות אסורות, פרק ז",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 7",
+      "halachot_count": 21,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "הָאוֹכֵל כְּזַיִת חֵלֶב בְּמֵזִיד חַיָּב כָּרֵת. בְּשׁוֹגֵג מֵבִיא חַטָּאת קְבוּעָה",
+          "it": "Chi mangi intenzionalmente una misura d'oliva di grasso proibito (chelev) è passibile di karet (recisione divina). Se lo fa inavvertitamente, deve portare un'offerta di espiazione fissa (chatat kevuà). È esplicitamente detto nella Torah che è passibile solo per il chelev delle tre specie di animali domestici kosher, come è detto [Levitico 7:23]: «Non mangiate alcun grasso di bue, pecora o capra.» Vale sia per il chelev di un animale macellato ritualmente sia per quello di una neveilà o di una terefà (di specie kosher). Riguardo agli altri animali domestici e alle bestie selvatiche, kosher o non kosher, il loro chelev è come la loro carne."
+        },
+        {
+          "n": 2,
+          "he": "חֵלֶב הַנְּבֵלָה וְהַטְּרֵפָה מִמִּינֵי בְּהֵמָה הַכְּשֵׁרִים",
+          "it": "Il chelev della neveilà e della terefà delle specie kosher — è passibile di karet come il chelev di un animale macellato ritualmente. La proibizione del chelev non dipende dalla validità della macellazione, ma dalla natura della specie. Chi mangi chelev di neveilà è passibile sia per il chelev sia per la neveilà."
+        },
+        {
+          "n": 3,
+          "he": "גֵּר שֶׁנִּתְגַּיֵּר וְהָיָה בְּיָדוֹ חֵלֶב",
+          "it": "Un proselito che si è convertito e aveva in mano del chelev prima della conversione — lo deve bruciare o vendere, perché ora è ebreo ed è proibito a lui il chelev. Se lo mangiò dopo la conversione, è passibile come qualunque altro ebreo."
+        },
+        {
+          "n": 4,
+          "he": "הַחֵלֶב שֶׁחַיָּבִין עָלָיו כָּרֵת",
+          "it": "Il chelev per il quale si è passibili di karet è di tre tipi: il chelev sugli organi digestivi, quello su entrambi i reni e quello sui fianchi. La coda grassa (alya), al contrario, è permessa da mangiare. È chiamata «chelev» solo riguardo ai sacrifici, così come i reni e il lobo del fegato sono chiamati con nomi speciali riguardo ai sacrifici, senza che questo significhi che siano proibiti come chelev per la persona comune."
+        },
+        {
+          "n": 5,
+          "he": "חֵלֶב שֶׁעַל הַקֶּרֶב וְעַל הַכָּרֵס",
+          "it": "Il chelev sullo stomaco e sull'addome è ciò che si chiama «chelev sugli organi digestivi». Si è passibili per il chelev alle articolazioni dei fianchi all'interno. Questo è il «chelev sui fianchi». Vi è anche chelev sul ventriglio che è ricurvo come un arco — è proibito. Vi è un legamento che si estende come un lobo — è permesso. I filamenti (chitim) del chelev sono proibiti, ma non si è passibili di karet per loro."
+        },
+        {
+          "n": 6,
+          "he": "חֵלֶב הַמְכֻסֶּה בַּבָּשָׂר מֻתָּר",
+          "it": "Il chelev che è coperto dalla carne è permesso. La Torah proibisce il chelev «sui fianchi», non quello che si trova all'interno dei fianchi. Analogamente, «il chelev sui reni» è proibito, ma non quello che si trova all'interno dei reni. Ciononostante, si deve rimuovere la sostanza bianca all'interno del rene e solo allora mangiarlo. Non è però necessario rimuoverne ogni traccia."
+        },
+        {
+          "n": 7,
+          "he": "שְׁנֵי חוּטִין שֶׁל חֵלֶב בַּמָּתְנַיִם",
+          "it": "Vi sono due corde di chelev nell'area lombare principale, vicino alla sommità della coscia. Quando l'animale è vivo, questo chelev è visibile sulle interiora. Quando però muore, una parte di carne si attacca all'altra e copre questo chelev, che non sarà visibile finché le parti di carne non siano separate l'una dall'altra. È tuttavia proibito, perché non si tratta di chelev coperto dalla carne (chelev hamechusse ba-basar)."
+        },
+        {
+          "n": 8,
+          "he": "כֵּיצַד יוֹדֵעַ אֶת הַחֵלֶב",
+          "it": "Come si riconosce il chelev? Chi non è esperto nell'anatomia dell'animale e non sa identificare il chelev proibito non deve preparare la carne per la vendita. Si deve affidare a un macellaio esperto (nikkar, triaccatore) che sia competente nel rimuovere il chelev, i filamenti e i nervi proibiti dalla carne. La nikur (rimozione del chelev) è un'arte tecnica che richiede studio e pratica."
+        },
+        {
+          "n": 9,
+          "he": "עוֹר שֶׁעַל הַכְּלָיוֹת",
+          "it": "La membrana che ricopre i reni (kokhli) — è proibita come chelev. Deve essere rimossa completamente prima della salatura e della cottura. Analogamente, la membrana sulla milza (techol) deve essere rimossa sulla parte esterna prima dell'uso."
+        },
+        {
+          "n": 10,
+          "he": "הַחֵלֶב הַנִּמְצָא בְּחַלָּל הַבְּהֵמָה",
+          "it": "Il chelev trovato nella cavità addominale dell'animale — se è puro e bianco, è proibito. Se è misto alla carne e ha perso la sua consistenza propria, è permesso, perché è considerato come carne e non come chelev. Il criterio è se il chelev si distacca facilmente dalla carne o vi aderisce."
+        },
+        {
+          "n": 11,
+          "he": "הַמְנַקֵּר שֶׁלֹּא נִקֵּר כָּרָאוּי",
+          "it": "Il triaccatore (nikkar) che non ha rimosso correttamente il chelev — la carne che ha preparato è proibita. Se ne ha mangiato il compratore, è come se avesse mangiato chelev, sebbene in modo non intenzionale. Non è sufficiente affidarsi a un nikkar qualunque; si deve verificare che sia competente e timorato del cielo."
+        },
+        {
+          "n": 12,
+          "he": "בְּהֵמָה שֶׁנִּשְׁחֲטָה וְנִמְצָא עוּבָּר בְּמֵעֶיהָ",
+          "it": "Un animale macellato ritualmente nel cui ventre si trova un feto — tutto il suo chelev è permesso. Vale anche se il feto era vivo, perché è considerato come un arto della madre. Se però era portato a termine e risultò vivo, il suo chelev è proibito ed è passibile di karet per mangiarlo. Vale anche se il feto non ha mai poggiato il piede a terra e non necessita di macellazione rituale propria. Si deve comunque rimuovere da esso tutti i filamenti di chelev come dagli altri animali."
+        },
+        {
+          "n": 13,
+          "he": "הַמַּכְנִיס יָדוֹ לִמְעֵי הַבְּהֵמָה",
+          "it": "Chi introduce la mano nel ventre di un animale e taglia e porta fuori il chelev di un feto portato a termine, è passibile come se avesse tagliato il chelev dell'animale stesso. La ragione è che il completamento del periodo di gestazione è ciò che causa la proibizione del chelev."
+        },
+        {
+          "n": 14,
+          "he": "שְׁלֹשָׁה חֲלָבִים שֶׁחַיָּבִין עֲלֵיהֶם כָּרֵת",
+          "it": "I tre tipi di chelev per cui si è passibili di karet sono: il chelev sugli organi digestivi, quello su entrambi i reni, e quello sui fianchi. La coda grassa (alya), al contrario, è permessa da mangiare. È chiamata «chelev» solo riguardo ai sacrifici."
+        },
+        {
+          "n": 15,
+          "he": "הַנִּמְשָׁךְ אַחַר הַחֵלֶב בְּתוֹלְדוֹת",
+          "it": "I derivati del chelev (tzad ha-chelev) — i filamenti che si staccano dal chelev e vi sono attaccati — sono proibiti, ma non si è passibili di karet per loro. I filamenti del sangue all'interno del chelev — sono anch'essi proibiti ma non comportano karet."
+        },
+        {
+          "n": 16,
+          "he": "הַחוֹתֵךְ חֵלֶב מִן הַנְּבֵלָה",
+          "it": "Chi taglia chelev da una neveilà — è passibile sia per la neveilà sia per il chelev (due flagellazioni distinte), poiché con la morte dell'animale è sopraggiunta la proibizione di neveilà alla proibizione del chelev già esistente. I Saggi la chiamano «proibizione aggiuntiva» (issur mosif)."
+        },
+        {
+          "n": 17,
+          "he": "הַחוֹתֵךְ חֵלֶב מִן הַטְּרֵפָה",
+          "it": "Chi taglia chelev da una terefà — è passibile di tre proibizioni distinte: quella del chelev, quella della terefà, e (se si tratta di una neveilà-terefà) anche quella della neveilà. Tre flagellazioni separate."
+        },
+        {
+          "n": 18,
+          "he": "הַמְבַשֵּׁל חֵלֶב בַּחֲלָב",
+          "it": "Chi cucina chelev nel latte — non vi è la proibizione di basar be-chalav, perché il chelev è parte dell'animale ma il divieto di basar be-chalav richiede «carne» nel senso della carne muscolare. Tuttavia, il chelev medesimo rimane proibito per la propria proibizione, e non si è passibili di basar be-chalav."
+        },
+        {
+          "n": 19,
+          "he": "הַנּוֹגֵעַ בַּחֵלֶב",
+          "it": "Chi tocca il chelev non diventa impuro né rende impuro ciò che tocca. La proibizione del chelev è una proibizione alimentare (issur achilà), non una proibizione di impurità rituale (tum'à). Si può dunque maneggiare il chelev per rimuoverlo senza preoccupazione di impurità."
+        },
+        {
+          "n": 20,
+          "he": "הַמּוֹכֵר חֵלֶב לְגוֹי",
+          "it": "È permesso vendere il chelev a un non ebreo e trarne beneficio (hana'a). La proibizione del chelev si applica solo al mangiarlo (achilà), non al beneficio ricavato dalla vendita o dall'uso. Questo a differenza del basar be-chalav, dal quale è proibito anche il beneficio."
+        },
+        {
+          "n": 21,
+          "he": "כָּל הַדְּבָרִים הָאֵלּוּ בְּחֵלֶב",
+          "it": "Tutte queste norme riguardanti il chelev — la loro cura è parte della santità di Israele e del distacco dalle abominazioni. Chi le osserva con diligenza adempie la volontà del Creatore; chi le trascura non soltanto trasgredisce un grave divieto della Torah, ma allontana da sé la kedushah. Il chelev è consacrato all'Altare e al Signore; Israele non ha parte in esso."
+        }
+      ]
+    }
+  ],
+  "_glossary_terms_used": ["ever min ha-chay", "kezayit", "maloct", "makkot mardut", "karet", "chatat kevuà", "chelev", "nikkar", "nikur", "alya", "neveilà", "terefà", "dam", "kavèd", "tzliyà", "hagalà", "basar be-chalav", "issur mosif", "achilà", "hana'a", "kedushah"]
+}

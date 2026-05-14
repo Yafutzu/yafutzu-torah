@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 6-8",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-12-03",
+  "hebrew_date": "24 Kislev 5787 — Erev Chanukah",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "6:1-5",
+      "he": "דִּינֵי נְפָשׁוֹת — צְרִיכִין עֵדִים...",
+      "it": "(Sanhedrin cap. 6, hal. 1-5) Cause capitali (dinei nefashot): richiedono due testimoni validi, la hasra'ah (avvertimento prima del crimine), e la deliberazione del beit din. I testimoni vengono esaminati separatamente con sette domande sui dettagli della situazione. Se le loro testimonianze si contraddicono su qualsiasi dettaglio fondamentale — la testimonianza viene annullata. Il processo garantisce la massima certezza prima di una condanna capitale."
+    },
+    {
+      "n": "7:1-5",
+      "he": "אַרְבַּע מִיתוֹת נִמְסְרוּ לְבֵית דִּין...",
+      "it": "(Sanhedrin cap. 7, hal. 1-5) Le quattro pene capitali del beit din (arba mitot beit din): (1) sekilah (lapidazione) — la più severa; (2) sereifah (bruciatura); (3) hereg (decapitazione con spada); (4) chenek (strangolamento) — la meno severa. Ogni crimine è assegnato a una categoria specifica. Il principio: «ve-ahavta le-re'acha kamocha» — anche nell'esecuzione, si sceglie la modalità meno dolorosa possibile. Nota di Erev Chanukah: domani sera si accendono le prime luci — così come la legge distingue tra gradi di severità, così Chanukah aggiunge gradualmente luce ogni sera."
+    },
+    {
+      "n": "8:1-4",
+      "he": "בֵּית הַמִּדְרָשׁ וּבֵית הַכְּנֶסֶת — מוֹשִׁיבִין בָּהֶם סַנְהֶדְרִין...",
+      "it": "(Sanhedrin cap. 8, hal. 1-4) Il beit din può sedere in una sinagoga o in una casa di studio, non solo nel Tempio. Dopo la distruzione del Tempio, il Sinedrio si spostò in varie città — Yavneh, Usha, Tzippori, Tiberias. Il processo delle categorie di punizione: malkot (fustigazione — 39 colpi per violazioni dei divieti della Torah), karet (recisione spirituale — morte prematura per mano del Cielo per certi gravi peccati), e misah bi-ydei Shamayim (morte per mano del Cielo)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "dinei nefashot", "hasra'ah", "beit din", "arba mitot beit din", "sekilah", "sereifah", "hereg", "chenek", "ve-ahavta le-re'acha kamocha", "malkot", "karet", "misah bi-ydei Shamayim"
+  ]
+}

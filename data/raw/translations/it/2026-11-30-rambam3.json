@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Nachalot 8-10",
+  "name_he": "משנה תורה, הלכות נחלות, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi dell'Eredità, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-11-30",
+  "hebrew_date": "21 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "8:1-5",
+      "he": "שְׁכִיב מְרַע שֶׁאָמַר — «תְּנוּ מָנֶה לִפְלוֹנִי» — נוֹתְנִין…",
+      "it": "(Nachalot cap. 8, hal. 1-5) Un shechiv mera (persona gravemente malata che potrebbe morire) — può distribuire i suoi beni con una semplice dichiarazione verbale, senza bisogno del formale atto di acquisizione (kinyan). I Saggi hanno stabilito questa regola per non causare angoscia al moribondo costringendolo a formalità giuridiche. Se dice «date 100 monete a Pluto» — si dà. Se si riprende (nit'rapei) — la donazione è annullata, poiché la dichiarazione era valida solo in previsione della morte imminente."
+    },
+    {
+      "n": "9:1-5",
+      "he": "הַשְּׁכִיב מְרַע שֶׁנָּתַן כָּל נְכָסָיו לַאֲחֵרִים — מַתָּנָתוֹ מַתָּנָה…",
+      "it": "(Nachalot cap. 9, hal. 1-5) Il shechiv mera che ha dato tutti i suoi beni ad altri — la sua donazione è valida, e i figli non ereditano nulla. Questo è un caso eccezionale: di norma un padre non può diseredare completamente i figli, poiché l'eredità è un diritto biblico. Ma la donazione del shechiv mera è un meccanismo legale distinto dall'eredità — è una donazione inter vivos (tra vivi) con effetto condizionato alla morte. Pertanto è valida anche se svuota l'eredità. Un sano di mente che dona tutto — regole più complesse si applicano."
+    },
+    {
+      "n": "10:1-5",
+      "he": "הַנּוֹתֵן כָּל נְכָסָיו לְאֶחָד מִבָּנָיו — מַה שֶּׁנָּתַן — נָתַן…",
+      "it": "(Nachalot cap. 10, hal. 1-5) Chi dà tutta la sua proprietà a uno solo dei suoi figli — la donazione è valida come regalo. Ma i Saggi insegnano: chi fa questo e causa discordia (machloket) tra i figli — ha agito contro lo spirito della Torah, anche se tecnicamente la donazione è valida. Il Rambam cita la proibizione morale: «Non si deve favorire un figlio sugli altri quando questo causerà ostilità» — come nel caso di Yaakov e Yosef, dove la veste speciale portò all'odio fraterno. I genitori devono distribuire i doni ai figli in modo equo e saggio."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shechiv mera", "kinyan", "nit'rapei", "nachalah", "machloket", "beit din"
+  ]
+}

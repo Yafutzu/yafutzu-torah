@@ -1,0 +1,119 @@
+{
+  "ref": "Mishneh Torah, Sabbath 4",
+  "name_he": "משנה תורה, הלכות שבת, פרק ד",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-25",
+  "hebrew_date": "9 Sivan 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַזּוֹרֵעַ בְּשַׁבָּת בְּשׁוֹגֵג — חַיָּב חַטָּאת…",
+      "it": "Chi semina di Shabbat per errore è obbligato al sacrificio espiatorio. Quale è la misura minima (shi'ur) del seminare per cui si è obbligati? La quantità di un seme che se piantato produce un frutto. Chi pianta, innesta o fa talee di Shabbat — è obbligato come per il seminare."
+    },
+    {
+      "n": 2,
+      "he": "הַזּוֹרֵעַ זְרִיעָה שֶׁאֵינָהּ עוֹשָׂה פֵּרוֹת — פָּטוּר…",
+      "it": "Chi semina qualcosa che non produce frutti (ad esempio semi che sicuramente non germoglieranno) — è esente [dal sacrificio espiatorio]. La melakhah di seminare richiede che si semini in modo utile. Chi ara un terreno già arato, o chi taglia erbacce che non nuocciono — è esente poiché non esegue un'azione costruttiva nel senso del Mishkan."
+    },
+    {
+      "n": 3,
+      "he": "הַקּוֹצֵר בְּשׁוֹגֵג — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כְּגְרוֹגֶרֶת…",
+      "it": "Chi miete per errore è obbligato. Qual è la misura minima? Come una figa secca (ke-grogeret) — poiché questa è la misura standard per i frutti commestibili nei calcoli di Shabbat. Chi strappa un fungo, un'erba o un fiore dal suolo — è obbligato come per il mietere. Chi raccoglie frutta caduta per consumo — se li raccoglie in un mucchio (le-tzber) è obbligato per «raccogliere in covoni»."
+    },
+    {
+      "n": 4,
+      "he": "הַמְנַכֵּשׁ — חַיָּב מִשּׁוּם קוֹצֵר. הַמְּדַלֶּה גֶּפֶן — חַיָּב מִשּׁוּם זוֹרֵעַ…",
+      "it": "Chi rimuove le erbacce (menakkesh) è obbligato per la categoria del «mietere», poiché ha rimosso piante dal terreno. Chi allena una vite ad arrampicarsi su un sostegno (medalleh gefen) — è obbligato per la categoria del «seminare», poiché promuove la crescita della pianta. Chi pota un albero — è obbligato per il seminare poiché la potatura favorisce la crescita; ed è obbligato per il mietere poiché ha reciso il ramo."
+    },
+    {
+      "n": 5,
+      "he": "הַדָּשׁ בְּשׁוֹגֵג — חַיָּב. כַּמָּה שִׁיעוּרוֹ…",
+      "it": "Chi trebbia per errore è obbligato. La misura minima è la quantità di grano che si estrae da un covone in un singolo gesto di trebbiatura — che i Saggi hanno fissato come una figa secca di farina (ke-grogeret). Chi spreme uva per farne vino o olive per farne olio — è obbligato per la toladah del trebbiare. Chi munge — la misura minima è la quantità di latte di un solo munto (ke-malei ha-egudal)."
+    },
+    {
+      "n": 6,
+      "he": "הַבּוֹרֵר אֹכֶל מִן הַפְּסוֹלֶת — מֻתָּר בְּיָדוֹ לְאַלְתַּר…",
+      "it": "Chi seleziona il cibo dagli scarti — è permesso farlo a mano, subito, per il consumo immediato. Ma con uno strumento (come un vaglio o un setaccio) — è proibito anche per consumo immediato. Chi seleziona per dopo — è proibito anche a mano. Il criterio generale: il selezionare permesso deve essere (a) a mano, (b) il cibo dagli scarti (non gli scarti dal cibo), (c) immediatamente per mangiare. Se manca anche una sola di queste condizioni — è proibito rabbinicamente (o biblicamente se usa uno strumento)."
+    },
+    {
+      "n": 7,
+      "he": "הַמְסַנֵּן יַיִן אוֹ שֶׁמֶן דֶּרֶךְ מַסְנֵן — חַיָּב מִשּׁוּם בּוֹרֵר…",
+      "it": "Chi filtra vino o olio attraverso un filtro (mesnanen) è obbligato per la categoria del «selezionare». Chi mescola vino con acqua in modo tale che poi separa il vino dalla mistura — è obbligato. Ma chi stende un panno sul boccale solo per tenere fuori le mosche — non ha selezionato ed è permesso."
+    },
+    {
+      "n": 8,
+      "he": "הַטּוֹחֵן בְּשׁוֹגֵג — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כְּגְרוֹגֶרֶת…",
+      "it": "Chi macina per errore è obbligato. La misura minima è una figa secca di farina. Chi grattugia formaggio o spezie — è obbligato per la toladah del macinare. Chi lima metallo o legno, chi affila un coltello — è obbligato. Chi taglia un legno in piccoli pezzi per usarli come combustibile — è obbligato per il macinare. Chi pestacce nel mortaio — è obbligato."
+    },
+    {
+      "n": 9,
+      "he": "הַמְּרַקֵּד — חַיָּב מִשּׁוּם מְרַקֵּד, וְהוּא תּוֹלָדָה שֶׁל טוֹחֵן…",
+      "it": "Chi setaccia (merakked) è obbligato — e questa è la toladah del macinare [poiché setacciare è parte del processo di macinazione]. La misura minima del setacciare è la quantità che rimane nel setaccio dopo aver setacciato una figa secca di farina. Chi usa un crivello (nifah) per separare farina dalla crusca — è obbligato. Chi setaccia sabbia fine da sabbia grossa — è obbligato."
+    },
+    {
+      "n": 10,
+      "he": "הַלָּשׁ בְּשׁוֹגֵג — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כְּגְרוֹגֶרֶת…",
+      "it": "Chi impasta per errore è obbligato. La misura minima è una figa secca di impasto. Chi mescola argilla, cemento o calce con acqua — è obbligato per la toladah dell'impastare. Anche il medico che mescola medicamenti con liquido — se ha creato una massa compatta — è obbligato. La misura minima si applica solo quando si crea una massa coesa; mescolare liquidi tra loro senza creare massa — non è impastare."
+    },
+    {
+      "n": 11,
+      "he": "הָאוֹפֶה בְּשׁוֹגֵג — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כְּגְרוֹגֶרֶת…",
+      "it": "Chi cuoce per errore è obbligato. La misura minima per il cuocere è una figa secca di cibo. Chi cuoce qualcosa che non è commestibile — se lo fa per un uso utile (es. fare ceramica) — è obbligato. Chi scalda acqua abbastanza da ustionare la bocca (yad soledet bo) — è obbligato per la toladah del cuocere. Il sole non è fuoco: chi mette il cibo al sole — non viola biblicamente il cuocere ma è proibito rabbinicamente."
+    },
+    {
+      "n": 12,
+      "he": "הַמְבַשֵּׁל בְּחַמֵּי טְבֶרְיָה — פָּטוּר…",
+      "it": "Chi cuoce nelle terme di Tiberiade (acque calde naturali) — è esente [dal sacrificio espiatorio] poiché non è fuoco umano, ma è proibito rabbinicamente. Chi mette cibo freddo nell'acqua calda che è stata tolta dal fuoco (keli rishon — recipiente primario che era sul fuoco): il recipiente primario cuoce ancora; il secondario (keli sheni — versato in un altro recipiente) non cuoce più, ma vi sono cibi sensibili anche al keli sheni."
+    },
+    {
+      "n": 13,
+      "he": "הַמְּבַשֵּׁל בְּשַׁבָּת בְּשׁוֹגֵג — מֻתָּר לְאָכְלוֹ בְּשַׁבָּת…",
+      "it": "Chi ha cucinato di Shabbat per errore (shogeg) — è permesso mangiarlo di Shabbat [solo a chi ha cucinato, non agli altri]. Chi ha cucinato deliberatamente (mezid) — è proibito mangiarlo per sempre [anche a chi non ha cucinato]. Questa regola si applica a tutte le melachot biblicamente proibite: il prodotto della trasgressione deliberata è sempre proibito."
+    },
+    {
+      "n": 14,
+      "he": "אֵין אוֹפִין וּמְבַשְּׁלִין בְּיוֹם טוֹב אֶלָּא לְצֹרֶךְ אוֹתוֹ הַיּוֹם…",
+      "it": "Non si cuoce e non si cucina di Yom Tov se non per il consumo di quel giorno stesso (o per lo Shabbat che lo segue immediatamente, con l'eruv tavshilin). Chi cuoce di Yom Tov per il giorno successivo (che non è Shabbat) — ha violato il Yom Tov. Questo è diverso dallo Shabbat, in cui qualsiasi cottura è proibita; il Yom Tov permette la cottura per le necessità del giorno."
+    },
+    {
+      "n": 15,
+      "he": "עֵרוּב תַּבְשִׁילִין כֵּיצַד עוֹשִׂין — לוֹקֵחַ פַּת וְתַבְשִׁיל…",
+      "it": "Come si fa l'eruv tavshilin? Si prende pane e un cibo cotto (ad es. un pesce o un uovo) prima di Yom Tov e si dice: «Con questo eruv sia permesso cuocere, cuocere al forno e fare tutto il necessario da Yom Tov per Shabbat.» Il pane e il cibo simboleggiano l'inizio del processo di preparazione — come se la preparazione per Shabbat fosse già stata iniziata prima del Yom Tov."
+    },
+    {
+      "n": 16,
+      "he": "לֹא עָשָׂה עֵרוּב — לֹא יָאֱפֶה וְלֹא יְבַשֵּׁל מִיּוֹם טוֹב לְשַׁבָּת…",
+      "it": "Chi non ha fatto l'eruv tavshilin — non può cuocere né cucinare di Yom Tov per Shabbat. Può preparare solo per quel giorno di Yom Tov. Se ha dimenticato — i Saggi gli hanno permesso di cuocere di Yom Tov per Shabbat confidando sull'eruv tavshilin della città (eruv shel kol ha-ir — eruv comunitario che il rabbino della città fa per tutti), ma deve farlo sempre prima di Yom Tov negli anni successivi."
+    },
+    {
+      "n": 17,
+      "he": "הַגּוֹזֵז בְּשׁוֹגֵג — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כְּדֵי לִטְווֹת חוּט כִּמְלֹא הַסִּיט…",
+      "it": "Chi tosa per errore è obbligato. La misura minima è la quantità di lana sufficiente per filare un filo lungo quanto la larghezza di due dita (melò ha-sit). Chi tosa capelli umani, peli di animale o piume — è obbligato per la toladah del tosaure. Chi si strappa un capello griggio tra i capelli neri (che è un atto vanaglorioso proibito) — compie anche la melakhah del tosare."
+    },
+    {
+      "n": 18,
+      "he": "הַמְּלַבֵּן הַצֶּמֶר — חַיָּב. כַּמָּה שִׁיעוּרוֹ…",
+      "it": "Chi imbianchia la lana (melaben) è obbligato — la misura minima è quanto è necessario per fare un indumento significativo. La toladah del imbianchiare include: chi schiaccia il bucato con i piedi per pulirlo (ma'aseh kubbus), chi torce un panno bagnato per strizzarlo (sehitah), chi distende un panno bagnato al sole per asciugarlo se è intenzione di imbianchitura. Il semplice asciugare senza intento di imbianchitura — non è proibito biblicamente."
+    },
+    {
+      "n": 19,
+      "he": "הַמְּנַפֵּץ — חַיָּב מִשּׁוּם מְנַפֵּץ, וְהוּא תּוֹלָדָה שֶׁל מְלַבֵּן…",
+      "it": "Chi separa (menafetz) le fibre di lana o cotone è obbligato — questa è la toladah dell'imbianchire. La misura minima è la stessa del tosare. Chi separa fili aggrovigliati, chi tira i fili di una rete per liberarli — è obbligato per la toladah del separare (mefared). Il processo della lavorazione della lana nel Mishkan includeva imbianchire → cardare → tingere → filare → tessere: tutte queste operazioni, in successione, erano necessarie per la costruzione del Tabernacolo."
+    },
+    {
+      "n": 20,
+      "he": "הַצּוֹבֵעַ — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כְּדֵי לִצְבֹּעַ חוּט הַמִּשְׁקֹלֶת…",
+      "it": "Chi tinge è obbligato. La misura minima è la quantità sufficiente a tingere il filo del piombo (chut ha-mishkelet) — il filo che i carpentieri usano per tracciare linee dritte, poiché era questo il filo che si tingeva nel Mishkan. Chi si tinge i capelli, chi tinge cuoio, carta o qualsiasi altro materiale — è obbligato per la toladah del tingere. Chi applica cosmetico colorato su un viso — è obbligato per la toladah del tingere se ha l'intenzione che duri."
+    },
+    {
+      "n": 21,
+      "he": "הַמְּסָרֵק — חַיָּב מִשּׁוּם מְנַפֵּץ. הַטּוֹוֶה — חַיָּב. כַּמָּה שִׁיעוּרוֹ…",
+      "it": "Chi pettina la lana (mesarek) è obbligato per la categoria del cardare. Chi fila (tove) è obbligato. La misura minima per il filare è quanto basta per fare due punti (shtei batei nirin). Chi torce corde da fibre — è obbligato per la toladah del filare. Il filare nel Mishkan era realizzato dalle donne israelite con grande abilità, come è detto: «Ogni donna di cuore abile filava con le proprie mani» (Shemot 35:25)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shi'ur", "ke-grogeret", "menakkesh", "medalleh gefen", "borer", "mesnanen", "keli rishon", "keli sheni", "yad soledet bo", "shogeg", "mezid", "eruv tavshilin", "melaben", "sehitah", "menafetz", "mefared", "tove", "shtei batei nirin"
+  ]
+}

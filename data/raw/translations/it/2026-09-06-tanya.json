@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 8",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק ח",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 8",
+  "cycle": "tanya",
+  "date": "2026-09-06",
+  "hebrew_date": "24 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "מְמַלֵּא כָּל עָלְמִין — הַקָּדוֹשׁ בָּרוּךְ הוּא מָלֵא אֶת כָּל הָעוֹלָמוֹת מִבִּפְנִים. סוֹבֵב כָּל עָלְמִין — הוּא מַקִּיף אֶת כָּל הָעוֹלָמוֹת מִבַּחוּץ. שְׁנֵי אַסְפֶּקְטִים אֵלֶּה פּוֹעֲלִים בְּיַחַד.", "it": "Memalei kol almin — il Santo Benedetto riempie tutti i mondi dall'interno. Sovev kol almin — Egli circonda tutti i mondi dall'esterno. Questi due aspetti operano insieme."},
+    {"n": 2, "he": "הֶבְדֵּל בֵּין מְמַלֵּא לְסוֹבֵב — מְמַלֵּא הוּא הָאֱלֹקוּת הַמִּתְלַבֶּשֶׁת בְּתוֹךְ כָּל דָּבָר כְּפִי מַהֲלַךְ וְכוֹחוֹ. סוֹבֵב הוּא הָאֱלֹקוּת שֶׁלְּמַעְלָה מִכָּל הַגְּבָלָה — אֵינוֹ מִתְלַבֵּשׁ.", "it": "La differenza tra memalei e sovev — memalei è la Divinità che si riveste dentro ogni cosa secondo il suo modo e la sua forza. Sovev è la Divinità al di sopra di ogni limitazione — non si riveste."},
+    {"n": 3, "he": "שְׁנֵיהֶם שָׁוִים בְּאֱלֹקוּתָם — לֹא שֶׁהַסּוֹבֵב יוֹתֵר אֱלֹהִי מִן הַמְּמַלֵּא. שְׁנֵיהֶם הֵם אוֹר אֵין סוֹף הַחוֹזֵר לְמְקוֹרוֹ הָאֶחָד.", "it": "Entrambi sono uguali nella loro Divinità — non che il sovev sia più Divino del memalei. Entrambi sono la luce dell'Ein Sof che torna alla sua unica Sorgente."}
+  ],
+  "_glossary_terms_used": ["memalei kol almin", "sovev kol almin", "or Ein Sof", "hitlabshut"]
+}

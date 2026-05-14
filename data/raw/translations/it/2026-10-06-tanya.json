@@ -1,0 +1,25 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 14",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת יד",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 14",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-06",
+  "hebrew_date": "25 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יִשָּׂשכָר וּזְבוּלֻן — שֻׁתָּפוּת בְּתַלְמוּד תּוֹרָה…",
+      "it": "L'Alter Rebbe tratta del sostegno finanziario per i talmidei chachamim (studiosi di Torah) attraverso la celebre «partnership di Yissachar e Zevulun»: Zevulun parte per il commercio e mantiene economicamente Yissachar che studia Torah — e dividono la ricompensa spirituale (sekhar) a metà. L'Alter Rebbe spiega misticamente: Zevulun non «compra» semplicemente una quota della ricompensa dello studio di Yissachar — piuttosto, l'atto del sostegno economico è esso stesso un atto di Torah, poiché consente che la Torah venga studiata nel mondo."
+    },
+    {
+      "n": 2,
+      "he": "מַתְּנוֹת כְּהֻנָּה — בְּחִינַת תְּמִיכַת הַתּוֹרָה…",
+      "it": "Le matnot kehunah (offerte sacerdotali — primizie, decime, ecc.) che la Torah comanda di dare ai kohanim — sono la forma biblica del sostegno ai custodi dello studio spirituale. L'Alter Rebbe applica questo principio metaforicamente ai maestri chassidici (melamdim) e ai Rebbes: chi li sostiene economicamente partecipa nella loro missione di diffondere la Torah e la luce chassidica. Questo non è solo filantropìa — è una partnership spirituale (shutafut) reale nel livello dell'anima."
+    }
+  ],
+  "_glossary_terms_used": [
+    "talmidei chachamim", "Yissachar", "Zevulun", "sekhar", "matnot kehunah", "kohanim", "shutafut", "melamdim"
+  ]
+}

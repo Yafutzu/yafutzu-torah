@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 1",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, קטע א",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Trattato Finale), saggio 1",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-25",
+  "hebrew_date": "14 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "קוּנְטְרֵס אַחֲרוֹן — הוּא אֹסֶף מַאֲמָרִים עֲמוּקִים בְּסֵדֶר פְּנִימִיּוּת הַתּוֹרָה…",
+      "it": "Ha inizio il Kuntres Acharon (Trattato Finale) — la Parte V del Tanya, una raccolta di nove saggi kabbalistici e filosofici dell'Alter Rebbe. Saggio 1: sul rapporto tra «ohr» (luce) e «kli» (vaso) nella servitù divina. La luce divina che illumina l'anima durante la preghiera e lo studio è l'«ohr» — ma perché questa luce produca una trasformazione reale nella persona, deve essere contenuta in un «kli» (vaso): la mente, le emozioni, il corpo. La luce che non trova un vaso — illumina e svanisce; la luce che entra in un vaso — lo trasforma dall'interno."
+    },
+    {
+      "n": 2,
+      "he": "אַף שֶׁהַנְּשָׁמָה הִשִּׂיגָה הַשָּׂגָה עֶלְיוֹנָה — הַגּוּף וְהַנֶּפֶשׁ הַבַּהֲמִית עֲדַיִן צְרִיכִים זִיכּוּךְ…",
+      "it": "Anche dopo che l'anima (neshamah) ha raggiunto una comprensione spirituale elevata (hasagah) — il corpo (guf) e l'anima animale (nefesh ha-behamit) richiedono ancora raffinamento (zikkui). La comprensione intellettuale da sola non trasforma il corpo. D-o ha creato il mondo per la «bechirah chofshit» (libero arbitrio) e per il lavoro di raffinamento del materiale — «birrur ha-nitzotzot» (separazione delle scintille divine dalla materia). Questo lavoro richiede che la luce della comprensione penetri nei livelli più profondi dell'essere — corpo, emozioni, abitudini — non solo nell'intelletto."
+    },
+    {
+      "n": 3,
+      "he": "וְלָכֵן — רָצָה ה' שֶׁיִּהְיֶה עִקַּר הָעֲבוֹדָה לְמַטָּה דַּוְקָא…",
+      "it": "Il punto centrale del saggio: D-o desidera proprio il lavoro di raffinamento «qui in basso» — non solo la contemplazione spirituale pura «in alto». L'atto fisico di una mitzvah — anche senza particolare emozione — ha un valore cosmico enorme, poiché ogni mitzvah raffina una particella del mondo materiale e «libera» una scintilla divina intrappolata nella kelipah. Questo è il senso profondo di «na'aseh ve-nishma» (faremo e ascolteremo — Shemot 24:7): il «fare» precede il «sentire», perché il fare crea il vaso nel quale la comprensione può poi abitare permanentemente."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Kuntres Acharon", "ohr", "kli", "neshamah", "hasagah", "nefesh ha-behamit", "zikkui", "bechirah chofshit", "birrur ha-nitzotzot", "kelipah", "na'aseh ve-nishma"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 4",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ד",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah, capitolo 4",
+  "cycle": "tanya",
+  "date": "2026-09-14",
+  "hebrew_date": "3 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "הַיּוֹם צוֹם גְּדַלְיָה — יוֹם שֶׁבּוֹ אָנוּ מִתְאַבְּלִים עַל הֲרִיגַת גְּדַלְיָה בֶּן אֲחִיקָם, שֶׁגָּרְמָה לְגָלוּת בָּבֶל הַשְּׁלֵמָה. הַוִּידּוּי כְּלָלִי דָּרוּשׁ גַּם לְחֵטְא לְאוּמִי.", "it": "Oggi Tzom Gedaliah — giorno in cui piangiamo l'assassinio di Gedaliah figlio di Achikam, che causò la piena esilio babilonese. La confessione collettiva è richiesta anche per il peccato nazionale."},
+    {"n": 2, "he": "הַתַּעֲנִית כִּתְּשׁוּבָה — הַגּוּף שִׁתֵּף בַּחֵטְא, לְכֵן הַגּוּף מִשְׁתַּתֵּף בַּתְּשׁוּבָה. 'עִנּוּי נֶפֶשׁ' כְּמוֹ שֶׁנֶּאֱמַר בַּתּוֹרָה — הַנֶּפֶשׁ נִזּוֹנֵת מֵחֲיּוּת הַגּוּף, וְהַתַּעֲנִית מְעַנָּה אוֹתָהּ.", "it": "Il digiuno come teshuvah — il corpo ha partecipato al peccato, quindi il corpo partecipa alla teshuvah. 'Afflizione dell'anima' come è detto nella Torah — l'anima è nutrita dalla vitalità del corpo, e il digiuno la affligge."},
+    {"n": 3, "he": "אַךְ בְּדוֹרֵנוּ — תַּלְמוּד תּוֹרָה וּתְפִלָּה מוֹעִילִין יוֹתֵר מִן הַתַּעֲנִית. שֶׁהַתַּעֲנִית מַחֲלִישָׁה אֶת הָאָדָם וּמוֹנַעַת אוֹתוֹ מֵהִתְפַּלֵּל בְּכַוָּנָה. וְ'תַּלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם'.", "it": "Ma nella nostra generazione — lo studio della Torah e la preghiera sono più efficaci del digiuno. Poiché il digiuno indebolisce la persona e le impedisce di pregare con kavanah. E 'lo studio della Torah equivale a tutto'."}
+  ],
+  "_glossary_terms_used": ["teshuvah", "tzom", "inuy nefesh", "talmud Torah", "kavanah", "Tzom Gedaliah"]
+}

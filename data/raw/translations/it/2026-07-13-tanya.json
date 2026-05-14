@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 1",
+  "name_he": "תניא, חלק א — ליקוטי אמרים (ספר של בינונים), פרק א",
+  "name_it": "Tanya, Parte I — Likutei Amarim (Libro dei Beinonim), capitolo 1",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-13",
+  "hebrew_date": "28 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פֶּרֶק א — הַקְדָּמָה: מַחֲזוֹר הַתַּנְיָא יוֹמִי מִתְחִיל מֵחָדָשׁ. הַגְּמָרָא (נִדָּה ל:) אוֹמֶרֶת: \"מַשְׁבִּיעִין אוֹתוֹ — 'תְּהֵא צַדִּיק וְאַל תְּהֵא רָשָׁע'\".",
+      "it": "Capitolo 1 — Introduzione: Il ciclo del Tanya Yomi ricomincia. Il Talmud (Niddah 30b) afferma: «Si fa giurare [l'anima prima di nascere] — 'Sii giusto (tzaddik) e non essere malvagio (rasha)'»."
+    },
+    {
+      "n": 2,
+      "he": "מַדּוּעַ הַשְּׁבוּעָה אוֹמֶרֶת \"תְּהֵא צַדִּיק\" וְלֹא \"תְּהֵא בֵּינוֹנִי\"? כִּי \"צַדִּיק\" וְ\"רָשָׁע\" כָּאן אֵינָם בַּמַּשְׁמָעוּת הַהֲלָכָתִית הָרְגִילָה, אֶלָּא בְּמַשְׁמָעוּת הַמַּאֲבָק הַפְּנִימִי שֶׁל הַנְּשָׁמָה.",
+      "it": "Perché il giuramento dice «sii tzaddik» e non «sii beinoni»? Perché «tzaddik» e «rasha» qui non sono nel loro significato halachico ordinario, ma nel senso della battaglia interiore dell'anima."
+    },
+    {
+      "n": 3,
+      "he": "הַצַּדִּיק — כָּבַשׁ אֶת יִצְרוֹ לְגַמְרֵי, אֵין לוֹ עוֹד יֵצֶר הָרָע. הָרָשָׁע — נִכְנַע לְיִצְרוֹ. הַבֵּינוֹנִי — נִלְחָם תָּמִיד וּכּוֹבֵשׁ. הַשְּׁבוּעָה \"תְּהֵא צַדִּיק\" פֵּירוּשׁ — הִשְׁתַּדֵּל לְהַגִּיעַ לְדַרְגַּת הַצַּדִּיק, אֲבָל בְּפַחַד — \"אַל תְּהֵא רָשָׁע\" בְּאֶמְצָעִית.",
+      "it": "Il Tzaddik — ha completamente sottomesso il proprio yetzer hara, non gli rimane più yetzer hara. Il Rasha — è sottomesso al proprio istinto. Il Beinoni — combatte sempre e conquista. Il giuramento «sii tzaddik» significa — sforzati di raggiungere il livello del Tzaddik, ma almeno — «non essere rasha» nel mezzo."
+    }
+  ],
+  "_glossary_terms_used": ["Likutei Amarim", "Tanya", "Tzaddik", "Rasha", "Beinoni", "neshamah", "yetzer hara", "yetzer hatov", "Talmud Niddah", "mashbi'in oto"]
+}

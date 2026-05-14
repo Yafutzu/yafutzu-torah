@@ -1,0 +1,137 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 11",
+  "name_he": "משנה תורה, הלכות גירושין, פרק יא",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 11",
+  "cycle": "rambam-1",
+  "date": "2026-09-28",
+  "hebrew_date": "17 Tishrei 5787",
+  "halachot_count": 25,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיוָן שֶׁנָּטְלָה הָאִשָּׁה אֶת גִּיטָּהּ — הֲרֵי זוֹ גְּרוּשָׁה מִיָּד. וּמִכָּאן וְאֵילָך הִיא מֻתֶּרֶת לְכָל אָדָם.",
+      "it": "Non appena la donna ha preso il suo get — è immediatamente divorziata. Da quel momento in poi è permessa a qualsiasi uomo."
+    },
+    {
+      "n": 2,
+      "he": "מֻתֶּרֶת לְכָל אָדָם — חוּץ מִכֹּהֵן. כֹּהֵן אָסוּר בִּגְרוּשָׁה, שֶׁנֶּאֱמַר: 'וְאִשָּׁה גְּרוּשָׁה מֵאִישָׁהּ לֹא יִקָּחוּ.'",
+      "it": "Permessa a qualsiasi uomo — tranne a un cohen. Al cohen è proibito sposare una divorziata, come è detto: 'Una donna divorziata dal suo marito non prenderanno.'"
+    },
+    {
+      "n": 3,
+      "he": "אֲפִלּוּ גֵּרְשָׁהּ אִישָׁהּ הַכֹּהֵן — אֲסוּרָה לַחֲזֹר אֵלָיו. כֵּיוָן שֶׁגֵּרְשָׁהּ — נֶאֶסְרָה לוֹ.",
+      "it": "Anche se il suo marito Cohen la ha divorziata — le è proibito ritornare da lui. Non appena l'ha divorziata — gli è proibita."
+    },
+    {
+      "n": 4,
+      "he": "הַגְּרוּשָׁה יֵשׁ לָהּ כָּל זְכֻיּוֹת שֶׁהָיוּ לָהּ לִפְנֵי הַנִּשּׂוּאִין — חוּץ מִמַּה שֶּׁוָּתְרָה עָלָיו בַּחוֹזֶה.",
+      "it": "La divorziata ha tutti i diritti che aveva prima del matrimonio — tranne ciò a cui ha rinunciato nel contratto."
+    },
+    {
+      "n": 5,
+      "he": "הָאִשָּׁה גְּרוּשָׁה — כְּסוּתָהּ שֶׁלָּהּ, נְכָסֶיהָ שֶׁלָּהּ, כֹּל שֶׁהִכְנִיסָה לַנִּשּׂוּאִין חוֹזֵר לָהּ.",
+      "it": "La donna divorziata — il suo abbigliamento è suo, i suoi beni sono suoi, tutto ciò che ha portato al matrimonio le torna."
+    },
+    {
+      "n": 6,
+      "he": "כְּתֻבָּתָהּ — גּוֹבָה מִן הַיּוֹרְשִׁין אוֹ מִן הַבַּעַל עַצְמוֹ.",
+      "it": "La sua ketubbah — la riscuote dagli eredi o dal marito stesso."
+    },
+    {
+      "n": 7,
+      "he": "הַוָּלָד מִנִּשּׂוּאִים שְׁנִיִּים לְאַחַר גֵּרוּשִׁין — כָּשֵׁר לְגַמְרֵי. אֵין פֶּגַם בַּוָּלָד.",
+      "it": "Il figlio da un secondo matrimonio dopo il divorzio — è completamente valido. Non vi è alcun difetto nel figlio."
+    },
+    {
+      "n": 8,
+      "he": "הַוָּלָד לְאָבִיו הַשֵּׁנִי — נוֹהֵג בּוֹ כָּל דִּינֵי הָאָבוֹת. וְלָאָב הָרִאשׁוֹן — אֵין לוֹ זִיקָה.",
+      "it": "Il figlio verso il secondo padre — si applicano tutte le leggi dei padri. Verso il primo padre — non ha alcun vincolo."
+    },
+    {
+      "n": 9,
+      "he": "אָב שֶׁגֵּרַשׁ אֶת אִמּוֹ — חַיָּב לִנְפּוֹת אֶת בָּנָיו מִן הַגֵּרוּשָׁה כָּרָגִיל.",
+      "it": "Un padre che ha divorziato dalla madre — è tenuto a mantenere i suoi figli dalla divorziata come di consueto."
+    },
+    {
+      "n": 10,
+      "he": "אָב שֶׁגֵּרַשׁ אֶת אִמּוֹ — הַבָּנִים יִכְבְּדוּ אֶת שְׁנֵיהֶם כְּאָב וְאֵם.",
+      "it": "Un padre che ha divorziato dalla madre — i figli devono onorare entrambi come padre e madre."
+    },
+    {
+      "n": 11,
+      "he": "אַחֲרֵי הַגֵּרוּשִׁין — הַבַּעַל אֵינוֹ חַיָּב בִּמְזוֹן אִשְׁתּוֹ לְשֶׁעָבַר. אֲבָל חַיָּב לְשַׁלֵּם כְּתֻבָּה.",
+      "it": "Dopo il divorzio — il marito non è più obbligato al mantenimento della ex-moglie. Ma è obbligato a pagare la ketubbah."
+    },
+    {
+      "n": 12,
+      "he": "הַגְּרוּשָׁה אֵינָהּ יוֹשֶׁבֶת בְּבֵיתוֹ לְאַחַר גֵּרוּשִׁין. חוּץ מִבֵּית הַנְּפִילוֹת — כְּלוֹמַר בֵּית שֶׁגָּר בּוֹ עוֹד בַּעְלָהּ הָרִאשׁוֹן בִּזְמַן גֵּרוּשֵׁי הַשֵּׁנִי.",
+      "it": "La divorziata non rimane nella sua casa dopo il divorzio — tranne nella 'casa dei caduti' — cioè se suo primo marito abita ancora lì al momento del secondo divorzio."
+    },
+    {
+      "n": 13,
+      "he": "הַגְּרוּשָׁה מֻתֶּרֶת לְהִנָּשֵׂא מִיָּד לְאַחַר שֶׁנִּתְגָּרְשָׁה, חוּץ מִבֵּית הַבַּעַל.",
+      "it": "La divorziata è permessa a risposarsi immediatamente dopo il divorzio — tranne nella casa del marito."
+    },
+    {
+      "n": 14,
+      "he": "אֵין צָרִיךְ לְהַמְתִּין שְׁלֹשָׁה חֳדָשִׁים לַגְּרוּשָׁה כְּמוֹ לַגַּיֶּרֶת — שֶׁגֵּרוּשִׁין בְּיָדוּעַ וְאֵין חֲשֶׁשׁ עֵרוּב זֶרַע.",
+      "it": "Non occorre aspettare tre mesi per la divorziata come per la convertita — perché il divorzio è noto e non vi è preoccupazione di mescolanza di seme."
+    },
+    {
+      "n": 15,
+      "he": "יֵשׁ מְחַלְּקִין — הַחֲכָמִים תִּקְּנוּ לְהַמְתִּין גַּם לְגְרוּשָׁה שְׁלֹשָׁה חֳדָשִׁים. וְהַמִּנְהָג לְהַמְתִּין.",
+      "it": "Alcuni distinguono — i Saggi hanno disposto di aspettare anche per la divorziata tre mesi. E la consuetudine è di aspettare."
+    },
+    {
+      "n": 16,
+      "he": "הָאִשָּׁה שֶׁהָיְתָה עֲקָרָה — אֵין צָרִיךְ לְהַמְתִּין.",
+      "it": "La donna sterile — non occorre aspettare."
+    },
+    {
+      "n": 17,
+      "he": "הַגְּרוּשָׁה שֶׁנִּשֵּׂאת לְאַחֵר וְגֵרְשָׁהּ — אֵינָהּ מֻתֶּרֶת לַחֲזֹר לַרִאשׁוֹן, שֶׁנֶּאֱמַר: 'לֹא יוּכַל בַּעְלָהּ הָרִאשׁוֹן אֲשֶׁר שִׁלְּחָהּ לָשׁוּב לְקַחְתָּהּ.'",
+      "it": "La divorziata che si è risposata con un altro e l'ha divorziata — non è permessa ritornare al primo, come è detto: 'Il suo primo marito che l'ha mandata via non potrà riprenderla.'"
+    },
+    {
+      "n": 18,
+      "he": "הַנִּשֵּׂאת לְאַחֵר וּמֵת הַשֵּׁנִי — מֻתֶּרֶת לָרִאשׁוֹן. שֶׁהָאִסּוּר הוּא רַק בְּגֵרוּשִׁין שֵׁנִיִּין.",
+      "it": "Se si è risposata con un altro e il secondo è morto — è permessa al primo. Perché il divieto riguarda solo un secondo divorzio."
+    },
+    {
+      "n": 19,
+      "he": "אֵין הַבַּעַל הָרִאשׁוֹן יָכוֹל לִקְחָה לִפְנֵי שֶׁנִּשָּׂאת לַשֵּׁנִי. שֶׁמִּשֶּׁנִּשָּׂאת לַשֵּׁנִי — נִשְׁתַּנָּה דִּינָהּ.",
+      "it": "Il primo marito non può riprenderla prima che si sposi con il secondo. Perché dal momento in cui si sposa con il secondo — il suo statuto cambia."
+    },
+    {
+      "n": 20,
+      "he": "הַגֵּרוּשָׁה זְקוּקָה לְכֹל מַה שֶׁהִיא עָשְׂתָה בְּזְמַן נִשּׂוּאֶיהָ — מִבְּחִינַת מְמוֹן.",
+      "it": "La divorziata è obbligata per tutto ciò che ha fatto durante il matrimonio — dal punto di vista finanziario."
+    },
+    {
+      "n": 21,
+      "he": "שְׁטַר גֵּרוּשִׁין — כְּלוֹמַר הַגֵּט — מִשְׁמֵשׁ גַּם כִּשְׁטַר קִיּוּם שֶׁהִיא הָיְתָה נְשׂוּאָה לוֹ.",
+      "it": "Il documento di divorzio — cioè il get — serve anche come documento che attesta che era sposata con lui."
+    },
+    {
+      "n": 22,
+      "he": "הַגֵּט נִשְׁמָר בְּיַד הָאִשָּׁה, שֶׁהוּא סִמָּן לְגֵרוּשֶׁיהָ.",
+      "it": "Il get è conservato dalla donna, perché è prova del suo divorzio."
+    },
+    {
+      "n": 23,
+      "he": "אָבְדָה אֶת גִּיטָּהּ — אֵינָהּ צְרִיכָה לְחַזֵּר. מַעֲשֵׂה הַגֵּרוּשִׁין גָּמוּר בְּיוֹם הַנְּתִינָה.",
+      "it": "Ha perso il suo get — non deve procurarsene un altro. L'atto del divorzio è compiuto nel giorno della consegna."
+    },
+    {
+      "n": 24,
+      "he": "חוֹל הַמּוֹעֵד שֶׁל סוּכּוֹת — יְמֵי שִׂמְחָה הֵם. אַף לִמּוּד הִלְכוֹת גֵּרוּשִׁין הוּא שִׂמְחַת הַתּוֹרָה.",
+      "it": "Il Chol HaMoed di Sukkot — sono giorni di gioia. Anche lo studio delle leggi del divorzio è una gioia della Torah."
+    },
+    {
+      "n": 25,
+      "he": "כָּל דִּינֵי הַגְּרוּשָׁה הָאֵלּוּ — מְלַמְּדִים אוֹתָנוּ שֶׁהַתּוֹרָה כָּבְדָה כָּל אִשָּׁה, אֲפִלּוּ גְּרוּשָׁה, וְנָתְנָה לָהּ זְכֻיּוֹת וְכָבוֹד.",
+      "it": "Tutte queste leggi sulla divorziata — ci insegnano che la Torah ha onorato ogni donna, anche la divorziata, e le ha dato diritti e dignità."
+    }
+  ],
+  "_glossary_terms_used": ["gerushah", "kohen", "ketubbah", "get", "Chol HaMoed", "Sukkot"]
+}

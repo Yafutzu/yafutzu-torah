@@ -1,0 +1,97 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 2",
+  "name_he": "משנה תורה, הלכות אישות, פרק ב",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-25",
+  "hebrew_date": "12 Elul 5786",
+  "halachot_count": 17,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הנשים שנאסרו על האיש — מהן שאיסורן איסור עולם לכל אדם, ומהן שאיסורן לפי גופן, ומהן שאיסורן לאנשים ידועים.",
+      "it": "Le donne che sono proibite a un uomo si dividono in categorie: alcune la cui proibizione è permanente per tutti gli uomini; alcune la cui proibizione riguarda loro stesse (a causa di un atto commesso); alcune la cui proibizione vale soltanto per determinati uomini."
+    },
+    {
+      "n": 2,
+      "he": "האיסורים לכל אדם — אלו הן עריות, שאסרתן תורה מפני שהן קרובי האיש. ואלו הן: אם, ובת, ואחות, ובת אחות, ובת אח, ואשת אח, ואחות אשתו, ועוד.",
+      "it": "Le proibizioni per tutti gli uomini — queste sono le arayot (unioni carnali proibite), che la Torah proibisce poiché sono parenti dell'uomo. Esse sono: la madre, la figlia, la sorella, la figlia della sorella, la figlia del fratello, la moglie del fratello, la sorella della moglie, e altre ancora."
+    },
+    {
+      "n": 3,
+      "he": "כל אחד מן העריות — עונשו כרת, ואם עשו בזדון והתרו בהם — ייהרגו בבית דין.",
+      "it": "Per ognuna delle arayot, la punizione è karet (recisione spirituale). Se le compirono intenzionalmente e furono avvertiti — vengono condannati a morte dal tribunale (beit din)."
+    },
+    {
+      "n": 4,
+      "he": "ויש נשים שאיסורן לא מפני שהן עריות אלא מפני הלאו — כגון: ממזרת, גיורת, ונתינה.",
+      "it": "Vi sono donne la cui proibizione non è perché siano arayot, ma a causa di un divieto specifico (lav): per esempio la mamzerit (figlia di un'unione proibita), la ghiyoret (convertita), e la Netina (discendente dei Gibeoniti) per certi uomini."
+    },
+    {
+      "n": 5,
+      "he": "הכהן אסור בגרושה, בחלוצה, בזונה, ובחללה.",
+      "it": "Il Kohen (sacerdote) è proibito nella divorziate (gerushah), nella chalutza (quella che passò la cerimonia di chalitzah), nella zonah (una donna che ha avuto rapporti sessuali con un uomo proibito per lei), e nella challalah (figlia profanata nata da un'unione proibita per i Kohanim)."
+    },
+    {
+      "n": 6,
+      "he": "כהן גדול אסור לישא אלמנה, בין אלמנה מן האירוסין בין אלמנה מן הנישואין.",
+      "it": "Il Kohen Gadol (Sommo Sacerdote) è proibito nello sposare una vedova (almanah), sia vedova dal fidanzamento (erusin) sia vedova dal matrimonio (nissuin)."
+    },
+    {
+      "n": 7,
+      "he": "ממזר — הנולד מאחת מן העריות, או מאיסורי לאוין שחייבים עליהם מלקות.",
+      "it": "Il mamzer — è colui che nasce da una delle arayot, o da unioni proibite da un divieto la cui violazione comporta la flagellazione (malkot)."
+    },
+    {
+      "n": 8,
+      "he": "ממזר — אסור לישא בת ישראל, שנאמר: 'לא יבוא ממזר בקהל ה''.",
+      "it": "Il mamzer — è proibito nel sposare una figlia d'Israele, come è detto: 'Il mamzer non entrerà nell'assemblea del Signore' (Deuteronomio 23:3)."
+    },
+    {
+      "n": 9,
+      "he": "ממזרת ועמוני ומואבי — לעולם אסורים ואוסרין לעד.",
+      "it": "Una mamzeret, un Ammonita o un Moabita — sono proibiti per sempre e il divieto si trasmette per sempre."
+    },
+    {
+      "n": 10,
+      "he": "עמוני ומואבי — אסורין לעולם. אבל עמונית ומואבית — מותרות לאלתר.",
+      "it": "Un Ammonita e un Moabita maschi — sono proibiti per sempre. Ma una Ammonita e una Moabita femmine — sono permesse immediatamente [dopo la conversione]."
+    },
+    {
+      "n": 11,
+      "he": "מצרי ואדומי — דורם השלישי מותר.",
+      "it": "Un Egiziano e un Edomita — la terza generazione è permessa [a entrare nell'assemblea]."
+    },
+    {
+      "n": 12,
+      "he": "גר שנשא בת ישראל, או ישראל שנשא גיורת — הולד כשר לגמרי.",
+      "it": "Un proselita (ger) che sposa una figlia d'Israele, o un Israelita che sposa una convertita (ghiyoret) — il figlio è completamente kashir (valido)."
+    },
+    {
+      "n": 13,
+      "he": "האשה המזנה תחת בעלה — אסורה לבעלה, ואסורה לבועלה.",
+      "it": "La donna che commette adulterio sotto suo marito — è proibita al marito e all'adulterino."
+    },
+    {
+      "n": 14,
+      "he": "סוטה שנטמאה ברצון — אסורה לבעלה מן התורה. סוטה שנאנסה — מותרת לבעלה.",
+      "it": "Una sotah (donna sospettata di adulterio) che si è effettivamente resa impura consensualmente — è proibita al marito per legge biblica. Una sotah che fu violentata contro la sua volontà — è permessa al marito."
+    },
+    {
+      "n": 15,
+      "he": "אשת איש שנתגרשה — מותרת לכל אדם חוץ מן הבועל.",
+      "it": "Una donna sposata che fu divorziata — è permessa a qualsiasi uomo tranne all'adulterino."
+    },
+    {
+      "n": 16,
+      "he": "גרושה שנשאת לאחר — אסורה לחזור לבעלה הראשון, שנאמר: 'לא יוכל בעלה הראשון אשר שלחה לשוב לקחתה'.",
+      "it": "Una divorziata che si è sposata con un altro — è proibita nel ritornare al primo marito, come è detto: 'Il suo primo marito che l'ha mandata via non potrà riprenderla' (Deuteronomio 24:4)."
+    },
+    {
+      "n": 17,
+      "he": "הרי אלה עיקרי הנשים שאסורות, ויתבאר כל פרטיהם בהלכות אלו.",
+      "it": "Questi sono i principi delle donne che sono proibite, e tutti i loro dettagli saranno spiegati nel seguito di queste leggi."
+    }
+  ],
+  "_glossary_terms_used": ["arayot", "karet", "beit din", "mamzerit", "ghiyoret", "Kohen", "gerushah", "chalutza", "zonah", "challalah", "Kohen Gadol", "erusin", "nissuin", "mamzer", "malkot", "sotah", "ger", "kashir"]
+}

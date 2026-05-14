@@ -1,0 +1,142 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 7",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק ז",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 7",
+  "cycle": "rambam-1",
+  "date": "2026-07-21",
+  "hebrew_date": "7 Av 5786",
+  "halachot_count": 26,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יוֹם שְׁבִיעִי שֶׁל חַג הַסֻּכּוֹת הוּא הוֹשַׁעְנָא רַבָּא.",
+      "it": "Il settimo giorno della festa di Sukkot è Hoshana Rabbah."
+    },
+    {
+      "n": 2,
+      "he": "בְּהוֹשַׁעְנָא רַבָּא נוֹהֲגִין לְהַקִּיף אֶת הַמִּזְבֵּחַ שֶׁבַע פְּעָמִים.",
+      "it": "A Hoshana Rabbah vi è l'usanza di circumambulare l'altare sette volte."
+    },
+    {
+      "n": 3,
+      "he": "נוֹטְלִין עֲרָבוֹת וּמַכִּין אוֹתָן בָּאָרֶץ אוֹ בְּשׁוּלֵי כְּלֵי הַמִּטָּה, וְזוֹ הִיא מִצְוַת עֲרָבָה בְּהוֹשַׁעְנָא רַבָּא.",
+      "it": "Si prendono salici (aravot) e li si batte contro il suolo o contro il bordo di un utensile — questa è la mitzvah dell'aravah a Hoshana Rabbah."
+    },
+    {
+      "n": 4,
+      "he": "מִצְוַת עֲרָבָה זוֹ — הֲלָכָה לְמֹשֶׁה מִסִּינַי הִיא.",
+      "it": "Questa mitzvah dell'aravah è una tradizione di Mosè dal Sinai (halachah le-Moshe mi-Sinai)."
+    },
+    {
+      "n": 5,
+      "he": "אָמְרוּ חֲכָמִים: הוֹשַׁעְנָא רַבָּא הוּא יוֹם חִתּוּם הַגְּזַר דִּין שֶׁל רֹאשׁ הַשָּׁנָה.",
+      "it": "I Saggi hanno detto: Hoshana Rabbah è il giorno della sigillatura finale del decreto del Capodanno (Rosh Hashanah) — il giudizio divino viene definitivamente ratificato."
+    },
+    {
+      "n": 6,
+      "he": "לָכֵן נוֹהֲגִין בּוֹ מִקְצָת דִּינֵי יוֹם הַכִּפּוּרִים, כְּגוֹן לְהוֹסִיף בִּתְפִלָּה וּבְסִלִּיחוֹת.",
+      "it": "Perciò si osservano in questo giorno alcuni aspetti dello spirito del Giorno dell'Espiazione, come l'aggiunta di preghiere e selichot (suppliche di perdono)."
+    },
+    {
+      "n": 7,
+      "he": "בְּהוֹשַׁעְנָא רַבָּא אוֹמְרִים הוֹשַׁעְנוֹת מְיֻחָדוֹת לְכָל שִׁבְעַת הַהַקָּפוֹת.",
+      "it": "A Hoshana Rabbah si recitano preghiere di hoshanot speciali per ciascuna delle sette circumambulazioni."
+    },
+    {
+      "n": 8,
+      "he": "בְּכָל יוֹם מִשִּׁבְעַת יְמֵי הַחַג מַקִּיפִין אֶת הַמִּזְבֵּחַ פַּעַם אַחַת.",
+      "it": "In ognuno dei sette giorni della festa si circumambula l'altare una volta."
+    },
+    {
+      "n": 9,
+      "he": "בַּיּוֹם הַשְּׁבִיעִי מַקִּיפִין אוֹתוֹ שֶׁבַע פְּעָמִים, זֵכֶר לְמַה שֶּׁעָשׂוּ בִּירִיחוֹ.",
+      "it": "Il settimo giorno si circumambula l'altare sette volte, in ricordo di quanto fu fatto a Gerico (quando Israele circumambulò le mura sette volte)."
+    },
+    {
+      "n": 10,
+      "he": "נִסּוּךְ הַמַּיִם — מִצְוָה מִדִּבְרֵי סוֹפְרִים בְּכָל שִׁבְעַת יְמֵי חַג הַסֻּכּוֹת.",
+      "it": "La libagione d'acqua (nisuch ha-mayim) è una mitzvah di origine rabbinica, praticata per tutti i sette giorni di Sukkot nel Tempio."
+    },
+    {
+      "n": 11,
+      "he": "כֵּיצַד הָיָה נִסּוּךְ הַמַּיִם? מַמְלִיאִין צְלוֹחִית שֶׁל זָהָב שְׁלֹשָׁת לֻגִּין מַיִם מִבְּרֵכַת הַשִּׁלּוֹחַ.",
+      "it": "Come si eseguiva la libagione d'acqua? Si riempiva un vaso d'oro contenente tre log d'acqua dalla piscina di Shiloach."
+    },
+    {
+      "n": 12,
+      "he": "שִׂמְחַת בֵּית הַשּׁוֹאֵבָה הָיְתָה בַּלַּיְלָה. חֲסִידִים וְאַנְשֵׁי מַעֲשֶׂה הָיוּ מְרַקְּדִין לִפְנֵי ה' בְּעֵת הַשִּׂמְחָה.",
+      "it": "La Simchat Beit haSho'evah (gioia della casa dell'attingimento) si svolgeva di notte. Uomini pii e di buone opere danzavano dinanzi all'Eterno durante questa festa di gioia."
+    },
+    {
+      "n": 13,
+      "he": "אָמְרוּ חֲכָמִים: מִי שֶׁלֹּא רָאָה שִׂמְחַת בֵּית הַשּׁוֹאֵבָה — לֹא רָאָה שִׂמְחָה מִיָּמָיו.",
+      "it": "Dissero i Saggi: 'Chi non ha visto la Simchat Beit haSho'evah non ha mai visto una vera gioia in vita sua.'"
+    },
+    {
+      "n": 14,
+      "he": "נוֹשְׂאִין עֲרָבוֹת בְּיָדָן בְּהוֹשַׁעְנָא רַבָּא וּמַכִּין אוֹתָן כְּדֵי שֶׁיִּנָּתְּקוּ הֶעָלִין.",
+      "it": "Si tengono in mano le aravot a Hoshana Rabbah e le si batte finché non cadono le foglie."
+    },
+    {
+      "n": 15,
+      "he": "אֵין לָהּ שִׁעוּר — אֲפִלּוּ הִכָּה פַּעַם אַחַת, יָצָא.",
+      "it": "Non vi è una misura precisa di colpi — anche se si batte una volta sola, si è adempiuto la mitzvah."
+    },
+    {
+      "n": 16,
+      "he": "בְּהוֹשַׁעְנָא רַבָּא מִתְפַּלְּלִין תְּפִלַּת מוּסָף כְּדֶרֶךְ כָּל יְמוֹת הַחַג.",
+      "it": "A Hoshana Rabbah si recita la preghiera Musaf come in tutti gli altri giorni della festa."
+    },
+    {
+      "n": 17,
+      "he": "גָּמְרוּ אֶת הַהַלֵּל — מַתְחִילִין בְּהוֹשַׁעְנוֹת.",
+      "it": "Dopo aver completato il Hallel, si iniziano le hoshanot."
+    },
+    {
+      "n": 18,
+      "he": "הַסֵּפֶר תּוֹרָה מוּצָא וּמַנִּיחִין אוֹתוֹ עַל הַבִּימָה, וּמַקִּיפִין סְבִיבוֹ.",
+      "it": "Il Sefer Torah viene estratto dall'arca e collocato sulla bima (leggio), e si circumambula attorno ad esso."
+    },
+    {
+      "n": 19,
+      "he": "הַשְּׁלִיחַ צִבּוּר עוֹמֵד בַּבִּימָה וְאוֹמֵר: 'אָנָּא ה' הוֹשִׁיעָה נָּא, אָנָּא ה' הַצְלִיחָה נָּא'.",
+      "it": "Il chazzan (sheliach tzibbur) sta sulla bima e dice: 'Ana Hashem hoshiah na, Ana Hashem hatzlichah na' — Ti prego, Signore, salvaci! Ti prego, Signore, fa' prosperare!"
+    },
+    {
+      "n": 20,
+      "he": "וְהַקָּהָל עוֹנֶה אַחֲרָיו.",
+      "it": "E la comunità (kahal) risponde dopo di lui."
+    },
+    {
+      "n": 21,
+      "he": "בְּמִקְדָּשׁ הָיוּ לוּלָב וְאֶתְרוֹג בְּהוֹשַׁעְנָא רַבָּא אֲפִלּוּ בְּשַׁבָּת.",
+      "it": "Nel Tempio si prendeva il lulav e l'etrog a Hoshana Rabbah anche di Shabbat."
+    },
+    {
+      "n": 22,
+      "he": "בִּגְבוּלִין — כְּשֶׁחָל הוֹשַׁעְנָא רַבָּא בְּשַׁבָּת, אֵין נוֹטְלִין לוּלָב.",
+      "it": "Fuori dal Tempio (ba-gevulin), quando Hoshana Rabbah cade di Shabbat, non si prende il lulav."
+    },
+    {
+      "n": 23,
+      "he": "אֶתְרוֹג וּשְׁאָר הַמִּינִין שֶׁנִּגְמְרָה מִצְוָתָן — מֻתָּרִין בַּהֲנָאָה.",
+      "it": "L'etrog e le altre specie dopo che la loro mitzvah è stata completata — è lecito trarne beneficio."
+    },
+    {
+      "n": 24,
+      "he": "נוֹהֲגִין לַעֲשׂוֹת אֶתְרוֹג מֻרְבָּס לִכְבוֹד יוֹם הַכִּפּוּרִים — שֶׁמַּנִּיחִין אוֹתוֹ בְּסֻכֶּרֶת וּמְאַחֲסְנִין אוֹתוֹ.",
+      "it": "Vi è l'usanza di conservare l'etrog in sciroppo di zucchero (murbas) in onore del Giorno dell'Espiazione — lo si mette nello zucchero e lo si conserva."
+    },
+    {
+      "n": 25,
+      "he": "אֲפִלּוּ קָטָן הַיּוֹדֵעַ לְנַעְנֵעַ — חַיָּב אָבִיו לִקַּח לוֹ לוּלָב לְחַנְּכוֹ.",
+      "it": "Anche un bambino che sa agitare il lulav — il padre è obbligato a comprarne uno per educarlo (chinuch)."
+    },
+    {
+      "n": 26,
+      "he": "כָּל מִי שֶׁאֵינוֹ נוֹטֵל לוּלָב — עָבַר עַל עֲשֵׂה זֶה וּבִטֵּל מִצְוָה מִן הַתּוֹרָה.",
+      "it": "Chiunque non prenda il lulav ha trasgredito questo comandamento positivo e ha mancato a una mitzvah della Torah."
+    }
+  ],
+  "_glossary_terms_used": ["Hoshana Rabbah", "aravot", "halachah le-Moshe mi-Sinai", "nisuch ha-mayim", "Simchat Beit haSho'evah", "hoshanot", "Sefer Torah", "bima", "chazzan", "Hallel", "chinuch"]
+}

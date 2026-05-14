@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Zechia UMatana 7-9",
+  "name_he": "משנה תורה, הלכות זכייה ומתנה, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi dell'Acquisizione e dei Doni, capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-10-25",
+  "hebrew_date": "14 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "7:1-6",
+      "he": "מַתְּנַת שְׁכִיב מֵרַע בְּכָל נְכָסָיו — אֵינָה כִּשְׁטָר מַתָּנָה…",
+      "it": "(Zechia UMatana cap. 7) La matnat shechiv mera — approfondimento: se il morente dona tutti i suoi beni, senza escludere nulla per sé stesso — i Saggi si chiedono se questo equivalga a una rinuncia totale della proprietà (hefker) o a un dono specifico. La posizione del Rambam: anche una donazione di tutti i beni in punto di morte è una matnat shechiv mera regolare e non crea difficoltà particolari. Il morente può revocarla finché è in vita. Se il morente dice «tutti i miei beni siano dati a X, tranne Y» — il «tranne Y» dimostra che intende una donazione volontaria, non una rinuncia totale."
+    },
+    {
+      "n": "8:1-5",
+      "he": "הַנּוֹתֵן מַתָּנָה לַחֲבֵרוֹ בֵּין חַיִּים — מַה דִּינוֹ אִם חָזַר בּוֹ…",
+      "it": "(Zechia UMatana cap. 8) Irrevocabilità dei doni tra vivi: a differenza della matnat shechiv mera, un dono ordinario tra vivi (matanah bein chayyim) — una volta che il kinyan è stato eseguito — è irrevocabile. Il donante non può reclamare il dono indietro. Eccezione: se il dono fu fatto sotto costrizione (ones) o inganno (mirmah) — è annullabile. Se il dono fu condizionato a qualcosa («ti do questo se vieni a lavorare per me») e la condizione non è stata soddisfatta — la donazione non si è mai perfezionata. La regola: un dono pieno e incondizionato con kinyan è definitivo."
+    },
+    {
+      "n": "9:1-7",
+      "he": "הַנּוֹתֵן מַתָּנָה לְנָשִׂיא אוֹ לְמֶלֶךְ — אִם נוֹתֵן מֵחֲמַת יִרְאָה — אֵינָה מַתָּנָה…",
+      "it": "(Zechia UMatana cap. 9) Doni fatti per paura o sotto pressione (matanah mi-chamot yirah): un dono dato a un potente (melech, nasi — re, principe) o a qualsiasi persona per paura di rappresaglie — non è una vera donazione, poiché manca il gemirat da'at libero. Se il donante vuole recuperare il dono — può farlo, dimostrando che diede per paura. Tuttavia, se il donante successivamente ratifica il dono (matneh medina — il dono successivamente confermato) senza costrizione — diventa valido. La distinzione: paura al momento del dono invalida; conferma successiva libera sana."
+    }
+  ],
+  "_glossary_terms_used": [
+    "matnat shechiv mera", "hefker", "matanah bein chayyim", "kinyan", "ones", "mirmah", "gemirat da'at", "matanah mi-chamot yirah"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 3-4",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות ג-ד",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettere 3-4",
+  "cycle": "tanya",
+  "date": "2026-09-25",
+  "hebrew_date": "14 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אַרְבַּע הַמִּינִים — לוּלָב, אֶתְרוֹג, הֲדַס, עֲרָבָה — הֵם כְּנֶגֶד אַרְבָּעָה סוּגֵי יִשְׂרָאֵל: יֵשׁ שֶׁיֵּשׁ לוֹ תּוֹרָה וּמַעֲשִׂים טוֹבִים (אֶתְרוֹג), יֵשׁ תּוֹרָה בְּלֹא מַעֲשִׂים (לוּלָב), יֵשׁ מַעֲשִׂים בְּלֹא תּוֹרָה (הֲדַס), יֵשׁ לֹא זֶה וְלֹא זֶה (עֲרָבָה).",
+      "it": "Le quattro specie — lulav, etrog, hadas, aravah — corrispondono ai quattro tipi di ebrei: c'è chi ha Torah e buone opere (etrog), chi ha Torah senza opere (lulav), chi ha opere senza Torah (hadas), chi non ha né l'uno né l'altro (aravah)."
+    },
+    {
+      "n": 2,
+      "he": "אַף עַל פִּי כֵן, הַשֵּׁם אוֹמֵר: 'יֵאָגְדוּ כֻּלָּם' — כֻּלָּם מוֹצִיאִין יְדֵי חוֹבָה כְּשֶׁהֵם יַחַד. הָאֶתְרוֹג מְכַפֵּר עַל הָעֲרָבָה, וְהָעֲרָבָה מוֹסִיפָה עַל הָאֶתְרוֹג. זוֹ הִיא אַחְדוּת יִשְׂרָאֵל.",
+      "it": "Ciononostante, Dio dice: 'Siano legati tutti insieme' — tutti adempiono l'obbligo quando sono insieme. L'etrog espia per l'aravah, e l'aravah aggiunge all'etrog. Questa è l'unità di Israele."
+    },
+    {
+      "n": 3,
+      "he": "שִׂמְחַת סוּכּוֹת — 'וְשָׂמַחְתָּ בְּחַגֶּךָ' — הִיא הַשִּׂמְחָה שֶׁבָּאָה מִתּוֹךְ הַטָּהֳרָה שֶׁל יוֹם כִּפּוּר. סוּכַּת שָׁלוֹם סוֹכֶכֶת עֲלֵינוּ — זֶה עִנְיַן הַסּוּכָּה הָאֱלֹקִית.",
+      "it": "La gioia di Sukkot — 'E ti rallegrerai nella tua festa' — è la gioia che proviene dalla purità di Yom Kippur. La sukkah di pace ci ricopre — questo è il concetto della sukkah divina."
+    }
+  ],
+  "_glossary_terms_used": ["arba minim", "lulav", "etrog", "Sukkot", "simchah", "sukkah shel shalom"]
+}

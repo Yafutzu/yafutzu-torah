@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 3",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ג",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 3",
+  "cycle": "rambam-1",
+  "date": "2026-07-29",
+  "hebrew_date": "15 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כְּשֶׁגָּלוּ יִשְׂרָאֵל וְלֹא הָיָה שָׁם בֵּית דִּין קָבוּעַ לְקַדֵּשׁ — הֶחֱזִיקוּ בְּחֶשְׁבּוֹן זֶה שֶׁחִישֵּׁב הִלֵּל בֶּן יְהוּדָה.",
+      "it": "Quando Israele andò in esilio e non vi fu più un Tribunale stabile per santificare il mese, si adottò il calcolo stabilito da Hillel ben Yehudah — il calendario fisso (ibbur)."
+    },
+    {
+      "n": 2,
+      "he": "וְחֶשְׁבּוֹן זֶה שֶׁאָנוּ מְחַשְּׁבִין בַּזְּמַן הַזֶּה — אֵינוֹ דְּאוֹרַיְתָא, אֶלָּא מִדִּבְרֵי סוֹפְרִים.",
+      "it": "Il calcolo che usiamo ai nostri giorni non è di origine biblica (de-oraita), ma di origine rabbinica (mi-divrei soferim)."
+    },
+    {
+      "n": 3,
+      "he": "הַמַּחְזוֹר — תִּשְׁעָה עָשָׂר שָׁנָה, שֶׁבּוֹ שֶׁבַע שָׁנִים מְעֻבָּרוֹת וּשְׁתֵּים עֶשְׂרֵה שָׁנִים פְּשׁוּטוֹת.",
+      "it": "Il ciclo (machzor) è di diciannove anni, nel quale vi sono sette anni intercalari (me'ubarot) e dodici anni semplici (peshutot)."
+    },
+    {
+      "n": 4,
+      "he": "הַשָּׁנִים הַמְּעֻבָּרוֹת בְּמַחְזוֹר — הֵן הַשְּׁלִישִׁית, הַשִּׁשִּׁית, הַשְּׁמִינִית, הָאַחַד עָשָׂר, הַשְּׁלֹשׁ עֶשְׂרֵה, הַשְּׁשׁ עֶשְׂרֵה, וְהַתְּשַׁע עֶשְׂרֵה.",
+      "it": "Gli anni intercalari del ciclo sono: il terzo, il sesto, l'ottavo, l'undicesimo, il tredicesimo, il sedicesimo e il diciannovesimo."
+    },
+    {
+      "n": 5,
+      "he": "בְּשָׁנָה מְעֻבֶּרֶת — מוֹסִיפִין חֹדֶשׁ שֵׁנִי שֶׁל אֲדָר, הַנִּקְרָא אֲדָר שֵׁנִי.",
+      "it": "Nell'anno intercalare si aggiunge un secondo mese di Adar, chiamato Adar Sheni (secondo Adar)."
+    },
+    {
+      "n": 6,
+      "he": "הַחֹדֶשׁ שֶׁמּוֹסִיפִין — אֲדָר א', לִפְנֵי אֲדָר שֵׁנִי.",
+      "it": "Il mese aggiunto è Adar Alef (primo Adar), che precede l'Adar Sheni."
+    },
+    {
+      "n": 7,
+      "he": "פּוּרִים — נוֹהֲגִין בַּאֲדָר הַשֵּׁנִי, שֶׁהוּא סָמוּךְ לְנִיסָן.",
+      "it": "Purim si celebra nell'Adar Sheni, che è adiacente a Nisan."
+    },
+    {
+      "n": 8,
+      "he": "מַה שֶּׁמְּחַשְּׁבִין בַּזְּמַן הַזֶּה — לְפִי שֶׁחִישְּׁבוּ רַבּוֹתֵינוּ לְהַצְלִיחַ אֶת יִשְׂרָאֵל בְּכָל מְקוֹמוֹת גְּלוּתָם.",
+      "it": "Ciò che calcoliamo ai nostri giorni è grazie al fatto che i nostri Maestri calcolarono il calendario per assicurare il benessere di Israele in tutti i luoghi del suo esilio."
+    },
+    {
+      "n": 9,
+      "he": "כְּשֶׁיִּתְכַּנֵּס גָּלוּת יִשְׂרָאֵל — יַחְזְרוּ לְקַדֵּשׁ עַל פִּי הָרְאִיָּה כְּבַתְּחִלָּה.",
+      "it": "Quando Israele tornerà dal suo esilio — si ritornerà a santificare il mese in base alla testimonianza oculare come in origine."
+    },
+    {
+      "n": 10,
+      "he": "מִצְוָה לְחַשֵּׁב אֶת הַתְּקוּפוֹת וְאֶת הַמַּזָּלוֹת.",
+      "it": "Vi è una mitzvah di calcolare i cicli stagionali (tekufot) e i segni zodiacali (mazalot)."
+    },
+    {
+      "n": 11,
+      "he": "שֶׁנֶּאֱמַר: 'וּשְׁמַרְתֶּם וַעֲשִׂיתֶם כִּי הִוא חָכְמַתְכֶם וּבִינַתְכֶם לְעֵינֵי הָעַמִּים'.",
+      "it": "Come è detto: 'Osservatele e praticate, perché questa è la vostra saggezza e il vostro discernimento agli occhi dei popoli' (Deuteronomio 4:6) — i Saggi interpretano questo versetto come riferito al calcolo del calendario."
+    },
+    {
+      "n": 12,
+      "he": "כָּל שֶׁאֵינוֹ יוֹדֵעַ חֶשְׁבּוֹן זֶה — רָאוּי לָשׁוּב בִּתְשׁוּבָה עַל שֶׁהִתְבַּטֵּל מִמִּצְוָה זוֹ.",
+      "it": "Chi non conosce questo calcolo — è opportuno che faccia teshuvah (pentimento) per aver trascurato questa mitzvah."
+    }
+  ],
+  "_glossary_terms_used": ["ibbur", "machzor", "me'ubarot", "Adar Sheni", "tekufot", "mazalot", "teshuvah"]
+}

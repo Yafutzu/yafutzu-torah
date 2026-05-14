@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 3",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק ג",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-26",
+  "hebrew_date": "17 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַסַּכִּין שֶׁשּׁוֹחֲטִין בָּהּ — צְרִיכָה שֶׁתְּהֵא חֲלַקָּה מִכָּל צַד…",
+      "it": "Il coltello con cui si macella (chalef) — deve essere perfettamente liscio su entrambi i lati (chalak mi-kol tzad). Non devono esserci intacchi (peguimot — al singolare: pagum), ondulazioni, bruciature o qualsiasi imperfezione sul filo della lama. Un coltello con qualsiasi intacco — invalida la shechitah, poiché l'intacco causa lacerazione (ikkur) invece del taglio netto. La lisciatura del chalef è una delle responsabilità più importanti del shochet."
+    },
+    {
+      "n": 2,
+      "he": "בּוֹדֵק הַסַּכִּין לִפְנֵי הַשְּׁחִיטָה וּלְאַחֲרֶיהָ…",
+      "it": "Il shochet controlla (bodek) il chalef prima della shechitah e dopo la shechitah. Il controllo si fa passando delicatamente l'unghia del pollice lungo il filo della lama in tre modi: (1) con l'unghia piatta sul filo; (2) con l'unghia in verticale sul filo; (3) con la carne del dito sul filo. Se non si sente nessun intacco in nessuno dei tre modi — il coltello è kasher. Se si sente un intacco dopo la shechitah — l'animale è neveilah retroattivamente."
+    },
+    {
+      "n": 3,
+      "he": "נִמְצֵאת פְּגִימָה לְאַחַר הַשְּׁחִיטָה — הַבְּהֵמָה נְבֵלָה…",
+      "it": "Se si trova un intacco (pegimah) dopo la shechitah — l'animale è neveilah. Anche se non si sa quando si è formata l'intacca (prima o durante la shechitah), si applica il principio di cautela: poiché non si può escludere che l'intacca esistesse durante il taglio, l'animale è proibito. Questo è uno dei casi più dolorosi per il shochet — perdere un intero animale per un difetto del coltello — ma la halachah non ammette eccezioni. La rigore in questo punto riflette il rispetto per la sacralità del processo."
+    },
+    {
+      "n": 4,
+      "he": "הַסַּכִּין הַנֶּאֱבֶדֶת לְאַחַר הַשְּׁחִיטָה — הַבְּהֵמָה מֻתֶּרֶת…",
+      "it": "Se il coltello si perde dopo la shechitah — l'animale è permesso. Il motivo: la presunzione è che il coltello fosse kasher al momento della shechitah, poiché il shochet lo aveva controllato prima. La perdita del coltello non crea un dubbio retroattivo sulla kasherut del coltello. Solo la presenza di un intacco trovato sul coltello — non la sua assenza — crea il problema. Questo illustra il principio di chazakah (presunzione): si presume che lo status fosse valido fino a prova contraria."
+    },
+    {
+      "n": 5,
+      "he": "אֹרֶךְ הַסַּכִּין — צָרִיךְ שֶׁיְּהֵא כְּפֶלֶיִם כְּרֹחַב הַגָּרוֹן…",
+      "it": "La lunghezza del chalef — deve essere almeno il doppio della larghezza della gola dell'animale da macellare. Il motivo: il taglio richiede movimento avanti e indietro (holachah va-hava'ah), e il coltello deve essere abbastanza lungo da completare questo movimento in entrambe le direzioni senza che l'estremità del coltello rimanga conficcata nei simanim (cosa che causerebbe shehiyah). Un coltello troppo corto crea il rischio di pausa involontaria."
+    },
+    {
+      "n": 6,
+      "he": "מִי שֶׁשָּׁחַט בְּצוּר, בִּזְכוּכִית, בְּקָנֶה — שְׁחִיטָתוֹ כְּשֵׁרָה…",
+      "it": "Chi ha macellato con una selce di pietra (tzur), con un pezzo di vetro (zechuchit), con una canna tagliente (kaneh) — la sua shechitah è valida, purché il bordo sia perfettamente liscio senza intacchi. La Torah non richiede specificamente il ferro o l'acciaio — qualsiasi materiale che permette un taglio netto e liscio è accettabile. La tradizione tuttavia preferisce il ferro o l'acciaio in quanto materiali che si controllano facilmente per gli intacchi. Non si usa un coltello dentato (serra) per la shechitah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chalef", "pagum", "pegimot", "shochet", "bodek", "ikkur", "neveilah", "holachah va-hava'ah", "simanim", "shehiyah", "chazakah"
+  ]
+}

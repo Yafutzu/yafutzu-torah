@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Pesulei HaMukdashim 17-19",
+  "name_he": "משנה תורה, הלכות פסולי המוקדשין, פרקים יז-יט",
+  "name_it": "Mishneh Torah, Leggi delle Offerte Invalide, capitoli 17-19",
+  "cycle": "rambam-3",
+  "date": "2026-07-26",
+  "hebrew_date": "12 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "17:1",
+      "he": "יוֹצֵא — בְּשַׂר קָרְבָּן שֶׁיָּצָא חוּץ לַמְּחִצָּה הַקְּבוּעָה לוֹ — פָּסוּל וְצָרִיךְ שְׂרֵפָה.",
+      "it": "Yotzeh (uscito) — la carne di un sacrificio che è uscita oltre il confine (mechitzah) stabilito per essa — è invalida e deve essere bruciata."
+    },
+    {
+      "n": "17:2",
+      "he": "הַמְּחִצָּה שֶׁל קָדְשֵׁי קָדָשִׁים — חוֹמוֹת הָעֲזָרָה. שֶׁל קָדָשִׁים קַלִּים — חוֹמוֹת יְרוּשָׁלַיִם.",
+      "it": "Il confine delle qodshei qodashim — le mura del cortile del Tempio (azarah). Per le qodashim qalim — le mura di Gerusalemme."
+    },
+    {
+      "n": "17:3",
+      "he": "הָאוֹכֵל יוֹצֵא — לוֹקֶה. אֵין בּוֹ כָּרֵת.",
+      "it": "Chi mangia lo yotzeh — è soggetto a flagellazione. Non vi è karet per esso."
+    },
+    {
+      "n": "18:1",
+      "he": "הַצּוֹפֶן — הַכֹּהֵן הַמַּצְפִּין אֶת הַדָּם שֶׁלֹּא יִזָּרֵק — הַקָּרְבָּן פָּסוּל.",
+      "it": "Il tzofeh (che nasconde) — il sacerdote che trattiene deliberatamente il sangue affinché non venga aspersso — il sacrificio è invalido."
+    },
+    {
+      "n": "18:2",
+      "he": "הַמְּסַיֵּעַ לְהַצְפִּין — כַּמַּצְפִּין עַצְמוֹ.",
+      "it": "Chi aiuta a trattenere il sangue — è come colui che lo ha trattenuto stesso."
+    },
+    {
+      "n": "18:3",
+      "he": "הַכֹּהֵן הַמַּצְפִּין בְּשׁוֹגֵג — הַקָּרְבָּן פָּסוּל, אֲבָל הַכֹּהֵן אֵינוֹ לוֹקֶה.",
+      "it": "Il sacerdote che lo fa involontariamente — il sacrificio è invalido, ma il sacerdote non viene flagellato."
+    },
+    {
+      "n": "19:1",
+      "he": "מַה שֶּׁנִּפְסַל וְאֵין לוֹ תַּקָּנָה — יִשָּׂרֵף. מַה שֶּׁנִּפְסַל וְיֵשׁ לוֹ תַּקָּנָה — יִתְקַנֵּן.",
+      "it": "Ciò che è diventato invalido senza possibilità di rimedio — viene bruciato. Ciò che è invalido ma può essere rimediato — viene rimediato."
+    },
+    {
+      "n": "19:2",
+      "he": "פִּגּוּל, נוֹתָר, וְטָמֵא — שְׂרֵפָה. יוֹצֵא — אֵין תַּקָּנָה אֶלָּא שְׂרֵפָה.",
+      "it": "Pigul, notar e tameh — vengono bruciati. Yotzeh — non vi è rimedio se non il fuoco."
+    },
+    {
+      "n": "19:3",
+      "he": "סִיּוּם. סְלִיקוּ הִלְכוֹת פְּסוּלֵי הַמּוּקְדָּשִׁין.",
+      "it": "Conclusione. Si concludono le Leggi delle Offerte Invalide."
+    }
+  ],
+  "_glossary_terms_used": ["yotzeh", "mechitzah", "qodshei qodashim", "qodashim qalim", "azarah", "tzofeh", "pigul", "notar", "tameh", "karet"]
+}

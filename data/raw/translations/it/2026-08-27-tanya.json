@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 51",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נ\"א",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 51",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-27",
+  "hebrew_date": "14 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שבת — היא 'מעין עולם הבא', טעימה מן העתיד לבוא. ביום השבת יורדת נשמה יתרה — נשמה נוספת שאינה קיימת בימי החול.",
+      "it": "Shabbat è 'me'ein olam ha-ba' (un assaggio del Mondo a Venire). Nel giorno di Shabbat scende la neshamah yeteirah (l'anima aggiuntiva) — un'anima supplementare che non è presente nei giorni feriali."
+    },
+    {
+      "n": 2,
+      "he": "הנשמה היתרה — אינה מטאפורה אלא מציאות רוחנית ממשית. הנשמה הנוספת היא גורמת לכך שהאדם חש את קדושת השבת בחוש — שוקט יותר, שלם יותר, קרוב יותר לה'.",
+      "it": "La neshamah yeteirah non è una metafora ma una realtà spirituale concreta. L'anima aggiuntiva è ciò che fa sentire all'uomo la santità dello Shabbat in modo percepibile — è più tranquillo, più integro, più vicino a D-o."
+    },
+    {
+      "n": 3,
+      "he": "לימוד התורה ותפילת שבת — שונים מבחינה איכותית מלימוד חול ותפילת חול. הם עמוקים יותר, חודרים יותר, ויש בהם דרגה של גילוי אלוקי שאינה מתגלה בחול.",
+      "it": "Lo studio della Torah e la preghiera di Shabbat — sono qualitativamente diversi dallo studio dei giorni feriali e dalla preghiera feriale. Sono più profondi, più penetranti, e vi è in essi un livello di rivelazione Divina che non si manifesta nei giorni feriali."
+    }
+  ],
+  "_glossary_terms_used": ["me'ein olam ha-ba", "neshamah yeteirah"]
+}

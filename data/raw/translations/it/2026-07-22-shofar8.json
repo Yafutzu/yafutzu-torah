@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 8",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק ח",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 8",
+  "cycle": "rambam-1",
+  "date": "2026-07-22",
+  "hebrew_date": "8 Av 5786",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יוֹם שְׁמִינִי עֲצֶרֶת — רֶגֶל בִּפְנֵי עַצְמוֹ לְכָל דָּבָר.",
+      "it": "Lo Shemini Atzeret (ottavo giorno di raccoglimento) è una festa a sé stante per tutti gli aspetti halakhici."
+    },
+    {
+      "n": 2,
+      "he": "לָמָּה נִקְרָא שְׁמִינִי עֲצֶרֶת? לְפִי שֶׁעָצַר הַקָּדוֹשׁ בָּרוּךְ הוּא אֶת יִשְׂרָאֵל לֵישֵׁב עִמּוֹ עוֹד יוֹם אֶחָד.",
+      "it": "Perché si chiama Shemini Atzeret? Perché il Santo Benedetto 'trattenne' (atzar) Israele per dimorare con Lui ancora un giorno — come un re che trattiene i suoi figli dopo la festa."
+    },
+    {
+      "n": 3,
+      "he": "בְּשְׁמִינִי עֲצֶרֶת — מִצְוַת לוּלָב אֵינָהּ נוֹהֶגֶת. וְסֻכָּה — מִדִּבְרֵי חֲכָמִים יֵשֵׁב בָּהּ בְּלֹא בְרָכָה.",
+      "it": "A Shemini Atzeret non si osserva la mitzvah del lulav. Quanto alla sukkah — per decisione dei Saggi vi si dimora senza recitare la benedizione."
+    },
+    {
+      "n": 4,
+      "he": "בְּשְׁמִינִי עֲצֶרֶת — אוֹמְרִים יִזְכּוֹר לְנִשְׁמוֹת הַמֵּתִים.",
+      "it": "A Shemini Atzeret si recita Yizkor in memoria delle anime dei defunti."
+    },
+    {
+      "n": 5,
+      "he": "בְּיִשְׂרָאֵל — שִׂמְחַת תּוֹרָה בְּשְׁמִינִי עֲצֶרֶת עַצְמוֹ. בְּחוּץ לָאָרֶץ — שִׂמְחַת תּוֹרָה בַּיּוֹם הַתְּשִׁיעִי.",
+      "it": "In Terra d'Israele, Simchat Torah cade lo stesso giorno di Shemini Atzeret (ottavo giorno). Nella Diaspora, Simchat Torah cade il nono giorno."
+    },
+    {
+      "n": 6,
+      "he": "בְּשִׂמְחַת תּוֹרָה גּוֹמְרִין קְרִיאַת הַתּוֹרָה וּמַתְחִילִין מֵרֵאשִׁית.",
+      "it": "A Simchat Torah si completa la lettura annuale della Torah e si ricomincia dall'inizio (Bereshit)."
+    },
+    {
+      "n": 7,
+      "he": "מִנְהַג כָּל יִשְׂרָאֵל לַעֲשׂוֹת הַקָּפוֹת בְּבֵית הַכְּנֶסֶת עִם סִפְרֵי תּוֹרָה בְּשִׂמְחַת תּוֹרָה.",
+      "it": "L'usanza di tutto Israele è di fare hakafot (circumambulazioni) in sinagoga con i Rotoli della Torah a Simchat Torah."
+    },
+    {
+      "n": 8,
+      "he": "שִׂמְחַת תּוֹרָה — שִׂמְחָה גְּדוֹלָה הִיא, שֶׁשָּׂמֵחַ אָדָם בְּמַשְּׂאוֹ הַיְּקָר — תּוֹרַת ה'.",
+      "it": "Simchat Torah è una grande gioia — l'uomo si rallegra con il suo tesoro più prezioso, la Torah dell'Eterno."
+    },
+    {
+      "n": 9,
+      "he": "חַתַן תּוֹרָה הוּא הַמַּשְׁלִים אֶת קְרִיאַת הַתּוֹרָה, וְחַתַן בְּרֵאשִׁית הוּא הַמַּתְחִיל מֵרֵאשִׁית.",
+      "it": "Il 'Chatan Torah' (sposo della Torah) è colui che completa la lettura della Torah, e il 'Chatan Bereshit' è colui che inizia dall'inizio."
+    },
+    {
+      "n": 10,
+      "he": "מִצְוָה לִכְבּוֹד אֶת חַתַן תּוֹרָה וְחַתַן בְּרֵאשִׁית.",
+      "it": "È una mitzvah onorare il Chatan Torah e il Chatan Bereshit."
+    },
+    {
+      "n": 11,
+      "he": "מוּסַף שְׁמִינִי עֲצֶרֶת — שְׁוֵה לִשְׁאָר מוּסְפֵי הָרְגָלִים, חוּץ מִקָּרְבְּנוֹת שֶׁלּוֹ הַמְיֻחָדִים לוֹ.",
+      "it": "Il Musaf di Shemini Atzeret è simile ai Musaf delle altre feste, eccetto per i sacrifici propri di questo giorno."
+    },
+    {
+      "n": 12,
+      "he": "בְּשְׁמִינִי עֲצֶרֶת — מַזְכִּירִין גֶּשֶׁם בַּתְּפִלָּה לְרַב אֶת הַגֶּשֶׁם.",
+      "it": "A Shemini Atzeret si inizia a menzionare la pioggia (geshem) nella preghiera Musaf — si dice 'mashiv ha-ruach u-morid ha-geshem'."
+    },
+    {
+      "n": 13,
+      "he": "מַזְכִּירִין גֶּשֶׁם בְּשְׁמִינִי עֲצֶרֶת וּמַפְסִיקִין בַּפֶּסַח.",
+      "it": "Si inizia a menzionare la pioggia a Shemini Atzeret e si smette a Pesach."
+    },
+    {
+      "n": 14,
+      "he": "כָּל כַּבּוֹד שֶׁנּוֹהֲגִין בְּיוֹם טוֹב — נוֹהֲגִין בְּשְׁמִינִי עֲצֶרֶת.",
+      "it": "Tutti gli onori che si usano per una festa si osservano anche a Shemini Atzeret."
+    },
+    {
+      "n": 15,
+      "he": "אִסּוּר מְלָאכָה בִּשְׁמִינִי עֲצֶרֶת — כְּיוֹם טוֹב.",
+      "it": "Il divieto di lavoro a Shemini Atzeret è come quello di ogni altra festa (Yom Tov)."
+    },
+    {
+      "n": 16,
+      "he": "כָּל שֶׁנֶּאֱמַר בְּתּוֹרָה לְגַבֵּי שְׁמִינִי עֲצֶרֶת — רֶגֶל בִּפְנֵי עַצְמוֹ הוּא.",
+      "it": "Tutto ciò che è detto nella Torah riguardo a Shemini Atzeret indica che è una festa indipendente."
+    },
+    {
+      "n": 17,
+      "he": "מִצְוַת שִׂמְחָה בְּשְׁמִינִי עֲצֶרֶת — חוֹבָה, שֶׁנֶּאֱמַר 'וְשָׂמַחְתָּ בְּחַגֶּךָ'.",
+      "it": "La mitzvah di gioia (simcha) a Shemini Atzeret è obbligatoria, come è detto 'E ti rallegrerai nella tua festa' (Deuteronomio 16:14)."
+    },
+    {
+      "n": 18,
+      "he": "סִיּוּם. סִיּוּמוּ שֶׁל הַפֶּרֶק הָאַחֲרוֹן שֶׁל הִלְכוֹת שׁוֹפָר וְסֻכָּה וְלוּלָב. סְלִיקוּ הִלְכוֹת שׁוֹפָר וְסֻכָּה וְלוּלָב.",
+      "it": "Conclusione. Si concludono le Leggi dello Shofar, della Sukkah e del Lulav."
+    }
+  ],
+  "_glossary_terms_used": ["Shemini Atzeret", "Simchat Torah", "Yizkor", "hakafot", "Chatan Torah", "Chatan Bereshit", "Musaf", "geshem", "Yom Tov", "simcha"]
+}

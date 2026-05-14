@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ta'aniyot 5",
+  "name_he": "משנה תורה, הלכות תעניות, פרק ה",
+  "name_it": "Mishneh Torah, Leggi dei Digiuni, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-19",
+  "hebrew_date": "6 Elul 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כשם שנהגו ישראל בצרות — כך נהגו להמעיט בשמחה בימים שקדמו לחורבן.",
+      "it": "Così come Israele osserva pratiche di tristezza durante le calamità, analogamente si riduce la gioia nei giorni che precedono il anniversario della distruzione."
+    },
+    {
+      "n": 2,
+      "he": "משנכנס אב ממעטין בשמחה. כל השבוע שחל בו תשעה באב אסור מלספר ומלכבס.",
+      "it": "Da quando entra il mese di Av si diminuisce la gioia — 'Mishenichnas Av mema'atin be-simchah'. Per tutta la settimana in cui cade Tisha B'Av è proibito tagliarsi i capelli (saper) e lavare abiti (kabbes)."
+    },
+    {
+      "n": 3,
+      "he": "אסור לספר מראש חודש אב עד אחר תשעה באב. ויש מקומות שנהגו מראש חודש עד התענית.",
+      "it": "È proibito tagliarsi i capelli da Rosh Chodesh Av fino dopo Tisha B'Av. Vi sono luoghi in cui la consuetudine è dall'inizio del mese fino al digiuno."
+    },
+    {
+      "n": 4,
+      "he": "אסור לכבס בגדים מראש חודש אב עד אחר תשעה באב. ואפילו לכבס ולהניח — אסור.",
+      "it": "È proibito lavare abiti da Rosh Chodesh Av fino dopo Tisha B'Av. Persino lavare e mettere via per dopo — è proibito."
+    },
+    {
+      "n": 5,
+      "he": "אסור לרחוץ בחמין בשבוע שחל בו תשעה באב, אבל בצונן מותר לרחוץ פניו ידיו ורגליו.",
+      "it": "È proibito fare il bagno in acqua calda durante la settimana di Tisha B'Av. Tuttavia è permesso lavarsi il viso, le mani e i piedi con acqua fredda."
+    },
+    {
+      "n": 6,
+      "he": "אסור לאכול בשר ולשתות יין בסעודה המפסקת — הסעודה האחרונה שאוכל קודם התענית. ויש אומרים שאסור מראש חודש אב.",
+      "it": "È proibito mangiare carne e bere vino nella Seudah Hamafseket — l'ultimo pasto consumato prima del digiuno. Alcuni sostengono che la proibizione della carne e del vino vale da Rosh Chodesh Av."
+    },
+    {
+      "n": 7,
+      "he": "בשבת שחל בה תשעה באב, שנדחה לעשירי — מותר לאכול בשר ולשתות יין ולרחוץ בשבת.",
+      "it": "Quando Tisha B'Av cade di Shabbat e viene posticipato al dieci di Av, è permesso mangiare carne, bere vino e fare il bagno di Shabbat."
+    },
+    {
+      "n": 8,
+      "he": "אסור לשמוע כלי שיר מראש חודש אב, ויש שנהגו כן מי"ז בתמוז.",
+      "it": "È proibito ascoltare musica strumentale da Rosh Chodesh Av. Vi sono comunità che osservano questa proibizione già dal diciassette di Tammuz."
+    },
+    {
+      "n": 9,
+      "he": "אין בונין בניין של שמחה — כגון בית חתנות — בשבוע שחל בו תשעה באב.",
+      "it": "Non si intraprende la costruzione di edifici festosi — come una sala per matrimoni (beit chatanot) — durante la settimana di Tisha B'Av."
+    },
+    {
+      "n": 10,
+      "he": "אסור לקנות כלים חדשים ולהתחיל ללובשם בשבוע שחל בו תשעה באב, ולכן אין לובשים בגדים חדשים.",
+      "it": "È proibito acquistare nuovi indumenti e indossarli per la prima volta durante la settimana di Tisha B'Av; pertanto non si indossano abiti nuovi."
+    },
+    {
+      "n": 11,
+      "he": "תשעה באב שחל בשבת, אוכל ושותה כל שצריך ומציע מפה על השולחן כדי שלא יאכל יותר.",
+      "it": "Quando Tisha B'Av cade di Shabbat, si mangia e si beve quanto si desidera, ma si stende una tovaglia sul tavolo per ricordarsi di non mangiare in eccesso nella gioia festiva."
+    },
+    {
+      "n": 12,
+      "he": "מצוה לישב על גבי קרקע בתשעה באב, וכשמגיע ליל עשרה — עומד ורוחץ ומסתפר.",
+      "it": "Vi è una mitzva di sedersi per terra a Tisha B'Av. Quando arriva la notte del dieci, ci si alza, ci si lava e ci si taglia i capelli."
+    },
+    {
+      "n": 13,
+      "he": "כל הדברים האסורים בתשעה באב — אסורים עד צאת הכוכבים.",
+      "it": "Tutte le cose proibite a Tisha B'Av rimangono proibite fino all'uscita delle stelle (tzet hakokhavim)."
+    },
+    {
+      "n": 14,
+      "he": "כל המתאבל על ירושלים — יזכה ויראה בשמחתה. שנאמר: 'שמחו את ירושלים וגילו בה כל אוהביה שישו אתה משוש כל המתאבלים עליה'.",
+      "it": "Chiunque si affligga per Gerusalemme meriterà di vedere la sua gioia, come è detto: 'Rallegratevi con Gerusalemme ed esultate in essa, tutti coloro che la amano; gioite con lei di gioia, tutti coloro che si afféiggono per essa' (Isaia 66:10). Si concludono le Leggi dei Digiuni."
+    }
+  ],
+  "_glossary_terms_used": ["Mishenichnas Av mema'atin be-simchah", "saper", "kabbes", "Rosh Chodesh", "Seudah Hamafseket", "beit chatanot", "tzet hakokhavim", "mitzva"]
+}

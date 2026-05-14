@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 31",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לא",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 31",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-07",
+  "hebrew_date": "24 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כל אדם מישראל צריך להכיל שני הפכים בנפשו בו זמנית: גדולה ושפלות. מצד נשמתו האלוהית, שהיא 'חלק אלוה ממעל' — הוא גדול ורם. ומצד גופו ובהמיותו — הוא שפל ונמוך. ושני מבטים אלו אמת שניהם.",
+      "it": "Ogni ebreo deve contenere contemporaneamente due opposti nella propria anima: grandezza (gedulah) e umiltà (shiflut). Dal lato della sua anima divina (neshama elokit), che è 'una parte di D-o dall'alto' — è grande ed elevato. Dal lato del suo corpo e della sua animalità — è basso e umile. Entrambe queste prospettive sono vere."
+    },
+    {
+      "n": 2,
+      "he": "האדם הגדול האמיתי אינו מי שחושב שהוא גדול, אלא מי שמכיר את גדולתו מצד הנשמה — ובכל זאת אינו גאה. כי הוא יודע שהגדולה אינה שלו, אלא של נשמתו האלוהית. לפיכך, כל גאווה היא טעות — כי הגוף אינו גדול, ואילו הנשמה — הגדולה שלה היא של ה'.",
+      "it": "Il vero uomo grande non è chi pensa di essere grande, ma chi riconosce la propria grandezza dal lato della neshama — e tuttavia non è arrogante. Poiché sa che la grandezza non è sua, ma della propria anima divina. Pertanto ogni arroganza è un errore — perché il corpo non è grande, e la grandezza della neshama appartiene a D-o."
+    },
+    {
+      "n": 3,
+      "he": "לעומת זאת, השפלות לפני ה' והביטול — אינם בושה ואינם חולשה. הם ביטוי של הכרת אמת: שכל מה שיש לאדם — הכל מה', ואין לו דבר משלו. ה'ביטול' הוא פסגת הגדולה, כי 'ואנוכי עפר ואפר' אמר אברהם אבינו — שהיה גדול שבגדולים.",
+      "it": "Per converso, l'umiltà davanti a D-o e l'annullamento del sé (bittul) non sono vergogna né debolezza. Sono l'espressione del riconoscimento della verità: che tutto ciò che l'uomo possiede viene da D-o, e nulla gli appartiene. Il 'bittul' è la vetta della grandezza, poiché 'e io sono polvere e cenere' disse Avraham nostro padre — che era il più grande dei grandi."
+    }
+  ],
+  "_glossary_terms_used": ["gedulah", "shiflut", "neshama elokit", "bittul"]
+}

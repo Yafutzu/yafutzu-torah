@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 9",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ט",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 9",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-15",
+  "hebrew_date": "6 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "בָּשָׂר בְּחָלָב — אָסוּר לְבַשֵּׁל, שֶׁנֶּאֱמַר שָׁלֹשׁ פְּעָמִים: לֹא תְבַשֵּׁל גְּדִי בַּחֲלֵב אִמּוֹ…",
+      "it": "Basar be-chalav (carne nel latte) — il divieto appare tre volte nella Torah (Esodo 23:19; Esodo 34:26; Deut. 14:21): «Lo tevashel gedi ba-chalav imo» (Non cuocere un capretto nel latte di sua madre). I Saggi hanno dedotto da questa triplice ripetizione tre proibizioni distinte e separate: (1) il divieto di cuocere carne con latte insieme; (2) il divieto di mangiare la miscela carne-latte; (3) il divieto di trarre qualsiasi beneficio dalla miscela carne-latte. Questi sono tre divieti biblici indipendenti."
+    },
+    {
+      "n": 2,
+      "he": "אֵיזוֹ בָּשָׂר אָסוּר — בְּשַׂר בְּהֵמָה טְהוֹרָה בַּחֲלֵב בְּהֵמָה טְהוֹרָה…",
+      "it": "Quale carne è proibita per il divieto biblico di basar be-chalav? La carne di un animale domestico kosher (beheimah tehorah) cotta nel latte di un animale domestico kosher. Il divieto biblico non si estende a: carne di uccello con latte (poultry with milk — proibito solo rabbinicamente), carne di animale selvatico (chayah) con latte (proibito rabbinicamente secondo il Rambam), e prodotti della carne (brodo, estratti) con latte (anche questi discussi). La differenza pratica: i prodotti proibiti biblicamente non si possono utilizzare in alcun modo; i prodotti proibiti solo rabbinicamente si possono vendere a non-ebrei in certi casi."
+    },
+    {
+      "n": 3,
+      "he": "עוֹף בְּחָלָב — אָסוּר מִדִּבְרֵי סוֹפְרִים לֶאֱכֹל…",
+      "it": "Il pollame (of) con il latte — è proibito per decreto dei Sofferi (mide-rabbanan) nel mangiare, ma è permesso trarne beneficio (ad esempio vendere un piatto di pollo e latte a un non-ebreo, o dargli da mangiare). I Saggi hanno esteso il divieto di basar be-chalav al pollame come «seyag» (protezione): poiché la carne di pollo assomiglia visivamente alla carne di manzo, permettere pollo con latte potrebbe portare a permettere anche manzo con latte. L'estensione è un decreto talmudico con valore halachico pieno."
+    },
+    {
+      "n": 4,
+      "he": "מַמְתִּינִים בֵּין בָּשָׂר לְחָלָב…",
+      "it": "Si deve aspettare tra carne e latticini (hamtanah bein basar le-chalav). La tradizione prevalente (Rambam, Shulchan Aruch): si aspetta sei ore dopo aver mangiato carne prima di consumare latticini, poiché il sapore della carne rimane in bocca e nella gola per lungo tempo. Alcune comunità (Yekke — Germania) aspettano solo un'ora o tre ore. Nella direzione inversa — da latticini a carne — è sufficiente sciacquare la bocca, mangiare qualcosa di neutro, e non è necessario attendere sei ore (salvo latticini solidi o stagionati che richiedono più attenzione)."
+    },
+    {
+      "n": 5,
+      "he": "כֵּלִים שֶׁבִּשֵּׁל בָּהֶן בָּשָׂר — אָסוּר לְבַשֵּׁל בָּהֶן חָלָב…",
+      "it": "Utensili in cui si è cotto della carne — è proibito usarli per il latte, e viceversa. Il principio di «ta'am ke-ikar» (il sapore è come la sostanza) si applica anche agli utensili: un utensile assorbe il sapore di ciò che vi è stato cotto, e può rilasciarlo nel cibo successivo. Questo è il fondamento del sistema di keilim (utensili) separati per carne e latticini che ogni cucina ebraica osservante mantiene. Gli utensili di metallo, ceramica, e legno possono essere «kashered» (purificati) attraverso vari processi halakhici; la porcellana e il vetro sono oggetto di dibattito."
+    },
+    {
+      "n": 6,
+      "he": "חֲצִי שִׁיעוּר בְּבָשָׂר בְּחָלָב…",
+      "it": "La misura minima per la violazione del divieto biblico di basar be-chalav è un ka-zayit (volume di oliva) della miscela. Chi mangia meno di un ka-zayit non è soggetto a flagellazione (malkot) o karet. Tuttavia il divieto rabbinico (issur derabbanan) si applica anche alla quantità minima (mashehu). Il divieto di cuocere carne con latte non richiede alcuna misura minima — qualsiasi atto di cottura misto è proibito biblicamente, anche se la quantità prodotta è minuscola."
+    },
+    {
+      "n": 7,
+      "he": "בָּשָׂר שֶׁנָּפַל לְתוֹךְ חָלָב — בָּטֵל בְּשִׁשִּׁים…",
+      "it": "Carne caduta nel latte (o viceversa): si applica la regola del bitul be-shishim (nullificazione in sessanta parti). Se il rapporto della carne proibita rispetto al tutto è inferiore a 1:60 — la miscela è nullificata e permessa. Se il rapporto è 1:60 o superiore — tutto è proibito. Questa regola vale solo se la caduta è avvenuta per caso (bedi-avad); non si può deliberatamente miscelare piccole quantità nella speranza di bitul. Il principio di bitul in shishim è una delle regole fondamentali di tutta la halakhah dell'assorbimento e delle miscele nei divieti alimentari."
+    }
+  ],
+  "_glossary_terms_used": [
+    "basar be-chalav", "beheimah tehorah", "chayah", "seyag", "hamtanah", "ta'am ke-ikar", "keilim", "kashered", "bitul be-shishim", "ka-zayit", "malkot", "karet", "mashehu", "bedi-avad"
+  ]
+}

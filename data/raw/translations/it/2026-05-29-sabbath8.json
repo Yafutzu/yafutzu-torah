@@ -1,0 +1,129 @@
+{
+  "ref": "Mishneh Torah, Sabbath 8",
+  "name_he": "משנה תורה, הלכות שבת, פרק ח",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-29",
+  "hebrew_date": "13 Sivan 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "עֵרוּב חֲצֵרוֹת כֵּיצַד…",
+      "it": "Come funziona l'eruv chatzerot (l'eruv per i cortili)? I residenti di un cortile condiviso che vogliono portare oggetti da casa a casa di Shabbat — devono fare un eruv chatzerot: raccolgono del pane (o altri alimenti) da ognuno dei partecipanti, lo mettono insieme in un unico luogo del cortile, e dichiarano: «Con questo eruv siano tutti i residenti di questo cortile autorizzati a portare e ricevere oggetti.» Dopo questo eruv, tutto il cortile diventa come un unico reshut ha-yachid per tutti i residenti."
+    },
+    {
+      "n": 2,
+      "he": "כָּל אֶחָד מַנִּיחַ פַּת שֶׁלּוֹ לְשָׁם עֵרוּב…",
+      "it": "Ogni residente mette il proprio pane per l'eruv. Il pane di tutti si mette insieme in un'unica casa. Il proprietario di quella casa pronuncia la formula: «Harei kol anshei chatzerot mezuvarin be-eruv zeh» — «Tutti i residenti di questo cortile sono uniti con questo eruv.» Può anche pronunciarla in qualsiasi altra lingua purché la comprenda. L'eruv si può fare anche tramite un terzo che raccoglie il pane a nome di tutti."
+    },
+    {
+      "n": 3,
+      "he": "שִׁעוּר הַפַּת שֶׁמְּעָרְבִין בָּהּ — כִּגְרוֹגֶרֶת לְכָל אֶחָד…",
+      "it": "La misura del pane per l'eruv — una figa secca (ke-grogeret) per persona. Se i partecipanti sono molti — la misura totale non deve essere inferiore a un volume sufficiente per due pasti (shetei se'udot). Si usa pane già cotto, non pasta cruda; si usa pane intero preferibilmente. Il vino non vale come base dell'eruv chatzerot (a differenza dell'eruv tavshilin)."
+    },
+    {
+      "n": 4,
+      "he": "אֵין עוֹשִׂין עֵרוּב חֲצֵרוֹת בְּשַׁבָּת…",
+      "it": "Non si fa l'eruv chatzerot di Shabbat stesso — deve essere fatto prima dello Shabbat (dal pomeriggio del venerdì o prima). Se non è stato fatto prima — è troppo tardi. L'eruv deve essere fatto mentre i partecipanti sono presenti o rappresentati nel cortile."
+    },
+    {
+      "n": 5,
+      "he": "הָאֶחָד יָכוֹל לְעָרֵב עַל כֻּלָּם…",
+      "it": "Una persona può fare l'eruv per tutti i residenti del cortile — anche senza prendere il pane da ciascuno, ma portando il pane del proprietario dell'eruv solo. Il proprietario fa l'eruv e «zokhe» (acquisisce) per tutti gli altri, purché questi non si oppongano esplicitamente. I minori e le donne possono acquisire per gli altri attraverso il proprietario dell'eruv."
+    },
+    {
+      "n": 6,
+      "he": "הָיָה אֶחָד מִבַּעֲלֵי הֶחָצֵר גַּנָּב — אֵין מְעָרְבִין עִמּוֹ…",
+      "it": "Se uno dei residenti del cortile è un ladro noto — non si fa eruv con lui, poiché lui renderà il cortile pericoloso per tutti. Similmente, se uno dei residenti è un non ebreo (goy) — non si può fare eruv con lui: il non ebreo non partecipa all'eruv chatzerot. In questo caso il non ebreo deve «affittare» simbolicamente il suo spazio agli ebrei del cortile (sechirut) per permettere l'eruv."
+    },
+    {
+      "n": 7,
+      "he": "גּוֹי הַדָּר בְּחָצֵר — צְרִיכִין לִשְׂכֹּר מִמֶּנּוּ…",
+      "it": "Il non ebreo che abita nel cortile — i residenti ebrei devono «affittare» da lui il suo spazio per un valore nominale prima di Shabbat. Solo dopo questo affitto simbolico possono fare l'eruv chatzerot tra loro. Se il non ebreo non vuole affittare — non possono portare tra le case di Shabbat anche con eruv, poiché la presenza del non ebreo divide il cortile."
+    },
+    {
+      "n": 8,
+      "he": "עֵרוּב תְּחוּמִין כֵּיצַד…",
+      "it": "Come funziona l'eruv techumin (eruv dei confini)? Di Shabbat si può camminare al massimo duemila cubiti (techum Shabbat — la misura del confine di Shabbat) dalla propria città o luogo di Shabbat. Chi vuole camminare oltre questo limite in una direzione — può fare l'eruv techumin: va prima di Shabbat fino al limite dei duemila cubiti in quella direzione, lascia lì un pasto, e dice: «Il mio posto di Shabbat sia qui.» Da quel punto può ora camminare duemila cubiti in quella direzione, ma perde duemila cubiti nella direzione opposta."
+    },
+    {
+      "n": 9,
+      "he": "בַּמֶּה מְעָרְבִין לְתְחוּמִין…",
+      "it": "Con cosa si fa l'eruv techumin? Con cibo — due pasti (shetei se'udot) per una persona. L'alimento per l'eruv techumin deve trovarsi fisicamente nel posto dove il depositante vuole «stabilire» il proprio posto di Shabbat. Non serve pane specificamente — qualsiasi cibo commestibile è valido per l'eruv techumin."
+    },
+    {
+      "n": 10,
+      "he": "הַמְּעָרֵב בְּרַגְלָיו — יוֹצֵא לִמְקוֹם שֶׁרוֹצֶה לְעָרֵב…",
+      "it": "Chi fa l'eruv techumin di persona (be-raglav) — va fisicamente al luogo scelto prima di Shabbat e rimane lì alla caduta del Shabbat («bein hashmashot» — il crepuscolo del venerdì). Da quel momento il suo posto di Shabbat è lì, e può camminare duemila cubiti in tutte le direzioni da quel punto. Non ha bisogno di portare cibo se va di persona."
+    },
+    {
+      "n": 11,
+      "he": "הַמְּעָרֵב בְּפַת — שׁוֹלֵחַ פִּתּוֹ לְמָקוֹם שֶׁרוֹצֶה לְעָרֵב…",
+      "it": "Chi fa l'eruv techumin tramite il cibo — manda il suo cibo nel posto scelto prima di Shabbat. Il cibo deve arrivare lì prima del tramonto. Se il cibo è andato perduto o è stato consumato prima del tramonto — l'eruv è nullo."
+    },
+    {
+      "n": 12,
+      "he": "הָיוּ שְׁנֵי מְקוֹמוֹת לְפָנָיו — בֵּינוֹ לְבֵין הָאֶחָד אֶלֶף וּלְבֵין הַשֵּׁנִי אַלְפַּיִם…",
+      "it": "Se aveva due luoghi davanti a sé — uno a mille cubiti e l'altro a duemila — e ha fatto l'eruv nel luogo a duemila cubiti: il suo techum di Shabbat parte da quel luogo, e ora può arrivare a quattromila cubiti dalla sua città in quella direzione (duemila della città più duemila dall'eruv). Ma nella direzione opposta può camminare solo fino ai duemila cubiti meno quelli usati per raggiungere il luogo dell'eruv."
+    },
+    {
+      "n": 13,
+      "he": "עֵרוּב לַדָּבָר שֶׁבְּמִצְוָה — כָּשֵׁר…",
+      "it": "L'eruv techumin per una mitzva — è valido e si deve fare. Ad esempio: chi vuole andare oltre il techum di Shabbat per assistere a un brit milah, per visitare un malato, per studiare Torah con un maestro — fa l'eruv techumin in quella direzione. Questo è permesso e addirittura raccomandato."
+    },
+    {
+      "n": 14,
+      "he": "עֵרוּב תְּחוּמִין — לֹא עוֹשִׂין אֶלָּא לְדַעַת בְּעָלָיו…",
+      "it": "L'eruv techumin si fa solo con il consenso del proprietario — non si può fare per un altro senza il suo sapere (a differenza dell'eruv chatzerot). Poiché l'eruv techumin sposta il techum del proprietario e lui perde libertà di movimento in una direzione: questo è un cambiamento significativo che richiede consenso."
+    },
+    {
+      "n": 15,
+      "he": "הַמְּעָרֵב מִשְּׁתֵּי רוּחוֹת — אֵינוֹ כְּלוּם…",
+      "it": "Chi cerca di fare eruv techumin in due direzioni opposte contemporaneamente — non è nulla. Il techum di Shabbat è unico: si può «spostare» solo in una direzione. Se ha messo il cibo in due direzioni — l'eruv è nullo in entrambe le direzioni e rimane con il suo techum originale."
+    },
+    {
+      "n": 16,
+      "he": "יוֹם טוֹב שֶׁחָל לִהְיוֹת בְּשַׁבָּת…",
+      "it": "Yom Tov che cade di Shabbat — il techum di Shabbat si applica anche al Yom Tov. Se il Yom Tov cade subito dopo Shabbat (domenica), l'eruv techumin fatto prima di Shabbat si estende anche al Yom Tov. Per Shabbat e Yom Tov consecutivi si deve fare due eruv techumin: uno per Shabbat e uno per il Yom Tov."
+    },
+    {
+      "n": 17,
+      "he": "מִי שֶׁיָּצָא חוּץ לַתְּחוּם — בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד…",
+      "it": "Chi è uscito oltre il techum di Shabbat — sia per errore che deliberatamente — è limitato a quattro cubiti dal punto in cui si trova. Non può tornare nella sua città finché Shabbat non è finito. Questa è la sanzione per uscire oltre il techum: rimane dove si trova con soli quattro cubiti di libertà di movimento."
+    },
+    {
+      "n": 18,
+      "he": "הָיוּ שְׁנֵי אֲנָשִׁים שֶׁיָּצְאוּ חוּץ לַתְּחוּם — זֶה אוֹמֵר תְּחוּמִי לְכָאן…",
+      "it": "Due persone che sono uscite oltre il techum — uno dice «il mio techum è in questa direzione» e l'altro dice «il mio techum è in quella direzione»: il loro techum finale è dove ciascuno si è stabilito (amad). Il techum di ogni persona è determinato dal luogo in cui si trovava all'inizio dello Shabbat (o dove ha fatto l'eruv techumin)."
+    },
+    {
+      "n": 19,
+      "he": "הַנָּכְרִי שֶׁהֵבִיא דּוֹרוֹן לְיִשְׂרָאֵל בְּשַׁבָּת…",
+      "it": "Il non ebreo che ha portato un regalo a un ebreo di Shabbat — se i frutti venivano da fuori del techum, è proibito all'ebreo beneficiario mangiare quei frutti per tutto il giorno di Shabbat. Ma dopo Shabbat — sono permessi immediatamente all'ebreo beneficiario (ma non agli altri ebrei, per non favorire la violazione dello Shabbat). Se i frutti venivano dall'interno del techum — sono permessi immediatamente."
+    },
+    {
+      "n": 20,
+      "he": "הַמֵּבִיא כֵּלִים מֵחוּץ לַתְּחוּם — אָסוּר לְהִשְׁתַּמֵּשׁ בָּהֶן…",
+      "it": "Chi ha portato utensili da fuori del techum di Shabbat — è proibito usarli per tutto quel Shabbat. Dopo Shabbat — sono permessi immediatamente anche agli altri. Il principio: oggetti che sono stati portati in violazione del techum Shabbat subiscono una «sanzione temporanea» di un giorno."
+    },
+    {
+      "n": 21,
+      "he": "חֲמוֹר שֶׁיָּצָא לְמֶרְחָק — אֵין רוֹכְבִין עָלָיו…",
+      "it": "Un asino che è uscito al di là del techum — non si monta su di lui di Shabbat, poiché l'animale è sottoposto alle stesse restrizioni del techum del suo proprietario. Se l'animale è uscito da solo (senza che il proprietario lo guidasse) — dipende: se il proprietario aveva intenzione che uscisse, è sotto le sue stesse restrizioni; se è uscito da solo senza intenzione — è controverso tra i decisori."
+    },
+    {
+      "n": 22,
+      "he": "הַדָּר בָּעִיר — כׇּל הָעִיר כֻּלָּהּ לוֹ כְּאַרְבַּע אַמּוֹת…",
+      "it": "Chi abita in una città — tutta la città è per lui come quattro cubiti [per il calcolo del techum]. Il techum dei duemila cubiti si misura dall'estremità della città, non dalla casa del residente. Una città che ha forma irregolare — si circoscrive con un quadrato che la contiene e si misura da quel quadrato. Una città gemella con un'altra città separata da meno di setantun e un terzo cubiti — si considerano come una città unica per il calcolo del techum."
+    },
+    {
+      "n": 23,
+      "he": "כֵּיצַד מוֹדְדִין אֶלֶף וְאַלְפַּיִם אַמָּה…",
+      "it": "Come si misurano i duemila cubiti? Con una misura di cinquanta cubiti (kav ha-middah), stesa in linea retta dalla fine della città. Si misura anche su montagne e valli — ma non si misura attraverso il mare o un'acqua profonda più di dieci tefachim. Il techum di Shabbat si misura sempre in linea retta e non seguendo le strade tortuose."
+    }
+  ],
+  "_glossary_terms_used": [
+    "eruv chatzerot", "eruv techumin", "eruv tavshilin", "techum Shabbat", "reshut ha-yachid", "ke-grogeret", "shetei se'udot", "bein hashmashot", "kav ha-middah", "sechirut", "zokhe"
+  ]
+}

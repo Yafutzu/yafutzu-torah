@@ -1,0 +1,97 @@
+{
+  "ref": "Mishneh Torah, Hilchot Megillah VeChanukah 2",
+  "name_he": "משנה תורה, הלכות מגילה וחנוכה, פרק ב",
+  "name_it": "Mishneh Torah, Leggi della Megillah e di Chanukah, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-21",
+  "hebrew_date": "8 Elul 5786",
+  "halachot_count": 17,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כיצד מצות פורים? חייב אדם לשלוח שתי מנות בשר או שני מיני מאכל לחברו.",
+      "it": "Come si compie il precetto di Purim? Ogni persona è obbligata a inviare due porzioni di cibo o due tipi di vivande al proprio prossimo — questo è il mishloach manot (invio di doni alimentari)."
+    },
+    {
+      "n": 2,
+      "he": "ונותן מתנות לאביונים — שתי מתנות לשני עניים, מתנה לזה ומתנה לזה.",
+      "it": "E si dona doni ai poveri (matanot la'evyonim): due doni a due poveri, un dono a questo e un dono a quello."
+    },
+    {
+      "n": 3,
+      "he": "ועושין סעודת פורים ביום ארבעה עשר לאדר, ביום ולא בלילה.",
+      "it": "Si celebra il banchetto di Purim (Seudah) il giorno quattordici di Adar, di giorno e non di notte."
+    },
+    {
+      "n": 4,
+      "he": "חייב אדם לבסומי בפוריא עד דלא ידע בין ארור המן לברוך מרדכי.",
+      "it": "Ogni persona è obbligata ad inebriare la propria mente a Purim ('ad de-lo yada') finché non riesca a distinguere tra 'maledetto sia Haman' e 'benedetto sia Mordechai'."
+    },
+    {
+      "n": 5,
+      "he": "מי שאין ידו משגת — מרבה בסעודה כפי כוחו. ועיקר מצות פורים — לשמח לב העניים.",
+      "it": "Chi non ha mezzi sufficienti abbondante nella seudah nei limiti delle sue possibilità. Il nucleo essenziale del precetto di Purim è rallegrare il cuore dei poveri."
+    },
+    {
+      "n": 6,
+      "he": "מוטב לאדם להרבות במתנות לאביונים מלהרבות בסעודתו ובשלוח מנות לחבריו.",
+      "it": "È preferibile per una persona abbondare nei doni ai poveri piuttosto che aumentare il proprio banchetto e i mishloach manot agli amici."
+    },
+    {
+      "n": 7,
+      "he": "שמחת עניים ואנוסים — גדולה מכל שמחה שתהיה.",
+      "it": "La gioia dei poveri e degli afflitti è più grande di qualsiasi altra gioia."
+    },
+    {
+      "n": 8,
+      "he": "כל המוסיף בשלוח מנות לחבריו — משובח. ויש נוהגין לשלוח גם לגוים מפני דרכי שלום.",
+      "it": "Chiunque aumenti i mishloach manot agli amici è lodevole. Vi sono usanze di inviare doni anche ai non ebrei, per le vie della pace (darkei shalom)."
+    },
+    {
+      "n": 9,
+      "he": "מקום שנהגו לקרות את המגילה בלילה — קורין. ומברכין לפניה ולא לאחריה.",
+      "it": "In un luogo dove è usanza leggere la Megillah anche di notte — la si legge. Si recita la benedizione prima ma non dopo."
+    },
+    {
+      "n": 10,
+      "he": "חייב לקרות את כל המגילה. קרא ודילג — חוזר וקורא.",
+      "it": "Si è tenuti a leggere tutta la Megillah. Se la lesse saltando delle parti, torna a leggerla."
+    },
+    {
+      "n": 11,
+      "he": "יש לזכור שפורים שחל בשבת — מקדימין ליום שישי.",
+      "it": "È importante ricordare che Purim che cade di Shabbat viene anticipato al venerdì."
+    },
+    {
+      "n": 12,
+      "he": "חייבים בקריאת מגילה כוהנים לוויים וישראלים.",
+      "it": "Sono obbligati nella lettura della Megillah: i Kohanim (sacerdoti), i Leviti e i Israeliti."
+    },
+    {
+      "n": 13,
+      "he": "גר — כשאר ישראל לענין פורים, שכולם כאחד גאלו ממצרים ועמדו בסיני.",
+      "it": "Il proselita (ger) è come ogni altro Israelita riguardo a Purim, poiché tutti insieme furono redenti dall'Egitto e stettero al Sinai."
+    },
+    {
+      "n": 14,
+      "he": "ירושלים — קוראין בחמישה עשר, שהיא כרך המוקף חומה מימות יהושע בן נון.",
+      "it": "Gerusalemme — si legge il quindici, poiché è una città murata dai tempi di Giosuè figlio di Nun."
+    },
+    {
+      "n": 15,
+      "he": "יום שישה עשר ושבעה עשר אין בהם קריאת מגילה אלא בספק כרכים.",
+      "it": "Il sedici e il diciassette non hanno lettura della Megillah, tranne nelle città di status dubbio (saffek krachim)."
+    },
+    {
+      "n": 16,
+      "he": "כשם שמצות פורים — כך מצות חנוכה: נר בכל בית ובית.",
+      "it": "Come il precetto di Purim, così il precetto di Chanukah: una lampada in ogni casa e casa."
+    },
+    {
+      "n": 17,
+      "he": "ופורים לא יבטל לעולם, שנאמר: 'וימי הפורים האלה לא יעברו מתוך היהודים'.",
+      "it": "Purim non cesserà mai, come è detto: 'E questi giorni di Purim non cesseranno mai di essere celebrati dagli Ebrei' (Ester 9:28)."
+    }
+  ],
+  "_glossary_terms_used": ["mishloach manot", "matanot la'evyonim", "Seudah", "ad de-lo yada", "darkei shalom", "ger", "krachim", "saffek krachim", "Kohanim"]
+}

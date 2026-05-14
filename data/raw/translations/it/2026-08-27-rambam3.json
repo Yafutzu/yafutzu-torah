@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Metamei Mishkav UMoshav 4-6",
+  "name_he": "משנה תורה, הלכות מטמאי משכב ומושב, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi di Chi Rende Impuri il Giaciglio e il Sedile, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-08-27",
+  "hebrew_date": "14 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "4:1",
+      "he": "הנידה — מתחיל דינה עם ראיית הדם. ונידתה נמשכת שבעה ימים, בין שראתה יום אחד בין שראתה כל שבעה.",
+      "it": "La niddah — il suo status inizia con la visione del sangue. La sua niddah dura sette giorni, sia che abbia visto (il sangue) un solo giorno sia che abbia visto per tutti i sette."
+    },
+    {
+      "n": "4:2",
+      "he": "לאחר שבעה ימים — ספרה שבעה ימים נקיים. ואחרי שבעת הימים הנקיים — טובלת ומותרת לבעלה.",
+      "it": "Dopo i sette giorni — conta sette giorni puliti (shiv'ah nekiyyim). E dopo i sette giorni puliti — si immerge nel mikveh ed è permessa al marito."
+    },
+    {
+      "n": "4:3",
+      "he": "הנידה מטמאת: (א) כל הנוגע בגופה. (ב) כל הנוגע במשכבה ובמושבה. (ג) המשמש עמה — טמא שבעה.",
+      "it": "La niddah rende impuro: (a) chiunque tocchi il suo corpo. (b) chiunque tocchi il suo mishkav e moshav. (c) chi ha relazioni con lei — è impuro per sette giorni."
+    },
+    {
+      "n": "5:1",
+      "he": "הזבה — הרואה דם שלא בזמן נידתה. ראתה יום אחד או שניים — זבה קטנה. ראתה שלשה ימים — זבה גדולה.",
+      "it": "La zavah — è colei che vede sangue al di fuori del suo ciclo mestruale. Se vide uno o due giorni — è 'zavah ketanah' (zavah minore). Se vide tre giorni — è 'zavah gedolah' (zavah maggiore)."
+    },
+    {
+      "n": "5:2",
+      "he": "זבה קטנה — טובלת ביום שלאחר הראיה ומותרת. זבה גדולה — צריכה שבעה ימים נקיים ואחר כך טבילה וקרבן.",
+      "it": "La zavah ketanah — si immerge nel giorno successivo alla visione ed è permessa. La zavah gedolah — ha bisogno di sette giorni puliti, poi immersione nel mikveh e un sacrificio."
+    },
+    {
+      "n": "5:3",
+      "he": "בזמן הזה — נהגו כל הנשים להחמיר כזבה גדולה, לספור שבעה ימים נקיים לאחר כל ראיה של דם.",
+      "it": "Ai nostri giorni — tutte le donne hanno la consuetudine di essere severe come la zavah gedolah, e contano sette giorni puliti dopo ogni visione di sangue."
+    },
+    {
+      "n": "6:1",
+      "he": "היולדת זכר — טמאה שבעה ימים כנידה. ואחר כך שלשים ושלשה ימים — ימי טוהר.",
+      "it": "Colei che partorisce un maschio (yoledet zachar) — è impura per sette giorni come la niddah. Poi trentaré giorni — giorni di purità (yemei tahor)."
+    },
+    {
+      "n": "6:2",
+      "he": "היולדת נקבה — טמאה ארבעה עשר ימים כנידה. ואחר כך ששים וששה ימים — ימי טוהר.",
+      "it": "Colei che partorisce una femmina (yoledet nekevah) — è impura per quattordici giorni come la niddah. Poi sessantasei giorni — giorni di purità."
+    },
+    {
+      "n": "6:3",
+      "he": "בימי הטוהר — הדם שהיא רואה אינו מטמאה. אבל בסוף ימי הטוהר — חייבת לספור שבעה ימים נקיים ולטבול.",
+      "it": "Nei giorni di purità — il sangue che vede non la rende impura. Ma al termine dei giorni di purità — deve contare sette giorni puliti e immergersi nel mikveh."
+    },
+    {
+      "n": "6:4",
+      "he": "בסוף ימי הטוהר — מביאה קרבן: עולה ובת יונה לחטאת. ובזמן הזה — תפילה ומצוות במקום הקרבן.",
+      "it": "Al termine dei giorni di purità — porta un sacrificio: un'offerta olocausto e una tortora per l'espiazione (chatat). Ai nostri giorni — la preghiera e i precetti sostituiscono il sacrificio."
+    },
+    {
+      "n": "6:5",
+      "he": "כל אלו — הנידה, הזבה, והיולדת — אסורות לבעליהן, ואסורות לגעת בקדשים.",
+      "it": "Tutte costoro — la niddah, la zavah e la yoledet — sono proibite ai propri mariti, e proibite nel toccare le cose sante (kodashim)."
+    },
+    {
+      "n": "6:6",
+      "he": "ועל ידי הטבילה במקוה — תיטהר, ויחזרו כל הדברים למקומם. הטבילה במקוה — היא חידוש והתחדשות.",
+      "it": "E mediante l'immersione nel mikveh — si purifica, e tutte le cose tornano al loro posto. L'immersione nel mikveh — è rinnovamento e rigenerazione."
+    }
+  ],
+  "_glossary_terms_used": ["niddah", "shiv'ah nekiyyim", "mikveh", "mishkav", "moshav", "zavah", "zavah ketanah", "zavah gedolah", "yoledet zachar", "yoledet nekevah", "yemei tahor", "chatat", "kodashim"]
+}

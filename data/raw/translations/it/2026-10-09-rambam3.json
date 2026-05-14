@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Rotzeach UShmirat Nefesh 2-4",
+  "name_he": "משנה תורה, הלכות רוצח ושמירת נפש, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dell'Omicidio e della Protezione della Vita, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-10-09",
+  "hebrew_date": "28 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "2:1-5",
+      "he": "הָרוֹצֵחַ בְּמֵזִיד — נֶהֱרָג…",
+      "it": "(Rotzeach UShmirat Nefesh cap. 2, hal. 1-5) Tipi di omicidio: (1) Omicidio intenzionale (meizid) — la pena è la morte per decapitazione (sayf) tramite il Sanhedrin. (2) Omicidio quasi-intenzionale (karov le-meizid) — uccidere con uno strumento che di solito non causa la morte, ma usato in modo da dimostrare intenzione — il beit din non può condannarlo a morte ma il goel hadam (vendicatore) può ucciderlo. (3) Omicidio accidentale (shogeg) — si sconta nell'esilio nella città di rifugio (ir miklat). La distinzione dipende dall'intento, dallo strumento usato, e dalla circostanza."
+    },
+    {
+      "n": "3:1-6",
+      "he": "כֵּיצַד הִיא הַגָּלוּת — הָרוֹצֵחַ בִּשְׁגָגָה גּוֹלֶה לְעִיר מִקְלָט…",
+      "it": "(cap. 3, hal. 1-6) Come funziona l'esilio? L'omicida accidentale fugge alla città di rifugio (ir miklat) — sei città designate dalla Torah (tre a Est del Giordano, tre a Ovest). Deve fuggire immediatamente dopo l'uccisione accidentale. Il goel hadam non può ucciderlo una volta che è all'interno della città. Vi sono rimasto fino alla morte del Kohen Gadol (sommo sacerdote) in servizio. Le strade verso le città di rifugio devono essere mantenute in buone condizioni, con segnali chiari — «miklat, miklat» scritto ai bivi — per permettere all'omicida accidentale di trovarle rapidamente."
+    },
+    {
+      "n": "4:1-5",
+      "he": "אֵיזֶה הוּא רוֹצֵחַ שֶׁגּוֹלֶה — זֶה שֶׁהָרַג בִּשְׁגָגָה…",
+      "it": "(cap. 4, hal. 1-5) Chi è l'omicida che va in esilio? Chi ha ucciso senza intenzione e senza negligenza evidente. Chi ha ucciso per negligenza grave (karov le-meizid) — non ha rifugio nella città e il goel hadam può ucciderlo senza essere punito. Il Rambam elenca i casi: chi taglia un albero e un altro cade nel raggio — shogeg (accidentale) e va in esilio. Chi spinge un masso e cade su qualcuno — se ha verificato che non c'era nessuno, è shogeg; se non ha verificato — è più grave. Il principio: la responsabilità civile e morale aumenta con la prevedibilità del pericolo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "meizid", "karov le-meizid", "shogeg", "sayf", "Sanhedrin", "beit din", "goel hadam", "ir miklat", "Kohen Gadol"
+  ]
+}

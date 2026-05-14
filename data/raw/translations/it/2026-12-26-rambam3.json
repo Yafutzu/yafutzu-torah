@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Melachim 6-8",
+  "name_he": "משנה תורה, הלכות מלכים ומלחמות פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi dei Re e delle Guerre, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-12-26",
+  "hebrew_date": "17 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Melachim 6:1-5",
+      "he": "מִלְחֶמֶת מִצְוָה וּמִלְחֶמֶת רְשׁוּת — מַה הֵן…",
+      "it": "(Melachim cap. 6, hal. 1-5) Le due categorie di guerra: «milchemet mitzvah» (guerra obbligatoria) e «milchemet reshut» (guerra facoltativa). La milchemet mitzvah include: la difesa da un attacco nemico, la guerra contro le sette nazioni cananee, e la guerra contro Amalek. Queste guerre non richiedono l'approvazione del Sinedrio. La milchemet reshut — guerre di espansione o per altri obiettivi strategici — richiede l'approvazione del Sinedrio di settantuno e del profeta. Il re non può dichiarare guerra facoltativa unilateralmente."
+    },
+    {
+      "n": "Melachim 7:1-5",
+      "he": "פְּטוּרֵי הַצָּבָא — מִי פָּטוּר מִן הַמִּלְחָמָה…",
+      "it": "(Melachim cap. 7, hal. 1-5) Le esenzioni dalla guerra (pturei ha-tzava): chi ha costruito una casa e non l'ha inaugurata, chi ha piantato una vigna e non ne ha ancora mangiato i frutti, chi ha fidanzato una donna e non l'ha ancora sposata — tutti tornano a casa prima della battaglia (Deuteronomio 20:5-7). E «il timoroso e il dal cuore molle» (ha-yare ve-rach ha-levav) — l'interpretazione è dibattuta: c'è chi dice che si tratta di chi ha peccato gravi e teme la punizione, e chi dice che si tratta semplicemente di chi ha paura della battaglia."
+    },
+    {
+      "n": "Melachim 8:1-5",
+      "he": "כֵּיצַד מַצְרִיכִין לִשְׁלוֹם לִפְנֵי הַמִּלְחָמָה…",
+      "it": "(Melachim cap. 8, hal. 1-5) Prima di attaccare una città, si offre la pace: «quando ti avvicini a una città per combatterla, offri prima la pace» (Deuteronomio 20:10). Se la città accetta le condizioni (pagarei tributi, accettare le sette leggi noachidi), non si combatte. Se rifiuta — si assedia. Il Rambam nota che questa legge si applica anche alla milchemet reshut — il tentativo di pace è obbligatorio. L'idea: la guerra è l'ultima risorsa, non il punto di partenza. La Torah preferisce la pace anche con i nemici, purché la pace non comprometta la sicurezza di Israele."
+    }
+  ],
+  "_glossary_terms_used": [
+    "milchemet mitzvah", "milchemet reshut", "Sinedrin", "pturei ha-tzava", "ha-yare ve-rach ha-levav", "sheva mitzvot b'nei Noach"
+  ]
+}

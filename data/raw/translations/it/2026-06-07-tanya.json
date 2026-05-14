@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 7",
+  "name_he": "אגרת התשובה פרק ז'",
+  "name_it": "Lettera della Teshuvah, Capitolo 7",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-07",
+  "hebrew_date": "22 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְגַם הַבֵּינוֹנִי צָרִיךְ לִתְשׁוּבָה",
+      "it": "Il Baal HaTanya introduce un principio sorprendente: anche il Beinoni (בֵּינוֹנִי — la persona 'intermedia' del Tanya, colui che non pecca in azione ma ha pensieri negativi) ha bisogno di teshuvah. Non si tratta della teshuvah per peccati gravi ma della 'teshuvah del distanziamento' (teshuvah shel hitrachekat, תְּשׁוּבָה שֶׁל הִתְרַחֲקוּת) — teshuvah per il semplice fatto di non essere abbastanza vicino a Dio."
+    },
+    {
+      "n": 2,
+      "he": "וְזֶהוּ עִנְיַן וִידּוּי וּבַקָּשַׁת מְחִילָה",
+      "it": "Il Baal HaTanya insegna che la vidui (וִידּוּי — confessione) mattutina nel servizio della preghiera è la forma quotidiana di teshuvah del Beinoni. Ogni mattina, dopo aver recitato i Psalmi e la Amidah, il Beinoni si confessa e chiede perdono per i pensieri estranei (machshavot zarot, מַחְשָׁבוֹת זָרוֹת) che hanno attraversato la mente durante la preghiera, e per qualsiasi mancanza nel servizio divino. Questa pratica quotidiana è la 'teshuvah del Beinoni' — non drammatica ma costante e profonda."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ עִנְיַן הַהִתְבּוֹנְנוּת בְּשַׁחֲרִית",
+      "it": "Il Baal HaTanya introduce la hitbonenut (הִתְבּוֹנְנוּת — meditazione/contemplazione profonda) come forma di teshuvah. Meditare al mattino sulla grandezza di Dio — sulla Sua presenza infinita (Eyn Sof, אֵין סוֹף) che pervade ogni cosa — e sul confronto con la propria piccola esistenza, produce naturalmente un 'heart-break' (lev nishbar, לֵב נִשְׁבָּר) sano che è teshuvah. Questa hitbonenut è la pratica del Chabad (חַבַּ\"ד — acronimo di Chochmah-Binah-Da'at, le tre Sefirot intellettuali superiori) come percorso verso la teshuvah autentica."
+    }
+  ],
+  "_glossary_terms_used": ["Beinoni", "teshuvah shel hitrachekat", "vidui", "machshavot zarot", "hitbonenut", "Eyn Sof", "lev nishbar", "Chabad", "Chochmah", "Binah", "Da'at", "Sefirot"]
+}

@@ -1,0 +1,384 @@
+{
+  "gregorian": "2026-05-08",
+  "hebrew": { "day": 21, "month": "Iyyar", "year": 5786 },
+  "cycle": "rambam-3 (3-perakim daily)",
+  "translatedBy": "claude-sonnet-4-6 (Yafutzu — in-conversation)",
+  "translator_notes": "Traduzione accademica halachica. Termini tecnici: neveilà (animale non macellato ritualmente), terefà (animale non kosher per lesione), shechità (macellazione rituale), chelev (grasso proibito), dam (sangue), kashrut (idoneità rituale). Citazioni bibliche tra parentesi quadre.",
+  "perakim": [
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 2",
+      "name_he": "הלכות מאכלות אסורות, פרק ב",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 2",
+      "halachot_count": 24,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "מִכְּלָל שֶׁנֶּאֱמַר \"וְכָל בְּהֵמָה מַפְרֶסֶת פַּרְסָה וְשֹׁסַעַת שֶׁסַע שְׁתֵּי פְרָסוֹת מַעֲלַת גֵּרָה בַּבְּהֵמָה אֹתָהּ תֹּאכֵלוּ\"",
+          "it": "Dal principio enunciato [Deuteronomio 14:6]: «Qualunque animale che abbia le unghie fesse, divise in due zoccoli e che rumini, di questi potrete mangiare», si deduce che qualunque animale che non rumini e non abbia le unghie fesse è proibito. Un comandamento negativo derivato da un comandamento positivo è equiparato al comandamento positivo. Il cammello, il maiale, il coniglio e la lepre sono proibiti da un esplicito comandamento negativo, anche se possiedono un solo segno di kashrut. A maggior ragione si applica ciò agli altri animali non kosher che non presentano alcun segno di purità — il divieto di mangiarli comprende sia il comandamento negativo sia quello positivo."
+        },
+        {
+          "n": 2,
+          "he": "כָּל הָאוֹכֵל מִבְּשַׂר בְּהֵמָה טְמֵאָה אוֹ חַיָּה טְמֵאָה כְּזַיִת לוֹקֶה",
+          "it": "Chiunque mangi una misura d'oliva (kezayit) di carne di un animale domestico impuro o di una bestia selvatica impura è passibile di flagellazione (maloct) per legge della Torah. Lo stesso vale sia per la carne che per il grasso, poiché la Torah non ha distinto tra carne e grasso degli animali non kosher."
+        },
+        {
+          "n": 3,
+          "he": "הָאָדָם אַף עַל פִּי שֶׁנֶּאֱמַר \"וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה\"",
+          "it": "Riguardo all'essere umano: sebbene sia detto [Genesi 2:7]: «L'uomo divenne un essere vivente», non rientra nella categoria degli animali con zoccoli. Pertanto, chi mangi carne o grasso di un essere umano — vivo o morto — non è passibile di flagellazione. È tuttavia proibito mangiare carne umana in virtù del comandamento positivo [Levitico 11:2]: «Questi sono gli esseri viventi che potrete mangiare.» Tutto ciò che non rientra in quella lista è implicitamente proibito."
+        },
+        {
+          "n": 4,
+          "he": "הָאוֹכֵל מֵחַגָּב הַטָּמֵא כְּזַיִת לוֹקֶה",
+          "it": "Chi mangi una misura d'oliva di una cavalletta (chagav) impura è passibile di flagellazione per legge della Torah, come è detto [Levitico 11:41]: «Qualunque cosa striscerà sul suolo è abominazione, non si mangerà.» Chi mangi della creatura strisciante impura riceve due flagellazioni: una per la proibizione dello scerets e una per la proibizione specifica della specie."
+        },
+        {
+          "n": 5,
+          "he": "הָאוֹכֵל מִן הַשֶּׁרֶץ לוֹקֶה",
+          "it": "Chi mangi una creatura strisciante proibita (shéretz) è passibile di flagellazione per legge della Torah. Ci sono diverse categorie di scerets: quello delle acque, quello dei campi, quello della terra, quello alato (me'ofef) e quello che si riproduce — ognuno comporta una proibizione distinta. Chi ne mangi riceve una flagellazione per ogni proibizione distinta."
+        },
+        {
+          "n": 6,
+          "he": "הָאוֹכֵל כְּזַיִת מִן הַשֶּׁרֶץ הַמַּיִם לוֹקֶה",
+          "it": "Chi mangi una misura d'oliva di una creatura strisciante delle acque (shéretz ha-mayyim) è passibile di flagellazione per legge della Torah, come è detto [Levitico 11:43]: «Non rendetevi abominevoli con alcuna creatura strisciante.» Se fu ammonito per la proibizione dello scerets e mangiò, è passibile; ma se fu ammonito per la proibizione del sangue (dam) non è passibile, perché si riceve flagellazione solo per il sangue degli animali domestici, delle bestie selvatiche e dei volatili."
+        },
+        {
+          "n": 7,
+          "he": "כָּל אֵלּוּ הַחִלּוּקִים הֲלָכָה מִשֶּׁה מִסִּינַי",
+          "it": "Tutte queste distinzioni — e le differenze tra di esse — sono halachot (norme giuridiche) ricevute da Mosè al Sinai [tramandate via Tradizione Orale]."
+        },
+        {
+          "n": 8,
+          "he": "הָאוֹכֵל כְּזַיִת מִשֶּׁרֶץ הַמַּיִם לוֹקֶה מִן הַתּוֹרָה",
+          "it": "Chi mangi una misura d'oliva di una creatura strisciante acquatica è passibile di flagellazione per legge della Torah, come è detto [Levitico 11:43]: «Non rendetevi abominevoli con nessuna creatura strisciante.» Questa proibizione si applica anche alle creature che non si riproducono. Le creature striscianti della terra, al contrario, sono quelle che si riproducono per via maschile e femminile."
+        },
+        {
+          "n": 9,
+          "he": "הַמִּינִין הַבָּאִין מִן הַפֵּרוֹת",
+          "it": "Riguardo alle specie che vengono generate dai frutti e da altri alimenti: se si distaccano dalla loro fonte d'origine e toccano terra, chi ne mangi una misura d'oliva è passibile di flagellazione, come è detto [Levitico 11:42]: «Riguardo a qualunque creatura strisciante che striscerà sulla terra [non le mangiate].» Questo proibisce quelle che sono andate sulla terra, anche se poi sono tornate nel cibo. Se però non si sono allontanate, è permesso mangiare il frutto insieme al verme."
+        },
+        {
+          "n": 10,
+          "he": "בַּמֶּה דְּבָרִים אֲמוּרִים כְּשֶׁהִתְלִיעַ אַחַר שֶׁנִּתְלַשׁ",
+          "it": "Quando si applica quanto sopra? Quando il cibo è diventato infestato dai vermi dopo essere stato reciso dalla terra. Se invece si è infestato mentre era ancora attaccato alla pianta, quel verme è proibito come se fosse andato sulla terra, perché è stato creato sulla terra. Si è passibili di flagellazione. Se vi è dubbio, è proibito. Pertanto, tutti i frutti che comunemente si infestano di vermi quando sono ancora attaccati alla pianta non devono essere mangiati finché non si sia controllato il frutto dall'interno, perché forse contiene un verme. Se il frutto rimane dodici mesi dopo essere stato reciso, può essere mangiato senza esame."
+        },
+        {
+          "n": 11,
+          "he": "יָצָא הַתּוֹלַע לַחוּץ",
+          "it": "Se il verme è uscito al di fuori del frutto e poi vi è rientrato, è proibito come creatura strisciante che è andata sulla terra. Se è ancora all'interno del frutto e non vi sono tracce visibili che sia uscito, è permesso [mangiare il frutto insieme al verme], poiché non si è allontanato."
+        },
+        {
+          "n": 12,
+          "he": "מִין מִמִּינִין שֶׁהִתְלִיעוּ וְיָצְאוּ לְגַבֵּי קַרְקַע",
+          "it": "Specie di frutti che si infestano di vermi e questi escono verso la terra — il verme è proibito anche se poi ritorna al cibo. Una volta che si è allontanato dalla sua fonte d'origine, è acquisito lo statuto di creatura strisciante terrestre proibita."
+        },
+        {
+          "n": 13,
+          "he": "כְּשֶׁבָּא הַתּוֹלַע מִבִּפְנִים",
+          "it": "Quando il verme proviene dall'interno — cioè è stato generato all'interno del frutto stesso — ed è ancora all'interno, è permesso (purché il frutto non sia attaccato alla pianta quando è stato infestato, come sopra). Se è generato nel frutto reciso dal suolo e non si è allontanato, il frutto con il verme è permesso da mangiare."
+        },
+        {
+          "n": 14,
+          "he": "הַמַּלָּח אֵינוֹ מְטַהֵר",
+          "it": "Il sale non purifica i vermi dai frutti. Se un frutto è infestato da vermi, non è sufficiente salarlo per renderlo permesso. Si deve esaminare il frutto accuratamente e rimuovere tutti i vermi prima di mangiarlo."
+        },
+        {
+          "n": 15,
+          "he": "הַדּוּגִין שֶׁבְּמֵעֵי דָּגִים",
+          "it": "Le creature viventi nelle interiora dei pesci — se si tratta di una specie che si genera esclusivamente nell'interno dei pesci e non può sopravvivere al di fuori di essi, è permesso mangiarle insieme al pesce, perché fanno parte della carne del pesce. Se però si sono distaccate e sono andate sulla terra, sono proibite."
+        },
+        {
+          "n": 16,
+          "he": "גַּבַּי הָדָגִים הַגְּדוֹלִים",
+          "it": "Le grandi creature trovate nel ventre dei pesci grandi — se hanno segnali di pinne e squame (snapir e kaskeset), sono permesse come pesci kosher. Se non ne hanno, sono proibite come scerets acquatici."
+        },
+        {
+          "n": 17,
+          "he": "בָּשָׂר הַנִּמְצָא בְּמֵעֵי דָּג טָהוֹר",
+          "it": "Carne trovata nelle interiora di un pesce kosher — se ha la forma di pesce, è permessa. Se ha la forma di carne di animale terrestre, è proibita come neveilà, perché si presume che il pesce l'abbia inghiottita."
+        },
+        {
+          "n": 18,
+          "he": "דָּגִים שֶׁעָלוּ בִּמְצוּדָה",
+          "it": "Pesci che vengono catturati insieme — se la maggioranza ha squame, anche i pesci senza squame sono permessi come parte del gruppo (bittul be-rov). Ma se si sospetta che siano stati mischiati intenzionalmente, non ci si può fidare della maggioranza."
+        },
+        {
+          "n": 19,
+          "he": "כֵּיצַד מִתְנַהֲגִין בַּדָּגִים",
+          "it": "Come ci si comporta riguardo ai pesci? I pesci non necessitano di macellazione rituale (shechità), né di copertura del sangue (kisui ha-dam). Chi li mangi vivi non viola nessuna proibizione, poiché la proibizione di mangiare una parte da un animale vivo (ever min ha-chay) non si applica ai pesci."
+        },
+        {
+          "n": 20,
+          "he": "דָּגִים שֶׁמֵּתוּ מֵאֲלֵיהֶן",
+          "it": "Pesci che sono morti da soli — sono permessi. Non vi è il concetto di neveilà nel pesce. La proibizione di neveilà si applica esclusivamente agli animali domestici, alle bestie selvatiche e ai volatili. Pertanto, un pesce morto naturalmente è permesso quanto un pesce vivo, purché non sia in stato di decomposizione."
+        },
+        {
+          "n": 21,
+          "he": "הַדָּגִים וְהַחֲגָבִים אֵין צְרִיכִין שְׁחִיטָה",
+          "it": "I pesci e le cavallette non richiedono macellazione rituale. La loro cattura equivale alla loro macellazione. Chi li mangi senza macellazione rituale non commette alcuna trasgressione. Tuttavia, se si sospetta che le cavallette siano di una specie impura, non le si mangia senza identificarle."
+        },
+        {
+          "n": 22,
+          "he": "הַחֲגָבִים הַמֻּתָּרִים בַּאֲכִילָה",
+          "it": "Le cavallette permesse sono quelle che hanno quattro zampe, quattro ali che coprono la maggior parte del corpo, stinchi sporgenti per saltare. Il segno della tradizione tramandata è il più affidabile. Nelle comunità yemenite vi sono tradizioni precise riguardo alle specie permesse. In ogni caso si segue la tradizione della propria comunità (minhag ha-medinà)."
+        },
+        {
+          "n": 23,
+          "he": "חֲגָבִים שֶׁנִּמְלְחוּ",
+          "it": "Cavallette che sono state salate o essiccate — se avevano pinne e squame o segni di purità prima del processo, rimangono permesse anche dopo. Il sale e l'essiccazione non alterano il loro statuto di purità o impurità. Si esamina la loro forma originaria per determinarla."
+        },
+        {
+          "n": 24,
+          "he": "כָּל הַדְּבָרִים הָאֵלּוּ",
+          "it": "Tutte queste norme — e le distinzioni tra di esse — sono halachot ricevute da Mosè al Sinai, tramandate di generazione in generazione. Chi le osserva con cura adempie la volontà del Creatore e si santifica nelle cose permesse; chi le trascura profana la propria anima con le abominazioni, come è detto [Levitico 11:43]: «Non vi rendete abominevoli con nessuna creatura strisciante.»"
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 3",
+      "name_he": "הלכות מאכלות אסורות, פרק ג",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 3",
+      "halachot_count": 24,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "כָּל מַאֲכָל הַיּוֹצֵא מִמִּין מִן הַמִּינִין הָאֲסוּרִין שֶׁלּוֹקִין עַל אֲכִילָתָן הֲרֵי אוֹתוֹ הַמַּאֲכָל אָסוּר בַּאֲכִילָה מִן הַתּוֹרָה",
+          "it": "Qualunque alimento che provenga da specie proibite per le quali si riceve flagellazione è proibito da mangiare per legge della Torah; ad esempio: il latte di un animale domestico impuro o di una bestia selvatica impura, o le uova di uccelli o pesci impuri. È detto [Levitico 11:16]: «il bat dello struzzo» — i Saggi hanno commentato: «si riferisce al suo uovo.» La stessa norma vale per tutte le specie proibite come lo struzzo e tutti i loro prodotti simili alle uova."
+        },
+        {
+          "n": 2,
+          "he": "חֲלֵב הָאָדָם מֻתָּר בַּאֲכִילָה",
+          "it": "Il latte umano è permesso da mangiare, sebbene la carne umana sia proibita. Abbiamo già spiegato che la carne umana è proibita in virtù di un comandamento positivo."
+        },
+        {
+          "n": 3,
+          "he": "דְּבַשׁ דְּבוֹרִים וְצִרְעָה מֻתָּר",
+          "it": "Il miele delle api e dei calabroni è permesso. La ragione è che non è un prodotto del loro corpo, bensì viene raccolto nei loro boccucci dalle erbe e poi espulso nell'alveare affinché possano nutrirsene nelle stagioni di scarsità. Poiché non è un prodotto del loro corpo (peri gufahen), ma è come cibo che trattengono e poi rigurgitano, è permesso."
+        },
+        {
+          "n": 4,
+          "he": "כֵּיצַד מֻתָּר לֶאֱכֹל חֲלֵב הָאָדָם",
+          "it": "Come è permesso mangiare il latte umano? Solo in modo normale, come bevanda. Ma non lo si fa rapprendere in formaggio e non lo si mangia in forma solida come formaggio, per non creare un'apparenza di indecenza (mar'it ayin). Un adulto che beva latte materno è proibito per motivi di decenza, come un adulto che succhi al seno."
+        },
+        {
+          "n": 5,
+          "he": "תִּינוֹק שֶׁגְּמָלַתּוּ אִמּוֹ",
+          "it": "Un bambino svezzato prima dei ventiquattro mesi — se si ammalò può riprendere ad allattare finché non siano trascorsi i ventiquattro mesi. Se era stato svezzato e sono già trascorsi i ventiquattro mesi, non può riprendere ad allattare anche se si è ammalato. Queste norme si fondano sulla salute del bambino e sulle esigenze mediche."
+        },
+        {
+          "n": 6,
+          "he": "תִּינוֹק שֶׁגָּמְלַתּוּ אִמּוֹ וְנֶחֱלָה",
+          "it": "Un bambino il cui allattamento è stato interrotto dalla madre — se si ammala, è permesso farlo nuovamente allattare finché non siano trascorsi ventiquattro mesi. Questo vale purché sia stato svezzato dopo i ventiquattro mesi. Se è stato svezzato prima di tale periodo, anche se l'allattamento è stato interrotto per un mese o due, è permesso farlo riprendere fino al compimento dei ventiquattro mesi."
+        },
+        {
+          "n": 7,
+          "he": "אַף עַל פִּי שֶׁחֲלֵב בְּהֵמָה טְמֵאָה וּבֵיצַת עוֹף טָמֵא אֲסוּרִין",
+          "it": "Sebbene il latte di un animale impuro e le uova di un volatile impuro siano proibiti per legge della Torah, non si è passibili di flagellazione per averli mangiati. È detto [Levitico 11:8]: «Non mangerete della loro carne» — si è passibili di flagellazione per la loro carne, ma non per le loro uova e il loro latte. Chi li mangi è come chi mangia mezza misura di una sostanza proibita: è proibito per legge della Torah ma non si riceve flagellazione; piuttosto si riceve makkot mardut (fustigazione per comportamento ribelle)."
+        },
+        {
+          "n": 8,
+          "he": "יֵרָאֶה לִי שֶׁאָכְלַת בֵּיצֵי מִינִין הָאֲסוּרִין",
+          "it": "Mi sembra che mangiare le uova di specie ittiche non kosher trovate nel loro ventre equivalga a mangiare le interiora dello stesso pesce proibito, e si è passibili di flagellazione per legge della Torah. Ugualmente, chi mangi le uova di un volatile impuro ancora aggrappate a grappolo senza essere separate dal corpo della madre o completate è passibile di flagellazione come se avesse mangiato le interiora del volatile."
+        },
+        {
+          "n": 9,
+          "he": "בֵּיצָה שֶׁנִּמְצָאת בָּהּ אֶפְרוֹחַ",
+          "it": "Un uovo nel quale è stato trovato un pulcino in formazione — è proibito da mangiare. Se il pulcino non è ancora riconoscibile come tale, ma è già visibile la formazione di arti, è passibile di makkot mardut."
+        },
+        {
+          "n": 10,
+          "he": "בֵּיצָה שֶׁנִּמְצָאת בָּהּ נְקֻדָּה",
+          "it": "Un'uovo nel quale si trova una macchia di sangue: se è trovata nell'albume, si butta via il sangue e si mangia il resto dell'uovo. Se è trovata nel tuorlo, l'uovo intero è proibito. Le uova non fecondate — un uomo raffinato (adam chashuv) le mangia senza preoccupazione."
+        },
+        {
+          "n": 11,
+          "he": "אֶפְרוֹחַ שֶׁנּוֹלַד",
+          "it": "Un pulcino appena nato — anche se i suoi occhi non si sono ancora aperti, è permesso macellarlo ritualmente e mangiarlo. Quando un animale kosher diventa terefà (non kosher per lesione), il suo latte diventa proibito come il latte di un animale non kosher. Ugualmente, le uova di un volatile che diventa terefà diventano proibite."
+        },
+        {
+          "n": 12,
+          "he": "הַמְּבַשֵּׁל בֵּיצִים בְּחֲלֵב",
+          "it": "Chi cucina uova nel latte — non vi è la proibizione di basar be-chalav (carne nel latte), poiché le uova non sono «carne». Tuttavia, per distinguersi dall'apparenza di violazione, alcuni evitano di cuocere uova nel latte di una volta. In pratica, non vi è proibizione della Torah, né proibizione rabbinica nel cuocere o mangiare uova nel latte."
+        },
+        {
+          "n": 13,
+          "he": "אָסוּר לְהַנִּיחַ בֵּיצִים בִּכְלִי שֶׁנִּשְׁתַּמֵּשׁ בּוֹ חָלָב",
+          "it": "Non si devono lasciare uova in un recipiente che è stato usato per il latte caldo, se il recipiente è ancora caldo (ben yomo), perché l'assorbimento del sapore del latte nelle uova potrebbe creare un'apparenza di mescolanza proibita. Se il recipiente è freddo o è passato più di un giorno (eino ben yomo), non vi è problema."
+        },
+        {
+          "n": 14,
+          "he": "בֵּיצָה שֶׁנִּמְצֵאת בְּמֵעֵי הָעוֹף",
+          "it": "Un'uovo trovato nelle interiora di un volatile macellato ritualmente — se è completata con il guscio, è permessa anche senza macellazione rituale propria, e si può cuocerla insieme al volatile (non vi è proibizione di basar be-chalav con il volatile). Se non è completata con il guscio, è permessa ma non la si cuoce insieme al latte."
+        },
+        {
+          "n": 15,
+          "he": "בֵּיצִים שֶׁנִּמְצְאוּ בַּבָּשָׂר",
+          "it": "Uova trovate nella carne di un animale macellato ritualmente — si presume che siano permesse. Non si ha la proibizione di basar be-chalav con esse, poiché le uova non sono «carne» ai sensi del divieto. Tuttavia, alcuni le evitano con il latte per misura di precauzione."
+        },
+        {
+          "n": 16,
+          "he": "הַמְּבַשֵּׁל בֵּיצָה עִם חָלָב",
+          "it": "Chi cucina un'uovo con il latte — non viola la proibizione della Torah di basar be-chalav, poiché il divieto della Torah si riferisce esclusivamente alla carne di un animale domestico kosher cotta nel latte di un animale domestico kosher. Le uova non sono carne in questo senso."
+        },
+        {
+          "n": 17,
+          "he": "שְׁמוֹנָה שְׁרָצִים שֶׁמֵּנִינוּ",
+          "it": "Le otto specie di rettili menzionate dalla Torah [Levitico 11:29-30] — chi le tocca diventa impuro (tmè). Il contatto con queste specie rende impuri per tutto il giorno, e si purifica con l'immersione nel mikvè (bagno rituale). Chi le tocca rende impuro qualunque cosa egli tocchi successivamente."
+        },
+        {
+          "n": 18,
+          "he": "שְׁמוֹנָה שְׁרָצִים מְטַמְּאִין בְּמַגָּע",
+          "it": "Le otto specie di rettili rendono impuri per contatto (maga'). Se uno di questi rettili era secco (yavesh) al punto che se ne rompesse un po' non avrebbe umidità per bagnare la mano — non rende impuro nemmeno per contatto. Un rettile che era morto e poi si è seccato — la controversia dei Saggi riguarda il grado di secchezza necessario perché non renda più impuro."
+        },
+        {
+          "n": 19,
+          "he": "הַנּוֹגֵעַ בְּשֶׁרֶץ טָמֵא",
+          "it": "Chi tocca un rettile proibito diventa impuro (tmè) e rende impuro qualunque cosa egli tocchi di primo grado (rishon le-tum'à), fino a purificarsi mediante immersione nel mikvè e la caduta del sole (tvul yom). Il rettile stesso rimane impuro permanentemente e non può essere purificato."
+        },
+        {
+          "n": 20,
+          "he": "כֵּיצַד מְטַמֵּא הַשֶּׁרֶץ",
+          "it": "Come rende impuro il rettile? Se uno lo porta (massa') senza toccarlo, diventa impuro come se lo avesse toccato, perché il portamento (massa') è equivalente al contatto (maga') riguardo all'impurità. Tuttavia, le norme del portamento dei rettili sono più severe di quelle degli altri oggetti impuri."
+        },
+        {
+          "n": 21,
+          "he": "שֶׁרֶץ שֶׁנָּפַל לְמַשְׁקִין",
+          "it": "Un rettile proibito caduto in liquidi: rende i liquidi impuri di primo grado; i liquidi a loro volta rendono impuri gli alimenti. Se il rettile cadde in un liquido puro che poi venne a contatto con un alimento, quell'alimento è di terzo grado di impurità (shlishi le-tum'à)."
+        },
+        {
+          "n": 22,
+          "he": "עוֹר הַשֶּׁרֶץ כַּשֶּׁרֶץ עַצְמוֹ",
+          "it": "La pelle del rettile è come il rettile stesso quanto all'impurità. Anche la pelle del rettile rende impuro per contatto e per portamento. Ma i capelli del rettile e le sue ossa non rendono impuri, a meno che non abbiano ancora i tessuti di carne attaccati."
+        },
+        {
+          "n": 23,
+          "he": "שְׁנֵי שְׁרָצִים שֶׁנֶּחְלְקוּ",
+          "it": "Due rettili che si sono divisi l'uno dall'altro: ogni parte è soggetta alla propria norma di impurità. Se ciascuna metà ha la misura minima (un'oliva di volume), ognuna rende impura per sé. Se una delle parti è inferiore alla misura minima, non rende impura."
+        },
+        {
+          "n": 24,
+          "he": "כָּל אֵלּוּ הַדִּינִין שֶׁל אִסּוּר מַאֲכָלוֹת",
+          "it": "Tutte queste norme riguardanti i cibi proibiti derivano dall'aspirazione alla kedushah (santità) che la Torah prescrive al popolo d'Israele. Il separarsì dai cibi proibiti è parte integrante della distinzione di Israele tra le nazioni, come è detto [Levitico 20:26]: «Siate santi per Me, poiché Io, il Signore, sono santo, e vi ho separati dai popoli per essere Miei.»"
+        }
+      ]
+    },
+    {
+      "ref": "Mishneh Torah, Forbidden Foods 4",
+      "name_he": "הלכות מאכלות אסורות, פרק ד",
+      "name_it": "Leggi dei cibi proibiti — Hilchot Ma'achalot Asurot, capitolo 4",
+      "halachot_count": 22,
+      "halachot": [
+        {
+          "n": 1,
+          "he": "הָאוֹכֵל כְּזַיִת מִבְּשַׂר בְּהֵמָה שֶׁמֵּתָה אוֹ חַיָּה שֶׁמֵּתָה אוֹ עוֹף שֶׁמֵּת לוֹקֶה",
+          "it": "Chi mangi una misura d'oliva (kezayit) di carne di un animale domestico morto naturalmente (neveilà), di una bestia selvatica morta naturalmente o di un volatile morto è passibile di flagellazione, come è detto [Deuteronomio 14:21]: «Non mangerete di alcuna neveilà.» Qualunque animale che non sia stato macellato nel modo appropriato è considerato come morto naturalmente. Nelle Leggi della Shechità (macellazione rituale) spiegheremo quali tipi di macellazione sono appropriati e quali non lo sono."
+        },
+        {
+          "n": 2,
+          "he": "אֵין אִסּוּר נְבֵלָה אֶלָּא בִּבְהֵמָה וְחַיָּה וְעוֹף שֶׁל מִינִין הַמֻּתָּרִין",
+          "it": "La proibizione di neveilà si applica solo agli animali di specie permesse, poiché sono quelli adatti alla macellazione rituale e, se macellati correttamente, è permesso mangiarli. Al contrario, chi mangi carne di una specie non permessa — poiché la macellazione rituale non ha rilevanza per esse, sia che vengano macellate correttamente, sia che muoiano naturalmente, sia che si tagli carne da esse da vive — non è passibile di flagellazione per neveilà o terefà, ma soltanto per aver mangiato carne di un animale impuro."
+        },
+        {
+          "n": 3,
+          "he": "הָאוֹכֵל כְּזַיִת מִן הַנְּבֵלָה",
+          "it": "Chi mangi una misura d'oliva di neveilà è passibile di flagellazione. Se mangiò meno di una misura d'oliva non è passibile di flagellazione, ma vi è proibizione della Torah. Se mangiò un'intera misura d'oliva di un arto di un animale vivo e morì l'animale — vi è un'unica flagellazione per aver mangiato una parte da un animale vivo (ever min ha-chay) oppure per la neveilà?"
+        },
+        {
+          "n": 4,
+          "he": "אֵבֶר הַפּוֹרֵשׁ מִן הַחַי",
+          "it": "Un arto staccato da un animale vivo (ever min ha-chay) — se si macella l'animale dopo che l'arto si è staccato, l'arto rimane proibito. Se però l'arto si è staccato dopo la macellazione rituale, è permesso. La macellazione non purifica ciò che si è già separato prima di essa."
+        },
+        {
+          "n": 5,
+          "he": "עוּבָּר שֶׁנִּמְצָא בְּמֵעֵי הַבְּהֵמָה שֶׁנִּשְׁחֲטָה",
+          "it": "Un feto trovato nel ventre di un animale macellato ritualmente — è permesso, come la carne della madre. Anche se il feto era vivo al momento della macellazione, è permesso. Non necessita di macellazione rituale propria. Se però il feto uscì vivo dal ventre della madre dopo la macellazione e poggiò il piede a terra, necessita di macellazione rituale propria per essere permesso."
+        },
+        {
+          "n": 6,
+          "he": "הָאוֹכֵל כְּזַיִת מִן הַשִּׁלְיָא",
+          "it": "La placenta espulsa insieme al neonato è proibita da mangiare. Chi la mangi non è passibile di flagellazione, perché non è carne. Tuttavia, è proibita per decreto dei Saggi, perché può contenere sangue."
+        },
+        {
+          "n": 7,
+          "he": "הָאוֹכֵל כְּזַיִת מִבְּהֵמָה שֶׁנֶּפֶשׁ שֶׁנּוֹלֶדֶת",
+          "it": "Chi mangi una misura d'oliva di un feto nato morto (shilya, abortito) di un animale kosher è passibile di flagellazione per neveilà. È proibito mangiare di un animale appena nato prima della notte dell'ottavo giorno dalla sua nascita. Qualunque animale non abbia vissuto otto giorni è considerato come nato morto, e non si riceve flagellazione per mangiarlo. Tuttavia, se è noto che sia stato portato a termine il periodo di gestazione, è permesso già il giorno della sua nascita."
+        },
+        {
+          "n": 8,
+          "he": "הַשִּׁלְיָא הַיּוֹצֵאת מֵהַנּוֹלֶדֶת",
+          "it": "La placenta espulsa insieme al neonato è proibita da mangiare. Chi la mangi non è passibile di flagellazione, perché non è carne."
+        },
+        {
+          "n": 9,
+          "he": "הָאוֹכֵל כְּזַיִת מֵחַי הָאוֹכֵל מִן הַטְּרֵפָה",
+          "it": "Chi mangi una misura d'oliva di un animale domestico, bestia selvatica o volatile kosher che è ferito mortalmente (terefà) è passibile di flagellazione, come è detto [Esodo 22:30]: «Non mangiate carne di un animale lacerato nel campo; gettàtela ai cani.» La terefà comprende qualunque animale kosher affetto da una delle lesioni che i Saggi hanno elencato come mortali."
+        },
+        {
+          "n": 10,
+          "he": "כֵּיצַד יוֹדְעִין שֶׁהִיא טְרֵפָה",
+          "it": "Come si sa se un animale è terefà? I Saggi hanno enumerato diciotto tipi di lesioni (terefot) che rendono un animale non idoneo. Qualunque lesione diversa da queste — l'animale è permesso. L'esame viene eseguito dopo la macellazione rituale sulle interiora e sugli organi dell'animale."
+        },
+        {
+          "n": 11,
+          "he": "אֵיזֶה הִיא טְרֵפָה הַמְפֹרֶשֶׁת בַּתּוֹרָה",
+          "it": "Qual è la terefà esplicitamente menzionata dalla Torah? È detto [Esodo 22:30]: «Carne lacerata nel campo» — si riferisce a un animale che è stato attaccato da una bestia selvatica. Se un lupo o un leone ha trascinato un capretto per il piede, la coda o l'orecchio, e un uomo lo ha inseguito e salvato — è permesso, perché non è stato ferito mortalmente. Non è considerato terefà finché non sia stato effettivamente lacerato negli organi interni."
+        },
+        {
+          "n": 12,
+          "he": "בְּהֵמָה שֶׁנְּפָלָה מִן הַגָּג",
+          "it": "Un animale che è caduto dal tetto — se non si può esaminarlo vivo, si presume che sia terefà. Se si può esaminarlo e si trovano lesioni interne, è terefà; se non ve ne sono, è permesso. La caduta da un'altezza considerevole è considerata dai Saggi come una delle cause che possono produrre lesioni interne."
+        },
+        {
+          "n": 13,
+          "he": "בְּהֵמָה שֶׁנָּגַף בָּהּ אֲרִי אוֹ דּוֹב",
+          "it": "Un animale che è stato colpito da un leone o da un orso — il colpo di un leone rende sempre terefà (anche senza visibili lacerazione), perché il veleno delle unghie di un leone penetra nell'animale. Il colpo di un orso invece rende terefà solo se ha lacerato la carne fino alle interiora. Queste differenze sono halachot ricevute da Mosè al Sinai."
+        },
+        {
+          "n": 14,
+          "he": "נֶשֶׁר שֶׁתָּקַף עַל הַגּוֹזָל",
+          "it": "Un'aquila che ha afferrato un pulcino con gli artigli: poiché un'aquila è rapace, il contatto dei suoi artigli (velenos come quelli del leone) rende l'uccello terefà. Un falco e simili — idem. Uccelli non rapaci che abbiano graffiato un volatile kosher — il volatile è permesso, perché il loro graffo non contiene veleno."
+        },
+        {
+          "n": 15,
+          "he": "כָּל טְרֵפָה שֶׁיָּכוֹלָה לִחְיוֹת",
+          "it": "Qualunque terefà che potrebbe sopravvivere — è comunque terefà e proibita. La sopravvivenza non cancella la classificazione. Anche se l'animale sopravvive anni con la lesione, rimane proibito. Il criterio è la natura della lesione, non l'esito."
+        },
+        {
+          "n": 16,
+          "he": "שְׁמוֹנֶה עֶשְׂרֵה טְרֵפוֹת",
+          "it": "Le diciotto terefot enumerate dai Saggi sono: perforazione della membrana del cervello (nekuvà), frattura della colonna vertebrale (neshuveret ha-shidra), rottura delle costole, recisione della trachea o dell'esofago, lesione al polmone, perforazione dello stomaco o dell'intestino, mancanza del fegato, perforazione della cistifellea, perforazione delle interiora, frattura del cranio con esposizione della membrana, lesione al cuore, mancanza delle zampe anteriori, eccetera. Queste sono halachot ricevute da Mosè al Sinai."
+        },
+        {
+          "n": 17,
+          "he": "כֵּיצַד בּוֹדְקִין אֶת הַטְּרֵפוֹת",
+          "it": "Come si esaminano le terefot? Dopo la macellazione rituale, si aprono le interiora e si esaminano i polmoni, lo stomaco, le interiora, il fegato, il cuore e la trachea. Se vi si trovano lesioni che rientrano nelle diciotto categorie, l'animale è terefà e proibito. Se non vi si trova nulla, è permesso."
+        },
+        {
+          "n": 18,
+          "he": "כֵּיצַד בּוֹדְקִים אֶת הָרֵאָה",
+          "it": "Come si esaminano i polmoni? Si gonfiano con aria: se i polmoni reggono l'aria senza che fuoriesca — sono permessi. Se l'aria fuoriesce da qualche parte — vi è una perforazione e i polmoni sono terefà. Il metodo tradizionale prevede anche l'esame dell'aderenza (sirchot) tra i polmoni e la parete toracica."
+        },
+        {
+          "n": 19,
+          "he": "סִירְכוֹת הָרֵאָה",
+          "it": "Le aderenze (sirchot) dei polmoni: se vi è un'aderenza tra un lobo del polmone e la parete toracica o tra un lobo e l'altro, è necessario esaminare se l'aderenza indica una perforazione sottostante. Le norme sulle sirchot sono molto dettagliate e costituiscono gran parte della pratica quotidiana della kashrut della carne."
+        },
+        {
+          "n": 20,
+          "he": "מִי שֶׁלֹּא יָדַע לִבְדֹּק",
+          "it": "Chi non sa esaminare gli organi dopo la macellazione — non deve farlo da solo. Deve affidarsi a un esperto. Qualunque dubbio riguardo a una terefà deve essere presentato a un rabbino competente (morè hora'à). Non è permesso mangiare carne dubbia senza consulenza rabbinica."
+        },
+        {
+          "n": 21,
+          "he": "כֵּיצַד מֻתָּר הַפֶּגֶר",
+          "it": "Come avviene che una neveilà sia permessa? Solo tramite una macellazione rituale valida, che trasformi la neveilà in carne permessa. Qualunque altra forma di morte naturale, malattia o lesione mortale — non può essere rimediata dalla macellazione successiva."
+        },
+        {
+          "n": 22,
+          "he": "הַנּוֹתֵן בְּהֵמָה לַקַּצָּב",
+          "it": "Chi affida il proprio animale al macellaio per la macellazione rituale — se il macellaio lo macella e poi afferma che è terefà, la sua parola è accettata per quanto riguarda la proibizione dell'animale, ma non per quanto riguarda il risarcimento economico al proprietario. Se ha macellato l'animale e afferma che lo ha macellato in modo non valido (pegà), la sua parola è accettata per la proibizione ma non per il pagamento, come nel caso precedente."
+        }
+      ]
+    }
+  ],
+  "_glossary_terms_used": ["neveilà", "terefà", "shechità", "chelev", "dam", "kashrut", "kezayit", "makkot mardut", "ever min ha-chay", "shéretz", "maga'", "massa'", "tum'à", "mikvè", "basar be-chalav", "sirchot", "morè hora'à", "kaskeset", "snapir"]
+}

@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bechorot 8; Hilchot Tumat Met 1-2",
+  "name_he": "משנה תורה, הלכות בכורות פרק ח; הלכות טומאת מת פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi dei Primogeniti capitolo 8; Leggi dell'Impurità da Cadavere capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-08-07",
+  "hebrew_date": "24 Av 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "מצות מעשר בהמה: כל מי שיש לו בהמות — בקר, צאן ועיזים — חייב לעשר אותם. כיצד? מכניס את כל הבהמות שנולדו לפנים אחת, ומוציאם ועשירי שיצא — קדוש ומובא כקרבן.",
+      "it": "Il precetto del maaser behemah (decima degli animali): chiunque possieda animali — bovini, ovini e caprini — è obbligato a seppararne la decima. Come? Si fanno passare tutti gli animali nati attraverso un'apertura uno ad uno, e il decimo che esce è consacrato e portato come sacrificio."
+    },
+    {
+      "n": "8:2",
+      "he": "כיצד עושים? עושה דיר ומכניס כולם לדיר. ועושה פתח קטן שאינו יכול לצאת בו אלא אחת. ומוציאם אחת אחת, ומונה בשוט: אחת, שתיים... עשירי — קדוש.",
+      "it": "Come si compie? Si costruisce un recinto e vi si fanno entrare tutti gli animali. Si apre una piccola uscita attraverso la quale possa passare solo uno alla volta. Li si fa uscire uno ad uno, contandoli con uno scettro: uno, due... il decimo — è consacrato."
+    },
+    {
+      "n": "8:3",
+      "he": "בזמן הזה שאין בית המקדש — אין מעשר בהמה. והרמב\"ם כותב כי יש שנהגו שלא למנות, כדי שלא יבואו לידי הקדש שאינם יכולים לפדותו. Si concludono le Leggi dei Primogeniti. Si conclude il Sefer Korbanot.",
+      "it": "Ai nostri giorni, senza il Bet ha-Mikdash, non si pratica il maaser behemah. Il Rambam scrive che alcuni erano soliti non contare per non rischiare di consacrare un animale che non si può riscattare. Si concludono le Leggi dei Primogeniti. Si conclude il Sefer Korbanot (Libro dei Sacrifici). Inizia il Sefer Taharah (Libro della Purità)."
+    },
+    {
+      "n": "1:1",
+      "he": "אב הטומאות שבכולם הוא המת. כל אדם שנגע במת, או שנשא אותו, או שנמצא תחת אוהל אחד עמו — נטמא. וטומאה זו היא החמורה שבכל הטומאות.",
+      "it": "La fonte di impurità (av ha-tumah) più grave di tutte è il met (cadavere umano). Chiunque tocchi un cadavere, lo porti o si trovi sotto la stessa tettoia (ohel) insieme ad esso, diventa impuro (tamei). Questa è l'impurità più grave di tutte le impurità."
+    },
+    {
+      "n": "1:2",
+      "he": "הנוגע במת — נעשה ראשון לטומאה. הנוגע בראשון — נעשה שני. וכן הלאה, עד מדרגה מסוימת שנקבעה בהלכה.",
+      "it": "Chi tocca un cadavere diventa rishon le-tumah (primo grado di impurità). Chi tocca il rishon diventa sheni (secondo grado). E così via, fino a un certo livello determinato dalla halachah."
+    },
+    {
+      "n": "1:3",
+      "he": "כוהן שנטמא במת — אסור לו לשוב לבית ה' ולאכול תרומה עד שיטהר. ולכן מוזהרים הכוהנים שלא ליטמא במת, אלא לבני משפחתם הקרובים בלבד.",
+      "it": "Un kohen che si è reso impuro per un cadavere non può tornare al Bet H' né mangiare della terumah (offerta sacerdotale) finché non si è purificato. Pertanto i kohanim sono ammoniti a non rendersi impuri per un cadavere, se non per i loro stretti familiari."
+    },
+    {
+      "n": "2:1",
+      "he": "האוהל הוא כל גג שיש מתחתיו מת. ואפילו אדם הפורס טליתו על המת — הטלית מטמאה את כל מה שתחתיה.",
+      "it": "L'ohel (tettoia) è qualsiasi copertura sotto la quale si trovi un cadavere. Anche una persona che stende il proprio tallith sopra un morto — il tallith trasmette l'impurità a tutto ciò che si trova sotto di esso."
+    },
+    {
+      "n": "2:2",
+      "he": "השיעור המינימלי של 'אוהל' הוא טפח על טפח. אבל גג שהוא פחות מכשיעור — אינו מצרף את הטומאה שמתחתיו לטומאה שמעליו.",
+      "it": "La misura minima di un 'ohel' è un tefach (larghezza di un palmo) per un tefach. Un tetto di misura inferiore a questa non connette l'impurità sotto di esso con ciò che si trova sopra di esso."
+    }
+  ],
+  "_glossary_terms_used": ["maaser behemah", "Bet ha-Mikdash", "Sefer Korbanot", "Sefer Taharah", "av ha-tumah", "met", "ohel", "tamei", "rishon le-tumah", "kohen", "terumah", "tefach"]
+}

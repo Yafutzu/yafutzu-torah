@@ -1,0 +1,20 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Okhalin 15-16; Hilchot Kelim 1",
+  "name_he": "משנה תורה, הלכות טומאת אוכלין, פרקים טו-טז; הלכות כלים, פרק א",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità dei Cibi capitoli 15-16; Leggi dei Vasi capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-09-09",
+  "hebrew_date": "27 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "15:1", "he": "מָקָה מְסֻבֶּכֶת בְּטֻמְאַת אֳכָלִין — שְׁנֵי אֳכָלִין שֶׁנָּגְעוּ זֶה בָּזֶה כְּשֶׁאֶחָד טָמֵא.", "it": "Caso complesso nell'impurità dei cibi — due cibi che si sono toccati quando uno è impuro."},
+    {"n": "15:2", "he": "הַנּוֹגֵעַ בָּהֶם — דִּינוֹ לְפִי מִי הוּא וּמַה הָאֹכֶל.", "it": "Chi li tocca — la sua legge dipende da chi è e qual è il cibo."},
+    {"n": "15:3", "he": "כְּלָלֵי הַסְּפֵקוֹת בְּטֻמְאַת אֳכָלִין — לְהַקֵּל בִּרְשׁוּת הָרַבִּים, לְהַחְמִיר בִּרְשׁוּת הַיָּחִיד.", "it": "Le regole dei dubbi nell'impurità dei cibi — si è indulgenti nel dominio pubblico, severi nel dominio privato."},
+    {"n": "16:1", "he": "סֵיכּוּם הִלְכוֹת טֻמְאַת אֳכָלִין — שְׁנֵי עִקָּרִים: הַכְשֵׁר וְהַיּוֹדֵעַ שֶׁנִּטְמָא. Si concludono le Leggi dell'Impurità dei Cibi.", "it": "Sommario delle Leggi dell'Impurità dei Cibi — due principi: il rendere suscettibile e la conoscenza che è diventato impuro. Si concludono le Leggi dell'Impurità dei Cibi."},
+    {"n": "16:2", "he": "כָּל הַדִּינִים הַנּוֹהֲגִים בְּזְמַן הַזֶּה הֵם מִדְּרַבָּנָן, אֲבָל שָׁמְרוּ אוֹתָם חֲכָמִים לְזֵכֶר הַמִּקְדָּשׁ.", "it": "Tutte le leggi applicabili oggi sono rabbiniche, ma i Saggi le hanno mantenute in ricordo del Tempio."},
+    {"n": "1:1", "he": "הִלְכוֹת כֵּלִים — כְּלִי מְקַבֵּל טֻמְאָה רַק אִם הוּא שָׁלֵם וְרָאוּי לִשְׁמוּשׁ. כְּלִי שָׁבוּר — אֵינוֹ מְקַבֵּל.", "it": "Leggi dei Vasi — un vaso riceve impurità solo se è integro e adatto all'uso. Un vaso rotto — non riceve impurità."},
+    {"n": "1:2", "he": "סוּגֵי הַכֵּלִים הַמְּפוּרָשִׁים בַּתּוֹרָה — כֵּלֵי מַתֶּכֶת, עֵץ, אֶבֶן, עוֹר, עֶצֶם, זְכוּכִית, חָרֵס. לְכָל אֶחָד דִּינִים שׁוֹנִים.", "it": "I tipi di vasi menzionati nella Torah — vasi di metallo, legno, pietra, pelle, osso, vetro, argilla. Ognuno ha leggi diverse."},
+    {"n": "1:3", "he": "הָעִקָּרוֹן הַכְּלָלִי — כְּלִי שֶׁאֵינוֹ מְשַׁמֵּשׁ לְצֹרֶךְ — אֵינוֹ מְקַבֵּל טֻמְאָה. הַצֹּרֶךְ הוּא הַקּוֹבֵעַ.", "it": "Il principio generale — un vaso che non serve a uno scopo — non riceve impurità. L'utilità è il fattore determinante."}
+  ],
+  "_glossary_terms_used": ["kelim", "tum'ah", "kli shavur", "tahara"]
+}

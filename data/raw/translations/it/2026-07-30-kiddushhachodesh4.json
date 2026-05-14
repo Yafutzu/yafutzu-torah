@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 4",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ד",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 4",
+  "cycle": "rambam-1",
+  "date": "2026-07-30",
+  "hebrew_date": "16 Av 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "צָרִיךְ אָדָם לֵדַע כֵּיצַד מְחַשְּׁבִין תְּקוּפַת הַחַמָּה וּמוֹלַד הַלְּבָנָה.",
+      "it": "Una persona deve sapere come si calcola il ciclo solare (tekufat ha-chamah) e la nascita della luna (molad ha-levanah)."
+    },
+    {
+      "n": 2,
+      "he": "הַמּוֹלָד — הוּא רֶגַע חִדּוּשׁ הַלְּבָנָה, כְּלוֹמַר הַרֶגַע שֶׁחוֹזֶרֶת הַלְּבָנָה לִהְיוֹת מְחֻבֶּרֶת עִם הַשֶּׁמֶשׁ.",
+      "it": "Il molad è il momento della nascita della luna — cioè l'istante in cui la luna torna a congiungersi con il sole (congiunzione astronomica)."
+    },
+    {
+      "n": 3,
+      "he": "מֵחֵל מוֹלַד תִּשְׁרֵי שֶׁל שָׁנַת הָבְרִיאָה — יָדוּעַ הוּא.",
+      "it": "A partire dal molad di Tishri dell'anno della creazione — esso è noto [ai calcoli tradizionali]."
+    },
+    {
+      "n": 4,
+      "he": "מִן הַמּוֹלָד שֶׁנֵּדַע עַד הַמּוֹלָד שֶׁאַחֲרָיו — כ\"ט יָמִים, י\"ב שָׁעוֹת, תשצ\"ג חֲלָקִים.",
+      "it": "Dal molad che conosciamo fino al prossimo molad trascorrono: 29 giorni, 12 ore e 793 parti (chalakim — la giornata è divisa in 1080 parti)."
+    },
+    {
+      "n": 5,
+      "he": "זֶהוּ מֶשֶׁךְ חֹדֶשׁ הַלְּבָנָה הָאֶמְצָעִי.",
+      "it": "Questa è la durata del mese lunare medio (chodesh ha-levanah ha-emtza'i)."
+    },
+    {
+      "n": 6,
+      "he": "הַחֲלָקִים — שִׁשִּׁים חֵלֶק לְדַקָּה אַחַת, וּמִמֶּנּוּ הַשָּׁעָה שְׁמוֹנָה עָשָׂר חֲלָקִים.",
+      "it": "Le 'parti' (chalakim): sessanta parti formano un minuto, e un'ora contiene 1080 parti."
+    },
+    {
+      "n": 7,
+      "he": "כֵּיצַד מְחַשְּׁבִין? לוֹקְחִין מוֹלַד הַיָּדוּעַ וּמוֹסִיפִין עָלָיו כ\"ט יוֹם וי\"ב שָׁעוֹת ותשצ\"ג חֲלָקִים — וְיֵדַע מוֹלַד הַחֹדֶשׁ הַבָּא.",
+      "it": "Come si calcola? Si prende il molad noto e vi si aggiungono 29 giorni, 12 ore e 793 parti — e si ottiene il molad del mese successivo."
+    },
+    {
+      "n": 8,
+      "he": "תְּקוּפַת הַחַמָּה — שְׁלֹשָׁה מֵאוֹת וְשִׁשִּׁים וַחֲמִשָּׁה יוֹם וּרְבִיעַ יוֹם.",
+      "it": "Il ciclo solare (tekufat ha-chamah) è di 365 giorni e un quarto di giorno — l'anno solare."
+    },
+    {
+      "n": 9,
+      "he": "אַרְבַּע תְּקוּפוֹת הֵן — תְּקוּפַת נִיסָן, תְּקוּפַת תַּמּוּז, תְּקוּפַת תִּשְׁרֵי, תְּקוּפַת טֵבֵת.",
+      "it": "Le stagioni sono quattro: Tekufat Nisan (equinozio di primavera), Tekufat Tammuz (solstizio d'estate), Tekufat Tishri (equinozio d'autunno), Tekufat Tevet (solstizio d'inverno)."
+    },
+    {
+      "n": 10,
+      "he": "בֵּין תְּקוּפָה לִתְקוּפָה — תִּשְׁעָה וְתִשְׁעִים יָמִים וּרְבִיעַ.",
+      "it": "Tra una stagione e l'altra trascorrono novantuno giorni e un quarto."
+    }
+  ],
+  "_glossary_terms_used": ["molad", "tekufat ha-chamah", "chalakim", "chodesh ha-levanah ha-emtza'i"]
+}

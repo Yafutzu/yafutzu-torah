@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'aseh HaKorbanot 10-12",
+  "name_he": "משנה תורה, הלכות מעשה הקורבנות, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi della Procedura dei Sacrifici, capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-07-14",
+  "hebrew_date": "29 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "10:1",
+      "he": "אָשָׁם — בָּא בְּחָמִשָּׁה מְצָבִים: אֲשַׁם גְּזֵלוֹת, אֲשַׁם מְעִילוֹת, אֲשַׁם שִׁפְחָה, אֲשַׁם נָזִיר, אֲשַׁם מְצֹרָע, וְאֲשַׁם תָּלוּי.",
+      "it": "L'asham — viene in cinque situazioni: asham gezeilot (rapina), asham me'ilot (appropriazione indebita di beni sacri), asham shifchah (schiava), asham nazir (nazir), asham metzora (metzora), e asham taluy (colpa sospesa)."
+    },
+    {
+      "n": "10:2",
+      "he": "אֲשַׁם תָּלוּי — בָּא עַל סָפֵק חֵטְא. אִם אֵינוֹ יוֹדֵעַ אִם חָטָא — מֵבִיא אֲשַׁם תָּלוּי.",
+      "it": "L'asham taluy — viene per dubbio di colpa. Se non sa se ha peccato — porta un asham taluy."
+    },
+    {
+      "n": "10:3",
+      "he": "אֲשַׁם וַדַּאי — כְּשֶׁיָּדַע בְּוַדַּאי שֶׁחָטָא — מֵבִיא חַטָּאת.",
+      "it": "L'asham vadai (colpa certa) — quando sa con certezza che ha peccato — porta un chatat."
+    },
+    {
+      "n": "11:1",
+      "he": "קָרְבַּן עוֹלֶה וְיוֹרֵד — עָנִי מֵבִיא תּוֹרִים אוֹ בְּנֵי יוֹנָה תַּחַת כֶּבֶשׂ.",
+      "it": "Il korban oleh ve-yored (sacrificio a scala mobile) — il povero porta tortore o piccioni invece di un agnello."
+    },
+    {
+      "n": "11:2",
+      "he": "עָנִי בְּיוֹתֵר — מֵבִיא עֲשִׂירִית הָאֵיפָה סֹלֶת.",
+      "it": "Il molto povero — porta un decimo di efa di fior di farina (solet)."
+    },
+    {
+      "n": "11:3",
+      "he": "אֵלּוּ מְצָבִים שֶׁמֵּבִיא בָּהֶם קָרְבַּן עוֹלֶה וְיוֹרֵד: שְׁבוּעַת שָׁוְא, טֻמְאַת מִקְדָּשׁ, שְׁבוּעַת בִּטּוּי.",
+      "it": "Le situazioni in cui si porta il korban oleh ve-yored: giuramento vano (shvu'at shav), impurità nel Tempio, giuramento di espressione (shvu'at bituy)."
+    },
+    {
+      "n": "12:1",
+      "he": "מִנְחַת חִנּוּךְ — הַמִּנְחָה שֶׁמֵּבִיא הַכֹּהֵן גָּדוֹל בְּהִתְחַדֵּשׁ לַעֲבוֹדָה.",
+      "it": "La minchat chinuch — la minchah (offerta di grano) che porta il Kohen Gadol al momento del suo primo servizio."
+    },
+    {
+      "n": "12:2",
+      "he": "מִנְחַת חִנּוּךְ — נִשְׂרֶפֶת כֻּלָּהּ. אֵין מִמֶּנָּה אֲכִילָה לַכֹּהֵן.",
+      "it": "La minchat chinuch — viene bruciata interamente. Non vi è parte di essa che si mangia dal kohen."
+    },
+    {
+      "n": "12:3",
+      "he": "וְכֵן מִנְחַת כֹּהֵן הֶדְיוֹט בְּיוֹם הִתְחַדְּשׁוֹ — גַּם הִיא כֻּלָּהּ לַמִּזְבֵּחַ.",
+      "it": "E così la minchat kohen hedyot (il kohen comune) nel giorno del suo primo servizio — anche essa interamente per l'altare."
+    },
+    {
+      "n": "12:4",
+      "he": "הַכֹּהֵן גָּדוֹל — מַקְרִיב חֲצִי בַּבֹּקֶר וַחֲצִי בָּעֶרֶב בְּכָל יוֹם.",
+      "it": "Il Kohen Gadol — offre metà al mattino e metà al pomeriggio ogni giorno [del suo servizio ordinario]."
+    },
+    {
+      "n": "12:5",
+      "he": "מִנְחַת יוֹם הַכִּפּוּרִים — מִנְחָה מְיוּחֶדֶת שֶׁל הַכֹּהֵן גָּדוֹל.",
+      "it": "La minchah dello Yom Kippur — è la minchah speciale del Kohen Gadol."
+    },
+    {
+      "n": "12:6",
+      "he": "כָּל מִנְחָה שֶׁל כֹּהֵן — אֵינָהּ נֶאֱכֶלֶת, אֶלָּא כֻּלָּהּ כָּלִיל.",
+      "it": "Qualsiasi minchah di un kohen — non si mangia, ma è interamente un olocausto (kalil)."
+    }
+  ],
+  "_glossary_terms_used": ["asham", "asham gezeilot", "asham me'ilot", "asham taluy", "chatat", "korban oleh ve-yored", "tzorim", "benei yonah", "solet", "shvu'at shav", "shvu'at bituy", "minchat chinuch", "Kohen Gadol", "minchah", "kalil", "Yom Kippur"]
+}

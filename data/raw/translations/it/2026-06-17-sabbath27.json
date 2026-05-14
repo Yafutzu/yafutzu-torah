@@ -1,0 +1,122 @@
+{
+  "ref": "Mishneh Torah, Sabbath 27",
+  "name_he": "משנה תורה, הלכות שבת, פרק כז",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 27",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-17",
+  "hebrew_date": "2 Tammuz 5786",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יוֹם הַכִּפּוּרִים — הוּא שַׁבַּת שַׁבָּתוֹן...",
+      "it": "Lo Yom Kippur (Giorno dell'Espiazione) è chiamato 'Shabbat Shabbaton' — il Sabato dei Sabati. Ha la stessa severità dello Shabbat riguardo ai lavori proibiti, con l'aggiunta delle cinque afflizioni corporali specifiche."
+    },
+    {
+      "n": 2,
+      "he": "חֲמִשָּׁה עִנּוּיִין אֲסוּרִין בְּיוֹם הַכִּפּוּרִים...",
+      "it": "Le cinque afflizioni (inuyim) proibite nello Yom Kippur: (1) mangiare e bere; (2) lavarsi; (3) ungersi con olio; (4) indossare scarpe di cuoio; (5) rapporti coniugali. Tutte e cinque sono di origine biblica."
+    },
+    {
+      "n": 3,
+      "he": "אָכַל וְשָׁתָה בְּיוֹם הַכִּפּוּרִים בְּזָדוֹן...",
+      "it": "Chi mangia o beve intenzionalmente nello Yom Kippur è punito con il karet (recisione spirituale). Se ha mangiato la misura minima (kezayit — dimensione di un'oliva per cibo; revi'it — un quarto di log per liquidi), è soggetto alla pena."
+    },
+    {
+      "n": 4,
+      "he": "הָאוֹנֵס שֶׁאָכַל — פָּטוּר...",
+      "it": "Chi ha mangiato nello Yom Kippur per costrizione (onus) o per dimenticanza (shogeg) — è esente dalla punizione del karet. Per dimenticanza, porta una offerta espiatorio (chatat) dopo la festa."
+    },
+    {
+      "n": 5,
+      "he": "חוֹלֶה שֶׁיֵּשׁ בּוֹ סַכָּנָה — אוֹכְלִין אוֹתוֹ...",
+      "it": "Per un malato in pericolo di vita nello Yom Kippur — si dà da mangiare e da bere secondo il parere medico. La vita umana ha precedenza assoluta. Si dà in piccole quantità (פָּחוֹת מִשִּׁעוּר — meno della misura proibita) se possibile."
+    },
+    {
+      "n": 6,
+      "he": "מַאֲכִילִין אוֹתוֹ עַל פִּי אוֹמְדָן...",
+      "it": "Si nutre il malato nello Yom Kippur secondo la stima degli esperti. Se il medico dice che ha bisogno di mangiare, gli si dà. Se il malato stesso dice che ha bisogno, si ascolta la sua voce, poiché il cuore conosce il proprio dolore."
+    },
+    {
+      "n": 7,
+      "he": "קָטָן — אֵינוֹ מִתְעַנֶּה בְּיוֹם הַכִּפּוּרִים...",
+      "it": "I bambini piccoli (ketanim) non digiunano nello Yom Kippur — non c'è obbligo per loro dalla Torah. Ma a partire dall'età di 9-10 anni, i genitori li abituano gradualmente al digiuno: prima poche ore, poi di più, fino al digiuno completo quando sono maturi."
+    },
+    {
+      "n": 8,
+      "he": "מִצְוָה לְהוֹסִיף מֵחֹל עַל קֹדֶשׁ...",
+      "it": "È un obbligo aggiungere tempo 'profano' al 'sacro' (tosefet Yom Kippur): iniziare il digiuno un po' prima del tramonto e terminarlo un po' dopo la comparsa delle stelle. Questa aggiunta è sia all'inizio che alla fine dello Yom Kippur."
+    },
+    {
+      "n": 9,
+      "he": "כָּל הַמְּלָאכוֹת הָאֲסוּרוֹת בְּשַׁבָּת...",
+      "it": "Tutte le melachot (lavori) proibite di Shabbat sono proibite anche nello Yom Kippur. La differenza è che nello Shabbat la violazione dei lavori è punita con lapidazione (se con premeditazione e testimoni), mentre nello Yom Kippur la pena aggiuntiva è il karet."
+    },
+    {
+      "n": 10,
+      "he": "רְחִיצַת כָּל הַגּוּף — אֲסוּרָה...",
+      "it": "Lavarsi tutto il corpo nello Yom Kippur è proibito. Lavarsi solo parti del corpo (viso, mani, piedi) per rimuovere sporco — permesso. Lavarsi per piacere o igiene ordinaria — proibito."
+    },
+    {
+      "n": 11,
+      "he": "סִיכָה — אֲסוּרָה אֲפִלּוּ שֶׁל רְפוּאָה...",
+      "it": "L'ungersi con olio nello Yom Kippur è proibito anche a scopo medico (salvo pericolo di vita). Questo è a differenza dello Shabbat, dove l'ungersi a scopo medico è talvolta permesso per un malato."
+    },
+    {
+      "n": 12,
+      "he": "נְעִילַת הַסַּנְדָּל — שֶׁל עוֹר...",
+      "it": "Indossare scarpe di cuoio è proibito nello Yom Kippur. Scarpe di legno, panno, gomma — sono permesse. Il divieto si riferisce specificamente alle scarpe di cuoio, considerate un lusso nell'antichità."
+    },
+    {
+      "n": 13,
+      "he": "תַּשְׁמִישׁ הַמִּטָּה — אָסוּר...",
+      "it": "I rapporti coniugali sono proibiti nello Yom Kippur come una delle cinque afflizioni. Anche il solo contatto affettuoso fisico è consigliabile evitare in spirito di santità del giorno."
+    },
+    {
+      "n": 14,
+      "he": "אָב שֶׁמֵּת — לֹא יִתְאַבֵּל בְּיוֹם הַכִּפּוּרִים...",
+      "it": "Chi perde un parente stretto nello Yom Kippur — non osserva il lutto (avelut) di Shabbat. Lo Yom Kippur è un giorno pubblico di santità che prevale sulle pratiche private del lutto. Il lutto viene rinviato all'uscita dello Yom Kippur."
+    },
+    {
+      "n": 15,
+      "he": "כֵּיצַד מַתְפִּלִּים בְּיוֹם הַכִּפּוּרִים...",
+      "it": "Le preghiere dello Yom Kippur: si aggiunge la preghiera di Neilah (chiusura dei cancelli) come quinta preghiera, oltre alle quattro normali (Shacharit, Musaf, Minchah). Neilah si recita al tramonto quando si 'chiudono le porte del cielo'."
+    },
+    {
+      "n": 16,
+      "he": "כָּל נְדָרִים — כָּל נִדְרֵי...",
+      "it": "Kol Nidrei — la formula recitata la sera di Yom Kippur per annullare i voti (nedarim) fatti nei confronti di Dio durante l'anno. Il Rambam dà le basi halachiche di questo annullamento, che deve essere fatto davanti a un beit din (tribunale rabbinico)."
+    },
+    {
+      "n": 17,
+      "he": "מִצְוָה לְסַעֵד בְּעֶרֶב יוֹם הַכִּפּוּרִים...",
+      "it": "È una mitzvah mangiare abbondantemente la vigilia di Yom Kippur (erev Yom Kippur) — 'kol ha-ochel be-tish'ah be-Tishrei' (chi mangia il 9 di Tishrei è come se avesse digiunato anche il 10). Il pasto della vigilia è considerato come una mitzvah positiva."
+    },
+    {
+      "n": 18,
+      "he": "הַמִּתְוַדֶּה — כֵּיצַד מִתְוַדֶּה...",
+      "it": "La confessione (viduy) nello Yom Kippur: si recita la confessione durante ogni preghiera del giorno (5 volte). La formula include 'Ashamnu, bagadnu...' (abbiamo peccato, abbiamo tradito...). Il cuore deve accompagnare le parole con pentimento sincero."
+    },
+    {
+      "n": 19,
+      "he": "עֲבֵרוֹת שֶׁבֵּין אָדָם לַחֲבֵרוֹ...",
+      "it": "I peccati tra una persona e l'altra (averot shebeyn adam la-chavero) — lo Yom Kippur non espia finché non si è chiesto perdono alla persona offesa e si è riconciliati con lei. Il perdono di Dio non sostituisce il perdono umano."
+    },
+    {
+      "n": 20,
+      "he": "אֵין יוֹם הַכִּפּוּרִים מְכַפֵּר...",
+      "it": "Lo Yom Kippur non espia i peccati di chi dice: 'peccherò e lo Yom Kippur mi perdonerà'. Solo la teshuvah (pentimento) sincera permette l'espiazione. Il giorno in sé ha potere espiatorio solo se accompagnato dalla teshuvah del cuore."
+    },
+    {
+      "n": 21,
+      "he": "בְּמוֹצָאֵי יוֹם הַכִּפּוּרִים — מַבְדִּיל...",
+      "it": "All'uscita dello Yom Kippur si recita la Havdalah sul vino. Secondo la tradizione, si inizia immediatamente dopo a costruire la sukkah, per passare da mitzvah a mitzvah senza interruzione."
+    },
+    {
+      "n": 22,
+      "he": "יוֹם הַכִּפּוּרִים — מְכַפֵּר עַל כָּל עֲבֵרוֹת...",
+      "it": "Conclude il capitolo: lo Yom Kippur, con la teshuvah sincera, ha il potere di espiare tutti i peccati tra l'uomo e Dio — anche i più gravi. Questo è il grande dono di Dio a Israele: un giorno all'anno di 'reset' completo dello stato spirituale."
+    }
+  ],
+  "_glossary_terms_used": ["Yom Kippur", "Shabbat Shabbaton", "inuyim", "karet", "teshuvah", "kezayit", "onus", "chatat", "tosefet Yom Kippur", "melachot", "Neilah", "Kol Nidrei", "viduy", "averot shebeyn adam la-chavero"]
+}

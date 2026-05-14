@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Evel 8-10",
+  "name_he": "משנה תורה, הלכות אבל פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi del Lutto, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-12-22",
+  "hebrew_date": "13 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Evel 8:1-5",
+      "he": "הַמִּתְאַבֵּל עַל אָדָם כָּשֵׁר — מְחִילַת עֲווֹנוֹת…",
+      "it": "(Evel cap. 8, hal. 1-5) Chi partecipa al lutto per una persona onesta e virtuosa — questo atto stesso è un'espiazione per i suoi peccati. La ragione: il lutto per i giusti è una forma di connessione alla loro virtù, un momento di riflessione sulla mortalità e sul senso della vita che purifica l'anima. Il Talmud (Shabbat 105b) insegna: «Chi piange per un uomo retto, D-o gli perdona tutti i peccati.» Il lutto non è solo un rituale di commiato — è un'opportunità di crescita spirituale."
+    },
+    {
+      "n": "Evel 9:1-5",
+      "he": "אֵיסוּר הָאֲבֵלוּת הַיְּתֵרָה — מְפוֹרָשׁ בַּנְּבִיאִים…",
+      "it": "(Evel cap. 9, hal. 1-5) La Torah e i Profeti mettono in guardia contro l'eccesso di lutto. Dopo trenta giorni, il divieto di lutto eccessivo è biblicamente fondato. Il Rambam cita il principio medico che anche per il corpo il lutto prolungato è dannoso. La visione ebraica è olistica: il lutto eccessivo non onora il defunto — anzi, tradisce la fede nella resurrezione dei morti e nella vita eterna dell'anima. Chi piange senza misura mostra di non credere che l'anima del defunto viva."
+    },
+    {
+      "n": "Evel 10:1-5",
+      "he": "אֲבֵלוּת יוֹם רִאשׁוֹן — מִן הַתּוֹרָה…",
+      "it": "(Evel cap. 10, hal. 1-5) L'avelut del primo giorno (giorno della sepoltura) è un obbligo biblico, secondo l'opinione del Rambam. I giorni successivi sono rabbinici. Il lutto del primo giorno ha caratteristiche speciali: il dolente è in uno stato di choc emotivo totale. La halakhah riconosce questa realtà psicologica: non si forza il dolente a pregare formalmente o a svolgere mitzvot normali nelle prime ore dopo la sepoltura. La Torah è umana — lascia spazio al dolore prima di chiedere il ritorno alla normalità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "avelut", "shloshim", "shiva", "techiyat ha-meitim"
+  ]
+}

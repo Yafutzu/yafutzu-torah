@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 5",
+  "name_he": "משנה תורה, הלכות אישות, פרק ה",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-28",
+  "hebrew_date": "15 Elul 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הקידושין הם האירוסין, והם ההכנה לנישואין. בין הקידושין לנישואין — נקראת המאורסה. אחרי הנישואין — נקראת הנשואה.",
+      "it": "Il kiddushin è il fidanzamento (erusin), ossia la preparazione al matrimonio (nissuin). Tra il kiddushin e il nissuin — ella è chiamata me'oreset (fidanzata). Dopo il nissuin — è chiamata nesu'ah (sposata)."
+    },
+    {
+      "n": 2,
+      "he": "מאורסה שזינתה — יש אומרים שדינה בסקילה כנשואה. ויש אומרים שדינה במיתה בחנק.",
+      "it": "Una me'oreset che commise adulterio — alcuni dicono che la sua pena è la lapidazione come la sposata. Altri dicono che la sua pena è la morte per strangolamento."
+    },
+    {
+      "n": 3,
+      "he": "מה בין ארוסה לנשואה? הנשואה — כל שעה שירצה הבעל לגרשה, נותן לה גט ונפטרת. אבל הארוסה — אם גרשה, חייב לשלם לה עיקר כתובתה.",
+      "it": "Qual è la differenza tra una fidanzata (arusah) e una sposata (nesu'ah)? La sposata — in qualsiasi momento il marito voglia divorziare, le dà un get ed ella è libera. La fidanzata invece — se la divorziò, è tenuto a pagarle l'importo principale della ketubah."
+    },
+    {
+      "n": 4,
+      "he": "ארוסה — אסורה לבעלה מדברי סופרים עד שתיכנס לחופה.",
+      "it": "Una fidanzata (arusah) — è proibita al suo fidanzato per decreto rabbinico fino a quando non entra sotto la chuppah (il baldacchino nuziale)."
+    },
+    {
+      "n": 5,
+      "he": "הנישואין נעשים בחופה. כיצד? מוציאין את הכלה בכיסוי ראשה לחופה, ואחרי כן הרי היא נשואה.",
+      "it": "Il matrimonio (nissuin) si compie con la chuppah. Come? Si porta la sposa (kallah) coperta il capo sotto la chuppah, e da quel momento è sposata (nesu'ah)."
+    },
+    {
+      "n": 6,
+      "he": "חופה — היא כניסת כלה לרשות חתן. ואם ייחד לה מקום — הרי היא חופה.",
+      "it": "La chuppah — è l'ingresso della sposa (kallah) nell'ambito del dominio dello sposo (chatan). Se le ha designato un luogo apposito — quello è la chuppah."
+    },
+    {
+      "n": 7,
+      "he": "בשעת הנישואין — מברך ז' ברכות, הנקראות שבע ברכות.",
+      "it": "Al momento del matrimonio — si recitano sette benedizioni, dette Sheva Brachot (le sette benedizioni nuziali)."
+    },
+    {
+      "n": 8,
+      "he": "ז' ימי משתה לאחר הנישואין — נקראים ימי המשתה, ואם הגיע פנים חדשות — מברכים שוב שבע ברכות.",
+      "it": "I sette giorni di festa dopo il matrimonio — si chiamano Shiva Yemei HaMishteh (i sette giorni del banchetto). Se arriva un ospite nuovo (panim chadashot — letteralmente: volto nuovo), si ripetono le Sheva Brachot."
+    },
+    {
+      "n": 9,
+      "he": "האיש שנשא אשה — חייב לדור עמה ולא לגרשה תוך ז' ימי שמחה אלא מחמת דבר.",
+      "it": "L'uomo che sposa una donna — è tenuto a stare con lei e non può divorziare durante i sette giorni di gioia se non per una causa grave."
+    },
+    {
+      "n": 10,
+      "he": "ז' ימי שמחה — אסור לעשות בהם מלאכה בפרהסיא.",
+      "it": "Durante i sette giorni di gioia — è proibito svolgere lavoro in pubblico."
+    },
+    {
+      "n": 11,
+      "he": "ארוסה שמת ארוסה — מתאבלת עליו כנשואה לכל דבר, לפי שהיא כאשתו לגמרי.",
+      "it": "Una fidanzata il cui fidanzato morì — si dispera su di lui come una sposata, in tutto, poiché è come sua moglie a tutti gli effetti."
+    },
+    {
+      "n": 12,
+      "he": "ארוס שמתה ארוסתו — מתאבל עליה ומתאבלים עליו אחרים. אבל אינו נוהג אבלות גמורה.",
+      "it": "Un fidanzato la cui fidanzata morì — porta il lutto per lei e altri portano il lutto con lui. Ma non osserva il lutto completo."
+    },
+    {
+      "n": 13,
+      "he": "בין האירוסין לנישואין — ראוי לקצר כדי שלא יכשל. אבל המאחר — אין בו עבירה.",
+      "it": "Tra il fidanzamento e il matrimonio — è opportuno ridurre l'intervallo affinché non si cada in tentazione. Ma chi posticipa — non commette alcuna trasgressione."
+    },
+    {
+      "n": 14,
+      "he": "הרי שנשא ולא כתב כתובה — חייב לכתבה, שאסור לאדם לדור עם אשתו אפילו שעה אחת בלא כתובה.",
+      "it": "Se uno si è sposato e non ha scritto una ketubah — è tenuto a scriverla, poiché è proibito a un uomo abitare con sua moglie anche un'ora sola senza una ketubah."
+    }
+  ],
+  "_glossary_terms_used": ["kiddushin", "erusin", "nissuin", "me'oreset", "nesu'ah", "get", "ketubah", "arusah", "chuppah", "kallah", "chatan", "Sheva Brachot", "Shiva Yemei HaMishteh", "panim chadashot"]
+}

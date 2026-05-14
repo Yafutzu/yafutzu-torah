@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Shaalah UPikkadon 2-4",
+  "name_he": "משנה תורה, הלכות שאלה ופקדון, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi del Prestito e del Deposito, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-11-11",
+  "hebrew_date": "2 Kislev 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "2:1-4",
+      "he": "שׁוֹמֵר שָׂכָר — חַיָּב בִּגְנֵבָה וַאֲבֵדָה…",
+      "it": "(Shaalah UPikkadon cap. 2, hal. 1-4) Il custode retribuito (shomer sachar) — è responsabile per furto (gnevah) e perdita (aveidah), ma non per ones (forza maggiore). Se l'oggetto affidatogli è rubato da un ladro notturno — il shomer sachar paga. Se l'oggetto è preso con violenza da un ladro armato (gazlan) che avrebbe potuto sopraffare anche il custode più diligente — è ones e il custode è esente. La distinzione pratica: il ladro di notte (ganav) può essere fermato con diligenza; il rapinatore armato (gazlan) no."
+    },
+    {
+      "n": "2:5-8",
+      "he": "הַשּׁוֹאֵל — חַיָּב אֲפִלּוּ בְּאֹנֶס גָּמוּר…",
+      "it": "(Shaalah UPikkadon cap. 2, hal. 5-8) Il sho'el (chi prende in prestito) — è responsabile anche per ones gamur (forza maggiore assoluta): se il bue preso in prestito viene colpito da un fulmine — il debitore paga. Questo è il livello di responsabilità più alto della halakhah. La ragione fondamentale: il debitore beneficia gratuitamente dell'oggetto, e quindi la Torah ha voluto che si assuma la massima responsabilità. L'eccezione della morte «beshkhil melacho» (durante il lavoro per cui è stato prestato): se l'animale muore nel corso del lavoro esatto per cui è stato prestato — alcune autorità esentano il debitore."
+    },
+    {
+      "n": "3:1-4",
+      "he": "הַשּׂוֹכֵר — כְּשׁוֹמֵר שָׂכָר, לְדֵעַת רַבִּי מֵאִיר…",
+      "it": "(Shaalah UPikkadon cap. 3, hal. 1-4) Il socher (locatario/affittuario) — come custode retribuito (shomer sachar) secondo Rabbi Meir; come custode gratuito (shomer chinam) secondo Rabbi Yehuda. Il Rambam decide halakhah ke-Rabbi Meir (come Rabbi Meir): il socher è responsabile per furto e perdita ma non per ones. La ragione di Rabbi Meir: poiché paga per l'uso dell'oggetto, ha un vantaggio monetario — e questo lo rende più responsabile del semplice custode gratuito."
+    },
+    {
+      "n": "4:1-4",
+      "he": "שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר — חַיָּב…",
+      "it": "(Shaalah UPikkadon cap. 4, hal. 1-4) Un custode che consegna l'oggetto ad un altro custode (shomer she-masar le-shomer): il primo custode è responsabile verso il proprietario originale per qualsiasi danno causato dal secondo custode. Il proprietario ha affidato il suo bene a una persona specifica (al primo custode) e non ha acconsentito a che il bene venisse sub-affidato ad un'altra persona. Eccezione: se il secondo custode ha una reputazione superiore al primo per affidabilità — alcune autorità esentano il primo custode."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shomer sachar", "shomer chinam", "sho'el", "socher", "ones", "ganav", "gazlan", "gnevah", "aveidah", "shomer she-masar le-shomer"
+  ]
+}

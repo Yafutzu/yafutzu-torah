@@ -1,0 +1,74 @@
+{
+  "ref": "Mishneh Torah, Oaths 10-12",
+  "name_he": "משנה תורה, הלכות שבועות, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-05-21",
+  "hebrew_date": "5 Sivan 5786",
+  "halachot_count": 35,
+  "halachot": [
+    {
+      "n": "10:1",
+      "he": "שְׁבוּעַת הָעֵדוּת כֵּיצַד. הָאוֹמֵר לִשְׁנַיִם אוֹ לְאֶחָד מֵהֶם הַשְׁבִּיעַנִי שֶׁלֹּא תָּעֵד לִי…",
+      "it": "(Cap. 10, hal. 1) Come funziona il giuramento di testimonianza (shevu'at ha-edut)? [Il caso è:] chi dice a due persone — o anche a una sola di esse — «fatemi giurare che non testimoniereste a mio favore», o «giurate che non testimonierete a mio favore», e questi giurano. Oppure: li convoca in tribunale e loro negano di essere a conoscenza di alcunché a suo favore — mentre in realtà lo sanno —, e il giudice li fa giurare: in tutti questi casi sono soggetti al giuramento di testimonianza."
+    },
+    {
+      "n": "10:2",
+      "he": "אֵין שְׁבוּעַת הָעֵדוּת נוֹהֶגֶת אֶלָּא בִּדְבָרִים הַרְאוּיִין לְהָעִיד עֲלֵיהֶן בְּבֵית דִּין…",
+      "it": "(Cap. 10, hal. 2) Il giuramento di testimonianza si applica solo per questioni sulle quali si può testimoniare in tribunale — vale a dire per questioni di denaro e beni [che possono determinare un obbligo di pagamento]. Ma per questioni non monetarie (es. questioni rituali pure) il giuramento di testimonianza non si applica."
+    },
+    {
+      "n": "10:3",
+      "he": "אֵין חַיָּב בִּשְׁבוּעַת הָעֵדוּת אֶלָּא מִי שֶׁהָיָה רָאוּי לְהָעִיד…",
+      "it": "(Cap. 10, hal. 3) Non è soggetto al giuramento di testimonianza se non chi era atto a testimoniare [cioè chi sarebbe stato idoneo come testimone]. Pertanto: i parenti, le donne, i minori, gli schiavi e gli inabili alla testimonianza — se giurano falsamente di non sapere nulla, sono esenti dal giuramento di testimonianza."
+    },
+    {
+      "n": "10:4-10",
+      "he": "כָּל כָּשֵׁר לְהָעִיד שֶׁאָמַר לוֹ חֲבֵרוֹ הַשְׁבִּיעַנִי שֶׁתָּעִיד לִי…",
+      "it": "(Cap. 10, hal. 4-10) Ogni persona idonea a testimoniare, a cui il suo prossimo dice «giurami che mi testimoni», è soggetta al giuramento di testimonianza se nega di sapere. Coloro che testimoniano ma possono dire solo «sappiamo che ha detto così» (senza poter specificare la sostanza) — sono esenti. Le halachot 5-10 dettagliano: casi di testimonianza parziale; il caso in cui uno dei due testimoni nega ma l'altro conferma; il caso di due testimoni separati; le distinzioni tra testimonianza davanti a un tribunale e fuori tribunale; le condizioni per cui il diniego è considerato kefira (negazione penalmente rilevante)."
+    },
+    {
+      "n": "10:11-14",
+      "he": "הָאִשָּׁה שֶׁהִשְׁבִּיעָה עֵד אֶחָד שֶׁיָּעִיד לָהּ בְּמִיתַת בַּעְלָהּ…",
+      "it": "(Cap. 10, hal. 11-14) La donna che ha fatto giurare un testimone di attestare la morte del marito, e quello nega: è soggetto al giuramento di testimonianza poiché, se avesse testimoniato, la donna avrebbe potuto risposarsi e riscuotere la sua ketuvà. Questa è la regola: ogni testimonianza che avrebbe effetto monetario (diretto o indiretto) rientra nell'ambito del giuramento di testimonianza. Se due testimoni negano contemporaneamente (toch kedei dibur), entrambi sono colpevoli; se vi è un intervallo, solo il primo negante è colpevole."
+    },
+    {
+      "n": "11:1",
+      "he": "שְׁבוּעַת שָׁוְא כֵּיצַד. הַנִּשְׁבָּע עַל דָּבָר שֶׁאִי אֶפְשָׁר לִהְיוֹת…",
+      "it": "(Cap. 11, hal. 1) Cos'è il giuramento vano (shevu'at shav)? Colui che giura su qualcosa di impossibile, ad esempio: «giuro che non ho dormito» o «giuro che non ho mangiato» — cose di cui sa con certezza di aver fatto. Oppure chi giura di annullare una mitzv à, come: «giuro di non mettere le tefillin». Questi sono giuramenti vani, per i quali si è puniti con la flagellazione (malkot) — a differenza del giuramento falso (sheker) che riguarda fatti passati."
+    },
+    {
+      "n": "11:2-10",
+      "he": "הַנִּשְׁבָּע שְׁבוּעַת שָׁוְא בְּשֵׁם מִן הַשֵּׁמוֹת הַקְּדוֹשִׁים…",
+      "it": "(Cap. 11, hal. 2-10) Chi giura invano per uno dei Santi Nomi di D-o — viola il precetto «Non pronuncerai invano il nome del Signore tuo D-o» (Shemot 20:7) ed è punito con la flagellazione. Le halachot 3-10 specificano: le categorie di giuramento vano (elenco completo); quali nomi di D-o sono inclusi nel divieto; le distinzioni tra giuramento vano (shav) e giuramento falso (sheker); i giuramenti formulati per cose immaginarie; il caso di chi giura su qualcosa di già proibito dalla Torah (non aggiunge nulla); il caso di chi giura su qualcosa di già imposto dalla Torah (non aggiunge nulla); la regola che il giuramento non prende effetto su qualcosa che la Torah ha già determinato."
+    },
+    {
+      "n": "11:11-20",
+      "he": "הַנִּשְׁבָּע שְׁבוּעַת הַדַּיָּנִין שֶׁהוּא חַיָּב מָמוֹן לַחֲבֵרוֹ וְכָפַר…",
+      "it": "(Cap. 11, hal. 11-20) Chi giura il giuramento imposto dai giudici (shevu'at ha-dayyanim) affermando di non dover nulla al prossimo, e poi risulta colpevole — è soggetto al giuramento del deposito (shevu'at ha-pikadon). Le halachot 11-20 dettagliano: le distinzioni tra il giuramento delle parti in causa e il giuramento dei testimoni; il caso di chi giura e poi ammette (mechayev); la differenza tra negazione totale e parziale; il caso in cui il mancato adempimento del giuramento genera obbligo di korban; i casi di shevu'at hesset (giuramento «a leggera»); la regola generale che chi giura il falso in ambito monetario porta un korban asham in aggiunta alla restituzione più chomesh (un quinto)."
+    },
+    {
+      "n": "12:1",
+      "he": "אַף עַל פִּי שֶׁלּוֹקֶה הַנִּשִּׁבָּע לַשָּׁוְא אוֹ לַשֶּׁקֶר — מֵבִיא קָרְבָּן. אֵין מִתְכַּפֵּר לָהֶן עֲוֹן הַשְּׁבוּעָה כֻּלּוֹ…",
+      "it": "(Cap. 12, hal. 1) Benché chi giura vanamente o falsamente riceva la flagellazione, porta comunque un sacrificio espiatorio (korban). Tuttavia la colpa del giuramento non è completamente espiata da essi — come è scritto: «Il Signore non assolvete l'innocente chi pronuncia il Suo nome invano» (Shemot 20:7) — implicando che vi è sempre una punizione residua per questo peccato grave."
+    },
+    {
+      "n": "12:2-10",
+      "he": "כֵּיצַד הוּא מִתְכַּפֵּר. בְּתָּשׁוּבָה וּבְיוֹם הַכִּפּוּרִים…",
+      "it": "(Cap. 12, hal. 2-10) Come si ottiene l'espiazione? Attraverso la teshuvà (pentimento sincero) e il Giorno del Kippur. Le halachot 2-10 specificano: il processo di espiazione per i vari tipi di giuramento; le distinzioni tra peccati che il Yom Kippur espia e peccati che richiedono anche sofferenza; il caso di chi giura il falso in giudizio e porta il korban asham; le regole di annullamento del giuramento (hataras nedarim) che si applica al giuramento improprio ma non al giuramento proibito per sua natura; il caso dei giuramenti presi in errore e i limiti dell'annullamento; la norma che è preferibile non giurare affatto — «La cosa migliore è che l'uomo non giuri mai.»"
+    },
+    {
+      "n": "12:11",
+      "he": "וְלֹא שְׁבוּעָה לַשָּׁוְא בִּלְבַד הִיא שֶׁאֲסוּרָה אֶלָּא אֲפִלּוּ לְהַזְכִּיר שֵׁם מִן הַשֵּׁמוֹת הַמְיֻחָדִין לְבַטָּלָה אָסוּר…",
+      "it": "(Cap. 12, hal. 11) Non solo è proibito il giuramento vano, ma è proibito persino menzionare uno dei Santi Nomi di D-o invano — anche senza giurare — come è scritto: «Per temere il Suo nome glorioso e tremendo» (Devarim 28:58). Fare ciò è incluso nel divieto di mancare di rispetto a D-o. Pertanto se la lingua scivola e si pronuncia il Nome invano, si deve immediatamente aggiungere una lode: «Benedetto Egli sia per sempre e in eterno», o «Grande è Egli e molto lodato» e simili — affinché il Nome non sia stato pronunciato invano."
+    },
+    {
+      "n": "12:12",
+      "he": "אַף עַל פִּי שֶׁמֻּתָּר לְהִשָּׁאֵל עַל הַשְּׁבוּעָה כְּמוֹ שֶׁבֵּאַרְנוּ… טוֹבָה גְּדוֹלָה הִיא לְאָדָם שֶׁלֹּא יִשָּׁבַע כְּלָל…",
+      "it": "(Cap. 12, hal. 12) Benché sia permesso farsi sciogliere dal giuramento (be-she'elah al ha-shevuà) come abbiamo spiegato — e chi ha scrupoli in questo non è che per un'ombra di eresia —, tuttavia è consigliabile essere molto cauti in questa cosa. Non ci si rivolge [ai saggi] per sciogliere [il giuramento] se non per una questione di mitzv à o per una grande necessità. Un grande beneficio è per l'uomo non giurare affatto. E se ha già giurato, che si dispiaccia e mantenga il suo giuramento — come è detto: «Ha giurato per fare del male e non cambia» (Tehillim 15:4); e dopo è scritto: «Chi fa queste cose non vacillerà mai» (ivi 15:5). Si concludono le Leggi dei Giuramenti con l'aiuto del Cielo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevu'at ha-edut", "shevu'at shav", "shevu'at ha-pikadon", "shevu'at ha-dayyanim", "shevu'at hesset", "malkot", "korban asham", "chomesh", "teshuvà", "Yom Kippur", "hataras nedarim", "kefira", "ketuvà"
+  ]
+}

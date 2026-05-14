@@ -1,0 +1,75 @@
+{
+  "ref": "Mishneh Torah, Blessings 4",
+  "name_he": "הלכות ברכות, פרק ד",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-07",
+  "hebrew_date": "20 Iyyar 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל הַמְבָרֵךְ בִּרְכַּת הַמָּזוֹן אוֹ בְּרָכָה אַחַת מֵעֵין שָׁלֹשׁ צָרִיךְ לְבָרֵךְ אוֹתָהּ בַּמָּקוֹם שֶׁאָכַל…",
+      "it": "Chi recita la birkat ha-mazon o la benedizione unica comprendente le tre (berachà achat me'ein shalosh) deve recitarla nel luogo in cui ha mangiato. Se ha mangiato camminando, si siede dove ha smesso di camminare e la recita; se ha mangiato in piedi, si siede nel suo posto e la recita. Chi dimentica la birkat ha-mazon e se ne ricorda prima che il cibo sia digerito, la recita nel posto in cui se ne è ricordato; se ha agito deliberatamente, torna al suo posto e la recita — pur adempiendo anche se la recita dove se ne è ricordato. Allo stesso modo adempie se la recita in piedi o camminando, ma in via preferenziale non si recita né la birkat ha-mazon né la berachà me'ein shalosh se non da seduto, nel posto in cui si è mangiato."
+    },
+    {
+      "n": 2,
+      "he": "מִי שֶׁנִּסְתַּפֵּק לוֹ אִם בֵּרֵךְ הַמּוֹצִיא אוֹ לֹא בֵּרֵךְ הַמּוֹצִיא אֵינוֹ חוֹזֵר וּמְבָרֵךְ מִפְּנֵי שֶׁאֵינוֹ מִן הַתּוֹרָה…",
+      "it": "Chi è in dubbio se abbia recitato ha-motzi o no non torna a recitarlo, poiché esso non è obbligatorio dalla Torah. Chi dimentica di recitare ha-motzi — se se ne ricorda prima di terminare il pasto lo recita; se se ne ricorda dopo aver terminato, non lo recita."
+    },
+    {
+      "n": 3,
+      "he": "הָיָה אוֹכֵל בְּבַיִת זֶה וּפָסַק סְעֻדָּתוֹ וְהָלַךְ לְבַיִת אַחֵר…",
+      "it": "Se stava mangiando in una casa, ha interrotto il pasto ed è andato in un'altra casa, oppure un amico lo ha chiamato e si è avvicinato alla porta della propria casa a parlargli e poi è rientrato: poiché ha cambiato luogo, deve recitare la birkat ha-mazon su quanto ha già mangiato, tornare a recitare ha-motzi e solo allora completare il pasto."
+    },
+    {
+      "n": 4,
+      "he": "חֲבֵרִים שֶׁהָיוּ יוֹשְׁבִים לֶאֱכל וְיָצְאוּ לִקְרַאת חָתָן אוֹ לִקְרַאת כַּלָּה…",
+      "it": "Commensali seduti a mangiare che sono usciti per accogliere uno sposo o una sposa: se hanno lasciato nel posto un anziano o un ammalato, rientrano, completano il pasto e non devono recitare una seconda benedizione. Se non hanno lasciato nessuno, all'uscita devono recitare la birkat ha-mazon; al rientro devono recitare nuovamente ha-motzi."
+    },
+    {
+      "n": 5,
+      "he": "וְכֵן אִם הָיוּ מְסֻבִּין בִּשְׁתִיָּה אוֹ לֶאֱכל פֵּרוֹת…",
+      "it": "La stessa regola vale per chi è riunito per bere o mangiare frutta. Chi cambia posto interrompe in tal modo il pasto e deve perciò recitare la benedizione finale su quanto ha consumato, poi nuovamente quella iniziale per quanto si accinge a consumare. Chi si sposta da un angolo all'altro della stessa stanza non ha l'obbligo di tornare a benedire. Chi però ha mangiato sul lato orientale di un fico e va a mangiare sul lato occidentale deve tornare a recitare la benedizione."
+    },
+    {
+      "n": 6,
+      "he": "בֵּרֵךְ עַל הַפַּת פָּטַר אֶת הַפַּרְפֶּרֶת שֶׁאוֹכְלִין בָּהֶן הַפַּת מִמִּינֵי הַתַּבְשִׁיל וּפֵרוֹת…",
+      "it": "Chi benedice sul pane esonera le pietanze e i frutti mangiati insieme al pane come contorno (parpèret). Chi però benedice solo sul contorno non esonera il pane. Chi benedice su un mà'asè kedeirà (pietanza cotta) esonera il tabbìl (intingolo cotto); chi benedice solo sul tabbìl non esonera il mà'asè kedeirà."
+    },
+    {
+      "n": 7,
+      "he": "גָּמַר בְּלִבּוֹ מִלֶּאֱכל אוֹ מִלִּשְׁתּוֹת וְאַחַר כָּךְ נִמְלַךְ לֶאֱכל אוֹ לִשְׁתּוֹת…",
+      "it": "Chi ha deciso nel suo cuore di smettere di mangiare o bere e poi cambia idea deve tornare a recitare la benedizione anche se non ha cambiato posto. Se non aveva deciso di smettere, ma aveva intenzione di riprendere, non è obbligato a recitare una seconda benedizione nemmeno se ha interrotto per l'intera giornata."
+    },
+    {
+      "n": 8,
+      "he": "הָיוּ שׁוֹתִין וְאָמְרוּ בּוֹאוּ וּנְבָרֵךְ בִּרְכַּת הַמָּזוֹן אוֹ בּוֹאוּ וּנְקַדֵּשׁ קִדּוּשׁ הַיּוֹם…",
+      "it": "Se mentre stavano bevendo qualcuno ha detto «Veniamo a recitare la birkat ha-mazon» o «Veniamo a recitare il kiddùsh», è loro proibito continuare a bere fino a quando non abbiano recitato la birkat ha-mazon o il kiddùsh. Se ciononostante vogliono tornare a bere prima di averli recitati — pur non essendone autorizzati — devono tornare a recitare borei peri ha-gàfen prima di bere. Se però hanno detto «Veniamo a recitare la havdalà», non sono obbligati a tornare a benedire."
+    },
+    {
+      "n": 9,
+      "he": "הָיוּ מְסֻבִּין לִשְׁתּוֹת יַיִן וּבָא לָהֶן מִין יַיִן אַחֵר…",
+      "it": "Se erano riuniti a bere vino e fu portato loro un altro tipo di vino — ad esempio stavano bevendo vino rosso e fu portato vino nero, o stavano bevendo vino vecchio e fu portato vino nuovo — non sono obbligati a recitare una seconda benedizione sul vino; recitano però: «Benedetto sei Tu, D-o, nostro Signore, Re dell'universo, buono e che fa del bene» (ha-tov ve-ha-meitìv)."
+    },
+    {
+      "n": 10,
+      "he": "אֵין מְבָרְכִין עַל אֹכֶל מִן כָּל הָאֳכָלִין וְלֹא עַל מַשְׁקֶה מִן כָּל הַמַּשְׁקִין עַד שֶׁיָּבוֹא לְפָנָיו…",
+      "it": "Non si benedice su nessun cibo né bevanda finché non sia portato davanti a chi benedice. Se ha benedetto e solo dopo gli è stato portato davanti, deve tornare a benedire. Ha preso il cibo in mano, ha benedetto e il cibo è caduto e bruciato o è stato trascinato via dal fiume — prende un altro e torna a benedire, anche se è della stessa specie. Deve dire «Benedetto sia il Nome del Suo glorioso regno per sempre» sulla prima benedizione per non aver pronunciato il Nome del Cielo invano. Chi sta accanto a un corso d'acqua può benedire e bere anche se l'acqua presente al momento della benedizione non è quella che effettivamente beve, poiché tale era la sua intenzione originaria."
+    },
+    {
+      "n": 11,
+      "he": "דְּבָרִים הַבָּאִים בְּתוֹךְ הַסְּעֻדָּה וְהֵן מֵחֲמַת הַסְּעֻדָּה אֵינָן צְרִיכִין בְּרָכָה לִפְנֵיהֶם וְלֹא לְאַחֲרֵיהֶם…",
+      "it": "Cibi portati nel corso del pasto e a causa del pasto non richiedono benedizione né prima né dopo — ha-motzi all'inizio e la birkat ha-mazon alla fine esonera tutto, poiché ogni cosa è accessoria (tepheilà) al pasto. Cibi portati nel corso del pasto ma non a causa del pasto richiedono la benedizione prima, ma non quella dopo. Cibi portati dopo il pasto — sia a causa del pasto sia indipendentemente — richiedono la benedizione sia prima che dopo."
+    },
+    {
+      "n": 12,
+      "he": "בְּשַׁבָּתוֹת וּבְיָמִים טוֹבִים וּבִסְעוּדַת הַקָּזַת הַדָּם וּבְשָׁעָה שֶׁיָּצָא מִן הַמֶּרְחָץ וְכַיּוֹצֵא בָּהֶן שֶׁאָדָם קוֹבֵעַ סְעֻדָּתוֹ עַל הַיַּיִן…",
+      "it": "Nei Sabati, nelle feste, nel pasto dopo il salasso o dopo aver lasciato il bagno — e casi analoghi in cui la persona fissa il pasto sul vino — se ha benedetto il vino prima del pasto, tale benedizione include il vino bevuto dopo il pasto ma prima della birkat ha-mazon. Negli altri giorni deve tornare a benedire il vino dopo il pasto. Se durante il pasto viene portato vino, ognuno dei commensali benedice da solo, perché la gola è impegnata e non possono rispondere Amén; tale benedizione non include il vino di dopo il pasto."
+    }
+  ],
+  "_glossary_terms_used": [
+    "birkat ha-mazon", "berachà achat me'ein shalosh", "ha-motzi", "parpèret",
+    "mà'asè kedeirà", "kiddùsh", "havdalà", "borei peri ha-gàfen", "ha-tov ve-ha-meitìv", "tepheilà"
+  ]
+}

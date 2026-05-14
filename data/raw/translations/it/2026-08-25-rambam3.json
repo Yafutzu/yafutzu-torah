@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Tzara'at 14-16",
+  "name_he": "משנה תורה, הלכות טומאת צרעת, פרקים יד-טז",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità della Tzara'at, capitoli 14-16",
+  "cycle": "rambam-3",
+  "date": "2026-08-25",
+  "hebrew_date": "12 Elul 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "14:1",
+      "he": "המצורע היושב מחוץ למחנה — לימוד הוא לכל אחד. שכשם שהמצורע מובדל מחברתו, כן צריך לשים לב שלא לבדל אחרים מחברתם על ידי לשון הרע.",
+      "it": "Il metzora che siede fuori dall'accampamento — è un insegnamento per tutti. Così come il metzora è separato dalla comunità, così bisogna fare attenzione a non separare gli altri dalla loro comunità attraverso il lashon hara."
+    },
+    {
+      "n": "14:2",
+      "he": "מרים הנביאה — לקתה בצרעת בשל לשון הרע שדיברה על משה. ואמר לה משה: 'אל נא רפא נא לה'.",
+      "it": "Miriam la profetessa — fu colpita dalla tzara'at a causa del lashon hara che parlò su Mosè. E Mosè disse per lei: 'El na refa na la' — 'Per favore, D-o, guariscila per favore' (Numeri 12:13)."
+    },
+    {
+      "n": "14:3",
+      "he": "ואף שמשה עצמו היה הנפגע מלשון הרע — ביקש עליה רחמים. ומכאן יש ללמוד שאין לנקום ואין לנטור.",
+      "it": "E sebbene Mosè stesso fosse la vittima del lashon hara — supplicò misericordia per lei. Da qui bisogna imparare che non ci si deve vendicare né serbare rancore."
+    },
+    {
+      "n": "15:1",
+      "he": "כהן שהוא עצמו מצורע — אחר רואה את נגעיו, שנאמר: 'וכי יהיה בעור בשרו' — 'בשרו' ולא בשר אחרים, דהיינו, כל אחד רואה בבשר אחרים, ולא בבשר עצמו.",
+      "it": "Un Kohen che è egli stesso metzora — un altro esamina le sue afflizioni, come è interpretato dal verso: la parola 'besar' (carne) suggerisce che ciascuno esamina la carne altrui, non la propria."
+    },
+    {
+      "n": "15:2",
+      "he": "מי שכסה כל גופו בנגע — קרוי 'כולו הפך לבן'. זהו טהור — וזו גם מן הפרדוקסים: שלם בנגע — טהור.",
+      "it": "Chi è coperto da un'afflizione in tutto il corpo — è chiamato 'kulo haphach lavan' (tutto si è trasformato in bianco). Egli è puro — e questo è un altro paradosso: completamente affetto — è puro."
+    },
+    {
+      "n": "15:3",
+      "he": "אם פרח חלק בתוך ה'כולו לבן' — הרי הוא מחיה וטמא. ואם שב ונהפך כולו ללבן — חוזר לטהרתו.",
+      "it": "Se compare una macchia di pelle sana all'interno del 'tutto bianco' — quella è michyah (pelle sana) ed è impuro. Se poi torna a trasformarsi tutto in bianco — torna alla sua purità."
+    },
+    {
+      "n": "16:1",
+      "he": "סיכום הלכות טומאת צרעת: יש שלשה סוגים — נגעי אדם, נגעי בגדים, נגעי בתים. כולם נקבעים על ידי כהן.",
+      "it": "Riepilogo delle leggi dell'impurità della tzara'at: vi sono tre tipi — afflizioni dell'uomo, afflizioni degli abiti, afflizioni delle case. Tutte sono stabilite dal Kohen."
+    },
+    {
+      "n": "16:2",
+      "he": "כולם — באים בגלל עבירות, בעיקר לשון הרע. וכולם — טעונים תשובה לפני שהם טהורים.",
+      "it": "Tutte — vengono a causa di trasgressioni, principalmente lashon hara. E tutte — richiedono teshuvah prima che siano purificate."
+    },
+    {
+      "n": "16:3",
+      "he": "בזמן הזה — אין נגעי צרעת נוהגים. ולכן ספר ויקרא בפרשיות הצרעת — לימוד הוא לדורות, ולא הלכה למעשה.",
+      "it": "Ai nostri giorni — le leggi delle afflizioni della tzara'at non sono in vigore. Pertanto le pericopi del Levitico sulla tzara'at — sono un insegnamento per le generazioni, non una halakhah applicabile. Si concludono le Leggi dell'Impurità della Tzara'at."
+    },
+    {
+      "n": "16:4",
+      "he": "ולכן כל הרואה בפרשיות הצרעת — יזכור: שמחלות רוחניות כמו לשון הרע — גורמות נזק אמיתי. ויישמר מהן.",
+      "it": "Pertanto chiunque legga le pericopi della tzara'at — ricordi: le malattie spirituali come il lashon hara — causano danno reale. E si guardi da esse."
+    }
+  ],
+  "_glossary_terms_used": ["metzora", "lashon hara", "Kohen", "kulo haphach lavan", "michyah", "teshuvah"]
+}

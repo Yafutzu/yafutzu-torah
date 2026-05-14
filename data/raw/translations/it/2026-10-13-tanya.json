@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 21",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כא",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 21",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-13",
+  "hebrew_date": "2 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כְּבוֹד תַּלְמִידֵי חֲכָמִים — מִצְוַת עֲשֵׂה מִן הַתּוֹרָה…",
+      "it": "Onorare i talmidei chachamim (studiosi di Torah) è un precetto positivo della Torah — «Mi-penei seivah takum ve-hadarta penei zakein» (Lev. 19:32) — «Alzati di fronte alla canizie e onora il volto dell'anziano (zakein)». I Saggi interpretano «zakein» come «ze she-kanah chochmah» — colui che ha acquisito la saggezza (della Torah). L'Alter Rebbe spiega che questo onore non è per il fisico del talmid chacham ma per il livello spirituale che ha raggiunto attraverso lo studio."
+    },
+    {
+      "n": 2,
+      "he": "מַדּוּעַ כְּבוֹד הַחָכָם — כְּבוֹד הַתּוֹרָה — כְּבוֹד הַשְּׁכִינָה…",
+      "it": "La ragione kabalistica dell'onore verso il talmid chacham: l'anima del talmid chacham ha «salito» ai livelli spirituali di Chochmah e Binah attraverso il suo studio — e a questi livelli l'anima è più vicina alla Shekhinah (Presenza Divina). Onorare il talmid chacham è quindi letteralmente onorare la Shekhinah che si manifesta attraverso di lui. Per questo il Talmud insegna (Pesachim 22b): «Bisogna alzarsi anche di fronte al rotolo della Torah» — perché il rotolo della Torah e il talmid chacham sono entrambi «vestimenti» della Shekhinah."
+    },
+    {
+      "n": 3,
+      "he": "הַמַּקְנִיט חָכָם — כְּאִלּוּ הִקְנִיט הַשְּׁכִינָה…",
+      "it": "Chi insulta o mortifica un talmid chacham — è come se insultasse la Shekhinah stessa. L'Alter Rebbe cita i Saggi (Sanhedrin 99b): «Kol ha-megale panim ba-Torah — ein lo chelek le-olam ha-ba» (chi si comporta con arroganza verso la Torah — non ha parte nel mondo avvenire). La lettera si chiude con l'invito pratico: il modo migliore per onorare un talmid chacham è studiare la Torah oneself — chi studia Torah «diventa» in qualche misura il talmid chacham che onora."
+    }
+  ],
+  "_glossary_terms_used": [
+    "talmid chacham", "zakein", "ze she-kanah chochmah", "Chochmah", "Binah", "Shekhinah", "dveikut"
+  ]
+}

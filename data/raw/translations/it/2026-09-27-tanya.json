@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 6",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ו",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettera 6",
+  "cycle": "tanya",
+  "date": "2026-09-27",
+  "hebrew_date": "16 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "דִּירַת עֲרַאי — הַסּוּכָּה הִיא דִּירָה אֲרַעִית, וּדַוְּקָא בִּגְלַל זֶה כֹּחָהּ גָּדוֹל. שֶׁהַדָּר בְּדִירַת קֶבַע דָּבֵק בְּחָמְרִיּוּת, אֲבָל הַדָּר בְּסוּכָּה — הֲרֵי הוּא אוֹחֵז רַק בַּקָּדוֹשׁ בָּרוּךְ הוּא.",
+      "it": "La dimora temporanea — la sukkah è una dimora temporanea, e proprio per questo il suo potere è grande. Chi abita in una dimora permanente si attacca alla materialità, ma chi abita nella sukkah — si aggrappa solo al Santo Benedetto."
+    },
+    {
+      "n": 2,
+      "he": "וְזֶה הָעִנְיָן הַחֲסִידִי: עֲרַאִיּוּת הַסּוּכָּה מַרְאָה שֶׁהַגּוּף עַצְמוֹ הוּא דִּירַת עֲרַאי לַנֶּפֶשׁ. וּמִי שֶׁמֵּבִין זֹאת — הֵינוֹ נִדְבָּק בְּחָמְרִיּוּת. הַסּוּכָּה מְלַמֶּדֶת עֲרַאִיּוּת עוֹלָם הַזֶּה וּנִצְחִיּוּת הָעֵץ הַחַיִּים.",
+      "it": "E questo è il concetto chassidico: la temporaneità della sukkah mostra che il corpo stesso è una dimora temporanea per l'anima. E chi capisce questo — non si attacca alla materialità. La sukkah insegna la temporaneità di questo mondo e l'eternità dell'Albero della Vita."
+    }
+  ],
+  "_glossary_terms_used": ["dirat arai", "sukkah", "neshamah", "guf", "Sukkot", "dirat keva"]
+}

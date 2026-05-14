@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 4",
+  "name_he": "משנה תורה, הלכות אישות, פרק ד",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-27",
+  "hebrew_date": "14 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כשמקדש על תנאי — צריך התנאי להיות כפול. כיצד כפול? לומר 'אם תעשה כך — תהיי מקודשת לי, ואם לא תעשי — לא תהיי מקודשת לי'.",
+      "it": "Quando si fidanza con una condizione — la condizione deve essere doppia (tenai kaful). Come doppia? Dicendo: 'Se farai così — sei fidanzata a me; e se non farai — non sei fidanzata a me'."
+    },
+    {
+      "n": 2,
+      "he": "ואם לא כפל את התנאי — בטל התנאי, והקידושין קידושין בלא תנאי.",
+      "it": "Se non raddoppiò la condizione — la condizione è nulla, e i kiddushin sono kiddushin senza condizione (cioè incondizionati)."
+    },
+    {
+      "n": 3,
+      "he": "ועוד: צריך שיהיה הן קודם ללאו. כיצד? שיאמר 'אם תעשה — מקודשת, ואם לא תעשה — אינך מקודשת', ולא יאמר 'אם לא תעשה — אינך מקודשת, ואם תעשה — מקודשת'.",
+      "it": "Inoltre: è necessario che l'affermativo (hen) preceda il negativo (lav). Come? Che dica prima 'se farai — sei fidanzata, e se non farai — non sei fidanzata'; non che dica prima 'se non farai — non sei fidanzata, e se farai — sei fidanzata'."
+    },
+    {
+      "n": 4,
+      "he": "צריך שיהיה התנאי קודם למעשה. כלומר, שיאמר תחילה את התנאי ואחר כך יקדש.",
+      "it": "È necessario che la condizione preceda l'atto. Vale a dire: che enunci prima la condizione e poi compia il kiddushin."
+    },
+    {
+      "n": 5,
+      "he": "צריך שיהיה התנאי בדבר שאפשר לקיימו. תנאי שאי אפשר לקיימו — בטל, וחוזר לקידושי גמורים.",
+      "it": "È necessario che la condizione riguardi qualcosa che sia possibile adempiere. Una condizione impossibile da adempiere — è nulla, e si torna al kiddushin incondizionato."
+    },
+    {
+      "n": 6,
+      "he": "תנאי שהתנה לעקור דבר מן התורה — בטל התנאי, וחל המעשה בלא תנאי.",
+      "it": "Una condizione che mira ad annullare un precetto della Torah — la condizione è nulla e l'atto è valido senza la condizione."
+    },
+    {
+      "n": 7,
+      "he": "כיצד? אמר לה 'הרי את מקודשת לי על מנת שלא תתבעי ממני שאר כסות ועונה' — בטל התנאי ומקודשת לגמרי.",
+      "it": "Come? Se disse 'Sei fidanzata a me a condizione che tu non mi esiga il mantenimento (she'er), gli abiti (kesut) e i diritti coniugali (onah)' — la condizione è nulla ed è fidanzata incondizionatamente."
+    },
+    {
+      "n": 8,
+      "he": "ואם אמר 'על מנת שתוותרי על כתובתך' — יש אומרים שהתנאי קיים, מפני שהכתובה מדברי סופרים.",
+      "it": "Se però disse 'a condizione che tu rinunci alla tua ketubah (contratto matrimoniale)' — alcuni sostengono che la condizione è valida, poiché la ketubah è di origine rabbinica."
+    },
+    {
+      "n": 9,
+      "he": "אמר לה 'הרי את מקודשת לי על מנת שאהיה כהן' — ונמצא שהוא לוי — בטלו קידושין.",
+      "it": "Se disse 'Sei fidanzata a me a condizione che io sia un Kohen' — e si scoprì che è un Levita — il kiddushin è nullo."
+    },
+    {
+      "n": 10,
+      "he": "אמר לה 'על מנת שאהיה עשיר' — ונמצא שהוא עני — בטלו קידושין.",
+      "it": "Se disse 'a condizione che io sia ricco' — e si scoprì che è povero — il kiddushin è nullo."
+    },
+    {
+      "n": 11,
+      "he": "אמר לה 'על מנת שיסכים אבי' — מת האב — הרי התנאי אינו יכול להתקיים ולא להיבטל. ויש פלוגתא בין הפוסקים.",
+      "it": "Se disse 'a condizione che mio padre acconsenta' — il padre morì — la condizione non può né adempirsi né essere annullata. Vi è una disputa tra i decisori halakhici (poskim) su questo caso."
+    },
+    {
+      "n": 12,
+      "he": "כל תנאי שנעשה כדין — מקיים. ואם נתקיים — חל הקידושין. ואם לא נתקיים — בטל. ואם ספק אם נתקיים — ספק קידושין.",
+      "it": "Ogni condizione fatta in modo conforme alla legge — è valida. Se si adempì — il kiddushin è valido. Se non si adempì — è nullo. Se vi è dubbio se si adempì — è un kiddushin di dubbio (kiddushei safek)."
+    }
+  ],
+  "_glossary_terms_used": ["tenai kaful", "hen", "lav", "she'er", "kesut", "onah", "ketubah", "Kohen", "poskim", "kiddushei safek"]
+}

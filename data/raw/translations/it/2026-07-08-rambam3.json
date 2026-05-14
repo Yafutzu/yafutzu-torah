@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bi'at HaMikdash 8-9; Hilchot Issurei Mizbeiach 1",
+  "name_he": "משנה תורה, הלכות ביאת המקדש פרקים ח-ט; הלכות איסורי מזבח פרק א",
+  "name_it": "Mishneh Torah, Leggi dell'Ingresso nel Santuario cap.8-9; Leggi delle Cose Proibite sull'Altare cap.1",
+  "cycle": "rambam-3",
+  "date": "2026-07-08",
+  "hebrew_date": "23 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "כָּל כֹּהֵן הַנִּכְנָס לַעֲבוֹד — חַיָּב לִטְבֹּל בַּמִּקְוֶה תְּחִלָּה.",
+      "it": "Ogni kohen che entra a officiare — è obbligato a immergersi in un mikveh prima."
+    },
+    {
+      "n": "8:2",
+      "he": "טְבִילָה זוֹ — אַף עַל פִּי שֶׁהוּא טָהוֹר — הִיא חֲשִׁיבוּת לְכָבוֹד הַמִּקְדָּשׁ.",
+      "it": "Questa immersione (tevilah) — anche se è puro — è per il rispetto del Tempio."
+    },
+    {
+      "n": "8:3",
+      "he": "אַחַר הַטְּבִילָה — מִתְלַבֵּשׁ בִּבְגָדֵי כְּהֻנָּה וְעוֹבֵד.",
+      "it": "Dopo l'immersione — si veste con i vestiti sacerdotali (bigdei kehunah) e officia."
+    },
+    {
+      "n": "8:4",
+      "he": "הַכֹּהֵן שֶׁנִּטְמָא בְּתוֹךְ הָעֲבוֹדָה — יוֹצֵא מִמִּיָּד וְטוֹבֵל.",
+      "it": "Il kohen che è diventato impuro durante il servizio — esce immediatamente e si immerge."
+    },
+    {
+      "n": "9:1",
+      "he": "כָּל טְמֵא שֶׁנָּגַע בַּקֳּדָשִׁים — טִמְּאָן.",
+      "it": "Qualunque impuro che ha toccato le cose sacre (kodashim) — le ha rese impure."
+    },
+    {
+      "n": "9:2",
+      "he": "סִיּוּם: סִי קוֹנְקְלוּדוֹנוֹ לֶה לֶגִּי דֶל'אִינְגְרֶסּוֹ נֶל סַנְטוּאָרִיוֹ.",
+      "it": "Si concludono le Leggi dell'Ingresso nel Santuario (Hilchot Bi'at HaMikdash)."
+    },
+    {
+      "n": "1:1",
+      "he": "אָסוּר לְהַקְרִיב עַל גַּבֵּי הַמִּזְבֵּחַ בְּהֵמָה בַּעֲלַת מוּם, שֶׁנֶּאֱמַר: \"כִּי כָל אֲשֶׁר בּוֹ מוּם לֹא תַקְרִיבוּ\".",
+      "it": "È proibito offrire sull'altare un animale con un difetto fisico (ba'al mum), come è detto: «Poiché tutto ciò che ha un difetto non offrirete» (Vayikra 22:20)."
+    },
+    {
+      "n": "1:2",
+      "he": "מוּמִים הַפּוֹסְלִין בַּבְּהֵמָה — הֵם שִׁשִּׁים מוּמִים לְפִי הַמִּנְיָן.",
+      "it": "I difetti che squalificano nell'animale — sono sessanta difetti secondo il conteggio."
+    },
+    {
+      "n": "1:3",
+      "he": "מוּם עוֹבֵר — אֵינוֹ פּוֹסֵל. מוּם קָבוּעַ — פּוֹסֵל.",
+      "it": "Un difetto temporaneo (mum oveir) — non squalifica. Un difetto permanente (mum kavu'a) — squalifica."
+    },
+    {
+      "n": "1:4",
+      "he": "בְּהֵמָה שֶׁהִקְרִיב מְסֻרָס — עָבַר, אֲבָל אִם עָלְתָה לַמִּזְבֵּחַ לֹא תֵּרֵד.",
+      "it": "Un animale castrato che ha offerto — ha trasgredito, ma se è salito sull'altare non deve essere rimosso."
+    },
+    {
+      "n": "1:5",
+      "he": "אָסוּר לְהַקְרִיב קָרְבָּן שֶׁנִּלְקַח בִּשְׁכַר זְנוּת אוֹ בִּמְחִיר כֶּלֶב.",
+      "it": "È proibito offrire un sacrificio acquistato con compenso di prostituzione o con prezzo di cane (michir kelev)."
+    },
+    {
+      "n": "1:6",
+      "he": "\"אֶתְנַן\" וּ\"מְחִיר כֶּלֶב\" — פְּסוּלִין לַמִּזְבֵּחַ, אֲפִלּוּ אַחַר שֶׁנִּשְׁתַּנּוּ.",
+      "it": "La «etnan» (compenso di prostituzione) e il «michir kelev» (prezzo di cane) — sono squalificati per l'altare, anche dopo che sono stati trasformati in qualcos'altro."
+    }
+  ],
+  "_glossary_terms_used": ["mikveh", "tevilah", "bigdei kehunah", "tum'ah", "kodashim", "Issurei Mizbeiach", "ba'al mum", "mumim", "mum oveir", "mum kavu'a", "etnan", "michir kelev", "korban"]
+}

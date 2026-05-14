@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 7",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ז",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 7",
+  "cycle": "tanya",
+  "date": "2026-09-17",
+  "hebrew_date": "6 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "חֵטְא לָשׁוֹן הָרָע חָמוּר מִשְּׁאָר עֲבֵרוֹת שֶׁבֵּין אָדָם לַחֲבֵרוֹ, לְפִי שֶׁהוּא פּוֹגֵעַ בִּכְבוֹד חֲבֵרוֹ שֶׁנִּבְרָא בְּצֶלֶם אֱלֹקִים.",
+      "it": "Il peccato del lashon hara (discorso malvagio) è più grave di altri peccati interpersonali, perché lede l'onore del prossimo che è stato creato a immagine di Dio."
+    },
+    {
+      "n": 2,
+      "he": "וּמִי שֶׁבִּיֵּשׁ אֶת חֲבֵרוֹ בָּרַבִּים — אֵין לוֹ חֵלֶק לְעוֹלָם הַבָּא עַד שֶׁיְּרַצֶּה אֶת חֲבֵרוֹ. וְאֵין הַיּוֹם הַכַּפּוּרִים מְכַפֵּר עַד שֶׁיְּרַצֶּה.",
+      "it": "Chi ha umiliato il suo prossimo in pubblico non ha parte nel mondo a venire finché non placherà l'offeso. Nemmeno il Giorno del Kippur espia finché non si è rappacificato."
+    },
+    {
+      "n": 3,
+      "he": "וְאֵין תְּשׁוּבָה עַל חֵטְאֵי הַדִּבּוּר כְּמוֹ שֶׁיֵּשׁ עַל חֵטְאֵי הַמָּמוֹן, שֶׁגְּזֵלָה מֵשִׁיב בְּמָמוֹן וּלְשׁוֹן הָרָע צָרִיךְ לְבַקֵּשׁ מְחִילָה מִן הַנִּפְגָּע בְּעַצְמוֹ.",
+      "it": "Non vi è teshuvah per i peccati del parlare come per quelli riguardanti i beni: la rapina si compensa in denaro, ma per il lashon hara occorre chiedere perdono all'offeso in persona."
+    }
+  ],
+  "_glossary_terms_used": ["lashon hara", "teshuvah", "mechilah", "kavod", "Yom Kippur"]
+}

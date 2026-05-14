@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 9",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק ט",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 9",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-02",
+  "hebrew_date": "23 Kislev 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "בְּהֵמָה חוֹלָה שֶׁנִּשְׁחֲטָה — כְּשֵׁרָה...",
+      "it": "Un animale malato (behemah cholah) che è stato macellato ritualmente è kosher, a condizione che al momento della shechitah non fosse già una treifah (animale con difetto anatomico fatale). La distinzione è fondamentale: un animale malato che potrebbe guarire è diverso da un animale con una condizione anatomica fatale. Se l'animale è così malato che non può stare in piedi (eino yechol la'amod), alcuni autorità ritengono che vada esaminato con particolare attenzione dopo la macellazione."
+    },
+    {
+      "n": 2,
+      "he": "עֻבָּרִים שֶׁנִּמְצְאוּ בְּמֵעֵי הַבְּהֵמָה שֶׁנִּשְׁחֲטָה...",
+      "it": "Il feto (ubbar) trovato nell'utero di un animale macellato ritualmente non richiede una shechitah separata — la macellazione della madre lo rende anch'esso permesso, come dice la tradizione: «shechitato zeh hi shechitato» (la sua macellazione è la macellazione di quello). Questa regola si chiama «ubbar yerekh imo» — il feto è come il fianco della madre. Vale sia per il feto vivo che per quello morto nell'utero al momento della shechitah."
+    },
+    {
+      "n": 3,
+      "he": "נִמְצָא בֶּן תִּשְׁעָה חַי — טָעוּן שְׁחִיטָה...",
+      "it": "Se il feto trovato nell'utero è nato già a termine (ben tishah — nove mesi) e vivo, necessita di una propria shechitah separata prima di poter essere mangiato. Sebbene sia emerso dopo la macellazione della madre, essendo vivo e vitale è considerato un animale indipendente. Se è nato morto ma a termine — è permesso senza shechitah (come parte della madre). Il feto non ancora a termine, anche se vivo — non necessita di shechitah separata secondo il Rambam."
+    },
+    {
+      "n": 4,
+      "he": "שָׁלִיל שֶׁנִּמְצָא חַי — מוּתָּר בִּשְׁחִיטַת עַצְמוֹ...",
+      "it": "Il feto (shalil) trovato vivo nell'utero di un animale macellato: se è completamente formato (ubbar gamuah), bisogna verificare se è vitale. Alcuni Rishonim richiedono anche il rito della kisui ha-dam (copertura del sangue) per i feti di uccelli o animali selvatici. Il principio generale: la shechitah della madre crea una «keshirut» (permissibilità) che si trasmette al feto come estensione del suo corpo."
+    },
+    {
+      "n": 5,
+      "he": "עֵגֶל שֶׁנִּמְצָא בְּמֵעֵי פָּרָה — עוֹרוֹ טָהוֹר...",
+      "it": "Il vitello trovato nell'utero della vacca macellata — la sua pelle è pura (tahur) rispetto alle leggi di purità rituale, poiché non ha una vita indipendente che possa generare tumah (impurità). La sua carne è kosher per i motivi sopra esposti (ubbar yerekh imo). Un punto di interesse pratico: le pelli di feti non ancora nati erano molto pregiate nell'antichità, e la legge le distingue chiaramente dalle pelli di animali nati vivi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "treifah", "behemah cholah", "ubbar", "ubbar yerekh imo", "shechitato zeh hi shechitato", "shalil", "ben tishah", "kisui ha-dam", "keshirut", "tumah", "tahur", "Rishonim"
+  ]
+}

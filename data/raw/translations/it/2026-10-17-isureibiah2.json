@@ -1,0 +1,74 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 2",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק ב",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-17",
+  "hebrew_date": "6 Cheshvan 5787",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵלּוּ הֵן הָעֲרָיוֹת הָאֲסוּרוֹת מִן הַתּוֹרָה — אִמּוֹ, וְאֵשֶׁת אָבִיו…",
+      "it": "Queste sono le arayot (relazioni sessuali incestuose proibite) vietate dalla Torah: la propria madre, la moglie del padre, la sorella (sia dalla parte del padre che della madre), la figlia del figlio, la figlia della figlia, la sorella del padre (zia paterna), la sorella della madre (zia materna), la moglie del fratello del padre (moglie dello zio paterno), la nuora (moglie del figlio), la moglie del fratello (escluso il caso di yibbum — levirato), e infine la donna insieme a sua figlia o sua nipote. Tutte queste sono arayot di karet (pena di estirpazione spirituale)."
+    },
+    {
+      "n": 2,
+      "he": "הַבָּא עַל אִמּוֹ — חַיָּב עַל אִמּוֹ מִשּׁוּם אִמּוֹ וּמִשּׁוּם אֵשֶׁת אָב…",
+      "it": "Chi ha rapporti con la propria madre — è colpevole per due distinte proibizioni: la proibizione della madre e la proibizione della moglie del padre (poiché ogni madre è anche moglie del padre). Tuttavia è punito una sola volta (melaket) — non si raddoppia la pena, sebbene vi siano due divieti. Questo principio — che la pena è una sola anche quando si violano due divieti con un unico atto — vale in generale nelle arayot."
+    },
+    {
+      "n": 3,
+      "he": "אֵשֶׁת אָבִיו — אֲסוּרָה בֵּין בְּחַיֵּי אָבִיו בֵּין לְאַחַר מוֹתוֹ…",
+      "it": "La moglie del padre è proibita sia durante la vita del padre che dopo la sua morte, sia che ella sia stata sua moglie sposata (nesu'ah) sia che fosse soltanto fidanzata (mekudeshet — betrothed). La proibizione è permanente e non cessa con la morte del padre o con il divorzio. La ragione: la Torah usa l'espressione «ervas avicha» — la nudità di tuo padre — indicando un divieto assoluto indipendente dallo stato matrimoniale corrente."
+    },
+    {
+      "n": 4,
+      "he": "אֲחוֹתוֹ מִן הָאָב וּמִן הָאֵם אוֹ מִן הָאָב בִּלְבַד אוֹ מִן הָאֵם בִּלְבַד — כֻּלָּן אֲסוּרוֹת…",
+      "it": "La sorella — sia germana (condividendo sia padre che madre), sia soltanto dal lato paterno (bat aviv), sia soltanto dal lato materno (bat immo) — è in ogni caso proibita. La Torah proibisce espressamente ciascuno di questi casi. La proibizione della sorella si applica anche se nacque fuori dal matrimonio e fu concepita in modo illecito — la relazione biologica determina il divieto, indipendentemente dalla legittimità della nascita."
+    },
+    {
+      "n": 5,
+      "he": "בַּת הַבֵּן וּבַת הַבַּת — אֲסוּרוֹת מִן הַתּוֹרָה…",
+      "it": "La nipote — sia la figlia del figlio (bat ha-ben) che la figlia della figlia (bat ha-bat) — è proibita dalla Torah. Sebbene la Torah non menzioni esplicitamente la nipote diretta, essa è inclusa per via di ragionamento a fortiori (kal va-chomer): se la figlia di una donna che lui ha sposato è proibita, tanto più sua nipote diretta. Questo è uno dei casi in cui la logica deduttiva del kal va-chomer produce una proibizione biblicamente vincolante."
+    },
+    {
+      "n": 6,
+      "he": "דּוֹדָה מִן הָאָב — אֵשֶׁת אֲחִי אָבִיו, אֲסוּרָה מִן הַתּוֹרָה…",
+      "it": "La moglie del fratello del padre (dodah min ha-av — la «zia» dal lato paterno per matrimonio, cioè la moglie dello zio paterno) è proibita dalla Torah. La proibizione è espressa nel versetto e si applica sia durante la vita dello zio che dopo la sua morte. Non è soggetta a yibbum (levirato), a differenza della moglie del fratello del marito stesso. Notare che questa proibizione è distinta dalla sorella del padre (zia biologica), anch'essa proibita ma per altra ragione."
+    },
+    {
+      "n": 7,
+      "he": "כַּלָּתוֹ — אֵשֶׁת בְּנוֹ, אֲסוּרָה עָלָיו בֵּין בְּחַיֵּי בְּנוֹ בֵּין לְאַחַר מוֹתוֹ…",
+      "it": "La nuora (kallah) — moglie del figlio — è proibita all'uomo sia durante la vita del figlio che dopo la sua morte. La Torah lo esprime con il versetto: «e la moglie di tuo figlio non svelare la sua nudità» (Vayikra 18:15). La proibizione si applica sia dopo il completamento del matrimonio (nisuin) che dopo il solo fidanzamento (erusin). Non vi è alcuna eccezione a questa proibizione, nemmeno in caso di divorzio."
+    },
+    {
+      "n": 8,
+      "he": "אֵשֶׁת אָחִיו — אֲסוּרָה עָלָיו מִן הַתּוֹרָה, אֶלָּא לְעִנְיַן יִבּוּם…",
+      "it": "La moglie del fratello (eshet ach) è in generale proibita dalla Torah — tranne nell'unico caso specifico del yibbum (levirato): quando il fratello muore senza figli, la moglie rimasta vedova deve essere sposata dal cognato oppure egli deve eseguire la chalitzah (atto formale di rinuncia). Al di fuori di questa circostanza specifica, avere rapporti con la moglie del fratello comporta karet. La dualità di questa halachah — proibizione ordinaria con eccezione obbligatoria di yibbum — è uno degli aspetti più peculiari delle leggi di arayot."
+    },
+    {
+      "n": 9,
+      "he": "אִשָּׁה וּבִתָּהּ — אֲסוּרוֹת, וְכֵן אִשָּׁה וּבַת בִּתָּהּ, וְאִשָּׁה וּבַת בְּנָהּ…",
+      "it": "Una donna e sua figlia sono proibite insieme — non si può sposare entrambe contemporaneamente, né dopo la morte di una si può sposare l'altra. Allo stesso modo, una donna e la figlia di sua figlia (nipote), e una donna e la figlia di suo figlio, sono tutte proibite. Questo si chiama «ishshut isha va-vettah» e si applica sia alla moglie attuale che a precedenti mogli divorziate. La proibizione è bilaterale: la donna proibita è sia la moglie che sua figlia."
+    },
+    {
+      "n": 10,
+      "he": "כָּל הָעֲרָיוֹת הָאֵלּוּ — הַבָּא עֲלֵיהֶן בְּמֵזִיד — חַיָּב כָּרֵת…",
+      "it": "Chiunque si unisca intenzionalmente (be-mezid) a una delle arayot — è soggetto a karet (estirpazione spirituale). Se vi sono testimoni e previo avvertimento (hatra'ah) — è soggetto alla pena di morte del tribunale (mitah bet din) secondo il tipo di avvertimento ricevuto. Chi lo fa per errore (bi-shgagah) — è obbligato a portare un sacrificio espiatorio (chatat). Il principio fondamentale: karet si applica a tutte le arayot elencate — questa è la severità biblica di queste proibizioni."
+    },
+    {
+      "n": 11,
+      "he": "אֵין הַמַּלְקוּת נוֹהֵג בַּעֲרָיוֹת שֶׁחַיָּבִין עֲלֵיהֶן כָּרֵת…",
+      "it": "Nelle arayot che sono soggette a karet non si applica la pena della fustigazione (malkot) — poiché la regola generale è che dove c'è karet o mitah (pena di morte) non si aggiunge malkot. La pena è la più grave prevista dalla Torah. Tuttavia, le arayot di natura rabbinica (sheniiot — relazioni di secondo grado proibite per decreto rabbinico) sono punite con malkot makkat mardut (fustigazione disciplinare rabbinica)."
+    },
+    {
+      "n": 12,
+      "he": "הַשְּׁנִיּוֹת — הֵן הָעֲרָיוֹת שֶׁאֲסָרוּם חֲכָמִים מִשּׁוּם שְׁנִיּוּת לָעֲרָיוֹת…",
+      "it": "Le shniiot (relazioni di secondo grado) sono le arayot che i Saggi hanno proibito per decreto rabbinico, in quanto parenti di secondo grado delle arayot bibliche — ad esempio: la madre della madre, la madre del padre, la figlia del figlio del figlio. Non essendo proibite dalla Torah stessa, non comportano karet, ma sono comunque proibizioni rabbiniche vincolanti. Chi le viola è punito con malkot makkat mardut (fustigazione rabbinica disciplinare)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "arayot", "karet", "yibbum", "chalitzah", "erusin", "nisuin", "kal va-chomer", "malkot", "chatat", "hatra'ah", "shniiot", "malkot makkat mardut", "eshet ach", "kallah"
+  ]
+}

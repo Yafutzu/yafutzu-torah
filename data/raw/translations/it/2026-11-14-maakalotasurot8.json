@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 8",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ח",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-14",
+  "hebrew_date": "5 Kislev 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "גִּיד הַנָּשֶׁה — אָסוּר, שֶׁנֶּאֱמַר: עַל כֵּן לֹא יֹאכְלוּ בְנֵי יִשְׂרָאֵל אֶת גִּיד הַנָּשֶׁה…",
+      "it": "Il gid ha-nasheh (nervo sciatico — letteralmente «nervo che si sposta») — è proibito, come scritto: «Al ken lo yokhelu vnei Yisrael et gid ha-nasheh asher al kaf ha-yarech» (Pertanto i figli d'Israele non mangiano il nervo sciatico che è sulla cavità dell'anca — Gen. 32:33). Questo divieto è l'unico nella Torah la cui ragione è esplicitamente collegata a un evento narrativo: la lotta di Giacobbe con l'angelo, durante la quale l'angelo colpì Giacobbe all'articolazione dell'anca (kaf ha-yarech), slogandogliela."
+    },
+    {
+      "n": 2,
+      "he": "גִּיד הַנָּשֶׁה — יֵשׁ לוֹ שְׁנֵי רַגְלַיִם…",
+      "it": "Il gid ha-nasheh si trova in entrambe le zampe posteriori dell'animale — sia nella gamba destra che nella sinistra. Il divieto si applica sia al gid stesso (il nervo sciatico propriamente detto) sia al grasso che lo circonda (chelev ha-gid). Vi sono in realtà due nervi sciatici: il gid ha-nasheh ha-penimi (il nervo interno, più profondo) e il gid ha-nasheh ha-chitoni (il nervo esterno). Entrambi sono proibiti, ma la violazione per il nervo interno è biblicamente più severa."
+    },
+    {
+      "n": 3,
+      "he": "הַמּוֹצִיא גִּיד הַנָּשֶׁה — הוּא הַמְנַקֵּר…",
+      "it": "Il professionista che rimuove il gid ha-nasheh è il menakker (addetto alla rimozione). La rimozione del gid ha-nasheh dall'intera parte posteriore dell'animale è un lavoro lungo e tecnicamente complesso, che richiede una conoscenza anatomica precisa. Il menakker deve trovare il nervo nel profondo del muscolo della coscia (yerech) e rimuoverlo completamente — insieme al grasso circostante. Se rimane anche solo una parte del nervo, la carne non è permessa."
+    },
+    {
+      "n": 4,
+      "he": "גִּיד הַנָּשֶׁה נוֹהֵג בִּבְהֵמָה וּבְחַיָּה…",
+      "it": "Il divieto di gid ha-nasheh si applica sia agli animali domestici (beheimah) sia agli animali selvatici kosher (chayah). Si applica anche agli animali non-kosher — sebbene in quel caso la carne sia comunque proibita per altri motivi. Il divieto si applica a maschi e femmine, adulti e piccoli. Si applica anche alla carne di un animale morto (neveilah) — sebbene la neveilah sia già proibita, il gid ha-nasheh aggiunge un divieto separato e indipendente, con implicazioni per il calcolo delle violazioni multiple."
+    },
+    {
+      "n": 5,
+      "he": "הַנִּקּוּר בְּחוּץ לָאָרֶץ — קָשֶׁה מְאֹד…",
+      "it": "La rimozione del gid ha-nasheh nelle parti posteriori dell'animale (nikur) è tecnicamente così difficile e richiede tale perizia che in molte comunità della Diaspora — specialmente nelle comunità Ashkenazite europee a partire dal Medioevo — si è sviluppata la prassi di vendere la parte posteriore degli animali (da «pancia» in giù) a macellai non-ebrei, piuttosto che investire nel nikur specializzato. Questo spiega perché molti ebrei ashkenaziti non consumano tradizionalmente cosce, filetti o bistecche di lombata — queste parti richiedono nikur che è caduto in disuso. Le comunità sefardite hanno generalmente mantenuto la tradizione del nikur."
+    }
+  ],
+  "_glossary_terms_used": [
+    "gid ha-nasheh", "kaf ha-yarech", "menakker", "nikur", "chelev ha-gid", "beheimah", "chayah", "neveilah", "yerech", "gid ha-nasheh ha-penimi", "gid ha-nasheh ha-chitoni"
+  ]
+}

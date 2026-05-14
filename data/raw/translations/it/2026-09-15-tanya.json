@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 5",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ה",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah, capitolo 5",
+  "cycle": "tanya",
+  "date": "2026-09-15",
+  "hebrew_date": "4 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "מַדּוּעַ תַּלְמוּד תּוֹרָה מְחַלֵּף אֶת הַתַּעֲנִית? שֶׁבַּדּוֹרוֹת הַקְּדוּמִים הָיוּ אֲנָשִׁים חֲזָקִים בְּגוּפָם וּבְנַפְשָׁם — הַתַּעֲנִית עָבְדָה. בְּדוֹרֵנוּ, הַתַּעֲנִית מַכְשֶׁלֶת אֶת הָאָדָם.", "it": "Perché lo studio della Torah sostituisce il digiuno? Perché nelle generazioni precedenti le persone erano forti nel corpo e nell'anima — il digiuno funzionava. Nella nostra generazione, il digiuno ostacola la persona."},
+    {"n": 2, "he": "הַאַדְמוּ\"ר הַזָּקֵן מְבָאֵר — 'תַּלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם' כּוֹלֵל גַּם כְּנֶגֶד הַתַּעֲנִיּוֹת. כִּי הַתּוֹרָה הִיא חֶלְקוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, וּלְמוּדָהּ מְקַשֵּׁר אֶת הַנֶּפֶשׁ אֶל הָאֵין סוֹף.", "it": "L'Alter Rebbe spiega — 'lo studio della Torah equivale a tutto' include anche rispetto ai digiuni. Poiché la Torah è la porzione del Santo Benedetto, e il suo studio connette l'anima all'Ein Sof."},
+    {"n": 3, "he": "הַמַּסְקָנָה לְמַעֲשֶׂה — אֵין לַחֲמִיר עַל עַצְמוֹ בְּתַעֲנִיּוֹת. עַדִּיף לְהוֹסִיף בְּלִמּוּד תּוֹרָה וּתְפִלָּה וּצְדָקָה. אֵלֶּה הֵם כֵּלֵי הַתְּשׁוּבָה שֶׁל דּוֹרֵנוּ — חַיִּים טוֹבִים וּמִצְווֹת, לֹא עִנּוּי.", "it": "La conclusione pratica — non bisogna essere eccessivamente severi con se stessi nei digiuni. È meglio aggiungere nello studio della Torah, nella preghiera e nella tzedakah. Questi sono gli strumenti della teshuvah della nostra generazione — vita buona e mitzvot, non afflizione."}
+  ],
+  "_glossary_terms_used": ["teshuvah", "talmud Torah", "tzedakah", "tefillah", "Alter Rebbe"]
+}

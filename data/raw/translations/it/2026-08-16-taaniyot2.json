@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ta'aniyot 2",
+  "name_he": "משנה תורה, הלכות תעניות, פרק ב",
+  "name_it": "Mishneh Torah, Leggi dei Giorni di Digiuno, capitolo 2",
+  "cycle": "rambam-1",
+  "date": "2026-08-16",
+  "hebrew_date": "3 Elul 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כשתגיע שנת בצורת — גוזרים תעניות על הציבור בשלוש מדרגות: שלוש ראשונות, שלוש שניות, ושבע אחרונות. שלוש ראשונות — קלות יחסית; ושבע אחרונות — כיום הכיפורים בחומרתן.",
+      "it": "Quando arriva un anno di siccità (shanat batztzuret), si decretano digiuni pubblici in tre gradi: tre iniziali, tre intermedi e sette ultimi. I tre iniziali — sono relativamente leggeri; i sette ultimi — nella loro severità sono come Yom Kippur."
+    },
+    {
+      "n": 2,
+      "he": "שלושה תעניות ראשונות: מותרים במלאכה, רחיצה, סיכה, ונעילת הסנדל. ואוכלים בלילה. ואין נועלים חנויות.",
+      "it": "I tre digiuni iniziali: il lavoro, il lavarsi, l'ungersi e il portare i sandali sono permessi. Si può mangiare di notte. Non si chiudono i negozi."
+    },
+    {
+      "n": 3,
+      "he": "שלושה תעניות שניות: אסורים במלאכה, ואסורים ברחיצה, סיכה, ונעילת הסנדל. ועדיין אוכלים בלילה. ונועלים חנויות.",
+      "it": "I tre digiuni intermedi: il lavoro è vietato, e sono vietati anche il lavarsi, l'ungersi e il portare i sandali. Si può ancora mangiare di notte. Si chiudono i negozi."
+    },
+    {
+      "n": 4,
+      "he": "שבעה תעניות אחרונות: כיום הכיפורים ממש. אסורים בכל: אכילה, שתייה, רחיצה, סיכה, נעילת הסנדל, ותשמיש המיטה. ומוציאים ארון הקודש לרחוב, ומניחים אפר על ראשי הנשיא והזקנים.",
+      "it": "I sette digiuni ultimi: esattamente come Yom Kippur. Vietati tutto: mangiare, bere, lavarsi, ungersi, portare sandali e i rapporti coniugali. Si porta l'Arca Santa nella strada e si pone cenere sulla testa del Nasi e degli anziani (zekenim)."
+    },
+    {
+      "n": 5,
+      "he": "בשבעת הימים האחרונים — נועלים חנויות בחצי היום. וזקני ירושלים מתענים ל' תענית — כשהצרה קשה.",
+      "it": "Nei sette ultimi giorni — si chiudono i negozi a mezzogiorno. Gli anziani di Gerusalemme digiunano trenta digiuni — quando la sciagura è grave."
+    },
+    {
+      "n": 6,
+      "he": "מי מנהיג את הקהל בתפילת הבצורת? 'זקן' — חכם שנשא גם יסורים בחייו, שיתפלל מתוך ניסיון אמיתי ולב שבור. לא מי שחייו קלים ואין לו עוז לתפילה של אמת.",
+      "it": "Chi guida la comunità nella preghiera del digiuno? Un 'zaken' — un saggio che ha conosciuto anche le sofferenze nella vita, affinché preghi dall'esperienza autentica e da un cuore spezzato. Non chi ha una vita facile e non ha la forza di una preghiera autentica."
+    },
+    {
+      "n": 7,
+      "he": "בתפילה זו מוסיפים שש ברכות על עשרים ושמונה שיש בתפילת שחרית — הרי שלושים וארבע ברכות. הברכות הנוספות הן: 'זכרונות', 'שופרות', ועוד — שמזכירות את מעשי ה' בהיסטוריה.",
+      "it": "In questa preghiera si aggiungono sei benedizioni alle ventotto presenti nella preghiera mattutina — per un totale di trentaquattro benedizioni. Le benedizioni aggiunte includono: 'Zikhronot' (Memorie), 'Shofarot' e altre — che ricordano le azioni di D-o nella storia."
+    },
+    {
+      "n": 8,
+      "he": "מה אומרים בתפילה המיוחדת? 'עננו ה' עננו, עננו אלהי אברהם עננו, עננו פוחד יצחק עננו, עננו אביר יעקב עננו' — ועוד שמות ה' וזכות אבות.",
+      "it": "Cosa si dice nella preghiera speciale? 'Aneinu Hashem aneinu, aneinu Elohei Avraham aneinu, aneinu Pachad Yitzchak aneinu, aneinu Avir Yaakov aneinu' — e altri Nomi di D-o e meriti dei Patriarchi (zekhut Avot)."
+    },
+    {
+      "n": 9,
+      "he": "אם גזרו תענית ולא הוזה — לא עברו על המצוה. כי אין התענית לשמה, אלא כאמצעי להחזרה בתשובה. ולכן אם עשו תשובה — גם בלא תענית, ה' מרחם.",
+      "it": "Se è stato decretato un digiuno e non si è stati esauditi — non hanno trasgredito il precetto. Poiché il digiuno non è fine a sé stesso, ma è un mezzo per tornare in teshuvah. Pertanto se hanno fatto teshuvah — anche senza digiuno, D-o ha compassione."
+    },
+    {
+      "n": 10,
+      "he": "עיקר כוונת הצום — שבירת הלב והחזרה בתשובה, ולא הסבל הגופני לשמו. ולכן כתוב 'ושבתם אלי... בכל לבבכם ובצום ובבכי ובמספד' — הצום בא יחד עם הלב, לא במקום הלב.",
+      "it": "L'intento principale del digiuno — è la spezzatura del cuore e il ritorno alla teshuvah, non la sofferenza fisica fine a sé stessa. Pertanto è scritto: 'Tornate a Me con tutto il vostro cuore — con il digiuno e il pianto e il lamento' (Yoel 2:12) — il digiuno accompagna il cuore, non lo sostituisce."
+    }
+  ],
+  "_glossary_terms_used": ["shanat batztzuret", "Nasi", "zekenim", "Aneinu", "zekhut Avot", "teshuvah", "Zikhronot", "Shofarot"]
+}

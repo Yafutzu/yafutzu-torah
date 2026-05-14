@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 6",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ו",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 6",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-09",
+  "hebrew_date": "24 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ו: עַל הַמַּשְׁמָעוּת הַמִּיסְטִית שֶׁל לִמּוּד הַתּוֹרָה בַּלַּיְלָה. שָׁעוֹת הַלַּיְלָה מִתְאִימוֹת בְּמֵיוּחָד לְלִמּוּד הַתּוֹרָה, שֶׁנֶּאֱמַר: \"לֹמֵד תּוֹרָה בַּלַּיְלָה\".",
+      "it": "Saggio 6: Sul significato mistico dello studio della Torah di notte. Le ore notturne sono particolarmente adatte allo studio della Torah, come è detto: «Chi studia Torah di notte» (lomed Torah ba-layla)."
+    },
+    {
+      "n": 2,
+      "he": "הַלַּיְלָה — זְמַן הַהֶסְתֵּר וְהַגָּלוּת. וּדְוַקָּא בִּשְׁעַת הַהֶסְתֵּר — מִתְגַּדֶּלֶת מַעֲלַת הַתּוֹרָה שֶׁמֵּאִירָה בַּחֹשֶׁךְ. הַמּוּפָנֶה לִלְמֹד בַּלַּיְלָה — מַרְאֶה שֶׁהַתּוֹרָה חֲשׁוּבָה לוֹ יוֹתֵר מִשְּׁנָתוֹ.",
+      "it": "La notte — è il tempo del nascondimento e dell'esilio. E specificamente nel momento del nascondimento — cresce il valore della Torah che illumina nelle tenebre. Chi è disposto a studiare di notte — dimostra che la Torah è per lui più importante del suo sonno."
+    },
+    {
+      "n": 3,
+      "he": "הַקֶּשֶׁר בֵּין לִמּוּד תּוֹרָה בַּלַּיְלָה לְחֶבְלֵי מָשִׁיחַ — בַּגָּלוּת, שֶׁהִיא \"לֵיל\" רוּחָנִי, דַּוְקָא הַלִּמּוּד בַּ\"לַּיְלָה\" מַכְשִׁיר אֶת הַנֶּפֶשׁ לִקְרַאת הַגְּאֻלָּה.",
+      "it": "Il legame tra lo studio della Torah di notte e i «dolori del parto» del Messia (Chevlei Moshiach) — nell'esilio, che è una «notte» spirituale, specificamente lo studio nella «notte» prepara l'anima per la redenzione."
+    }
+  ],
+  "_glossary_terms_used": ["lomed Torah ba-layla", "Chevlei Moshiach", "galut", "hester", "Torah", "neshamah", "Moshiach", "Kuntres Acharon"]
+}

@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 7",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק ז",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-22",
+  "hebrew_date": "11 Cheshvan 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אִשָּׁה שֶׁנִּסְתְּרָה עִם אִישׁ אַחֵר בִּפְנֵי עֵדִים — וְקִנֵּא לָהּ בַּעְלָהּ…",
+      "it": "Una donna che si è isolata (nistedah — dalla radice seter, nascosto) con un altro uomo alla presenza di testimoni — dopo che il marito l'aveva formalmente avvertita (kinui) di non farlo — diventa la «sotah» (la donna sospettata). La procedura: il marito la porta al Tempio, il kohen le somministra le «acque amare» (mei ha-marim) che contengono il Nome divino dissolto nell'acqua. Se era innocente — le acque la benedicono con fertilità; se era colpevole — la puniscono. La sotah è uno degli argomenti più discussi nel Talmud (Trattato Sotah)."
+    },
+    {
+      "n": 2,
+      "he": "הַסְּתִירָה הַמּוֹעִילָה לִקְנִיאָה — צְרִיכָה שִׁיעוּר שֶׁדֵּי לֵיאָסֵר…",
+      "it": "La seclusion (satirah) che attiva la legge della sotah deve avere una durata sufficiente perché vi sia potenziale di consumazione (shiur bi'ah — il tempo necessario per l'atto sessuale). Una seclusion breve e insufficiente non attiva la presunzione. La seclusion deve avvenire in un luogo privato: se c'era qualcuno terzo presente (afilu katan — anche un minore) che poteva renderli pubblici, non si chiama «satirah». Il terzo presenza annulla la presunzione di seclusion immorale."
+    },
+    {
+      "n": 3,
+      "he": "הַסּוֹטָה — מִיּוֹם שֶׁנִּסְתְּרָה — אֲסוּרָה עַל בַּעְלָהּ עַד שֶׁתִּשְׁתֶּה…",
+      "it": "Dal momento della satirah — la sotah è proibita al marito. Non può avere rapporti con lei fino a quando non ha bevuto le acque al Tempio (o ricevuto il divorzio). Dopo la distruzione del Tempio (churban ha-bayit) — le acque della sotah non possono più essere somministrate, e di conseguenza una donna che è diventata sotah deve ricevere il divorzio (get) obbligatoriamente — rimane proibita al marito per sempre. Questo è un esempio di legge che si modificò nel suo aspetto pratico con la distruzione del Tempio."
+    },
+    {
+      "n": 4,
+      "he": "אֵין הַקִּנּוּי תּוֹפֵס אֶלָּא לְאִישׁ בְּאִשְׁתּוֹ הַנְּשׂוּאָה…",
+      "it": "Il kinui (avvertimento formale) è valido solo tra un marito e la propria moglie sposata (nesu'ah). Non si applica a una fidanzata (me'orasah), a una concubina (pilegesh), né si può avvertire una donna nei confronti del marito (la legge è asimmetrica: solo il marito può fare kinui alla moglie, non viceversa). La ratio: la sotah è una procedura specificamente legata alla struttura del matrimonio pieno e ai diritti esclusivi del marito."
+    },
+    {
+      "n": 5,
+      "he": "מִי שֶׁקִּנֵּא לְאִשְׁתּוֹ בִּפְנֵי שְׁנַיִם — וְנִסְתְּרָה…",
+      "it": "Procedura del kinui: il marito deve avvertire la moglie in presenza di due testimoni, con una formulazione specifica («al titachdi im ish ploni» — non startene da sola con tale uomo). L'avvertimento deve essere esplicito, verbale, e compreso dalla moglie. Avvertimento scritto senza pronuncia orale — discusso nelle autorità. Avvertimento senza testimoni — non ha valore halakhico. Anche la sottile ironia («guarda che non ti voglio incontrare da sola con Tizio») non è sufficiente — deve essere un avvertimento chiaro e formale."
+    },
+    {
+      "n": 6,
+      "he": "הַמְקַנֵּא לְאִשְׁתּוֹ וְנִסְתְּרָה — אִם הָיָה הוּא עַצְמוֹ טָמֵא — אֵינוֹ מֵבִיאָהּ לִשְׁתּוֹת…",
+      "it": "Vi sono casi in cui la donna non beve le acque della sotah anche se tutte le condizioni sono soddisfatte: (a) se il marito stesso ha trasgredito con un'altra donna (zana hu) — non può portarla a bere; (b) se la donna è già stata avvertita in passato e si è isolata — senza che sia stata portata al Tempio allora; (c) se ci sono testimoni che attestano già l'adulterio — non ha bisogno di bere (le acque sono per il caso di dubbio, non per il caso accertato). La procedura della sotah è quindi un meccanismo per risolvere il dubbio — non per punire il certo."
+    },
+    {
+      "n": 7,
+      "he": "בִּטּוּל מֵי הַסּוֹטָה — מֵאֵימָתַי בָּטְלוּ? מִשֶּׁרַבּוּ הַמְנָאֲפִים…",
+      "it": "Il Talmud (Sotah 47a) insegna che la procedura delle acque della sotah fu sospesa dal Sinedrio già prima della distruzione del Tempio — «quando i fornicatori si moltiplicarono» (mishe-rabu ha-mena'afim). La ragione: le acque producono il miracolo solo quando il marito stesso è puro e innocente. Quando la corruzione morale era diffusa — il miracolo non avrebbe più funzionato. Il Rambam riporta questa tradizione per mostrare come la legge halakhica risponda alla realtà morale: un meccanismo legale che presuppone una certa integrità morale nella società cessa di funzionare quando quella integrità viene meno."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sotah", "kinui", "satirah", "mei ha-marim", "nesu'ah", "me'orasah", "pilegesh", "get", "churban ha-bayit", "mishe-rabu ha-mena'afim"
+  ]
+}

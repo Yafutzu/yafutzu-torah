@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shaar Avot HaTumah 17-19",
+  "name_he": "משנה תורה, הלכות שאר אבות הטומאות, פרקים יז-יט",
+  "name_it": "Mishneh Torah, Leggi degli Altri Principali Genitori dell'Impurità, capitoli 17-19",
+  "cycle": "rambam-3",
+  "date": "2026-09-03",
+  "hebrew_date": "21 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "17:1", "he": "מַשְׁקִין — יְכוֹלִים לְהִטָּמֵא וּמְטַמְּאִין אֶת הָאֹכֶל. הַמִּינִימוּם שֶׁל מַשְׁקֶה לְטֻמְאָה — כָּל שֶׁהוּא.", "it": "I liquidi — possono diventare impuri e rendono impuro il cibo. Il quantitativo minimo di liquido per l'impurità — qualsiasi quantità."},
+    {"n": "17:2", "he": "שִׁבְעָה מַשְׁקִין הֵם: מַיִם, יַיִן, שֶׁמֶן, דָּבַשׁ, חָלָב, טַל, דָּם — שָׁק\"ו דָּ\"ם.", "it": "I sette liquidi sono: acqua, vino, olio, miele, latte, rugiada, sangue — shibah dam (acronimo)."},
+    {"n": "17:3", "he": "מַשְׁקֶה שֶׁנִּטְמָא — מְטַמֵּא אֶת הָאֹכֶל שֶׁבָּא בְּמַגָּע עִמּוֹ.", "it": "Un liquido che è diventato impuro — rende impuro il cibo che viene in contatto con esso."},
+    {"n": "18:1", "he": "מַחְשִׁירִין — אֹכֶל אֵינוֹ מְקַבֵּל טֻמְאָה אֶלָּא אִם כֵּן הוּכְשַׁר תְּחִלָּה בְּאֶחָד מִשִּׁבְעָה מַשְׁקִין.", "it": "Machshirin — il cibo non riceve impurità a meno che non sia stato prima bagnato da uno dei sette liquidi."},
+    {"n": "18:2", "he": "צֹרֶךְ רָצוֹן הַבְּעָלִים — שֶׁהַהֲרָטָבָה תִּהְיֶה בְּרָצוֹן הַבְּעָלִים. אֲכָל שֶׁנִּרְטַב בְּלֹא דַּעַת הַבְּעָלִים — אֵינוֹ מוּכְשָׁר.", "it": "Necessità del consenso del proprietario — che la bagnatura avvenga con il consenso del proprietario. Il cibo bagnato senza la conoscenza del proprietario — non è reso suscettibile."},
+    {"n": "18:3", "he": "נָפַל מַיִם עַל הָאֹכֶל בְּאֹנֶס — אֵינוֹ מוּכְשָׁר, אֶלָּא אִם כֵּן שָׂמַח עָלָיו הַבְּעָלִים.", "it": "Se l'acqua è caduta sul cibo accidentalmente — non lo rende suscettibile, a meno che il proprietario ne sia contento."},
+    {"n": "19:1", "he": "טֻמְאַת אֳכָלִין — אֹכֶל שֶׁהוּכְשַׁר יְכוֹל לְהִטָּמֵא. הַשִּׁיעוּר — כְּבֵיצָה.", "it": "L'impurità dei cibi — il cibo reso suscettibile può diventare impuro. Il quantitativo — kebeitzah (dimensione di un uovo)."},
+    {"n": "19:2", "he": "פָּחוֹת מִכְּבֵיצָה — אֵינוֹ מְטַמֵּא אֲחֵרִים. כְּבֵיצָה — מְטַמֵּא.", "it": "Meno di kebeitzah — non rende impuro gli altri. Kebeitzah — rende impuro."},
+    {"n": "19:3", "he": "אֹכֶל שֶׁנַּעֲשָׂה טָמֵא — הוּא עַצְמוֹ אָסוּר לַכֹּהֵן בִּתְרוּמָה וּמוּתָּר לְיִשְׂרָאֵל בְּחֻלִּין.", "it": "Il cibo che è diventato impuro — è lui stesso proibito al sacerdote nella terumah e permesso all'israelita in chulin."}
+  ],
+  "_glossary_terms_used": ["mashkin", "machshirin", "ratzon ba'alim", "kebeitzah", "tum'at ochlin"]
+}

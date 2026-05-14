@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Evel 11-13",
+  "name_he": "משנה תורה, הלכות אבל פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi del Lutto, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-12-23",
+  "hebrew_date": "14 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Evel 11:1-5",
+      "he": "חֶסֶד שֶׁל אֱמֶת — הִיא מִצְוַת הַקְּבוּרָה וְהַלְּוָיָה…",
+      "it": "(Evel cap. 11, hal. 1-5) Il «chesed shel emet» (vera gentilezza): prendersi cura dei morti e seppellirli è chiamata «vera gentilezza» perché il defunto non può ripagarla. Tutte le altre forme di kindness (chesed) possono avere una motivazione di reciprocità — ma il chesed shel emet è puro, disinteressato, senza possibilità di compenso. La mitzvah include: lavare il corpo (tahorah), avvolgerlo in abiti semplici (tachrichim), vegliarlo, e accompagnarlo alla sepoltura."
+    },
+    {
+      "n": "Evel 12:1-5",
+      "he": "לְוָיַת הַמֵּת — מִצְוָה גְּדוֹלָה כְּנֶגֶד כָּל הַתּוֹרָה…",
+      "it": "(Evel cap. 12, hal. 1-5) La levayat ha-met (accompagnare il defunto alla sepoltura) è una grande mitzvah. I Saggi l'hanno equiparata allo studio della Torah: chi interrompe lo studio per accompagnare un defunto — ha fatto bene, e i versetti della Torah vengono a proteggerlo. Il principio: il rispetto per la vita umana e per la morte è al livello della Torah stessa. Anche un kohen gadol (Sommo Sacerdote), normalmente proibito di contaminarsi con i morti, deve occuparsi della sepoltura di un met mitzvah (un defunto senza nessuno che si occupi di lui)."
+    },
+    {
+      "n": "Evel 13:1-5",
+      "he": "אִסּוּר הֲנָאָה מִן הַמֵּת — גּוּף הָאָדָם אָסוּר בַּהֲנָאָה…",
+      "it": "(Evel cap. 13, hal. 1-5) Il divieto di trarre beneficio dal defunto (issur hana'ah me-ha-met): il corpo umano, dopo la morte, è proibito nel beneficio. Non si vende il corpo, non si usano le sue vesti per scopi profani prima della sepoltura. La fonte biblica è la proibizione dell'ot (deduzioni dal linguaggio della Torah). Il rispetto per il corpo dopo la morte riflette la visione ebraica che il corpo non è soltanto materia — è stato il veicolo dell'anima, partner nell'adempimento dei commandamenti. Il rispetto dovuto all'anima non cessa alla morte: si estende al corpo che l'ha ospitata."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chesed shel emet", "tahorah", "tachrichim", "levayat ha-met", "met mitzvah", "kohen gadol", "issur hana'ah me-ha-met"
+  ]
+}

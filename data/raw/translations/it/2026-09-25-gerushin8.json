@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 8",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ח",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 8",
+  "cycle": "rambam-1",
+  "date": "2026-09-25",
+  "hebrew_date": "14 Tishrei 5787",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "גֵּט זִכּוּי — כֵּיצַד? הָאִישׁ אוֹמֵר לְשָׁלִיחַ: 'תֵּן גֵּט זֶה לְאִשְׁתִּי, וּזְכֵה בּוֹ לָהּ.' כְּלוֹמַר, מַנֶּה לָהּ אֶת הַגֵּט אַף שֶׁהִיא לֹא מִנְּאָה אוֹתְךָ.",
+      "it": "Get zikui — come si applica? Il marito dice all'agente: 'Consegna questo get a mia moglie e acquisiscilo per lei.' Cioè, procuragliele il get anche se lei non ti ha nominato."
+    },
+    {
+      "n": 2,
+      "he": "הַטַּעַם: זְכִיָּה שֶׁלֹּא מִדַּעַת — מֻתֶּרֶת כְּשֶׁהִיא לְטוֹבַת הָאָדָם. הַגֵּרוּשִׁין טוֹבִים לָאִשָּׁה שֶׁרוֹצָה לִהְיוֹת מְגֹרֶשֶׁת.",
+      "it": "La ragione: un'acquisizione a beneficio di qualcuno senza il suo consenso esplicito — è permessa quando è a vantaggio di quella persona. Il divorzio è un bene per la donna che vuole essere divorziata."
+    },
+    {
+      "n": 3,
+      "he": "הָאִשָּׁה שֶׁאֵינָהּ רוֹצָה בְּגֵּרוּשִׁין — אֵין זִכִּין לָהּ גֵּט שֶׁלֹּא מִדַּעְתָּהּ. שֶׁאֵין מְזַכִּין לְאָדָם שֶׁלֹּא מִדַּעְתּוֹ בְּמַה שֶּׁאֵינוֹ לְטוֹבָתוֹ.",
+      "it": "La donna che non vuole il divorzio — non si può acquisire per lei il get senza il suo consenso, perché non si acquisisce per qualcuno senza il suo consenso qualcosa che non è a suo vantaggio."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד יוֹדְעִין אִם הַגֵּרוּשִׁין לְטוֹבָתָהּ? אִם הִיא בִּמְקוֹמוֹ וְרוֹצָה — בְּוַדַּאי לְטוֹבָתָהּ. אִם אִישָׁה כּוֹאֵב לָהּ — בְּחֶזְקַת לְטוֹבָתָהּ.",
+      "it": "Come si sa se il divorzio è a suo vantaggio? Se è al suo posto e lo vuole — certamente è a suo vantaggio. Se il suo matrimonio le è doloroso — si presume a suo vantaggio."
+    },
+    {
+      "n": 5,
+      "he": "הַמְמַנֶּה שָׁלִיחַ לְזַכּוֹת — הַשָּׁלִיחַ אֵינוֹ יָכוֹל לְמַנּוֹת שָׁלִיחַ אַחֵר לְזַכּוֹת. שֶׁשְּׁלִיחוּת זִכִּיָּה אֵינָהּ עֲבִירָה.",
+      "it": "Chi nomina un agente per acquisire — l'agente non può nominare un altro agente per acquisire, perché la delega di acquisizione non è trasferibile."
+    },
+    {
+      "n": 6,
+      "he": "הָאִשָּׁה אוֹמֶרֶת 'לֹא אֶרְצֶה בְּגֵּט זֶה' לְאַחַר שֶׁנִּתְּנוּהוּ לָהּ — יֵשׁ אוֹמְרִים שֶׁיְּכוֹלָה לְמָאֵן וְיֵשׁ אוֹמְרִים שֶׁאֵינָהּ יְכוֹלָה.",
+      "it": "La donna dice 'Non voglio questo get' dopo che le è stato consegnato — c'è chi dice che può rifiutarlo e chi dice che non può."
+    },
+    {
+      "n": 7,
+      "he": "הָרַמְבַּ\"ם פָּסַק: אִם קִבְּלָה אֶת הַגֵּט בְּשֶׁקֶט — מְגֹרֶשֶׁת. אִם מָחְתָה מִיָּד — אֵינָהּ מְגֹרֶשֶׁת.",
+      "it": "Il Rambam ha stabilito: se ha accettato il get in silenzio — è divorziata. Se ha protestato immediatamente — non è divorziata."
+    },
+    {
+      "n": 8,
+      "he": "גֵּט זִכּוּי בְּמָקוֹם שֶׁהָאִשָּׁה רָחוֹקָה — יָכוֹל לְמַנּוֹת שָׁלִיחַ שֶׁיִּזְכֶּה לָהּ בְּגֵּט שֶׁנִּתַּן בְּמָקוֹם אַחֵר.",
+      "it": "Get zikui nel caso in cui la donna sia lontana — si può nominare un agente che acquisisca per lei un get consegnato in un altro posto."
+    },
+    {
+      "n": 9,
+      "he": "הָאִשָּׁה שֶׁמָּאֲנָה לְקַבֵּל גֵּט — הַבַּעַל אֵינוֹ יָכוֹל לְכֹפָּהּ. אֲבָל אִם מָאֲנָה שֶׁלֹּא בְּצֶדֶק — בֵּית דִּין פּוֹסְקִין.",
+      "it": "La donna che si rifiuta di ricevere il get — il marito non può costringerla. Ma se si rifiuta ingiustamente — il tribunale decide."
+    },
+    {
+      "n": 10,
+      "he": "גֵּט שֶׁנְּפַל מִיַּד הַשָּׁלִיחַ לַקַּרְקַע לִפְנֵי שֶׁהִגִּיעַ לָאִשָּׁה — לֹא נִתְגָּרְשָׁה.",
+      "it": "Un get caduto dalle mani dell'agente per terra prima di giungere alla donna — lei non è divorziata."
+    },
+    {
+      "n": 11,
+      "he": "שָׁלִיחַ שֶׁמֵּת בַּדֶּרֶךְ לְאַחַר שֶׁנָּטַל הַגֵּט — לֹא הִגִּיעַ הַגֵּט לָאִשָּׁה, וְהִיא עֲגוּנָה.",
+      "it": "Un agente morto in viaggio dopo aver preso il get — il get non è giunto alla donna e lei è un'agunah."
+    },
+    {
+      "n": 12,
+      "he": "לְכֵן תִּקְּנוּ חֲכָמִים שֶׁהַשָּׁלִיחַ יְמַנֶּה אַחֵר תַּחְתָּיו אִם הוּא חוֹלֶה.",
+      "it": "Perciò i Saggi hanno disposto che l'agente nomini un altro al suo posto se è malato."
+    },
+    {
+      "n": 13,
+      "he": "שָׁלִיחַ שֶׁנִּשְׁתַּטָּה בַּדֶּרֶךְ — הַגֵּט בָּטֵל, שֶׁאֵין שׁוֹטֶה יָכוֹל לְמַסֵּר.",
+      "it": "Un agente che è diventato pazzo in viaggio — il get è nullo, perché un pazzo non può consegnare."
+    },
+    {
+      "n": 14,
+      "he": "שָׁלִיחַ שֶׁנֶּחֱלַשׁ — יָכוֹל לִשְׁלֹחַ אֶת הַגֵּט עִם אַחֵר, כְּדִין.",
+      "it": "Un agente che si è indebolito — può inviare il get con un altro, secondo la legge."
+    },
+    {
+      "n": 15,
+      "he": "זִכּוּי שֶׁנַּעֲשָׂה לְאַחַר מוֹת הַבַּעַל — בָּטֵל. שֶׁאֵין שְׁלִיחוּת לְאַחַר מִיתָה.",
+      "it": "Acquisizione compiuta dopo la morte del marito — è nulla, perché non vi è delega dopo la morte."
+    },
+    {
+      "n": 16,
+      "he": "הַזִּכּוּי חָל מִשָּׁעָה שֶׁנִּתַּן הַגֵּט לַשָּׁלִיחַ לְזַכּוֹת — לֹא מִשָּׁעָה שֶׁהִגִּיעַ לָאִשָּׁה.",
+      "it": "L'acquisizione ha effetto dal momento in cui il get è consegnato all'agente per acquisire — non dal momento in cui giunge alla donna."
+    },
+    {
+      "n": 17,
+      "he": "לְפִיכָּך, אִם מֵת הַבַּעַל לְאַחַר שֶׁנָּטַל הַשָּׁלִיחַ אֶת הַגֵּט לְזַכּוֹת — הָאִשָּׁה מְגֹרֶשֶׁת לְדַעַת הָרַמְבַּ\"ם.",
+      "it": "Perciò, se il marito è morto dopo che l'agente ha preso il get per acquisire — la donna è divorziata secondo l'opinione del Rambam."
+    },
+    {
+      "n": 18,
+      "he": "וְיֵשׁ חוֹלְקִין עָלָיו. וְהַמַּחְמִיר לְגִיטִּין — לְטוֹבַת הָאִשָּׁה הוּא.",
+      "it": "E vi sono chi è in disaccordo. Chi è più severo nei get — lo fa a vantaggio della donna."
+    },
+    {
+      "n": 19,
+      "he": "גֵּט זִכּוּי לַקָּטָן — בֵּית דִּין יָכוֹל לְזַכּוֹת לוֹ, שֶׁאֵין לוֹ דַּעַת אֲבָל יֵשׁ לוֹ יִכּוֹלֶת לְהִנּוֹת.",
+      "it": "Get zikui per un minore — il tribunale può acquisire per lui, perché non ha capacità legale ma può trarne beneficio."
+    },
+    {
+      "n": 20,
+      "he": "אָמַר 'זַכּוּ לָהּ' וְאַחַר כָּך בִּיטֵּל — אִם לֹא הִגִּיעַ הַגֵּט לָאִשָּׁה — בִּיטּוּל חָל.",
+      "it": "Se ha detto 'Acquisite per lei' e poi ha annullato — se il get non è ancora giunto alla donna — l'annullamento ha effetto."
+    },
+    {
+      "n": 21,
+      "he": "כָּל עִנְיַן גֵּט זִכּוּי — מִגְּדוֹלוֹת חֲכָמַת הַגִּיטִּין. כִּי הַהֲלָכָה חָרְדָה לְשַׁחְרֵר עֲגֻנּוֹת בְּדֶרֶךְ כְּשֵׁרָה.",
+      "it": "L'intera questione del get zikui è una delle grandezze della saggezza dei get, perché la halakhah si preoccupa di liberare le agunot in modo legittimo."
+    }
+  ],
+  "_glossary_terms_used": ["get zikui", "shaliach", "zikui", "agunah", "beit din", "gerushin"]
+}

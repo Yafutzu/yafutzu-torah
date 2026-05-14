@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 5",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, קטע ה",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Trattato Finale), saggio 5",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-29",
+  "hebrew_date": "18 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַגּוּף — אֵינוֹ עִיקַּר, וְאֵינוֹ טָפֵל בִּלְבַד — אֶלָּא הוּא כֵּלִי שָׁלֵם…",
+      "it": "Il saggio 5 del Kuntres Acharon affronta la questione del rapporto tra corpo (guf) e anima (neshamah) nella servitù divina. Una visione diffusa nei filosofi medievali considerava il corpo come «tafel» (secondario) rispetto all'anima — uno strumento temporaneo che l'anima usa e poi abbandona. L'Alter Rebbe respinge questa visione come insufficiente: il corpo non è un mero veicolo. Quando compie una mitzvah, il corpo è un partecipante pieno — non uno strumento passivo. L'atto fisico della mitzvah ha un valore intrinseco che l'intenzione mentale da sola non può sostituire."
+    },
+    {
+      "n": 2,
+      "he": "כִּי כְּשֶׁהָאָדָם מְקַיֵּם מִצְוָה — הַנְּשָׁמָה וְהַגּוּף מִצְטָרְפִין יַחְדָּו…",
+      "it": "Quando una persona compie una mitzvah — la neshamah (anima divina) e il guf (corpo) partecipano insieme in modo intenzionale: la neshamah porta l'intenzione e la comprensione; il corpo esegue l'atto fisico. Né la sola intenzione senza l'atto, né l'atto senza intenzione, costituisce la mitzvah completa. L'Alter Rebbe cita il principio del Zohar: «D-o vuole il lev» (il cuore) — ma anche D-o vuole l'atto (ma'aseh). La unione di corpo e anima nell'esecuzione della mitzvah è il modello della perfezione dell'essere umano: «be-chol derakhekhah da'ehu» — in tutte le tue vie riconosci Lui."
+    },
+    {
+      "n": 3,
+      "he": "וּמִשּׁוּם כָּךְ — תְּחִיַּת הַמֵּתִים תִּהְיֶה בַּגּוּף — שֶׁהַגּוּף יֵשׁ לוֹ חֵלֶק בָּעוֹלָם הַבָּא…",
+      "it": "L'Alter Rebbe trae la conclusione teologica: il fatto che la Torah insegni la techiyat ha-meitim (risurrezione dei morti) in forma corporea — non è una concessione alla comprensione limitata dell'uomo, ma una verità profonda. Il corpo che ha partecipato alle mitzvot ha diritto alla ricompensa del Mondo a Venire proprio come l'anima. La risurrezione è il riconoscimento divino che il corpo è stato un partecipante reale nella avodah — non un ostacolo da superare. «Ikar hu ha-ma'aseh» (la cosa principale è l'azione) è il principio che unifica la halakhah pratica con la mistica chassidica."
+    }
+  ],
+  "_glossary_terms_used": [
+    "guf", "neshamah", "tafel", "mitzvah", "ma'aseh", "techiyat ha-meitim", "avodah", "be-chol derakhekhah da'ehu", "ikar hu ha-ma'aseh"
+  ]
+}

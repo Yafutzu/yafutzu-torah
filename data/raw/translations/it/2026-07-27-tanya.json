@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 19",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק יט",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 19",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-27",
+  "hebrew_date": "13 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שְׁלֹשׁ מֵאוֹת וְשִׁשִׁים וּשָׁלֹשׁ מִצְווֹת עֲשֵׂה — הֵן לְבוּשִׁים לְעֶשֶׂר כֹּחוֹת הַנֶּפֶשׁ הָאֱלֹקִית. וּמִצְווֹת לֹא תַעֲשֶׂה — הֵן גְּבוּל הַלְּבוּשִׁים.",
+      "it": "I 248 commandamenti positivi (mitzvot aseh) sono i 'vestimenti' delle dieci facoltà dell'anima divina. I 365 commandamenti negativi (mitzvot lo ta'aseh) sono i confini di questi vestimenti."
+    },
+    {
+      "n": 2,
+      "he": "הַתּוֹרָה — הִיא חַיּוּת הַנְּשָׁמָה. לָכֵן נִקְרֵאת תּוֹרָה 'אוֹר' וּמִצְווֹת 'נֵר'. 'כִּי נֵר מִצְוָה וְתוֹרָה אוֹר'.",
+      "it": "La Torah è la forza vitale (chayyut) dell'anima. Perciò la Torah è chiamata 'luce' (or) e i commandamenti 'lampada' (ner). Come è detto: 'Perché il commandamento è una lampada e la Torah è luce' (Proverbi 6:23)."
+    },
+    {
+      "n": 3,
+      "he": "לָכֵן הַתּוֹרָה נִקְרֵאת 'מָזוֹן' לַנֶּפֶשׁ — כְּמוֹ שֶׁאֹכֶל מַזִּין אֶת הַגּוּף, כָּךְ הַתּוֹרָה מַזֶּנֶת הַנֶּפֶשׁ הָאֱלֹקִית. וּמִצְווֹת — 'לְבוּשׁ' וְ'אוֹר'.",
+      "it": "Perciò la Torah è chiamata 'nutrimento' (mazon) dell'anima — come il cibo nutre il corpo, così la Torah nutre l'anima divina. E i commandamenti sono 'vestimento' (levush) e 'luce' (or)."
+    }
+  ],
+  "_glossary_terms_used": ["mitzvot aseh", "mitzvot lo ta'aseh", "nefesh ha-Elokit", "chayyut", "or", "ner", "mazon", "levush"]
+}

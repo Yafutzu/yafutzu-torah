@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shekalim 3",
+  "name_he": "משנה תורה, הלכות שקלים, פרק ג",
+  "name_it": "Mishneh Torah, Leggi dei Sicli, capitolo 3",
+  "cycle": "rambam-1",
+  "date": "2026-07-25",
+  "hebrew_date": "11 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "בְּלִשְׁכַּת הַשְּׁקָלִים הָיוּ שְׁלֹשׁ עֶשְׂרֵה שׁוֹפָרוֹת, וְעַל כָּל אֶחָד כָּתוּב מַה הוּא לְשֵׁם מָה.",
+      "it": "Nella camera del tesoro dei sicli vi erano tredici casse a forma di shofar (shofarot), e su ciascuna era scritto per quale scopo era destinata."
+    },
+    {
+      "n": 2,
+      "he": "הָיוּ צָרִין כְּלַפֵּי מַטָּה וְרְחָבִין כְּלַפֵּי מַעְלָה, כְּדֵי שֶׁלֹּא יַחֲזִיר מִי שֶׁנָּתַן יָדוֹ בְּתוֹכָן.",
+      "it": "Erano strette in basso e larghe in alto, affinché chi vi immettesse la mano non potesse estrarne il denaro."
+    },
+    {
+      "n": 3,
+      "he": "שִׁשָּׁה שׁוֹפָרוֹת — לְשֶׁקֶל שָׁנָה זוֹ, לְשֶׁקֶל שָׁנָה שֶׁעָבְרָה, וּלְשָׁאָר נְדָבוֹת.",
+      "it": "Sei delle casse erano: per il shekel dell'anno corrente, per il shekel dell'anno precedente, e per le altre donazioni volontarie."
+    },
+    {
+      "n": 4,
+      "he": "שְׁנֵי גִּזְבָּרִים הָיוּ תּוֹרְמִין בְּבַת אַחַת, כְּדֵי שֶׁלֹּא יְהֵא אֶחָד בִּלְבַד עִם הַמָּמוֹן.",
+      "it": "Due tesorieri (gizbarim) effettuavano il prelievo insieme, affinché nessuno rimanesse da solo con il denaro — per prevenire qualsiasi sospetto di disonestà."
+    },
+    {
+      "n": 5,
+      "he": "לֹא נִכְנַס הַגִּזְבָּר לִפְנִים לְבַדּוֹ, אֲפִלּוּ מֶלֶךְ יִשְׂרָאֵל — שֶׁנֶּאֱמַר 'וִהְיִיתֶם נְקִיִּים מֵה' וּמִיִּשְׂרָאֵל'.",
+      "it": "Nessun tesoriere entrava all'interno da solo — nemmeno il re d'Israele — come è detto: 'Sarete puri davanti al Signore e davanti ad Israele' (Numeri 32:22)."
+    },
+    {
+      "n": 6,
+      "he": "הַנִּכְנָס לִתְרֹם — לֹא יִכָּנֵס בְּבִגְדִים מְכֻפָּלִין וְלֹא בְּמִנְעָלִין וְלֹא בְּסַנְדָּלִין.",
+      "it": "Chi entra per il prelievo non può farlo con abiti doppi (piegati), né con scarpe chiuse né con sandali — per escludere qualsiasi nascondiglio per il denaro."
+    },
+    {
+      "n": 7,
+      "he": "כְּשֶׁיָּצָא — נִרְאֶה בְּבִגְדָיו שֶׁלֹּא נוֹמֵל כְּלוּם.",
+      "it": "All'uscita, si mostrava con i propri abiti per attestare che non aveva preso nulla."
+    },
+    {
+      "n": 8,
+      "he": "לָמָּה? כְּדֵי שֶׁלֹּא יְהֵא חָשׁוּד בְּעֵינֵי הַבְּרִיּוֹת.",
+      "it": "Perché? Affinché non fosse sospetto agli occhi degli uomini."
+    },
+    {
+      "n": 9,
+      "he": "מַה נֶּחְשָׁב לִשְׁמוּאֵל? 'וְהָיִיתֶם נְקִיִּים מֵה' וּמִיִּשְׂרָאֵל'.",
+      "it": "Cosa si considerava un atto degno? Come disse Samuele: 'Dovete essere puri davanti all'Eterno e davanti a Israele' — la purezza deve essere visibile agli occhi di tutti."
+    },
+    {
+      "n": 10,
+      "he": "הַנּוֹדֵר לְשֵׁם בֵּית הַמִּקְדָּשׁ — מִנְדָּבוֹת הַלִּשְׁכָּה הוּא.",
+      "it": "Chi fa voto in favore del Tempio — la sua donazione va alle donazioni volontarie della camera (nedavot ha-lishkah)."
+    },
+    {
+      "n": 11,
+      "he": "מוֹתַר נְדָבוֹת — בָּא לְחֶשְׁבּוֹן מִזְבֵּחַ הַחִיצוֹן.",
+      "it": "Il surplus delle donazioni volontarie veniva destinato all'altare esterno (mizbeach ha-chitzon)."
+    },
+    {
+      "n": 12,
+      "he": "כָּל מַה שֶּׁנּוֹדֵר אָדָם לְשֵׁם הַמִּקְדָּשׁ — עֲלָיו לְמַלֵּאת נִדְרוֹ בַּזְּמַן.",
+      "it": "Tutto ciò che una persona vota a favore del Tempio — è suo obbligo adempiere il voto a tempo debito, come è scritto: 'Non ritarderai a pagarlo' (Deuteronomio 23:22)."
+    }
+  ],
+  "_glossary_terms_used": ["shofarot", "gizbarim", "nedavot ha-lishkah", "mizbeach ha-chitzon", "tamid"]
+}

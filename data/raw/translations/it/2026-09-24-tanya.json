@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 2",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ב",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettera 2",
+  "cycle": "tanya",
+  "date": "2026-09-24",
+  "hebrew_date": "13 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עִסְקָא בְּחָכְמַת הַחֲסִידוּת — צְרִיכָה לִהְיוֹת לְשֵׁם שָׁמַיִם, כְּלוֹמַר לְשֵׁם שִׁנּוּי הַמִּדּוֹת. הַלּוֹמֵד חֲסִידוּת 'לָדַעַת' בִּלְבַד — אֵינוֹ לוֹמֵד כְּהוֹגֵן. הַלּוֹמֵד 'לַעֲשׂוֹת' — זֶהוּ הָעִיקָּר.",
+      "it": "Lo studio della saggezza chassidica — deve essere per il bene del cielo, cioè per trasformare le qualità del carattere. Chi studia il Chassidismo solo 'per sapere' — non studia come si deve. Chi studia 'per fare' — questo è l'essenziale."
+    },
+    {
+      "n": 2,
+      "he": "פְּנִימִיּוּת הַתּוֹרָה אֵינָהּ לְהַגְדִּיל יְדִיעָה בִּלְבַד, אֶלָּא לְהַגְדִּיל אֱלֹהִים — כְּלוֹמַר לְהַגְדִּיל נֹכְחוּת הַשֵּׁם בְּחַיֵּי הָאָדָם. כָּל לִמּוּד חֲסִידוּת שֶׁלֹּא מְשַׁנֶּה אֶת הַמִּדּוֹת — אֵינוֹ שָׁלֵם.",
+      "it": "La Torah interiore non è per ampliare solo la conoscenza, ma per glorificare Dio — cioè per aumentare la presenza di Dio nella vita dell'uomo. Ogni studio di Chassidismo che non trasforma il carattere — non è completo."
+    }
+  ],
+  "_glossary_terms_used": ["Chassidut", "pnimiyut haTorah", "midot", "leshem shamayim", "Iggeret HaKodesh"]
+}

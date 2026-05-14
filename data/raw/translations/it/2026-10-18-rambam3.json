@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mechirah 16-18",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים טז-יח",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 16-18",
+  "cycle": "rambam-3",
+  "date": "2026-10-18",
+  "hebrew_date": "7 Cheshvan 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": "16:1-6",
+      "he": "כָּל אַסְמַכְתָּא — אֵינָהּ קוֹנָה, אֶלָּא אִם נַעֲשֵׂית בְּבֵית דִּין חָשׁוּב…",
+      "it": "(Mechirah cap. 16) Approfondimento dell'asmachta (garanzia eccessiva): il principio fondamentale è che «asmachta lo kanya» — l'asmachta non produce acquisizione, perché la persona che si impegna spera di non dover adempiere. Esempio classico: «Se non torno entro 30 giorni, il mio campo sia tuo» — questo impegno non è vincolante. Eccezione: se la stipula avviene davanti a un bet din chashuv (tribunale di rilievo) e il garante esegue un kinyan definitivo senza condizione implicita di riserva — allora è vincolante. La posizione del Rambam differisce da alcune rishonim (autorità medievali) che ritengono certi tipi di asmachta vincolanti — il Rambam adotta la posizione restrittiva."
+    },
+    {
+      "n": "17:1-5",
+      "he": "הַמּוֹכֵר לַחֲבֵרוֹ בְּמָשְׁכַּנְתָּא — אִם לֹא פָּרַע לוֹ לְסוֹף שָׁנָה — תִּמָּכֵר הַקַּרְקַע…",
+      "it": "(Mechirah cap. 17) Vendite con consegna differita e il concetto di «gemirat da'at» (finalità del consenso): perché una transazione commerciale sia vincolante occorre che entrambe le parti abbiano raggiunto una vera e definitiva intenzione di concludere («gemirat da'at»). Senza gemirat da'at — ad esempio in una trattativa preliminare o in una promessa informale — non vi è transazione valida. La consegna del bene (meshikhah) o la pronuncia di una formula di acquisizione (kinyan) creano la presunzione legale di gemirat da'at. Le vendite a termine futuro (vendere oggi con consegna tra un mese) richiedono un kinyan immediato per essere vincolanti."
+    },
+    {
+      "n": "18:1-8",
+      "he": "מֶכֶר שֶׁנַּעֲשָׂה בְּטָעוּת — אֵינוֹ מֶכֶר…",
+      "it": "(Mechirah cap. 18) Introduzione al mekach ta'ut (vendita per errore): una vendita effettuata in base a un errore materiale — sia da parte del compratore che del venditore — è invalida o annullabile. Il principio: «mekach ta'ut chozer» — la vendita erronea torna indietro. Errore materiale (ta'ut be-guf ha-mekach) invalida immediatamente; errore nel prezzo (ona'ah) richiede invece una procedura diversa. Questo capitolo introduce la base teorica del diritto dei vizi nell'acquisto, che sarà sviluppata nei capitoli successivi. La condizione fondamentale: il difetto deve essere stato sconosciuto all'acquirente al momento della vendita."
+    }
+  ],
+  "_glossary_terms_used": [
+    "asmachta", "kinyan", "bet din chashuv", "gemirat da'at", "meshikhah", "mekach ta'ut", "ona'ah", "ta'ut be-guf ha-mekach", "rishonim"
+  ]
+}

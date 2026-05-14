@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 16",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת טז",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettera 16",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-25",
+  "hebrew_date": "10 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אֵין אָדָם מֵשִׂים עַצְמוֹ רָשָׁע...",
+      "it": "Lettera 16: L'Alter Rebbe cita il principio talmudico 'ein adam meisim atzmo rasha' — una persona non può considerarsi malvagia (rasha) di propria iniziativa, poiché la Torah si presume a favore di ogni ebreo. Ma in senso spirituale, il significato profondo è che nessun ebreo è intrinsecamente malvagio nell'essenza della sua anima divina (neshama)."
+    },
+    {
+      "n": 2,
+      "he": "הַנְּשָׁמָה הִיא חֵלֶק אֱלוֹהַּ מִמַּעַל...",
+      "it": "L'anima ebraica (neshama) è 'una parte di Dio dall'Alto' — chelek Eloah mima'al. Anche quando una persona pecca e cade, l'essenza della sua anima rimane pura e intatta. I peccati aderiscono ai 'vestiti' dell'anima e alle sue facoltà esterne, ma non toccano il nucleo dell'anima. Questa è la base per la teshuvah (penitenza): c'è sempre qualcosa di puro a cui ritornare."
+    },
+    {
+      "n": 3,
+      "he": "עִיקַּר הַתְּשׁוּבָה הִיא חֲרָטָה אֲמִיתִּית...",
+      "it": "L'essenza della teshuvah è il rimpianto autentico (charatah amitit) — non la paura del castigo, ma il dispiacere profondo per aver distanziato l'anima dalla sua Fonte Divina. L'Alter Rebbe sottolinea: anche una persona che ha peccato gravemente può rinnovarsi completamente attraverso la teshuvah, poiché l'anima divina non si è mai macchiata nell'essenza. 'Ritornare' a Dio significa semplicemente togliere le barriere che si sono accumulate."
+    }
+  ],
+  "_glossary_terms_used": ["ein adam meisim atzmo rasha", "rasha", "neshama", "chelek Eloah mima'al", "teshuvah", "charatah", "Alter Rebbe", "Tanya", "Iggeret HaKodesh"]
+}

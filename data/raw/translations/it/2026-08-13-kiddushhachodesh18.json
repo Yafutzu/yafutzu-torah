@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 18",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק יח",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 18",
+  "cycle": "rambam-1",
+  "date": "2026-08-13",
+  "hebrew_date": "30 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אחר שיודעים מהלך האמצע של הירח לאותו יום — מחשבים את 'מנוע הירח'. המנוע הוא הכינוי לאנומליה — ההפרש שבין מהלך הממוצע לבין מהלך האמיתי של הירח.",
+      "it": "Dopo aver calcolato il moto medio della luna per quel giorno, si calcola il 'mena ha-yare'ach' (anomalia lunare). Il mena è il termine per l'anomalia — la differenza tra il moto medio e il moto vero della luna."
+    },
+    {
+      "n": 2,
+      "he": "המנוע משתנה מיום ליום. מהלכו של המנוע — כל יום מהלך המנוע גדל בשיעור ידוע: בכל יום — שלוש עשרה מעלות, שלוש דקות, וחמישים וארבע שניות.",
+      "it": "Il mena cambia di giorno in giorno. Il ritmo di variazione del mena — ogni giorno il mena cresce di una misura definita: ogni giorno — tredici gradi, tre minuti e cinquantaquattro secondi."
+    },
+    {
+      "n": 3,
+      "he": "עיקר המנוע — נקודת המוצא לחישוב המנוע — הוא מנוע הירח בתחילת ליל חמישי שאחרי מולד תוהו. ומכאן מחשבים את המנוע לכל יום.",
+      "it": "L'ikkar del mena — il punto di riferimento per il calcolo dell'anomalia — è il mena della luna all'inizio della notte del quinto giorno successivo al molad tohu. Da qui si calcola il mena per ogni giorno."
+    },
+    {
+      "n": 4,
+      "he": "אחר שיודעים המנוע — לוקחים את הניכוי מן הלוח. הניכוי הוא הפרש שמוסיפים או גורעים ממהלך האמצע כדי לקבל מהלך האמיתי.",
+      "it": "Dopo aver calcolato il mena, si prende il valore di correzione dalla tavola. La correzione è la differenza che si aggiunge o si sottrae dal moto medio per ottenere il moto vero."
+    },
+    {
+      "n": 5,
+      "he": "אם המנוע בין אפס לשש מזלות — הניכוי גורע; אם בין שש לשנים עשר — מוסיף. ועד שיצא מן החשבון מקום הירח האמיתי.",
+      "it": "Se il mena è compreso tra zero e sei segni zodiacali — la correzione è sottrattiva; se è compreso tra sei e dodici — è additiva. Fino a che non si ottenga dal calcolo la posizione vera della luna."
+    },
+    {
+      "n": 6,
+      "he": "הניכוי הגדול ביותר של הירח הוא כחמש מעלות, ומגיע לשיאו בסביבות תשעים מעלות מנוע. ואחר כך הולך ופוחת.",
+      "it": "La correzione massima della luna è di circa cinque gradi, e raggiunge il suo apice a circa novanta gradi di anomalia. Poi diminuisce progressivamente."
+    },
+    {
+      "n": 7,
+      "he": "אחרי כל החישובים — ידוע מקום הירח האמיתי. ומתוך מקום הירח האמיתי ומקום השמש האמיתי — יודעים את ה'ארך', וממנו — את הראיה.",
+      "it": "Dopo tutti questi calcoli, è nota la posizione vera della luna. Dalla posizione vera della luna e della posizione vera del sole, si conosce l'elongazione (orekh), e da essa — si determina la visibilità (re'iyah)."
+    }
+  ],
+  "_glossary_terms_used": ["mena ha-yare'ach", "ikkar", "molad tohu", "orekh", "re'iyah"]
+}

@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 5",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ה",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-11",
+  "hebrew_date": "2 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הָרֵאָה — עִקַּר הַבְּדִיקָה בָּהּ…",
+      "it": "Il polmone (rei'ah) è l'organo principale sottoposto a ispezione (bedikah) dopo la shechitah. Il polmone è l'organo più esposto a difetti che potrebbero renderlo treifah, in particolare perforazioni e adesioni patologiche. La procedura standard di ispezione: dopo l'estrazione del polmone dalla carcassa, il shochet o il bodek (ispettore certificato) esamina visivamente l'esterno del polmone per cercare sirchot (adesioni fibrose) tra i lobi o tra il polmone e la parete toracica."
+    },
+    {
+      "n": 2,
+      "he": "הַסִּירְכוֹת — אִם נִמְצֵאת סִירְכָא בְּרֵאָה…",
+      "it": "Le sirchot (adesioni): una sircah è un filo di tessuto fibroso che si forma tra il polmone e un organo adiacente. La questione centrale: una sircah è indice di una perforazione sottostante (treifah) o di una guarigione naturale senza perforazione (kosher)? Il Rambam e i Sefarditi in genere: la sircah deve essere investigata — si rimuove e si controlla se sotto vi sia perforazione. Se non vi è perforazione — il polmone è kosher. Se vi è perforazione, anche minima — treifah."
+    },
+    {
+      "n": 3,
+      "he": "הָאַשְׁכְּנַזִּים נוֹהֲגִים לְהַחְמִיר בְּסִרְכוֹת…",
+      "it": "La pratica degli Ashkenaziti («Beit Yosef» o «Rashi») riguardo alle sirchot: la tradizione ashkenazita (seguendo Rashi e i Tosafot) considera qualsiasi sircah tra un lobo del polmone e un altro lobo — anche senza perforazione evidente — come indicativa di treifah. Pertanto la carne che supera questo standard più rigoroso è chiamata «chalak» (liscia, senza sirchot). Il Rambam e il Maran Shulchan Aruch seguono il metodo sefardita: si controlla se c'è perforazione, e solo in caso affermativo si dichiara treifah."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד בּוֹדְקִין אֶת הָרֵאָה — נוֹפְחִין אוֹתָהּ…",
+      "it": "Come si esamina il polmone — lo si gonfia (nofchin otah) con aria attraverso la trachea, poi lo si immerge nell'acqua. Se escono bolle d'aria dall'acqua, significa che vi è una perforazione — treifah. Se non escono bolle — il polmone è kosher. Questa tecnica di ispezione (bedikah be-mayim) è il metodo halakhico universalmente accettato. Per la verifica delle sirchot, si rimuovono le adesioni prima del gonfiaggio per valutare meglio se vi sia un difetto sottostante."
+    },
+    {
+      "n": 5,
+      "he": "סִירְכָא שֶׁמִּמֶּנָּה לָעִקָּר — כְּשֵׁרָה…",
+      "it": "Una sircah che va dal polmone verso la trachea (omed al ha-iker — aderisce all'asse principale) è considerata kosher da molte autorità, poiché è un tipo di adesione naturale che non indica perforazione. Una sircah che va da un lobo all'altro (mi-avir le-avir — da cavità ad altra cavità) è treifah. La distinzione anatomica precisa tra i diversi tipi di sirchot è parte della formazione professionale del bodek (ispettore), che deve possedere competenze sia halakhiche sia anatomiche."
+    },
+    {
+      "n": 6,
+      "he": "בְּדִיקַת הָרֵאָה — מִצְוָה מִן הַתּוֹרָה…",
+      "it": "L'ispezione del polmone è una mitzvah che deriva dalla proibizione biblica della treifah. Non basta fare affidamento sulla shechitah valida — è necessaria anche la bedikah degli organi interni. Un animale macellato correttamente ma non sottoposto a bedikah è dubbiosamente permesso («safek treifah»). La comunità che cura scrupolosamente le leggi di kashrut — e in particolare la bedikah delle interiora — realizza la santità nel momento più quotidiano: il pasto familiare."
+    }
+  ],
+  "_glossary_terms_used": [
+    "rei'ah", "bedikah", "shechitah", "bodek", "sirchot", "sircah", "treifah", "chalak", "shochet", "nofchin", "kashrut"
+  ]
+}

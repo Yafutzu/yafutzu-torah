@@ -1,0 +1,129 @@
+{
+  "ref": "Mishneh Torah, Sabbath 2",
+  "name_he": "משנה תורה, הלכות שבת, פרק ב",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-23",
+  "hebrew_date": "7 Sivan 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵלּוּ הֵן אֲבוֹת מְלָאכוֹת הָאֲסוּרוֹת בְּשַׁבָּת שֶׁחַיָּבִין עֲלֵיהֶן…",
+      "it": "Queste sono le categorie principali di lavoro (avot melakhot) proibite di Shabbat, per cui si è soggetti [al sacrificio espiatorio se commesse per errore]: (1) Seminare; (2) Arare; (3) Mietere; (4) Raccogliere in covoni; (5) Trebbiare; (6) Vagliare; (7) Selezionare; (8) Macinare; (9) Setacciare; (10) Impastare; (11) Cuocere al forno; (12) Tosare la lana; (13) Imbianchire; (14) Cardare; (15) Tingere; (16) Filare; (17) Ordire; (18) Fare due fili di catena; (19) Tessere due fili; (20) Separare due fili; (21) Fare un nodo; (22) Sciogliere un nodo; (23) Cucire due punti; (24) Strappare per cucire due punti; (25) Cacciare; (26) Macellare; (27) Scuoiare; (28) Salare [un animale]; (29) Conciare le pelli; (30) Raschiare; (31) Tagliare a misura; (32) Scrivere due lettere; (33) Cancellare per scrivere due lettere; (34) Costruire; (35) Demolire; (36) Accendere [un fuoco]; (37) Spegnere; (38) Rifinire un utensile [colpo finale — makke be-patish]; (39) Trasportare dall'ambito privato a quello pubblico. Queste sono le quarantanove categorie principali."
+    },
+    {
+      "n": 2,
+      "he": "כָּל הַמְּלָאכוֹת הַנִּלְווֹת לָאֲבוֹת הַלָּלוּ נִקְרָאוֹת תּוֹלָדוֹת…",
+      "it": "Tutti i lavori derivati da queste categorie principali si chiamano toladot (derivati). Chi compie una toladah di Shabbat — sia per errore (shogeg) che deliberatamente (mezid) — è soggetto alla stessa pena dell'av-melakhah da cui discende. Non c'è differenza tra l'av e la sua toladah quanto alla responsabilità. L'av è chiamato «principale» perché era eseguito nel Mishkan (Tabernacolo) per le sue stesse necessità; la toladah è simile nella natura ma eseguita per uno scopo diverso o con una variante."
+    },
+    {
+      "n": 3,
+      "he": "הַזּוֹרֵעַ וְהַנּוֹטֵעַ וְהַמַּרְכִּיב אִילָן — חַיָּב, וְכֻלָּן תּוֹלָדָה שֶׁל זוֹרֵעַ…",
+      "it": "Chi semina, pianta o innesta un albero è obbligato [al sacrificio espiatorio] — e tutte queste sono toladot del «Seminare». Chi irriga i campi, concima la terra o rimuove erbacce — è obbligato, poiché queste azioni aiutano la crescita delle piante come il seminare. Chi ara o traccia solchi — è obbligato, poiché l'aratura prepara la terra per la semina. La toladah del «Arare» include anche: chi dissoda terreno duro, rimuove pietre, o livella il terreno per la piantagione."
+    },
+    {
+      "n": 4,
+      "he": "הַקּוֹצֵר — זֶה שֶׁקּוֹצֵר תְּבוּאָה…",
+      "it": "Il «Mietere» è chi miete il grano o raccoglie frutti dalla pianta. Le toladot del Mietere includono: chi taglia fiori, erbe aromatiche o foglie dagli alberi. Chi vendemmia l'uva — è obbligato come per il mietere. Il «Raccogliere in covoni» è chi lega le messi tagliate. Le toladot del Raccogliere includono: chi raccoglie legna o fieno in un mucchio; chi raccoglie frutti caduti in un cumulo."
+    },
+    {
+      "n": 5,
+      "he": "הַדָּשׁ — זֶה הַמַּפְרִיד הָאֹכֶל מִגִּידּוֹ…",
+      "it": "Il «Trebbiare» è chi separa il cibo dal suo stelo — come chi batte il grano per estrarne i chicchi. Le toladot del Trebbiare includono: chi sprema uva o olive per estrarne il succo o l'olio; chi munisce una mucca o un'altra bestia. Il «Vagliare» è chi lancia in aria il grano battuto affinché il vento porti via la pula. Le toladot del Vagliare includono: chi soffia per separare i chicchi dalla pula."
+    },
+    {
+      "n": 6,
+      "he": "הַבּוֹרֵר — זֶה שֶׁבּוֹרֵר הָאֹכֶל מִן הַפְּסוֹלֶת…",
+      "it": "Il «Selezionare» è chi sceglie il cibo dagli scarti o gli scarti dal cibo — come chi rimuove sassolini dal grano. È proibito selezionare di Shabbat anche a mano, a meno che non si selezioni il cibo dagli scarti immediatamente per mangiare subito (okhel mi-tokh pesolet, le-alter). Chi usa un setaccio o un vaglio — è obbligato per la categoria del «Setacciare». Il «Macinare» è chi riduce in polvere qualcosa di grande — come chi macina grano in farina. La toladah del Macinare include: chi lima metallo, taglia capelli o unghie, o grattugia legumi."
+    },
+    {
+      "n": 7,
+      "he": "הַלָּשׁ — זֶה שֶׁמְּחַבֵּר הָאָבָק בְּמַשְׁקֶה…",
+      "it": "Il «Impastare» è chi mescola farina con acqua o altro liquido fino a formare un impasto. Le toladot dell'Impastare includono: chi mescola argilla, cemento o gesso con acqua. Il «Cuocere» è chi trasforma un alimento crudo in cotto mediante il calore — che si tratti di fuoco, sole o qualsiasi altra fonte di calore. Le toladot del Cuocere includono: chi scalda abbastanza da bruciare la bocca (yad soledet bo), chi fonde cera o metallo, chi forgia o fonde materiali con il calore."
+    },
+    {
+      "n": 8,
+      "he": "הַגֹּוזֵז צֶמֶר שֶׁעַל גַּבֵּי הַבְּהֵמָה — חַיָּב…",
+      "it": "Chi tosa la lana di un animale è obbligato. Le toladot del «Tosare» includono: chi taglia capelli o peli dell'uomo; chi taglia piume di uccello. Il «Imbianchire» è chi sbatte la lana per schiarirla. Il «Cardare» è chi separa le fibre di lana o lino. Il «Tingere» è chi applica un colorante a qualsiasi materiale. Chi annota con inchiostro o colorante — le toladot includono: chi disegna, pittura o tinge anche una sola linea significativa."
+    },
+    {
+      "n": 9,
+      "he": "הַטּוֹוֶה — זֶה הַמּוֹשֵׁךְ חוּטִין מִן הַצֶּמֶר…",
+      "it": "Il «Filare» è chi trae fili dalla materia grezza (lana, lino, seta) — trasformandola in filo continuo. Le toladot del Filare includono: chi tesse corde da fibre vegetali o animali. Il «Ordire» (meisekh) è chi tende i fili dell'ordito sul telaio prima di tessere. Le prime due operazioni del telaio — «Fare due fili di catena» e «Tessere due fili» — si riferiscono all'inserimento del filo della trama tra i fili dell'ordito. Il «Separare due fili» è chi disfa la tessitura."
+    },
+    {
+      "n": 10,
+      "he": "הַקּוֹשֵׁר — זֶה שֶׁקּוֹשֵׁר קֶשֶׁר שֶׁל קַיָּמָא…",
+      "it": "Il «Fare un nodo» — è proibito fare un nodo permanente (kesher shel kayamà), cioè un nodo inteso a durare. Il «Sciogliere un nodo» — similmente è proibito sciogliere un nodo permanente. Un nodo non permanente (fatto e disfatto regolarmente) — come i lacci delle scarpe — è permesso. Il «Cucire due punti» è proibito, ed è incluso anche chi fa una cucitura permanente. Il «Strappare per cucire» — è chi strappa un tessuto intenzionalmente per poter ricucire in modo preciso."
+    },
+    {
+      "n": 11,
+      "he": "הַצָּד — זֶה הַצָּד חַיָּה אוֹ עוֹף…",
+      "it": "Il «Cacciare» — è proibito cacciare qualsiasi animale selvatico, uccello o pesce. La caccia si completa quando l'animale è catturato in modo che non possa sfuggire. Le toladot del Cacciare includono: chi intrappola un animale, chi chiude uno sciame in una gabbia, chi afferra un pesce nel palmo della mano. Il «Macellare» (shochet) — è proibito uccidere qualsiasi creatura vivente di Shabbat anche senza il rito della shechitah. Le toladot includono: chi punge e ricava sangue, chi schiaccia un pidocchio nel modo usuale."
+    },
+    {
+      "n": 12,
+      "he": "הַמַּפְשִׁיט — זֶה הַמַּפְשִׁיט עוֹר הַבְּהֵמָה…",
+      "it": "Lo «Scuoiare» è chi rimuove la pelle dall'animale. Il «Salare [la pelle]» — chi cosparge la pelle di sale per conservarla e prepararla alla concia. Il «Conciare le pelli» è chi tratta la pelle rendendola resistente e durevole. Il «Raschiare» è chi rende liscia la pelle con una raschiatura. Il «Tagliare a misura» è chi taglia la pelle o qualsiasi materiale alla misura desiderata — anche carta, carta, foglio d'oro. Ognuna di queste è un'av melakhah separata, derivata dal processo di lavorazione delle pelli nel Mishkan per la costruzione delle coperture e dei veli."
+    },
+    {
+      "n": 13,
+      "he": "הַכּוֹתֵב — זֶה שֶׁכּוֹתֵב שְׁתֵּי אוֹתִיּוֹת…",
+      "it": "Il «Scrivere» — è proibito scrivere due lettere qualsiasi, in qualsiasi lingua, su qualsiasi superficie, con qualsiasi strumento. Anche chi scrive due lettere con il dito nel sangue, nel succo di frutta o nel sudore — è obbligato [al sacrificio espiatorio] se lo fa intenzionalmente. Il «Cancellare per scrivere» — è proibito cancellare scritto intenzionalmente per fare spazio e scrivere due lettere al posto. Chi disegna due linee significative — ha compiuto la toladah del Scrivere."
+    },
+    {
+      "n": 14,
+      "he": "הַבּוֹנֶה — זֶה שֶׁמּוֹסִיף כָּל שֶׁהוּא עַל הַבִּנְיָן…",
+      "it": "Il «Costruire» — è proibito costruire qualsiasi struttura permanente, anche aggiungere un solo mattone a una parete. Le toladot del Costruire includono: chi conficca un paletto nel terreno in modo permanente, chi stende una tenda permanente, chi scava nel terreno formando una cavità (poiché anche scavare contribuisce alla costruzione). Il «Demolire» — è proibito demolire una struttura con intento costruttivo (ad esempio abbattere un muro per ricostruirlo meglio). Demolire senza intenzione costruttiva non è biblicamente proibito ma è proibito rabbinicamente."
+    },
+    {
+      "n": 15,
+      "he": "הַמַּבְעִיר — זֶה הַמַּדְלִיק אֵשׁ…",
+      "it": "Il «Accendere» — è proibito accendere qualsiasi fuoco di Shabbat: che si tratti di fuoco normale, di carbonella o di un altra fonte di combustione. Le toladot dell'Accendere includono: chi fa bruciare carbone, chi trasferisce una fiamma da un luogo all'altro ingrandendola. Il «Spegnere» — è proibito spegnere un fuoco di Shabbat con intenzione di risparmiare il combustibile (per un beneficio materiale). Spegnere per prevenire un danno (ad esempio un incendio) — è permesso in caso di pericolo di vita; per mero danno finanziario — è controverso tra le autorità."
+    },
+    {
+      "n": 16,
+      "he": "הַמַּכֶּה בְּפַטִּישׁ — זֶה שֶׁמַּשְׁלִים אֶת הַכְּלִי…",
+      "it": "Il «Rifinire un utensile» (makke be-patish — colpo di martello) — è proibito compiere l'ultimo gesto che completa un oggetto e lo rende utilizzabile. Il nome viene dal colpo finale del fabbro che completa l'utensile. Le toladot del Makke be-patish includono: chi accende per la prima volta una lampada nuova (rendendola adatta all'uso); chi soffia per la prima volta in un'ampolla di vetro rendendola funzionale; chi allarga il foro di un recipiente; chi leviga un oggetto. In generale: qualsiasi azione finale che rende un oggetto pronto all'uso rientra in questa categoria."
+    },
+    {
+      "n": 17,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הָרַבִּים…",
+      "it": "Il «Trasportare» — è proibito portare un oggetto dall'ambito privato (reshut ha-yachid) a quello pubblico (reshut ha-rabbim), o viceversa, o trasportare per una distanza di quattro cubiti nell'ambito pubblico. Questa categoria è l'unica av melakhah che non era una lavorazione del Mishkan in senso stretto, ma era necessaria affinché le persone portassero i loro doni e materiali all'edificio del Tabernacolo dall'esterno."
+    },
+    {
+      "n": 18,
+      "he": "כָּל אֶחָד מֵאֲבוֹת מְלָאכוֹת אֵלּוּ — חַיָּב עֲלֵיהֶן וְעַל תּוֹלְדוֹתֵיהֶן…",
+      "it": "Per ciascuna delle quarantanove categorie principali di lavoro e per ciascuna delle loro toladot si è obbligati al [sacrificio espiatorio per ogni atto compiuto in errore]. Se uno ha compiuto, dimentico del fatto che fosse Shabbat, molte melakhot di categorie diverse nello stesso Shabbat — porta un sacrificio espiatorio separato per ciascuna categoria; se ha compiuto melakhot della stessa categoria in modo non consapevole — porta un solo sacrificio espiatorio per tutte."
+    },
+    {
+      "n": 19,
+      "he": "עוֹד יֵשׁ מְלָאכוֹת שֶׁאֵינָן מֵאֲבוֹת מְלָאכוֹת וְלֹא מִתּוֹלָדוֹתֵיהֶן…",
+      "it": "Vi sono ancora azioni che non sono né av melakhah né toladah, ma che i Saggi hanno proibito come «shevut» (riposo festivo di origine rabbinica) o come «uvdin de-chol» (azioni ordinarie dei giorni feriali che stonano con la santità dello Shabbat), oppure come «mishum gezerah» (misura preventiva). Queste sono proibite rabbinicamente e chi le viola deliberatamente riceve la flagellazione disciplinare (makkot mardut). I dettagli di queste categorie rabbiniche sono spiegati nel corso di queste halachot."
+    },
+    {
+      "n": 20,
+      "he": "כָּל מְלָאכָה שֶׁאֵינָהּ צְרִיכָה לְגוּפָהּ — פָּטוּר עָלֶיהָ…",
+      "it": "Ogni lavoro che non è eseguito per il suo scopo intrinseco (eino tzarikh le-gufo) — si è esenti [dal sacrificio espiatorio] ma è comunque proibito rabbinicamente. Come? Se uno scava una buca non per la terra (che non gli serve) ma solo per la buca stessa — è esente biblicamente. L'opinione del Rambam segue Rabbi Shimon: solo un lavoro eseguito per il suo scopo intrinseco (melakhah ha-tzerikhah le-gufah) genera responsabilità biblica."
+    },
+    {
+      "n": 21,
+      "he": "הַמְקַלְקֵל — פָּטוּר…",
+      "it": "Chi distrugge (mekalkel) senza alcuno scopo costruttivo — è esente [dal sacrificio espiatorio]. Se però distrugge con intenzione costruttiva — è obbligato. Come? Chi demolisce una parete per ricostruirla — è obbligato; chi la demolisce per dispetto — è esente biblicamente. Questa è la regola generale: la distruzione pura non è biblicamente proibita come lavoro di Shabbat, poiché il Shabbat proibisce il «lavoro» creativo che si faceva nel Mishkan — e nel Mishkan tutto era costruttivo."
+    },
+    {
+      "n": 22,
+      "he": "הָעוֹשֶׂה מְלָאכָה בְּשַׁבָּת בִּשְׁגָגָה — חַיָּב חַטָּאת…",
+      "it": "Chi compie lavoro di Shabbat per errore (shogeg) — è obbligato al sacrificio espiatorio (korban chatat). Se era inconsapevole che quel giorno fosse Shabbat — porta un sacrificio per ogni Shabbat in cui ha commesso violazioni. Se sapeva che era Shabbat ma ignorava che quell'azione specifica fosse proibita — porta un sacrificio per ogni categoria di lavoro commessa. Se sapeva entrambe le cose — è soggetto a karet se non vi erano testimoni e ammonimento, oppure alla lapidazione (shetilah) se vi erano testimoni e ammonimento."
+    },
+    {
+      "n": 23,
+      "he": "הַמְחַלֵּל שַׁבָּת בְּדָבָר שֶׁחַיָּבִים עָלָיו כָּרֵת — דּוֹחֶה כָּל הַתּוֹרָה כֻּלָּהּ…",
+      "it": "Chi profana lo Shabbat con qualcosa che comporta karet — respinge l'intera Torah, poiché lo Shabbat è equivalente a tutte le mitzvot. Ma lo Shabbat può essere violato per salvare una vita umana (pikuach nefesh): «Viverà con essi» (Vayikrà 18:5) — e non che morirà con essi. Quindi ogni pericolo di vita spinge da parte lo Shabbat. E non è il meno istruito che deve compiere queste azioni [per salvare una vita], ma il più grande e saggio — affinché si sappia che le mitzvot sono per vivere e non per morire."
+    }
+  ],
+  "_glossary_terms_used": [
+    "avot melakhot", "toladot", "av melakhah", "toladah", "shogeg", "mezid", "karet", "korban chatat", "reshut ha-yachid", "reshut ha-rabbim", "makke be-patish", "melakhah ha-tzerikhah le-gufah", "eino tzarikh le-gufo", "mekalkel", "shevut", "uvdin de-chol", "pikuach nefesh", "makkot mardut"
+  ]
+}

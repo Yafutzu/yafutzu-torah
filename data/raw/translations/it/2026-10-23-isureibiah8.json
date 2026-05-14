@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 8",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק ח",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-23",
+  "hebrew_date": "12 Cheshvan 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַגֵּר שֶׁנִּתְגַּיֵּר — כְּקָטָן שֶׁנּוֹלַד דָּמֵי…",
+      "it": "Il convertito (ger) che si converte all'ebraismo — è come un neonato (ke-katan she-nolad dami). Questa è una delle regole fondamentali del diritto ebraico sulla conversione: la conversione crea una nuova identità legale-religiosa. Di conseguenza, il convertito non ha legalmente nessun parente biologico precedente dal punto di vista della legge ebraica. Sua madre biologica non è la sua «madre» halakhicamente; suo fratello biologico non è il suo «fratello» halakhicamente. Pertanto, il matrimonio tra un convertito e sua sorella biologica non-ebrea — è permesso dalla Torah stessa (poiché halakhicamente non sono fratello e sorella)."
+    },
+    {
+      "n": 2,
+      "he": "אַף עַל פִּי שֶׁהַגֵּר כְּקָטָן שֶׁנּוֹלַד — אָסְרוּ חֲכָמִים…",
+      "it": "Tuttavia, i Saggi hanno decretato che il convertito non sposi sua madre biologica né sua sorella biologica — per evitare che si dica «da una santità più severa (kedushah chamura) a una meno severa» — cioè che sembri che la conversione abbassi gli standard morali. Le parole greche usate per questo concetto nel Talmud sono «mishum cherpa» (per ragioni di vergogna pubblica) e «mishum chillul Hashem» (per evitare la profanazione del Nome Divino). Queste proibizioni rabbiniche si applicano solo ai parenti di primo grado."
+    },
+    {
+      "n": 3,
+      "he": "גֵּר שֶׁנָּשָׂא אִמּוֹ — כְּשֶׁהִיא נָכְרִית — קֹדֶם שֶׁנִּתְגַּיֵּר, כֵּיוָן שֶׁנִּתְגַּיֵּר — יַפְרִישֶׁנָּה…",
+      "it": "Se un convertito aveva sposato sua madre biologica quando era ancora non-ebreo, e poi entrambi si sono convertiti — devono separarsi, non per violazione di una proibizione biblicamente attiva (poiché halakhicamente non sono più madre e figlio) ma per il decreto rabbinico sopracitato. Se la moglie non si converte, il marito la divorzierà per ragioni religiose standard (impossibilità di matrimonio misto valido). Il Rambam illustra così il complesso intreccio tra le conseguenze della conversione e le protezioni rabbiniche della decenza pubblica."
+    },
+    {
+      "n": 4,
+      "he": "הַגֵּר עִם אֲחוֹתוֹ מֵאָב — מֵאֵין — מֻתָּר מִן הַתּוֹרָה…",
+      "it": "Un convertito con sua sorella biologica dalla parte del padre — è permesso dalla Torah (poiché non è più suo «fratello» legalmente). Un convertito con sua sorella dalla parte della madre — i Saggi l'hanno proibita (decreto rabbinico), poiché la relazione materna è più stretta e la proibizione più evidente alla percezione pubblica. La distinzione: il Rambam segue l'opinione che il rapporto materno sia percepito più chiaramente come incesto anche dopo la conversione, quindi la protezione rabbinica è più urgente. Il rapporto paterno è meno ovvio e quindi non richiede decreto rabbinico secondo alcune opinioni."
+    },
+    {
+      "n": 5,
+      "he": "שְׁנֵי אַחִים גֵּרִים — אַף עַל פִּי שֶׁאֵינָם אַחִים מִן הַדִּין — לֹא יִשָּׂא אֶחָד מֵהֶם אֵשֶׁת הַשֵּׁנִי…",
+      "it": "Due fratelli convertiti — sebbene halakhicamente non siano più fratelli — non possono sposarsi tra di loro o con le reciproche mogli, per decreto rabbinico. Se uno muore, l'altro non è obbligato al yibbum (levirato) con la vedova — poiché non sono halakhicamente fratelli — e tale yibbum sarebbe addirittura proibito (poiché sembra come se un fratello si sposasse con la cognata senza motivo legale). La regola: dove il yibbum non si applica, si applica la proibizione della cognata (eshet ach) nella forma più generale."
+    },
+    {
+      "n": 6,
+      "he": "גֵּר שֶׁנָּשָׂא גִּיּוֹרֶת — אַחֲרֵי שֶׁנִּתְגַּיְּרָה — הַוְּלָדוֹת כְּיִשְׂרָאֵל לְכָל דָּבָר…",
+      "it": "Un convertito che sposa una convertita — dopo la conversione di entrambi — i loro figli sono israeliti a tutti gli effetti (kol davar). Non vi è alcuna limitazione sui figli di convertiti; essi possono sposare qualsiasi israelita di discendenza (eccetto nelle categorie generali di mamzer ecc.). Il Rambam enfatizza: la conversione è completa e i figli nati dopo la conversione sono Bnei Yisrael (figli d'Israele) a pieno titolo — non «gerim» (convertiti). La Torah dice «kakahem la-ger» — «per il nativo come per il convertito»."
+    },
+    {
+      "n": 7,
+      "he": "כֵּיצַד מִצְוַת קַבָּלַת גֵּרִים — מְלַמְּדִין אוֹתָן מִקְצָת מִצְווֹת קַלּוֹת וַחֲמוּרוֹת…",
+      "it": "Il capitolo si chiude con un'indicazione sulla procedura della conversione (kabbalat gerim): si insegna al candidato alcune delle mitzvot leggere e alcune delle più severe, si informa delle punizioni per le trasgressioni e delle ricompense per l'osservanza. Se accetta — si immerge nel mikveh (per la donna e l'uomo), e per il maschio si aggiunge la circoncisione (milah). Dopo di che è israelita a tutti gli effetti. Il Rambam cita la massima talmudica fondamentale: «Amat atzmech ke-echad me-aniyei Yisrael» — (tratta il convertito) «come uno dei poveri d'Israele» — con piena dignità e accoglienza."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ger", "ke-katan she-nolad dami", "kedushah chamura", "chillul Hashem", "yibbum", "eshet ach", "Bnei Yisrael", "kabbalat gerim", "milah", "mikveh", "mishum cherpa"
+  ]
+}

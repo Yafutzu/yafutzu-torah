@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 6-8",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi del Prestito Monetario, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-11-15",
+  "hebrew_date": "6 Kislev 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "6:1-4",
+      "he": "שְׁמִיטַת כְּסָפִים — בִּשְׁנַת הַשְּׁמִיטָה יִשָּׁמֵט כָּל בַּעַל מַשֵּׁה יָדוֹ…",
+      "it": "(Malveh VeLoveh cap. 6, hal. 1-4) Shemitat kesafim (cancellazione dei debiti nell'anno sabbatico): alla fine dell'anno di shemitah (il settimo anno), tutti i prestiti tra ebrei vengono automaticamente annullati — «Shamot kol ba'al masheh yado» (Rilascerà ogni creditore ciò che ha prestato — Deut. 15:2). Il debitore non ha più alcun obbligo legale di restituire. Il Rambam precisa: la shemitat kesafim si applica sia in Eretz Yisrael sia nella Diaspora (a differenza della shemitat karka — abbandono dei campi — che si applica solo in Eretz Yisrael). Restituire volontariamente dopo la shemitah — è una mitzvah."
+    },
+    {
+      "n": "6:5-8",
+      "he": "הַמּוֹסֵר שְׁטָרוֹתָיו לְבֵית דִּין קֹדֶם הַשְּׁמִיטָה — אֵין שְׁמִיטָה מַפְקַעַת…",
+      "it": "(Malveh VeLoveh cap. 6, hal. 5-8) Il Prozbul: Hillel ha-Zaken (Hillel il Vecchio) — il grande saggio del Secondo Tempio — vide che la gente si rifiutava di prestare denaro ai poveri nell'avvicinarsi dell'anno di shemitah, per paura di perdere il prestito. Hillel istituì il Prozbul (מִפְּרוֹזְבוּל — documento di cessione al tribunale): il creditore trasferisce formalmente il proprio credito al beit din prima della shemitah. Il beit din non è soggetto alla shemitat kesafim — quindi il credito sopravvive all'anno sabbatical e il creditore può poi recuperarlo a nome del beit din."
+    },
+    {
+      "n": "7:1-4",
+      "he": "כֵּיצַד עוֹשֶׂה פְּרוֹזְבּוּל — בָּא לִפְנֵי בֵּית דִּין…",
+      "it": "(Malveh VeLoveh cap. 7, hal. 1-4) Come si redige il Prozbul: il creditore si presenta davanti a un beit din di tre giudici e dichiara: «Mosarani lakhem, peloni ve-feloni dayyanim she-be-makom peloni, kol chov she-yesh li, sheh-eggvenu kol z'man she-irtze» (Consegno a voi — giudici tali e tali del luogo tale — tutti i crediti che ho, che li riscuoterò quando vorrò). Il Rambam spiega la genialità di Hillel: ha usato il meccanismo della shlichut (agenzia) per trasferire il credito al beit din, preservando la possibilità di prestare ai poveri senza perdere il credito alla shemitah."
+    },
+    {
+      "n": "8:1-4",
+      "he": "הַלּוֶֹה שֶׁאָמַר לַמַּלְוֶה אַחַר הַשְּׁמִיטָה — שְׁלֵם אֶת חוֹבְךָ…",
+      "it": "(Malveh VeLoveh cap. 8, hal. 1-4) Il debitore che vuole restituire il debito dopo la shemitah volontariamente: il Rambam descrive la risposta ideale del creditore. Quando il debitore offre di restituire volontariamente, il creditore dovrebbe rispondere «Meshamot ani» (Annullo il debito). Se il debitore insiste — il creditore può accettare i soldi come regalo (matanah), non come rimborso di debito. La Mishnah (Sheviit 10:8-9) descrive l'uomo di spirito elevato come colui che — dopo la shemitah — dice al creditore «Teshuv» (Prendi il tuo) e non invoca la shemitah per liberarsi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shemitat kesafim", "shemitah", "shemitat karka", "Prozbul", "beit din", "shlichut", "Hillel ha-Zaken", "meshamot ani", "matanah"
+  ]
+}

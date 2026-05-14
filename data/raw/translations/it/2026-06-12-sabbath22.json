@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Sabbath 22",
+  "name_he": "משנה תורה, הלכות שבת, פרק כב",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 22",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-12",
+  "hebrew_date": "27 Sivan 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אָמִירָה לְנָכְרִי — שְׁבוּת...",
+      "it": "Dire a un non-ebreo di compiere un lavoro proibito (melachah) di Shabbat per conto di un ebreo — è vietato per decreto rabbinico (shevut). Questo divieto è chiamato 'amira le-nochri' (dire al non-ebreo) ed è un'estensione della santità dello Shabbat."
+    },
+    {
+      "n": 2,
+      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים — לְצֹרֶךְ הַיּוֹם...",
+      "it": "Questo divieto si applica quando il non-ebreo agisce per beneficio dell'ebreo. Se il non-ebreo agisce per proprio vantaggio personale, non c'è violazione da parte dell'ebreo, anche se l'ebreo ne trae beneficio indirettamente."
+    },
+    {
+      "n": 3,
+      "he": "יֵשׁ מְקוֹמוֹת שֶׁהִתִּירוּ לוֹמַר לַנָּכְרִי...",
+      "it": "Vi sono situazioni in cui i Saggi hanno permesso di dire al non-ebreo di fare lavoro proibito: (1) per una grande necessità pubblica (tzorech rabbim); (2) per un malato che non è in pericolo di vita ma soffre molto; (3) per una mitzvah urgente che non può essere eseguita altrimenti."
+    },
+    {
+      "n": 4,
+      "he": "חוֹלֶה שֶׁאֵין בּוֹ סַכָּנָה — אוֹמְרִים לְנָכְרִי...",
+      "it": "Per un malato senza pericolo di vita si può dire al non-ebreo di fare ciò che è proibito ai sensi della legge rabbinica. Ma non si può chiedere al non-ebreo di fare cose proibite dalla Torah per questo tipo di malato."
+    },
+    {
+      "n": 5,
+      "he": "נָכְרִי שֶׁעָשָׂה מְלָאכָה מֵעַצְמוֹ...",
+      "it": "Un non-ebreo che compie un lavoro di Shabbat di propria iniziativa, senza essere stato invitato dall'ebreo — l'ebreo può trarre beneficio da tale lavoro dopo lo Shabbat. Vi è però un divieto rabbinico di trarne beneficio immediatamente."
+    },
+    {
+      "n": 6,
+      "he": "נָכְרִי שֶׁהִדְלִיק אֶת הַנֵּר...",
+      "it": "Se un non-ebreo ha acceso una candela di Shabbat per sé stesso, anche un ebreo può servirsi di quella luce. Ma se l'ha accesa per l'ebreo, l'ebreo non può usarla. La distinzione dipende dall'intenzione del non-ebreo."
+    },
+    {
+      "n": 7,
+      "he": "נָכְרִי שֶׁבִּשֵּׁל לְעַצְמוֹ...",
+      "it": "Se un non-ebreo ha cucinato di Shabbat per sé stesso, un ebreo può mangiare di quel cibo dopo lo Shabbat. Se ha cucinato per un ebreo specifico, l'ebreo non può mangiarlo nemmeno dopo lo Shabbat, come punizione per aver chiesto la cottura."
+    },
+    {
+      "n": 8,
+      "he": "הַנָּכְרִי שֶׁבָּא לְכַבּוֹת הַדְּלֵקָה...",
+      "it": "Se un non-ebreo viene spegnere un incendio che minaccia i beni dell'ebreo di Shabbat — non si dice al non-ebreo di continuare né di fermarsi. Si lascia che il non-ebreo agisca secondo la propria iniziativa, e l'ebreo ne trae beneficio passivamente."
+    },
+    {
+      "n": 9,
+      "he": "שָׂכַר נָכְרִי לַעֲשׂוֹת מְלָאכָה בְּשַׁבָּת...",
+      "it": "Assumere un non-ebreo per lavoro retribuito è permesso se il contratto non specifica lo Shabbat come giorno di lavoro. Se il lavoro può essere fatto in qualsiasi giorno della settimana, l'ebreo può permetterlo. Il problema nasce solo se l'ebreo indica esplicitamente lo Shabbat."
+    },
+    {
+      "n": 10,
+      "he": "הַמַּשְׂכִּיר בַּיִת לְנָכְרִי...",
+      "it": "Chi affitta la propria casa a un non-ebreo non è responsabile di ciò che il non-ebreo fa nella casa di Shabbat, purché non riceva pagamento specifico per l'uso dello Shabbat. La responsabilità si trasferisce all'inquilino non-ebreo."
+    },
+    {
+      "n": 11,
+      "he": "מִי שֶׁנּוֹסֵעַ בְּסְפִינָה...",
+      "it": "Chi naviga su una nave con marinai non-ebrei di Shabbat — i marinai che remano non lo fanno per conto dell'ebreo. L'ebreo deve solo astenersi dall'impartire istruzioni relative alla navigazione. Idealmente, si dovrebbe partire prima di venerdì sera."
+    },
+    {
+      "n": 12,
+      "he": "מַאֲמִירִים לְנָכְרִי בְּיוֹם טוֹב...",
+      "it": "Nelle feste (Yom Tov), le regole sull'amira le-nochri sono identiche a quelle dello Shabbat per quanto riguarda i lavori proibiti. Per la preparazione del cibo (ochel nefesh), che è permessa nell'Yom Tov, non c'è bisogno di ricorrere al non-ebreo."
+    },
+    {
+      "n": 13,
+      "he": "אֵין שׂוֹכְרִין פּוֹעֲלִים בְּשַׁבָּת...",
+      "it": "Non si assumono lavoratori di Shabbat anche per lavori che verranno eseguiti dopo lo Shabbat, se l'assunzione stessa avviene di Shabbat. L'atto di assumere è proibito perché ricorda il commercio (uvdin de-chol — 'azioni feriali')."
+    },
+    {
+      "n": 14,
+      "he": "אֵין מַשְׂכִּירִין כֵּלִים לְנָכְרִי...",
+      "it": "Non si dà in affitto oggetti a un non-ebreo di Shabbat, poiché gli strumenti di un ebreo non devono lavorare di Shabbat. Questo vale anche se il non-ebreo paga il canone per tutta la settimana: il fatto che lo strumento lavori di Shabbat è problematico."
+    },
+    {
+      "n": 15,
+      "he": "לֹא יֵלֵךְ אָדָם אֵצֶל הַנָּכְרִי...",
+      "it": "Non si va da un non-ebreo di Shabbat per chiedergli di fare qualcosa di proibito nella settimana successiva, se questo implica che il non-ebreo lo farà di Shabbat. Bisogna evitare anche solo l'apparenza di commercio o negoziazione di Shabbat."
+    },
+    {
+      "n": 16,
+      "he": "נָכְרִי שֶׁשָּׁלַח דּוֹרוֹן לְיִשְׂרָאֵל...",
+      "it": "Se un non-ebreo invia un regalo cucinato di Shabbat a un ebreo — l'ebreo non ne può mangiare di Shabbat, poiché è stato cucinato apposta per lui di Shabbat. Dopo lo Shabbat, può mangiarlo. Se il cuoco non sapeva per chi cucinava, l'ebreo può mangiarlo anche di Shabbat."
+    },
+    {
+      "n": 17,
+      "he": "אָמַר לְנָכְרִי: קְנֵה לִי דָּבָר בְּשַׁבָּת...",
+      "it": "Se un ebreo ha detto a un non-ebreo di comprare qualcosa di Shabbat — l'oggetto è proibito all'ebreo fino a dopo lo Shabbat, come misura di precauzione affinché non ci si abitui a fare acquisti tramite non-ebrei di Shabbat."
+    },
+    {
+      "n": 18,
+      "he": "כָּל אֵלּוּ הַדְּבָרִים אֲסוּרִים מִשּׁוּם שְׁבוּת...",
+      "it": "Tutte queste proibizioni sono di natura rabbinica (shevut), non biblica. Tuttavia i Saggi le hanno stabilite con fermezza per preservare la santità dello Shabbat e per evitare che si giunga a trasgredire divieti biblici."
+    },
+    {
+      "n": 19,
+      "he": "יֵשׁ מִקְרִים שֶׁמֻּתָּר לוֹמַר לְנָכְרִי...",
+      "it": "Vi sono eccezioni permesse: per una mitzvah urgente, per evitare una grande perdita economica (davar ha-avud), in caso di malattia, e per bisogni pubblici importanti — in queste circostanze, si può dire al non-ebreo di fare il necessario."
+    },
+    {
+      "n": 20,
+      "he": "וְכֵן בְּיוֹם טוֹב שֵׁנִי שֶׁל גָּלֻיּוֹת...",
+      "it": "Nel secondo giorno della festa (Yom Tov sheni shel galuyot — il giorno aggiuntivo osservato in diaspora), le stesse regole dell'amira le-nochri si applicano come nel primo giorno, poiché entrambi i giorni hanno pari status halachico nei confronti di questa norma."
+    }
+  ],
+  "_glossary_terms_used": ["amira le-nochri", "shevut", "melachah", "uvdin de-chol", "ochel nefesh", "davar ha-avud", "Yom Tov sheni shel galuyot"]
+}

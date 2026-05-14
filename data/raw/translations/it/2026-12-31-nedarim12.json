@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 12",
+  "name_he": "משנה תורה, הלכות נדרים, פרק יב",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 12",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-31",
+  "hebrew_date": "22 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "דֶּרֶךְ הַחֲסִידִים — לְהִסְתַּלֵּק מִן הַנְּדָרִים לְגַמְרֵי…",
+      "it": "La via dei chasidim (pii) è di allontanarsi completamente dai voti. Il Rambam elabora: il chasid ideale non dice «giuro» e non dice «konam» — la sua parola stessa è la sua garanzia. La Torah ha concesso i voti per le necessità umane, ma i chasidim di ogni generazione hanno evitato questa via, preferendo costruire il loro carattere a tal punto da non aver bisogno di vincoli formali. «Il giusto vive nella sua fede» (Habacuc 2:4) — la fede è un impegno totale che rende il giuramento superfluo."
+    },
+    {
+      "n": 2,
+      "he": "אָדָם שֶׁנָּדַר — חַיָּב לְקַיֵּם מִיָּד אִם יָכוֹל…",
+      "it": "Chi ha fatto un voto — è obbligato a mantenerlo immediatamente se può. Non si ritarda il mantenimento del voto: la Torah dice «non tardare a pagarlo» (Deuteronomio 23:22). Il ritardo intenzionale nel mantenere un voto è esso stesso una violazione. Se il mantenimento del voto richiede tempo (ad esempio un voto di donare qualcosa che dev'essere ancora procurato), si devono compiere passi concreti verso il suo adempimento senza ritardi ingiustificati."
+    },
+    {
+      "n": 3,
+      "he": "כָּל הַדְּבָרִים הָיָה אוֹמֵר — יְהֵא דְּבָרָיו מֻעָטִין…",
+      "it": "Il principio conclusivo della halakhah sui voti è anche il principio conclusivo del Sefer Hafla'ah: «kol ha-medaber — yehi devarav me'ut» (chi parla — che le sue parole siano poche, ma di qualità). Non è il silenzio che la Torah esige, ma la qualità: ogni parola pronunciata con consapevolezza e responsabilità. Il sistema dei voti insegna questa lezione in modo pratico — non perché si debba far voti, ma perché studiando le conseguenze dei voti si apprende il peso di ogni parola."
+    },
+    {
+      "n": 4,
+      "he": "הַמּוֹסֵר דַּעְתּוֹ לְדַבֵּר בְּמִשְׁקָל — אֵין צָרִיךְ שְׁבוּעָה…",
+      "it": "Chi abitua se stesso a pesare ogni parola — non ha bisogno di giuramenti. I giuramenti esistono come rete di sicurezza per chi non ha ancora sviluppato questa qualità. Ma il percorso della vita ebraica tende verso il superamento della rete di sicurezza: crescere come persona significa che le proprie parole diventano così affidabili che non richiedono conferme formali. I Saggi hanno lodato Shim'on ben Shetach, che avrebbe potuto giurare il falso per guadagnare una fortuna — ma si rifiutò categoricamente, perché un tzaddik non ha bisogno di giurare: la sua parola è la sua firma."
+    },
+    {
+      "n": 5,
+      "he": "הָאוֹמֵר «הֵן» — יְהֵא «הֵן» שֶׁלּוֹ צֶדֶק…",
+      "it": "Chi dice «sì» — il suo «sì» sia giusto (tzedek). Chi dice «no» — il suo «no» sia giusto. Questo è il versetto di Rut (Rut 3:13): «Vivo è Hashem» — giuramento di Boaz. Ma i Saggi commentano che i grandi preferivano non giurare affatto. La Torah non proibisce i voti — ma l'ideale della vita ebraica è una parola così affidabile da rendere il giuramento superfluo. Con questa visione si conclude il Sefer Hafla'ah."
+    },
+    {
+      "n": 6,
+      "he": "סִיּוּם הִלְכּוֹת נְדָרִים וְסֵפֶר הַפְּלָאָה…",
+      "it": "Si concludono le Leggi dei Voti con l'aiuto del Cielo. Si conclude il Sefer Hafla'ah — il Libro delle Cose Straordinarie — che ha abbracciato le leggi dei giuramenti e dei voti: due istituzioni che dimostrano la straordinaria potenza della parola umana. La parola è il ponte tra il materiale e il divino: con la parola D-o ha creato il mondo, con la parola l'uomo impegna se stesso verso D-o e verso il prossimo. Che la nostra parola sia sempre degna di quel ponte."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chasidim", "konam", "neder", "shevuah", "tzaddik", "Sefer Hafla'ah", "tzedek"
+  ]
+}

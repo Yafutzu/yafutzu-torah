@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Nachalot 11; Sanhedrin 1-2",
+  "name_he": "משנה תורה, הלכות נחלות פרק יא; הלכות סנהדרין פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi dell'Eredità cap. 11; Leggi del Sinedrio capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-12-01",
+  "hebrew_date": "22 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "11:1-4",
+      "he": "הָאָב שֶׁחִלֵּק נְכָסָיו לְבָנָיו בְּחַיָּיו...",
+      "it": "(Nachalot cap. 11, hal. 1-4) Un padre che ha diviso i propri beni tra i figli mentre era ancora in vita: se ha dato esplicitamente a un figlio più di quanto spetterebbe per legge d'eredità — la divisione è valida come donazione (matanah), non come eredità. Ma se ha detto «questo è in eredità a mio figlio» — la doppia porzione del primogenito (bechor) si calcola sul totale. Il padre non può privare con azioni il bechor della sua doppia porzione per legge, ma può donare prima della morte secondo la sua volontà."
+    },
+    {
+      "n": "11:5-8",
+      "he": "בְּכוֹר שֶׁמָּחַל עַל פִּי הַחֵלֶק — מָחַל...",
+      "it": "(Nachalot cap. 11, hal. 5-8) Il primogenito (bechor) che rinuncia alla sua doppia porzione — rinuncia per se stesso ma non per i suoi eredi. Se il bechor è morto prima del padre e i suoi figli ereditano la sua parte — ricevono anche la sua doppia porzione. La proibizione di discriminare tra i figli nell'eredità: la Torah dice «lo yuchal le-vaker» — il padre non può rendere figlio primogenito chi non lo è (Deuteronomio 21:16). Questa è la chiusura del Sefer Mishpatim: «Si concludono le Leggi dell'Eredità con l'aiuto del Cielo. Si conclude il Sefer Mishpatim (Libro delle Leggi Civili) con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "San 1:1-4",
+      "he": "מִצְוַת עֲשֵׂה לְמַנּוֹת שׁוֹפְטִים וְשׁוֹטְרִים...",
+      "it": "(Sanhedrin cap. 1, hal. 1-4) SEFER SHOFTIM INIZIA. Mitzvat aseh (precetto positivo): istituire giudici (shoftim) e ufficiali di polizia (shotrim) in ogni città e regione d'Israele. Il Gran Sinedrio (Sanhedrin ha-gadol): 71 membri, seduto nella Sala delle Pietre Lavorate (Lishkat ha-gazit) nel Tempio. Il Sinedrio minore: 23 membri, istituito in ogni città con una popolazione sufficiente. Il beit din di tre: per le cause monetarie ordinarie. Questa struttura giudiziaria a tre livelli riflette la struttura della società ebraica: dal locale al nazionale."
+    },
+    {
+      "n": "San 2:1-4",
+      "he": "אֵין מוֹשִׁיבִין בְּסַנְהֶדְרִין אֶלָּא מִי שֶׁיֵּשׁ בּוֹ שֶׁבַע מִדּוֹת...",
+      "it": "(Sanhedrin cap. 2, hal. 1-4) Qualità richieste per i membri del Sinedrio: sette qualità fondamentali — (1) chochmah (saggezza Torah), (2) binah (comprensione derivativa), (3) daat (conoscenza pratica), (4) yirat chet (timore del peccato), (5) anavah (umiltà), (6) sin'at ha-betzah (odio per il guadagno monetario illecito), (7) ahavat ha-emet (amore della verità). Il Rambam aggiunge: i giudici devono conoscere settant'una discipline — inclusi alcuni aspetti della scienza e delle lingue — per poter giudicare tutti i casi portati davanti a loro."
+    }
+  ],
+  "_glossary_terms_used": [
+    "matanah", "bechor", "Sefer Mishpatim", "Sefer Shoftim", "shoftim", "shotrim", "Sanhedrin ha-gadol", "Lishkat ha-gazit", "beit din", "mitzvat aseh", "chochmah", "binah", "daat", "yirat chet", "anavah", "sin'at ha-betzah", "ahavat ha-emet"
+  ]
+}

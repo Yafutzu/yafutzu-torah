@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 11-13",
+  "name_he": "משנה תורה, הלכות כלים, פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi dei Vasi, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-09-13",
+  "hebrew_date": "2 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "11:1", "he": "בֵּית יָד — חֵלֶק מִן הַכְּלִי. הַיָּד הִיא חֵלֶק מִן הַכְּלִי לְעִנְיַן טֻמְאָה.", "it": "Il manico — è parte del vaso. Il manico è parte del vaso riguardo all'impurità."},
+    {"n": "11:2", "he": "יָד שֶׁנִּשְׁבְּרָה — הַכְּלִי עֲדַיִן מְקַבֵּל טֻמְאָה. אֲבָל אִם נִשְׁבַּר הַכְּלִי עַצְמוֹ — טָהוֹר.", "it": "Se il manico si è rotto — il vaso riceve ancora impurità. Ma se il vaso stesso si è rotto — è puro."},
+    {"n": "11:3", "he": "מַה מַּהְוֶה 'יָד' הֲלָכָתִית? כָּל דָּבָר שֶׁנִּתְחַבֵּר לַכְּלִי כְּדֵי לְהַחְזִיקוֹ בְּשִׁמּוּשׁ.", "it": "Cosa costituisce un 'manico' halachico? Qualsiasi cosa attaccata al vaso per tenerlo durante l'uso."},
+    {"n": "12:1", "he": "צֶמֶד — שְׁנֵי כֵּלִים שֶׁעוֹבְדִים יַחַד כְּצָמִיד. אִם אֶחָד טָמֵא — מְטַמֵּא אֶת הַשֵּׁנִי.", "it": "Lo tzemed — due vasi che lavorano insieme come coppia. Se uno è impuro — rende impuro il secondo."},
+    {"n": "12:2", "he": "נִתְפָּרְדוּ הַצֶּמֶד — כָּל אֶחָד בִּפְנֵי עַצְמוֹ. אֵין הַטֻּמְאָה עוֹבֶרֶת.", "it": "Se la coppia si è separata — ognuno da solo. L'impurità non passa."},
+    {"n": "12:3", "he": "דְּבָרִים הַמְחֻבָּרִים לַכְּלִי בְּחִיּבּוּר קָבוּעַ — נֶחְשָׁבִים חֵלֶק מִמֶּנּוּ.", "it": "Le cose collegate permanentemente al vaso — sono considerate parte di esso."},
+    {"n": "13:1", "he": "כְּלִי חֶרֶשׂ — פְּנִים וְחוּץ. הַטֻּמְאָה נִכְנֶסֶת דֶּרֶךְ הָאֲוִיר הַפְּנִימִי. נְגִיעָה מִבַּחוּץ — אֵינָהּ מְטַמֵּא.", "it": "Il vaso di argilla — interno ed esterno. L'impurità entra attraverso l'aria interna. Il tocco dall'esterno — non rende impuro."},
+    {"n": "13:2", "he": "פֶּתַח הַכְּלִי — הָאֲוִיר נִכְנַס דֶּרֶךְ הַפֶּתַח. אִם הַפֶּתַח פָּתוּחַ — הַטֻּמְאָה נִכְנֶסֶת.", "it": "L'apertura del vaso — l'aria entra attraverso l'apertura. Se l'apertura è aperta — l'impurità entra."},
+    {"n": "13:3", "he": "הַיְסוֹד — כְּלִי חֶרֶשׂ שׁוֹנֶה מִכָּל הַכֵּלִים בְּכָךְ שֶׁהוּא מִטַּמֵּא רַק מֵאֲוִירוֹ, לֹא מִנְּגִיעָה חִיצוֹנִית.", "it": "Il fondamento — il vaso di argilla è diverso da tutti i vasi in quanto si contamina solo dall'aria interna, non dal tocco esterno."}
+  ],
+  "_glossary_terms_used": ["kelim", "kli cheres", "beit yad", "tzemed", "tum'ah"]
+}

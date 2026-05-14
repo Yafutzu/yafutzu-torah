@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mechirah 1-3",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-10-13",
+  "hebrew_date": "2 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "1:1-5",
+      "he": "הַמּוֹכֵר וְהַקּוֹנֶה — צְרִיכִין לִקְנוֹת בְּאַחַד מִדַּרְכֵי הַקִּנְיָן…",
+      "it": "(Mechirah cap. 1, hal. 1-5) SEFER KINYAN INIZIA. Hilchot Mechirah (Leggi della Compravendita). Ogni acquisto e vendita deve effettuarsi tramite uno degli atti di acquisizione (kinyan) riconosciuti dalla Torah e dai Saggi. I principali kinyanim per beni mobili: (1) Kinyan meshichah (trascinamento/spostamento fisico dell'oggetto); (2) Kinyan hagbahah (sollevamento dell'oggetto); (3) Kinyan chatzer (l'oggetto si trova nella proprietà del compratore). La semplice promessa verbale o il pagamento di denaro di per sé non trasferiscono la proprietà — ma chi si ritira dopo aver pagato il prezzo riceve la maledizione dei Saggi («mi she-para»)."
+    },
+    {
+      "n": "2:1-6",
+      "he": "כֵּיצַד הִיא מְשִׁיכָה — מָשַׁךְ הַמִּטַּלְטְלִין מִרְשׁוּת הַמּוֹכֵר לִרְשׁוּת הַקּוֹנֶה…",
+      "it": "(cap. 2, hal. 1-6) Come si esegue il kinyan meshichah? Il compratore sposta l'oggetto dal dominio del venditore al proprio dominio — o lo porta via, o lo tira verso di sé, o lo sposta di almeno quattro tefachim. Se il compratore solleva l'oggetto (hagbahah) — l'oggetto è acquisito dal momento del sollevamento. Il kinyan di beni immobili (karka) funziona diversamente da quello dei beni mobili (metaltelin): la terra si acquisisce tramite kesef (denaro), shtar (documento) o chazakah (presa di possesso effettiva — coltivare, recintare, o fare riparazioni alla proprietà)."
+    },
+    {
+      "n": "3:1-5",
+      "he": "הַמּוֹכֵר קַרְקַע — לֹא נִקְנֵית אֶלָּא בִּכְסֶף אוֹ בִּשְׁטָר אוֹ בְּחַזָּקָה…",
+      "it": "(cap. 3, hal. 1-5) Vendita di proprietà immobiliare: si acquisisce tramite uno dei tre kinyanim: kesef (pagamento del prezzo), shtar (documento scritto e consegnato al compratore), o chazakah (presa di possesso — il compratore compie un atto fisico sulla proprietà come recintare, aprire un'apertura, o coltivare anche solo una piccola porzione). La terra si acquista con il pagamento del prezzo davanti a testimoni; il documento viene scritto per documentare l'acquisto ma non è il kinyan in sé. L'eccezione: in Terra d'Israele, il Rambam aggiunge la consuetudine locale come fattore nel determinare la validità dei kinyanim."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kinyan", "meshichah", "hagbahah", "chatzer", "mi she-para", "karka", "metaltelin", "kesef", "shtar", "chazakah", "Sefer Kinyan"
+  ]
+}

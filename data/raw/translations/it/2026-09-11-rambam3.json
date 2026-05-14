@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 5-7",
+  "name_he": "משנה תורה, הלכות כלים, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dei Vasi, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-09-11",
+  "hebrew_date": "29 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "5:1", "he": "כֵּלֵי עוֹר — מְקַבְּלִים טֻמְאָה אִם עֻבְּדוּ כָּרָאוּי. עוֹר שֶׁלֹּא עֻבַּד — אֵינוֹ מְקַבֵּל טֻמְאָה.", "it": "I vasi di pelle — ricevono impurità se sono stati conciati come si deve. La pelle non conciata — non riceve impurità."},
+    {"n": "5:2", "he": "דַּפְנָא — כִּיס עוֹר רַךְ. דִּינָהּ כְּשְׁאָר כֵּלֵי עוֹר לְעִנְיַן טֻמְאָה.", "it": "La dafna — è un sacchetto di pelle morbida. La sua legge è come altri vasi di pelle riguardo all'impurità."},
+    {"n": "5:3", "he": "כְּלִי עוֹר שֶׁנִּשְׁבַּר — אֵינוֹ מְקַבֵּל טֻמְאָה, כִּשְׁאָר כֵּלִים.", "it": "Un vaso di pelle che si è rotto — non riceve impurità, come altri vasi."},
+    {"n": "6:1", "he": "כֵּלֵי עֶצֶם — דִּינָם כְּכֵלֵי מַתֶּכֶת. כֵּלֵי זְכוּכִית — תִּיקְּנוּ חֲכָמִים שֶׁיִּהְיוּ כְּכֵלֵי חֶרֶשׂ.", "it": "I vasi di osso — la loro legge è come i vasi di metallo. I vasi di vetro — i Saggi hanno stabilito che siano come i vasi di argilla."},
+    {"n": "6:2", "he": "מַדּוּעַ כְּלֵי זְכוּכִית כְּחֶרֶשׂ? שֶׁשְּׁנֵיהֶם יְכוֹלִים לְהִשָּׁבֵר וּלְהֵעָשׂוֹת מֵחָדָשׁ — תִּיקוּנוֹ הוּא שְׁבִירָתוֹ.", "it": "Perché i vasi di vetro sono come l'argilla? Perché entrambi possono rompersi e essere rifatti — la loro riparazione è la loro rottura."},
+    {"n": "6:3", "he": "כְּלִי זְכוּכִית טָמֵא — שׁוֹבְרִים אוֹתוֹ. כְּלִי זְכוּכִית שָׁבוּר שֶׁנִּתַּקֵּן — חוֹזֵר לְקַבֵּל טֻמְאָה.", "it": "Un vaso di vetro impuro — lo si rompe. Un vaso di vetro rotto che è stato riparato — torna a ricevere impurità."},
+    {"n": "7:1", "he": "כְּלִי שֶׁאֵין לוֹ בֵּית קִבּוּל — לֹא מְקַבֵּל טֻמְאָה. הַמִּטָּה כְּשֶׁהִיא שְׁטוּחָה — אֵין לָהּ בֵּית קִבּוּל.", "it": "Un vaso che non ha un contenitore — non riceve impurità. Il letto quando è piatto — non ha un contenitore."},
+    {"n": "7:2", "he": "כִּסֵּא — יֵשׁ לוֹ בֵּית קִבּוּל — הַמּוֹשָׁב. מְקַבֵּל טֻמְאָה.", "it": "Una sedia — ha un contenitore — il sedile. Riceve impurità."},
+    {"n": "7:3", "he": "הַכְּלָלִים לְקְבִיעַת 'כְּלִי' — יֵשׁ לוֹ בֵּית קִבּוּל, שָׁלֵם, וְרָאוּי לִשְׁמוּשׁ.", "it": "I criteri per definire un 'vaso' — ha un contenitore, è integro, ed è adatto all'uso."}
+  ],
+  "_glossary_terms_used": ["kelim", "beit kibul", "kli cheres", "kli zechuchit", "tum'ah"]
+}

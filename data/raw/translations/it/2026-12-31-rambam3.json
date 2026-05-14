@@ -1,0 +1,30 @@
+{
+  "ref": "Mishneh Torah, Yesodei HaTorah 9-10; De'ot 1",
+  "name_he": "משנה תורה, הלכות יסודי התורה פרקים ט-י; הלכות דעות פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Fondamenti della Torah cap. 9-10; Leggi delle Qualità Morali cap. 1 (Secondo Ciclo)",
+  "cycle": "rambam-3",
+  "date": "2026-12-31",
+  "hebrew_date": "22 Tevet 5787",
+  "cycle_note": "Secondo ciclo — Sefer Madda",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Yesodei HaTorah 9:1-5",
+      "he": "הַתּוֹרָה לֹא תְּמוּר וְלֹא תִּתְחַלֵּף לְעוֹלָם…",
+      "it": "(Secondo ciclo — Yesodei HaTorah cap. 9, hal. 1-5) La finalità della Torah: non si aggiunge nulla e non si toglie nulla (lo tosif, lo tigra). «La Torah di Hashem — tamimah, meshivat nafesh» (La Torah di D-o è perfetta, restituisce l'anima — Salmi 19:8). La sua perfezione rende impossibile qualsiasi «aggiornamento» o «riforma». Anche un profeta autentico non può cambiare la Torah: la Torah non è in Cielo — è stata data una volta per tutte all'umanità (Deuteronomio 30:12). Questa dottrina è il tredicesimo principio di fede del Rambam: «Credo con fede completa che questa Torah non sarà sostituita, e che non vi sarà un'altra Torah da parte del Creatore.»"
+    },
+    {
+      "n": "Yesodei HaTorah 10:1-5",
+      "he": "כֵּיצַד נֵדַע שֶׁפְּלוֹנִי נָבִיא שֶׁקֶר…",
+      "it": "(Yesodei HaTorah cap. 10, hal. 1-5) Il test del falso profeta: se una profezia non si avvera (nel caso di profezie su eventi futuri), il profeta è falso. Ma il Rambam nota il caso paradossale: un profeta che profetizza bene e la profezia non si avvera — poteva non essere falso (D-o può «revocare» una buona profezia se il popolo pecca). Invece, una profezia di male non si può revocare... a meno che il popolo faccia teshuvah, come nel caso di Giona e Ninive. La Torah è «non in Cielo» — i giudici della Terra applicano la Torah; i profeti la ricevono ma non la modificano."
+    },
+    {
+      "n": "De'ot 1:1-5",
+      "he": "דַּעַת הַבֵּינוֹנִית — הִיא הַמִּדָּה הַטּוֹבָה…",
+      "it": "(Hilchot De'ot cap. 1, hal. 1-5) INIZIA HILCHOT DE'OT — Leggi delle Qualità Morali. La «derech ha-emtza» (via di mezzo) nelle qualità del carattere: la saggezza aristotelica del giusto mezzo, sintetizzata con la halakhah ebraica. Il coraggio è il giusto mezzo tra la viltà e la temerarietà; la generosità è il giusto mezzo tra la prodigalità e la miseria; la gravità è il giusto mezzo tra la frivolezza e la mestizia. Il Rambam elenca le qualità: «Da questo ne consegue che le disposizioni estreme sono cattive, e non è giusto camminare in esse né insegnarle a se stessi... ma ci si deve allontanare dalle disposizioni estreme verso la via di mezzo.» Con questa etica si chiude il 5787 — che sia un anno di crescita nel carattere."
+    }
+  ],
+  "_glossary_terms_used": [
+    "lo tosif", "lo tigra", "derech ha-emtza", "teshuvah", "De'ot", "Sefer Madda"
+  ]
+}

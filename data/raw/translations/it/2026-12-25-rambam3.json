@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Melachim 3-5",
+  "name_he": "משנה תורה, הלכות מלכים ומלחמות פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi dei Re e delle Guerre, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-12-25",
+  "hebrew_date": "16 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Melachim 3:1-5",
+      "he": "אֵין הַמֶּלֶךְ מַרְבֶּה לוֹ סוּסִים — רַק כְּדֵי מֶרְכַּבְתּוֹ…",
+      "it": "(Melachim cap. 3, hal. 1-5) Le restrizioni del re: non deve acquisire troppi cavalli — solo quanti ne servono per il suo uso legittimo (non per commercio o per orgoglio); non deve prendere molte mogli — i Saggi stabiliscono un massimo di diciotto, per evitare che «le mogli facciano deviare il suo cuore» (Deuteronomio 17:17); non deve accumulare oro e argento per se stesso — solo il tesoro necessario per pagare i soldati e i bisogni del regno. Il re che viola queste restrizioni viola un comandamento negativo della Torah."
+    },
+    {
+      "n": "Melachim 4:1-5",
+      "he": "הַמֶּלֶךְ כּוֹתֵב שְׁנֵי סִפְרֵי תּוֹרָה…",
+      "it": "(Melachim cap. 4, hal. 1-5) Il re scrive due rotoli della Torah: uno che viene conservato nel Beit HaMikdash (o nel palazzo), e uno che porta con sé ogni dove — in guerra, in viaggio, nei giudizi. Il secondo rotolo è il simbolo del sottomettimento del re alla Torah: «Sarà con lui, lo leggerà tutti i giorni di sua vita» (Deuteronomio 17:19). Il rotolo della Torah è la corona vera del re d'Israele — più della corona d'oro. Il re d'Israele non è un despota assoluto ma un vicario della legge divina."
+    },
+    {
+      "n": "Melachim 5:1-5",
+      "he": "הַמֶּלֶךְ רַשַּׁאי לִגְבּוֹת מִסִּים לְצֹרֶךְ הַמִּלְחָמָה…",
+      "it": "(Melachim cap. 5, hal. 1-5) Il re può: conscrivere soldati, raccogliere tasse per i bisogni della nazione, requisire proprietà per usi militari (pagando un compenso giusto). L'autorità del re è ampia ma non assoluta: il re non può violare i diritti fondamentali della persona — non può uccidere innocenti, non può prendere proprietà private senza compenso. Il Rambam cita il caso di Achav e la vigna di Navot (I Re 21) come esempio di un re che ha abusato del suo potere — un abuso punito da D-o con la morte del re e della sua casata."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Melachim", "Beit HaMikdash", "Torah", "milchamah"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 3",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ג",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-09",
+  "hebrew_date": "29 Cheshvan 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שֶׁרֶץ הָאָרֶץ — הַמְּפֹרָשִׁים בַּתּוֹרָה…",
+      "it": "Il sheretz ha-aretz (creatura strisciante terrestre) proibito dalla Torah include otto specie nominate esplicitamente (Lev. 11:29-30): il choled (donnola), l'akhbar (topo), il tzav (coccodrillo terrestre), l'anakah (porcospino o rospo), il koach (lucertola monitor), ha-leta'ah (lucertola comune), ha-chomet (lumaca o lucertola di sabbia), e ha-tinshemeth (geco o camaleonte). Mangiare anche la quantità più piccola (mashehu) di uno di questi è proibito dalla Torah."
+    },
+    {
+      "n": 2,
+      "he": "כָּל שֶׁרֶץ הָאָרֶץ — אִם אֲכָלוֹ כַּזַּיִת — לוֹקֶה…",
+      "it": "Chi mangia un volume di oliva (ka-zayit) di sheretz ha-aretz — riceve flagellazione (malkot). Il divieto si trova nel versetto «Lo teshaktzu et nafshoteichem» (Non rendete voi stessi abominevoli — Lev. 11:43). Vi sono cinque versetti di divieto relativi alle creature striscianti, ognuno aggiungendo un aspetto diverso: il divieto di mangiare, il divieto di rendersi abominevoli, il divieto di impurizzarsi, il divieto di farsi impuri, e il divieto di diventare proibiti. Chi mangia una delle otto specie di sheretz ha-aretz viola potenzialmente tutti e cinque questi divieti."
+    },
+    {
+      "n": 3,
+      "he": "שֶׁרֶץ הַמַּיִם — כָּל שֶׁאֵין לוֹ סְנַפִּיר וְקַשְׂקֶשֶׂת…",
+      "it": "Il sheretz ha-mayim (creatura acquatica strisciante): qualsiasi creatura acquatica che non ha pinne (snapir) e squame (kaskeset) è proibita e classificata come sheretz ha-mayim. Include i calamari, i polpi, le ostriche, le vongole, i gamberi, i granchi, le aragoste, e qualsiasi altro crostaceo o mollusco. Anche i cetacei (balene, delfini) sono in questa categoria poiché privi di squame vere. Il divieto vale per tutte le acque — mari, fiumi, laghi, pozze."
+    },
+    {
+      "n": 4,
+      "he": "שֶׁרֶץ הָעוֹף — כָּל שֶׁהוּא עוֹף טָמֵא…",
+      "it": "Il sheretz ha-of (creatura volante strisciante): include tutti gli insetti che volano e striscianti. La Torah proibisce questi con il versetto «kol sheretz ha-of tame hu lakhem» (ogni creatura volante strisciante è impura per voi — Lev. 11:20). L'eccezione: quattro specie di locuste (arba minim chagavim) sono permesse (Lev. 11:22). Le mosche, le vespe, le api (come insetti), le zanzare — tutti proibiti se ingeriti. Il miele delle api è permesso perché è un prodotto dell'ape, non l'ape stessa."
+    },
+    {
+      "n": 5,
+      "he": "אַרְבָּעָה מִינִים מִן הַחֲגָבִים — מֻתָּרִין…",
+      "it": "Quattro specie di locuste sono permesse dalla Torah (Lev. 11:22): arbeh, sal'am, chargol, e chagav. Il Rambam nota che le caratteristiche di queste locuste kosher sono: quattro zampe, quattro ali che coprono la maggior parte del corpo, e due zampe posteriori per saltare. L'identificazione pratica di queste specie dipende dalla masorah (tradizione) locale. Il Rambam aggiunge: «Nei paesi dell'est [il Medio Oriente e il Nord Africa] vi è una tradizione precisa su quali specie siano permesse» — alcune comunità continuano questa tradizione fino ad oggi."
+    },
+    {
+      "n": 6,
+      "he": "תּוֹלַעַת שֶׁנּוֹלְדָה בַּפֵּרוֹת…",
+      "it": "Un verme (tola'at) che nasce all'interno di un frutto o vegetale — e non è mai uscito all'esterno — è permesso secondo alcune opinioni (poiché non si è mai «spostato» sul suolo). Questa è una questione dibattuta tra i Rishonim. Il Rambam risolve: un verme che si è sviluppato interamente all'interno del frutto, senza mai toccare il suolo, è permesso. Tuttavia un verme che è uscito dal frutto e vi è rientrato, o che si trova nella terra intorno alla radice — è proibito come sheretz ha-aretz."
+    },
+    {
+      "n": 7,
+      "he": "הַבּוֹדֵק יְרָקוֹת מֵחֲמַת תּוֹלָעִים — מִצְוָה עוֹשֶׂה…",
+      "it": "Chi controlla le verdure per la presenza di vermi (bedikat yerakot me-chamat tola'im) — compie una mitzvah. Il controllo delle verdure prima del consumo per identificare ed eliminare insetti e vermi è un obbligo halakhico, non solo un pio costume. Il Rambam stabilisce il principio generale: ogni alimento che può contenere insetti o vermi deve essere controllato prima del consumo. Le verdure a foglia (lattuga, prezzemolo, spinaci, cavolo), i legumi (fagioli), i cereali (per i vermi nei magazzini) richiedono tutti un controllo accurato."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sheretz ha-aretz", "sheretz ha-mayim", "sheretz ha-of", "malkot", "mashehu", "ka-zayit", "tola'at", "chagavim", "masorah", "snapir", "kaskeset", "bedikat yerakot"
+  ]
+}

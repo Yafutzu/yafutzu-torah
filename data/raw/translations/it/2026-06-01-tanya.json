@@ -1,0 +1,25 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 1",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק א",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 1",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-01",
+  "hebrew_date": "16 Sivan 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "תְּשׁוּבָה עִילָּאָה וְתְּשׁוּבָה תַּתָּאָה — הֵן שְׁנֵי מַדְרֵגוֹת בַּתְּשׁוּבָה…",
+      "it": "Vi sono due livelli di teshuvah (pentimento/ritorno): la «teshuvah ila'ah» (teshuvah superiore) e la «teshuvah tata'ah» (teshuvah inferiore). La teshuvah inferiore è il ritorno dall'abisso del peccato — il distaccarsi dal male e il tornare a D-o. La teshuvah superiore è il ritorno verso una connessione ancora più profonda con D-o — non da un peccato commesso, ma dall'allontanamento spirituale (hitrachakut) che l'anima sperimenta anche senza peccato, a causa dell'immersione nelle cose materiali. Questa è la teshuvah del Beinoni e persino del Tzaddik: un ritorno costante, un approfondimento continuo del legame con D-o."
+    },
+    {
+      "n": 2,
+      "he": "וְגָדוֹל מְאֹד עִנְיַן הַתְּשׁוּבָה — שֶׁהִיא גוֹבֶהֶת עַד כִּסֵּא הַכָּבוֹד…",
+      "it": "Grandissima è la questione della teshuvah — essa raggiunge il Trono della Gloria, come insegnano i Saggi: «Grande è la teshuvah che raggiunge il Trono della Gloria» (Yoma 86a). Questo significa che la teshuvah opera un cambiamento ontologico nella realtà spirituale: non è solo un cambiamento di comportamento ma una trasformazione della radice dell'anima. La teshuvah riconnette l'anima alla sua sorgente divina — il Trono della Gloria, che è il livello di Binah (Comprensione) nella struttura delle Sefirot, da cui tutte le anime traggono la loro origine. Questa introduzione pone le basi per comprendere la natura e la potenza della teshuvah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "teshuvah ila'ah", "teshuvah tata'ah", "Beinoni", "Tzaddik", "hitrachakut", "Binah", "Sefirot"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ref": "Tanya, Part I; Likkutei Amarim 50:6-7",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נ",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 50 (segmenti 6-7)",
+  "cycle": "tanya-yomi",
+  "date": "2026-05-09",
+  "hebrew_date": "22 Iyyar 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 6,
+      "he": "וְהִנֵּה, סֵדֶר הָעֲבוֹדָה בְּעֵסֶק הַתּוֹרָה וְהַמִּצְוֹת הַנִּמְשֶׁכֶת מִבְּחִינַת אַהֲבָה עַזָּה זוֹ, הִיא בִּבְחִינַת ״שׁוֹב״ לְבַד…",
+      "it": "L'ordine del servizio divino nell'occuparsi della Torah e delle mitzvòt, che scaturisce da questo amore ardente (ahavà azzà), è nella modalità del «ritorno» (shov) soltanto, come è scritto nel Sefer Yetzirà: «E se il tuo cuore corre — torna all'Uno». «Se il tuo cuore corre» allude al desiderio dell'anima nel cuore, nella cavità destra, quando si intensifica, si accende e si infiamma a tal punto da arrivare al consumarsi dell'anima (kelot ha-nèfesh), aspirando a riversarsi nel seno del Padre, il Vivente dei viventi Benedetto, e a uscire dalla prigionia del corpo corporeo e materiale per unirsi a Lui Benedetto. In quel momento si deve richiamare alla mente l'insegnamento dei nostri Maestri di benedetta memoria: «Contro la tua volontà tu vivi» in questo corpo, per animarlo — al fine di attrarre verso il basso la vita superiore dal Vivente dei viventi Benedetto, attraverso la Torah vivente, affinché vi sia una dimora negli inferiori per la Sua Unicità Benedetta in modo manifesto (gilùi). Come spiegato sopra e come è scritto nello Zohar HaKadosh: «affinché vi sia Uno in Uno» — ovvero che l'unità nascosta (yichùd ha-ne'elàm) diventi nella modalità del «mondo rivelato» (almà di-itgalyà)."
+    },
+    {
+      "n": 7,
+      "he": "וְזֶהוּ שֶׁאוֹמְרִים: ״לְכָה דוֹדִי וְכוּ׳״…",
+      "it": "Questo è il senso di ciò che si canta: «Vieni, mio amato…» (Lecha Dodi). Da quanto detto si comprende l'insegnamento dei nostri Maestri: «Contro la tua volontà tu vivi, contro la tua volontà…» — e allora qual è il desiderio che resta? Come spiegato altrove nel commento esteso a questa Mishnà: «Contro la tua volontà tu vivi» — con l'aiuto del Vivente dei viventi Benedetto."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ahavà azzà", "shov", "ratzò va-shov", "kelot ha-nèfesh", "mitzvòt", "gilùi",
+    "yichùd ha-ne'elàm", "almà di-itgalyà", "Lecha Dodi"
+  ]
+}

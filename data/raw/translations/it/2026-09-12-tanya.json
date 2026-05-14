@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 2",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק ב",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah, capitolo 2",
+  "cycle": "tanya",
+  "date": "2026-09-12",
+  "hebrew_date": "1 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "הַיּוֹם א' תִּשְׁרֵי תשפ\"ז — רֹאשׁ הַשָּׁנָה, יוֹם הַדִּין. כָּל הַנְּשָׁמוֹת עוֹמְדוֹת לִפְנֵי כִּסֵּא הָאֱלֹקִי לְמִשְׁפָּט. הָאַדְמוּ\"ר הַזָּקֵן דָּן בְּעִנְיַן חֲמוּרַת הַחֲטָאִים.", "it": "Oggi 1 Tishrei 5787 — Rosh Hashanah, il Giorno del Giudizio. Tutte le anime stanno davanti al Trono Divino per il giudizio. L'Alter Rebbe discute la gravità dei peccati."},
+    {"n": 2, "he": "חֲטָאִים שֶׁחַיָּבִים עֲלֵיהֶם כָּרֵת — אֵין הַתְּשׁוּבָה לְבַדָּהּ מְכַפֶּרֶת. צְרִיכִין גַּם יִסּוּרֵי יוֹם הַכִּפּוּרִים. 'תְּשׁוּבָה וְיוֹם כִּפּוּרִים מְכַפְּרִין חֶצְיוֹ.' כִּי חֶטְא שֶׁגּוֹרֵם כָּרֵת פּוֹגֵם בִּבְחִינָה עֶלְיוֹנָה.", "it": "I peccati per cui si è soggetti a karet — la teshuvah da sola non espia. Si necessita anche delle afflizioni del Giorno di Kippur. 'La teshuvah e Yom Kippur espiano la metà.' Perché un peccato che causa karet danneggia un aspetto superiore."},
+    {"n": 3, "he": "אַךְ רַחֲמֵי ה' אֵין קֵץ — 'שׁוּבָה יִשְׂרָאֵל עַד ה' אֱלֹהֶיךָ'. הַתְּשׁוּבָה בְּרֹאשׁ הַשָּׁנָה — בְּעֵת שֶׁכָּל הַנְּשָׁמוֹת עוֹמְדוֹת לִפְנֵי כִּסֵּא הַמִּשְׁפָּט — הִיא קְדוֹשָׁה בְּמֵי יַחַד.", "it": "Ma la misericordia di Dio è infinita — 'Torna, Israele, fino a Hashem tuo Dio'. La teshuvah a Rosh Hashanah — quando tutte le anime stanno davanti al Trono del Giudizio — è sacra in modo particolare."}
+  ],
+  "_glossary_terms_used": ["teshuvah", "karet", "Yom Kippur", "Rosh Hashanah", "kisei hamishpat"]
+}

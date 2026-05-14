@@ -1,0 +1,30 @@
+{
+  "ref": "Mishneh Torah, Yesodei HaTorah 3-5",
+  "name_he": "משנה תורה, הלכות יסודי התורה פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi dei Fondamenti della Torah, capitoli 3-5 (Secondo Ciclo)",
+  "cycle": "rambam-3",
+  "date": "2026-12-29",
+  "hebrew_date": "20 Tevet 5787",
+  "cycle_note": "Secondo ciclo — Sefer Madda",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Yesodei HaTorah 3:1-5",
+      "he": "הָאֵל יִתְבָּרַךְ — יוֹדֵעַ אֶת כָּל הַדְּבָרִים…",
+      "it": "(Secondo ciclo — Yesodei HaTorah cap. 3, hal. 1-5) La natura degli angeli e delle sfere celesti. Il Rambam, seguendo la filosofia neoplatonica aristotelica sintetizzata con la tradizione ebraica, descrive gli angeli come «intelletti separati» (sechel nivdal) — esseri spirituali privi di corporeità, puri intelletti che eseguono la volontà divina. I nove ordini angelici: Chayot HaKodesh, Ofanim, Erelim, Chashmalim, Serafim, Mal'achim, Elohim, Bnei Elohim, Cheruvim — sono tutti gradi di conoscenza divina emanata nella creazione."
+    },
+    {
+      "n": "Yesodei HaTorah 4:1-5",
+      "he": "כָּל מַה שֶּׁנִּבְרָא — נִבְרָא מֵאַרְבָּעָה יְסוֹדוֹת…",
+      "it": "(Yesodei HaTorah cap. 4, hal. 1-5) I quattro elementi della creazione (yesodot): fuoco, aria, acqua, terra — il quadro cosmologico antico che il Rambam accetta come cornice per la fisica. Ogni elemento ha proprietà intrinseche: il fuoco è caldo e secco, l'aria è calda e umida, l'acqua è fredda e umida, la terra è fredda e secca. La conoscenza di D-o: il Rambam formula il principio sorprendente che in D-o, il conoscente (yode'a), il conoscere (yedi'ah) e il conosciuto (yadua) sono una sola cosa — principio che i filosofi medievali chiamarono «unità del pensiero, pensante e pensato»."
+    },
+    {
+      "n": "Yesodei HaTorah 5:1-5",
+      "he": "יִסַּרְתּוּ בַּיּוֹם הַהוּא לֵאמֹר — «אֱמֶת מָה שֶּׁאָמַרְתִּי»…",
+      "it": "(Yesodei HaTorah cap. 5, hal. 1-5) Kiddush Hashem (santificazione del nome divino) e Chilul Hashem (profanazione del nome). In un periodo di persecuzione religiosa (shemad) — quando un governo decreta che gli ebrei devono abbandonare la Torah — un ebreo deve morire piuttosto che violare anche un precetto minore in pubblico. Il martire è il kiddush Hashem supremo: la sua vita diventa un testamento che D-o è più prezioso della vita stessa. Il Rambam nomina Rabbi Akiva e i Dieci Martiri come esempi del kiddush Hashem mediante il martirio."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sechel nivdal", "Chayot HaKodesh", "yesodot", "kiddush Hashem", "chilul Hashem", "shemad", "yode'a", "yedi'ah"
+  ]
+}

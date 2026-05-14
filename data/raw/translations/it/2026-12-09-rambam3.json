@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 24-26",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים כד-כו",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 24-26",
+  "cycle": "rambam-3",
+  "date": "2026-12-09",
+  "hebrew_date": "30 Kislev 5787 — Chanukah giorno 6",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "24:1-4",
+      "he": "כֹּחַ הַמֶּלֶךְ — מֵעֵבֶר לְדִינֵי נְפָשׁוֹת...",
+      "it": "(Sanhedrin cap. 24, hal. 1-4) Il potere del re (dinat ha-melech): il re può punire trasgressori secondo le necessità di sicurezza del regno — anche senza il processo formale del Sinedrio. Questo potere è necessario perché senza di esso, l'ordine sociale crollerebbe. Il re non può condannare per piacere personale — solo per il bene del regno. Le leggi del re sono distinte dalle leggi del Sinedrio: il Sinedrio applica la legge biblica formale; il re applica il diritto governativo (dinat malkhut) per le esigenze della società."
+    },
+    {
+      "n": "25:1-5",
+      "he": "הַמַּלְקוֹת — כֵּיצַד שׁוֹעֲרִין כֹּחוֹ...",
+      "it": "(Sanhedrin cap. 25, hal. 1-5) La valutazione medica prima della fustigazione: i medici del beit din valutano quanti colpi può sopportare il condannato. Se stimano che possa sopportarne trenta, vengono inflitti trenta (non trenta-nove). Alla fine si riesamina: se può sopportarne altri — si aggiungono, fino al massimo di trenta-nove. Se il condannato muore durante la fustigazione perché il beit din ha sovrastimato la sua capacità — i giudici sono esenti da responsabilità, poiché hanno agito in buona fede. Chanukah 6: sei candele — sei ore di luce Chanukah ogni sera, simbolo dell'espansione graduale della luce."
+    },
+    {
+      "n": "26:1-4",
+      "he": "סִיּוּם הִלְכוֹת סַנְהֶדְרִין...",
+      "it": "(Sanhedrin cap. 26, hal. 1-4) Conclusione delle leggi del Sinedrio: un riepilogo dei principi della pena ebraica — sekilah, sereifah, hereg, chenek, malkot. Il principio unificante: tutte le pene servono tre scopi: (1) kapparah (espiazione) per il colpevole, (2) hatzalah (protezione) della società, (3) mora (deterrenza) per i potenziali trasgressori. Non vi è crudeltà gratuita nel sistema punitivo ebraico. «Si concludono le Leggi del Sinedrio e delle Pene con l'aiuto del Cielo.»"
+    }
+  ],
+  "_glossary_terms_used": [
+    "dinat ha-melech", "Sanhedrin", "dinat malkhut", "malkot", "beit din", "sekilah", "sereifah", "hereg", "chenek", "kapparah", "hatzalah", "mora"
+  ]
+}

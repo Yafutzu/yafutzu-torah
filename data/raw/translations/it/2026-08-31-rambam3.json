@@ -1,0 +1,67 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shaar Avot HaTumah 8-10",
+  "name_he": "משנה תורה, הלכות שאר אבות הטומאות, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi degli Altri Fonti Primarie di Impurità, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-08-31",
+  "hebrew_date": "18 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "עם הארץ — הוא מי שאינו נאמן על הטהרות. ולכן יש חשש שאינו מדקדק בנגיעות ובהכשרים. ומכירתו של עם הארץ — טעונה בדיקה.",
+      "it": "L'am ha'aretz (letteralmente: 'il popolo della terra') — è colui che non è affidabile riguardo alle leggi della purità (taharot). Vi è quindi il timore che non sia diligente nei tocchi e nelle preparazioni (heksherim). I suoi prodotti — richiedono verifica. Nota: il diciotto di Elul (Chai Elul) è il giorno del compleanno del Baal Shem Tov (1698) e dell'Alter Rebbe (1745), autore della Tanya, fondatore di Chabad."
+    },
+    {
+      "n": "8:2",
+      "he": "פירות שנקנו מעם הארץ — חזקתם שלא הוכשרו. ולכן אין בהם טומאה עד שיוכשרו במשקה.",
+      "it": "I frutti acquistati da un am ha'aretz — la loro presunzione (chazakah) è che non siano stati resi idonei a ricevere l'impurità. Pertanto non sono impuri fino a quando non vengano resi idonei da un liquido."
+    },
+    {
+      "n": "8:3",
+      "he": "חבר — הוא שנאמן על הטהרות. כלים שנגע בהם חבר — בחזקת טהרה.",
+      "it": "Il chaver — è colui che è affidabile riguardo alle taharot. Gli utensili che un chaver ha toccato — sono presunti puri."
+    },
+    {
+      "n": "9:1",
+      "he": "ספק טומאה ברשות הרבים — טהור. ספק טומאה ברשות היחיד — טמא.",
+      "it": "Dubbio di impurità nel dominio pubblico (reshut harabim) — puro. Dubbio di impurità nel dominio privato (reshut hayachid) — impuro."
+    },
+    {
+      "n": "9:2",
+      "he": "מנין הדין הזה? מ'סוטה' — שנאמר שם שספק ברשות היחיד — מחמירים.",
+      "it": "Da dove deriva questa legge? Dalla sotah — dove è detto che il dubbio nel dominio privato — si è severi."
+    },
+    {
+      "n": "9:3",
+      "he": "רשות הרבים — מקום שרבים מצויים בו. רשות היחיד — מקום שאינו מצוי בו אלא מעט אנשים.",
+      "it": "Il reshut harabim (dominio pubblico) — è un luogo frequentato da molte persone. Il reshut hayachid (dominio privato) — è un luogo frequentato da poche persone."
+    },
+    {
+      "n": "9:4",
+      "he": "כיצד? נגע בדבר ואינו יודע אם היה טמא או טהור — אם ברשות הרבים — טהור. ברשות היחיד — טמא.",
+      "it": "Come? Se toccò qualcosa e non sa se era impuro o puro — se era nel reshut harabim — puro. Se era nel reshut hayachid — impuro."
+    },
+    {
+      "n": "10:1",
+      "he": "הכלל הגדול בטומאה: שלשה דרגות — אב הטומאה, ראשון לטומאה, שני לטומאה.",
+      "it": "La grande regola nell'impurità: tre gradi — av hatumah (fonte primaria d'impurità), rishon letumah (primo grado d'impurità), sheni letumah (secondo grado d'impurità)."
+    },
+    {
+      "n": "10:2",
+      "he": "אב הטומאה — מטמא אדם וכלים. ראשון לטומאה — מטמא אוכלים ומשקים. שני — מטמא אוכלים בלבד.",
+      "it": "L'av hatumah — rende impuri persone e utensili. Il rishon letumah — rende impuri cibi e liquidi. Il sheni — rende impuri solo cibi."
+    },
+    {
+      "n": "10:3",
+      "he": "קדשים — יש בהם דרגה נוספת: שלישי לטומאה — פוסל את הקדשים.",
+      "it": "Le cose sacre (kodashim) — hanno un grado aggiuntivo: il shlishi letumah (terzo grado) — invalida i kodashim."
+    },
+    {
+      "n": "10:4",
+      "he": "תרומה — פוסל בשני. חולין — פוסל בראשון בלבד. ואלו הן עיקרי הלכות הטומאה בקצרה.",
+      "it": "La terumah (offerta sacerdotale) — viene invalidata dal secondo grado. Il cibo ordinario (chullin) — viene invalidato solo dal primo grado. Questi sono i principi fondamentali delle leggi dell'impurità in breve."
+    }
+  ],
+  "_glossary_terms_used": ["am ha'aretz", "taharot", "heksherim", "chazakah", "chaver", "reshut harabim", "reshut hayachid", "sotah", "av hatumah", "rishon letumah", "sheni letumah", "kodashim", "shlishi letumah", "terumah", "chullin", "Chai Elul", "Baal Shem Tov", "Alter Rebbe"]
+}

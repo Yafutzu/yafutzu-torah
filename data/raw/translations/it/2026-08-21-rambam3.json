@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Tzara'at 2-4",
+  "name_he": "משנה תורה, הלכות טומאת צרעת, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità della Tzara'at, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-08-21",
+  "hebrew_date": "8 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "שלשה סימני נגעי עור הם: בהרת — לובן עז מאוד, כצמר. שאת — לובן כצבע קרום ביצה. ספחת — לובן קל מהם.",
+      "it": "Tre sono i segni delle afflizioni cutanee (nega'ei or): baheret — una macchia di biancore intenso, bianco come la lana. Se'et — biancore come il colore della membrana dell'uovo. Sapachat — un biancore più tenue degli altri due."
+    },
+    {
+      "n": "2:2",
+      "he": "שיעור הנגע — לא פחות מגריס. הגריס הוא כשישה עשר גרגרים של שעורה.",
+      "it": "La dimensione minima dell'afflizione — non inferiore a un gris (una misura). Il gris equivale a sedici chicchi d'orzo (circa 1 centimetro quadrato)."
+    },
+    {
+      "n": "2:3",
+      "he": "בתוך הנגע — מסתכל הכהן בשני סימני טומאה נוספים: שיער לבן שנהפך בתוך הנגע, ומחיה — עור בריא בתוך הנגע.",
+      "it": "All'interno dell'afflizione — il Kohen esamina due ulteriori segni di impurità: capelli bianchi che si sono trasformati all'interno dell'afflizione, e michyah — pelle sana all'interno dell'afflizione."
+    },
+    {
+      "n": "3:1",
+      "he": "רק הכהן קובע טומאה וטהרה בנגעי עור. אפילו תלמיד חכם שאינו כהן — אינו רשאי לקבוע.",
+      "it": "Solo il Kohen stabilisce impurità e purità nelle afflizioni cutanee. Anche un talmid chakham (studioso di Torah) che non è un Kohen — non ha il diritto di stabilirlo."
+    },
+    {
+      "n": "3:2",
+      "he": "הכהן שהוא עצמו מוכה נגע — אינו יכול לקבוע בנגעו שלו. כהן אחר רואה בנגעו.",
+      "it": "Il Kohen che è egli stesso afflitto da un nega — non può stabilire il giudizio sulla propria afflizione. Un altro Kohen esamina la sua afflizione."
+    },
+    {
+      "n": "3:3",
+      "he": "ראה הכהן נגע וטמאו — הרי הוא טמא. ראה וטיהרו — הרי הוא טהור. אפילו אם לא הסתכל כהלכה — דבריו קיימים.",
+      "it": "Se il Kohen vide l'afflizione e la dichiarò impura — è impura. Se la vide e la dichiarò pura — è pura. Anche se non esaminò correttamente — le sue parole sono valide."
+    },
+    {
+      "n": "3:4",
+      "he": "הסגר — שאינו קובע לא טומאה ולא טהרה — מחמת שהנגע עדיין ספק.",
+      "it": "L'hesger (quarantena) — si applica quando non si può stabilire né impurità né purità — perché l'afflizione è ancora dubbiosa."
+    },
+    {
+      "n": "4:1",
+      "he": "נסגר שבוע אחד — חוזר הכהן ורואה אותו. אם פשה הנגע — טמא. אם לא פשה — נסגר שבוע שני.",
+      "it": "Se fu messo in quarantena una settimana — il Kohen ritorna a esaminarlo. Se l'afflizione si è espansa — è impuro. Se non si è espansa — viene messo in quarantena una seconda settimana."
+    },
+    {
+      "n": "4:2",
+      "he": "שבוע שני — חוזר הכהן. אם פשה — טמא. אם כהה — טהור. אם לא פשה ולא כהה — טהור ומגלח.",
+      "it": "Seconda settimana — il Kohen ritorna. Se l'afflizione si è espansa — è impuro. Se è diminuita di intensità (kahah) — è puro. Se non si è espansa né diminuita — è puro e si rade."
+    },
+    {
+      "n": "4:3",
+      "he": "הסגר שני שגמר — טהר מנגע זה. אבל אם חזר הנגע — טמא.",
+      "it": "Se la seconda quarantena è terminata — è purificato da questa afflizione. Ma se l'afflizione ritorna — è impuro."
+    },
+    {
+      "n": "4:4",
+      "he": "פשה הנגע בשבוע ראשון — מטמאו הכהן מיד, ואין נסגר.",
+      "it": "Se l'afflizione si è espansa nella prima settimana — il Kohen lo dichiara impuro immediatamente, e non viene messo in quarantena."
+    },
+    {
+      "n": "4:5",
+      "he": "ראה הכהן נגע שיש בו שיער לבן — מטמאו מיד בלא הסגר.",
+      "it": "Se il Kohen vide un'afflizione che contiene capelli bianchi — lo dichiara impuro immediatamente, senza quarantena."
+    }
+  ],
+  "_glossary_terms_used": ["nega'ei or", "baheret", "se'et", "sapachat", "gris", "Kohen", "michyah", "talmid chakham", "nega", "hesger", "kahah"]
+}

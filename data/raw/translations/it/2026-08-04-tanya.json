@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 28",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כח",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 28",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-04",
+  "hebrew_date": "21 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "השמחה האמיתית בעבודת ה' באה מן הדעת — מן ההכרה הפנימית שנשמתו של כל יהודי היא 'חלק אלוה ממעל'. כי 'אני לא ידעתי' מדבר בנשמה שאינה מרגישה את שורשה, ואילו 'וכבודי לאחר לא אתן' — הבורא אינו מוסר את כבודו לאחרים.",
+      "it": "La vera gioia nel servizio di D-o deriva dalla da'at (conoscenza interiore) — dal riconoscimento profondo che l'anima di ogni ebreo è 'una parte di D-o dall'alto' (chelek Eloa mi-ma'al). Perché chi non sente le proprie radici non può gioire; ma il Creatore non cede la Sua gloria ad altri, e quindi la neshama rimane sempre connessa a Lui."
+    },
+    {
+      "n": 2,
+      "he": "כשאדם מכיר בדעת שנשמתו היא חלק מה' — ממילא מגיעה אליו שמחה עמוקה ואמיתית. לא שמחה של הרגש בלבד, אלא שמחה שמשורשת בהכרה. ו'הדעת' הזאת אינה רק ידיעה שכלית — אלא התמזגות הנפש עם האמת שהיא מכירה.",
+      "it": "Quando una persona riconosce con da'at che la propria anima è parte di D-o, arriva naturalmente una gioia profonda e autentica. Non solo una gioia emotiva, ma una gioia radicata nella conoscenza. Questa 'da'at' non è solo conoscenza intellettuale — è la fusione dell'anima con la verità che essa riconosce."
+    },
+    {
+      "n": 3,
+      "he": "לפיכך, הדרך המעשית להגיע לשמחה היא ההתבוננות: לשבת ולהתבונן בגדולת ה' ובעצמות הנשמה — שהיא אכן חלק מן הגדולה ההיא. וכאשר ה'דעת' חזקה — השמחה חזקה גם כן, ואז ניתן לעבוד את ה' כראוי.",
+      "it": "Pertanto, la via pratica per raggiungere la gioia è la hitbonenut (contemplazione): sedersi e meditare sulla grandezza di D-o e sull'essenza dell'anima — che essa è effettivamente una parte di quella grandezza. Quando la da'at è forte, anche la simchah è forte, e allora è possibile servire D-o nel modo dovuto."
+    }
+  ],
+  "_glossary_terms_used": ["da'at", "chelek Eloa mi-ma'al", "neshama", "hitbonenut", "simchah"]
+}

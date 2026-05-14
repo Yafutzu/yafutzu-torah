@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 6",
+  "name_he": "אגרת התשובה פרק ו'",
+  "name_it": "Lettera della Teshuvah, Capitolo 6",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-06",
+  "hebrew_date": "21 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "עַתָּה יֵשׁ לְהָבִין עִנְיַן תְּשׁוּבָה עִילָּאָה",
+      "it": "Il Baal HaTanya introduce il concetto di teshuvah ila'ah (תְּשׁוּבָה עִילָּאָה — teshuvah superiore), che è di natura completamente diversa dalla teshuvah tachtonah. La teshuvah ila'ah non è una risposta a peccati specifici ma è il ritorno dell'anima alla sua fonte più alta — la Sefirah di Binah (בִּינָה — Comprensione Divina), chiamata anche 'Imma Ila'ah' (אִמָּא עִילָּאָה — la Madre Superiore)."
+    },
+    {
+      "n": 2,
+      "he": "וְזֶהוּ עִנְיַן שַׁבָּת שֶׁנִּקְרָא תְּשׁוּבָה",
+      "it": "Il Baal HaTanya rivela un insegnamento profondo: lo Shabbat stesso è chiamato teshuvah ila'ah. Ciò perché Shabbat corrisponde alla Sefirah di Binah, che è la fonte del ritorno. In Shabbat, tutta la realtà 'ritorna' alla sua radice in Binah. Questa è la ragione mistica per cui Shabbat ha la forza di espiare i peccati — non attraverso il pentimento attivo ma attraverso il semplice atto del ritorno alla fonte. Lo Shabbat eleva i sei giorni della settimana (che corrispondono alle sei Sefirot inferiori, i Za, זְעֵיר אַנְפִּין) a Binah."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ שֶׁכָּתוּב וָאָשׁוּב",
+      "it": "La teshuvah ila'ah si realizza attraverso la dveikut (דְּבֵקוּת — attaccamento) totale a Dio mediante la Torah e la preghiera, specialmente di Shabbat. Non richiede esplicitamente il pentimento per peccati passati (anche se questo rimane necessario nella teshuvah tachtonah) ma è un atto di ascesa positiva all'Origine. Il Baal HaTanya cita il Zohar: 'Teshuvah è Binah' — il ritorno alla comprensione primordiale dell'Unità Divina, prima che l'anima scendesse nel mondo della molteplicità. Praticare la dveikut di Shabbat è quindi la forma più alta di teshuvah."
+    }
+  ],
+  "_glossary_terms_used": ["teshuvah ila'ah", "teshuvah tachtonah", "Binah", "Imma Ila'ah", "Sefirot", "Za", "Zeir Anpin", "dveikut", "Zohar", "teshuvah"]
+}

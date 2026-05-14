@@ -1,0 +1,26 @@
+{
+  "ref": "Tanya, Part I; Likkutei Amarim 52:5-6",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נב",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 52 (segmenti 5-6)",
+  "cycle": "tanya-yomi",
+  "date": "2026-05-14",
+  "hebrew_date": "27 Iyyar 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 5,
+      "he": "אֲבָל הַשְּׁכִינָה עַצְמָהּ, שֶׁהִיא רֵאשִׁית הַגִּילּוּי וְעִיקָּרוֹ, מַה שֶּׁאֵין כֵּן בַּנְּשָׁמָה…",
+      "it": "La Shekhinà stessa, che è il principio e il nucleo della manifestazione — diversamente dall'anima — non può manifestarsi e risiedere nei mondi se non rivestendosi di «vestimenti» (levushìm) e celarsi in essi affinché i mondi possano ricevere la sua luce e la sua vitalità senza annullarsi. Poiché, per via di paragone, a causa della grandezza della luce dell'Ein Sof Baruch Hu che emana dalla Shekhinà, le creature non potrebbero sopportare e ricevere [tale luce] se non tramite vestimenti e contrazioni (tzimtzumìm)."
+    },
+    {
+      "n": 6,
+      "he": "וּמַהוּ הַלְּבוּשׁ שֶׁיּוּכַל לְהַסְתִּירָהּ וּלְהַלְבִּישָׁהּ, וְלֹא יִתְבַּטֵּל בְּאוֹרָהּ…",
+      "it": "Qual è il vestimento che riesce a celarla e a rivestirla senza annullarsi nella sua luce? È la saggezza superiore (chochmà ilaà) dell'Atzilùt — che si chiama «il nascosto di tutti i nascosti» (satim de-khol satimìn), perché la chochmà è di per sé nascosta rispetto alla binà, poiché la binà ne è la manifestazione. Attraverso questo vestimento la Shekhinà discende dall'Atzilùt alla Berià e alla Yetzirà e all'Asiyà, rivestendosi in ogni mondo di vestimenti sempre più densi — secondo la struttura dei mondi che scendono a gradini — finché il mondo di Asiyà in basso è il luogo del «Santo dei Santi» (kodesh ha-kodashìm) in cui la Shekhinà dimora con tutti i suoi vestimenti che la occultano."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Shekhinà", "levushìm", "Ein Sof", "tzimtzumìm", "chochmà", "binà",
+    "Atzilùt", "Berià", "Yetzirà", "Asiyà", "kodesh ha-kodashìm"
+  ]
+}

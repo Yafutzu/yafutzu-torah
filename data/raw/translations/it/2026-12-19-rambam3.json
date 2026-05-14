@@ -1,0 +1,35 @@
+{
+  "ref": "Mishneh Torah, Mamrim 6-7; Evel 1",
+  "name_he": "משנה תורה, הלכות ממרים פרקים ו-ז; הלכות אבל פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Ribelli capitoli 6-7; Leggi del Lutto capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-12-19",
+  "hebrew_date": "10 Tevet 5787",
+  "special_day": "Asarah B'Tevet — digiuno minore dall'alba al calar della notte",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Mamrim 6:1-5",
+      "he": "כִּבּוּד אָב וָאֵם — גַּם כְּשֶׁהַהוֹרִים שׁוֹגִים…",
+      "it": "(Mamrim cap. 6, hal. 1-5) L'onore verso i genitori si estende anche a situazioni difficili: se il padre o la madre sono affetti da demenza senile, il figlio deve trattarli con pazienza e compassione. Se il padre comanda qualcosa che contrasta con la Torah — non si obbedisce al padre, ma non lo si umilia neanche. La massima: «Grande è l'onore verso i genitori — D-o lo ha equiparato all'onore verso Se stesso.» Oggi, Asarah B'Tevet, digiuniamo perché Gerusalemme — la madre di tutto Israele — fu assediata. Come un figlio che piange per la madre, piangiamo per la città santa."
+    },
+    {
+      "n": "Mamrim 7:1-3",
+      "he": "סִיּוּם הִלְכּוֹת מַמְרִים — שַׁלְשֶׁלֶת הַמָּסוֹרָה…",
+      "it": "(Mamrim cap. 7, hal. 1-3) Le ultime halachot dei Ribelli trattano del rispetto verso i maestri di Torah: onorare il proprio rav (maestro) è quasi equiparato all'onore verso i genitori. La connessione con Asarah B'Tevet: l'assedio di Gerusalemme spezzò per un periodo la catena della trasmissione fisica — il Tempio cadde, il Sinedrio si disperse. Eppure la catena della Torah rimase intatta perché è interna: ogni maestro che trasmette al discepolo porta avanti la tradizione di Mosè. «Si concludono le Leggi dei Ribelli con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "Evel 1:1-4",
+      "he": "מִצְוַת הָאֲנִינוּת וְהָאֲבֵלוּת — עַל שִׁבְעָה קְרוֹבִים…",
+      "it": "(Evel cap. 1, hal. 1-4) Le Leggi del Lutto (Hilchot Evel) iniziano con la definizione dei sette parenti per cui si è obbligati a fare lutto: padre, madre, figlio, figlia, fratello, sorella, e coniuge. Il giorno della morte stessa è il giorno dell'aninut (lutto acuto pre-sepoltura): il dolente è esente da tutti i commandamenti positivi durante l'aninut, perché la sua unica missione è prendersi cura del defunto. La connessione con Asarah B'Tevet: anche il lutto per il Tempio (avel Tziyon) è reale — Gerusalemme è la «sorella» di ogni anima ebraica, e la sua perdita richiede lutto autentico."
+    },
+    {
+      "n": "Evel 1:5-9",
+      "he": "הַקְּבוּרָה — מִצְוַת עֲשֵׂה מִן הַתּוֹרָה…",
+      "it": "(Evel cap. 1, hal. 5-9) La sepoltura è un comandamento positivo biblico: «lo tikveru» — «seppellire lo seppellirai» (Deuteronomio 21:23). Il defunto va sepolto prima del tramonto del giorno della morte, se possibile. Il ritardo intenzionale della sepoltura (bal telin) è proibito. Il rispetto per il defunto (kavod ha-met) richiede che il corpo non resti insepolto. La tradizione ebraica tratta il corpo con rispetto anche dopo la morte, perché il corpo è stato il veicolo dell'anima e partner nell'adempimento dei commandamenti."
+    }
+  ],
+  "_glossary_terms_used": [
+    "aninut", "avelut", "kavod ha-met", "bal telin", "Asarah B'Tevet", "Masorah", "avel Tziyon", "kibbud av va'em"
+  ]
+}

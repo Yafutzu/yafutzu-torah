@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 5",
+  "name_he": "אגרת התשובה פרק ה'",
+  "name_it": "Lettera della Teshuvah, Capitolo 5",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-05",
+  "hebrew_date": "20 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "עִנְיַן הַתְּשׁוּבָה עַל עֲוֹנוֹת הַלָּשׁוֹן",
+      "it": "Il Baal HaTanya si occupa in questo capitolo della teshuvah per i peccati della lingua (avonot halashon, עֲוֹנוֹת הַלָּשׁוֹן). La lingua è l'organo più pericoloso spiritualmente poiché può causare danni immensi e irreversibili agli altri. I principali peccati della lingua trattati sono: lashon hara (לָשׁוֹן הָרָע — parola malevola/calunnia), sheker (שֶׁקֶר — menzogna), e shvu'at shav (שְׁבוּעַת שָׁוְא — giuramento vano)."
+    },
+    {
+      "n": 2,
+      "he": "וְהִנֵּה עִיקַר הַתְּשׁוּבָה עַל לָשׁוֹן הָרָע",
+      "it": "La teshuvah per il lashon hara richiede non solo il pentimento interiore ma anche la riparazione del danno esterno: se si è diffamata una persona, bisogna riconciliarsi con lei e, se possibile, riparare la sua reputazione. Il Baal HaTanya sottolinea che il lashon hara costituisce una delle trasgressioni più gravi — equivale secondo i Saggi a tre peccati capitali insieme — perché colpisce la Tzelem Elohim (צֶלֶם אֱלֹהִים — immagine divina) nell'altro essere umano. La teshuvah richiede: 1) cessare il lashon hara, 2) riconciliarsi con la persona offesa, 3) fare teshuvah davanti a Dio."
+    },
+    {
+      "n": 3,
+      "he": "וְכֵן עַל הַשְּׁבוּעוֹת",
+      "it": "Per i giuramenti vani (shvuot shav) e le menzogne, la teshuvah richiede una scrupolosa attenzione alla veridicità futura. Il Baal HaTanya spiega il ruolo unico della lingua: mentre altri organi eseguono azioni fisiche che si completano nel tempo, la parola detta rimane nell'aria spirituale e continua ad agire sulle Sefirot superiori. Pertanto la teshuvah per i peccati della lingua include una tutela speciale (shmirat halashon, שְׁמִירַת הַלָּשׁוֹן — guardia della lingua) come misura preventiva permanente, andando oltre il semplice pentimento per il passato."
+    }
+  ],
+  "_glossary_terms_used": ["avonot halashon", "lashon hara", "sheker", "shvu'at shav", "Tzelem Elohim", "shvuot shav", "shmirat halashon", "Sefirot", "teshuvah"]
+}

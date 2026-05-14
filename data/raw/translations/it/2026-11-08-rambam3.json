@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Sechirut 6-8",
+  "name_he": "משנה תורה, הלכות שכירות, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi della Locazione, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-11-08",
+  "hebrew_date": "28 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "6:1-4",
+      "he": "הַשּׂוֹכֵר בְּהֵמָה — אִם מֵתָה בְּאֹנֶס — פָּטוּר…",
+      "it": "(Sechirut cap. 6, hal. 1-4) Chi noleggia un animale da lavoro: se l'animale muore per cause di forza maggiore (ones — accidente imprevedibile) durante l'uso normale — il locatario è esente dal pagamento del valore. Ma se l'animale muore per negligenza del locatario o per uso improprio (ad esempio usando il bue per un lavoro per cui non era stato noleggiato) — il locatario deve pagare il valore completo dell'animale. Il locatario non ha il diritto di sub-locazione senza il consenso del proprietario."
+    },
+    {
+      "n": "6:5-8",
+      "he": "הַשּׂוֹכֵר בַּיִת — זְמַן הַשְּׂכִירוּת וְחוֹבוֹתָיו…",
+      "it": "(Sechirut cap. 6, hal. 5-8) Chi affitta una casa: il termine di locazione viene determinato dal contratto. Al termine del contratto, il locatario deve lasciare la casa. Il locatario è responsabile per i danni che causa alla proprietà durante il periodo di locazione. Riparazioni ordinarie (bala'ut — usura normale) sono a carico del locatario; riparazioni straordinarie (tikkun gadol — riparazione maggiore) sono a carico del proprietario. Se la casa diventa inabitabile per cause indipendenti dal locatario — può rescindere il contratto senza penale."
+    },
+    {
+      "n": "7:1-4",
+      "he": "קַבְּלָנוּת — הַמְקַבֵּל שָׂדֶה לְעָבְדוֹ…",
+      "it": "(Sechirut cap. 7, hal. 1-4) Il contratto di appalto (kablanut): a differenza del lavoratore dipendente (po'el) che è pagato per il tempo lavorato, il kablan (appaltatore) è pagato per il risultato finale del lavoro. Il kablan si obbliga a consegnare un prodotto o completare un lavoro a prezzo fisso — prende rischi: se il lavoro richiede più tempo o materiali del previsto, il costo extra è a suo carico. Ma se il lavoro va storto per colpa del committente — il kablan ha diritto alla tariffa concordata."
+    },
+    {
+      "n": "8:1-4",
+      "he": "הַחַיָּט שֶׁחָבַל בַּבֶּגֶד — חַיָּב…",
+      "it": "(Sechirut cap. 8, hal. 1-4) Il sarto (chayyat) che danneggia un indumento durante la lavorazione: è responsabile come kablan per i danni causati. La responsabilità dell'artigiano (uman) per i beni affidatigli per lavorazione è maggiore di quella del semplice custode — poiché l'artigiano ha un certo «shlichut» (missione) rispetto all'oggetto e il cliente si aspetta che lo protegga adeguatamente. Un uman che consegna un lavoro difettoso deve correggerlo gratuitamente o risarcire il committente per il lavoro non conforme alle specifiche concordate."
+    }
+  ],
+  "_glossary_terms_used": [
+    "socher", "ones", "bala'ut", "tikkun gadol", "kablanut", "kablan", "po'el", "chayyat", "uman", "shlichut"
+  ]
+}

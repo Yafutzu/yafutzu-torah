@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Okhalin 12-14",
+  "name_he": "משנה תורה, הלכות טומאת אוכלין, פרקים יב-יד",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità dei Cibi, capitoli 12-14",
+  "cycle": "rambam-3",
+  "date": "2026-09-08",
+  "hebrew_date": "26 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "12:1", "he": "סָפֵק טֻמְאָה בִּרְשׁוּת הָרַבִּים — טָהוֹר. בִּרְשׁוּת הַיָּחִיד — טָמֵא.", "it": "Dubbio di impurità nel dominio pubblico — è puro. Nel dominio privato — è impuro."},
+    {"n": "12:2", "he": "סָפֵק אָכַל טָמֵא — תָּלוּי בָּמָּקוֹם. בִּרְשׁוּת הָרַבִּים — פָּטוּר. בִּרְשׁוּת הַיָּחִיד — חַיָּב.", "it": "Dubbio se ha mangiato cibo impuro — dipende dal luogo. Nel dominio pubblico — è esente. Nel dominio privato — è obbligato."},
+    {"n": "12:3", "he": "זֶה הוּא כְּלַל הַסָּפֵק — בָּא מִן הַתַּלְמוּד לְהַקֵּל בִּרְשׁוּת הָרַבִּים.", "it": "Questa è la regola generale del dubbio — viene dal Talmud per essere indulgente nel dominio pubblico."},
+    {"n": "13:1", "he": "כֵּלִים טְמֵאִים וְהָאֹכֶל שֶׁבְּתוֹכָם — הַכְּלִי מְטַמֵּא אֶת מַה שֶּׁבְּתוֹכוֹ בְּחִינַת 'תּוֹךְ'.", "it": "I vasi impuri e il cibo al loro interno — il vaso rende impuro ciò che è al suo interno nell'aspetto dell'interno."},
+    {"n": "13:2", "he": "כְּלִי חֶרֶשׂ — מְטַמֵּא מֵאֲוִירוֹ. כְּלֵי שְׁאָר הַחֹמֶר — מְטַמְּאִין בְּמַגָּע.", "it": "Il vaso di argilla — rende impuro dall'aria al suo interno. I vasi di altri materiali — rendono impuro tramite il tocco."},
+    {"n": "13:3", "he": "אֹכֶל שֶׁבְּתוֹךְ כְּלִי טָמֵא — אָסוּר לְהַנִּיחוֹ שָׁם, שֶׁמָּא יִטָּמֵא.", "it": "Il cibo all'interno di un vaso impuro — è proibito lasciarlo lì, affinché non diventi impuro."},
+    {"n": "14:1", "he": "דָּגִים — מְקַבְּלִים טֻמְאָה כְּשֶׁנִּצּוּדוּ. חַיָּה וּבְהֵמָה — מְקַבְּלִים טֻמְאָה מִשֶּׁנִּשְׁחֲטוּ.", "it": "I pesci — ricevono impurità da quando sono stati pescati. Gli animali selvatici e il bestiame — ricevono impurità da quando sono stati macellati."},
+    {"n": "14:2", "he": "בָּשָׂר נִי״ב — מְקַבֵּל טֻמְאָה כְּשֶׁנִּפְרַד מִן הַחַיָּה הַמְּחֻבֶּרֶת.", "it": "La carne tagliata — riceve impurità quando è stata separata dall'animale vivo."},
+    {"n": "14:3", "he": "אֳכָלִין שֶׁנִּזְכְּרוּ בַּמִּשְׁנָה — כָּל אֶחָד מֵהֶם יֵשׁ שִׁיעוּר מְסֻיָּם וְדֶרֶךְ מְסֻיֶּמֶת לְקַבֵּל טֻמְאָה.", "it": "I cibi menzionati nella Mishnah — ognuno di essi ha un quantitativo definito e un modo definito per ricevere impurità."}
+  ],
+  "_glossary_terms_used": ["safek", "reshut harabim", "reshut hayachid", "kli cheres", "tum'ah"]
+}

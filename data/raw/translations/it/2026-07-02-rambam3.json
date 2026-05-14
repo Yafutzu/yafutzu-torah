@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Beit HaBechira 8; Hilchot Klei HaMikdash 1-2",
+  "name_he": "משנה תורה, הלכות בית הבחירה פרק ח; הלכות כלי המקדש פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi della Casa Prescelta cap.8; Leggi dei Vasi del Santuario cap.1-2",
+  "cycle": "rambam-3",
+  "date": "2026-07-02",
+  "hebrew_date": "17 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "מִצְוַת עֲשֵׂה לִבְנוֹת בֵּית הַמִּקְדָּשׁ בְּכָל דּוֹר וָדוֹר שֶׁיַּד יִשְׂרָאֵל תְּקֵיפָה.",
+      "it": "Vi è un comandamento positivo di costruire il Tempio in ogni generazione in cui Israele ha la forza."
+    },
+    {
+      "n": "8:2",
+      "he": "הַמֶּלֶךְ חַיָּב לִבְנוֹת אֶת הַמִּקְדָּשׁ. אִם אֵין מֶלֶךְ — חוֹבָה עַל הַצִּבּוּר.",
+      "it": "Il re è obbligato a costruire il Tempio. Se non vi è re — l'obbligo ricade sulla comunità."
+    },
+    {
+      "n": "8:3",
+      "he": "סִיּוּם: סִי קוֹנְקְלוּדוֹנוֹ לֶה לֶגִּי דֶלָּה קָאזָה פְּרֶסְשֶׁלְטָה.",
+      "it": "Si concludono le Leggi della Casa Prescelta (Hilchot Beit HaBechira)."
+    },
+    {
+      "n": "1:1",
+      "he": "כְּלֵי הַמִּקְדָּשׁ: הָאָרוֹן, הַשֻּׁלְחָן, הַמְּנוֹרָה, מִזְבַּח הַזָּהָב, מִזְבַּח הַנְּחֹשֶׁת, כִּיּוֹר וְכַנּוֹ.",
+      "it": "I vasi del Santuario: l'Arca (Aron), il Tavolo dei Pani (Shulchan), la Menorah, l'Altare d'Oro (Mizbach HaZahav), l'Altare di Rame (Mizbach HaNechoshet), il bacino (kiyyor) e la sua base."
+    },
+    {
+      "n": "1:2",
+      "he": "הָאָרוֹן — נַעֲשָׂה מֵעֲצֵי שִׁטִּים, מְצֻפֶּה זָהָב מִבַּיִת וּמִבַּחוּץ. אָרְכּוֹ שְׁנַיִם וָחֵצִי אַמּוֹת, רָחְבּוֹ אַמָּה וָחֵצִי, קוֹמָתוֹ אַמָּה וָחֵצִי.",
+      "it": "L'Arca — era fatta di legno di acacia, rivestita d'oro all'interno e all'esterno. La sua lunghezza era di due cubiti e mezzo, la sua larghezza di un cubito e mezzo, la sua altezza di un cubito e mezzo."
+    },
+    {
+      "n": "1:3",
+      "he": "הַשֻּׁלְחָן — נַעֲשָׂה מֵעֲצֵי שִׁטִּים, מְצֻפֶּה זָהָב. אָרְכּוֹ שְׁתַּיִם אַמּוֹת, רָחְבּוֹ אַמָּה, קוֹמָתוֹ אַמָּה וָחֵצִי.",
+      "it": "Il Tavolo dei Pani — era fatto di legno di acacia, rivestito d'oro. La sua lunghezza era di due cubiti, la sua larghezza di un cubito, la sua altezza di un cubito e mezzo."
+    },
+    {
+      "n": "2:1",
+      "he": "הַמְּנוֹרָה — נַעֲשֵׂית מִקֶּשֶׁת זָהָב טָהוֹר. כָּל הַמְּנוֹרָה כֻּלָּהּ נַעֲשֵׂית מִגּוּשׁ אֶחָד שֶׁל זָהָב.",
+      "it": "La Menorah — era fatta di oro puro sbalzato (mikshah). Tutta la Menorah era fatta di un unico pezzo d'oro."
+    },
+    {
+      "n": "2:2",
+      "he": "גֹּבַהּ הַמְּנוֹרָה — שְׁמוֹנֶה עֶשְׂרֵה טְפָחִים. שִׁבְעָה קָנִים — קָנֶה הָאֶמְצָעִי וְשִׁשָּׁה קָנִים מִצְּדָדֶיהָ.",
+      "it": "L'altezza della Menorah — diciotto spanne (tefachim). Sette bracci — il braccio centrale e sei bracci laterali."
+    },
+    {
+      "n": "2:3",
+      "he": "שִׁבְעָה נֵרוֹת בַּמְּנוֹרָה — כֻּלָּם מַדְלִיקִים כְּנֶגֶד הַנֵּר הָאֶמְצָעִי.",
+      "it": "Sette lampade nella Menorah — tutte erano orientate verso il candelabro centrale (il braccio del mezzo)."
+    },
+    {
+      "n": "2:4",
+      "he": "הַכֹּהֵן מַדְלִיק אֶת הַמְּנוֹרָה — בֵּין הָעַרְבַּיִם בְּכָל יוֹם.",
+      "it": "Il kohen accende la Menorah — ogni giorno al tramonto (bein ha-arbayim)."
+    },
+    {
+      "n": "2:5",
+      "he": "כָּשַׁר הַמְּנוֹרָה הָעֲשׂוּיָה מִחֲתִיכוֹת, אִם לֹא מָצְאוּ זָהָב.",
+      "it": "È idonea la Menorah fatta di pezzi, se non si trova oro [per fare una di un pezzo unico]."
+    },
+    {
+      "n": "2:6",
+      "he": "הַנֵּרוֹת — שֶׁמֶן זַיִת זָךְ בָּהֶם. הַשֶּׁמֶן כָּשֵׁר הוּא \"שֶׁמֶן זַיִת זָךְ כָּתִית לַמָּאוֹר\".",
+      "it": "Le lampade — contenevano olio di oliva puro. L'olio idoneo è «olio di oliva puro, pestato, per l'illuminazione» (Shemot 27:20)."
+    }
+  ],
+  "_glossary_terms_used": ["Beit HaMikdash", "Aron", "Shulchan", "Menorah", "Mizbach HaZahav", "Mizbach HaNechoshet", "kiyyor", "mikshah", "amah", "tefach", "bein ha-arbayim", "kohen", "Klei HaMikdash"]
+}

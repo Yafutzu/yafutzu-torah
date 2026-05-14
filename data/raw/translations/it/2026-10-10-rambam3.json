@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Rotzeach UShmirat Nefesh 5-7",
+  "name_he": "משנה תורה, הלכות רוצח ושמירת נפש, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dell'Omicidio e della Protezione della Vita, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-10-10",
+  "hebrew_date": "29 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "5:1-6",
+      "he": "הַגּוֹלֶה לְעִיר מִקְלָט — יֵשׁ לוֹ לָדוּר שָׁם…",
+      "it": "(Rotzeach UShmirat Nefesh cap. 5, hal. 1-6) L'omicida che si rifugia nella città di miklat — ha il diritto di vivere lì. La città deve accoglierlo anche se è un uomo importante — «la Torah ha protetto la sua vita». La comunità della città è tenuta a dargli lavoro e mezzi di sostentamento. Non può uscire dalla città per nessun motivo — neanche per testimoniare in un processo, neanche per una mitzvah — perché appena è fuori, il goel hadam può ucciderlo legalmente. Se il Kohen Gadol muore prima di lui — l'esilio finisce e può tornare a casa."
+    },
+    {
+      "n": "6:1-5",
+      "he": "מֵת כֹּהֵן גָּדוֹל שֶׁהָיָה בִּשְׁעַת הַרְצִיחָה — חוֹזֵר הַגּוֹלֶה…",
+      "it": "(cap. 6, hal. 1-5) Quando muore il Kohen Gadol — l'omicida accidentale può tornare alla propria città. La connessione spirituale tra l'esilio dell'omicida e la morte del Kohen Gadol: il Kohen Gadol prega quotidianamente per il benessere di Israele e per evitare tragedie — se non ha pregato abbastanza intensamente, è in parte responsabile per le disgrazie del popolo inclusi gli omicidi accidentali. La sua morte dunque «espía» (mechaper) l'omicidio accidentale. Le madri dei Kohanim Gedolim mandavano cibo e vestiti agli esiliati, affinché pregassero per la vita dei loro figli."
+    },
+    {
+      "n": "7:1-6",
+      "he": "עָרֵי הַלְּוִיִּם — כֻּלָּן עָרֵי מִקְלָט…",
+      "it": "(cap. 7, hal. 1-6) Tutte le città levitiche (48 in totale) servono come città di rifugio — non solo le sei designate specificamente. Nelle città levitiche l'omicida ha protezione dal goel hadam, ma non il privilegio speciale delle sei città principali. Le sei città principali sono speciali: vi si accoglie anche l'omicida intenzionale (temporaneamente, finché il caso viene discusso al Sanhedrin). La Torah ha scelto le città levitiche come luogo di rifugio perché i Levi'im — uomini di Torah e insegnamento — influenzerebbero positivamente il rifugiato con il loro studio e la loro condotta."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ir miklat", "goel hadam", "Kohen Gadol", "mechaper", "Levi'im", "Sanhedrin", "shogeg"
+  ]
+}

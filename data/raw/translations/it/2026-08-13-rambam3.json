@@ -1,0 +1,42 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 18-20",
+  "name_he": "משנה תורה, הלכות טומאת מת, פרקים יח-כ",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere, capitoli 18-20",
+  "cycle": "rambam-3",
+  "date": "2026-08-13",
+  "hebrew_date": "30 Av 5786",
+  "halachot_count": 11,
+  "halachot": [
+    {
+      "n": "18:1",
+      "he": "האדם שנכנס לאוהל המת ויצא — ושב ונכנס — בכל כניסה וכניסה הוא נטמא. ואין זה מוסיף על טומאתו הראשונה, אלא שהמגע והאוהל מחמירים את הטומאה לגבי דברים אחרים.",
+      "it": "La persona che è entrata nell'ohel del cadavere ed è uscita — ed è poi rientrata — ad ogni ingresso diventa nuovamente impura. Ciò non aggiunge alla sua prima impurità, ma il contatto e l'ohel aggravano l'impurità nei confronti di altre cose."
+    },
+    {
+      "n": "18:2",
+      "he": "אדם שנכנס לאוהל המת בשוגג — נטמא. בין שוגג בין מזיד — הטומאה שווה. אין טומאה תלויה בכוונה אלא במעשה.",
+      "it": "Una persona che è entrata nell'ohel del cadavere inavvertitamente (beshogeg) — è impura. Sia involontario che deliberato (bemeizid) — l'impurità è uguale. L'impurità non dipende dall'intenzione ma dall'atto."
+    },
+    {
+      "n": "19:1",
+      "he": "הקבר עצמו — מטמא באוהל. מי שנגע בגג הקבר מלמעלה — נטמא. מי שנגע בדפנות הקבר — נטמא. ואפילו לאחר שנרקב הגוף לגמרי — הקבר עדיין מטמא.",
+      "it": "La tomba (kever) stessa trasmette l'impurità per ohel. Chi tocca il soffitto della tomba dall'esterno — è impuro. Chi tocca le pareti della tomba — è impuro. Anche dopo che il corpo si è completamente decomposto — la tomba continua a trasmettere impurità."
+    },
+    {
+      "n": "19:2",
+      "he": "עצמות שנמצאות בקבר — מטמאות. ואפילו עצם אחת שנמצאת — מטמאת בגלל היותה 'עצם מן המת'. ואדם שעמד על הקבר — נטמא.",
+      "it": "Le ossa trovate nella tomba trasmettono impurità. Anche una singola osso trovato — trasmette impurità per essere 'un osso del cadavere' (etzem min ha-met). Una persona che è rimasta in piedi sopra la tomba — è impura."
+    },
+    {
+      "n": "20:1",
+      "he": "ספק טומאה בדבר המחובר לקרקע — טהור. ספק טומאה בדבר התלוש — אם ברשות הרבים — טהור; אם ברשות היחיד — טמא.",
+      "it": "In caso di dubbio riguardo all'impurità di qualcosa che è attaccato al suolo (mechubbar) — è puro. In caso di dubbio riguardo all'impurità di qualcosa staccato dal suolo (talush) — se si trova in uno spazio pubblico (reshut ha-rabbim) — è puro; se in uno spazio privato (reshut ha-yachid) — è impuro."
+    },
+    {
+      "n": "20:2",
+      "he": "כלל זה חל גם בטומאת מת: ספק טומאת מת בחלל — כמו ספק טומאה אחרת. ספק נגיעה — בחלל, ספק אוהל — בחלל. הכל לפי הכלל הנ\"ל.",
+      "it": "Questa regola si applica anche alla tumat met: il dubbio riguardo alla tumat met in uno spazio chiuso — è come qualsiasi altro dubbio di impurità. Il dubbio riguardo al contatto in spazio chiuso, il dubbio riguardo all'ohel in spazio chiuso — tutto segue la regola sopra menzionata."
+    }
+  ],
+  "_glossary_terms_used": ["ohel", "kever", "etzem min ha-met", "reshut ha-rabbim", "reshut ha-yachid", "tumat met", "beshogeg", "bemeizid"]
+}

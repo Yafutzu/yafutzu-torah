@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Okhalin 3-5",
+  "name_he": "משנה תורה, הלכות טומאת אוכלין, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità dei Cibi, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-09-05",
+  "hebrew_date": "23 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "3:1", "he": "אֹכֶל שֶׁאֵינוֹ רָאוּי לַאֲכִילָה — אֵינוֹ מְקַבֵּל טֻמְאָה. וְכֵן אֹכֶל שֶׁאֵין אַף אֶחָד אוֹכֵל אוֹתוֹ — אֵינוֹ מְקַבֵּל טֻמְאָה.", "it": "Il cibo non adatto al consumo — non riceve impurità. E così il cibo che nessuno mangia — non riceve impurità."},
+    {"n": "3:2", "he": "בִּיטּוּל דַּעַת — אִם הַבְּעָלִים בִּיטְּלוּ דַּעְתָּם מֵהָאֹכֶל וְאָמְרוּ 'אֵין בּוֹ חֵפֶץ' — אֵינוֹ מְקַבֵּל טֻמְאָה.", "it": "La rinuncia mentale — se il proprietario ha rinunciato mentalmente al cibo e ha detto 'non ho interesse in esso' — non riceve impurità."},
+    {"n": "3:3", "he": "אֹכֶל שֶׁנִּפְסַד לְגַמְרֵי — אֵינוֹ מְקַבֵּל טֻמְאָה, שֶׁאֵין אָדָם מַקְפִּיד עָלָיו.", "it": "Il cibo completamente deteriorato — non riceve impurità, poiché nessuno si preoccupa di esso."},
+    {"n": "4:1", "he": "שִׁיעוּר הָאֹכֶל לְטֻמְאָה — כְּבֵיצָה. פָּחוֹת מִכְּבֵיצָה — אֵינוֹ מִטַּמֵּא.", "it": "Il quantitativo di cibo per l'impurità — kebeitzah. Meno di kebeitzah — non diventa impuro."},
+    {"n": "4:2", "he": "צֵרוּף מַאֲכָלִין שׁוֹנִים לְכְּבֵיצָה — מִצְטָרְפִין אִם שְׁנֵיהֶם נוֹגְעִין בְּאוֹתוֹ הַטֻּמְאָה.", "it": "La combinazione di cibi diversi per formare un kebeitzah — si combinano se entrambi toccano la stessa impurità."},
+    {"n": "4:3", "he": "הַקְּלִיפָּה וְהַגַּרְעִין — הַקְּלִיפָּה הַנֶּאֱכֶלֶת מִצְטָרֶפֶת לְשִׁיעוּר. הַגַּרְעִין שֶׁאֵינוֹ נֶאֱכָל — אֵינוֹ מִצְטָרֵף.", "it": "La buccia e il nocciolo — la buccia commestibile si combina per formare il quantitativo. Il nocciolo non commestibile — non si combina."},
+    {"n": "5:1", "he": "אֹכֶל שֶׁנִּטְמָא בְּאַב הַטֻּמְאָה — נַעֲשָׂה רִאשׁוֹן לְטֻמְאָה.", "it": "Il cibo che è diventato impuro per il padre dell'impurità — diventa primo grado di impurità."},
+    {"n": "5:2", "he": "רִאשׁוֹן לְטֻמְאָה — מְטַמֵּא אֹכֶל אַחֵר לִהְיוֹת שֵׁנִי. שֵׁנִי מְטַמֵּא לִהְיוֹת שְׁלִישִׁי — רַק בִּתְרוּמָה.", "it": "Il primo grado di impurità — rende impuro altro cibo per diventare secondo grado. Il secondo rende impuro per diventare terzo — solo nella terumah."},
+    {"n": "5:3", "he": "שְׁלִישִׁי בְּחֻלִּין — אֵינוֹ מְטַמֵּא עוֹד. בִּתְרוּמָה — פָּסוּל אַךְ אֵינוֹ מְטַמֵּא.", "it": "Il terzo grado in chulin — non rende più impuro. Nella terumah — è pasul (invalido) ma non rende impuro."}
+  ],
+  "_glossary_terms_used": ["kebeitzah", "bitul da'at", "rishon", "sheni", "shlishi", "terumah", "chulin"]
+}

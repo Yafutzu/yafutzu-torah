@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shaar Avot HaTumah 20; Hilchot Tumat Okhalin 1-2",
+  "name_he": "משנה תורה, הלכות שאר אבות הטומאות, פרק כ; הלכות טומאת אוכלין, פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi degli Altri Principali Genitori dell'Impurità cap. 20; Leggi dell'Impurità dei Cibi capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-09-04",
+  "hebrew_date": "22 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "20:1", "he": "סֵיכּוּם הִלְכוֹת שְׁאָר אֲבוֹת הַטֻּמְאוֹת — נְבֵלָה, מַשְׁקִין, מִדְרָס — כֻּלָּם אֲבוֹת הַטֻּמְאָה, מְטַמְּאִים בְּמַגָּע וּמַשָּׂא.", "it": "Si concludono le Leggi degli Altri Principali Genitori dell'Impurità — nevelah, liquidi, midras — sono tutti padri dell'impurità, rendono impuro tramite il tocco e il portare."},
+    {"n": "20:2", "he": "כְּלָלֵי הַטֻּמְאָה — אַב הַטֻּמְאָה מְטַמֵּא אָדָם וּכֵלִים. רִאשׁוֹן לְטֻמְאָה מְטַמֵּא אֳכָלִין וּמַשְׁקִין.", "it": "I principi dell'impurità — il padre dell'impurità rende impuro persone e vasi. Il primo grado di impurità rende impuro cibi e liquidi."},
+    {"n": "20:3", "he": "שֵׁנִי לְטֻמְאָה — מְטַמֵּא אֳכָלִין בִּלְבַד, לֹא אָדָם.", "it": "Il secondo grado di impurità — rende impuro solo cibi, non persone."},
+    {"n": "1:1", "he": "הִלְכוֹת טֻמְאַת אֳכָלִין — אֹכֶל אֵינוֹ מְקַבֵּל טֻמְאָה אֶלָּא בִּשְׁנֵי תְּנָאִים: שֶׁיִּהְיֶה אֹכֶל אָדָם אוֹ בְּהֵמָה, וְשֶׁיֵּחַשֵׁב לְטֻמְאָה בִּרְצוֹן הַבְּעָלִים (הֻכְשַׁר).", "it": "Leggi dell'Impurità dei Cibi — il cibo non riceve impurità se non a due condizioni: che sia cibo per l'uomo o per l'animale, e che sia stato reso suscettibile all'impurità con il consenso del proprietario (huchshar)."},
+    {"n": "1:2", "he": "אֹכֶל שֶׁלֹּא הוּכְשַׁר — אֵינוֹ מְקַבֵּל טֻמְאָה אֲפִלּוּ נָגַע בְּאַב הַטֻּמְאָה.", "it": "Il cibo che non è stato reso suscettibile — non riceve impurità anche se ha toccato il padre dell'impurità."},
+    {"n": "1:3", "he": "אֹכֶל שֶׁאֵינוֹ רָאוּי לְאָדָם — אֵינוֹ מְקַבֵּל טֻמְאָה. לְמָשָׁל, אֹכֶל שֶׁנֶּאֶסַר — אֵינוֹ מְקַבֵּל טֻמְאָה לְאָדָם.", "it": "Il cibo che non è adatto all'uomo — non riceve impurità. Per esempio, il cibo proibito — non riceve l'impurità dei cibi per l'uomo."},
+    {"n": "2:1", "he": "שִׁבְעָה מַשְׁקִין הַמַּכְשִׁירִין — מַיִם, יַיִן, שֶׁמֶן, דָּבַשׁ, חָלָב, דָּם, טַל. כָּל אֶחָד מֵהֶם מַכְשִׁיר אֶת הָאֹכֶל.", "it": "I sette liquidi che rendono suscettibile — acqua, vino, olio, miele, latte, sangue, rugiada. Ognuno di essi rende suscettibile il cibo."},
+    {"n": "2:2", "he": "הַכְשֵׁר הַמַּיִם — רַב מִכֻּלָּם. אַף שֶׁנָּפְלוּ עַל הָאֹכֶל מֵעַצְמָן — מַכְשִׁירִין, אִם שָׂמַח בָּהֶם הַבְּעָלִים.", "it": "La capacità dell'acqua di rendere suscettibile — è la più comune. Anche se sono cadute sul cibo da sole — rendono suscettibile, se il proprietario ne è soddisfatto."},
+    {"n": "2:3", "he": "רָצוֹן הַבְּעָלִים — עִנְיָן מִרְכָּזִי. בְּלֹא רָצוֹן — אֵין הַכְשֵׁר. בְּרָצוֹן — יֵשׁ הַכְשֵׁר.", "it": "Il consenso del proprietario — è il concetto centrale. Senza consenso — non c'è hechsher. Con consenso — c'è hechsher."}
+  ],
+  "_glossary_terms_used": ["machshirin", "huchshar", "ratzon ba'alim", "tum'at ochlin", "av hatumah"]
+}

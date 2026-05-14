@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 3",
+  "name_he": "תניא, חלק א — ליקוטי אמרים (ספר של בינונים), פרק ג",
+  "name_it": "Tanya, Parte I — Likutei Amarim (Libro dei Beinonim), capitolo 3",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-15",
+  "hebrew_date": "1 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פֶּרֶק ג: מְקוֹר הַנֶּפֶשׁ הָאֱלֹקִית — \"חֵלֶק אֱלוֹקַהּ מִמַּעַל מַמָּשׁ\" (אִיּוֹב לא:ב). הַנֶּפֶשׁ הָאֱלֹקִית הִיא מַמָּשׁ חֵלֶק מֵאֵלֹקִים — לֹא בְּדֶרֶךְ מְשָׁל, אֶלָּא בְּמַמָּשׁוּת.",
+      "it": "Capitolo 3: L'origine dell'anima divina — «chelek Eloka mima'al mamash» — una parte letterale di D-o dall'alto (Iyov 31:2). La nefesh ha-elokit è letteralmente una parte di D-o — non in senso metaforico, ma in senso reale."
+    },
+    {
+      "n": 2,
+      "he": "עֶשֶׂר כֹּחוֹת הַנֶּפֶשׁ הָאֱלֹקִית — כְּנֶגֶד עֶשֶׂר סְפִירוֹת: חָכְמָה, בִּינָה, דַּעַת, חֶסֶד, גְּבוּרָה, תִּפְאֶרֶת, נֶצַח, הוֹד, יְסוֹד, מַלְכוּת. שָׁלוֹשׁ עֶלְיוֹנוֹת — חָכְמָה בִּינָה דַּעַת (חַב\"ד) — הֵן כֹּחוֹת הַשֵּׂכֶל.",
+      "it": "Le dieci forze dell'anima divina — corrispondono alle dieci Sefirot: Chochmah (Saggezza), Binah (Comprensione), Da'at (Conoscenza), Chesed (Amore), Gevurah (Rigore), Tiferet (Bellezza), Netzach (Vittoria), Hod (Splendore), Yesod (Fondamento), Malchut (Regalità). Le tre superiori — ChaBaD (Chochmah-Binah-Da'at) — sono le facoltà intellettuali."
+    },
+    {
+      "n": 3,
+      "he": "שְׁלוֹשָׁה \"לְבוּשִׁים\" (לְבוּשׁ, צוּרָה חִיצוֹנִית) שֶׁל הַנֶּפֶשׁ הָאֱלֹקִית: מַחֲשֶׁבֶת תּוֹרָה (מַחֲשָׁבָה), דִּבּוּר תּוֹרָה (דִּבּוּר), מַעֲשֵׂה מִצְווֹת (מַעֲשֶׂה). אֵלּוּ הֵם שְׁלוֹשֶׁת הַ\"לְבוּשִׁים\" שֶׁבָּהֶם הַנֶּפֶשׁ הָאֱלֹקִית מִתְלַבֶּשֶׁת בָּעוֹלָם.",
+      "it": "I tre «vestiti» (levushim — forme esterne) dell'anima divina: il pensiero della Torah (machshavah), la parola della Torah (dibbur), e l'azione delle mitzvot (ma'aseh). Questi sono i tre «levushim» in cui l'anima divina si riveste nel mondo."
+    }
+  ],
+  "_glossary_terms_used": ["chelek Eloka mima'al mamash", "nefesh ha-elokit", "Sefirot", "Chochmah", "Binah", "Da'at", "ChaBaD", "Chesed", "Gevurah", "Tiferet", "levushim", "machshavah", "dibbur", "ma'aseh", "Tanya", "Likutei Amarim"]
+}

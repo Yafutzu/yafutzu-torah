@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 30-32",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות ל-לב",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettere 30-32 (conclusione)",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-03",
+  "hebrew_date": "18 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אגרת ל: עַל מַדְרֵגוֹת הַתְּפִלָּה — \"בְּכָל לְבָבְךָ\" (דברים ו:ה). מַה פֵּירוּשׁ לְהִתְפַּלֵּל בְּכָל הַנֶּפֶשׁ וּבְכָל הַמְּאֹד? שֶׁהָאָדָם יְבַטֵּל כָּל מְצִיאוּתוֹ הַעַצְמִית בְּפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא בִּשְׁעַת הַתְּפִלָּה.",
+      "it": "Lettera 30: Sui livelli della preghiera — «Con tutto il tuo cuore» (Devarim 6:5). Cosa significa pregare con tutta la propria anima e con tutta la propria forza? Che la persona annulli tutta la propria esistenza individuale davanti al Santo Benedetto Sia durante la preghiera."
+    },
+    {
+      "n": 2,
+      "he": "אגרת לא: עַל חֲשִׁיבוּת הַשַּׁבָּת כְּמָקוֹר שֶׁל בְּרָכָה — \"מִשַּׁבָּת מִתְבָּרְכִין כָּל יְמֵי עֲבָדָא\". הַשַּׁבָּת הִיא מְקוֹר הַחַיּוּת לְכָל יְמֵי הַשָּׁבוּעַ.",
+      "it": "Lettera 31: Sull'importanza del Shabbat come fonte di benedizione — «Mi-Shabbat mitbarkin kol yomei avda» (dal Shabbat si benedicono tutti i giorni della settimana). Il Shabbat è la fonte di vitalità per tutti i giorni della settimana."
+    },
+    {
+      "n": 3,
+      "he": "אגרת לב (הָאַחֲרוֹנָה): הָאַלְטֶר רֶבִּי מְסַכֵּם אֶת דֶּרֶךְ חַב\"ד: דַּעַת (הַכָּרַת אַלֹקוּת עֲמוּקָה), תְּשׁוּבָה (חֲזָרָה אֲמִתִּית), צְדָקָה, וְלִמּוּד תּוֹרָה — אַרְבָּעָה עַמּוּדִים עַל שֶׁמֶן דְּרָכֵנוּ.",
+      "it": "Lettera 32 (ultima): L'Alter Rebbe riassume il percorso di Chabad: da'at (conoscenza profonda della Divinità), teshuvah (ritorno genuino), tzedakah, e studio della Torah — quattro pilastri su cui si fonda il nostro cammino."
+    },
+    {
+      "n": 4,
+      "he": "סִיּוּם: סִי קוֹנְקְלוּדֶה לְ'אִגֶּרֶת הַקּוֹדֶשׁ (חֵלֶק ד שֶׁל הַתַּנְיָא). אִגֶּרֶת הַקּוֹדֶשׁ — אוֹסֵף אִגְּרוֹת הַקּוֹדֶשׁ שֶׁל הָאַלְטֶר רֶבִּי — מִסְתַּיֶּמֶת בָּזֶה.",
+      "it": "Si conclude l'Iggeret HaKodesh (Parte IV della Tanya). L'Iggeret HaKodesh — raccolta delle lettere sacre dell'Alter Rebbe — si conclude qui."
+    }
+  ],
+  "_glossary_terms_used": ["tefillah", "bitul", "Shabbat", "da'at", "teshuvah", "tzedakah", "Torah", "Chabad", "Alter Rebbe", "Iggeret HaKodesh", "Tanya"]
+}

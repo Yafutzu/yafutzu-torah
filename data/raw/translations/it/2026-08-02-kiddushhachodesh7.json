@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 7",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ז",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 7",
+  "cycle": "rambam-1",
+  "date": "2026-08-02",
+  "hebrew_date": "19 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אחר שיודעים מקום הירח האמיתי, צריך לדעת רוחב הירח — כלומר, כמה יש בין הירח ובין מעגל המזלות. אם הוא לצד צפון — הרוחב צפוני; ואם לצד דרום — הרוחב דרומי.",
+      "it": "Dopo aver determinato la posizione vera della luna, è necessario conoscere la latitudine della luna (ruchav ha-yare'ach) — ovvero, quanto dista la luna dall'eclittica (mа'agal ha-mazzalot). Se si trova a nord, la latitudine è settentrionale; se a sud, la latitudine è meridionale."
+    },
+    {
+      "n": 2,
+      "he": "כיצד יודעים הרוחב? לפי מקום המנוע של הירח: כשהמנוע בין אפס ובין מאה ושמונים מעלות — הרוחב צפוני; ומשם ועד שלוש מאות ושישים — הרוחב דרומי.",
+      "it": "Come si determina la latitudine? Secondo la posizione dell'anomalia lunare: quando l'anomalia è compresa tra zero e centottanta gradi, la latitudine è settentrionale; da lì fino a trecentosessanta gradi, la latitudine è meridionale."
+    },
+    {
+      "n": 3,
+      "he": "גדל הרוחב מגיע עד חמש מעלות. הגדול ביותר הוא בתשעים מעלות מנוע, שהוא חמש מעלות רוחב, ובמאתיים ושבעים מעלות מנוע — גם כן חמש מעלות רוחב לדרום.",
+      "it": "Il valore massimo della latitudine è di cinque gradi. Il massimo si raggiunge a novanta gradi di anomalia — cinque gradi di latitudine settentrionale — e a duecentosettanta gradi di anomalia — cinque gradi di latitudine meridionale."
+    },
+    {
+      "n": 4,
+      "he": "הרוחב משפיע על הראיה: אם הרוחב צפוני — הירח גבוה יותר מעל האופק בשעת שקיעת החמה, ולכן יהיה נראה יותר; ואם הרוחב דרומי — הירח נמוך יותר, ולכן הראיה קשה יותר.",
+      "it": "La latitudine influisce sulla visibilità: se la latitudine è settentrionale, la luna è più alta sull'orizzonte al tramonto del sole, quindi è più facile vederla. Se la latitudine è meridionale, la luna è più bassa, quindi la visibilità è più difficile."
+    },
+    {
+      "n": 5,
+      "he": "כיצד משתמשים ברוחב בחשבון הראיה? יש לו שני פנים: הרוחב מוסיף על ה'ארך' הנראה — דהיינו, ריחוק הירח מן השמש — כאשר הרוחב צפוני; ומחסיר כאשר הרוחב דרומי. וזה לפי חשבון מדויק שיתבאר.",
+      "it": "Come si usa la latitudine nel calcolo della visibilità? Ha due effetti: la latitudine settentrionale aggiunge all'elongazione apparente (orekh ha-nir'eh) — la distanza angolare tra luna e sole — mentre la latitudine meridionale sottrae. Questo viene calcolato con precisione, come si spiegherà."
+    },
+    {
+      "n": 6,
+      "he": "מחשבים את הרוחב לפי לוחות הרוחב: לכל מדרגה ומדרגה של המנוע — יש לה רוחב ידוע. ואת הרוחב הזה לוקחים ומשתמשים בו בחשבון הראיה.",
+      "it": "La latitudine viene calcolata secondo le tavole della latitudine: a ogni grado di anomalia corrisponde una latitudine determinata. Questo valore di latitudine viene poi utilizzato nel calcolo della visibilità."
+    },
+    {
+      "n": 7,
+      "he": "לסיכום: ה'ארך' של הירח מן השמש, ורוחב הירח — שניהם יחד הם הגורמים העיקריים הקובעים אם הירח ייראה אם לאו. ויתבארו שאר הפרטים בפרק הבא.",
+      "it": "In sintesi: l'elongazione della luna dal sole e la latitudine della luna — entrambe insieme sono i fattori principali che determinano se la luna sarà visibile o meno. Gli ulteriori dettagli saranno spiegati nel capitolo seguente."
+    }
+  ],
+  "_glossary_terms_used": ["ruchav ha-yare'ach", "ma'agal ha-mazzalot", "mana'a", "orekh ha-nir'eh"]
+}

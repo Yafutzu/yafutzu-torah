@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Tithes 1-3",
+  "name_he": "משנה תורה, הלכות מעשרות, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi delle Decime (Maasrot), capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-06-13",
+  "hebrew_date": "28 Sivan 5786",
+  "halachot_count": 27,
+  "halachot": [
+    {
+      "n": "1:1-2",
+      "he": "כָּל תְּבוּאַת הָאָרֶץ חַיֶּבֶת בְּמַעַשְׂרוֹת...",
+      "it": "L'obbligo delle decime (maasrot) si applica a tutti i prodotti che crescono dalla terra nella Terra d'Israele, destinati al consumo umano. Questo include grano, vino, olio, e altri prodotti dell'agricoltura. Prodotti che crescono spontaneamente (hefker) o prodotti di alberi in anni di orla (i primi tre anni) sono esenti."
+    },
+    {
+      "n": "1:3-5",
+      "he": "הַפֵּרוֹת שֶׁאֵינָן חַיָּבוֹת בְּמַעַשְׂרוֹת...",
+      "it": "Prodotti esenti dalle decime: (1) prodotti che non sono cibo (come semi non commestibili); (2) prodotti non coltivati ma cresciuti spontaneamente (hefker); (3) prodotti di non-ebrei; (4) prodotti fuori dalla Terra d'Israele. Alcune categorie sono soggette solo per decreto rabbinico."
+    },
+    {
+      "n": "1:6-8",
+      "he": "הָאֹכֵל פֵּרוֹת טֶבֶל בָּאָרֶץ...",
+      "it": "Chi mangia tevel (produce non decimata) nella Terra d'Israele, se lo fa intenzionalmente, è punibile con la pena di morte per mano del cielo (mitah bi-ydei shamayim). Se per errore, deve pagare una penalità. Fuori dalla Terra d'Israele, il divieto è rabbinico."
+    },
+    {
+      "n": "2:1-3",
+      "he": "מֵאֵימָתַי חַיָּבִין הַפֵּרוֹת בְּמַעַשְׂרוֹת...",
+      "it": "L'obbligo delle decime inizia con la 'fissazione' (gemirat melacha) del prodotto — il momento in cui il processo di maturazione si completa e il prodotto è pronto per il mercato. Per i cereali: trebbiatura; per uva: pressatura nel tino; per olive: accatastamento nell'oleificio."
+    },
+    {
+      "n": "2:4-6",
+      "he": "קֹדֶם גְּמַר מְלָאכָה — מֻתָּר לֶאֱכֹל...",
+      "it": "Prima della 'fissazione', si può mangiare dai propri prodotti casualmente (achilas aray) — cioè mentre si lavora nel campo, assaggiando qui e là. Questo è permesso anche senza separare le decime. Ma non si può portare a casa o vendere prima di separare."
+    },
+    {
+      "n": "2:7-9",
+      "he": "הַמְכַנֵּס פֵּרוֹת לְתוֹךְ בֵּיתוֹ...",
+      "it": "Portare i prodotti in casa tramite la porta principale (derech ha-sha'ar ha-rashi) — questo atto 'fissa' i prodotti per le decime anche se non erano ancora 'fissati' completamente. Da quel momento, non si può mangiare casualmente senza separare prima."
+    },
+    {
+      "n": "3:1-3",
+      "he": "מַעֲשֵׂר רִאשׁוֹן — נוֹתְנִין אוֹתוֹ לַלֵּוִי...",
+      "it": "Il maaser rishon (prima decima) è dato al Levita: un decimo di tutta la produzione. Il Levita lo riceve come compenso per il suo servizio nel Tempio al posto di avere una porzione della terra. Questa è un'obbligo della Torah (Numeri 18:21)."
+    },
+    {
+      "n": "3:4-6",
+      "he": "לֵוִי שֶׁקִּבֵּל מַעֲשֵׂר — מַפְרִישׁ תְּרוּמַת מַעֲשֵׂר...",
+      "it": "Il Levita che ha ricevuto il maaser rishon deve a sua volta separarne un decimo (terumat maaser) e darlo a un kohen. Questa terumat maaser ha la stessa santità della terumah gedolah del proprietario terriero."
+    },
+    {
+      "n": "3:7-9",
+      "he": "הַלֵּוִי שֶׁלֹּא הִפְרִישׁ תְּרוּמַת מַעֲשֵׂר...",
+      "it": "Il Levita che non ha separato la terumat maaser e ha mangiato il suo maaser — ha mangiato tevel e ha trasgredito. Deve pagare la penalità come chi ha mangiato tevel di qualsiasi tipo. La terumat maaser deve essere separata prima che il maaser venga consumato."
+    },
+    {
+      "n": "3:10-13",
+      "he": "יִשְׂרָאֵל שֶׁקִּנָּה פֵּרוֹת מִלֵּוִי...",
+      "it": "Un israelita che ha comprato produce da un Levita — se il Levita non ha ancora separato la terumat maaser, l'israelita deve separarla al posto del Levita. Se il Levita ha già decimato, l'israelita riceve produce 'pulita' senza ulteriori obblighi di decima per quella porzione."
+    }
+  ],
+  "_glossary_terms_used": ["maasrot", "tevel", "maaser rishon", "terumat maaser", "gemirat melacha", "achilas aray", "hefker", "orla", "mitah bi-ydei shamayim", "terumah gedolah"]
+}

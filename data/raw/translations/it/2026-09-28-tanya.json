@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 7-8",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות ז-ח",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistole Sacre), lettere 7-8",
+  "cycle": "tanya",
+  "date": "2026-09-28",
+  "hebrew_date": "17 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עִנְיַן הָרַבִּי — הָאַלְטֶר רֶבִּי מְגַן עַל מוֹסַד הַצַּדִּיק כְּמַנְהִיג. כָּל אָדָם, אֲפִלּוּ גָּדוֹל בְּתוֹרָה, צָרִיךְ לְמִי שֶׁהִשִּׂיג דְּבֵקוּת אֲמִתִּית כְּדֵי לְלַמֵּד אוֹתוֹ כֵּיצַד לַעֲלוֹת בְּמַעֲלוֹת הַנֶּפֶשׁ.",
+      "it": "Il concetto del Rebbe — l'Alter Rebbe difende l'istituzione del tzaddik come leader. Ogni persona, anche grande nella Torah, ha bisogno di chi ha raggiunto la vera deveikut per insegnargli come elevarsi nelle qualità dell'anima."
+    },
+    {
+      "n": 2,
+      "he": "הַיְמֵי תִּשְׁרֵי — רֹאשׁ הַשָּׁנָה, יוֹם כִּפּוּר, סוּכּוֹת — הֵם מַעֲרֶכֶת שְׁלֵמָה: כֶּתֶר / טִהְרָה / שִׂמְחָה. רֹאשׁ הַשָּׁנָה — קְבָלַת עֹל מַלְכוּת שָׁמַיִם. יוֹם כִּפּוּר — כַּפָּרָה וְטִהְרָה. סוּכּוֹת — שִׂמְחַת הָעֲבוֹדָה.",
+      "it": "I giorni di Tishrei — Rosh Hashanah, Yom Kippur, Sukkot — sono un sistema spirituale completo: corona / purificazione / gioia. Rosh Hashanah — accettare il giogo del regno dei cieli. Yom Kippur — espiazione e purificazione. Sukkot — gioia del servizio."
+    },
+    {
+      "n": 3,
+      "he": "שְׁלֹשַׁת הָרְגָלִים הֵם שְׁלֹשָׁה שְׁלָבִים בְּעֲבוֹדַת הַנֶּפֶשׁ — רֹאשׁ הַשָּׁנָה מַכְתִּיר, יוֹם כִּפּוּר מְטַהֵר, וְסוּכּוֹת שֶׁמְּצַפֶּה אֶת הַנֶּפֶשׁ בְּשִׂמְחָה אַחֲרֵי כָּל הָעֲבוֹדָה — הִיא הַשְׁלָמַת הַמַּעֲגָל.",
+      "it": "Le tre feste (Rosh Hashanah, Yom Kippur, Sukkot) sono tre tappe nel servizio dell'anima — Rosh Hashanah incorona, Yom Kippur purifica, e Sukkot riveste l'anima di gioia dopo tutto il servizio — è il completamento del ciclo."
+    }
+  ],
+  "_glossary_terms_used": ["tzaddik", "deveikut", "Tishrei", "Rosh Hashanah", "Yom Kippur", "Sukkot", "Iggeret HaKodesh"]
+}

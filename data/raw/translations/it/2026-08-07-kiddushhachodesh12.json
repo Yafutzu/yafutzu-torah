@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 12",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק יב",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 12",
+  "cycle": "rambam-1",
+  "date": "2026-08-07",
+  "hebrew_date": "24 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "המולד הוא רגע התחדשות הירח — הרגע שבו הלבנה מתקרבת לשמש ועוברת מלפניה. רגע זה הוא ראשית החשבון של כל חודש.",
+      "it": "Il molad è il momento della rinascita della luna — il momento in cui la luna si avvicina al sole e gli passa davanti. Questo momento è il punto di partenza del computo di ogni mese."
+    },
+    {
+      "n": 2,
+      "he": "מולד תשרי של שנת העולם הוא העיקר שממנו מתחיל כל החשבון. הוא המכונה 'מולד תוהו' ושוויו: יום שני, שעה חמישית ומאתים ארבעה חלקים.",
+      "it": "Il molad di Tishri dell'anno della Creazione è il punto di riferimento fondamentale (ikkar) da cui inizia tutto il calcolo. È chiamato 'molad tohu' e il suo valore è: secondo giorno (lunedì), quinta ora e duecentoquattro parti (chalakim)."
+    },
+    {
+      "n": 3,
+      "he": "כדי לחשב מולד של חודש מסוים — מוסיפים על מולד תשרי כמה חדשים שרצינו, כשכל חודש מוסיף כ\"ט יום וי\"ב שעות ות\"ת\"ג חלקים.",
+      "it": "Per calcolare il molad di un determinato mese, si aggiunge al molad di Tishri il numero di mesi desiderato, sapendo che ogni mese aggiunge 29 giorni, 12 ore e 793 parti (chalakim)."
+    },
+    {
+      "n": 4,
+      "he": "כיצד? אם רצינו לדעת מולד חשוון — מוסיפים פעם אחת כ\"ט יום וי\"ב שעות ות\"ת\"ג חלקים. אם רצינו מולד כסלו — מוסיפים פעמיים. וכן הלאה.",
+      "it": "Come? Se vogliamo conoscere il molad di Cheshvan, aggiungiamo una volta 29 giorni, 12 ore e 793 parti. Se vogliamo il molad di Kislev, aggiungiamo due volte. E così via."
+    },
+    {
+      "n": 5,
+      "he": "ואם רצינו לדעת מולד תשרי של שנה הבאה — מוסיפים על מולד תשרי של השנה הנוכחית: בשנה פשוטה — ד' ח' ת\"ת\"ג; ובשנה מעוברת — ה' כ\"א תשפ\"ז.",
+      "it": "Se vogliamo conoscere il molad di Tishri dell'anno prossimo, aggiungiamo al molad di Tishri dell'anno corrente: in un anno semplice — 4 giorni, 8 ore e 876 parti; in un anno intercalare — 5 giorni, 21 ore e 589 parti."
+    },
+    {
+      "n": 6,
+      "he": "הסיבה לקביעת תשרי כנקודת מוצא היא שראש השנה הוא ראש החשבון לשנים. ואף שהשנה מתחילה מניסן לעניין חדשים — לעניין שנים מתחילים מתשרי.",
+      "it": "La ragione per cui Tishri è scelto come punto di partenza è che Rosh HaShanah è il capodanno per il computo degli anni. Sebbene l'anno inizi da Nisan per il computo dei mesi, per il computo degli anni si inizia da Tishri."
+    },
+    {
+      "n": 7,
+      "he": "ומולד תשרי נקבע לפי חשבון מדויק, ומקדשים את ראש השנה לפיו. ואם חל המולד בלילה — ראש השנה הוא ביום המחרת; ואם ביום — ראש השנה באותו יום, ובלבד שאין דחיות.",
+      "it": "Il molad di Tishri è determinato da un calcolo preciso e Rosh HaShanah viene fissato in base ad esso. Se il molad cade di notte, Rosh HaShanah è il giorno successivo; se cade di giorno, Rosh HaShanah è quello stesso giorno, a condizione che non vi siano dehiyyot (rinvii)."
+    }
+  ],
+  "_glossary_terms_used": ["molad", "molad tohu", "ikkar", "chalakim", "dehiyyot"]
+}

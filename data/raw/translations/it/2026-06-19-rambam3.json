@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Second Tithe 5-7",
+  "name_he": "משנה תורה, הלכות מעשר שני ונטע רבעי, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi della Seconda Decima e del Frutto del Quarto Anno, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-06-19",
+  "hebrew_date": "4 Tammuz 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "5:1-3",
+      "he": "הַמַּעֲלֶה מַעֲשֵׂר שֵׁנִי לִירוּשָׁלַיִם...",
+      "it": "Chi porta il maaser sheni a Gerusalemme — deve mangiarlo là in stato di purezza rituale (taharah). La Torah comanda: 'dinerai davanti a Dio nel luogo che sceglierà' (Deuteronomio 14:23). Consumare il maaser sheni è una mitzvah attiva, non solo un permesso."
+    },
+    {
+      "n": "5:4-6",
+      "he": "מִצְוָה לֶאֱכֹל בְּשִׂמְחָה...",
+      "it": "C'è obbligo di mangiare il maaser sheni con gioia (simchat ha-moed). Non si deve essere in lutto (avelut) mentre si mangia il maaser sheni — il lutto ostacola la gioia richiesta. Allo stesso modo, non si mangia il maaser sheni in stato di impurità (tumah)."
+    },
+    {
+      "n": "5:7-9",
+      "he": "אֵין לוֹקְחִין בְּכֶסֶף מַעֲשֵׂר שֵׁנִי...",
+      "it": "Con il denaro del maaser sheni a Gerusalemme si possono comprare: cibo (lechem — pane, basar — carne, yayin — vino), bevande, e altri alimenti. Non si possono comprare: acqua, sale, erbe non coltivate, e prodotti che non sono 'cibo' nel senso ordinario."
+    },
+    {
+      "n": "6:1-3",
+      "he": "מַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא בִּירוּשָׁלַיִם...",
+      "it": "Il maaser sheni che è diventato impuro a Gerusalemme — si riscatta (poiché non può essere consumato in stato di impurità). Il denaro del riscatto non ha più le restrizioni del maaser sheni e può essere usato liberamente. Il prodotto impuro viene buttato."
+    },
+    {
+      "n": "6:4-6",
+      "he": "מַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא חוּץ לִירוּשָׁלַיִם...",
+      "it": "Il maaser sheni che è diventato impuro fuori da Gerusalemme — deve essere riscattato, e il denaro deve comunque essere portato a Gerusalemme per acquistare cibo pulito. La santità del maaser sheni rimane anche nell'impurità."
+    },
+    {
+      "n": "6:7-9",
+      "he": "הַמַּחְלִיף פֵּרוֹת מַעֲשֵׂר שֵׁנִי...",
+      "it": "Chi scambia la produce del maaser sheni con un'altra produce — l'altra produce acquista la santità del maaser sheni, e quella originale perde la sua santità. Non si può 'upgraderegolare' il maaser sheni scambiandolo con produce di migliore qualità senza pagare la differenza."
+    },
+    {
+      "n": "7:1-3",
+      "he": "בִּיעוּר מַעַשְׂרוֹת — בְּשָׁנָה הַשְּׁלִישִׁית וְהַשִּׁשִּׁית...",
+      "it": "Il biur maasrot (rimozione delle decime): negli anni 3 e 6 del ciclo sabbatico (shemitah), si deve fare biur — distribuire a tutti i destinatari adeguati (Leviti, poveri, kohanim) tutte le decime che si trovano ancora in proprio possesso. Questo deve essere completato prima di Pesach di quegli anni."
+    },
+    {
+      "n": "7:4-6",
+      "he": "כֵּיצַד עוֹשֶׂה בִּיעוּר...",
+      "it": "Come si esegue il biur? Si porta il maaser rishon ai Leviti, il maaser ani (decima per i poveri, negli anni 3 e 6) ai poveri, e la terumah ai kohanim. Il maaser sheni e il neta revai non distribuiti vengono riscattati e il denaro dissipato (o speso)."
+    },
+    {
+      "n": "7:7-9",
+      "he": "וִידּוּי מַעַשְׂרוֹת — בְּפֶסַח...",
+      "it": "Il viduy maasrot (dichiarazione delle decime): in ogni anno in cui si fa biur, si recita una dichiarazione formale a Pesach davanti a Dio (Deuteronomio 26:13-15). Si dichiara: 'ho rimosso il sacro dalla casa e l'ho dato al Levita, allo straniero, all'orfano e alla vedova — secondo tutti i Tuoi comandamenti che hai comandato'. Questa è una delle rare dichiarazioni verbali positive comandate dalla Torah."
+    }
+  ],
+  "_glossary_terms_used": ["maaser sheni", "taharah", "tumah", "simchat ha-moed", "biur maasrot", "shemitah", "maaser ani", "maaser rishon", "terumah", "neta revai", "viduy maasrot"]
+}

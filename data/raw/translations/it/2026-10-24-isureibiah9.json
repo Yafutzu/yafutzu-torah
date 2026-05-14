@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 9",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק ט",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 9",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-24",
+  "hebrew_date": "13 Cheshvan 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַמַּמְזֵר — הוּא הַנּוֹלָד מֵאִסּוּרֵי כָּרֵת שֶׁבְּעֲרָיוֹת…",
+      "it": "Il mamzer è colui che nasce da un'unione soggetta a karet tra le arayot, o da un'unione con una donna altrui (eshet ish), o da una di queste unioni che sarebbe punita con pena di morte dal tribunale (mitah bet din). La definizione precisa: mamzer = figlio di un'unione proibita di karet o mitat bet din. Non è mamzer il figlio di una niddah (sebbene ci sia karet) — poiché la niddah non è una delle arayot del capitolo 2 delle persone (è una proibizione di atto, non di persona). Il mamzer può essere maschio o femmina."
+    },
+    {
+      "n": 2,
+      "he": "הַמַּמְזֵר — אָסוּר לָבוֹא בִּקְהַל ה' לְעוֹלָם…",
+      "it": "Il mamzer (maschio e femmina) è proibito per sempre (le-olam) dall'assemblea d'Israele (Kahal Hashem), come recita Devarim 23:3: «lo yavo mamzer bekehal Hashem, gam dor asiri lo yavo lo» — «non entrerà un mamzer nell'assemblea del Signore, nemmeno la decima generazione — mai». Un mamzer non può sposare un israelita di discendenza piena (bat Yisrael), né un israelita può sposare una mamzeret. La proibizione è biblicamente vincolante per tutte le generazioni."
+    },
+    {
+      "n": 3,
+      "he": "מַמְזֵר נוֹשֵׂא מַמְזֶרֶת — וּמַמְזֶרֶת נוֹשֵׂאת מַמְזֵר…",
+      "it": "Un mamzer può sposare una mamzeret (femmina mamzer). I loro figli sono mamzerim. Un mamzer può anche sposare una schiava liberata (shiphchah meshuchreret) — e i loro figli sono «mamzerei shiphchah» (mamzerim da schiava). Il Rambam nota: il Talmud (Kiddushin 69a) insegna che nell'era messianica il profeta Elia rivelerà la genealogia dei mamzerim nascosti — non per escluderli ma per risolvere le situazioni di incertezza (safek mamzer)."
+    },
+    {
+      "n": 4,
+      "he": "סְפֵק מַמְזֵר — דִּינוֹ חָמוּר…",
+      "it": "Il safek mamzer (mamzer di dubbia origine) — la sua situazione è trattata con rigore: non può sposare un israelita di discendenza piena (a causa del dubbio) e non può nemmeno sposare un mamzer certo (a causa della possibilità che non sia mamzer). La soluzione pratica: il safek mamzer può sposare solo un altro safek mamzer. Questa situazione difficile è riconosciuta dai Saggi come una delle situazioni umane più dolorose — il Talmud esprime empatia per l'individuo che non ha colpa ma porta il peso delle azioni dei suoi genitori."
+    },
+    {
+      "n": 5,
+      "he": "וְאִם נִשְּׂאָה מַמְזֶרֶת לְיִשְׂרָאֵל — הַוְּלָדוֹת מַמְזֵרִים…",
+      "it": "Se una mamzeret si sposa con un israelita (matrimonio proibito) — i loro figli sono mamzerim. Il mamzerut (stato di mamzer) segue entrambe le linee: sia da padre mamzer sia da madre mamzeret. Il principio generale del mamzerut: è uno status biblico permanente trasmesso alla discendenza, non una pena personale dell'individuo. Il Rambam sottolinea che la Torah ha voluto rendere le conseguenze delle unioni proibite permanenti e visibili — come deterrente e come protezione della struttura familiare di Israele."
+    },
+    {
+      "n": 6,
+      "he": "מַמְזֵר שֶׁנָּשָׂא שִׁפְחָה — בְּנוֹ עֶבֶד, אֲבָל אִם שִׁחְרֵר אֶת הַשִּׁפְחָה וְנָשָׂא אוֹתָהּ — הַוְּלָדוֹת מַמְזֵרִים…",
+      "it": "Se un mamzer ha un figlio con una schiava (shiphchah cna'anit) — il figlio è schiavo (eved), non mamzer, poiché lo status dello schiavo segue la madre. Ma se la schiava viene liberata (meshuchreret) e poi il mamzer la sposa — i loro figli sono mamzerim, poiché ora la madre è libera e lo status dei figli segue il padre mamzer. Questa sottigliezza illustra l'interazione complessa tra i diversi status halakhici (mamzer, eved, ben chorin) e le loro implicazioni generazionali."
+    },
+    {
+      "n": 7,
+      "he": "הַמַּמְזֵר — חַיָּב בְּכָל הַמִּצְווֹת, וְתַלְמוּד תּוֹרָה חֲשׁוּב לוֹ מֵאֲחֵרִים…",
+      "it": "Il mamzer è obbligato in tutte le mitzvot come qualsiasi israelita; la sua limitazione è solo nel matrimonio. Il Talmud (Horayot 13a) stabilisce che «un mamzer talmid chacham (studioso di Torah) precede nel rispetto un kohen gadol ignorante». Il Rambam riporta questo insegnamento per sottolineare: lo status di mamzer non determina il valore spirituale dell'individuo. La Torah rispetta la dignità di ogni essere umano; lo studio della Torah e l'osservanza delle mitzvot elevano chiunque, indipendentemente dalle circostanze della nascita."
+    },
+    {
+      "n": 8,
+      "he": "עֲשָׂרָה יוּחֲסִין עָלוּ מִבָּבֶל — כֹּהֲנִים, לְוִיִּם, יִשְׂרָאֵלִים, חֲלָלִים, גֵּרִים, מְשֻׁחְרָרִים, מַמְזֵרִים, נְתִינִים, שְׁתוּקִים, אֲסוּפִים…",
+      "it": "Il Rambam riporta il classico insegnamento talmudico (Kiddushin 69a) delle dieci categorie genealogiche che risalirono dalla Babilonia in Eretz Yisrael: kohanim, leviyim, israeliti, chalalim (figli di kohen che ha sposato una donna proibita), gerim (convertiti), meshuchrarim (schiavi liberati), mamzerim, netinim (discendenti dei Gibeoniti), shtukim (colui che conosce solo la madre ma non il padre), e asufim (trovatelli di cui non si conoscono i genitori). Ognuna di queste categorie ha il proprio status matrimoniale. Questo elenco è uno dei fondamenti del diritto genealogico ebraico."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mamzer", "mamzeret", "mamzerut", "safek mamzer", "karet", "Kahal Hashem", "shiphchah cna'anit", "eved", "meshuchreret", "talmid chacham", "chalalim", "netinim", "shtukim", "asufim"
+  ]
+}

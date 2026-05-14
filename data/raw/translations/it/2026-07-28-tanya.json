@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 20",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כ",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 20",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-28",
+  "hebrew_date": "14 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מִצְווֹת הַמַּעֲשֶׂה — לוֹבְשׁוֹת אֶת כֹּחַ הַמַּעֲשֶׂה שֶׁבַּנֶּפֶשׁ. מִצְווֹת הַדִּבּוּר — לוֹבְשׁוֹת אֶת כֹּחַ הַדִּבּוּר. מִצְווֹת הַמַּחֲשָׁבָה — לוֹבְשׁוֹת אֶת כֹּחַ הַמַּחֲשָׁבָה.",
+      "it": "I commandamenti dell'azione rivestono la facoltà dell'azione dell'anima. I commandamenti della parola rivestono la facoltà della parola. I commandamenti del pensiero rivestono la facoltà del pensiero."
+    },
+    {
+      "n": 2,
+      "he": "מִצְוַת הַמַּחֲשָׁבָה הַחֲשׁוּבָה בְּיוֹתֵר — הִיא הָאֱמוּנָה. 'שִׁוִּיתִי ה' לְנֶגְדִּי תָמִיד' — זוֹ מִצְוַת הָאֱמוּנָה בְּמַחֲשָׁבָה.",
+      "it": "Il commandamento del pensiero più importante è l'emunah (fede). 'Pongo sempre il Signore dinanzi a me' (Salmo 16:8) — questo è il commandamento della fede nel pensiero."
+    },
+    {
+      "n": 3,
+      "he": "כָּל מִצְוָה שֶׁאָדָם עוֹשֶׂה — מְלַבֶּשֶׁת כֹּחַ אֶחָד מִכֹּחוֹת נַפְשׁוֹ, וְנַפְשׁוֹ מִתְלַבֶּשֶׁת בָּהּ. הַמִּצְוָה וְהַנֶּפֶשׁ — נַעֲשִׂים אֶחָד.",
+      "it": "Ogni commandamento che una persona adempie riveste una delle facoltà della sua anima, e la sua anima si riveste in esso. Il commandamento e l'anima — diventano uno."
+    }
+  ],
+  "_glossary_terms_used": ["mitzvot", "nefesh", "emunah", "machshavah", "dibbur", "ma'aseh", "levush"]
+}

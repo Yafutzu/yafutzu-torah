@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 45",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ה",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 45",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-21",
+  "hebrew_date": "8 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יש הבדל בין אהבה טבעית לאהבה נרכשת: האהבה הטבעית — אינה צריכה לימוד ועבודה, היא נמצאת בנשמה מלידה. אולם לא האדם עשאה ולא יגע בה.",
+      "it": "Vi è una differenza tra l'amore naturale e l'amore acquisito: l'amore naturale (ahavah tiv'it) non richiede studio né fatica; è presente nell'anima dalla nascita. Tuttavia l'uomo non l'ha creato né vi ha faticato."
+    },
+    {
+      "n": 2,
+      "he": "האהבה הנרכשת — על ידי לימוד התורה והתבוננות — עמוקה יותר ושייכת לאדם ביותר. שכן הוא יגע ועמל להשיגה ולכן היא 'שלו' ממש.",
+      "it": "L'amore acquisito — attraverso lo studio della Torah e la hitbonenut (meditazione) — è più profondo e appartiene più propriamente all'uomo. Poiché egli ha faticato e si è affaticato per conseguirlo, esso è veramente 'suo'."
+    },
+    {
+      "n": 3,
+      "he": "שתי האהבות — הטבעית והנרכשת — משלימות זו את זו. אין לפסול אחת מהן. האהבה הטבעית — היא המצע; האהבה הנרכשת — היא הבניין שמוקם עליה.",
+      "it": "Entrambi gli amori — quello naturale e quello acquisito — si completano a vicenda. Non si deve respingere nessuno dei due. L'amore naturale è il substrato; l'amore acquisito è l'edificio che vi si erige sopra."
+    }
+  ],
+  "_glossary_terms_used": ["ahavah tiv'it", "hitbonenut"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 4",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ד",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 4",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-07",
+  "hebrew_date": "22 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ד: עַל הָעִנְיָן שֶׁל \"דִּירָה בְּתַחְתּוֹנִים\" — רְצוֹן הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁיְּהֵא לוֹ דִּירָה בְּעוֹלָמוֹת הַתַּחְתּוֹנִים. מַדּוּעַ דַּוְקָא הָעוֹלָם הַשָּׁפָל הוּא הַמָּקוֹם הָאוּלְטִימָטִיבִי לִשְׁכִינַת הָאֱלֹקוּת.",
+      "it": "Saggio 4: Sul concetto di «dirah be-tachtonim» — il desiderio del Santo Benedetto Sia di avere una dimora nei mondi inferiori. Perché specificamente il mondo più basso è il luogo ultimo per la Presenza Divina (Shechinah)."
+    },
+    {
+      "n": 2,
+      "he": "הַטַּעַם — שֶׁדַּוְקָא בַּמָּקוֹם שֶׁיֵּשׁ הֶסְתֵּר וְהַסְתָּרָה גְּדוֹלָה יוֹתֵר — שָׁם הִגִּיּוּי הַגִּלּוּי גָּדוֹל יוֹתֵר. שֶׁגִּלּוּי אַלֹקוּת בָּעוֹלָם הַגָּשְׁמִי הוּא גָּדוֹל מִגִּלּוּי בָּעוֹלָמוֹת הָרוּחָנִיִּים.",
+      "it": "Il motivo — che specificamente nel luogo in cui vi è maggiore nascondimento — lì la rivelazione divina è più grande. Poiché la rivelazione della Divinità nel mondo materiale è maggiore della rivelazione nei mondi spirituali."
+    },
+    {
+      "n": 3,
+      "he": "לְפִיכָךְ כָּל עֲבוֹדַת הָאָדָם בָּעוֹלָם הַגָּשְׁמִי — בְּלִמּוּד תּוֹרָה, קִיּוּם מִצְווֹת, וּצְדָקָה — בּוֹנָה אֶת הַדִּירָה הָאֱלֹקִית. וּבִימוֹת הַמָּשִׁיחַ תִּתְגַּלֶּה הַשְּׁכִינָה בְּעוֹלָם הַזֶּה בְּשִׁלֵּמוּת.",
+      "it": "Pertanto tutto il servizio dell'uomo nel mondo materiale — nello studio della Torah, nel compimento delle mitzvot, e nella tzedakah — costruisce la dimora divina. E nei giorni del Messia la Shechinah si rivelerà in questo mondo nella sua pienezza."
+    }
+  ],
+  "_glossary_terms_used": ["dirah be-tachtonim", "Shechinah", "avodah", "Torah", "mitzvot", "tzedakah", "Moshiach", "olamot", "galuy", "hester"]
+}

@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 1",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק א",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Lettera della Teshuvah), capitolo 1",
+  "cycle": "tanya",
+  "date": "2026-09-11",
+  "hebrew_date": "29 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "מַתְחִילִים הַיּוֹם אֶת חֵלֶק ג' שֶׁל הַתַּנְיָא — אִגֶּרֶת הַתְּשׁוּבָה. הַיּוֹם כ\"ט אֱלוּל — יוֹם אַחֲרוֹן שֶׁל שְׁנַת תשפ\"ו — זְמַן מוּכְשָׁר לְהַתְחִיל בְּנוֹשֵׂא הַתְּשׁוּבָה. הַתְּשׁוּבָה הִיא שְׁנֵי מַדְרֵגוֹת: תְּשׁוּבָה תַּתָּאָה — חֲזָרָה מִן הַחֵטְא. תְּשׁוּבָה עִלָּאָה — חֲזָרָה לְקֶשֶׁר עָמֹק יוֹתֵר אֲפִלּוּ בְּלֹא חֵטְא.", "it": "Iniziamo oggi la Parte III della Tanya — Iggeret HaTeshuvah. Oggi 29 Elul — ultimo giorno dell'anno 5786 — tempo propizio per iniziare il tema della teshuvah. La teshuvah ha due livelli: teshuvah tata'ah — il ritorno dal peccato. Teshuvah ila'ah — il ritorno a una connessione più profonda anche senza peccato."},
+    {"n": 2, "he": "'תְּשׁוּבָה מַגַּעַת עַד כִּסֵּא הַכָּבוֹד' — הַכַּוָּנָה שֶׁהַתְּשׁוּבָה מְחַבֶּרֶת אֶת הַנֶּפֶשׁ עִם הַבִּינָה, שֶׁהִיא שֹׁרֶשׁ כָּל הַנְּשָׁמוֹת. 'כִּסֵּא הַכָּבוֹד' מַצְבִּיעַ עַל הַסְּפִירָה שֶׁל בִּינָה.", "it": "'La teshuvah giunge fino al Trono della Gloria' — il significato è che la teshuvah connette l'anima con la Binah, che è la radice di tutte le anime. 'Trono della Gloria' indica la Sefirah della Binah."},
+    {"n": 3, "he": "בַּיּוֹם הָאַחֲרוֹן שֶׁל הַשָּׁנָה — מִדָּה כְּנֶגֶד מִדָּה — הַתְּשׁוּבָה מְחַדֶּשֶׁת אֶת הַנֶּפֶשׁ. כְּמוֹ שֶׁהַשָּׁנָה מִתְחַדֶּשֶׁת מָחָר, כָּךְ הַנֶּפֶשׁ מִתְחַדֶּשֶׁת בַּתְּשׁוּבָה.", "it": "Nell'ultimo giorno dell'anno — misura per misura — la teshuvah rinnova l'anima. Come l'anno si rinnova domani, così l'anima si rinnova attraverso la teshuvah."}
+  ],
+  "_glossary_terms_used": ["teshuvah tata'ah", "teshuvah ila'ah", "Binah", "kisei hakavod", "neshamah"]
+}

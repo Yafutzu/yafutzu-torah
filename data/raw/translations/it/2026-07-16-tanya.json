@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 4",
+  "name_he": "תניא, חלק א — ליקוטי אמרים (ספר של בינונים), פרק ד",
+  "name_it": "Tanya, Parte I — Likutei Amarim (Libro dei Beinonim), capitolo 4",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-16",
+  "hebrew_date": "2 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פֶּרֶק ד: שְׁלוֹשָׁה \"לְבוּשִׁים\" שֶׁל הַנֶּפֶשׁ הַבַּהֲמִית: מַחֲשֶׁבֶת הַחֵטְא (מַחְשֶׁבֶת חֹל — מַחֲשָׁבָה עַל דְּבָרִים גַּשְׁמִיִּים), דִּבּוּר הַחֵטְא, וּמַעֲשֵׂה הַחֵטְא. אֵלּוּ לְעֻמַּת שְׁלוֹשֶׁת הַ\"לְבוּשִׁים\" שֶׁל הַנֶּפֶשׁ הָאֱלֹקִית.",
+      "it": "Capitolo 4: I tre «vestiti» (levushim) dell'anima animale: il pensiero del peccato (machshevet chol — pensiero su cose materiali), la parola del peccato, e l'azione del peccato. Questi si contrappongono ai tre levushim dell'anima divina."
+    },
+    {
+      "n": 2,
+      "he": "\"מַחְשֶׁבֶת חֹל\" — הִיא שְׂדֵה הַקְּרָב הָעִקָּרִי. כִּי אֲפִלּוּ כְּשֶׁהָאָדָם אֵינוֹ עוֹשֶׂה חֵטְא בְּמַעֲשֶׂה, מַחְשָׁבוֹת חֹל מְמַלְּאוֹת אֶת לִבּוֹ וּמַחְלִישׁוֹת אֶת הַנֶּפֶשׁ הָאֱלֹקִית. לְפִיכָךְ עִקַּר הָעֲבוֹדָה — שְׁמִירַת הַמַּחֲשָׁבָה.",
+      "it": "La «machshevet chol» (pensiero mondano) — è il campo di battaglia principale. Poiché anche quando la persona non commette peccato nell'azione, i pensieri mondani riempiono il suo cuore e indeboliscono l'anima divina. Pertanto il punto centrale dell'avodah — è la guardia del pensiero (shemirat ha-machshavah)."
+    }
+  ],
+  "_glossary_terms_used": ["levushim", "nefesh ha-behamit", "nefesh ha-elokit", "machshevet chol", "machshavah", "dibbur", "ma'aseh", "avodah", "shemirat ha-machshavah", "Tanya", "Likutei Amarim"]
+}

@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Blessings 3",
+  "name_he": "הלכות ברכות, פרק ג",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-06",
+  "hebrew_date": "19 Iyyar 5786",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "חֲמִשָּׁה מִינִין הֵן. הַחִטִּין וְהַשְּׂעוֹרִין וְהַכֻּסְּמִין וְשִׁבּלֶת שׁוּעָל וְשִׁיפּוֹן.",
+      "it": "Cinque sono le specie [di cereali]: il grano (chitìm), l'orzo (se'orìm), il farro (kusmin), l'avena (shibbolet shu'al) e la segale (shipòn). Il farro è una sottospecie del grano; l'avena e la segale sono sottospecie dell'orzo. Quando queste cinque specie si trovano ancora in spiga, si chiamano tevuà (messe) in ogni contesto; dopo che vengono trebbiati e ventilati, si chiamano dagàn (granaglie); quando vengono macinati, il loro impasto lavorato e il pane cotto, si chiamano pàt (pane). Il pane fatto da una di queste specie è ciò che si definisce comunemente «pane» senza ulteriori specificazioni."
+    },
+    {
+      "n": 2,
+      "he": "הָאוֹכֵל פַּת חַיָּב לְבָרֵךְ לְפָנֶיהָ בָּרוּךְ אַתָּה יְיָ׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ. וּלְאַחֲרֶיהָ אַרְבַּע בְּרָכוֹת.",
+      "it": "Chi mangia pane deve recitare prima la benedizione: «Benedetto sei Tu, Signore Dio nostro, Re dell'universo, che fa uscire il pane dalla terra» (ha-motzi lechem min ha-aretz). Dopo deve recitare le quattro benedizioni della birkat ha-mazon. Chi mangia cereali lessati nel loro stato grezzo recita prima borei peri ha-adamà e dopo borei nefashot rabbòt. Chi mangia farina recita prima she-ha-kol e dopo borei nefashot rabbòt."
+    },
+    {
+      "n": 3,
+      "he": "קֶמַח שֶׁל אֶחָד מֵחֲמֵשֶׁת הַמִּינִין שֶׁשְּׁלָקוּהוּ וְעֵרְבוּ בְּמַיִם אוֹ בִּשְׁאָר מַשְׁקִים אִם הָיָה עָבֶה כְּדֵי שֶׁיִּהְיֶה רָאוּי לַאֲכִילָה וּלְלָעֳסוֹ מְבָרֵךְ עָלָיו בַּתְּחִלָּה בּוֹרֵא מִינֵי מְזוֹנוֹת.",
+      "it": "Farina di una delle cinque specie cereali che sia stata cotta e mescolata con acqua o con altri liquidi: se il composto è denso al punto da essere adatto alla masticazione, si recita prima borei minei mezonot e dopo al ha-michyà ve-al ha-kalkalà. Se invece il composto è liquido al punto da essere adatto alla bevanda, si recita prima she-ha-kol e dopo borei nefashot rabbòt."
+    },
+    {
+      "n": 4,
+      "he": "קֶמַח שֶׁל אֶחָד מֵחֲמֵשֶׁת הַמִּינִין שֶׁבִּשְּׁלוֹ בִּקְדֵרָה בֵּין לְבַדּוֹ בֵּין שֶׁעֵרְבוֹ עִם דְּבָרִים אֲחֵרִים… וְכָל תַּבְשִׁיל שֶׁעֵרֵב בּוֹ מֵחֲמֵשֶׁת הַמִּינִין בֵּין קֶמַח בֵּין פַּת, בַּתְּחִלָּה מְבָרֵךְ עָלָיו בּוֹרֵא מִינֵי מְזוֹנוֹת.",
+      "it": "Si recita borei minei mezonot prima di consumare: farina di una delle cinque specie cotta in pentola — da sola o mescolata ad altri ingredienti, come gnocchi (levivot) e simili; cereali spezzati o pestati e cotti in pentola, come semole o groats — queste due categorie si chiamano ma'asè kedeirà (pietanza cotta). Stessa regola vale per qualunque pietanza in cui sia stata aggiunta farina o pane delle cinque specie."
+    },
+    {
+      "n": 5,
+      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים כְּשֶׁהָיָה הַמִּין הַזֶּה חָשׁוּב אֶצְלוֹ וְלֹא הָיָה טְפֵלָה.",
+      "it": "Quando si applica quanto detto? Quando la persona considera l'elemento dei cinque cereali come il principale (iqqàr) del composto e non come secondario (tefeilà). Se invece uno dei cinque cereali è l'elemento secondario, si recita la benedizione sull'elemento principale e la benedizione sul secondario è da essa esentata. Questo è un principio fondamentale nelle benedizioni: quando un alimento ha un elemento principale e uno secondario, si benedice sull'elemento principale — sia che il secondario sia mescolato con il principale, sia che non lo sia."
+    },
+    {
+      "n": 6,
+      "he": "כֵּיצַד הִיא הַטְּפֵלָה הַמְעֹרֶבֶת. כְּגוֹן לֶפֶת אוֹ כְּרוּב שֶׁבִּשְּׁלוֹ וְעֵרֵב בּוֹ קֶמַח כְּדֵי לְדַבְּקוֹ.",
+      "it": "Cos'è un elemento secondario mescolato? Per esempio: rape o cavolo cotti ai quali sia stata aggiunta farina di una delle cinque specie per tenere legato il composto — non si recita borei minei mezonot, perché la rapa è l'elemento principale e la farina è secondaria. Regola generale: qualunque cosa venga aggiunta per addensare, per dare profumo o per colorire un piatto è secondaria; se invece viene aggiunta per dare sapore è principale. Pertanto, dolciumi fatti cuocendo miele con amido di frumento per legarlo insieme non richiedono borei minei mezonot, poiché il miele è l'elemento principale."
+    },
+    {
+      "n": 7,
+      "he": "כֵּיצַד הִיא הַטְּפֵלָה שֶׁאֵינָהּ מְעֹרֶבֶת. הֲרֵי שֶׁצָּרִיךְ לֶאֱכל דָּג מָלִיחַ וְאָכַל הַפַּת עִמּוֹ כְּדֵי שֶׁלֹּא יַזִּיק הַמֶּלַח גְּרוֹנוֹ.",
+      "it": "Cos'è un elemento secondario non mescolato? Chi vuole mangiare pesce salato e mangia il pane con esso per proteggere la gola dalla salmoia: deve recitare la benedizione sul pesce salato, che esonera il pane, poiché il pane è secondario. La stessa regola si applica in tutti i casi analoghi."
+    },
+    {
+      "n": 8,
+      "he": "הַפַּת שֶׁפָּתַת אוֹתָהּ פִּתִּים וּבִשְׁלָהּ בִּקְדֵרָה אוֹ לָשָׁהּ בְּמָרָק.",
+      "it": "Pane spezzettato e cotto in pentola o immerso nel brodo: se i pezzi sono delle dimensioni di un ke-zayit (quantità di un'oliva) o se si riconosce ancora che sono pane e la loro forma non è mutata dalla cottura, si recita prima ha-motzi; se invece non sono della dimensione di un ke-zayit o la forma del pane si è alterata dalla cottura, si recita prima borei minei mezonot."
+    },
+    {
+      "n": 9,
+      "he": "עִסָּה שֶׁנֶּאֱפֵית בַּקַּרְקַע כְּמוֹ שֶׁהָעַרְבִיִּים שׁוֹכְנֵי הַמִּדְבָּרוֹת אוֹפִים.",
+      "it": "Pasta cotta sulla terra nuda, com'è uso degli Arabi abitanti del deserto: poiché non ha la forma del pane si recita prima borei minei mezonot; se però la persona ne fa la sua pasto principale (keva' se'udatò), recita ha-motzi. Analogamente, pasta impastata con miele, olio o latte, o alla quale siano stati aggiunti vari aromi e poi cotta — questa è la pàt ha-ba'à be-chisnìn: benché abbia l'aspetto del pane, si recita borei minei mezonot; ma se ne fa il suo pasto principale, recita ha-motzi."
+    },
+    {
+      "n": 10,
+      "he": "אֹרֶז שֶׁבִּשְּׁלוֹ אוֹ שֶׁעָשָׂה מִמֶּנּוּ פַּת בַּתְּחִלָּה מְבָרֵךְ עָלָיו בּוֹרֵא מִינֵי מְזוֹנוֹת.",
+      "it": "Riso cotto o pane di riso: prima si recita borei minei mezonot, dopo borei nefashot — purché non sia mescolato con altro. Pane di miglio o pane di altri legumi (kitniyot): prima si recita she-ha-kol, dopo borei nefashot rabbòt."
+    },
+    {
+      "n": 11,
+      "he": "כָּל שֶׁמְּבָרְכִין עָלָיו בַּתְּחִלָּה הַמּוֹצִיא מְבָרְכִין לְאַחֲרָיו בִּרְכַּת הַמָּזוֹן כְּסִדְרָהּ.",
+      "it": "Tutto ciò su cui si recita ha-motzi richiede dopo la birkat ha-mazon completa nelle sue quattro benedizioni. Tutto ciò su cui si recita borei minei mezonot richiede dopo la benedizione unica comprendente le tre (berachà achat me'ein shalosh), tranne il riso."
+    },
+    {
+      "n": 12,
+      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁאָכַל מִכְּזַיִת וּלְמַעְלָה.",
+      "it": "Quando si applicano queste norme? Quando la persona ha mangiato la quantità di un ke-zayit o più. Se ha mangiato meno di un ke-zayit — sia di pane sia di altri alimenti — o ha bevuto meno di un revi'it — sia di vino sia di altri liquidi — recita la benedizione appropriata prima, ma non recita alcuna benedizione dopo."
+    },
+    {
+      "n": 13,
+      "he": "וְזוֹ הִיא בְּרָכָה אַחַת מֵעֵין שָׁלֹשׁ. בָּרוּךְ אַתָּה יְיָ׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם עַל הַמִּחְיָה וְעַל הַכַּלְכָּלָה…",
+      "it": "Questo è il testo della benedizione unica comprendente le tre (berachà achat me'ein shalosh): «Benedetto sei Tu, Signore Dio nostro, Re dell'universo, per il nutrimento e per il sostentamento, per la terra desiderabile, buona e spaziosa che hai voluto e che hai dato in eredità ai nostri padri. Abbi misericordia, Signore Dio nostro, di noi e di Israele Tuo popolo, di Gerusalemme Tua città e di Sion dimora della Tua gloria; facci salire al suo interno, rallegraci con la sua ricostruzione, e Ti benediremo su di essa in santità e purezza. Benedetto sei Tu, Signore, per la terra e per il nutrimento». Nei Sabati e nelle feste vi si include un riferimento sintetico alla santità del giorno, come si fa nella birkat ha-mazon."
+    }
+  ],
+  "_glossary_terms_used": [
+    "birkat ha-mazon", "ha-motzi", "borei minei mezonot", "borei peri ha-adamà",
+    "she-ha-kol", "borei nefashot rabbòt", "al ha-michyà ve-al ha-kalkalà",
+    "iqqàr", "tefeilà", "ma'asè kedeirà", "ke-zayit", "revi'it",
+    "pàt ha-ba'à be-chisnìn", "berachà achat me'ein shalosh", "kitniyot"
+  ]
+}

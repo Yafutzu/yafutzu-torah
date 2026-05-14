@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Second Tithe 8-10",
+  "name_he": "משנה תורה, הלכות מעשר שני ונטע רבעי, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi della Seconda Decima e del Frutto del Quarto Anno, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-06-20",
+  "hebrew_date": "5 Tammuz 5786",
+  "halachot_count": 27,
+  "halachot": [
+    {
+      "n": "8:1-3",
+      "he": "נוּסַח וִידּוּי מַעַשְׂרוֹת...",
+      "it": "Il testo della dichiarazione del biur maasrot (viduy maasrot): 'Bì'arti ha-kodesh min ha-bayit...' — 'Ho rimosso il sacro dalla mia casa e l'ho dato al Levita, allo straniero, all'orfano e alla vedova, secondo tutti i precetti che mi hai comandato...' (Deuteronomio 26:13-15). Si recita in prima persona, davanti a Dio, nel Tempio o rivolti verso Gerusalemme."
+    },
+    {
+      "n": "8:4-6",
+      "he": "מִי חַיָּב לְהִתְוַדּוֹת...",
+      "it": "Chi è obbligato a recitare il viduy maasrot? Chi ha produce soggetta a decime negli anni 3 o 6 del ciclo sabbatico. Se non ha produce, non recita il viduy. La dichiarazione si recita a Pesach di quegli anni — specificamente negli anni in cui si fa biur."
+    },
+    {
+      "n": "8:7-9",
+      "he": "אָמַר בְּלֵב וְלֹא בְּפֶה...",
+      "it": "Se ha pensato la dichiarazione nel cuore senza dirla a voce — non ha adempiuto l'obbligo, poiché la Torah richiede dichiarazione verbale esplicita ('ve-amarta lifnei Hashem' — 'e dirai davanti a Dio'). La dichiarazione deve essere recitata a voce."
+    },
+    {
+      "n": "9:1-3",
+      "he": "פֵּרוֹת שֶׁאֵין יְכוֹלִין לְהַעֲלוֹתָן...",
+      "it": "Produce che non può essere portata a Gerusalemme perché troppo lontana o troppo pesante (ad esempio grandi quantità di olio o vino) — si riscatta e il denaro viene portato. Chi non può portare nemmeno il denaro, riscatta il denaro su un altro denaro (il denaro 'riscatta' se stesso nella sua santità) e lo spende lì."
+    },
+    {
+      "n": "9:4-6",
+      "he": "יְתוֹמִים שֶׁנָּפְלָה לָהֶם...",
+      "it": "Orfani che hanno ereditato produce soggetta a maaser sheni — se non hanno i mezzi per portarla a Gerusalemme, i Saggi consentono alcune alleviazioni. Il tutore (apotropos) degli orfani gestisce il maaser sheni per loro conto."
+    },
+    {
+      "n": "9:7-9",
+      "he": "גֵּר שֶׁנִּתְגַּיֵּר וְהָיוּ לוֹ פֵּרוֹת...",
+      "it": "Un proselita (ger) che si è convertito e aveva produce al momento della conversione — deve applicare le regole del maaser sheni come qualsiasi ebreo dalla conversione in poi. Produce raccolta prima della conversione in stato di non-ebreo è esente."
+    },
+    {
+      "n": "10:1-3",
+      "he": "בִּזְמַן הַזֶּה — בֵּית הַמִּקְדָּשׁ חָרֵב...",
+      "it": "Nell'era contemporanea, con il Tempio distrutto (beit ha-mikdash charev) — il maaser sheni non può essere portato a Gerusalemme poiché non c'è il Tempio e non c'è la possibilità di mangiarlo in santità. Il procedimento moderno: si separa il maaser sheni, poi si riscatta immediatamente su una moneta di un perutah (valore minimo), e la moneta riscatta tutta la santità."
+    },
+    {
+      "n": "10:4-6",
+      "he": "מַטְבֵּעַ שֶׁמְּחַלְּלִין עָלָיו...",
+      "it": "La moneta su cui si riscatta il maaser sheni in quest'era — deve valere almeno un perutah (la moneta minima). Tradizionalmente si usa una moneta appositamente designata per questo scopo (matu'a shel biur), che viene utilizzata ripetutamente per riscattare il maaser sheni di tutta la famiglia ogni anno."
+    },
+    {
+      "n": "10:7-9",
+      "he": "נֶטַע רְבָעִי בִּזְמַן הַזֶּה...",
+      "it": "Il neta revai nell'era contemporanea: si riscatta anch'esso su una moneta, poiché non si può portarlo a Gerusalemme. Secondo alcune autorità, al di fuori della Terra d'Israele il neta revai non si applica affatto. In Terra d'Israele si separa e si riscatta. Questo conclude le Leggi del Maaser Sheni e del Neta Revai."
+    }
+  ],
+  "_glossary_terms_used": ["viduy maasrot", "biur maasrot", "maaser sheni", "neta revai", "beit ha-mikdash", "perutah", "ger", "apotropos", "shemitah"]
+}

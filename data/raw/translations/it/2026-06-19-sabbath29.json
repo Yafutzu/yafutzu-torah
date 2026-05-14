@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Sabbath 29",
+  "name_he": "משנה תורה, הלכות שבת, פרק כט",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 29",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-19",
+  "hebrew_date": "4 Tammuz 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "חֹל הַמּוֹעֵד — יֵשׁ בּוֹ מְלָאכוֹת אֲסוּרוֹת...",
+      "it": "Il Chol HaMoed (giorni intermedi di Pesach e Sukkot) ha la stessa struttura di semi-santità: alcune melachot (lavori) sono proibite, altre permesse. Le proibizioni del Chol HaMoed non sono uguali a quelle dello Shabbat, ma hanno una propria categoria."
+    },
+    {
+      "n": 2,
+      "he": "כָּל מְלָאכָה הָאֲסוּרָה בְּחֹל הַמּוֹעֵד...",
+      "it": "Quali lavori sono proibiti nel Chol HaMoed? Generalmente: lavori professionali (umanut) per scopi economici, lavori che potrebbero essere stati fatti prima della festa, e lavori che non sono direttamente necessari per le esigenze della festa (tzorech ha-moed)."
+    },
+    {
+      "n": 3,
+      "he": "מְלָאכַת הֶדְיוֹט — אֲסוּרָה...",
+      "it": "Lavori amatoriali (melechet hedyot) — anche il lavoro di qualità inferiore è proibito nel Chol HaMoed se non serve al moed. Il criterio non è la qualità del lavoro ma la sua necessità per le esigenze festive."
+    },
+    {
+      "n": 4,
+      "he": "אֻמָּן שֶׁעֲשָׂה מְלַאכְתּוֹ לְצֹרֶךְ הַמּוֹעֵד...",
+      "it": "Un artigiano che lavora per le esigenze del moed (festa) stesso — è permesso. Ad esempio: chi ripara abiti per indossarli nel moed, chi prepara strumenti musicali per la festa, chi fa cibo per la festa."
+    },
+    {
+      "n": 5,
+      "he": "כּוֹתֵב בְּחֹל הַמּוֹעֵד...",
+      "it": "La scrittura (ketivah) nel Chol HaMoed — è generalmente proibita come atto professionale. Tuttavia, si può scrivere lettere personali (igrot shel reshut), registrare debiti che si potrebbero dimenticare, e documenti necessari per prevenire perdite."
+    },
+    {
+      "n": 6,
+      "he": "כּוֹתְבִין גִּטִּין וְשׁוֹבָרוֹת...",
+      "it": "Si possono scrivere documenti legali urgenti nel Chol HaMoed: un get (documento di divorzio), una ricevuta (shover), un documento di matrimonio (ketubah) — se c'è necessità urgente che non poteva aspettare dopo la festa."
+    },
+    {
+      "n": 7,
+      "he": "אֵין כּוֹתְבִין שְׁטָרֵי חוֹב...",
+      "it": "Non si scrivono documenti di debito (shtarei chov) nel Chol HaMoed, a meno che non si tema che il creditore perderà il suo denaro se non lo documenta subito. Il principio è 'davar ha-avud' (prevenire una perdita)."
+    },
+    {
+      "n": 8,
+      "he": "מֻתָּר לִכְתֹּב סְפָרִים...",
+      "it": "È permesso scrivere libri sacri (sifrei Torah, Tefillin, mezuzot) nel Chol HaMoed poiché è una mitzvah. Libri di studio della Torah si possono scrivere per uso proprio, non per commercio."
+    },
+    {
+      "n": 9,
+      "he": "הַמְּלָאכוֹת הַמֻּתָּרוֹת לְצֹרֶךְ הַמּוֹעֵד...",
+      "it": "Melachot permesse nel Chol HaMoed per esigenze della festa: cucinare, cuocere, lavare abiti per indossarli nel moed, tagliare capelli se arrivato dopo un lungo viaggio (e non poteva farlo prima della festa), e altri bisogni diretti del festeggiamento."
+    },
+    {
+      "n": 10,
+      "he": "הַגִּלּוּחַ בְּחֹל הַמּוֹעֵד...",
+      "it": "Il taglio di capelli e la rasatura nel Chol HaMoed — generalmente proibiti. Le eccezioni: chi arriva dall'estero o esce di prigione nel moed (e non poteva tagliarsi prima), chi è in lutto prolungato, chi ha un voto (neder) di non tagliarsi i capelli e lo annulla nel moed."
+    },
+    {
+      "n": 11,
+      "he": "כִּבּוּס בְּחֹל הַמּוֹעֵד...",
+      "it": "Lavare i panni nel Chol HaMoed — generalmente proibito. Eccezioni permesse: abiti di bambini piccoli che si sporcano spesso, panni per la notte (poiché è impossibile prepararli tutti prima), e chi non aveva abiti puliti prima della festa."
+    },
+    {
+      "n": 12,
+      "he": "הַצַּיִד בְּחֹל הַמּוֹעֵד...",
+      "it": "La caccia nel Chol HaMoed — è permessa se serve per il cibo del moed. La pesca (diyug) è permessa per lo stesso motivo. Non si cacciano o pescano animali per venderli o per uso commerciale."
+    },
+    {
+      "n": 13,
+      "he": "בּוֹנִין בִּנְיָן לְצֹרֶךְ הַמּוֹעֵד...",
+      "it": "Costruzione nel Chol HaMoed — proibita per lavori permanenti. Permessa per costruzioni temporanee necessarie per la festa (come una sukkah o una pergola per proteggersi dal sole durante il moed)."
+    },
+    {
+      "n": 14,
+      "he": "אֵין חוֹפְרִים קְבָרוֹת בְּחֹל הַמּוֹעֵד...",
+      "it": "Non si scavano tombe nel Chol HaMoed, tranne per la sepoltura immediata di qualcuno che è morto durante il moed. In tal caso, si seppellisce il morto con il minimo indispensabile."
+    },
+    {
+      "n": 15,
+      "he": "מַשְׁקִין שָׂדֶה בְּחֹל הַמּוֹעֵד...",
+      "it": "Irrigare un campo nel Chol HaMoed — se i raccolti periranno senza irrigazione, è permesso irrigare anche con un sistema di canali (beit ha-she'lahin). Per campi non urgenti, è proibito."
+    },
+    {
+      "n": 16,
+      "he": "מְטַפְּלִין בְּחַיּוֹת וּבְבֶהֱמוֹת...",
+      "it": "Prendersi cura di animali nel Chol HaMoed — è permesso per il benessere degli animali (tzaar ba'alei chayyim). Si può mungere, nutrire, e curare gli animali anche se questo costituisce un lavoro."
+    },
+    {
+      "n": 17,
+      "he": "הַמֻּקְצֶה בְּחֹל הַמּוֹעֵד...",
+      "it": "Le regole del muktzeh nel Chol HaMoed sono più permissive di quelle dello Shabbat. Oggetti che non sono muktzeh ordinari possono essere spostati nel Chol HaMoed anche senza necessità diretta."
+    },
+    {
+      "n": 18,
+      "he": "מַכְשִׁירֵי אֹכֶל...",
+      "it": "Preparare strumenti necessari per preparare il cibo del moed (machshirei ochel) — è permesso anche se la preparazione richiede lavori significativi. Il principio è che tutto il necessario per ochel nefesh (cibo festivo) è permesso."
+    },
+    {
+      "n": 19,
+      "he": "שֶׁכֶר שֶׁפָּסַק...",
+      "it": "Se una trattativa commerciale che non poteva attendere è iniziata prima del moed — si può completarla nel Chol HaMoed per prevenire perdita economica (davar ha-avud). Non si iniziano nuove trattative commerciali nel moed."
+    },
+    {
+      "n": 20,
+      "he": "עוֹלֵי רְגָלִים...",
+      "it": "I pellegrini che salgono a Gerusalemme per il moed (olei regel) — potevano acquistare e vendere nel moed ciò che era necessario per le loro necessità del pellegrinaggio. Questo non rientra nei divieti del Chol HaMoed poiché è direttamente legato alla mitzvah del moed."
+    },
+    {
+      "n": 21,
+      "he": "עִקַּר חֹל הַמּוֹעֵד — שִׂמְחָה...",
+      "it": "Conclude il capitolo: il tema fondamentale del Chol HaMoed è la gioia (simchat ha-moed) — non il lavoro. I Saggi hanno istituito le restrizioni del lavoro proprio per garantire che il moed venga vissuto come tempo di gioia, studio, preghiera e famiglia, non come continuazione dei giorni feriali."
+    }
+  ],
+  "_glossary_terms_used": ["Chol HaMoed", "melachot", "umanut", "tzorech ha-moed", "melechet hedyot", "davar ha-avud", "ochel nefesh", "simchat ha-moed", "tzaar ba'alei chayyim", "muktzeh", "olei regel"]
+}

@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 3-5",
+  "name_he": "משנה תורה, הלכות טומאת מת, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-08-08",
+  "hebrew_date": "25 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "המת מטמא בשלושה דרכים: במגע — כשנוגע בו; במשא — כשנושאו; ובאוהל — כשנמצא תחת קורת גג אחת עמו. כל שלושתם — האדם נעשה 'ראשון לטומאה'.",
+      "it": "Il cadavere (met) trasmette impurità in tre modi: per contatto (nega) — quando lo si tocca; per trasporto (massa) — quando lo si porta; e per tettoia (ohel) — quando ci si trova sotto lo stesso tetto insieme ad esso. In tutti e tre i casi la persona diventa rishon le-tumah (primo grado di impurità)."
+    },
+    {
+      "n": "3:2",
+      "he": "הנושא את המת — אפילו אם לא נגע בו — נטמא. וכן כלים שנשאו את המת — נטמאו. ואפילו שנשאו על ידי כלי בינוני — כלל הנישא וכלי הנשיאה נטמאים.",
+      "it": "Chi porta il cadavere — anche se non lo ha toccato — è impuro. Anche gli oggetti che hanno trasportato il cadavere sono impuri. Persino se il trasporto è avvenuto tramite uno strumento intermedio, sia l'oggetto trasportato che lo strumento di trasporto sono impuri."
+    },
+    {
+      "n": "3:3",
+      "he": "אוהל שיש תחתיו מת — הוא מטמא כל האנשים והכלים שתחתיו. ואינו מטמא את אלו שמחוצה לו.",
+      "it": "Una tettoia (ohel) sotto la quale si trova un cadavere trasmette impurità a tutte le persone e gli oggetti che si trovano sotto di essa. Non trasmette impurità a chi si trova fuori dall'ohel."
+    },
+    {
+      "n": "4:1",
+      "he": "המת שלם — מטמא מן התורה. אבר מן המת — מטמא. ועמוד השדרה, הגולגולת — מטמאים. ורבע קב עצמות — שיעור שיש בו כדי להחשב כגוף שלם.",
+      "it": "Un cadavere intero trasmette impurità per legge della Torah. Un arto staccato da un cadavere trasmette impurità. La colonna vertebrale e il cranio trasmettono impurità. Un quartino (reva kabav) di ossa — è la misura considerata sufficiente a essere equiparata a un corpo intero."
+    },
+    {
+      "n": "4:2",
+      "he": "בשר המת — מטמא בכל שהוא, ובלבד שיש בו לחות. בשר מת שנשתייר ממנו ולחותו — מטמא; ושיבש לגמרי — טהור.",
+      "it": "La carne del cadavere trasmette impurità in qualsiasi quantità, a condizione che abbia ancora umidità. Carne di cadavere che ha mantenuto la sua umidità trasmette impurità; quella che si è completamente seccata è pura."
+    },
+    {
+      "n": "5:1",
+      "he": "מת מצווה — זהו המת שאין לו מי שיתעסק בקבורתו. כל מי שמצאו — חייב לקוברו, אפילו כוהן ונזיר שאסורים להיטמא למת — חייבים לקוברו.",
+      "it": "Il met mitzvah (cadavere abbandonato) è il cadavere che non ha nessuno che si occupi della sua sepoltura. Chiunque lo trovi è obbligato a seppellirlo — anche un kohen e un nazir (nazireo) che normalmente hanno il divieto di contaminarsi con un cadavere sono obbligati a seppellirlo."
+    },
+    {
+      "n": "5:2",
+      "he": "למה? כי הכבוד לאדם שנפטר — גדול מכל האיסורים. ואין לעבור על האדם המת ולהשאירו מוזנח. ולכן מת מצווה — דוחה כל מצווה אחרת.",
+      "it": "Perché? Perché il rispetto dovuto a una persona defunta è superiore a tutti i divieti. Non si deve passare oltre un cadavere abbandonato e lasciarlo insepolto. Pertanto il met mitzvah supera (doche) qualsiasi altro precetto."
+    }
+  ],
+  "_glossary_terms_used": ["met", "nega", "massa", "ohel", "rishon le-tumah", "met mitzvah", "kohen", "nazir"]
+}

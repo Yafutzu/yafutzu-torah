@@ -1,0 +1,87 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 5",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק ה",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 5",
+  "cycle": "rambam-1",
+  "date": "2026-07-19",
+  "hebrew_date": "5 Av 5786",
+  "halachot_count": 15,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה לִקַּח אַרְבָּעָה מִינִין בַּסֻּכּוֹת, שֶׁנֶּאֱמַר: 'וּלְקַחְתֶּם לָכֶם בַּיּוֹם הָרִאשׁוֹן פְּרִי עֵץ הָדָר, כַּפֹּת תְּמָרִים, וַעֲנַף עֵץ עָבֹת, וְעַרְבֵי נָחַל'.",
+      "it": "Vi è un comandamento positivo di prendere le quattro specie (arba minim) a Sukkot, come è detto: 'E prenderete per voi il primo giorno il frutto di un albero maestoso (peri etz hadar), rami di palma (kappot temarim), rami di albero frondoso (anaf etz avot), e salici di torrente (arvei nachal)' (Levitico 23:40)."
+    },
+    {
+      "n": 2,
+      "he": "פְּרִי עֵץ הָדָר — זֶה אֶתְרוֹג. כַּפֹּת תְּמָרִים — זֶה לוּלָב. עֲנַף עֵץ עָבֹת — אֵלּוּ הֲדַסִּים. עַרְבֵי נָחַל — אֵלּוּ עֲרָבוֹת.",
+      "it": "Il 'frutto dell'albero maestoso' è il cedro (etrog); i 'rami di palma' sono il lulav (ramo di palma); i 'rami dell'albero frondoso' sono i mirti (hadasim); i 'salici di torrente' sono i salici (aravot)."
+    },
+    {
+      "n": 3,
+      "he": "אֶתְרוֹג — צָרִיךְ שֶׁיִּהְיֶה הָדָר. וְאֵיזֶהוּ הָדָר? שֶׁיִּהְיֶה שָׁלֵם, לֹא חָסֵר, וְלֹא מְנֻגָּע.",
+      "it": "L'etrog deve essere hadar (bello/maestoso). Cosa significa hadar? Dev'essere integro, non mancante di parti, e non colpito da malattie o macchie."
+    },
+    {
+      "n": 4,
+      "he": "אֶתְרוֹג הַמֻּקְפָּד — פָּסוּל. אֶתְרוֹג שֶׁנִּיקַּב אֲפִלּוּ כְּמוֹ שֶׁהַמַּחַט — פָּסוּל.",
+      "it": "Un etrog che ha muffa (mukkpad) è invalido. Un etrog che abbia anche un solo foro, anche sottile come un ago, è invalido."
+    },
+    {
+      "n": 5,
+      "he": "אֶתְרוֹג שֶׁנִּשְׁתַּנָּה צוּרָתוֹ אוֹ צַבְעוֹ — פָּסוּל.",
+      "it": "Un etrog la cui forma o il cui colore siano stati alterati è invalido."
+    },
+    {
+      "n": 6,
+      "he": "אֶתְרוֹג שֶׁל עָרְלָה — פָּסוּל. שֶׁל תְּרוּמָה טְמֵאָה — פָּסוּל.",
+      "it": "Un etrog proveniente da un albero entro i primi tre anni (orlah) è invalido. Un etrog di terumah impura è invalido."
+    },
+    {
+      "n": 7,
+      "he": "לוּלָב — בָּעִינַן שֶׁיִּהְיֶה שִׁדְרוֹ עוֹלֶה עַל הֶעָלִין, וְשֶׁלֹּא יְהוּ עָלָיו נֶחְלְקוּ.",
+      "it": "Il lulav richiede che la sua spina dorsale (shidra) si elevi al di sopra delle foglie, e che le foglie non si siano spaccate."
+    },
+    {
+      "n": 8,
+      "he": "לוּלָב שֶׁנִּקְרְעוּ רוֹב עָלָיו — פָּסוּל. נִפְרְדוּ עָלָיו זֶה מִזֶּה — פָּסוּל.",
+      "it": "Un lulav le cui foglie siano state per lo più strappate è invalido. Se le foglie si sono separate l'una dall'altra è invalido."
+    },
+    {
+      "n": 9,
+      "he": "הֲדַס — צָרִיךְ שֶׁיִּהְיֶה עָבוֹת, כְּלוֹמַר שֶׁעָלָיו מְחֻפִּים אֶת עֵצוֹ. וְשִׁעוּרוֹ שְׁלֹשָׁה טְפָחִים.",
+      "it": "Il mirto (hadas) deve essere folto (avot), cioè le sue foglie devono coprire il suo stelo, e la sua misura minima è di tre palmi."
+    },
+    {
+      "n": 10,
+      "he": "הֲדַס שֶׁנָּשְׁרוּ עָלָיו אוֹ שֶׁהֵבִישׁוּ רֻבָּן — פָּסוּל.",
+      "it": "Un mirto le cui foglie siano cadute o siano appassite per la maggior parte è invalido."
+    },
+    {
+      "n": 11,
+      "he": "עֲרָבָה — צָרִיךְ שֶׁיִּהְיֶה עָלֶיהָ לְבָנָה וְשִׂפְתָּהּ שְׁלֵמָה וְעַנְפָּהּ אָדֹם.",
+      "it": "Il salice (aravah) richiede che le sue foglie siano bianche e che il bordo delle foglie sia integro, e che il suo ramo sia rosso."
+    },
+    {
+      "n": 12,
+      "he": "עֲרָבָה שֶׁנָּשְׁרוּ רוֹב עָלֶיהָ אוֹ שֶׁהֵבִישׁוּ — פְּסוּלָה.",
+      "it": "Un salice le cui foglie siano per lo più cadute o appassite è invalido."
+    },
+    {
+      "n": 13,
+      "he": "כֻּלָּן צְרִיכִין שֶׁיִּהְיוּ שְׁלֵמִים וְלֹא חֲסֵרִים.",
+      "it": "Tutti e quattro i minim devono essere interi e non mancanti di parti."
+    },
+    {
+      "n": 14,
+      "he": "גָּזוּל וְיָבֵשׁ — פָּסוּל בְּכָל אַרְבַּעַת הַמִּינִין.",
+      "it": "Rubato (gazul) o secco: sono motivi di invalidità per tutte e quattro le specie."
+    },
+    {
+      "n": 15,
+      "he": "אֶתְרוֹג שֶׁל אִישׁ אַחֵר — אֵינוֹ יוֹצֵא בּוֹ אֶלָּא אִם כֵּן נָתַן לוֹ בְּמַתָּנָה.",
+      "it": "Non si adempie il comandamento con l'etrog di un'altra persona a meno che non l'abbia dato in dono."
+    }
+  ],
+  "_glossary_terms_used": ["arba minim", "etrog", "lulav", "hadasim", "aravot", "hadar", "orlah", "terumah", "shidra", "avot"]
+}

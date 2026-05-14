@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Geneivah 3-5",
+  "name_he": "משנה תורה, הלכות גניבה, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi del Furto (Geneivah), capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-09-28",
+  "hebrew_date": "17 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "גָּנְבוּ שְׁנַיִם — כָּל אֶחָד מֵהֶם מְשַׁלֵּם כֶּפֶל עַל חֶלְקוֹ. כֵּיצַד? גָּנְבוּ שׁוֹר שֶׁשָּׁוֶה עֲשָׂרָה, כָּל אֶחָד מֵהֶם מְשַׁלֵּם עֲשָׂרָה.",
+      "it": "Se hanno rubato due persone — ognuna di esse paga il kefel sulla propria quota. Come? Hanno rubato un bue del valore di dieci, ognuna di esse paga dieci."
+    },
+    {
+      "n": "3:2",
+      "he": "מָכַר לְקוֹנֶה שְׁלִישִׁי — הַקּוֹנֶה קוֹנֶה, אֲבָל עָלָיו לְהַחֲזִיר לַנִּגְנַב אִם יֵדַע שֶׁהָיָה גָּנוּב.",
+      "it": "Se ha venduto a un terzo acquirente — l'acquirente acquista, ma deve restituire alla vittima se sapeva che era rubato."
+    },
+    {
+      "n": "3:3",
+      "he": "הַקּוֹנֶה מִן הַגַּנָּב בְּלֹא יְדִיעָה — קָנָה, וְלֹא מְשַׁלֵּם. הַגַּנָּב מְשַׁלֵּם לַנִּגְנַב.",
+      "it": "Chi acquista dal ladro all'insaputa — acquista e non paga. Il ladro paga alla vittima."
+    },
+    {
+      "n": "4:1",
+      "he": "גַּנָּב שֶׁהֵשִׁיב אֶת הַגְּנֵבָה לִפְנֵי שֶׁנִּתְפַּס — לֹא מְשַׁלֵּם כֶּפֶל. שֶׁנֶּאֱמַר: 'וְהֵשִׁיב אֶת הַגְּנֵבָה אֲשֶׁר גָּנָב' — אִם הֵשִׁיב, נִמְחַל הַכֶּפֶל.",
+      "it": "Il ladro che ha restituito il furto prima di essere catturato — non paga il kefel. Come è detto: 'E restituirà il furto che ha rubato' — se ha restituito, il kefel è rimesso."
+    },
+    {
+      "n": "4:2",
+      "he": "הֵשִׁיב לְאַחַר שֶׁנִּתְפַּס — מְשַׁלֵּם כֶּפֶל. שֶׁהַחֲזָרָה אֵינָהּ מְבַטֶּלֶת אֶת הַכֶּפֶל שֶׁנִּתְחַיֵּב בּוֹ בְּשָׁעַת הַגְּנֵבָה.",
+      "it": "Se ha restituito dopo essere stato catturato — paga il kefel. Perché la restituzione non annulla il kefel di cui si è reso responsabile al momento del furto."
+    },
+    {
+      "n": "4:3",
+      "he": "הֵשִׁיב חֵלֶק מֵהַגְּנֵבָה — מְשַׁלֵּם כֶּפֶל עַל הַחֵלֶק שֶׁלֹּא הֵשִׁיב.",
+      "it": "Se ha restituito parte del furto — paga il kefel sulla parte che non ha restituito."
+    },
+    {
+      "n": "5:1",
+      "he": "גָּנַב שׁוֹר וְטָבְחוֹ — חַיָּב חֲמִשָּׁה. גָּנַב שׁוֹר וּמָכְרוֹ — חַיָּב חֲמִשָּׁה. גָּנַב וְטָבַח חֵלֶק — מְשַׁלֵּם בְּהֶתְאַם.",
+      "it": "Ha rubato un bue e lo ha macellato — paga cinque. Ha rubato un bue e lo ha venduto — paga cinque. Ha rubato e macellato in parte — paga proporzionalmente."
+    },
+    {
+      "n": "5:2",
+      "he": "שְׁלֹשָׁה שְׁלָבִים לְחִיּוּב הַחֲמִשָּׁה: גְּנֵבָה, טְבִיחָה אוֹ מְכִירָה, וְהַגָּנָב לֹא בְּעָלִים עֲדַיִן בְּשָׁעַת הַטְּבִיחָה.",
+      "it": "Tre stadi per la responsabilità del pagamento quintuplo: il furto, la macellazione o la vendita, e il ladro non è ancora proprietario al momento della macellazione."
+    },
+    {
+      "n": "5:3",
+      "he": "גָּנַב שׁוֹר וְהֶחְזִיר לַבְּעָלִים לְפָנָיו וְהֵם לֹא יָדְעוּ — וְאַחַר כָּך טָבַח — פָּטוּר מֵחֲמִשָּׁה, שֶׁהַשּׁוֹר כְּבָר חָזַר לִבְעָלָיו.",
+      "it": "Ha rubato il bue e l'ha restituito ai proprietari all'insaputa loro, e poi lo ha macellato — è esente dal pagamento quintuplo, perché il bue era già tornato ai proprietari."
+    }
+  ],
+  "_glossary_terms_used": ["gannav", "kefel", "arba'ah va-chamishah", "geneivah", "tevichah", "mechirah"]
+}

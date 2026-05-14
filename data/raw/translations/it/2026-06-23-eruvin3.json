@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 3",
+  "name_he": "משנה תורה, הלכות עירובין פרק ג",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-23",
+  "hebrew_date": "8 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד עֵרוּבֵי תְּחוּמִין...",
+      "it": "Come funziona l'eruv techumin (eruv dei confini)? La Torah proibisce di camminare più di duemila cubiti (circa un chilometro) al di fuori della propria città durante il Sabato. I Saggi hanno istituito l'eruv techumin: deponendo del cibo al confine della propria distanza prima del Sabato, si 'sposta' il proprio luogo di dimora a quel punto e si ottengono ulteriori duemila cubiti verso quella direzione."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד עוֹשִׂין אֶת הָעֵרוּב...",
+      "it": "Come si stabilisce l'eruv techumin? Prima che inizi il Sabato, si porta del cibo (pane o qualsiasi alimento) e lo si deposita in un luogo entro i duemila cubiti dalla propria abitazione. Si dice la formula: 'Con questo eruv sia per me il luogo di riposo (mekom shevisah) nel punto in cui si trova questo cibo.' Da quel punto, si hanno duemila cubiti in ogni direzione."
+    },
+    {
+      "n": 3,
+      "he": "שִׁעוּר הָאוֹכֶל לָעֵרוּב...",
+      "it": "La quantità di cibo richiesta per l'eruv techumin: deve essere sufficiente per due pasti — la quantità che una persona normale mangia in due pasti, vale a dire circa 18 grumi di una sostanza del volume di un fico (gerogeret). Questa è la misura minima perché l'eruv sia valido."
+    },
+    {
+      "n": 4,
+      "he": "עֵרוּב תְּחוּמִין בְּמָעוֹת...",
+      "it": "L'eruv techumin può essere effettuato con del denaro? No. A differenza dell'eruv chatzerot (dei cortili), l'eruv techumin richiede specificamente del cibo, poiché il concetto è che la persona 'si trova' dove si trova il suo pasto. Il denaro non rappresenta un pasto e quindi non è valido per questo scopo."
+    },
+    {
+      "n": 5,
+      "he": "הַמַּנִּיחַ עֵרוּבוֹ בְּמָקוֹם שֶׁאֵינוֹ יָדוּעַ...",
+      "it": "Chi deposita l'eruv in un luogo sconosciuto o nascosto: se non sa esattamente dove si trova il cibo, l'eruv è invalido. Il cibo deve essere in un luogo preciso e noto al depositante, poiché il concetto dell'eruv techumin è che la sua 'dimora' del Sabato si trova in quel punto specifico."
+    },
+    {
+      "n": 6,
+      "he": "הָיָה עֵרוּבוֹ בַּקְּבָרוֹת...",
+      "it": "Se l'eruv è depositato in un cimitero: un sacerdote (kohen) non può entrare in un cimitero, pertanto per lui tale eruv non è valido — non può raggiungere il punto del suo eruv per 'dimorarvi'. Per un Israelita comune, l'eruv rimane valido anche se depositato in un cimitero."
+    },
+    {
+      "n": 7,
+      "he": "הָיָה עֵרוּבוֹ עַל גַּבֵּי הַבְּהֵמָה...",
+      "it": "Se l'eruv è depositato sul dorso di un animale: se l'animale si sposta, anche l'eruv si sposta, e il punto di 'dimora' dell'eruv cambia. Questo è problematico; pertanto si preferisce depositare l'eruv in un luogo fisso. Se l'animale era fermo al momento dell'inizio del Sabato, alcuni permettono l'eruv in quel luogo."
+    },
+    {
+      "n": 8,
+      "he": "הַמְעָרֵב לְרוּחוֹת...",
+      "it": "Chi effettua l'eruv in più direzioni: si può fare un eruv techumin separato per ogni direzione cardinale — ma ogni eruv annulla gli altri. Si può scegliere solo una direzione. Se si vuole estendere la propria distanza verso est, si perde la distanza aggiuntiva verso ovest e viceversa."
+    },
+    {
+      "n": 9,
+      "he": "מִי שֶׁיָּצָא לְדַבַּר מִצְוָה...",
+      "it": "Chi è uscito dalla propria città per una questione di mitzvah prima del Sabato e non ha potuto depositare l'eruv: i Saggi sono stati indulgenti e gli permettono di tornare entro i duemila cubiti dal punto in cui si trovava all'inizio del Sabato. Questo è considerato il suo 'luogo di dimora' del Sabato."
+    },
+    {
+      "n": 10,
+      "he": "הַיּוֹצֵא בְּשַׁבָּת בִּרְשׁוּת...",
+      "it": "Chi è uscito il Sabato con permesso speciale (ad esempio, per soccorrere una città assediata): se i nemici si ritirano, può tornare al luogo in cui si trovava all'inizio del Sabato. I Saggi hanno esteso a lui la leniency di non perdere il suo techum (confine del Sabato) in situazioni di emergenza."
+    },
+    {
+      "n": 11,
+      "he": "הַמְעָרֵב עַל יְדֵי שָׁלִיחַ...",
+      "it": "Chi effettua l'eruv techumin tramite un rappresentante (shaliach): il rappresentante deposita il cibo al posto del mandante, nel luogo stabilito. L'eruv è valido, a condizione che il mandante abbia detto al rappresentante il luogo esatto e abbia inteso 'dimorare' in quel punto al momento del bein hashmashot."
+    },
+    {
+      "n": 12,
+      "he": "הַמְעָרֵב בְּתנַאי...",
+      "it": "Chi effettua l'eruv con una condizione: ad esempio, dice 'Se arriverà il maestro Tal, il mio eruv sia verso quella direzione; altrimenti sia verso quest'altra direzione.' La condizione è valida a patto che sia formulata correttamente prima del Sabato e che entrambe le opzioni siano fisicamente realizzabili."
+    },
+    {
+      "n": 13,
+      "he": "הֵבִיא לוֹ עֵרוּבוֹ בְּיָדוֹ...",
+      "it": "Se qualcuno porta l'eruv di un'altra persona: è valido, purché la persona per cui è stato fatto l'eruv abbia dato il proprio consenso (da'at) prima del Sabato. Il principio halachico è che non si può fare il bene per qualcuno contro la sua volontà (ein zakhin le-adam ella mida'ato), ma qui si presume il consenso tacito."
+    },
+    {
+      "n": 14,
+      "he": "כֵּיצַד מוֹדְדִין אֶת הַתְּחוּם...",
+      "it": "Come si misura il techum (confine dei duemila cubiti)? Si misura in linea retta dalla propria abitazione (o dal luogo dell'eruv). Il cubito halachico misura sei tefachim (palmi). Le misurazioni approssimative sono consentite, ma è meglio essere precisi. Il Rambam discute i metodi di misurazione pratici usati dai Saggi."
+    },
+    {
+      "n": 15,
+      "he": "הַמְהַלֵּךְ בִּמְקוֹם סַכָּנָה...",
+      "it": "Chi cammina in un luogo pericoloso prima del Sabato e non sa dove si fermerà: può dire 'Il mio luogo di riposo (mekom shevisati) sia nel luogo in cui sarò al tramonto del Sabato.' Questo è un eruv mentale speciale permesso in circostanze di pericolo, dove è impossibile depositare fisicamente il cibo."
+    },
+    {
+      "n": 16,
+      "he": "מִי שֶׁהָיָה בְּדֶרֶךְ...",
+      "it": "Chi è in cammino e il Sabato lo coglie per strada: il suo 'luogo di dimora' per il Sabato è il punto esatto in cui si trovava quando è entrato il Sabato (al bein hashmashot). Da quel punto, può camminare duemila cubiti in ogni direzione, anche se non si trova in una città o in un'abitazione."
+    },
+    {
+      "n": 17,
+      "he": "הָיָה בְּתוֹךְ הַתְּחוּם...",
+      "it": "Chi si trovava all'interno del proprio techum quando è entrato il Sabato: ha il diritto di tornare alla propria casa. Se però si è dimenticato di fare l'eruv e si trova oltre i duemila cubiti dalla sua casa, non può tornare direttamente a casa, ma deve restare entro duemila cubiti dal punto in cui è stato colto dal Sabato."
+    },
+    {
+      "n": 18,
+      "he": "הַנּוֹתֵן עֵרוּבוֹ בְּתוֹךְ הָעִיר...",
+      "it": "Chi deposita l'eruv all'interno della propria città: non ottiene nessun vantaggio aggiuntivo, perché l'intera città è già inclusa nei suoi duemila cubiti. L'eruv techumin è utile solo se depositato al confine della propria distanza permessa, per estendere il limite oltre la città stessa."
+    },
+    {
+      "n": 19,
+      "he": "כְּרַךְ וְעִיר הַסְּמוּכִין זֶה לָזֶה...",
+      "it": "Una grande città e una piccola città vicine: se si trovano entro settanta cubiti e due terzi l'una dall'altra, si considerano un'unica città ai fini del techum del Sabato. I duemila cubiti si misurano dall'estremità della città combinata, non separatamente da ciascuna."
+    },
+    {
+      "n": 20,
+      "he": "הָעִיר שֶׁיֵּשׁ לָהּ בָּתִּים חוֹצְלִין...",
+      "it": "Una città con abitazioni sparse nei dintorni (batim chutzilin — case fuori dalla cinta): se queste case si trovano entro settanta cubiti e due terzi dalle case della città, si sommano alla città. I duemila cubiti del techum si misurano dall'ultima casa del perimetro esteso, dando ai residenti un raggio maggiore."
+    }
+  ],
+  "_glossary_terms_used": ["eruv techumin", "techum shabbat", "mekom shevisah", "duemila cubiti", "bein hashmashot", "shaliach", "kohen", "da'at", "ein zakhin le-adam", "gerogeret", "tefachim", "reshut"]
+}

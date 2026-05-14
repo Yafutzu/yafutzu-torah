@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'aseh HaKorbanot 13-15",
+  "name_he": "משנה תורה, הלכות מעשה הקורבנות, פרקים יג-טו",
+  "name_it": "Mishneh Torah, Leggi della Procedura dei Sacrifici, capitoli 13-15",
+  "cycle": "rambam-3",
+  "date": "2026-07-15",
+  "hebrew_date": "1 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "13:1",
+      "he": "מִצְוַת עֲשֵׂה לְהַקְרִיב כָּל קָרְבָּן לִשְׁמוֹ. הַמַּקְרִיב שֶׁלֹּא לִשְׁמוֹ — כְּשֵׁר בְּדִיעֲבַד, אֶלָּא שֶׁלֹּא עָלָה לְבַעְלָיו.",
+      "it": "Vi è un comandamento positivo di offrire ogni sacrificio per il suo scopo (lishmo). Chi offre non per il suo scopo (shelo lishmah) — è valido dopo il fatto (bedi'avad), ma non conta per il proprietario."
+    },
+    {
+      "n": "13:2",
+      "he": "שֶׁלֹּא לִשְׁמוֹ — שֶׁשִּׁנָּה אֶת שְׁמוֹ. כְּגוֹן שֶׁהִקְרִיב חַטָּאת לְשֵׁם עוֹלָה.",
+      "it": "«Non per il suo scopo» (shelo lishmah) — che ne ha cambiato la designazione. Come chi ha offerto un chatat al posto di un'olah."
+    },
+    {
+      "n": "13:3",
+      "he": "חַטָּאת שֶׁשְּׁחָטָהּ שֶׁלֹּא לִשְׁמָהּ — פְּסוּלָה וְאֵינָהּ עוֹלָה לַבְּעָלִים.",
+      "it": "Un chatat che è stato macellato non per il suo scopo — è invalido e non conta per il proprietario."
+    },
+    {
+      "n": "14:1",
+      "he": "פִּיגּוּל — שֶׁהִקְרִיב קָרְבָּן בְּמַחֲשֶׁבֶת לֶאֱכֹל אוֹתוֹ חוּץ לִזְמַנּוֹ אוֹ חוּץ לִמְקוֹמוֹ.",
+      "it": "Piggul — chi ha offerto un sacrificio con l'intenzione di mangiarlo al di fuori del suo tempo o al di fuori del suo luogo."
+    },
+    {
+      "n": "14:2",
+      "he": "הָאוֹכֵל מִן הַפִּגּוּל — חַיָּב כָּרֵת.",
+      "it": "Chi mangia dal piggul — è passibile di karet."
+    },
+    {
+      "n": "14:3",
+      "he": "אֵיזֶה מַחֲשָׁבָה פוֹסֶלֶת? מַחֲשֶׁבֶת \"חוּץ לִזְמַנּוֹ\" — לֶאֱכֹל בְּיוֹם שְׁלִישִׁי מַה שֶּׁנֶּאֱכָל בִּשְׁנֵי יָמִים.",
+      "it": "Quale intenzione invalida? L'intenzione di «fuori dal tempo» — mangiare il terzo giorno ciò che si mangia in due giorni."
+    },
+    {
+      "n": "15:1",
+      "he": "אַרְבָּעָה מְפָסְּלִין בַּקֳּדָשִׁים: זָר, אוֹנֵן, טָמֵא, שְׁחַט חוּץ לִמְקוֹמוֹ.",
+      "it": "Quattro agenti che invalidano i sacrifici: il non-kohen (zar), lo in lutto (onen), l'impuro (tameh), e chi macella fuori dal luogo designato."
+    },
+    {
+      "n": "15:2",
+      "he": "זָר שֶׁעָשָׂה עֲבוֹדָה פְּנִימִית — פָּסַל.",
+      "it": "Un non-kohen che ha eseguito un servizio interno — ha invalidato [il sacrificio]."
+    },
+    {
+      "n": "15:3",
+      "he": "טָמֵא שֶׁעָבַד — בִּפְנִים פָּסַל. בְּקָדָשִׁים קַלִּים — מַחֲלֹקֶת.",
+      "it": "Un impuro che ha officiato — all'interno ha invalidato. Nei kodashim kallim — vi è disputa."
+    },
+    {
+      "n": "15:4",
+      "he": "הַשּׁוֹחֵט חוּץ לַמְּקוֹמוֹ — פָּסַל. חוּץ לְזְמַנּוֹ — פִּגּוּל.",
+      "it": "Chi macella fuori dal suo luogo — ha invalidato. Fuori dal suo tempo — piggul."
+    },
+    {
+      "n": "15:5",
+      "he": "שְׁנֵי פְסוּלִין שֶׁהֵן אֶחָד — כְּגוֹן זָר טָמֵא — פָּסַל.",
+      "it": "Due invalidità che sono una — come un non-kohen impuro — ha invalidato."
+    },
+    {
+      "n": "15:6",
+      "he": "הַמְּקַבֵּל בִּשְׂמֹאל — פָּסוּל.",
+      "it": "Chi ha raccolto il sangue con la mano sinistra — invalido."
+    }
+  ],
+  "_glossary_terms_used": ["lishmah", "shelo lishmah", "chatat", "olah", "piggul", "karet", "zar", "onen", "tameh", "kodashim kallim", "bedi'avad", "Ma'aseh HaKorbanot"]
+}

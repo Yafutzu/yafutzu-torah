@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mechirah 22-24",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים כב-כד",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 22-24",
+  "cycle": "rambam-3",
+  "date": "2026-10-20",
+  "hebrew_date": "9 Cheshvan 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": "22:1-6",
+      "he": "הַמּוֹכֵר שָׂדֶה — צָרִיךְ לְהוֹדִיעַ אֶת הַלּוֹקֵחַ שֶׁהִיא מְשֻׁעְבֶּדֶת…",
+      "it": "(Mechirah cap. 22) Garanzie nella vendita di beni immobili: il venditore di un campo è tenuto a garantire l'acquirente contro l'evizione (acharayut) — se un creditore del venditore viene a rivendicare il campo come pagamento di un debito preesistente, il venditore deve indennizzare l'acquirente. La vendita «be-acharayut» (con garanzia) — il venditore garantisce il titolo; «be-lo acharayut» (senza garanzia) — l'acquirente acquista a proprio rischio. La garanzia è presunta («me-de'afra» — di default) in ogni vendita di immobili, a meno che non venga espressamente esclusa. Il venditore che vende «senza garanzia» deve esplicitarlo nel contratto."
+    },
+    {
+      "n": "23:1-8",
+      "he": "דִּינָא דְּבַר מְצְרָא — שֶׁשְּׁכֵן שֶׁגָּבוּל שָׂדֵהוּ לַשָּׂדֶה הַנִּמְכֶּרֶת — יֵשׁ לוֹ זְכוּת קְדִימָה…",
+      "it": "(Mechirah cap. 23) Dina de-bar metzra (diritto di prelazione del vicino): quando si vende un campo, il proprietario del campo adiacente (bar metzra — il confinante) ha il diritto di acquistarlo per primo, allo stesso prezzo e alle stesse condizioni dell'acquirente esterno. Questo diritto è un'enactment rabbinica (takkanah) basata sul versetto «ve-asita ha-yashar ve-hatov» (fai ciò che è retto e buono — Devarim 6:18). Se il venditore trascura questo diritto e vende a un estraneo — l'acquisto del bar metzra è precedente e il confinante può recuperare il campo pagando il prezzo concordato. La procedura: il confinante deve notificare la propria intenzione entro un tempo ragionevole."
+    },
+    {
+      "n": "24:1-6",
+      "he": "אֵימָתַי יֵשׁ לוֹ לַבַּר מְצְרָא — רַק כְּשֶׁמּוֹכֵר הַשָּׂדֶה בִּמְכִירָה גְּמוּרָה…",
+      "it": "(Mechirah cap. 24) Limiti del diritto di bar metzra: il diritto di prelazione si applica solo a una vendita piena (mechirah gemurah), non a: doni (matanot), divisioni ereditarie, permute (chalifin). Se il venditore ha venduto a un parente stretto — il bar metzra non può rivendicare, poiché si presume che il venditore preferisca vendere a un parente per ragioni personali legittime. Se il confinante è una donna, un minore, o uno straniero — il suo diritto di bar metzra è più limitato secondo alcune opinioni. Il principio: il diritto di bar metzra mira a ridurre i conflitti di vicinato e a favorire la pace sociale («ve-asita ha-yashar ve-hatov»)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "acharayut", "dina de-bar metzra", "bar metzra", "takkanah", "ve-asita ha-yashar ve-hatov", "mechirah gemurah", "matanot", "chalifin"
+  ]
+}

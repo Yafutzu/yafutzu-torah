@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Hilchot Issurei Biah 21",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק כא",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 21",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-05",
+  "hebrew_date": "25 Cheshvan 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אָסוּר לְהִתְיַחֵד עִם הָעֲרָיוֹת…",
+      "it": "È proibito isolarsi (yichud — seclusion) con donne con cui i rapporti sessuali sono proibiti. La ragione del divieto: l'isolamento con una donna proibita può condurre alla violazione. I Saggi hanno stabilito il divieto di yichud come «seyag la-Torah» (recinto attorno alla Torah) — una protezione contro la violazione dei divieti sessuali fondamentali. Il divieto si applica sia in città che fuori città, sebbene con alcune distinzioni."
+    },
+    {
+      "n": 2,
+      "he": "הַמִּתְיַחֵד עִם אִשָּׁה אֲרוּסָה שֶׁלּוֹ — אָסוּר…",
+      "it": "L'isolamento con la propria fidanzata (arusah) prima del matrimonio è proibito. Sebbene la donna sia destinata a diventare sua moglie, il yichud prima delle nozze è vietato poiché i rapporti con lei in questo stadio, pur essendo meno gravi che con un'estranea, potrebbero portare a relazioni premature prima del completamento del matrimonio (chuppah ve-kidushin). Anche la fidanzata ha una ketubbah che deve essere stabilita prima dei rapporti."
+    },
+    {
+      "n": 3,
+      "he": "אֵיזֶהוּ יִחוּד בָּעִיר — שְׁנֵי אֲנָשִׁים וְאִשָּׁה אַחַת…",
+      "it": "Che cos'è yichud proibito in città? Due uomini con una donna — è permesso (la presenza di due uomini previene il peccato poiché ognuno controlla l'altro). Un uomo con due donne — è proibito (poiché due donne non prevengono adeguatamente). Un uomo con una sola donna — è proibito ovunque. Fuori dalla città, dove non vi sono passanti, anche due uomini con una donna è più problematico secondo alcune opinioni."
+    },
+    {
+      "n": 4,
+      "he": "אָסוּר לְהִתְיַחֵד עִם הַפְּנוּיָה…",
+      "it": "È proibito isolarsi con una donna nubile (penuyah) anche se non è niddah e non vi è alcun legame di parentela che renderebbe i rapporti biblicamente proibiti. Il Rambam spiega: sebbene i rapporti con una nubile siano solo rabbinicamente proibiti (o in alcune circostanze anche biblicamente discutibili), il yichud con lei è comunque vietato per decreto rabbinico, poiché facilita la violazione."
+    },
+    {
+      "n": 5,
+      "he": "מֻתָּר לְהִתְיַחֵד עִם אִמּוֹ…",
+      "it": "È permesso isolarsi con la propria madre, con la propria figlia, con la propria sorella, e con altre parenti strette per le quali il rapporto sessuale è soggetto a uno dei divieti più gravi (arayot). La ragione: il cuore di una persona non si attrae verso la propria madre o figlia in modo sessuale (lev adam govez al immo u-vito). Questa permissione vale anche se le parenti non sono ebree. Tuttavia, alcuni Rishonim sono più cauti anche in questi casi se vi è storia di comportamento anomalo."
+    },
+    {
+      "n": 6,
+      "he": "קָטָן שֶׁאֵינוֹ יוֹדֵעַ טַעַם בִּיאָה — מֻתָּר לְהִתְיַחֵד עִמּוֹ…",
+      "it": "Un bambino piccolo che non conosce il significato dei rapporti sessuali (katan she-eino yode'a ta'am bi'ah) — è permesso isolarsi con lui assieme a una donna, poiché la sua presenza è considerata un deterrente sufficiente (il timore della vergogna davanti al bambino). L'età precisa dipende dal contesto: un bambino abbastanza grande da capire e raccontare ciò che vede è sufficiente come presenza preventiva."
+    },
+    {
+      "n": 7,
+      "he": "עוֹבֵד כּוֹכָבִים — אֵין מִתְיַחֲדִין עִמּוֹ…",
+      "it": "Il yichud con un non-ebreo (nochri): alcuni Rishonim dibattono se la regola del yichud si applichi anche con non-ebrei. Il Rambam non distingue nella proibizione fondamentale — il yichud con una donna che è proibita per via sessuale è vietato indipendentemente dall'identità religiosa. Le norme specifiche variano nelle applicazioni pratiche tra le diverse comunità, ma la base della legge rimane la protezione dalla violazione dei confini morali."
+    },
+    {
+      "n": 8,
+      "he": "הַמִּתְיַחֵד עִם אִשָּׁה אֲסוּרָה — מַכִּין אוֹתוֹ מַכַּת מַרְדּוּת…",
+      "it": "Chi viola il divieto di yichud — il beit din (tribunale rabbinico) lo punisce con makkot mardut (fustigazione per insubordinazione), ossia una punizione disciplinare per la violazione di un decreto rabbinico. Questa sanzione riflette la serietà con cui i Saggi hanno considerato il yichud: anche se non è una violazione biblica diretta, è considerata sufficientemente grave da richiedere una risposta formale del tribunale. Il peccato del yichud proibito è descritto come «opening the door to sin» — aprire la porta al peccato."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yichud", "arusah", "chuppah ve-kidushin", "penuyah", "arayot", "katan she-eino yode'a ta'am bi'ah", "beit din", "makkot mardut", "seyag la-Torah", "nochri"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 48",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ח",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 48",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-24",
+  "hebrew_date": "11 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אמרו חכמים: 'כל אחד חייב לומר בשבילי נברא העולם' — כלומר, שכל אדם הוא עולם שלם בפני עצמו. ואם חסר הוא — חסר עולם שלם.",
+      "it": "I Saggi dissero: 'Ogni persona è tenuta a dire: bishvili nivra ha-olam — per me è stato creato il mondo' (Sanhedrin 37a). Ciò significa che ogni persona è un mondo intero di per sé. E se essa manca — manca un mondo intero."
+    },
+    {
+      "n": 2,
+      "he": "ומשמעות 'בשבילי נברא העולם' — שהאדם אינו טיפה זעירה בים גדול, אלא הוא הטעם לבריאת כל הים. ואחריות זו — לקיים מצוות ולתקן את עצמו — היא האחריות הגדולה ביותר.",
+      "it": "Il significato di 'bishvili nivra ha-olam' è che l'uomo non è una goccia minuscola in un mare immenso, ma è la ragione della creazione dell'intero mare. E questa responsabilità — di osservare i precetti e di correggere se stesso — è la responsabilità più grande."
+    },
+    {
+      "n": 3,
+      "he": "הכרה זו — 'בשבילי נברא העולם' — אינה גאווה אלא ענוה אמיתית. כי האדם שיודע מה ה' מצפה ממנו — ייסגל לעצמו את הענוה האמיתית: לעשות כל מה שמצפים ממנו.",
+      "it": "Questa consapevolezza — 'bishvili nivra ha-olam' — non è arroganza ma vera umiltà (anavah). Poiché l'uomo che sa cosa D-o si aspetta da lui — acquisirà la vera umiltà: fare tutto ciò che ci si aspetta da lui."
+    }
+  ],
+  "_glossary_terms_used": ["bishvili nivra ha-olam", "anavah"]
+}

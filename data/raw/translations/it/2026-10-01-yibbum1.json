@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 1",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק א",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-01",
+  "hebrew_date": "20 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה שֶׁיִּיבֵּם אָדָם אֶת אֵשֶׁת אָחִיו שֶׁמֵּת בְּלֹא בָּנִים…",
+      "it": "Vi è un precetto positivo della Torah che il fratello del defunto sposi la cognata (yevamah) rimasta vedova senza figli — questa è la mitzvah dello yibbum (levirato). La fonte biblica è Deuteronomio 25:5: «Se dei fratelli vivono insieme e uno di essi muore senza figli, la moglie del defunto non si sposerà con un estraneo». Il fratello (yavam) acquisisce la cognata attraverso lo yibbum. La mitzvah è sia sul fratello che sulla cognata di consentire l'unione."
+    },
+    {
+      "n": 2,
+      "he": "אֵי זֶהוּ יָבָם — הָאָח מֵאָב…",
+      "it": "Chi è il yavam (leviro)? Il fratello per parte di padre — anche se non per parte di madre. I fratelli uterini soltanto (dalla stessa madre ma da padri diversi) non sono obbligati nello yibbum. La cognata (yevamah) è la moglie del fratello deceduto. Condizione: il defunto non deve aver lasciato discendenza valida — né figli né figlie, né nipoti, né alcuna progenie che spezzi il legame della yevamah con il fratello."
+    },
+    {
+      "n": 3,
+      "he": "הַמַּאֲמָר וְהַבִּיאָה מְקַנִּים בְּיָבָם…",
+      "it": "Due atti acquisiscono la yevamah per il yavam: il «ma'amar» (dichiarazione formale, analogo al kiddushin) e la «biah» (coabitazione). Il ma'amar da solo non completa lo yibbum ma lo inizia — se il yavam compie solo il ma'amar e poi vuole recedere, la yevamah necessita sia di un get (atto di divorzio) che della chalitzah. La biah invece completa lo yibbum pienamente, anche senza ma'amar."
+    },
+    {
+      "n": 4,
+      "he": "יֵשׁ יְבָמָה שֶׁהִיא אֲסוּרָה עַל יָבָמָהּ אִסּוּר עוֹלָם…",
+      "it": "Vi sono casi in cui la yevamah è proibita al yavam in modo permanente: se la yevamah è nella categoria delle relazioni proibite (arayot) rispetto al yavam — ad esempio se è la madre del yavam, la figlia del yavam, la moglie di un altro fratello ancora in vita — in tali casi non si può compiere né yibbum né chalitzah, e la yevamah è libera senza alcun atto. Queste sono chiamate «tzarot» (co-moglie) delle arayot."
+    },
+    {
+      "n": 5,
+      "he": "הָיוּ לוֹ אַחִים רַבִּים — כֻּלָּם חַיָּבִין בְּיִיבּוּם…",
+      "it": "Se il defunto aveva più fratelli — tutti sono obbligati allo yibbum, ma uno soltanto compie l'atto per tutti. Non è necessario che ogni fratello esegua la chalitzah separatamente; il fratello che compie la chalitzah o lo yibbum libera la yevamah rispetto a tutti gli altri fratelli. I fratelli maggiori hanno la precedenza nelle intenzioni morali, ma non è un requisito legale assoluto."
+    },
+    {
+      "n": 6,
+      "he": "מִצְוַת יִיבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה בָּרִאשׁוֹנָה…",
+      "it": "In origine la mitzvah dello yibbum aveva la precedenza sulla chalitzah (la cerimonia di scioglimento). Tuttavia i Saggi discussero quale fosse preferibile nelle diverse generazioni e circostanze. Il Rambam stabilisce che in ogni caso entrambe le opzioni sono valide secondo la Torah, e la scelta dipende dalla circostanza e dall'intenzione del yavam. Se il yavam intende lo yibbum per il nome del defunto (lishmo) — è una grande mitzvah; se lo compie per altri motivi — è comunque valido ma meno ideale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yibbum", "chalitzah", "yavam", "yevamah", "ma'amar", "biah", "get", "arayot", "tzarot", "lishmo"
+  ]
+}

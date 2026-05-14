@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 2",
+  "name_he": "אגרת התשובה פרק ב'",
+  "name_it": "Lettera della Teshuvah, Capitolo 2",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-02",
+  "hebrew_date": "17 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה כְּלָלוּת הַחֲטָאִים הַמְחַיְּבִין כָּרֵת",
+      "it": "Il Rabbino Alter spiega la gravità dei peccati punibili con karet (כָּרֵת — recisione), di cui ve ne sono trentasei nella Torah. Il karet significa che l'anima viene 'tagliata' (nichretat, נִכְרֶתֶת) dal suo rapporto con Dio — una separazione spirituale profonda che colpisce tutte e cinque le componenti dell'anima. Nonostante questa gravità estrema, la teshuvah (תְּשׁוּבָה — pentimento/ritorno) ha il potere di guarire anche questa ferita."
+    },
+    {
+      "n": 2,
+      "he": "וְהַכָּרֵת הוּא שֶׁהַנֶּפֶשׁ נִכְרֶתֶת",
+      "it": "La natura del karet è che la nefesh (נֶפֶשׁ — anima viva) viene recisa dal suo Sorgente Divino. Il Baal HaTanya cita il versetto 'hikaret tikaret' (הִכָּרֵת תִּכָּרֵת — 'sarà certamente recisa') per indicare una doppia recisione: in questo mondo e in quello futuro. L'anima perde la sua connessione con le Sefirot Divine da cui si nutre spiritualmente. Tuttavia, la teshuvah — essendo essa stessa una forza Divina — può ripristinare questa connessione poiché è 'al gabo shel ha-Eyn Sof' (עַל גַּבּוֹ שֶׁל הָאֵין סוֹף), ovvero ancorata all'Infinito che trascende ogni danno."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ שֶׁכָּתוּב בַּזֹּהַר הַקָּדוֹשׁ",
+      "it": "Il Baal HaTanya cita il Zohar (זֹּהַר הַקָּדוֹשׁ — il Santo Libro dello Splendore) che afferma che la teshuvah è in grado di riparare persino le trasgressioni punibili con karet. Il motivo è che la teshuvah proviene da Binah (בִּינָה — Comprensione Divina), la Madre Superiore delle Sefirot, che è il Sorgente stesso dell'anima. Quando si ritorna a Binah con tutto il cuore, si risale all'Origine che precede ogni separazione, e quindi ogni separazione può essere sanata. Questo è il fondamento del potere illimitato della teshuvah."
+    }
+  ],
+  "_glossary_terms_used": ["karet", "nichretat", "teshuvah", "nefesh", "hikaret tikaret", "Eyn Sof", "Zohar", "Binah", "Sefirot"]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Edut 7-9",
+  "name_he": "משנה תורה, הלכות עדות פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza, capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-12-12",
+  "hebrew_date": "3 Tevet 5787",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "7:1-5",
+      "he": "כֵּיצַד בּוֹדְקִין אֶת הָעֵדִים — שֶׁבַע חֲקִירוֹת...",
+      "it": "(Edut cap. 7, hal. 1-5) Come si esaminano i testimoni — sette interrogazioni (sheva chakiraot): (1) in quale giubileo (yovel) era? (2) in quale anno? (3) in quale mese? (4) in quale giorno del mese? (5) in quale giorno della settimana? (6) a quale ora? (7) in quale luogo? Qualsiasi contraddizione tra i due testimoni su uno di questi sette punti invalida l'intera testimonianza (edut be-hazmana). Le «bedikot» (interrogazioni supplementari) riguardano i dettagli circostanziali — contraddizioni nelle bedikot non invalidano necessariamente ma indeboliscono la credibilità."
+    },
+    {
+      "n": "8:1-4",
+      "he": "עֵדִים שֶׁהֵזִימוּ אוֹתָן — כַּאֲשֶׁר זָמַם...",
+      "it": "(Edut cap. 8, hal. 1-4) Edim zomemim (testimoni cospirativi): se una seconda coppia di testimoni afferma che la prima coppia era in un altro luogo al momento del presunto crimine («ha-yinu imachem ba-makom ha-feloni» — eravate con noi altrove), la prima coppia viene punita con la stessa pena che avrebbe ricevuto il loro presunto accusato («ka'asher zamam la'asot» — come ha cospirato di fare). Questa legge è biblica (Deuteronomio 19:19). La «hazamah» (smascheramento) deve essere resa pubblica — la punizione dei falsi testimoni serve come deterrenza."
+    },
+    {
+      "n": "9:1-4",
+      "he": "הַפְרָשָׁה — עֵדִים שֶׁנִּסְתְּרוּ...",
+      "it": "(Edut cap. 9, hal. 1-4) Haprashah (contraddizione) vs. hazamah (smascheramento): la haprashah è quando la seconda coppia di testimoni contraddice il contenuto della testimonianza della prima coppia («non hai fatto X, hai fatto Y»). La hazamah è quando la seconda coppia prova che la prima coppia non poteva essere lì a vedere ciò che afferma. Nella haprashah — entrambe le coppie si annullano a vicenda; nella hazamah — la prima coppia viene punita. Questa distinzione fondamentale è halachah le-Moshe mi-Sinai."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sheva chakiraot", "edut be-hazmana", "bedikot", "edim zomemim", "hazamah", "haprashah", "ka'asher zamam la'asot", "halachah le-Moshe mi-Sinai", "yovel"
+  ]
+}

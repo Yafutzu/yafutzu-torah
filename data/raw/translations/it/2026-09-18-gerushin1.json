@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 1",
+  "name_he": "משנה תורה, הלכות גירושין, פרק א",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 1",
+  "cycle": "rambam-1",
+  "date": "2026-09-18",
+  "hebrew_date": "7 Tishrei 5787",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה מִן הַתּוֹרָה שֶׁיִּכְתֹּב הַבַּעַל גֵּט לְאִשְׁתּוֹ וְיִתְּנֵהוּ לָהּ בִּפְנֵי עֵדִים אִם רָצָה לְגָרְשָׁהּ, שֶׁנֶּאֱמַר: 'וְכָתַב לָהּ סֵפֶר כְּרִיתֻת וְנָתַן בְּיָדָהּ.'",
+      "it": "È un precetto positivo della Torah che il marito scriva un get alla moglie e glielo consegni davanti a testimoni quando vuole divorziare da lei, come è detto: 'Le scriverà un documento di separazione e glielo metterà in mano.'"
+    },
+    {
+      "n": 2,
+      "he": "אֵין הָאִשָּׁה מִתְגָּרֶשֶׁת אֶלָּא בְּרְצוֹן הַבַּעַל, אֶלָּא אִם כֵּן כָּפוּהוּ חֲכָמִים לְגָרֵשׁ. אֲבָל אֵין הָאִשָּׁה יְכוֹלָה לְגָרֵשׁ אֶת עַצְמָהּ בְּלֹא דַעְתּוֹ.",
+      "it": "La donna non può essere divorziata se non con il consenso del marito, a meno che i Saggi lo abbiano costretto a divorziare. Ma la donna non può divorziare da sola senza il suo consenso."
+    },
+    {
+      "n": 3,
+      "he": "הַגֵּט צָרִיךְ שֶׁיִּכָּתֵב לִשְׁמָהּ — כְּלוֹמַר לְשֵׁם אִשָּׁה זוֹ בִּלְבַד, וְלֹא סְתַם. כָּתַב גֵּט לִשְׁמָהּ שֶׁל אַחֶרֶת וְנִתְּנוֹ לָהּ — פָּסוּל.",
+      "it": "Il get deve essere scritto specificamente per lei — cioè per questa donna in particolare, non in modo generico. Se è scritto per un'altra donna e viene consegnato a lei, è invalido."
+    },
+    {
+      "n": 4,
+      "he": "הַגֵּט שֶׁנִּכְתַּב בְּאֹנֶס — כְּגוֹן שֶׁאִיֵּם עָלָיו גּוֹי בְּסַיִף לְגָרֵשׁ — גֵּט בָּטֵל. שֶׁהָאֹנֶס מַפְקִיעַ אֶת הָרָצוֹן.",
+      "it": "Un get scritto sotto coercizione — ad esempio se un non-ebreo lo ha minacciato con la spada di divorziare — è invalido, perché la coercizione annulla il consenso."
+    },
+    {
+      "n": 5,
+      "he": "אִם כְּפָאוּהוּ יִשְׂרָאֵל לְגָרֵשׁ בְּמָקוֹם שֶׁהַדִּין נוֹתֵן — גֵּט כָּשֵׁר. שֶׁהָרָצוֹן שֶׁל תּוֹרָה נִגְמָר בָּהּ.",
+      "it": "Se degli ebrei lo hanno costretto a divorziare in un caso in cui la legge lo richiede, il get è valido, perché il consenso secondo la Torah si compie in esso."
+    },
+    {
+      "n": 6,
+      "he": "כֵּיצַד? בַּעַל שֶׁמֵּאֵן לְגָרֵשׁ אֶת אִשְׁתּוֹ לְאַחַר שֶׁנִּתְחַיֵּב לְגָרֵשׁ — כּוֹפִין אוֹתוֹ עַד שֶׁיֹּאמַר 'רוֹצֶה אֲנִי.' וְרָצוֹן זֶה כָּשֵׁר.",
+      "it": "Come si applica? Se un marito si rifiuta di divorziare dopo essere stato obbligato dalla legge a farlo, lo si costringe finché dica 'Voglio.' E questo consenso è valido."
+    },
+    {
+      "n": 7,
+      "he": "הַכֹּל כְּשֵׁרִים לִכְתֹּב אֶת הַגֵּט: הַאִישׁ עַצְמוֹ, וְאַחֵר, וּגוֹי — אֲפִלּוּ עֶבֶד וְאִשָּׁה — וּבִלְבַד שֶׁהַבַּעַל יָדַע וְיֶאֱמַר לָהֶם לִכְתֹּב.",
+      "it": "Tutti sono idonei a scrivere il get: il marito stesso, un'altra persona, o anche un non-ebreo — persino uno schiavo o una donna — purché il marito sappia e dica loro di scrivere."
+    },
+    {
+      "n": 8,
+      "he": "הַגֵּט נִכְתָּב בְּכָל לָשׁוֹן וּבְכָל כְּתָב, וּבִלְבַד שֶׁיִּהְיוּ הָעֵדִים מְבִינִים מַה שֶּׁכָּתוּב בּוֹ.",
+      "it": "Il get può essere scritto in qualsiasi lingua e in qualsiasi scrittura, purché i testimoni comprendano ciò che vi è scritto."
+    },
+    {
+      "n": 9,
+      "he": "נִכְתַּב בְּלֵילָה — כָּשֵׁר. נֶחְתַּם בַּיּוֹם, וְנִכְתַּב בַּלַּיְלָה לְפָנָיו — כָּשֵׁר. אֲבָל נֶחְתַּם בַּלַּיְלָה — לְכַתְּחִלָּה לֹא, וּבְדִיעֲבַד כָּשֵׁר.",
+      "it": "Se scritto di notte è valido. Se firmato di giorno, mentre la scrittura era avvenuta la notte precedente, è valido. Ma se firmato di notte, a priori no, ma dopo il fatto è valido."
+    },
+    {
+      "n": 10,
+      "he": "גֵּט שֶׁנִּכְתַּב שֶׁלֹּא לִשְׁמָהּ — פָּסוּל. כֵּיצַד? כָּתַב גֵּט לְגָרֵשׁ בּוֹ אֶת אִשְׁתּוֹ אִם תִּמְאַן לַעֲשׂוֹת דָּבָר — וְלָבַסּוֹף גֵּרַשׁ בּוֹ — פָּסוּל.",
+      "it": "Un get scritto senza intenzione specifica per lei è invalido. Come? Se ha scritto un get per divorziare qualora la moglie si rifiuti di fare qualcosa, e alla fine ha divorziato con esso, è invalido."
+    },
+    {
+      "n": 11,
+      "he": "הַסֵּפֶר שֶׁנִּכְתַּב עָלָיו הַגֵּט — אֵינוֹ מַעֲכֵּב. בֵּין שֶׁנִּכְתַּב עַל הַנְּיָר, בֵּין עַל הַקְּלַף, בֵּין עַל עֲלֵי עֵץ, בֵּין עַל בֶּגֶד.",
+      "it": "Il supporto su cui è scritto il get non è determinante per la validità. Sia che sia scritto su carta, pergamena, foglie d'albero o tessuto."
+    },
+    {
+      "n": 12,
+      "he": "נִכְתַּב עַל דָּבָר שֶׁאֵינוֹ מִתְקַיֵּם — כְּגוֹן עַל עֲלֵי זֵית לַחִין — פָּסוּל, לְפִי שֶׁנֶּאֱמַר 'סֵפֶר' — דָּבָר שֶׁיֵּשׁ בּוֹ קִיּוּם.",
+      "it": "Se scritto su qualcosa che non dura — come foglie di olivo fresche — è invalido, perché si dice 'documento', che implica qualcosa di duraturo."
+    },
+    {
+      "n": 13,
+      "he": "צָרִיךְ שֶׁיִּהְיֶה הַגֵּט כָּרוּת — כְּלוֹמַר כָּרוּת לְגַמְרֵי, שֶׁתִּהְיֶה מֻתֶּרֶת לְכָל אָדָם. גֵּט שֶׁכָּתוּב בּוֹ שֶׁאֲסוּרָה לְפְלוֹנִי — פָּסוּל.",
+      "it": "Il get deve essere un documento di separazione completa, cosicché ella sia permessa a qualsiasi uomo. Un get che specifica che è proibita a un certo individuo è invalido."
+    },
+    {
+      "n": 14,
+      "he": "נִכְתַּב בַּיּוֹם וְנֶחְתַּם לְמָחֳרָת — כָּשֵׁר, אֲבָל נִרְאָה כְּגֵט מֻקְדָּם.",
+      "it": "Se scritto di giorno e firmato il giorno seguente, è valido, ma appare come un get antedatato."
+    },
+    {
+      "n": 15,
+      "he": "גֵּט מֻקְדָּם — פָּסוּל, מִפְּנֵי שֶׁפֵּרוֹת הַנְּפוּלִין בֵּין זְמַן הַכְּתִיבָה לִגְמַר הַגֵּרוּשִׁין לֹא יוּכַל לִגְבּוֹת מֵהֶם.",
+      "it": "Un get antedatato è invalido, perché i frutti maturati tra la data scritta e il divorzio effettivo non potrebbero essere rivendicati correttamente."
+    },
+    {
+      "n": 16,
+      "he": "גֵּט מְאֻחָר — כָּשֵׁר לְכַתְּחִלָּה. שֶׁהָאִשָּׁה אֵינָהּ יְכוֹלָה לִטְרֹף מִמְּשֻׁעְבָּדִים לְפָנָיו.",
+      "it": "Un get postdatato è valido a priori, perché la donna non può recuperare beni alienati prima della data indicata nel get."
+    },
+    {
+      "n": 17,
+      "he": "הָאִישׁ מְגָרֵשׁ מִדַּעְתּוֹ — אֲבָל לֹא בְּעַל כָּרְחוֹ, חוּץ מִמָּקוֹם שֶׁכּוֹפִין.",
+      "it": "Il marito divorzia di sua volontà — ma non contro la sua volontà, tranne nei casi in cui si costringe."
+    },
+    {
+      "n": 18,
+      "he": "חֵרֵשׁ שֶׁגֵּרַשׁ — גֵּרוּשָׁיו בְּטֵלִין. שׁוֹטֶה שֶׁגֵּרַשׁ — גֵּרוּשָׁיו בְּטֵלִין. קָטָן שֶׁגֵּרַשׁ — גֵּרוּשָׁיו בְּטֵלִין.",
+      "it": "Un sordomuto che ha divorziato — il suo divorzio è nullo. Un pazzo che ha divorziato — il suo divorzio è nullo. Un minore che ha divorziato — il suo divorzio è nullo."
+    },
+    {
+      "n": 19,
+      "he": "גֵּרַשׁ בִּשְׁעַת מוֹת — גֵּרוּשָׁיו גֵּרוּשִׁין, וְאֵין הָאִשָּׁה זְקוּקָה לְיִבּוּם.",
+      "it": "Se ha divorziato in punto di morte, il divorzio è valido e la donna non è soggetta al levirato (yibbum)."
+    },
+    {
+      "n": 20,
+      "he": "מִי שֶׁאֵינוֹ יָכוֹל לְדַבֵּר — בּוֹדְקִין אוֹתוֹ שְׁלֹשָׁה פְּעָמִים. אִם הֵשִׁיב בְּרֹאשׁוֹ בְּדַעַת — כּוֹתְבִין וְנוֹתְנִין.",
+      "it": "Chi non può parlare — lo si esamina tre volte. Se risponde con la testa in modo sensato — si scrive e si consegna il get."
+    },
+    {
+      "n": 21,
+      "he": "אָמַר 'כִּתְבוּ גֵּט לְאִשְׁתִּי' — כּוֹתְבִין, אַף עַל פִּי שֶׁחָזַר בּוֹ לְאַחַר מִכֵּן, כְּדֵי שֶׁלֹּא יִמָּנַע מִלִּכְתֹּב בָּרִאשׁוֹנָה.",
+      "it": "Se ha detto 'Scrivete un get per mia moglie', si scrive anche se poi ha ritirato l'ordine, affinché in futuro non si astenga dal dare l'ordine inizialmente."
+    }
+  ],
+  "_glossary_terms_used": ["get", "ones", "gerushin", "sefer kritut", "lishmah", "edim"]
+}

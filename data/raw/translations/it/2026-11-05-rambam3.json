@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Avadim 6-8",
+  "name_he": "משנה תורה, הלכות עבדים, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi degli Schiavi, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-11-05",
+  "hebrew_date": "25 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "6:1-4",
+      "he": "עֶבֶד כְּנַעֲנִי — חֲצִי אָדָם וַחֲצִי קִנְיָן…",
+      "it": "(Avadim cap. 6, hal. 1-4) Lo status halakhico dello schiavo canaanita: è «metà persona e metà proprietà» — ha obblighi di mitzvot simili a quelli di una donna ebrea, ma è anche proprietà del padrone. In quanto persona: può acquisire oggetti per uso proprio (kinyan kavod — acquisizione d'onore); in quanto proprietà: non può testimoniare in beit din, e il padrone può dargli una schiava canaanita come concubina senza il normale processo di matrimonio. La sua posizione unica nella halakhah riflette la tensione tra la sua umanità e il suo status giuridico di proprietà."
+    },
+    {
+      "n": "6:5-8",
+      "he": "הַמַּכֶּה עַבְדּוֹ שֵׁן אוֹ עַיִן — יָצָא לְחָפְשִׁי…",
+      "it": "(Avadim cap. 6, hal. 5-8) Se il padrone ferisce lo schiavo canaanita in modi specifici previsti dalla Torah (Esodo 21:26-27): se gli butta via un dente (shen) o lo acceca in un occhio (ayin) — lo schiavo è libero immediatamente, per decreto della Torah. Il beit din obbliga il padrone a emettere il get shichrur (documento di liberazione). Questo è il principio dell'«eved yotze be-shen va-ayin» (lo schiavo esce libero per il dente o l'occhio). I Saggi hanno esteso questo a 24 arti/organi visibili del corpo. L'omicidio dello schiavo da parte del padrone è trattato diversamente dall'omicidio di una persona libera, ma è comunque punibile."
+    },
+    {
+      "n": "7:1-4",
+      "he": "גּוֹי שֶׁהָרַג עֶבֶד — חַיָּב מִיתָה…",
+      "it": "(Avadim cap. 7, hal. 1-4) Un non-ebreo che uccide uno schiavo ebreo — è obbligato alla pena capitale (chayav mitah). Un ebreo che uccide il proprio schiavo: se lo uccide deliberatamente — è punibile. Il Rambam nota che l'uccisione di uno schiavo canaanita da parte del proprio padrone non porta alla pena capitale del «go'el ha-dam» (vendicatore del sangue) come nel caso di una persona libera, ma il padrone è punito da Shamayim (dal Cielo). Questo dimostra che sebbene lo schiavo sia proprietà, la sua vita ha valore divino e il suo assassinio è peccato grave."
+    },
+    {
+      "n": "8:1-4",
+      "he": "כֵּיצַד מִתְנַהֵג הָאָדָם עִם עֲבָדָיו הַכְּנַעֲנִים…",
+      "it": "(Avadim cap. 8, hal. 1-4) Il Rambam codifica la legge etica del trattamento degli schiavi. Sebbene lo schiavo canaanita sia proprietà, la Torah richiede di trattarlo con umanità: non lo si umilia inutilmente, non lo si sovraccarica di lavoro oltre le sue capacità, si assicura che mangi e beva adeguatamente. I Saggi insegnano: «La qualità dei mercifully» (middat ha-chasidut) è andare oltre la lettera della legge nel trattamento degli schiavi. Il Rambam cita come modello i patriarchi Abramo e Giobbe, che trattavano i loro schiavi con rispetto e dignità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "eved Canaani", "kinyan kavod", "beit din", "get shichrur", "eved yotze be-shen va-ayin", "go'el ha-dam", "middat ha-chasidut", "mitzvot", "chayav mitah"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 8",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב, פרק ח",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 8",
+  "cycle": "rambam-1",
+  "date": "2026-07-06",
+  "hebrew_date": "21 Tammuz 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יוֹם טוֹב שֶׁחָל לִהְיוֹת עֶרֶב שַׁבָּת — אָסוּר לְבַשֵּׁל בְּיוֹם טוֹב לְשַׁבָּת, שֶׁלֹּא יֹאמְרוּ מֻתָּר לְבַשֵּׁל מִיּוֹם טוֹב לְחֹל.",
+      "it": "Yom Tov che cade alla vigilia di Shabbat — è proibito cucinare nello Yom Tov per Shabbat, affinché non si dica che è permesso cucinare da Yom Tov per un giorno feriale."
+    },
+    {
+      "n": 2,
+      "he": "תִּקְּנוּ חֲכָמִים עֵרוּב תַּבְשִׁילִין — שֶׁמַּנִּיחַ אָדָם פַּת וְתַבְשִׁיל מֵעֶרֶב יוֹם טוֹב, וְסוֹמֵךְ עֲלֵיהֶם וּמְבַשֵּׁל בְּיוֹם טוֹב לְשַׁבָּת.",
+      "it": "I Saggi hanno istituito l'eruv tavshilin — che una persona ponga pane e cibo cotto alla vigilia di Yom Tov, e si basi su di essi per cucinare nello Yom Tov per Shabbat."
+    },
+    {
+      "n": 3,
+      "he": "הַמַּנִּיחַ עֵרוּב תַּבְשִׁילִין אוֹמֵר: \"בְּדֵין עֵרוּבָא יְהֵא שָׁרֵא לָנָא לְמֵיפֵא וּלְבַשּׁוּלֵי...\"",
+      "it": "Chi pone l'eruv tavshilin recita: «Con questo eruv sia permesso per noi cuocere al forno, cucinare...» [la formula in aramaico tradizionale]."
+    },
+    {
+      "n": 4,
+      "he": "עֵרוּב תַּבְשִׁילִין — הַפַּת וְהַתַּבְשִׁיל מֻנָּחִין מֵעֶרֶב יוֹם טוֹב וְשׁוֹמְרָן עַד מוֹצָאֵי שַׁבָּת.",
+      "it": "L'eruv tavshilin — il pane e il cibo cotto vengono posti dalla vigilia di Yom Tov e conservati fino al termine di Shabbat."
+    },
+    {
+      "n": 5,
+      "he": "אֵיזֶה תַּבְשִׁיל כָּשֵׁר לְעֵרוּב? כָּל דָּבָר שֶׁנֶּאֱכָל עִם הַפַּת, כְּגוֹן דָּגִים, בֵּיצִים, בָּשָׂר, גְּבִינָה.",
+      "it": "Quale cibo è idoneo per l'eruv? Qualsiasi cosa che si mangi con il pane, come pesce, uova, carne, formaggio."
+    },
+    {
+      "n": 6,
+      "he": "הַפַּת שֶׁמַּנִּיחִין לְעֵרוּב — שִׁעוּרָהּ כְּזַיִת, וְהַתַּבְשִׁיל — כְּזַיִת.",
+      "it": "Il pane che si pone per l'eruv — la sua misura è un volume di oliva (kazayit), e il cibo cotto — un volume di oliva."
+    },
+    {
+      "n": 7,
+      "he": "אִם אָבַד הָעֵרוּב אַחַר שֶׁהִתְחִיל לְבַשֵּׁל — גּוֹמֵר בִּשּׁוּלוֹ.",
+      "it": "Se l'eruv viene perso dopo che ha iniziato a cucinare — può completare la cottura."
+    },
+    {
+      "n": 8,
+      "he": "אִם אָבַד הָעֵרוּב קֹדֶם שֶׁהִתְחִיל לְבַשֵּׁל — אָסוּר לְבַשֵּׁל לְשַׁבָּת.",
+      "it": "Se l'eruv viene perso prima che abbia iniziato a cucinare — è proibito cucinare per Shabbat."
+    },
+    {
+      "n": 9,
+      "he": "הַגָּדוֹל שֶׁבְּעִיר מַנִּיחַ עֵרוּב תַּבְשִׁילִין לְכָל בְּנֵי עִירוֹ שֶׁשָּׁכְחוּ לְהַנִּיחַ.",
+      "it": "Il maggiore della città (il rabbino o il capo della comunità) può porre l'eruv tavshilin per tutti i residenti della sua città che hanno dimenticato di porlo."
+    },
+    {
+      "n": 10,
+      "he": "מַנֶּה עֵרוּב תַּבְשִׁילִין בְּכָל אֹכֶל שֶׁאֵינוֹ מְבֻשָּׁל — לֹא יָצָא.",
+      "it": "Chi pone l'eruv tavshilin con qualsiasi cibo non cotto — non ha adempiuto."
+    },
+    {
+      "n": 11,
+      "he": "הַמַּנִּיחַ עֵרוּב בְּמַצָּה — יָצָא, שֶׁהַמַּצָּה אֲפוּיָה הִיא.",
+      "it": "Chi pone l'eruv con la matzah — ha adempiuto, poiché la matzah è cotta al forno."
+    },
+    {
+      "n": 12,
+      "he": "מִי שֶׁשָּׁכַח לְהַנִּיחַ עֵרוּב תַּבְשִׁילִין — לֹא יְבַשֵּׁל בְּיוֹם טוֹב לְשַׁבָּת.",
+      "it": "Chi ha dimenticato di porre l'eruv tavshilin — non può cucinare nello Yom Tov per Shabbat."
+    },
+    {
+      "n": 13,
+      "he": "אִם הָיָה אוֹרֵחַ בְּבֵיתוֹ שֶׁל בַּעַל הַבַּיִת — נִכְלָל בְּעֵרוּבוֹ שֶׁל בַּעַל הַבַּיִת.",
+      "it": "Se era un ospite nella casa del padrone di casa — è incluso nell'eruv del padrone di casa."
+    },
+    {
+      "n": 14,
+      "he": "עֵרוּב תַּבְשִׁילִין לֹא נִתְקַן אֶלָּא כְּשֶׁיּוֹם טוֹב חָל בְּעֶרֶב שַׁבָּת.",
+      "it": "L'eruv tavshilin non fu istituito se non quando Yom Tov cade alla vigilia di Shabbat."
+    },
+    {
+      "n": 15,
+      "he": "טַעַם עֵרוּב תַּבְשִׁילִין — שֶׁיְּהֵא אָדָם זוֹכֵר שֶׁהַשַּׁבָּת חֲמוּרָה מִיּוֹם טוֹב.",
+      "it": "Il motivo dell'eruv tavshilin — affinché la persona ricordi che Shabbat è più severo di Yom Tov."
+    },
+    {
+      "n": 16,
+      "he": "וְכֵן כְּדֵי לְכַבֵּד אֶת הַשַּׁבָּת, שֶׁיְּסַדֵּר מַה שֶּׁצָּרִיךְ לָהּ מֵעֶרֶב יוֹם טוֹב.",
+      "it": "E così per onorare Shabbat, organizzando ciò che è necessario per essa già dalla vigilia di Yom Tov."
+    },
+    {
+      "n": 17,
+      "he": "הַמַּנִּיחַ עֵרוּב תַּבְשִׁילִין מִסָּפֵק — עֵרוּבוֹ עֵרוּב.",
+      "it": "Chi pone l'eruv tavshilin in caso di dubbio — il suo eruv è valido."
+    },
+    {
+      "n": 18,
+      "he": "שְׁנֵי בָּתִּים שֶׁהִנִּיחוּ עֵרוּב אֶחָד — שְׁנֵיהֶם מֻתָּרִין.",
+      "it": "Due famiglie che hanno posto un eruv unico — entrambe possono usufruirne."
+    },
+    {
+      "n": 19,
+      "he": "הַמְבַשֵּׁל בְּיוֹם טוֹב לְצֹרֶךְ שַׁבָּת בְּלֹא עֵרוּב תַּבְשִׁילִין — קָנְסוּהוּ חֲכָמִים שֶׁלֹּא יֹאכַל אֶת מַה שֶּׁבִּשֵּׁל.",
+      "it": "Chi cucina nello Yom Tov per Shabbat senza eruv tavshilin — i Saggi lo hanno penalizzato vietandogli di mangiare ciò che ha cucinato."
+    },
+    {
+      "n": 20,
+      "he": "הָעֵרוּב עַצְמוֹ — אוֹכְלִין אוֹתוֹ בַּשַּׁבָּת.",
+      "it": "L'eruv stesso — lo si mangia di Shabbat."
+    },
+    {
+      "n": 21,
+      "he": "אִם אָכַל הָעֵרוּב בְּיוֹם טוֹב — אֵין עֵרוּב לְשַׁבָּת וְאָסוּר לְבַשֵּׁל.",
+      "it": "Se ha mangiato l'eruv nello Yom Tov — non vi è eruv per Shabbat ed è proibito cucinare."
+    },
+    {
+      "n": 22,
+      "he": "עֵרוּב תַּבְשִׁילִין מִדִּבְרֵי חֲכָמִים, וְאֵין לוֹ עִקָּר מִן הַתּוֹרָה.",
+      "it": "L'eruv tavshilin è di istituzione rabbinica, e non ha fondamento nella Torah scritta."
+    },
+    {
+      "n": 23,
+      "he": "סִיּוּם: זֶהוּ פֶּרֶק אַחֲרוֹן שֶׁל הִלְכוֹת שְׁבִיתַת יוֹם טוֹב. סִי קוֹנְקְלוּדוֹנוֹ לֶה לֶגִּי דֶל רִיפּוֹסוֹ דֶלּוֹ יוֹם טוֹב.",
+      "it": "Si concludono le Leggi del Riposo dello Yom Tov."
+    }
+  ],
+  "_glossary_terms_used": ["eruv tavshilin", "Yom Tov", "Shabbat", "ochel nefesh", "kazayit", "matzah", "pат", "tavshil", "baal habayit"]
+}

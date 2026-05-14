@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 1",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק א",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-07",
+  "hebrew_date": "27 Cheshvan 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל מַאֲכָל שֶׁאָסְרָה תּוֹרָה לֶאֱכֹל — יֵשׁ בּוֹ לָאו…",
+      "it": "Ogni alimento che la Torah ha proibito di mangiare — la sua violazione comporta un divieto negativo (lav). Il terzo trattato di Sefer Kedushah, Hilchot Ma'achalot Asurot (Leggi degli Alimenti Proibiti), sistematizza il kashrut (le leggi alimentari ebraiche) in modo completo. Il Rambam organizza le categorie principali: (1) specie animali non kosher; (2) neveilah e treifah; (3) sangue; (4) chelev (grasso proibito); (5) gid ha-nasheh (nervo sciatico); (6) bassar be-chalav (carne nel latte); (7) prodotti della vite non kosher."
+    },
+    {
+      "n": 2,
+      "he": "בְּהֵמוֹת וְחַיּוֹת — שֶׁיֵּשׁ בָּהֶן שְׁנֵי סִימָנִין…",
+      "it": "Gli animali terrestri kosher hanno due segni (simanim): (1) geruah (ruminanti — che rigurgitano e rimasticano il cibo); (2) mifresset parsah (che hanno lo zoccolo spaccato). Entrambi i segni devono essere presenti. La Torah elenca (Lev. 11, Deut. 14) specie specificamente permesse: il bue, la pecora, la capra, il cervo, la gazzella, il daino, lo stambecco, il bisonte, l'oryx, e il camoscio. Qualsiasi specie che possiede entrambi i segni è permessa; qualsiasi specie priva di uno o entrambi è proibita."
+    },
+    {
+      "n": 3,
+      "he": "הַגָּמָל — מַעֲלֶה גֵּרָה הוּא, אֲבָל אֵין לוֹ פַּרְסָה שְׁסוּעָה…",
+      "it": "Il cammello rigurgita e rumina, ma non ha lo zoccolo spaccato — è proibito. Il daman (procavia) rumina ma non ha lo zoccolo spaccato — è proibito. La lepre sembra ruminare ma non ha lo zoccolo spaccato — è proibita. Il maiale (chazir) ha lo zoccolo spaccato ma non rumina — è proibito. Il Rambam sottolinea la perfezione della Torah: elenca con precisione gli animali che hanno un solo segno, dimostrando la conoscenza soprannaturale delle specie animali da parte della Torah."
+    },
+    {
+      "n": 4,
+      "he": "הַדָּגִים — כָּל שֶׁיֵּשׁ לוֹ סְנַפִּיר וְקַשְׂקֶשֶׂת — מֻתָּר…",
+      "it": "I pesci hanno due segni di kashrut: (1) snapir (pinne); (2) kaskeset (squame). Un pesce che ha entrambi è kosher. Un pesce privo di squame è proibito — anche se ha le pinne. La ragione: tutti i pesci con squame hanno anche pinne (le squame implicano le pinne), ma non tutti i pesci con pinne hanno squame. Pertanto il segno determinante è la presenza di squame: un pesce con squame è sempre kosher; un pesce senza squame non lo è mai. Pesce gatto, anguilla, squalo — proibiti."
+    },
+    {
+      "n": 5,
+      "he": "הָעוֹפוֹת — לֹא נִתְּנוּ לָהֶם סִימָנִין בַּתּוֹרָה…",
+      "it": "Gli uccelli — la Torah non ha dato loro segni espliciti di kashrut come per gli animali e i pesci. La Torah invece elenca 24 specie di uccelli proibiti (Lev. 11:13-19, Deut. 14:12-18). Tutti gli altri uccelli sono in linea di principio permessi, ma l'uso pratico richiede una tradizione (masorah) che identifichi la specie come kosher. I Saggi hanno comunque sviluppato quattro segni pratici per identificare uccelli kosher: non è un «dores» (predatore), ha un dito aggiuntivo posteriore, ha ingluvie (gozzo), e la membrana dello stomaco si può togliere manualmente."
+    },
+    {
+      "n": 6,
+      "he": "חֲגָבִים — כָּל שֶׁיֵּשׁ לוֹ אַרְבַּע רַגְלַיִם וְאַרְבַּע כְּנָפַיִם…",
+      "it": "Le cavallette (chagavim): la Torah permette quattro specie di locuste (Lev. 11:22). I segni di una locusta kosher: quattro gambe, quattro ali che coprono la maggior parte del corpo, e due zampe per saltare. Il Rambam nota che l'identificazione pratica di queste specie è andata perduta nella maggior parte delle comunità (mancanza di masorah continua), e pertanto la maggior parte degli ebrei askenaziti non le mangia. Alcune comunità yemenite e nordafricane conservano la tradizione di alcune specie permesse."
+    },
+    {
+      "n": 7,
+      "he": "הַשֶּׁרֶץ — יֵשׁ מֵהֶן שֶׁאֲסוּרִין בַּאֲכִילָה בְּלָאו אֶחָד…",
+      "it": "Le creature striscianti (sheretz): la Torah proibisce varie categorie di creature piccole — il sheretz ha-aretz (rettili e striscianti terrestri), il sheretz ha-mayim (creature acquatiche striscianti prive di pinne e squame), e il sheretz ha-of (insetti volanti). Mangiare alcune categorie di sheretz viola più proibizioni contemporaneamente — fino a sei lav in un solo boccone. Questa severità riflette l'importanza fondamentale delle leggi di kashrut come pilastro dell'identità e della santità del popolo ebraico."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kashrut", "simanim", "geruah", "mifresset parsah", "neveilah", "treifah", "chelev", "gid ha-nasheh", "bassar be-chalav", "snapir", "kaskeset", "masorah", "chagavim", "sheretz", "lav"
+  ]
+}

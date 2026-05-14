@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 40",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 40",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-16",
+  "hebrew_date": "3 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עיקר מעלת עבודת ה' — שהיא נובעת מבחירה חופשית. ה' ברא את האדם עם יצר הרע ועם יצר הטוב, ונתן לו כוח הבחירה — לבחור בין טוב לרע. ובחירה זו היא מה שנותן ערך לעבודה.",
+      "it": "Il valore principale del servizio di D-o è che esso deriva dalla libera scelta (bechirah chofshit). D-o creò l'uomo con il yeitzer ha-ra (istinto del male) e il yeitzer ha-tov (istinto del bene), e gli diede il potere della scelta — di scegliere tra il bene e il male. Questa scelta è ciò che dà valore al servizio."
+    },
+    {
+      "n": 2,
+      "he": "אילו היה אדם מטבעו טוב לגמרי — ולא היה לו יצר הרע — לא היה ערך לעבודתו. כי מה הישג יש לאדם שנוצר טוב ועושה טוב? אבל כשאדם מתגבר על יצרו ובוחר בטוב — הוא יוצר משהו חדש ומחבר ממש.",
+      "it": "Se l'uomo fosse per natura completamente buono — e non avesse il yeitzer ha-ra — il suo servizio non avrebbe valore. Poiché quale risultato ha chi è stato creato buono e fa il bene? Ma quando una persona vince il proprio istinto e sceglie il bene — crea qualcosa di nuovo e di realmente significativo."
+    },
+    {
+      "n": 3,
+      "he": "זה הסוד של 'בשכר שלא עשיתם — תקבלו שכר'. השכר הוא לא רק על המעשה הטוב, אלא על הבחירה הקשה שקדמה לו. ולפיכך, הבינוני שמתגבר על יצרו בכל יום ובוחר בטוב — עבודתו יקרה מאוד לפני ה'.",
+      "it": "Questo è il segreto di 'per il merito di ciò che non avete fatto — riceverete la ricompensa'. La ricompensa non è solo per il buon atto, ma per la scelta difficile che lo ha preceduto. Pertanto il Beinoni che vince il proprio istinto ogni giorno e sceglie il bene — il suo servizio è molto prezioso davanti a D-o."
+    }
+  ],
+  "_glossary_terms_used": ["bechirah chofshit", "yeitzer ha-ra", "yeitzer ha-tov", "Beinoni"]
+}

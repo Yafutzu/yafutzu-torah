@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Klei HaMikdash 6-8",
+  "name_he": "משנה תורה, הלכות כלי המקדש, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi dei Vasi del Santuario, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-07-04",
+  "hebrew_date": "19 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "הַכֹּהֵן שֶׁעָבַד בְּלֹא בִּגְדֵי כְּהֻנָּה — עֲבוֹדָתוֹ פְסוּלָה, וְחַיָּב מִיתָה בִּידֵי שָׁמַיִם.",
+      "it": "Il kohen che ha officiato senza i vestiti sacerdotali (bigdei kehunah) — il suo servizio è invalido, ed è passibile di morte per mano del Cielo."
+    },
+    {
+      "n": "6:2",
+      "he": "אֵיזֶה שֵׁרוּת טָעוּן בְּגָדִים? כָּל עֲבוֹדָה שֶׁהִיא בִּפְנִים — בַּהֵיכָל אוֹ בָּעֲזָרָה.",
+      "it": "Quale servizio richiede i vestiti? Qualsiasi servizio che avviene all'interno — nel Heichal o nell'Ezrah (cortile)."
+    },
+    {
+      "n": "6:3",
+      "he": "זָר הַלּוֹבֵשׁ בִּגְדֵי כְּהֻנָּה — אֵינוֹ עוֹבֵר בְּלֹא תַּעֲשֶׂה. אֲבָל אֵינוֹ רַשַּׁאי.",
+      "it": "Un non-kohen (zar) che indossa i vestiti sacerdotali — non viola un divieto. Ma non ne ha il diritto."
+    },
+    {
+      "n": "7:1",
+      "he": "כֹּהֵן בַּעַל מוּם — פָּסוּל לַעֲבוֹדָה. מוּם הַפּוֹסֵל בָּאָדָם — הוּא שְׁמוֹנֶה עֶשְׂרֵה מוּמִים.",
+      "it": "Un kohen con un difetto fisico (ba'al mum) — è squalificato dal servizio. I difetti che squalificano nell'uomo — sono diciotto difetti (mumim)."
+    },
+    {
+      "n": "7:2",
+      "he": "הַכֹּהֵן בַּעַל מוּם שֶׁעָבַד — עֲבוֹדָתוֹ פְסוּלָה, וְחַיָּב מַלְקוֹת.",
+      "it": "Il kohen con difetto fisico che ha officiato — il suo servizio è invalido, ed è passibile di flagellazione."
+    },
+    {
+      "n": "7:3",
+      "he": "אַף עַל פִּי שֶׁהַכֹּהֵן בַּעַל מוּם פָּסוּל לַעֲבוֹדָה — אוֹכֵל בִּקְדֻשּׁוֹת.",
+      "it": "Anche se il kohen con difetto fisico è squalificato dal servizio — può mangiare le porzioni sacerdotali (kodashim)."
+    },
+    {
+      "n": "8:1",
+      "he": "כֹּהֲנִים חֲלוּקִים לְעֶשְׂרִים וְאַרְבָּעָה מִשְׁמָרוֹת. כָּל מִשְׁמָר מְשַׁמֵּשׁ שַׁבָּת אַחַת.",
+      "it": "I kohanim sono divisi in ventiquattro mishmarot (turni di servizio). Ogni mishmar serve per un Shabbat."
+    },
+    {
+      "n": "8:2",
+      "he": "שְׁמוֹת הַמִּשְׁמָרוֹת — נִקְרָאִים עַל שֵׁם רָאשֵׁי בָּתֵּי הָאָבוֹת שֶׁבַּמִּשְׁמָר.",
+      "it": "I nomi dei mishmarot — sono chiamati in base ai capi delle famiglie patriarcali (batei avot) che fanno parte del mishmar."
+    },
+    {
+      "n": "8:3",
+      "he": "בִּשְׁלוֹשָׁה רְגָלִים — פֶּסַח, שָׁבוּעוֹת, וְסֻכּוֹת — כָּל הַמִּשְׁמָרוֹת עוֹלִין לְשָׁרֵת בְּבֵית הַמִּקְדָּשׁ.",
+      "it": "Nelle tre festività di pellegrinaggio — Pesach, Shavuot e Sukkot — tutti i mishmarot salgono a servire nel Tempio."
+    },
+    {
+      "n": "8:4",
+      "he": "בִּשְׁלוֹשָׁה רְגָלִים — חוֹלְקִין כָּל הַמִּשְׁמָרוֹת בְּשָׁוֶה בְּלֶחֶם הַפָּנִים וּבְחִלּוּקֵי הַקָּרְבָּנוֹת.",
+      "it": "Nelle tre festività — tutti i mishmarot dividono in parti uguali il Pane dei Volti (Lechem HaPanim) e le porzioni dei sacrifici."
+    },
+    {
+      "n": "8:5",
+      "he": "מִשְׁמָר שֶׁחָל בּוֹ הָרֶגֶל — הוּא מַקְרִיב קָרְבָּנוֹת חוֹבָה שֶׁל הָרֶגֶל.",
+      "it": "Il mishmar nel cui turno cade la festività — offre i sacrifici obbligatori della festività."
+    },
+    {
+      "n": "8:6",
+      "he": "הָיוּ עֶשְׂרִים וְאַרְבָּעָה מִשְׁמָרוֹת בָּאָרֶץ, וְשָׁתַּיִם בְּיְרוּשָׁלַיִם — הָאַחַד בַּמִּקְדָּשׁ וְהַשֵּׁנִי בִּמְדוֹרוֹ.",
+      "it": "Vi erano ventiquattro mishmarot nella Terra, e due a Gerusalemme — uno nel Tempio e l'altro nel suo alloggio."
+    }
+  ],
+  "_glossary_terms_used": ["bigdei kehunah", "zar", "ba'al mum", "mumim", "mishmarot", "Pesach", "Shavuot", "Sukkot", "Lechem HaPanim", "batei avot", "kohen", "Kohen Gadol", "Heichal", "Ezrah", "kodashim"]
+}

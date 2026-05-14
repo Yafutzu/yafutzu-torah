@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Issurei Biah 1",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק א",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-16",
+  "hebrew_date": "5 Cheshvan 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הִלְכּוֹת אִסּוּרֵי בִּיאָה — יֵשׁ בִּכְלָלָן מִצְווֹת עֲשֵׂה וּמִצְווֹת לֹא תַעֲשֶׂה…",
+      "it": "Si inizia il Sefer Kedushah (Libro della Santità) con le Leggi delle Relazioni Sessuali Proibite (Issurei Biah) — il cuore della santità ebraica. Il Sefer Kedushah comprende tre trattati: Issurei Biah (22 capitoli), Maachalot Asurot (Cibi Proibiti, 17 capitoli), e Shechitah (Macellazione rituale, 14 capitoli). La santità — kedushat Yisrael — si esprime soprattutto nel dominio della vita sessuale, alimentare e rituale. Il Rambam apre con le arayot (relazioni incestuose e adultere) come fondamento della kedushat Yisrael."
+    },
+    {
+      "n": 2,
+      "he": "עֶרְוַת אָחִיו שֶׁל אָב — זוֹ אֵשֶׁת דּוֹד מֵאָב…",
+      "it": "Le arayot (relazioni proibite per pena di karet o morte) sono elencate nella Torah in Levitico 18 e 20. Le categorie principali: relazioni con parenti stretti (madre, figlia, sorella, nonna, nipote), relazioni con la moglie di un parente (moglie del padre, moglie del fratello — eccetto nel caso di yibbum, moglie del figlio), relazioni con la moglie di un altro uomo (adulterio). Tutte le arayot sono proibite sia agli uomini che alle donne di Israele."
+    },
+    {
+      "n": 3,
+      "he": "עֶרְוָה מִן הַתּוֹרָה — חַיָּבִין עָלֶיהָ כָּרֵת…",
+      "it": "Le arayot della Torah comportano la pena di karet (recisione spirituale dall'Assemblea d'Israele) se compiute intenzionalmente senza testimoni. Se compiute davanti a testimoni e dopo avvertimento (hatra'ah) — la pena è la morte per mezzo del tribunale. Se compiute per errore (shogeg) — la pena è il sacrificio espiatorio (chatat). La gravità delle arayot è la più alta nella Torah — solo lo spargimento di sangue e l'idolatria le eguagliano."
+    },
+    {
+      "n": 4,
+      "he": "אֵשֶׁת אִישׁ שֶׁנִּבְעֲלָה לְאַחֵר — אֲסוּרָה לְבַעְלָהּ…",
+      "it": "La moglie di un altro uomo che ha avuto rapporti con un terzo — è proibita al marito e al suo amante. Questa è l'ervah più comune e quella che più minaccia la struttura sociale. La Torah la punisce con la pena di morte sia per l'uomo che per la donna (Lev. 20:10). Dopo la distruzione del Tempio la pena di morte non può essere eseguita, ma il divieto rimane immutato e la donna deve essere divorziata dal marito."
+    },
+    {
+      "n": 5,
+      "he": "הַנָּשִׂיא שֶׁבָּא עַל אַחַת מֵעֲרָיוֹת — חַיָּב עוֹלָה וְיוֹרֵד…",
+      "it": "Il Nasi (principe/re) che commette inavvertitamente una delle arayot — porta un sacrificio speciale. Il kohen gadol (sommo sacerdote) porta un sacrificio diverso. L'individuo ordinario porta il chatat (sacrificio espiatorio) standard. Queste distinzioni riflettono il livello di responsabilità proporzionale allo status — chi ha un ruolo di leadership spirituale o politica ha una responsabilità ancora maggiore nella santità personale."
+    },
+    {
+      "n": 6,
+      "he": "הַגּוֹיִם — אֵין לָהֶם עֶרְוָה בְּאִסּוּרֵי תּוֹרָה כְּיִשְׂרָאֵל…",
+      "it": "I non-ebrei non sono soggetti alle stesse norme di arayot della Torah applicabili agli ebrei — ma sono soggetti alle sette leggi noachidi (sheva mitzvot benei Noach), che includono il divieto di adulterio. Le specifiche dell'incesto per i non-ebrei sono diverse da quelle degli ebrei. Un ebreo che ha rapporti con una non-ebrea — ha trasgredito un divieto rabbinico (gezerah de-rabbanan) anche se non il divieto biblico specifico delle arayot."
+    },
+    {
+      "n": 7,
+      "he": "הַמּוֹסֵר עַצְמוֹ לְאֶחָד מִן הָעֲרָיוֹת — אַף עַל פִּי שֶׁנֶּאֱנַס — נֶאֱסַר…",
+      "it": "Chi si pone volontariamente in una situazione di ervah — anche se alla fine è costretto contro la propria volontà — alcune restrizioni rimangono. Il Rambam inizia questa sua esposizione con il principio fondamentale: il Sefer Kedushah è dedicato a costruire una vita di santità positiva (kedushah she-be-tzad ha-mutar) — santità nel dominio di ciò che è permesso. La Torah non vieta solo le relazioni proibite ma invita a santificare ogni aspetto della vita, anche quello che è permesso."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Sefer Kedushah", "Issurei Biah", "arayot", "ervah", "karet", "kiddushin", "chatat", "kohen gadol", "Nasi", "sheva mitzvot benei Noach", "kedushah"
+  ]
+}

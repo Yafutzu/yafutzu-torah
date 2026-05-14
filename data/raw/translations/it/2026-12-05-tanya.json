@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 33",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לג",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 33",
+  "cycle": "tanya-yomi",
+  "date": "2026-12-05",
+  "hebrew_date": "26 Kislev 5787 — Chanukah giorno 2",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אַהֲבַת יִשְׂרָאֵל — תְּנַאי לְאַהֲבַת ה'...",
+      "it": "L'Alter Rebbe espande il capitolo 32: l'ahavat Yisrael (amore verso ogni ebreo) non è solo una mitzvah separata — è un prerequisito per l'ahavat Hashem (amore verso D-o). Il versetto «Ve'ahavta et Hashem Elokecha» (Deuteronomio 6:5) è preceduto strutturalmente dalla mitzvah «Ve'ahavta le-re'acha kamocha» (Levitico 19:18 — ama il tuo prossimo come te stesso). La sequenza non è casuale: chi non ama il proprio simile non può amare D-o in modo completo."
+    },
+    {
+      "n": 2,
+      "he": "הַבַּעַל שֵׁם טוֹב — אֲהַב אֶת הַגֶּשֶׁם כְּדֵי לְאַהֹב אֶת הָרוּחַ...",
+      "it": "Il Baal Shem Tov insegnava: amare il «guf» (corpo/dimensione fisica) del popolo ebraico porta all'amore per il «ruach» (spirito/dimensione divina) che li anima — cioè D-o stesso. Questa è la logica mistica: D-o è la vita di ogni ebreo; amare l'ebreo nella sua fisicità è amare la D-vina presenza che lo abita. Chanukah 2: le candele di Chanukah sono collocate all'esterno (o alla finestra verso l'esterno) — l'amore per il prossimo deve essere visibile nel mondo fisico, non solo nell'interiorità spirituale."
+    },
+    {
+      "n": 3,
+      "he": "נֵרוֹת חֲנֻכָּה מֵחוּץ — אַהֲבַת יִשְׂרָאֵל גְּלוּיָה...",
+      "it": "Le luci di Chanukah poste nel dominio pubblico (reshut ha-rabbim) — pirsumei nisa — sono un atto di ahavat Yisrael manifesta: si dona la luce a tutti i passanti. Non si tiene il miracolo nascosto dentro casa — si apre la porta al mondo. L'Alter Rebbe connette questo all'insegnamento fondamentale: la vera ahavat Yisrael non rimane astratta ma si esprime in azioni concrete di cura, aiuto, e condivisione. Il miracolo di Chanukah appartiene a tutto Israele — e attraverso Israele, a tutta l'umanità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ahavat Yisrael", "ahavat Hashem", "Ve'ahavta et Hashem Elokecha", "Ve'ahavta le-re'acha kamocha", "Baal Shem Tov", "pirsumei nisa", "reshut ha-rabbim", "guf", "ruach"
+  ]
+}

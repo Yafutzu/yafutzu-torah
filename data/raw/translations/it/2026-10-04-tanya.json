@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 12",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת יב",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 12",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-04",
+  "hebrew_date": "23 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שִׂמְחַת תּוֹרָה — שִׂמְחַת הַשְׁלָמַת הַתּוֹרָה וְתַחֲלָתָהּ…",
+      "it": "Simchat Torah (23 Tishrei nella Diaspora) — la gioia del completamento e del ricominciamento del ciclo della Torah. In questo giorno si termina il Sefer Devarim (Vezot HaBerachah) e si ricomincia immediatamente da Bereishit. L'Alter Rebbe spiega l'insegnamento del Baal Shem Tov: il ricominciamento immediato insegna che la Torah non ha fine — «arukha me-eretz middah u-rechavah min ha-yam» (più lunga della terra e più larga del mare). Non c'è mai un momento in cui si «finisce» la Torah — si ricomincia sempre con rinnovata gioia."
+    },
+    {
+      "n": 2,
+      "he": "הַמְּחוֹלוֹת עִם הַסֵּפֶר תּוֹרָה — חִיבּוּק הָרָצוֹן הָאֱלֹהִי…",
+      "it": "Il ballo con il rotolo della Torah (sefer Torah) è una manifestazione fisica di un abbraccio spirituale — l'abbraccio della volontà divina (ratzon Eloki). L'Alter Rebbe spiega: durante l'anno si studia la Torah con la mente (sekhel) — si capisce e si analizza. A Simchat Torah si abbraccia la Torah non con la mente ma con tutto il corpo — mostrando che il legame con la Torah supera la comprensione intellettuale ed è un legame essenziale dell'anima (etzem ha-neshama). Il klipat nogah (il rivestimento di neutralità) si dissolve nella gioia."
+    },
+    {
+      "n": 3,
+      "he": "בְּרֵאשִׁית — חֲזָרָה לְהַתְחָלָה בְּהִתְחַדְּשׁוּת…",
+      "it": "Il ritorno a «Bereishit» (In principio) — è un ritorno alla sorgente con rinnovamento (hitchadshut). Il Baal Shem Tov insegnava: chi si prepara a studiare un argomento della Torah che conosce già — deve avvicinarsi ad esso come se fosse la prima volta. La Torah si rinnova sempre — «chadashim la-bekarim, rabbah emunatecha» (nuovi ogni mattino — Lamentazioni 3:23). Simchat Torah ci insegna che ogni «ritorno» alla Torah è in realtà un avanzamento verso nuove profondità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Simchat Torah", "Bereishit", "Vezot HaBerachah", "ratzon Eloki", "sekhel", "etzem ha-neshama", "klipat nogah", "hitchadshut"
+  ]
+}

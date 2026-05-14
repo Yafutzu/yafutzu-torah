@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Na'arah Betulah 1",
+  "name_he": "משנה תורה, הלכות נערה בתולה, פרק א",
+  "name_it": "Mishneh Torah, Leggi della Ragazza Vergine, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-09",
+  "hebrew_date": "28 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַבָּא עַל נַעֲרָה בְּתוּלָה שֶׁלֹּא אֵרְסָהּ אָבִיהָ — בֵּין בְּאֹנֶס בֵּין בְּרָצוֹן — חַיָּב…",
+      "it": "Chi ha rapporti sessuali con una na'arah betulah (ragazza vergine di 12-12½ anni) non ancora fidanzata dal padre — sia che la violenti (oneis) sia che la seduca con il suo consenso (mefateh) — è obbligato a pagare al padre. La fonte biblica è Deuteronomio 22:28-29 per il caso di violenza, ed Esodo 22:15-16 per il caso di seduzione. La Torah distingue tra le due fattispecie nelle loro conseguenze pratiche."
+    },
+    {
+      "n": 2,
+      "he": "הַמְפַתֶּה — שָׁקַל לָהּ בּוֹשֶׁת וּפְגָם וְקָנָס…",
+      "it": "Il seduttore (mefateh) — paga tre elementi: (1) boshet (vergogna/umiliazione), (2) pegam (danno alla reputazione), (3) kenas (multa fissa di 50 shekel d'argento come da Deut. 22:29 per il caso di violenza; per la seduzione il versetto di Es. 22 non specifica la somma, ma i Saggi equiparano). La differenza tra violenza e seduzione: nel caso di violenza è obbligato anche a sposarla se lei e suo padre lo desiderano; nel caso di seduzione il padre può rifiutare."
+    },
+    {
+      "n": 3,
+      "he": "אֵי זוֹ הִיא נַעֲרָה — מִשֶּׁהֵבִיאָה שְׁתֵּי שְׂעָרוֹת עַד שֶׁיַּמְלְאוּ לָהּ שֵׁשׁ חֳדָשִׁים אַחַר שְׁתֵּי שְׂעָרוֹת…",
+      "it": "Chi è la na'arah (ragazza)? Dal momento in cui manifesta i segni della pubertà (due peli pubici, siman gadlut) fino a sei mesi dopo — questo è il periodo di na'arut. Prima di questo periodo è una ketanah (minore); dopo questo periodo è una bogeret (adulta). Le leggi della na'arah betulah si applicano solo a questo preciso periodo di sei mesi. Una ketanah o una bogeret che subisce violenza — i pagamenti sono diversi e regolati da altre norme."
+    },
+    {
+      "n": 4,
+      "he": "הַכֶּסֶף נִתָּן לָאָב — שֶׁהַבַּת בִּרְשׁוּת אָבִיהָ…",
+      "it": "Il denaro del kenas (multa) e del pegam appartiene al padre — poiché la figlia durante la na'arut è sotto la tutela legale del padre. La boshet (vergogna) può essere calcolata come danno al padre stesso. Se il padre muore prima di ricevere il pagamento — il denaro non passa agli eredi della figlia, ma rimane da pagare come debito verso gli eredi del padre. Se la figlia è orfana di padre — il denaro del kenas va a lei stessa secondo alcune opinioni, ma il Rambam stabilisce che cade."
+    },
+    {
+      "n": 5,
+      "he": "הָאוֹנֵס — חַיָּב לִשְׂאֵת אֶת הָאֲנוּסָה…",
+      "it": "Il violentatore è obbligato a sposare la sua vittima se lei (o suo padre) lo desidera — e non può mai divorziare da lei per tutta la vita, come dice la Torah: «e lei sarà sua moglie, poiché l'ha umiliata, e non potrà mai mandarla via» (Deut. 22:29). Questo obbligo a vita di mantenere il matrimonio è una pena per il violentatore — non può liberarsi delle sue responsabilità abbandonandola. Se lei non lo vuole sposare — non è obbligata; il pagamento monetario rimane ma l'obbligo del matrimonio decade."
+    },
+    {
+      "n": 6,
+      "he": "הַמְפַתֶּה — אֵינוֹ מְחוּיָּב לְשָׂאתָהּ…",
+      "it": "Il seduttore non è obbligato a sposarla — il padre ha il diritto di rifiutare il matrimonio anche se il figlio lo vorrebbe, come dice la Torah: «se il padre si rifiuta di darla a lui» (Es. 22:16). In tal caso paga comunque il kenas. Se il padre acconsente al matrimonio — il seduttore è obbligato a sposarla e non può rifiutare. Il seduttore non può poi divorziare da lei (a differenza di un marito ordinario), poiché il suo atto iniziale lo ha vincolato a lei in modo permanente, analogamente al violentatore."
+    }
+  ],
+  "_glossary_terms_used": [
+    "na'arah betulah", "oneis", "mefateh", "boshet", "pegam", "kenas", "na'arut", "ketanah", "bogeret", "siman gadlut"
+  ]
+}

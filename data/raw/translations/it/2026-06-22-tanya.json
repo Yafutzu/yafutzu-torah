@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 12",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת יב",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettera 12",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-22",
+  "hebrew_date": "7 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שְׁכִינָה בְּגָלוּת — סוֹד גָּדוֹל הוּא...",
+      "it": "L'Alter Rebbe affronta in questa lettera il segreto profondo della Shekhinah in esilio (Shekhinah be-galut). Perché Dio permette che la Sua Presenza si 'esili' insieme al popolo d'Israele? La risposta cabbalistica è che l'esilio non è abbandono divino, ma anzi il massimo avvicinamento — Dio scende con il Suo popolo nella sofferenza per accompagnarlo e purificarlo."
+    },
+    {
+      "n": 2,
+      "he": "הַגָּלוּת הוּא תִּקּוּן הַנְּשָׁמוֹת...",
+      "it": "L'esilio (galut) è un processo di tikkun (riparazione) per le anime: le scintille di luce divina (nitzotzot) che si sono 'cadute' nei gusci dell'impurità (kelipot) durante la rottura dei vasi (shevirat hakelim) devono essere recuperate e elevate. Gli ebrei in esilio compiono questo lavoro di recupero attraverso il loro servizio divino — Torah, preghiera e mitzvot — nei luoghi in cui si trovano."
+    },
+    {
+      "n": 3,
+      "he": "וּכְשֶׁיִּשְׁלְמוּ כָּל הַנִּיצוֹצוֹת...",
+      "it": "Quando tutte le scintille saranno state recuperate, l'esilio finirà e verrà la Redenzione finale (ge'ulah sheleimah). L'Alter Rebbe conclude questa lettera con una nota di speranza: ogni atto di Torah e mitzvah compiuto nell'esilio accelera questo processo di raccolta delle scintille e avvicina la Redenzione. Il dolore dell'esilio ha quindi uno scopo divino preciso e la sua fine è certa."
+    }
+  ],
+  "_glossary_terms_used": ["Shekhinah be-galut", "galut", "tikkun", "nitzotzot", "kelipot", "shevirat hakelim", "ge'ulah", "Alter Rebbe", "Tanya", "Iggeret HaKodesh"]
+}

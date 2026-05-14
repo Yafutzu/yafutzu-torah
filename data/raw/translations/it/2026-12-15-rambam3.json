@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Edut 16-18",
+  "name_he": "משנה תורה, הלכות עדות פרקים טז-יח",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza, capitoli 16-18",
+  "cycle": "rambam-3",
+  "date": "2026-12-15",
+  "hebrew_date": "6 Tevet 5787",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "16:1-5",
+      "he": "אֵין אָדָם מֵשִׂים עַצְמוֹ רָשָׁע — בֵּאוּר...",
+      "it": "(Edut cap. 16, hal. 1-5) Approfondimento: «adam karov etzel atzmo» — l'individuo è considerato un «parente di se stesso» e quindi disqualificato dalla testimonianza su se stesso. Questa non è solo una regola tecnica ma una affermazione antropologica: ogni persona è ontologicamente incapace di essere un osservatore obiettivo di se stessa. Il sistema processuale richiede un testimone esterno per garantire l'obiettività. Nel diritto civile (dinei mamonot), tuttavia, la persona può obbligarsi attraverso la «hodaah» (ammissione) — perché l'ammissione del debito non è «testimonianza» ma «obbligazione»."
+    },
+    {
+      "n": "17:1-4",
+      "he": "הַמּוֹדֶה בְּמִלְוֶה — חַיָּב...",
+      "it": "(Edut cap. 17, hal. 1-4) Chi ammette un debito (modeh be-halvayah) — è obbligato a pagare. L'ammissione monetaria (hodaah) è vincolante perché esprime la volontà della persona di obbligarsi, non una «testimonianza» su se stessa. Distinzione fondamentale: la testimonianza penale mira ad accertare fatti oggettivi; l'ammissione civile crea o riconosce obblighi. La persona è il miglior conoscitore dei propri debiti — quindi la sua ammissione civile ha forza piena."
+    },
+    {
+      "n": "18:1-4",
+      "he": "הָאִשָּׁה מְעִידָה לְהַתִּיר עַצְמָהּ...",
+      "it": "(Edut cap. 18, hal. 1-4) Eccezioni dove la testimonianza femminile o di un solo testimone è accettata: una donna può testimoniare sulla morte del marito per permettersi di risposarsi (igun — l'agunah che non sa se il marito è vivo). In materia di kashrut (alimentare), il testimone unico (ed echad) è credibile. In situazioni di emes le-amito (verità pratica quotidiana) dove non vi sono interessi contrapposti — si allentano i requisiti formali. La Torah mostra flessibilità pratica dove la rigidità processuale causerebbe grave ingiustizia."
+    }
+  ],
+  "_glossary_terms_used": [
+    "adam karov etzel atzmo", "dinei mamonot", "hodaah", "modeh be-halvayah", "igun", "agunah", "ed echad", "kashrut", "emes le-amito"
+  ]
+}

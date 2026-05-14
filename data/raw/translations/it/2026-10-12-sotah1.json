@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Sotah 1",
+  "name_he": "משנה תורה, הלכות סוטה, פרק א",
+  "name_it": "Mishneh Torah, Leggi della Sotah, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-12",
+  "hebrew_date": "1 Cheshvan 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַמְקַנֵּא לְאִשְׁתּוֹ — הֲרֵי זֶה מֵבִיא אוֹתָהּ לְבֵית דִּין…",
+      "it": "Il marito che sospetta la moglie di adulterio — porta il caso al beit din (tribunale rabbinico). La procedura della sotah (letteralmente: la «deviante») è una procedura giudiziaria speciale descritta in Numeri 5:11-31. In questo giorno, 1 Cheshvan — Rosh Chodesh — si ricorda che il mese di Cheshvan è un mese di servizio divino puro, senza feste, in cui le leggi ordinarie della Torah guidano la vita ebraica nella loro forma più essenziale."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד מְקַנֵּא לָהּ — אוֹמֵר לָהּ בִּפְנֵי עֵדִים…",
+      "it": "Come si esegue il «kinui» (avvertimento)? Il marito dice alla moglie davanti a due testimoni: «Non stare in privato (al titjachadi) con tale persona». Questo avvertimento formale (kinui) è il primo passo della procedura. Deve essere davanti a testimoni per essere valido. L'avvertimento può essere verbale — non richiede un documento scritto. Dopo il kinui, se la moglie si trova in privato con quell'uomo specifico (setirah), si avvia la procedura di sotah."
+    },
+    {
+      "n": 3,
+      "he": "נִסְתְּרָה עִמּוֹ שִׁיעוּר בִּיאָה — נֶאֶסְרָה עַל בַּעְלָהּ…",
+      "it": "La «setirah» (incontro privato) deve durare abbastanza tempo da permettere teoricamente la coabitazione — i Saggi definiscono questo come il tempo necessario per cuocere un uovo (ke-dei bishul beitzah). Se la moglie si trova in privato con quell'uomo per tale durata — diventa proibita al marito fino al completamento della procedura di sotah. Non è necessario che l'adulterio sia avvenuto effettivamente — la sola possibilità è sufficiente per attivare la procedura."
+    },
+    {
+      "n": 4,
+      "he": "הָאִישׁ שֶׁקִּינֵּא לְאִשְׁתּוֹ — אִם רָצָה לְגָרֵשׁ, מְגָרֵשׁ…",
+      "it": "Il marito che ha fatto il kinui — se vuole divorziare, può divorziare senza sottoporre la moglie alla procedura di sotah. Il divorzio è sempre una sua prerogativa. Ma se vuole che la moglie rimanga sua moglie — deve sottoporsi alla procedura di sotah per «pulire» il sospetto. Se non compie né l'uno né l'altro — la moglie rimane proibita a lui finché il sospetto non sia risolto. Il Rambam sottolinea che il marito non può semplicemente ignorare la situazione."
+    },
+    {
+      "n": 5,
+      "he": "הָאִשָּׁה שֶׁסָּבְרָה שֶׁלֹּא נִסְתְּרָה — וְנִמְצְאָה שֶׁנִּסְתְּרָה…",
+      "it": "Se la donna non sapeva di essere stata osservata nella setirah — la sua ignoranza non la esenta dalla procedura di sotah. Ciò che conta è il fatto oggettivo della setirah, non la consapevolezza della donna. Tuttavia se la setirah è avvenuta per caso (non volutamente) — il Rambam distingue tra setirah intenzionale e accidentale nelle sue conseguenze sulla condizione della donna."
+    },
+    {
+      "n": 6,
+      "he": "הַקִּנּוּי שֶׁל עֵד אֶחָד — אֵינוֹ קִנּוּי…",
+      "it": "L'avvertimento (kinui) davanti a un solo testimone — non è valido come kinui formale ai fini della procedura di sotah. Occorrono due testimoni per il kinui. Similmente la setirah deve essere testimoniata da almeno un testimone affidabile. Se il kinui fu compiuto in assenza di testimoni — il marito può divorziare ma non può sottoporre la moglie alla procedura delle acque amare (mei ha-marim) della sotah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sotah", "kinui", "setirah", "beit din", "mei ha-marim", "ke-dei bishul beitzah"
+  ]
+}

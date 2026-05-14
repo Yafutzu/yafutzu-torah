@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 2",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ב",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 2",
+  "cycle": "rambam-1",
+  "date": "2026-07-28",
+  "hebrew_date": "14 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד מְקַדְּשִׁין אֶת הַחֹדֶשׁ? בֵּית דִּין שֶׁל שְׁלֹשָׁה יוֹשְׁבִין לִרְאִיַּת הַיָּרֵחַ.",
+      "it": "Come si santifica il mese? Un Tribunale (Beit Din) di tre giudici si siede per [ricevere] la testimonianza della luna nuova."
+    },
+    {
+      "n": 2,
+      "he": "הָעֵדִים הָרוֹאִים אֶת הַיָּרֵחַ — בָּאִים לִפְנֵי בֵּית דִּין וְאוֹמְרִים: 'בְּמוֹצָאֵי פְלוֹנִי וּפְלוֹנִי רָאִינוּ אֶת הַיָּרֵחַ'.",
+      "it": "I testimoni che hanno visto la luna vengono davanti al Tribunale e dicono: 'La sera di tal giorno abbiamo visto la luna nuova.'"
+    },
+    {
+      "n": 3,
+      "he": "בּוֹדְקִין אֶת הָעֵדִים: הֵיכָן רָאִיתֶם? לִצְפוֹן אוֹ לְדָרוֹם? מַה גָּבְהָהּ? לְאֵיזֶה צַד הָיְתָה נוֹטָה?",
+      "it": "Si esaminano i testimoni: dove l'avete vista? A nord o a sud? Qual era la sua altezza? Da quale lato stava inclinando?"
+    },
+    {
+      "n": 4,
+      "he": "אִם נִמְצְאוּ דִּבְרֵיהֶם מְכֻוָּוָנִין לְחֶשְׁבּוֹן — מְקַדְּשִׁין.",
+      "it": "Se le loro parole corrispondono al calcolo astronomico — si santifica il mese."
+    },
+    {
+      "n": 5,
+      "he": "כֵּיצַד מְקַדְּשִׁין? אַב בֵּית דִּין אוֹמֵר: 'מְקֻדָּשׁ!' וְכָל הָעָם עוֹנִין אַחֲרָיו: 'מְקֻדָּשׁ מְקֻדָּשׁ!'",
+      "it": "Come si santifica? Il Presidente del Tribunale (Av Beit Din) dice: 'Mekuddash!' (Santificato!), e tutto il popolo risponde dopo di lui: 'Mekuddash! Mekuddash!'"
+    },
+    {
+      "n": 6,
+      "he": "מַה הָיוּ עוֹשִׂין לְהוֹדִיעַ לַגּוֹלָה? הָיוּ מַדְלִיקִין מַשּׂוּאוֹת בְּרָאשֵׁי הֶהָרִים.",
+      "it": "Cosa facevano per informare la Diaspora? Accendevano fuochi-segnale (massuot) sulle cime dei monti."
+    },
+    {
+      "n": 7,
+      "he": "כֵּיצַד? מֵהַר הַזַּיִת לְסַרְטַבָּא, וּמִסַּרְטַבָּא לְגְרוֹפִינָא, וּמִגְּרוֹפִינָא לְחַוְרָן, וּמֵחַוְרָן לְבֵית בִּלְתִּין.",
+      "it": "Come? Dal Monte degli Ulivi a Sartava, da Sartava a Grofina, da Grofina a Hauran, da Hauran a Beit Biltin — e così via, una catena di fuochi attraverso la terra."
+    },
+    {
+      "n": 8,
+      "he": "כְּשֶׁקִּלְקְלוּ הַכּוּתִים — תִּקְּנוּ שֶׁיִּהְיוּ שְׁלוּחִין יוֹצְאִין.",
+      "it": "Quando i Samaritani (Kutim) ostacolarono i segnali accendendo fuochi falsi, i Saggi stabilirono che si inviassero messaggeri (sheluchim) al loro posto."
+    },
+    {
+      "n": 9,
+      "he": "לָכֵן תִּקְּנוּ שְׁנֵי יְמֵי יוֹם טוֹב בַּגּוֹלָה — לְפִי שֶׁהָיוּ מְסַפְּקִין בְּרֹאשׁ הַחֹדֶשׁ.",
+      "it": "Perciò fu stabilito che nella Diaspora si osservassero due giorni di festa (yom tov sheni) — poiché erano incerti su quale giorno fosse Rosh Chodesh e quindi quale giorno fosse la festa."
+    }
+  ],
+  "_glossary_terms_used": ["Beit Din", "Av Beit Din", "massuot", "sheluchim", "yom tov sheni"]
+}

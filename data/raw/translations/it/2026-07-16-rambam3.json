@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'aseh HaKorbanot 16-18",
+  "name_he": "משנה תורה, הלכות מעשה הקורבנות, פרקים טז-יח",
+  "name_it": "Mishneh Torah, Leggi della Procedura dei Sacrifici, capitoli 16-18",
+  "cycle": "rambam-3",
+  "date": "2026-07-16",
+  "hebrew_date": "2 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "16:1",
+      "he": "אָסוּר לְהוֹתִיר מִן הַקָּרְבָּן יוֹתֵר מִזְּמַנּוֹ. הַנּוֹתָר — חַיָּב לִשְׂרֹף.",
+      "it": "È proibito lasciare avanzi del sacrificio (notar) oltre il suo tempo. Gli avanzi — si è obbligati a bruciarli."
+    },
+    {
+      "n": "16:2",
+      "he": "זְמַן אֲכִילַת עוֹלָה — לְלַיְלָה שֶׁלְּאַחֲרֶיהָ בִּלְבַד.",
+      "it": "Il tempo per l'attività dell'olah (bruciatura) — solo per la notte successiva."
+    },
+    {
+      "n": "16:3",
+      "he": "זְמַן אֲכִילַת שְׁלָמִים — שְׁנֵי יָמִים וְלַיְלָה אֶחָד.",
+      "it": "Il tempo per mangiare lo shelamim — due giorni e una notte."
+    },
+    {
+      "n": "16:4",
+      "he": "זְמַן אֲכִילַת חַטָּאת וְאָשָׁם — יוֹם וָלַיְלָה.",
+      "it": "Il tempo per mangiare il chatat e l'asham — un giorno e una notte."
+    },
+    {
+      "n": "16:5",
+      "he": "הָאוֹכֵל נוֹתָר — לוֹקֶה.",
+      "it": "Chi mangia dal notar — riceve la flagellazione."
+    },
+    {
+      "n": "17:1",
+      "he": "קָרְבָּן שֶׁיָּצָא חוּץ לִירוּשָׁלַיִם — פָּסוּל וְחַיָּבִין לִשְׂרֹף אוֹתוֹ.",
+      "it": "Un sacrificio che è uscito fuori da Gerusalemme — è invalido e si è obbligati a bruciarlo."
+    },
+    {
+      "n": "17:2",
+      "he": "קָדְשֵׁי קָדָשִׁים — נֶאֱכָלִין בִּפְנִים, בָּעֲזָרָה בִּלְבַד.",
+      "it": "I kodshei kodashim (sacrifici di santità superiore) — si mangiano all'interno, solo nell'Ezrah."
+    },
+    {
+      "n": "17:3",
+      "he": "קָדָשִׁים קַלִּים — נֶאֱכָלִין בְּכָל יְרוּשָׁלַיִם.",
+      "it": "I kodashim kallim (sacrifici di santità minore) — si mangiano in tutta Gerusalemme."
+    },
+    {
+      "n": "17:4",
+      "he": "מַעֲשֵׂר שֵׁנִי — נֶאֱכָל בְּכָל יְרוּשָׁלַיִם.",
+      "it": "Il ma'aser sheni (secondo decimo) — si mangia in tutta Gerusalemme."
+    },
+    {
+      "n": "18:1",
+      "he": "קָרְבָּן שֶׁנִּטְמָא — חַיָּבִין לִשְׂרֹף אוֹתוֹ.",
+      "it": "Un sacrificio che è diventato impuro — si è obbligati a bruciarlo."
+    },
+    {
+      "n": "18:2",
+      "he": "הָאוֹכֵל קָרְבָּן טָמֵא — לוֹקֶה.",
+      "it": "Chi mangia un sacrificio impuro — riceve la flagellazione."
+    },
+    {
+      "n": "18:3",
+      "he": "טֻמְאַת הַגּוּף וְטֻמְאַת הַקָּרְבָּן — שְׁנֵיהֶם אֲסוּרִין. הָאוֹכֵל בְּכֵהָה בְּאֶחָד מֵהֶם — חַיָּב מַלְקוֹת.",
+      "it": "L'impurità del corpo e l'impurità del sacrificio — entrambi proibiti. Chi mangia con l'una o l'altra — è passibile di flagellazione."
+    }
+  ],
+  "_glossary_terms_used": ["notar", "olah", "shelamim", "chatat", "asham", "kodshei kodashim", "kodashim kallim", "Ezrah", "ma'aser sheni", "tum'ah", "Yerushalayim", "Ma'aseh HaKorbanot"]
+}

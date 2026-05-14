@@ -1,0 +1,147 @@
+{
+  "ref": "Mishneh Torah, Kilayim 3-5",
+  "name_he": "הלכות כלאיים פרקים ג'-ה'",
+  "name_it": "Leggi dei Kilayim, Capitoli 3–5",
+  "cycle": "rambam-3",
+  "date": "2026-06-02",
+  "hebrew_date": "17 Sivan 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "הַזּוֹרֵעַ שְׁנֵי מִינֵי תְּבוּאָה בְּשָׂדֶה אַחַת",
+      "it": "Chi semina due specie di cereali (tvu'ah, תְּבוּאָה) in un unico campo viola il divieto di kilayim (כִּלְאַיִם — mistura proibita). Il kilayim nelle sementi è proibito dalla Torah: 'Lo seminare il tuo campo con due specie' (Lev. 19:19)."
+    },
+    {
+      "n": "3:2",
+      "he": "שְׁנֵי מִינֵי זְרָעִים שֶׁנִּתְעָרְבוּ",
+      "it": "Se due specie di semi si sono mescolate accidentalmente nel proprio campo, bisogna rimuovere la specie estranea prima di seminare. Se il campo è già seminato, si deve eliminare la specie diversa per non mantenere una situazione di kilayim."
+    },
+    {
+      "n": "3:3",
+      "he": "שְׁנֵי מִינֵי קִטְנִיּוֹת",
+      "it": "I legumi (kitniyot, קִטְנִיּוֹת) rientrano anche essi nel divieto di kilayim zeraim (כִּלְאַיִם זְרָעִים — kilayim dei semi). Pertanto non si seminano due specie di legumi insieme, né si semina un legume accanto a un cereale nella stessa zona senza la debita separazione."
+    },
+    {
+      "n": "3:4",
+      "he": "כַּמָּה יִהְיֶה בֵּין זֶרַע לָזֶרַע",
+      "it": "La distanza richiesta tra specie diverse di semi dipende dal tipo di coltivazione e dalla visibilità della separazione. L'elemento determinante è se un osservatore comune percepirebbe i campi come separati o come un unico campo misto."
+    },
+    {
+      "n": "3:5",
+      "he": "שְׂדֵה תְּבוּאָה שֶׁנָּפְלוּ בּוֹ",
+      "it": "Se in un campo di cereali cadono casualmente semi di un'altra specie e crescono, il proprietario deve estirparli se la proporzione è significativa. Se sono rari e sparsi, alcuni Saggi ritengono che non costituiscano kilayim."
+    },
+    {
+      "n": "3:6",
+      "he": "כֵּיצַד מְרַבֵּעַ אֶת שָׂדֵהוּ",
+      "it": "Come si dispone il campo in modo da poter coltivare specie diverse senza kilayim? Si divide visivamente in aree separate. I Saggi definirono le dimensioni minime di ogni area (beit rova, בֵּית רֹבַע — un'area di circa 1000 amot quadrate) per ogni specie."
+    },
+    {
+      "n": "3:7",
+      "he": "הַשּׁוֹלֵחַ שׁוּרוֹת לְשָׂדֶה חֲבֵרוֹ",
+      "it": "Chi estende filari (shurot, שׁוּרוֹת) della propria semina nel campo del vicino — per esempio attraverso una recinzione bassa — non causa kilayim se le specie nel campo del vicino sono diverse, purché la configurazione sia chiaramente separata."
+    },
+    {
+      "n": "3:8",
+      "he": "גִּנָּה קְטַנָּה",
+      "it": "Un piccolo giardino (ginnah, גִּנָּה) ha regole diverse dal campo (sadeh, שָׂדֶה). Nel giardino le distanze richieste per evitare il kilayim sono minori, poiché si riconosce la sua funzione ornamentale e la sua configurazione visivamente distinta dal campo agricolo."
+    },
+    {
+      "n": "3:9",
+      "he": "גַּן יָרָק",
+      "it": "In un orto di verdure (gan yarak, גַּן יָרָק), le specie diverse possono essere seminate in settori distinti con separazioni minime, purché sia visibile la distinzione. La regola fondamentale è: nessuno deve vedere due specie come se crescessero nello stesso letto."
+    },
+    {
+      "n": "3:10",
+      "he": "הַנּוֹטֵעַ שְׁנֵי מִינִין בַּגִּנָּה",
+      "it": "Chi pianta due specie nello stesso letto di un giardino senza separazione viola il kilayim anche in Eretz Yisrael (אֶרֶץ יִשְׂרָאֵל — la Terra d'Israele). Fuori dalla Terra d'Israele il kilayim zeraim è proibito solo miderabanan (מִדְּרַבָּנָן — per decreto rabbinico), non dalla Torah."
+    },
+    {
+      "n": "4:1",
+      "he": "כֵּיצַד מַבְדִּיל בֵּין מִין לְמִין",
+      "it": "Come si separa tra una specie e l'altra? Il Rambam descrive i metodi validi di separazione: un solco (charitz, חָרִיץ), un sentiero (shevil, שְׁבִיל), una siepe (gader, גָּדֵר), o una notevole differenza di livello del suolo. Tutti questi creano una barriera visiva e fisica sufficiente."
+    },
+    {
+      "n": "4:2",
+      "he": "רוֹחַב הַנָּתִיב",
+      "it": "La larghezza minima di un sentiero separatore è di sei tefachim (טְפָחִים — palmi, circa 48 cm). Un sentiero più stretto non costituisce una separazione valida tra specie diverse di semina."
+    },
+    {
+      "n": "4:3",
+      "he": "גָּדֵר שֶׁבֵּין שְׁנֵי שָׂדוֹת",
+      "it": "Una recinzione (gader, גָּדֵר) tra due campi coltivati a specie diverse separa i kilayim anche se la recinzione è bassa. L'elemento decisivo è che la recinzione sia visibile e chiaramente distinta."
+    },
+    {
+      "n": "4:4",
+      "he": "חָרִיץ מְהַלֵּךְ בְּכָל הַשָּׂדֶה",
+      "it": "Un solco che attraversa tutto il campo lo divide efficacemente in due sezioni separate, permettendo di seminare specie diverse ai due lati senza violare il kilayim. Il solco deve essere abbastanza profondo da essere riconoscibile."
+    },
+    {
+      "n": "4:5",
+      "he": "עֶשֶׂר גְּפָנִים שְׁתוּלוֹת",
+      "it": "Dieci viti (gfanim, גְּפָנִים) piantate in fila creano una zona di 'kerem' (כֶּרֶם — vigneto) con regole particolari di kilayim. Le specie seminate entro quattro cubiti dal vigneto sono soggette al divieto speciale di kilayim hakerem (כִּלְאַיִם הַכֶּרֶם — kilayim del vigneto), che è più severo."
+    },
+    {
+      "n": "4:6",
+      "he": "הַמַּבְרִיךְ אֶת הַגֶּפֶן",
+      "it": "Chi abbassa un tralcio di vite (mavrich, מַבְרִיךְ) sotto terra perché produca nuove radici non deve seminare sopra di esso finché il tralcio rimane vivo, poiché si considera ancora parte del vigneto."
+    },
+    {
+      "n": "4:7",
+      "he": "כֶּרֶם שֶׁחָרֵב",
+      "it": "Un vigneto abbandonato (karem charevo, כֶּרֶם שֶׁחָרֵב) — dove la maggior parte delle viti è morta — perde il suo status di kerem. Se rimangono meno di cinque viti vive, non si applica il divieto di kilayim hakerem."
+    },
+    {
+      "n": "5:1",
+      "he": "כֵּיצַד מוֹדְדִין אֶת הַכֶּרֶם",
+      "it": "Come si misura la zona proibita intorno al vigneto? Si misurano quattro cubiti (arba amot, אַרְבַּע אַמּוֹת) in tutte le direzioni dalle viti esterne. Entro questa zona è proibito seminare qualsiasi altra specie."
+    },
+    {
+      "n": "5:2",
+      "he": "גֶּפֶן יְחִידִית",
+      "it": "Una vite singola (gefen yechidah, גֶּפֶן יְחִידִית) non costituisce un vigneto (kerem). Ha la sua propria zona di divieto, ma le misure e le leggi applicabili sono meno severe di quelle di un kerem vero e proprio."
+    },
+    {
+      "n": "5:3",
+      "he": "שְׁתֵּי שׁוּרוֹת שֶׁל גְּפָנִים",
+      "it": "Due file di viti di almeno cinque viti ciascuna costituiscono un kerem ai fini del kilayim. La regola è: 'kerem' esiste quando si ha una struttura viti che permette di passare tra i filari con un aratro."
+    },
+    {
+      "n": "5:4",
+      "he": "הַמְּדַלֶּה גְּפָנָיו",
+      "it": "Chi allena le sue viti su un pergolato (deli, דְּלָיָה) — cioè a crescere in alto — le piante sotto il pergolato sono comunque soggette alle leggi di kilayim hakerem. Il criterio è la prossimità alle radici e ai tralci, non solo alla proiezione verticale della vite."
+    },
+    {
+      "n": "5:5",
+      "he": "הַמַּקִּיף אֶת הַכֶּרֶם",
+      "it": "Chi circonda il suo vigneto con una recinzione alta almeno dieci tefachim (circa 80 cm) può seminare fino alla base della recinzione, poiché la recinzione costituisce una separazione assoluta dalle viti."
+    },
+    {
+      "n": "5:6",
+      "he": "זָרַע בְּתוֹךְ כֶּרֶם",
+      "it": "Chi semina entro il vigneto o entro i quattro cubiti proibiti viola un divieto della Torah e il prodotto è 'kdoshim' (קְדֵשִׁים) — consacrato/proibito. Sia le viti sia la semina devono essere distrutte e non possono essere beneficiate."
+    },
+    {
+      "n": "5:7",
+      "he": "כִּלְאֵי הַכֶּרֶם אֲסוּרִין בַּהֲנָאָה",
+      "it": "I prodotti del kilayim del vigneto (kilayim hakerem, כִּלְאַיִם הַכֶּרֶם) sono proibiti non solo al consumo ma anche a qualsiasi beneficio (hana'ah, הֲנָאָה). Questa è una proibizione più severa rispetto ad altri tipi di kilayim, dove il prodotto è permesso una volta che la pianta è stata rimossa."
+    },
+    {
+      "n": "5:8",
+      "he": "כִּלְאֵי זְרָעִים מוּתָּר בַּהֲנָאָה",
+      "it": "I prodotti del kilayim dei semi (kilayim zeraim) sono permessi nel beneficio e nel consumo — solo l'atto della semina mista è proibita. Questa è la differenza fondamentale tra kilayim zeraim e kilayim hakerem."
+    },
+    {
+      "n": "5:9",
+      "he": "הַנִּקְלָה בְּכִלְאַיִם",
+      "it": "La pena rabbinica prevista per chi viola il kilayim è la flagellazione (malkot, מַלְקוֹת) nel caso di kilayim hakerem. Per kilayim zeraim o sha'atnez, la pena è ugualmente la flagellazione se l'atto fu compiuto deliberatamente."
+    },
+    {
+      "n": "5:10",
+      "he": "כִּלְאַיִם בְּחוּצָה לָאָרֶץ",
+      "it": "Fuori dalla Terra d'Israele, kilayim zeraim e kilayim hakerem sono proibiti per decreto rabbinico (derabanan). Lo sha'atnez (שַׁעַטְנֵז — mistura di lana e lino in un indumento) è proibito dalla Torah ovunque, in Israele e fuori da Israele."
+    }
+  ],
+  "_glossary_terms_used": ["kilayim", "tvu'ah", "kitniyot", "kilayim zeraim", "ginnah", "sadeh", "gan yarak", "Eretz Yisrael", "derabanan", "charitz", "shevil", "gader", "gfanim", "kerem", "kilayim hakerem", "mavrich", "gefen yechidah", "malkot", "sha'atnez", "hana'ah", "beit rova"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 15",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת טו",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettera 15",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-24",
+  "hebrew_date": "9 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סֵדֶר הִשְׁתַּלְשְׁלוּת — שַׁרְשֶׁרֶת הָעוֹלָמוֹת...",
+      "it": "Lettera 15: L'Alter Rebbe espone in modo profondo la struttura cabbalistica del seder hishtalshelut — la 'catena di discesa' attraverso cui la Luce Divina scende dall'Ein Sof (Infinito) fino al nostro mondo fisico. Questa catena comprende quattro mondi: Atzilut (Emanazione), Beriah (Creazione), Yetzirah (Formazione) e Asiyah (Azione), ognuno più 'nascosto' del precedente rispetto alla Fonte."
+    },
+    {
+      "n": 2,
+      "he": "הַצִּמְצוּמִין מְסַתִּירִין אֶת הָאוֹר...",
+      "it": "Le contrazioni (tzimtzumim) che nascondono la Luce Divina permettono l'esistenza del mondo: se la Luce Infinita si rivelasse senza contrazione, il mondo non potrebbe esistere poiché sarebbe annullato (bitul) nella Luce. Il tzimtzum non è un ritiro reale di Dio — è una 'nascita' dell'illusione del 'vuoto' che permette alle creature di percepirsi come entità separate."
+    },
+    {
+      "n": 3,
+      "he": "הָעוֹלָם הַזֶּה הוּא הָעוֹלָם הַשָּׁפָל...",
+      "it": "Il nostro mondo fisico è il più basso nel seder hishtalshelut, il più distante dalla Fonte Divina. Eppure è qui che la volontà di Dio si realizza pienamente attraverso le mitzvot fisiche! Il paradosso è che proprio l'occultamento (hester panim) crea lo spazio per la libertà di scelta (bechirah) e per il servizio divino autentico. Il mondo di Asiyah è quindi il campo dell'azione divina più profonda."
+    }
+  ],
+  "_glossary_terms_used": ["seder hishtalshelut", "Ein Sof", "Atzilut", "Beriah", "Yetzirah", "Asiyah", "tzimtzum", "bitul", "hester panim", "bechirah", "Alter Rebbe", "Tanya"]
+}

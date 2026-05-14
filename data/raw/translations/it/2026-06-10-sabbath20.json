@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Sabbath 20",
+  "name_he": "הלכות שבת פרק כ'",
+  "name_it": "Leggi dello Shabbat, Capitolo 20",
+  "cycle": "rambam-1",
+  "date": "2026-06-10",
+  "hebrew_date": "25 Sivan 5786",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "קֶשֶׁר שֶׁמֵּתִיר",
+      "it": "I nodi (kfar, כְּפָר / kesher, קֶשֶׁר): legare un nodo permanente di Shabbat viola il divieto di 'kosher' (קוֹשֵׁר — legare). Sciogliere un nodo permanente viola il divieto di 'matir' (מַתִּיר — sciogliere). Entrambi sono tra le tredici categorie principali di lavoro (avot melachah, אֲבוֹת מְלָאכָה)."
+    },
+    {
+      "n": 2,
+      "he": "אֵיזֶה קֶשֶׁר אָסוּר",
+      "it": "Quale tipo di nodo è proibito dalla Torah? Un nodo 'mekayam' (מְקַיָּם — permanente) — quello che il suo autore intende mantenere a lungo e che è fatto da professionisti (knot professionale). Un nodo che si fa e si disfa quotidianamente (la'asser ba'yom, לַעֲשׂוֹת בַּיּוֹם) non è proibito dalla Torah ma solo per decreto rabbinico."
+    },
+    {
+      "n": 3,
+      "he": "קֶשֶׁר עוֹנְשִׁין",
+      "it": "I nodi che vengono puniti (con la pena della flagellazione) di Shabbat sono solo quelli permanenti e professionali. Un nodo che si fa con la punta di un dito e si scioglie con la punta di un dito — è permesso anche di Shabbat."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד קוֹשְׁרִין בְּשַׁבָּת",
+      "it": "Come si legano permessamente di Shabbat? Con un fiocco (anivah, עֲנִיבָה — nodo a fiocco) che si può facilmente sciogliere. Il fiocco è permesso poiché è temporaneo per natura. Le scarpe si legano e slacciano con fiocchi normalmente di Shabbat."
+    },
+    {
+      "n": 5,
+      "he": "הַקּוֹשֵׁר בְּדֶרֶךְ מְלַאכְתּוֹ",
+      "it": "Il marinaio (sechut hamayim, שְׂחוּת הַמַּיִם) che lega nodi professionali di nave — viola la Torah anche se il nodo non è permanente, poiché il nodo professionale del marinaio è considerato 'mekayam' in virtù della sua qualità professionale."
+    },
+    {
+      "n": 6,
+      "he": "הַמְּקַפֵּל בֶּגֶד",
+      "it": "Piegare un indumento (mekappel beged, מְקַפֵּל בֶּגֶד) di Shabbat — già discusso al capitolo 19 — è permesso in condizioni specifiche: un solo indumento, da soli (senza aiutante), e la sera prima di andare a dormire per indossarlo nuovamente di Shabbat."
+    },
+    {
+      "n": 7,
+      "he": "הַמְפָּנֶה כֵּלִים בְּשַׁבָּת",
+      "it": "Spostare utensili (mefaneh kelim, מְפַנֶּה כֵּלִים) di Shabbat è permesso purché siano utensili normalmente permessi (keli shemelachto l'hetter, כְּלִי שֶׁמְּלַאכְתּוֹ לְהֶתֵּר). Si sposta un utensile dal posto dove dà fastidio (letzorech gufo, לְצֹרֶךְ גּוּפוֹ) o per usarlo (letzorech mekomo, לְצֹרֶךְ מְקוֹמוֹ)."
+    },
+    {
+      "n": 8,
+      "he": "כֵּיצַד מְטַלְטְלִין כֵּלִים",
+      "it": "Come si trasportano gli utensili permessi di Shabbat? Solo a mano o appoggiandoli al corpo. Non si usano carretti o veicoli per il trasporto di Shabbat nel dominio privato — non poiché sia proibito tecnicamente ma poiché non sembra appropriato per lo Shabbat."
+    },
+    {
+      "n": 9,
+      "he": "פּוֹתְחִין חָבִיּוֹת בְּשַׁבָּת",
+      "it": "Si aprono botti (chaviyot, חָבִיּוֹת) di Shabbat per mangiarci dalla cima — purché si apra con cura senza fare il fondo in modo da creare un nuovo utensile. Aprire un contenitore in modo normale per estrarne il contenuto non è un atto di creazione (boneh, בּוֹנֶה)."
+    },
+    {
+      "n": 10,
+      "he": "חוֹתְכִין דְּלוּעִין לִפְנֵי",
+      "it": "Si tagliano zucche (dlu'in, דְּלוּעִין) o altro cibo grosso per gli animali di Shabbat — purché il taglio sia per i bisogni dello stesso Shabbat. Preparare cibo per gli animali di Shabbat che si ha l'obbligo di nutrire è permesso."
+    },
+    {
+      "n": 11,
+      "he": "שׁוֹבְרִין אֶת הֶחָבִית",
+      "it": "Si può rompere (shoverim, שׁוֹבְרִין) — non aprire regolarmente — una botte di Shabbat per estrarne il cibo contenuto, purché non si crei deliberatamente un bordo utile come nuovo utensile. Si rompe per bisogno, non per creare qualcosa di nuovo."
+    },
+    {
+      "n": 12,
+      "he": "הַמַּבְדִּיל בֵּין קָדֶשׁ לְחוֹל",
+      "it": "La havdalah (הַבְדָּלָה — distinzione/separazione) di Shabbat — la cerimonia di separazione tra il sacro (kodesh, קֹדֶשׁ) e il profano (chol, חוֹל) — si fa all'uscita di Shabbat. Si recita sulla coppa di vino, sulla candela a più fiamme, e sulle spezie. È un obbligo della Torah incorporato nella preghiera."
+    },
+    {
+      "n": 13,
+      "he": "אֵין עוֹשִׂין מְלָאכָה",
+      "it": "Non si fanno lavori prima di recitare la havdalah alla fine di Shabbat (motzaei Shabbat, מוֹצָאֵי שַׁבָּת). Una volta recitata la havdalah — o anche solo detto 'baruch ha-mavdil bein kodesh l'chol' (בָּרוּךְ הַמַּבְדִּיל בֵּין קֹדֶשׁ לְחוֹל) — si può iniziare a lavorare."
+    },
+    {
+      "n": 14,
+      "he": "הַנֵּר בְּהַבְדָּלָה",
+      "it": "La candela della havdalah (ner havdalah, נֵר הַבְדָּלָה) deve avere più di una fiamma, simboleggiando la luce creata nel primo giorno di creazione. Si usano due fiamme unite, o una candela intrecciata a due stoppini. Non si usa la luce di una lampada o fiamma singola."
+    },
+    {
+      "n": 15,
+      "he": "בְּשָׂמִים בְּהַבְדָּלָה",
+      "it": "Le spezie (besamim, בְּשָׂמִים) della havdalah servono a consolare l'anima (nefesh, נֶפֶשׁ) che perde la 'neshamah yeterah' (נְשָׁמָה יְתֵרָה — l'anima aggiuntiva) di Shabbat all'uscita del giorno. Le spezie aromatiche ristorano lo spirito."
+    },
+    {
+      "n": 16,
+      "he": "הַמַּבְדִּיל עַל הַכּוֹס",
+      "it": "La havdalah si recita su una coppa di vino (kos, כּוֹס) piena. Chi non ha vino usa birra o altro liquido significativo. Se non ha nulla — può fare la havdalah sulla pagnotta di challah (challah, חַלָּה). Il principio è che la havdalah richiede qualcosa di significativo da bere."
+    },
+    {
+      "n": 17,
+      "he": "שָׁכַח וְלֹא הִבְדִּיל",
+      "it": "Chi ha dimenticato la havdalah di motzaei Shabbat può farla fino al martedì serale (ben she'ashot, בֵּין שֶׁהָאָשׁוֹת) senza benedizione retroattivamente. Si fa la havdalah quando se ne ricorda. Dopo martedì, non si può più fare la havdalah di quella settimana."
+    },
+    {
+      "n": 18,
+      "he": "מִצְוַת עוֹנֶג שַׁבָּת",
+      "it": "La conclusione del capitolo è la mitzvah di oneg Shabbat (עוֹנֶג שַׁבָּת — delizia del Shabbat): il Shabbat deve essere un giorno di piacere fisico e spirituale — tre pasti, vesti belle, l'astensione dal lavoro, lo studio della Torah, la preghiera. L'oneg Shabbat è il segno del patto (brit, בְּרִית) tra Dio e Israele attraverso il Shabbat."
+    }
+  ],
+  "_glossary_terms_used": ["kesher", "kosher", "matir", "avot melachah", "mekayam", "anivah", "mekappel beged", "keli shemelachto l'hetter", "chaviyot", "boneh", "havdalah", "kodesh", "chol", "motzaei Shabbat", "ner havdalah", "besamim", "neshamah yeterah", "oneg Shabbat", "brit", "challah"]
+}

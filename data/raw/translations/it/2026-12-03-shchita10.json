@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 10",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק י",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 10",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-03",
+  "hebrew_date": "24 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "עוֹף טָעוּן שְׁחִיטָה מִדִּבְרֵי סוֹפְרִים...",
+      "it": "La shechitah degli uccelli (ofe) è obbligatoria per legge rabbinica (midivrei soferim), secondo il Rambam — a differenza della shechitah degli animali domestici (behemot) che è biblicamente richiesta. L'esame del coltello prima della shechitah dell'uccello è identico a quello richiesto per gli animali. Le stesse cinque azioni invalidanti (shehiyah, derasah, chaladah, hagramah, ikkur) si applicano anche agli uccelli."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד שׁוֹחֲטִין אֶת הָעוֹף — שׁוֹחֵט מֵהַצַּוָּאר...",
+      "it": "Come si macella l'uccello: si incide la gola (tzavar) dell'uccello. Differenza anatomica fondamentale rispetto agli animali: nell'uccello si devono tagliare la trachea (kaneh — tubo del respiro) e l'esofago (veshet — tubo del cibo); il taglio di uno solo di essi è sufficiente be-diavad (post-factum), a differenza degli animali dove entrambi i tubi devono essere tagliati per una shechitah valida le-chatchilah. Gli organi anatomici propri degli uccelli — il gozzo (zefek), la gola espandibile (pigma) — non invalidano la shechitah anche se tagliati."
+    },
+    {
+      "n": 3,
+      "he": "הַזֶּפֶק שֶׁל עוֹף — אֵין שְׁחִיטָתוֹ פוֹסֶלֶת...",
+      "it": "Il gozzo (zefek) dell'uccello — il suo taglio non invalida la shechitah. Il gozzo è unico agli uccelli e non ha un equivalente anatomico negli animali. Se lo shochet ha tagliato il gozzo invece o in aggiunta alla gola — la shechitah è valida purché anche la trachea o l'esofago siano stati tagliati. Questa distinzione anatomica richiede che lo shochet conosca la struttura degli uccelli."
+    },
+    {
+      "n": 4,
+      "he": "שָׁחַט אֶת הַוֶּשֶׁט לְבַדּוֹ — כָּשֵׁר בְּעוֹף...",
+      "it": "Se lo shochet ha tagliato solo l'esofago (veshet) dell'uccello — è kosher be-diavad (post-factum). Se ha tagliato solo la trachea (kaneh) — è anch'esso kosher be-diavad. Ma le-chatchilah (ab initio) si devono tagliare entrambi. Negli animali domestici (behemot), al contrario, il taglio di entrambi i tubi è indispensabile anche be-diavad per la validità."
+    },
+    {
+      "n": 5,
+      "he": "כִּסּוּי הַדָּם — חַיָּב בְּעוֹף וּבְחַיָּה...",
+      "it": "La mitzva (precetto) della copertura del sangue (kisui ha-dam) si applica agli uccelli (ofe) e agli animali selvatici (chayyah), ma non agli animali domestici (behemah). Dopo la shechitah, lo shochet deve coprire il sangue fuoriuscito con terra o altro materiale polveroso, recitando la benedizione: «asher kid'shanu be-mitzvotav ve-tzivanu al kisui ha-dam be-afar». Un shochet che ha dimenticato la copertura — è rabbinicamente sanzionabile."
+    },
+    {
+      "n": 6,
+      "he": "הָיָה לֵיל חֲנֻכָּה — נֵר הַמִּצְוָה מְאִיר בְּטָהֳרָה...",
+      "it": "Nota del trascrittore: questa sera si accendono per la prima volta le luci di Chanukah (erev Chanukah). Il miracolo dell'olio del Tempio — che solo un'unica ampolla sigillata con il sigillo del Kohen Gadol rimase pura (tehorah) tra tutto l'olio contaminato dai Greci — è un'eco profonda della legge della shechitah: così come la purità d'intenzione (kavanah) e la purità dello strumento (bedikat ha-sakkin) sono indispensabili nella shechitah, così solo l'olio puro era valido per il Menorah. Domani sera inizia la pubblicizzazione del miracolo (pirsumei nisa) con l'accensione della prima candela."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ofe", "behemot", "midivrei soferim", "kaneh", "veshet", "zefek", "le-chatchilah", "be-diavad", "kisui ha-dam", "chayyah", "kavanah", "bedikat ha-sakkin", "pirsumei nisa", "tehorah", "Kohen Gadol"
+  ]
+}

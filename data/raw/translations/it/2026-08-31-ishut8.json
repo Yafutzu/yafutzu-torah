@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 8",
+  "name_he": "משנה תורה, הלכות אישות, פרק ח",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-31",
+  "hebrew_date": "18 Elul 5786",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שבעה מלאכות שהאשה עושה לבעלה: טוחנת, ואופה, ומבשלת, ומכבסת, ומניקה בנה, ועושה מצעו, ועושה בצמר.",
+      "it": "Sette compiti che la moglie svolge per il marito: macinare (grana), cuocere il pane, cucinare, lavare gli indumenti, allattare il figlio, preparare il suo giaciglio, e lavorare la lana."
+    },
+    {
+      "n": 2,
+      "he": "הכניסה לו שפחה אחת — לא טוחנת ולא אופה ולא מבשלת. הכניסה שתיים — לא מכבסת ולא מניקה. הכניסה שלוש — לא עושה מצעו. הכניסה ארבע — לא עושה בצמר. הכניסה חמש — יושבת בקתדרא.",
+      "it": "Se portò in dote una schiava — è esonerata dalla macinazione, dalla panificazione e dalla cucina. Se ne portò due — anche dal lavaggio e dall'allattamento. Se ne portò tre — anche dalla preparazione del giaciglio. Se ne portò quattro — anche dalla lavorazione della lana. Se ne portò cinque — siede in poltrona (è completamente esonerata dai lavori domestici)."
+    },
+    {
+      "n": 3,
+      "he": "אמר רבי אליעזר: אפילו הכניסה לו מאה שפחות — כופה לעשות בצמר, שבטלה מביאה לידי זימה.",
+      "it": "Disse Rabbi Eliezer: anche se portò cento schiave — la si obbliga a lavorare la lana, poiché l'ozio porta al libertinaggio (zimah)."
+    },
+    {
+      "n": 4,
+      "he": "והרמב\"ם פוסק כרבי אליעזר, שאין האשה יושבת ובטלה.",
+      "it": "Il Rambam (Maimonide) decide come Rabbi Eliezer, che la moglie non siede in ozio."
+    },
+    {
+      "n": 5,
+      "he": "אסור לבעל להיות שולט על אשתו באכזריות, שאינה שפחתו. יכבדה יותר מגופו.",
+      "it": "È proibito al marito dominare sulla moglie con crudeltà, poiché ella non è la sua schiava. La deve onorare più di se stesso."
+    },
+    {
+      "n": 6,
+      "he": "חייב האיש לכבד את אשתו יותר מגופו ולאהבה כגופו. ואם יש לו ממון — מרבה בטובתה לפי ממונו.",
+      "it": "Il marito è tenuto a onorare la moglie più di se stesso e ad amarla come se stesso. Se ha ricchezza — aumenta il suo benessere in proporzione alla sua ricchezza."
+    },
+    {
+      "n": 7,
+      "he": "וכן חייבת האשה לכבד את בעלה ביותר. ויראה אותו ולא תזלזל בו.",
+      "it": "Analogamente, la moglie è tenuta a onorare il marito grandemente. Deve avere nei suoi confronti riverenza e non deve trattarlo con leggerezza."
+    },
+    {
+      "n": 8,
+      "he": "כך אמרו חכמים: 'איזו היא אשה כשרה? העושה רצון בעלה.' וכן האיש — כשרותו בכך שהוא דואג לשלומה ולצרכיה, ולא יהיה עריץ.",
+      "it": "Così dissero i Saggi: 'Quale è la moglie virtuosa? Colei che fa la volontà del marito.' E così anche l'uomo — la sua virtù consiste nell'aver cura del benessere e dei bisogni di lei, e nel non essere un tiranno (aritz)."
+    }
+  ],
+  "_glossary_terms_used": ["zimah", "aritz"]
+}

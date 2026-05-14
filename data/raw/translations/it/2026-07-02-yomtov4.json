@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 4",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב, פרק ד",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 4",
+  "cycle": "rambam-1",
+  "date": "2026-07-02",
+  "hebrew_date": "17 Tammuz 5786",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יֵשׁ דְּבָרִים שֶׁאֲסוּרִין בְּיוֹם טוֹב מִדִּבְרֵי סוֹפְרִים, וְאֵלּוּ הֵן הַנִּקְרָאִין \"שְׁבוּת\".",
+      "it": "Vi sono cose proibite nello Yom Tov per decreto rabbinico, e queste sono chiamate «shevut» (riposo rabbinico)."
+    },
+    {
+      "n": 2,
+      "he": "אָסוּר לַעֲלוֹת בָּאִילָן בְּיוֹם טוֹב, בֵּין לְצֹרֶךְ אֹכֶל נֶפֶשׁ בֵּין שֶׁלֹּא לְצֹרֶךְ אֹכֶל נֶפֶשׁ.",
+      "it": "È proibito arrampicarsi su un albero nello Yom Tov, sia per bisogno di cibo sia senza tale bisogno."
+    },
+    {
+      "n": 3,
+      "he": "אָסוּר לִרְכֹּב עַל גַּבֵּי בְּהֵמָה בְּיוֹם טוֹב.",
+      "it": "È proibito cavalcare un animale nello Yom Tov."
+    },
+    {
+      "n": 4,
+      "he": "אָסוּר לִשְׁחוֹת בַּמַּיִם בְּיוֹם טוֹב. כֵּיצַד? אָסוּר לֵירֵד לִבְרֵכָה לִשְׁחוֹת.",
+      "it": "È proibito nuotare nell'acqua nello Yom Tov. Come così? È proibito scendere in una vasca per nuotare."
+    },
+    {
+      "n": 5,
+      "he": "אָסוּר לְטַפֵּחַ בְּכַפַּיִם וּלְרַקֵּד בְּיוֹם טוֹב, גְּזֵרָה שֶׁמָּא יְתַקֵּן כְּלֵי שִׁיר.",
+      "it": "È proibito battere le mani e danzare nello Yom Tov per decreto, per timore che si venga a riparare strumenti musicali. [Nota: questa halachah è in tensione con la permissività per gioia della mitzva indicata altrove.]"
+    },
+    {
+      "n": 6,
+      "he": "אָסוּר לְטַלְטֵל כֵּלִים שֶׁמְּלַאכְתָּן לְאִסּוּר בְּיוֹם טוֹב, כְּשֶׁאֵין בָּהֶם צֹרֶךְ.",
+      "it": "È proibito spostare utensili la cui funzione è proibita nello Yom Tov quando non vi è alcun bisogno di essi."
+    },
+    {
+      "n": 7,
+      "he": "אָסוּר לְהִסְתַּכֵּל בִּמְלָאכָה שֶׁהָיָה עוֹשֶׂה קֹדֶם יוֹם טוֹב, שֶׁמָּא יָבוֹא לַעֲשׂוֹת.",
+      "it": "È proibito guardare un lavoro che si stava svolgendo prima dello Yom Tov, per timore che si venga a farlo effettivamente. Questo è il principio di «lo titaveh» (non desiderare il lavoro)."
+    },
+    {
+      "n": 8,
+      "he": "אָסוּר לוֹמַר לְגוֹי לַעֲשׂוֹת מְלָאכָה בְּיוֹם טוֹב, כְּדֶרֶךְ שֶׁאָסוּר בְּשַׁבָּת.",
+      "it": "È proibito dire a un non ebreo di compiere un lavoro nello Yom Tov, così come è proibito di Shabbat."
+    },
+    {
+      "n": 9,
+      "he": "כֵּלִים שֶׁמְּלַאכְתָּן לְהֶיתֵּר, מֻתָּר לְטַלְטְלָן בְּיוֹם טוֹב בֵּין לְצֹרֶךְ בֵּין שֶׁלֹּא לְצֹרֶךְ.",
+      "it": "Utensili la cui funzione è permessa nello Yom Tov possono essere spostati sia con bisogno sia senza bisogno."
+    },
+    {
+      "n": 10,
+      "he": "אָסוּר לִקְצֹר וְלִדְרֹשׁ וְלִדְרֹךְ עֲנָבִים בְּיוֹם טוֹב, שֶׁהֵן מְלָאכוֹת גְּמוּרוֹת.",
+      "it": "È proibito mietere, trebbiare e pigiare l'uva nello Yom Tov, poiché sono lavori completi (melachot gemurot)."
+    },
+    {
+      "n": 11,
+      "he": "מִי שֶׁנָּפְלָה לוֹ מְלָאכָה בְּיוֹם טוֹב שֶׁאִם לֹא יַעֲשֶׂה אוֹתָהּ יֵאָבֵד מָמוֹנוֹ, לֹא יַעֲשֶׂנָּה.",
+      "it": "Chi si trova con un lavoro urgente nello Yom Tov tale che, se non lo compie, perderà il suo denaro, non lo deve compiere comunque."
+    },
+    {
+      "n": 12,
+      "he": "הַחוֹפֵר בּוֹר בְּיוֹם טוֹב לְצֹרֶךְ מַיִם — אָסוּר, שֶׁזּוֹ מְלָאכָה גְּמוּרָה.",
+      "it": "Chi scava un pozzo nello Yom Tov per procurarsi acqua — è proibito, poiché si tratta di un lavoro completo."
+    },
+    {
+      "n": 13,
+      "he": "כֵּלִים שֶׁמְּלַאכְתָּן לְאִסּוּר — מֻתָּר לְטַלְטְלָן לְצֹרֶךְ גּוּפָן אוֹ לְצֹרֶךְ מְקוֹמָן.",
+      "it": "Utensili la cui funzione è proibita possono essere spostati per bisogno del loro stesso corpo o per il bisogno del loro posto (per liberare lo spazio)."
+    },
+    {
+      "n": 14,
+      "he": "שְׁבוּת שֶׁיֵּשׁ בּוֹ צֹרֶךְ גָּדוֹל — יֵשׁ מַתִּירִין אוֹתוֹ בְּשַׁבָּת, וְקַל וָחֹמֶר בְּיוֹם טוֹב.",
+      "it": "Uno shevut (azione rabbinicamante proibita) che comporta un grande bisogno — alcuni la permettono di Shabbat, e a maggior ragione nello Yom Tov."
+    },
+    {
+      "n": 15,
+      "he": "אָסוּר לַעֲשׂוֹת פַּרְגוֹד בְּיוֹם טוֹב, דְּהַיְנוּ לַעֲשׂוֹת מְחִצָּה.",
+      "it": "È proibito costruire un parochet (divisorio/tenda) nello Yom Tov, cioè erigere una partizione."
+    },
+    {
+      "n": 16,
+      "he": "מוֹכְרֵי פֵּרוֹת לֹא יִמְכְּרוּ בְּיוֹם טוֹב, שֶׁזֶּה דֶּרֶךְ חֹל.",
+      "it": "I venditori di frutta non devono vendere nello Yom Tov, poiché questo è il comportamento tipico dei giorni feriali."
+    },
+    {
+      "n": 17,
+      "he": "כָּל מְלָאכָה שֶׁאֶפְשָׁר לַעֲשׂוֹתָהּ מֵעֶרֶב יוֹם טוֹב — לֹא יַעֲשֶׂנָּה בְּיוֹם טוֹב.",
+      "it": "Qualsiasi lavoro che si può compiere alla vigilia dello Yom Tov non deve essere fatto nello Yom Tov stesso."
+    },
+    {
+      "n": 18,
+      "he": "הַכֹּל לְפִי הָעִנְיָן; הַפּוֹסְקִים חָלְקוּ בְּדִינֵי שְׁבוּת רַבִּים שֶׁלְּיוֹם טוֹב.",
+      "it": "Tutto dipende dal contesto; i poskim hanno discusso molte leggi di shevut relative allo Yom Tov."
+    }
+  ],
+  "_glossary_terms_used": ["shevut", "ochel nefesh", "melachah", "melachot gemurot", "lo titaveh", "muktze", "poskim", "parochet", "mechutzah"]
+}

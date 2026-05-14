@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Kilayim 9-10; Matnot Aniyim 1",
+  "name_he": "הלכות כלאיים פרקים ט'-י' + הלכות מתנות עניים פרק א'",
+  "name_it": "Leggi dei Kilayim, Capitoli 9–10 + Leggi dei Doni ai Poveri, Capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-06-04",
+  "hebrew_date": "19 Sivan 5786",
+  "halachot_count": 28,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "שַׁעַטְנֵז אֵינוֹ אֶלָּא צֶמֶר וּפִשְׁתִּים",
+      "it": "Lo sha'atnez (שַׁעַטְנֵז) è proibito solo quando riguarda lana (tzemer, צֶמֶר) e lino (pishtim, פִּשְׁתִּים) insieme in un unico indumento. Altre fibre — seta, cotone, lana animale non di pecora — non sono comprese nel divieto della Torah, anche se possono essere proibite per decreto rabbinico in certi casi."
+    },
+    {
+      "n": "9:2",
+      "he": "אֵיזֶה צֶמֶר אָסוּר",
+      "it": "Quale lana è soggetta al divieto? Solo la lana di pecora (keves, כֶּבֶשׂ) e di capra (ez, עֵז). La lana di cammello, di coniglio o di altri animali non è 'tzemer' ai fini dello sha'atnez. Il lino deve essere di pianta di lino vera e propria (peshet, פֶּשֶׁת), non di altre fibre vegetali."
+    },
+    {
+      "n": "9:3",
+      "he": "הַלָּבוּד",
+      "it": "Il lavud (לָבוּד — feltro) di lana e lino è sha'atnez anche senza tessitura, poiché il processo di feltrazione crea un intreccio permanente delle fibre. Questo è il terzo metodo di sha'atnez proibito dalla Torah, accanto a filatura e tessitura."
+    },
+    {
+      "n": "9:4",
+      "he": "בֶּגֶד שֶׁל צֶמֶר שֶׁתְּפָרוֹ בְּחוּטֵי פִּשְׁתָּן",
+      "it": "Un indumento di lana cucito con fili di lino è sha'atnez. Il Rambam definisce con precisione: se i fili del lino sono parte strutturale dell'indumento (tofrin, תּוֹפְרִין — cuciti in modo stabile), è proibito. Se sono solo imbastiti temporaneamente, i Saggi discutono."
+    },
+    {
+      "n": "9:5",
+      "he": "הַמּוֹכֵר בֶּגֶד שַׁעַטְנֵז",
+      "it": "Chi vende un indumento di sha'atnez senza dichiararlo al compratore viola il divieto di ingannare (geneivat da'at, גְּנֵבַת דַּעַת). Se il compratore lo indossa senza sapere, non ha peccato lui ma il venditore."
+    },
+    {
+      "n": "9:6",
+      "he": "מִצְוַת צִיצִית",
+      "it": "Il caso delle tzitzit (צִיצִית) di lana in un indumento di lino è la grande eccezione al divieto di sha'atnez: la Torah stessa lo permette esplicitamente (Deut. 22:12). Questo principio dimostra che un'obbligazione positiva (asei, עֲשֵׂה) sospende un divieto negativo (lo ta'aseh, לֹא תַעֲשֶׂה)."
+    },
+    {
+      "n": "9:7",
+      "he": "כֵּיצַד בּוֹדְקִים אֶת הַבֶּגֶד",
+      "it": "L'esame di un indumento per lo sha'atnez deve essere fatto da un esperto (bodek, בּוֹדֵק). Si esamina il tessuto, le cuciture, i bottoni, la fodera, e i rinforzi interni, poiché in ognuno di questi punti possono essere nascosti fili di sha'atnez."
+    },
+    {
+      "n": "9:8",
+      "he": "כְּסוּת הַלַּיְלָה",
+      "it": "Usare sha'atnez come coperta notturna senza indossarlo — se non tocca il corpo direttamente — è permesso secondo alcune opinioni. Tuttavia il Rambam segue la posizione più severa: il divieto di sha'atnez si applica anche alla copertura, non solo all'indossare."
+    },
+    {
+      "n": "10:1",
+      "he": "כִּלְאֵי הַכֶּרֶם מֵאֵימָתַי",
+      "it": "Da quando si applicano le leggi del kilayim hakerem (כִּלְאַיִם הַכֶּרֶם)? Dal momento in cui si semina nel vigneto o si lascia crescere una pianta estranea che era già lì. L'atto proibito è sia la semina attiva sia il mantenimento passivo del kilayim già esistente."
+    },
+    {
+      "n": "10:2",
+      "he": "הַמְקַיֵּם כִּלְאַיִם בַּכֶּרֶם",
+      "it": "Chi mantiene attivamente il kilayim nel proprio vigneto — non estirpando la pianta estranea che cresce tra le viti — viola un divieto della Torah. L'obbligo di estirpare è continuo finché il kilayim esiste nel campo."
+    },
+    {
+      "n": "10:3",
+      "he": "כִּלְאֵי הַכֶּרֶם עַד שֶׁיִּגְדַּל",
+      "it": "Il kilayim hakerem si applica dal momento in cui la pianta estranea attecchisce nel suolo del vigneto. Anche se è ancora piccola e non visibile chiaramente, deve essere rimossa non appena identificata."
+    },
+    {
+      "n": "10:4",
+      "he": "פֵּרוֹת כִּלְאֵי הַכֶּרֶם",
+      "it": "I frutti prodotti dal kilayim hakerem — sia le viti sia le piante seminate — sono proibiti in qualsiasi beneficio (assur behana'ah, אָסוּר בַּהֲנָאָה) e devono essere bruciati. Questa è la severità unica del kilayim hakerem rispetto ad altri tipi di kilayim."
+    },
+    {
+      "n": "10:5",
+      "he": "כִּלְאַיִם שֶׁל דְּמַאי",
+      "it": "Concludendo Hilchot Kilayim, il Rambam nota che le leggi del kilayim si applicano con piena severità in Eretz Yisrael. Fuori dalla Terra, kilayim zeraim è proibito solo rabbinicamente, ma kilayim behemah e sha'atnez rimangono Torah in tutto il mondo."
+    },
+    {
+      "n": "MA 1:1",
+      "he": "מִצְוַת עֲשֵׂה לְהַנִּיחַ פֵּאָה",
+      "it": "È un obbligo positivo (mitzvat asei, מִצְוַת עֲשֵׂה) lasciare la pe'ah (פֵּאָה — angolo del campo) non raccolta per i poveri. Questo si basa su Lev. 19:9: 'Non raccoglierai fino all'angolo del tuo campo'. La pe'ah è uno dei quattro doni principali per i poveri dall'agricoltura."
+    },
+    {
+      "n": "MA 1:2",
+      "he": "אֵיזֶה הוּא פֵּאָה",
+      "it": "Cos'è la pe'ah? È la parte finale del campo che il contadino lascia in piedi non raccolta. I poveri vengono e raccolgono da soli questa parte. La pe'ah deve essere lasciata in un posto dove i poveri possano accedervi facilmente."
+    },
+    {
+      "n": "MA 1:3",
+      "he": "כָּל הַזְּרָעִים חַיָּבִין בְּפֵאָה",
+      "it": "Tutti i cereali e i legumi sono soggetti all'obbligo della pe'ah. Anche gli alberi da frutto hanno un obbligo simile nelle loro configurazioni particolari. La pe'ah si applica a qualsiasi coltivazione che: 1) viene conservata, 2) viene raccolta tutta insieme, 3) cresce dalla terra."
+    },
+    {
+      "n": "MA 1:4",
+      "he": "כַּמָּה הִיא הַפֵּאָה",
+      "it": "Quanto deve essere la pe'ah? La Torah non specifica una misura minima. I Saggi stabilirono che la pe'ah minima è un sessantesimo (shishim, שִׁשִּׁים) del campo. Tuttavia si deve dare di più in base alla dimensione del campo, al numero dei poveri, e al raccolto dell'anno."
+    },
+    {
+      "n": "MA 1:5",
+      "he": "אֵימָתַי נוֹתְנִים פֵּאָה",
+      "it": "Quando si lascia la pe'ah? Durante la raccolta (ketzira, קְצִירָה), al momento della mietitura. Non prima e non dopo. Se si dimenticò di lasciare la pe'ah durante la raccolta, si dà il valore equivalente in denaro o in prodotti ai poveri."
+    },
+    {
+      "n": "MA 1:6",
+      "he": "פֵּאָה שֶׁנְּתָנָהּ מִתַּחִלַּת הַשָּׂדֶה",
+      "it": "Se il contadino ha lasciato la pe'ah dall'inizio del campo invece che dall'angolo finale, ha adempiuto l'obbligo post-facto ma non le-chatchilah (לְכַתְּחִלָּה — ab initio). L'ideale è lasciare l'angolo finale perché sia raggiungibile dai poveri."
+    },
+    {
+      "n": "MA 1:7",
+      "he": "אֵין פּוֹחֲתִין מִשִּׁשִּׁים",
+      "it": "Non si scende al di sotto di un sessantesimo del campo per la pe'ah. Chi lo fa non ha adempiuto l'obbligo pienamente. Questo minimo rabbinico è il pavimento assoluto; l'ideale è dare di più secondo le circostanze."
+    },
+    {
+      "n": "MA 1:8",
+      "he": "מַגְבִּיהַּ פֵּאָה לְעַצְמוֹ",
+      "it": "Se un contadino 'raccoglie' la pe'ah per sé con l'intenzione di poi darla ai poveri, non ha adempiuto l'obbligo. La pe'ah deve essere lasciata nel campo per i poveri stessi raccoglierla, non raccolta e poi distribuita dal proprietario."
+    }
+  ],
+  "_glossary_terms_used": ["sha'atnez", "tzemer", "pishtim", "keves", "ez", "lavud", "tzitzit", "asei", "lo ta'aseh", "bodek", "kilayim hakerem", "assur behana'ah", "kilayim zeraim", "kilayim behemah", "pe'ah", "mitzvat asei", "ketzira", "shishim", "le-chatchilah", "geneivat da'at"]
+}

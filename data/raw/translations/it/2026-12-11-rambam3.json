@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Edut 4-6",
+  "name_he": "משנה תורה, הלכות עדות פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-12-11",
+  "hebrew_date": "2 Tevet 5787 — Chanukah giorno 8 (ULTIMO — ZOT CHANUKAH)",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "4:1-5",
+      "he": "אֵלּוּ שֶׁהֵן פְּסוּלִין מִן הַתּוֹרָה מִפְּנֵי קֻרְבָּה...",
+      "it": "(Edut cap. 4, hal. 1-5) I parenti disqualificati dalla testimonianza reciproca: padre e figlio, fratelli, zio e nipote, suocero e genero, matrigna e figliastro, cognati. La lista è tassativa — solo i parenti inclusi in questa lista sono disqualificati; altri legami affettivi (amici stretti, vicini) non disqualificano halachicamente, anche se possono creare dubbi etici. I parenti adottivi non hanno lo stesso status dei parenti biologici rispetto alla disqualificazione."
+    },
+    {
+      "n": "5:1-4",
+      "he": "הָעֵד שֶׁהוּא גַּם דַּיָּן — פָּסוּל...",
+      "it": "(Edut cap. 5, hal. 1-4) Il testimone che è anche giudice — disqualificato (ed ein na'aseh dayan). Chi ha visto l'evento non può anche giudicarlo. La logica: i due ruoli richiedono prospettive opposte — il testimone afferma fatti; il giudice valuta i fatti in modo critico e imparziale. Un giudice che «sa» cosa è successo (come fatto personale, non come testimonianza formale) deve astenersi. Chanukah 8 — Zot Chanukah: otto candele splendono tutte insieme nell'ultima notte — così come i testimoni puri verificarono ogni ampolla di olio nel Tempio con la massima accuratezza, la testimonianza richiede purezza assoluta."
+    },
+    {
+      "n": "6:1-4",
+      "he": "עֵד שֶׁנֶּהֱנֶה מִן הַדִּין — פָּסוּל...",
+      "it": "(Edut cap. 6, hal. 1-4) Il testimone che beneficia dal verdetto — disqualificato. Esempio: chi è creditore dell'imputato e testimonia contro di lui — la sua testimonianza lo avvicina al recupero del debito, quindi è interessato. Anche un beneficio indiretto può disqualificare. Questa regola riflette il principio biblico: «lo tikach shochad» — non accettare corruzione (Esodo 23:8). Anche il testimone deve essere «libero» da interessi economici — esattamente come i sacerdoti che verificarono il sigillo sull'ampolla di olio di Chanukah dovevano essere completamente disinteressati."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ed ein na'ayed dayan", "Zot Chanukah", "lo tikach shochad", "beit din"
+  ]
+}

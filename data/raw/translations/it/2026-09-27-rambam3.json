@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nizkei Mamon 14; Hilchot Geneivah 1-2",
+  "name_he": "משנה תורה, הלכות נזקי ממון פרק יד; הלכות גניבה פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi dei Danni ai Beni, capitolo 14; Leggi del Furto (Geneivah), capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-09-27",
+  "hebrew_date": "16 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "14:1",
+      "he": "דִּינָא דְּגַרְמֵי — מִי שֶׁגָּרַם נֵזֶק בִּפְעוּלָתוֹ בְּאֹפֶן עֲקִיף — כְּגוֹן שֶׁשָּׂרַף שְׁטָרוֹת — חַיָּב לְדַעַת הָרַמְבַּ\"ם.",
+      "it": "Dina de-garmi — chi ha causato danno con la propria azione in modo indiretto — ad esempio se ha bruciato dei documenti — è responsabile secondo il Rambam."
+    },
+    {
+      "n": "14:2",
+      "he": "הִכָּה אֶת הַשּׁוֹר שֶׁל חֲבֵרוֹ עַד שֶׁמֵּת — חַיָּב, אַף שֶׁלֹּא נָגַח בְּיָדַיִם אֶלָּא בְּמַקֵּל. נִגְמְרוּ הִלְכוֹת נִזְקֵי מָמוֹן.",
+      "it": "Se ha colpito il bue del prossimo finché è morto — è responsabile, anche se non ha incornato con le mani ma con un bastone. Si concludono le Leggi dei Danni ai Beni (Hilchot Nizkei Mamon)."
+    },
+    {
+      "n": "1:1",
+      "he": "הַגַּנָּב — זֶה שֶׁגָּנַב בְּהֵסְתֵּר, שֶׁלֹּא בְּפָנָיו שֶׁל הַנִּגְנַב. הַגַּנָּב מְשַׁלֵּם כֶּפֶל — שְׁנַיִם מֵחַמֵּשׁ שֶׁגָּנַב.",
+      "it": "Il ladro (gannav) — è chi ha rubato di nascosto, all'insaputa della vittima. Il ladro paga il doppio (kefel) — due volte il valore di ciò che ha rubato."
+    },
+    {
+      "n": "1:2",
+      "he": "מַדּוּעַ כֶּפֶל לַגַּנָּב יוֹתֵר מֵהַגַּזְלָן? שֶׁהַגַּנָּב יֵרֵא מִבְּנֵי אָדָם יוֹתֵר מִן הַשֵּׁם — שֶׁחָשַׁשׁ שֶׁיִּרְאֶה אוֹתוֹ הָאָדָם אֲבָל לֹא חָשַׁשׁ שֶׁיִּרְאֶה אוֹתוֹ הַשֵּׁם.",
+      "it": "Perché il kefel al ladro più che al rapinatore? Perché il ladro teme gli uomini più di Dio — era preoccupato che le persone lo vedessero ma non era preoccupato che Dio lo vedesse."
+    },
+    {
+      "n": "1:3",
+      "he": "הַגַּזְלָן — זֶה שֶׁגָּזַל בְּפַרְהֶסְיָא — מְשַׁלֵּם רַק מַה שֶּׁגָּזַל, לֹא כֶּפֶל. שֶׁהַגַּזְלָן לֹא מְבַיֵּשׁ עַצְמוֹ יוֹתֵר מֵהַגַּנָּב.",
+      "it": "Il rapinatore (gazlan) — chi ha rapinato apertamente — paga solo ciò che ha rapinato, non il doppio. Perché il rapinatore non si vergogna più del ladro."
+    },
+    {
+      "n": "2:1",
+      "he": "גָּנַב שׁוֹר אוֹ שֶׂה וְטָבַח אוֹ מָכַר — מְשַׁלֵּם חֲמִשָּׁה תַּחַת הַשּׁוֹר וְאַרְבָּעָה תַּחַת הַשֶּׂה.",
+      "it": "Ha rubato un bue o una pecora e li ha macellati o venduti — paga cinque per il bue e quattro per la pecora."
+    },
+    {
+      "n": "2:2",
+      "he": "מַדּוּעַ חֲמִשָּׁה לַשּׁוֹר וְאַרְבָּעָה לַשֶּׂה? שֶׁהַשּׁוֹר כָּבֵד לַנְּשִׂיאָה וּצְרִיךְ לַגַּנָּב הַמְּלָאכָה, לָכֵן פּוֹחֵת בּוּשְׁתּוֹ וְמְשַׁלֵּם פָּחוֹת. הַשֶּׂה קַל לַנְּשִׂיאָה.",
+      "it": "Perché cinque per il bue e quattro per la pecora? Perché il bue è pesante da portare e richiede lavoro al ladro, quindi la sua vergogna è ridotta e paga di meno. La pecora è facile da portare."
+    },
+    {
+      "n": "2:3",
+      "he": "לֹא טָבַח וְלֹא מָכַר — מְשַׁלֵּם כֶּפֶל בִּלְבַד. טָבַח אוֹ מָכַר לְאַחַר שֶׁנִּתְפַּס — אֵינוֹ מְשַׁלֵּם אֶלָּא כֶּפֶל.",
+      "it": "Se non ha macellato né venduto — paga solo il doppio. Se ha macellato o venduto dopo essere stato catturato — paga solo il doppio."
+    }
+  ],
+  "_glossary_terms_used": ["gannav", "gazlan", "kefel", "arba'ah va-chamishah", "dina de-garmi", "Geneivah"]
+}

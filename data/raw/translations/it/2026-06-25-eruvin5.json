@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 5",
+  "name_he": "משנה תורה, הלכות עירובין פרק ה",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-25",
+  "hebrew_date": "10 Tammuz 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד מְעָרְבִין שִׁיתּוּף מְבוֹאוֹת...",
+      "it": "Come si effettua lo shituf mevo'ot (la condivisione dei vicoli)? Un vicolo (mavuy) è uno spazio semiaperto che collega più cortili. Per permettere il trasporto all'interno del vicolo, tutti i suoi residenti devono fare uno 'shituf' — una fusione simbolica — depositando cibo comune in uno dei cortili del vicolo."
+    },
+    {
+      "n": 2,
+      "he": "שִׁיתּוּף הַמָּבוֹי בַּמֶּה הוּא נַעֲשֶׂה...",
+      "it": "Con cosa si fa lo shituf del mavuy? Con qualsiasi alimento — pane, vino, olio, persino carne secca — a differenza dell'eruv chatzerot che richiede specificamente il pane. La ragione è che lo shituf mevo'ot è un istituto rabbinico più lasco e permette maggiore flessibilità nel tipo di cibo usato."
+    },
+    {
+      "n": 3,
+      "he": "שִׁיתּוּף הַמָּבוֹי צָרִיךְ כַּזַּיִת...",
+      "it": "La misura dello shituf: per ogni persona nel mavuy, occorre almeno un kazayit (un volume come un'oliva) di cibo. Se i partecipanti sono molti, aumenta proporzionalmente. Il cibo deve essere in un unico luogo comune, non diviso tra le singole abitazioni. Uno solo dei residenti può raccoglierlo e depositarlo per tutti."
+    },
+    {
+      "n": 4,
+      "he": "הַמָּבוֹי שֶׁיֵּשׁ לוֹ לֶחִי...",
+      "it": "Il mavuy che ha un lechi (palo verticale) o una korah (trave orizzontale) all'ingresso: il lechi o la korah serve come marcatore simbolico del confine del mavuy, trasformandolo in un dominio 'semi-privato' (karmelit). Senza uno di questi marcatori, il mavuy è aperto e il trasporto vi è vietato anche con lo shituf."
+    },
+    {
+      "n": 5,
+      "he": "אֵיזֶהוּ מָבוֹי...",
+      "it": "Cos'è un mavuy halachico? Un vicolo che ha pareti su tre lati e un ingresso su un lato solo (a forma di alef: ל). Se il vicolo è aperto su entrambe le estremità, ha la forma di un percorso passante e richiede marcatori su entrambi i lati. Il Rambam definisce le misure minime del mavuy: alto almeno dieci tefachim, largo almeno quattro amot."
+    },
+    {
+      "n": 6,
+      "he": "מָבוֹי שֶׁרֹאשׁוֹ אֶחָד פָּתוּחַ לְרֹאשׁ הָרְחוֹב...",
+      "it": "Un mavuy la cui estremità si apre su una strada pubblica principale (reshut harabbim): i Saggi hanno richiesto un lechi o una korah all'ingresso del mavuy per distinguerlo dalla strada pubblica. Questo marcatore trasforma il mavuy in una zona semi-privata dove lo shituf, insieme al marcatore, permette il trasporto."
+    },
+    {
+      "n": 7,
+      "he": "אֵיזֶהוּ לֶחִי...",
+      "it": "Cos'è il lechi? È un palo verticale (almeno dieci tefachim di altezza e almeno uno di larghezza) collocato accanto a una delle pareti all'ingresso del mavuy. La sua funzione è simbolica: 'chiude' visivamente il mavuy dall'ingresso. Può essere fatto di qualsiasi materiale solido."
+    },
+    {
+      "n": 8,
+      "he": "אֵיזוֹ קוֹרָה...",
+      "it": "Cos'è la korah? È una trave orizzontale posta attraverso l'ingresso del mavuy, ad un'altezza di almeno dieci tefachim e non oltre venti amot. La korah deve essere larga quanto un piccolo dolce di fichi (gerogeret), abbastanza da poter reggere un mattone. La sua funzione è anch'essa simbolica."
+    },
+    {
+      "n": 9,
+      "he": "קוֹרָה שֶׁהִיא גְּבוֹהָה מֵעֶשְׂרִים אַמָּה...",
+      "it": "Una korah che si trova ad un'altezza superiore a venti amot (circa dieci metri): è invalida come marcatore del mavuy. I Saggi hanno stabilito che oltre questa altezza l'occhio non 'registra' più il marcatore come confine significativo. Si deve abbassare la trave o collocare sotto di essa un riempimento per ridurre l'altezza effettiva."
+    },
+    {
+      "n": 10,
+      "he": "קוֹרָה שֶׁאֵין בָּהּ לְקַבֵּל אֲרִיחַ...",
+      "it": "Una korah troppo sottile per reggere un mattone (arich): è invalida. Questa è una misura minima di solidità — la korah deve essere un oggetto reale e non un filo o uno spago. Il criterio del 'reggere un mattone' è una misura pratica della solidità minima richiesta."
+    },
+    {
+      "n": 11,
+      "he": "קוֹרָה שֶׁאֵינָהּ מַגִּיעַ לַכֹּתֶל...",
+      "it": "Una korah che non raggiunge entrambe le pareti del mavuy: se vi è un gap tra la korah e la parete, il gap non deve superare tre tefachim (il principio di lavud — due oggetti separati da meno di tre tefachim sono considerati connessi). Se il gap è superiore a tre tefachim, la korah è invalida."
+    },
+    {
+      "n": 12,
+      "he": "שְׁנֵי מָבוֹאוֹת זֶה לִפְנִים מִזֶּה...",
+      "it": "Due mavuy uno dentro l'altro: necessitano entrambi di un eruv shituf separato? Il Rambam stabilisce che il mavuy interno richiede il proprio shituf con i propri residenti, e il mavuy esterno il suo. Per il trasporto tra i due mavuy, occorre un eruv comune che coinvolga tutti i residenti di entrambi."
+    },
+    {
+      "n": 13,
+      "he": "מָבוֹי שֶׁנִּדְלְדַל הַלֶּחִי שֶׁלּוֹ...",
+      "it": "Un mavuy il cui lechi è caduto durante il Sabato: il trasporto è immediatamente vietato, poiché il marcatore che rendeva permesso il trasporto non c'è più. Si deve evitare di trasportare fino al termine del Sabato. Questo sottolinea che il lechi e la korah non sono decorativi ma funzionali all'eruv."
+    },
+    {
+      "n": 14,
+      "he": "שְׁתֵּי קוֹרוֹת...",
+      "it": "Due travi (koroth) nel mavuy: se una è sopra l'altra, quella superiore vale come korah se si trova ad un'altezza valida. Se sono affiancate, quella che si trova entro i limiti validi vale come korah. Avere due koroth non è un problema, purché almeno una sia valida."
+    },
+    {
+      "n": 15,
+      "he": "לֶחִי שֶׁהוּא רָחָב מִשְּׁלֹשָׁה טְפָחִים...",
+      "it": "Un lechi più largo di tre tefachim: è considerato come una parete vera e propria, non solo come un marcatore simbolico. In questo caso il mavuy è fisicamente chiuso su tre lati con pareti reali e sul quarto lato con il lechi-parete, rendendo il mavuy una zona semi-privata completa."
+    },
+    {
+      "n": 16,
+      "he": "הַנּוֹתֵן אֶת הַשִּׁיתּוּף לְמָבוֹי...",
+      "it": "Chi raccoglie il cibo per lo shituf del mavuy: può farlo un singolo residente per tutti, purché faccia la dichiarazione corretta. Non è necessario che ogni residente contribuisca personalmente con il proprio cibo, a differenza dell'eruv chatzerot dove la partecipazione personale è più rilevante. Tuttavia molti poskim preferiscono che ogni residente contribuisca."
+    },
+    {
+      "n": 17,
+      "he": "הַיּוֹצֵא חוּץ לַתְּחוּם לְצֹרֶךְ מָבוֹי...",
+      "it": "Se uno dei residenti del mavuy è uscito oltre il proprio techum prima del Sabato e non è rientrato: i Saggi discutono se la sua assenza invalida lo shituf del mavuy per gli altri residenti. La regola pratica è che finché il suo dominio (reshut) è rappresentato dallo shituf, gli altri residenti non sono penalizzati."
+    },
+    {
+      "n": 18,
+      "he": "אֵין עוֹשִׂין שִׁיתּוּף מָבוֹי בְּדָבָר שֶׁאֵינוֹ אֹכֶל...",
+      "it": "Non si fa lo shituf con oggetti non commestibili: il cibo è il requisito essenziale sia per l'eruv chatzerot che per lo shituf mevo'ot. Il concetto è che la fusione simbolica delle abitazioni avviene tramite il cibo comune, che rappresenta la vita condivisa. Oggetti non alimentari non possono creare questa simbiosi simbolica."
+    },
+    {
+      "n": 19,
+      "he": "שִׁיתּוּף שֶׁנֶּחְלַק הַלֶּחֶם...",
+      "it": "Se il pane dello shituf si è diviso o disperso prima del Sabato: lo shituf è invalido. I Saggi richiedono che il cibo dello shituf rimanga integro e in un unico luogo accessibile all'inizio del Sabato. Questo rispecchia il principio che l'unità del cibo simboleggia l'unità del dominio."
+    },
+    {
+      "n": 20,
+      "he": "עֵרוּב תְּחוּמִין וְשִׁיתּוּף מְבוֹאוֹת...",
+      "it": "L'eruv techumin e lo shituf mevo'ot possono essere combinati: se si deve fare entrambi, si può dire un'unica formula che copre entrambi i tipi di eruv, a condizione che i requisiti di ciascuno siano soddisfatti separatamente. Questo è un riassunto pratico che il Rambam offre per semplificare la prassi."
+    },
+    {
+      "n": 21,
+      "he": "שְׁנֵי מָבוֹאוֹת שֶׁנִּפְרְצוּ זֶה לָזֶה...",
+      "it": "Due mavuy che si sono aperti l'uno nell'altro (è crollata la parete che li separava): se la breccia è larga almeno quattro amot, i due mavuy si considerano uniti e necessitano di un eruv shituf comune. Se la breccia è inferiore a quattro amot, restano separati e possono mantenere eruvin distinti. Questo conclude il capitolo sullo shituf mevo'ot."
+    }
+  ],
+  "_glossary_terms_used": ["shituf mevo'ot", "mavuy", "lechi", "korah", "eruv chatzerot", "reshut harabbim", "karmelit", "tefachim", "amah", "lavud", "kazayit", "gerogeret", "poskim"]
+}

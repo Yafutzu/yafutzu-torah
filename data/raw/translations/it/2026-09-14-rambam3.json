@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 14-16",
+  "name_he": "משנה תורה, הלכות כלים, פרקים יד-טז",
+  "name_it": "Mishneh Torah, Leggi dei Vasi, capitoli 14-16",
+  "cycle": "rambam-3",
+  "date": "2026-09-14",
+  "hebrew_date": "3 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "14:1", "he": "צָמִיד פָּתִיל — אִטּוּם כְּלִי חֶרֶשׂ בְּאֹפֶן שֶׁמֹּנֵעַ כְּנִיסַת טֻמְאָה אֲפִלּוּ בְּאֹהֶל הַמֵּת.", "it": "Lo tzamid patil — la sigillatura di un vaso di argilla in modo tale da impedire l'entrata dell'impurità anche nella tenda del cadavere."},
+    {"n": "14:2", "he": "תְּנָאֵי צָמִיד פָּתִיל — הַכִּסּוּי צָרִיךְ לִהְיוֹת מִן הַחֹמֶר עַצְמוֹ, אוֹ כְּלִי מְחֻבָּר לַכְּלִי.", "it": "I requisiti dello tzamid patil — la copertura deve essere dello stesso materiale, o un vaso collegato al vaso."},
+    {"n": "14:3", "he": "כְּלִי חֶרֶשׂ סָגוּר בְּצָמִיד פָּתִיל — מַצִּיל עַל הַכֹּל שֶׁבְּתוֹכוֹ מִטֻּמְאַת הָאֹהֶל.", "it": "Un vaso di argilla chiuso con tzamid patil — protegge tutto ciò che è al suo interno dall'impurità della tenda."},
+    {"n": "15:1", "he": "טָהֳרַת כֵּלִים — חוּץ מִכְּלֵי חֶרֶשׂ — בִּטְבִילָה בְּמִקְוֶה כָּשֵׁר.", "it": "La purificazione dei vasi — eccetto i vasi di argilla — mediante l'immersione in un mikveh valido."},
+    {"n": "15:2", "he": "חֲצִיצָה — דָּבָר חוֹצֵץ בֵּין הַכְּלִי לְמֵי הַמִּקְוֶה — פּוֹסֶלֶת אֶת הַטְּבִילָה.", "it": "La chatzitzah — una cosa che si interpone tra il vaso e l'acqua del mikveh — invalida l'immersione."},
+    {"n": "15:3", "he": "הַכְּלִי צָרִיךְ לְהִשָּׁקַע כֻּלּוֹ בַּמַּיִם בְּאֶחָד. חֵלֶק שֶׁנִּשְׁאַר מִחוּץ לַמַּיִם — אֵינוֹ מִטַּהֵר.", "it": "Il vaso deve essere immerso completamente nell'acqua in una volta. La parte che rimane fuori dall'acqua — non si purifica."},
+    {"n": "16:1", "he": "תַּנּוּר — כְּלִי חֶרֶשׂ גָּדוֹל לַאֲפִיָּה. הוּא מְקַבֵּל טֻמְאָה כִּשְׁאָר כֵּלֵי חֶרֶשׂ.", "it": "Il tanur (forno) — è un grande vaso di argilla per la cottura. Riceve impurità come altri vasi di argilla."},
+    {"n": "16:2", "he": "כִּיְרַיִם — כִּיְרֵי כֶּפֶל לְבִישּׁוּל — גַּם כֵּן כְּלִי חֶרֶשׂ לְעִנְיַן טֻמְאָה.", "it": "Il kirayim (doppio fornello) — per la cottura — anche esso è come un vaso di argilla riguardo all'impurità."},
+    {"n": "16:3", "he": "קוּמְקוּם — כְּלִי לְחִמּוּם מַיִם — דִּינוֹ כִּשְׁאָר כֵּלֵי חֶרֶשׂ.", "it": "Il kumkum (bollitore) — vaso per riscaldare l'acqua — la sua legge è come altri vasi di argilla."}
+  ],
+  "_glossary_terms_used": ["tzamid patil", "kli cheres", "mikveh", "chatzitzah", "tanur", "Tzom Gedaliah"]
+}

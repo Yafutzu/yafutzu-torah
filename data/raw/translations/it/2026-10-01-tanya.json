@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 9",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ט",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Santa), lettera 9",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-01",
+  "hebrew_date": "20 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "צְדָקָה וְתַלְמוּד תּוֹרָה — שְׁנֵי עַמּוּדִים שֶׁהָעוֹלָם עוֹמֵד עֲלֵיהֶם…",
+      "it": "La tzedakah (carità) e il talmud Torah (studio della Torah) sono i due pilastri su cui il mondo si regge — il Baal Shem Tov insegnava che essi si integrano e si completano a vicenda. In questo giorno di Chol HaMoed Sukkot (Giorno 5 di Sukkot, 20 Tishrei), il Rabbì Schneur Zalman dell'Adi (l'Alter Rebbe) intreccia il tema della tzedakah con la gioia della Sukkah: come si siede nella Sukkah con tutto il corpo — anche la tzedakah deve essere data con tutto sé stessi, con simchah (gioia) totale."
+    },
+    {
+      "n": 2,
+      "he": "הַנּוֹתֵן צְדָקָה בְּשִׂמְחָה — מַעְלֶה עָלָיו הַכָּתוּב כְּאִלּוּ הֶחֱיָה נֶפֶשׁ…",
+      "it": "Chi dà tzedakah con gioia — la Scrittura lo considera come se avesse vivificato un'anima. L'Alter Rebbe spiega: la tzedakah data con simchah eleva sia il donatore che il ricevente. Il donatore connette la propria anima a quella del ricevente — e in questo modo «unifica» i diversi tipi di anime ebraiche, proprio come il lulav unifica le quattro specie (dalet minim): la varietà di anime ebraiche — le dotte, le semplici, le profumate, le inodori — si uniscono nella tzedakah condivisa. Il Sukkot è il tempo per questa unificazione."
+    },
+    {
+      "n": 3,
+      "he": "מַה שֶּׁאָמְרוּ רַבּוֹתֵינוּ שֶׁהַצְּדָקָה שְׁקוּלָה כְּנֶגֶד כָּל הַמִּצְווֹת…",
+      "it": "I Saggi insegnano che la tzedakah equivale a tutte le altre mitzvot messe insieme (Bava Batra 9a). L'Alter Rebbe spiega misticamente: ogni mitzvah eleva una scintilla di luce divina (nitzotz) — ma la tzedakah, che letteralmente «dà vita» a un'altra persona, eleva scintille di luce che corrispondono al livello della neshama (anima). La gioia del Sukkot — «ve-samachta be-chagecha» — è la gioia della tzedakah spirituale: condividere la luce interiore con tutti."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzedakah", "talmud Torah", "simchah", "lulav", "dalet minim", "nitzotz", "neshama", "ve-samachta be-chagecha"
+  ]
+}

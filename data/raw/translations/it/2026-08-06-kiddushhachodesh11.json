@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 11",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק יא",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 11",
+  "cycle": "rambam-1",
+  "date": "2026-08-06",
+  "hebrew_date": "23 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "ארבע תקופות יש בשנה: תקופת ניסן — בה יוצא השמש לאמצע הרקיע, והיום והלילה שווים; תקופת תמוז — הימים ארוכים; תקופת תשרי — שוב שווים; תקופת טבת — הלילות ארוכים.",
+      "it": "Vi sono quattro tekufot (stagioni) nell'anno: tekufah di Nisan — in essa il sole si trova al centro della volta celeste e giorno e notte sono uguali (equinozio di primavera); tekufah di Tammuz — i giorni sono più lunghi (solstizio d'estate); tekufah di Tishri — di nuovo uguali (equinozio d'autunno); tekufah di Tevet — le notti sono più lunghe (solstizio d'inverno)."
+    },
+    {
+      "n": 2,
+      "he": "תקופת שמואל: כל תקופה — תשעים ואחד יום ושבע שעות ומחצה. ולפי זה, תקופת ניסן הראשונה של הבריאה הייתה בתחילת ליל רביעי, בשש שעות.",
+      "it": "Tekufah di Shmuel: ogni stagione dura novantuno giorni, sette ore e mezza. Secondo questo calcolo, la prima tekufah di Nisan della Creazione cadde all'inizio della notte del quarto giorno (mercoledì), alle sei ore."
+    },
+    {
+      "n": 3,
+      "he": "תקופת רב אדא: כל תקופה — תשעים ואחד יום ושבע שעות ושמונה ועשרים ועשרים וחמישה חלקים. וחשבון זה מדויק יותר, ועל פיו קובעים את עיבור השנה.",
+      "it": "Tekufah di Rav Ada: ogni stagione dura novantuno giorni, sette ore e settantasei parti e quarantaquattro secondi. Questo calcolo è più preciso, ed è su di esso che si basa la determinazione dell'anno intercalare."
+    },
+    {
+      "n": 4,
+      "he": "ההבדל בין שתי השיטות: תקופת שמואל אינה מכוונת לשמש האמיתית, אלא לשמש הממוצעת. ואילו תקופת רב אדא מכוונת לשמש הממוצעת גם כן, אך בדייקנות גדולה יותר לצורך הלוח.",
+      "it": "La differenza tra i due sistemi: la tekufah di Shmuel non corrisponde al sole vero ma al sole medio. Anche la tekufah di Rav Ada si basa sul sole medio, ma con maggiore precisione ai fini del calendario."
+    },
+    {
+      "n": 5,
+      "he": "לעניין ברכת הזמנים — 'ברכת החמה' — מחשבים לפי תקופת שמואל: כל עשרים ושמונה שנה חוזר החמה לאותו מצב שהיה בבריאה, ומברכים 'ברכת החמה'.",
+      "it": "Per l'ambito della benedizione dei tempi — 'birkat ha-chamah' — si calcola secondo la tekufah di Shmuel: ogni ventotto anni il sole ritorna alla posizione che aveva alla Creazione, e si recita la 'birkat ha-chamah' (benedizione del sole)."
+    },
+    {
+      "n": 6,
+      "he": "תקופה לפי שמואל: ניסן ביום רביעי, שש שעות; תמוז ביום רביעי, אחת ועשרים שעות ומחצה; תשרי ביום חמישי, שלוש עשרה שעות; טבת ביום שישי, ארבע שעות ומחצה. וחוזר חלילה.",
+      "it": "Le tekufot secondo Shmuel: Nisan il quarto giorno alle sei ore; Tammuz il quarto giorno alle ventuno ore e mezza; Tishri il quinto giorno alle tredici ore; Tevet il sesto giorno alle quattro ore e mezza. E così circolarmente."
+    },
+    {
+      "n": 7,
+      "he": "ממחזור של עשרים ושמונה שנה — תקופות שמואל חוזרות לאותו יום ואותה שעה. ולפי זה, כל עשרים ושמונה שנה ביום רביעי, שש שעות, היא תחילת מחזור חדש ומברכים 'ברכת החמה'.",
+      "it": "Da un ciclo di ventotto anni, le tekufot di Shmuel ritornano allo stesso giorno e alla stessa ora. Di conseguenza, ogni ventotto anni, il quarto giorno alle sei ore, inizia un nuovo ciclo e si recita la 'birkat ha-chamah'."
+    }
+  ],
+  "_glossary_terms_used": ["tekufah", "birkat ha-chamah", "tekufah de-Shmuel", "tekufah de-Rav Ada"]
+}

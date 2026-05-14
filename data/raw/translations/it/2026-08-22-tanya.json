@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 46",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ו",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 46",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-22",
+  "hebrew_date": "9 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יראת שמים — היא יסוד העבודה. ובלי יראה, האהבה לבדה עלולה להוביל לחוצפה וקלות ראש בפני ה'.",
+      "it": "La yirat shamayim (timore del Cielo) è il fondamento del servizio Divino. Senza il timore, l'amore da solo può condurre alla presunzione e alla leggerezza davanti a D-o."
+    },
+    {
+      "n": 2,
+      "he": "יש שני סוגי יראה: 'יראת חטא' — הפחד מן העבירה ומן העונש. ו'יראת הרוממות' — היראה הנובעת מהכרת גדלות ה' ורוממותו.",
+      "it": "Vi sono due tipi di yirah (timore): la 'yirat chet' (timore del peccato) — il timore dalla trasgressione e dalla punizione. E la 'yirat haromenut' (timore reverenziale della Maestà) — il timore che sorge dalla consapevolezza della grandezza e dell'esaltazione di D-o."
+    },
+    {
+      "n": 3,
+      "he": "האיזון הנכון — הוא שיהיה ביראה ובאהבה יחד. הפחד לבדו מוביל לעצב ולדיכאון. האהבה לבדה — לקלות ראש. שניהם יחד — הם השלמות.",
+      "it": "Il giusto equilibrio è avere insieme la yirah e l'ahavah (timore e amore). Il timore da solo conduce alla tristezza e alla depressione. L'amore da solo — alla leggerezza. Entrambi insieme — sono la completezza."
+    }
+  ],
+  "_glossary_terms_used": ["yirat shamayim", "yirat chet", "yirat haromenut", "yirah", "ahavah"]
+}

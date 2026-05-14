@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 23",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כג",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 23",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-15",
+  "hebrew_date": "4 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שְׁמוֹת הַחֳדָשִׁים — עָלוּ עִמָּנוּ מִבָּבֶל…",
+      "it": "I nomi dei mesi ebraici — Nisan, Iyar, Sivan, Tammuz, Av, Elul, Tishrei, Cheshvan, Kislev, Tevet, Shvat, Adar — «risalgono da Bavel» (Babilonia). Prima dell'esilio babilonese i mesi erano numerati (primo, secondo, terzo mese); i nomi attuali sono nomi babilonesi che gli ebrei hanno adottato e santificato. L'Alter Rebbe, basandosi sul Sefer Yetzirah, spiega che ogni mese corrisponde a una tribù d'Israele, a una lettera dell'aleph-bet, e a un senso umano (chush)."
+    },
+    {
+      "n": 2,
+      "he": "חֶשְׁוָן — שֵׁבֶט מְנַשֶּׁה — חוּשׁ הָרֵיחַ…",
+      "it": "Il mese di Cheshvan corrisponde alla tribù di Menashe (secondo il Sefer Yetzirah) e al senso dell'olfatto (chush ha-rei'ach). L'Alter Rebbe spiega la connessione: Menashe (il cui nome significa «dimentico» — «nashanì Elohim et kol amali», Gen. 41:51) rappresenta la capacità di «dimenticare» il passato doloroso e andare avanti. Il senso dell'olfatto — in ebraico «rei'ach» — è connesso alla parola «ruach» (spirito). In Cheshvan si «annusa» la spiritualità dell'anno appena iniziato e ci si sintonizza sul suo spirito."
+    },
+    {
+      "n": 3,
+      "he": "כָּל חֹדֶשׁ — הִתְחַדְּשׁוּת כֹּחוֹת הַנֶּפֶשׁ…",
+      "it": "Ogni mese porta un rinnovamento (hitchadshut) delle forze dell'anima corrispondenti a quel mese. Il chasid — insegna l'Alter Rebbe — dovrebbe «sintonizzarsi» sulle forze spirituali del mese e usarle per il suo avodah (servizio divino). In Cheshvan: la forza è la costanza tranquilla (histapkut) — il servizio divino quotidiano, regolare, senza le alte vette emotive di Tishrei ma profondo e stabile come l'olfatto che percepisce anche profumi sottili. Chi serve Dio in Cheshvan con regolarità silenziosa — getta basi più profonde di chi serve Dio solo durante le feste."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Cheshvan", "Menashe", "chush ha-rei'ach", "ruach", "hitchadshut", "avodah", "histapkut", "Sefer Yetzirah"
+  ]
+}

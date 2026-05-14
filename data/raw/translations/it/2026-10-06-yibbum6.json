@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 6",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק ו",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-06",
+  "hebrew_date": "25 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יֵשׁ יְבָמָה שֶׁהִיא אֲסוּרָה לְיָבָם וְחוֹלֶצֶת בְּלֹא יִיבּוּם…",
+      "it": "Vi sono yevamot per le quali lo yibbum è vietato ma la chalitzah è obbligatoria. Queste sono le donne in status di «shenit» (secondo grado di parentela rabbinicamente proibita) — proibite per decreto rabbinico ma non per divieto biblico. In questi casi la chalitzah è obbligatoria per liberarle, ma lo yibbum è rabbinicamente vietato. Se venisse compiuto lo yibbum — retroattivamente l'acquisizione sarebbe valida ma il yavam avrebbe trasgredito un decreto rabbinico."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד — אֵשֶׁת אַחְיָן שֶׁהוּא מֵאֵם — חוֹלֶצֶת וְלֹא מִתְיַבֶּמֶת…",
+      "it": "Esempio: la moglie del nipote (figlio del fratello) — la chalitzah è obbligatoria ma lo yibbum è vietato rabbinicamente. Similmente: la moglie del nonno paterno del yavam è in una categoria di parentela tale che il yibbum è rabbinicamente proibito. Il principio: ogni volta che la relazione tra la yevamah e il yavam è «vicina» a un divieto biblico — i Saggi proibirono lo yibbum come misura di protezione (geder), lasciando solo la chalitzah."
+    },
+    {
+      "n": 3,
+      "he": "יְבָמָה שֶׁאָסְרָה עַל יָבָמָהּ אֵשֶׁת אֶחָד מֵהֶן — כֻּלָּן חוֹלְצוֹת וְלֹא מִתְיַבְּמוֹת…",
+      "it": "Se tra le yevamot vi è una che è proibita al yavam per qualsiasi motivo (sia biblico che rabbinico) — tutte le altre yevamot (co-mogli del defunto) sono parimenti esentate dallo yibbum e devono compiere solo la chalitzah. Questo principio si chiama «tzarat ervah» (co-moglie di una proibita): la presenza di una donna vietata tra le yevamot contamina l'intero gruppo ai fini dello yibbum."
+    },
+    {
+      "n": 4,
+      "he": "הָיְתָה אַחַת מִן הַיְּבָמוֹת מְעֻבֶּרֶת — מַמְתִּינִין לָהּ…",
+      "it": "Se una delle yevamot è incinta al momento della morte del marito — si attende la nascita del bambino. Se il bambino nasce vivo — la yevamah è completamente libera (il defunto ha lasciato discendenza). Se il bambino nasce morto o non sopravvive — la yevamah torna sotto l'obbligo di yibbum o chalitzah. Se la yevamah è incinta e non si sa se il bambino è del defunto o di un altro — si attende comunque."
+    },
+    {
+      "n": 5,
+      "he": "יְבָמָה שֶׁנִּתְקַדְּשָׁה לְאַחַר מִיתַת בַּעְלָהּ לְאָחִיו…",
+      "it": "La yevamah che ha accettato il kiddushin (fidanzamento formale) da uno dei fratelli del defunto — questo è il ma'amar (dichiarazione di yibbum). Il ma'amar la lega a quel fratello specifico come yavam. Se poi quel fratello vuole disfarlo — deve darle sia un get (atto di divorzio) che la chalitzah. Se un altro fratello compie la chalitzah senza che il primo abbia sciolto il ma'amar — la chalitzah è valida ma il primo fratello deve comunque darle un get."
+    },
+    {
+      "n": 6,
+      "he": "הַמְגָרֵשׁ אֶת יְבִימָתוֹ אַחַר יִיבּוּם — צָרִיךְ לִיתֵּן לָהּ כְּתוּבָּה…",
+      "it": "Chi divorzia dalla sua yevamah dopo aver compiuto lo yibbum — è obbligato a darle la ketuvah (l'importo del contratto matrimoniale). La ketuvah della yevamah è di 100 zuz (meno della ketuvah ordinaria di 200) secondo alcune opinioni; secondo altri è pari a quella ordinaria. Il Rambam stabilisce che la yevamah ha diritto a tutti i benefici di una moglie ordinaria dopo il yibbum, inclusa la piena ketuvah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yibbum", "chalitzah", "yavam", "yevamah", "shenit", "tzarat ervah", "ma'amar", "get", "kiddushin", "ketuvah", "zuz"
+  ]
+}

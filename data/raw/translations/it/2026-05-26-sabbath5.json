@@ -1,0 +1,119 @@
+{
+  "ref": "Mishneh Torah, Sabbath 5",
+  "name_he": "משנה תורה, הלכות שבת, פרק ה",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-26",
+  "hebrew_date": "10 Sivan 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַטּוֹוֶה בְּשׁוֹגֵג — חַיָּב. הָאוֹרֵג שְׁנֵי חוּטִין — חַיָּב…",
+      "it": "Chi fila per errore è obbligato. Chi tesse due fili — è obbligato. La misura minima del tessere è due fili di trama su due fili d'ordito. Chi fa la prima operazione del telaio (mesikhah — tendere i fili dell'ordito) — è obbligato. Chi fa la seconda operazione (nirin — inserire i fili nella navetta) — è obbligato. Chi tesse solo un filo — è esente biblicamente ma proibito rabbinicamente."
+    },
+    {
+      "n": 2,
+      "he": "הַפּוֹצֵעַ שְׁנֵי חוּטִין — חַיָּב. הַקּוֹשֵׁר — חַיָּב. כַּמָּה שִׁיעוּרוֹ…",
+      "it": "Chi separa (potze'a) due fili della tessitura — è obbligato [categoria del «separare due fili»]. Chi fa un nodo — è obbligato; la misura minima è un nodo permanente. Chi scioglie un nodo permanente — è obbligato. Chi cuce due punti — è obbligato; e chi strappa per cucire — è obbligato. La misura minima per il cucire è due punti di filo che rimangono senza sfilarsi."
+    },
+    {
+      "n": 3,
+      "he": "הַבּוֹנֶה — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כָּל שֶׁהוּא…",
+      "it": "Chi costruisce è obbligato. La misura minima del costruire è qualunque cosa (kol she-hu) — anche aggiungere un solo mattone è vietato. Chi pianta un paletto nel terreno in modo permanente — è obbligato per il costruire. Chi scava una buca — è obbligato per la toladah del costruire (poiché la buca è costruita). Chi conficca un chiodo nel muro — è obbligato."
+    },
+    {
+      "n": 4,
+      "he": "הַסּוֹתֵר עַל מְנַת לִבְנוֹת — חַיָּב…",
+      "it": "Chi demolisce con intenzione di costruire — è obbligato. Chi demolisce senza intenzione di costruire — è esente biblicamente [poiché ha solo distrutto]. Chi sbuca il muro o lo danneggia intenzionalmente — se ha intenzione ricostruttiva è obbligato, se no è esente dalla Torah ma proibito rabbinicamente."
+    },
+    {
+      "n": 5,
+      "he": "הַמַּבְעִיר — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כָּל שֶׁהוּא…",
+      "it": "Chi accende fuoco è obbligato. La misura minima del bruciare è qualunque cosa (kol she-hu). Chi trasferisce una fiamma da una candela a un'altra ingrandendola — è obbligato. Chi mette ulteriore combustibile su un fuoco già esistente — è obbligato per l'accendere. Chi soffia fuoco spento per riaccenderlo — è obbligato."
+    },
+    {
+      "n": 6,
+      "he": "הַמְּכַבֶּה — חַיָּב אִם כִּיבָּה לְצֹרֶךְ כְּלוּם…",
+      "it": "Chi spegne è obbligato — solo se lo fa per un fine utile (come risparmiare il combustibile o fare carbone). Chi spegne senza alcuno scopo — è esente biblicamente. Chi riduce la fiamma senza spegnerla — dipende: se intende risparmiare combustibile, alcuni lo considerano come «spegnere»; se intende solo regolare, i decisori sono divisi."
+    },
+    {
+      "n": 7,
+      "he": "הַמַּכֶּה בְּפַטִּישׁ — חַיָּב. כַּמָּה שִׁיעוּרוֹ — כָּל שֶׁהוּא…",
+      "it": "Chi colpisce col martello (makke be-fatish — il colpo finale che completa l'utensile) è obbligato. La misura minima è qualunque cosa. Chi batte sul metallo per raddrizzarlo — è obbligato. Chi accende per la prima volta una lampada nuova (rendendola funzionale) — è obbligato per la toladah del makke be-fatish. Chi soffia per la prima volta in un'ampolla di vetro nuova — è obbligato. In generale: qualsiasi azione finale che trasforma un oggetto greggio in uno finito e funzionale."
+    },
+    {
+      "n": 8,
+      "he": "הַמּוֹצִיא — חַיָּב. כַּמָּה שִׁיעוּרוֹ — לְפִי הַדָּבָר הַמּוּצָא…",
+      "it": "Chi porta (hotza'ah) è obbligato. La misura minima dipende dall'oggetto portato: per il cibo — una figa secca (ke-grogeret) per i frutti comuni; mezza figa secca di fico; per legno — quanto basta per cuocere un uovo piccolo; per carta — quanto basta per scrivere due lettere su di esso; per cuoio — quanto basta per fare un piccolo amuleto; per terracotta rotta — quanto basta per mescolare l'impasto del fornaio."
+    },
+    {
+      "n": 9,
+      "he": "הַמּוֹצִיא יַיִן — כְּדֵי מְזִיגַת הַכּוֹס. חָלָב — כְּדֵי גְּמִיאָה…",
+      "it": "Chi porta fuori vino — la misura minima è quanto basta per temperare un calice (kedi mezigat ha-kos, cioè il vino da miscelare con tre parti d'acqua per riempire un calice). Latte — quanto basta per un sorso. Miele — quanto basta per porre su una piaga. Olio — quanto basta per ungere il piccolo dito. Acqua — quanto basta per impastare il collirio. Per altri liquidi — la misura è un quarto di log [circa 75 ml]."
+    },
+    {
+      "n": 10,
+      "he": "הַמּוֹצִיא עֵץ — כְּדֵי לְבַשֵּׁל בֵּיצָה קַלָּה…",
+      "it": "Chi porta fuori legno — la misura minima è quanto basta per cuocere un uovo leggero (ke-vetzah kalah). Chi porta paglia — quanto basta per riempire la bocca di una giovenca. Chi porta fieno — quanto basta per riempire la bocca di un cammello. Chi porta carta — quanto basta per scrivere due lettere; e questo stesso foglio può servire come misura standard per quasi tutti i materiali da scrittura. Chi porta un libro della Torah — la misura è la pergamena con il testo di due parashe del mezuzà."
+    },
+    {
+      "n": 11,
+      "he": "הַמּוֹצִיא בְּגָדִים — בִּמְלֹא הַמַּחַט. חֶבֶל — כְּדֵי לַעֲשׂוֹת אוֹזֶן לְסַל…",
+      "it": "Chi porta fuori tessuti — la misura minima è quanto basta per fare una toppa sufficiente a coprire un piccolo buco (milò ha-makhat — quanto passa nella cruna di un ago). Chi porta corda — quanto basta per fare il manico di un cesto (ozen le-sal). Chi porta un amo da pesca — quanto basta per pescare il tipo di pesce più comune nel luogo. Chi porta una canna — quanto basta da usare come bastone per un fanciullo. Chi porta ossa — quanto basta per fare un cucchiaio."
+    },
+    {
+      "n": 12,
+      "he": "שְׁנַיִם שֶׁהוֹצִיאוּ דָּבָר אֶחָד — אִם לֹא יָכוֹל כָּל אֶחָד מֵהֶם לְהוֹצִיאוֹ לְבַדּוֹ — פְּטוּרִין…",
+      "it": "Due persone che hanno portato insieme un oggetto — se nessuna delle due poteva portarlo da sola, entrambe sono esenti biblicamente (ma proibito rabbinicamente). Se ciascuna poteva portarlo da sola — entrambe sono obbligate. Se uno poteva e l'altro no — solo quello che poteva è obbligato."
+    },
+    {
+      "n": 13,
+      "he": "הַמּוֹצִיא אֹכֶל פָּחוֹת מִשִּׁיעוּר בְּכֶלִי — פָּטוּר עַל הָאֹכֶל…",
+      "it": "Chi porta fuori meno della misura minima di cibo dentro un utensile — è esente per il cibo [poiché è sotto la misura minima] ma non è necessariamente esente per l'utensile: se il valore dell'utensile giustificherebbe portarlo da solo — è obbligato per l'utensile. Un utensile che normalmente si porta con il suo contenuto (come un fodero di coltello) — il contenuto e il contenitore si contano insieme per la misura minima."
+    },
+    {
+      "n": 14,
+      "he": "הַמּוֹצִיא אָדָם חַי עַל הַמִּטָּה — פָּטוּר…",
+      "it": "Chi porta fuori un essere umano vivo su un letto — è esente [per l'uomo], poiché «il vivente porta se stesso». Ma è obbligato per il letto, poiché il letto è un oggetto separato che viene portato. Chi porta un bambino che tiene in mano qualcosa — il bambino si porta da solo, e il bambino più il suo oggetto sono considerati insieme: se l'oggetto aggiunge peso significativo, è obbligato per l'oggetto."
+    },
+    {
+      "n": 15,
+      "he": "הַמּוֹצִיא חֵי מִן הַחַי — פָּטוּר. מֵת מִן הַמֵּת — חַיָּב…",
+      "it": "Chi porta fuori qualcosa di vivo dentro qualcosa di vivo — è esente (es. un pesce in bocca a un altro pesce: il pesce porta se stesso). Chi porta fuori qualcosa di morto dentro qualcosa di morto — è obbligato. Chi porta fuori qualcosa di vivo dentro qualcosa di morto — è obbligato per l'oggetto morto (es. un pesce vivo in una barca). Chi porta fuori qualcosa di morto dentro qualcosa di vivo — è esente, poiché il vivente porta entrambi."
+    },
+    {
+      "n": 16,
+      "he": "הַזּוֹרֵק מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הָרַבִּים — חַיָּב…",
+      "it": "Chi getta dall'ambito privato a quello pubblico — è obbligato come per il portare a mano. L'azione del gettare (zerikah) richiede sia l'«akira» (sollevare l'oggetto dal suo posto) che la «hanachah» (atterraggio dell'oggetto nel nuovo posto). Se il getto non raggiunge l'ambito pubblico ma cade in mezzo (karmelit o makom patur) — è esente biblicamente."
+    },
+    {
+      "n": 17,
+      "he": "הַמּוֹשִׁיט יָדוֹ לְתוֹךְ רְשׁוּת הָרַבִּים וְנָטַל מִשָּׁם — חַיָּב…",
+      "it": "Chi ha teso la mano all'interno dell'ambito pubblico e ha preso da lì qualcosa da portare nel proprio ambito privato — è obbligato per il portare. Chi stava nell'ambito pubblico e ha teso la mano all'interno dell'ambito privato di un altro e ha preso qualcosa — è obbligato. I due tipi di azione (prendere e depositare) che costituiscono il trasporto proibito sono ugualmente validi sia per l'azione del «togliere» (netilah) che per quella del «depositare» (hanachah)."
+    },
+    {
+      "n": 18,
+      "he": "הַמְּעַבֵּר חֵפֶץ מִרְשׁוּת לִרְשׁוּת דֶּרֶךְ הָאֲוִיר — חַיָּב…",
+      "it": "Chi fa passare un oggetto da un ambito all'altro attraverso l'aria — è obbligato, poiché l'aria di un ambito ha lo stesso statuto di quell'ambito per i dieci cubiti di altezza sopra l'ambito pubblico. Chi getta oltre la testa di qualcuno che cammina nell'ambito pubblico — se ha gettato attraverso l'ambito pubblico da privato a privato: dipende se l'oggetto è passato attraverso l'ambito pubblico a meno di dieci cubiti di altezza."
+    },
+    {
+      "n": 19,
+      "he": "הַעֲמָדָה בְּרֹאשׁ מַשֶּׁהוּ — אִם הֻנַּח בְּאֹפֶן שֶׁמִּתְקַיֵּם שָׁם…",
+      "it": "Il deposito (hanachah) si considera valido se l'oggetto è posato in un modo che possa rimanere là — anche su di un paletto aguzzo, purché l'oggetto vi rimanga. Se ha gettato qualcosa nell'aria e qualcuno l'ha preso prima che toccasse il suolo — il gettante è esente, poiché non vi è stata «hanachah» nell'ambito pubblico."
+    },
+    {
+      "n": 20,
+      "he": "הַמּוֹצִיא דָּבָר מֵרְשׁוּת לִרְשׁוּת דֶּרֶךְ רְשׁוּת הָרַבִּים בְּפָחוֹת מֵאַרְבַּע אַמּוֹת — פָּטוּר…",
+      "it": "Chi porta un oggetto da un ambito all'altro attraverso l'ambito pubblico su una distanza inferiore a quattro cubiti — è esente biblicamente, poiché quattro cubiti nell'ambito pubblico è la misura minima per la proibizione del trasporto entro lo stesso ambito. Chi porta meno di quattro cubiti nell'ambito pubblico — è esente ma proibito rabbinicamente."
+    },
+    {
+      "n": 21,
+      "he": "מִי שֶׁהוֹצִיא וְנָח בְּדֶרֶךְ — חַיָּב אִם עָמַד בְּרֹשׁוּת הָרַבִּים לְנוּחַ…",
+      "it": "Chi sta portando un oggetto nell'ambito pubblico e si è fermato a riposare — ha compiuto una «hanachah» (deposito) nel punto di sosta, e quindi ha completato un atto di trasporto; quando riparte, inizia un secondo atto. Ma se si è fermato per necessità involontaria (inciampato, spinto da altri) — non ha completato la «hanachah» e il trasporto si considera continuo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hotza'ah", "akira", "hanachah", "zerikah", "karmelit", "makom patur", "reshut ha-yachid", "reshut ha-rabbim", "keli rishon", "ke-grogeret", "makke be-fatish"
+  ]
+}

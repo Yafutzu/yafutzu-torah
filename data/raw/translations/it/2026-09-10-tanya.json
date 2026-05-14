@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 12",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק יב",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 12",
+  "cycle": "tanya",
+  "date": "2026-09-10",
+  "hebrew_date": "28 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "הַסַּיּוּם — קְרִיאַת שְׁמַע הִיא אִחּוּד כָּל הַבְּרִיאָה עִם מְקוֹרָהּ. 'שְׁמַע יִשְׂרָאֵל' — כָּל נֶפֶשׁ יְהוּדִית קוֹרֵאת וּמְאַחֶדֶת. 'ה' אֱלֹהֵינוּ ה' אֶחָד' — הַגְּלוּי וְהַנִּסְתָּר הֵם אֶחָד.", "it": "Il sommario — la lettura dello Shema è l'unificazione di tutta la creazione con la sua Sorgente. 'Shema Yisrael' — ogni anima ebraica legge e unifica. 'Hashem Elokeinu Hashem Echad' — il rivelato e il nascosto sono uno."},
+    {"n": 2, "he": "הַמַּתָּנָה שֶׁל קְרִיאַת שְׁמַע — שֶׁכָּל יְהוּדִי בְּכָל רֶגַע יָכוֹל לְהַשִּׂיג אֶת הַיִּחוּד הָעֶלְיוֹן. גַּם הַפָּשׁוּט, גַּם הַגָּדוֹל — אֶחָד הֵם לִפְנֵי ה' בְּמַעֲשֵׂה הַיִּחוּד.", "it": "Il dono della lettura dello Shema — che ogni ebreo in ogni momento può raggiungere l'Unità Suprema. Sia il semplice, sia il grande — sono uno davanti a Dio nell'atto dell'unificazione."},
+    {"n": 3, "he": "כָּאן מַסְיִים הָאַדְמוּ\"ר הַזָּקֵן אֶת שַׁעַר הַיִּחוּד וְהָאֱמוּנָה. עִיקַּר הַסֵּפֶר — אֱמוּנָה חַיָּה, אֱמוּנָה שֶׁמַּשְׁפִּיעָה עַל כָּל פֶּרֶט בַּחַיִּים. Si conclude lo Sha'ar HaYichud VeHaEmunah (Parte II della Tanya).", "it": "Qui l'Alter Rebbe conclude lo Sha'ar HaYichud VeHaEmunah. Il punto centrale del libro — una fede viva, una fede che influenza ogni dettaglio della vita. Si conclude lo Sha'ar HaYichud VeHaEmunah (Parte II della Tanya)."}
+  ],
+  "_glossary_terms_used": ["Shema", "yichud elyon", "emunah", "Alter Rebbe"]
+}

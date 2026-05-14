@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 8",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ח",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettera 8",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-18",
+  "hebrew_date": "3 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "שַׁבָּת — מֵעֵין עוֹלָם הַבָּא...",
+      "it": "L'ottava lettera è dedicata alla santità del Shabbat. Il Ba'al HaTanya sviluppa la formula talmudica: 'Shabbat — me'ein Olam HaBa' (lo Shabbat è un assaggio del Mondo a Venire). In che senso? Nel Mondo a Venire, le anime godranno della luce divina (ohr ein sof) senza alcuna copertura o nascondimento. Di Shabbat, Dio ritira in un certo senso le 'cortine' del nascondimento divino (tzimtzum) e permette una maggiore rivelazione della Sua presenza. Ecco perché lo Shabbat è un giorno di gioia spirituale intensa: l'anima 'percepisce' Dio più direttamente."
+    },
+    {
+      "n": 2,
+      "he": "נְשָׁמָה יְתֵרָה — בְּשַׁבָּת...",
+      "it": "Il concetto di 'neshamah yeteirah' (anima aggiuntiva) di Shabbat: i Saggi insegnano che ogni ebreo riceve uno 'spirito aggiuntivo' per lo Shabbat che amplia la sua capacità spirituale e il suo godimento del sacro. Questa 'anima aggiuntiva' è la ragione per cui si mangia di più di Shabbat (tre pasti) senza che pesi. Anche la fonte di benedizione (mekor ha-berachah) di tutta la settimana proviene dallo Shabbat — la settimana 'si nutre' spiritualmente dallo Shabbat precedente. Per questo lo Shabbat deve essere vissuto con massima gioia e santità."
+    }
+  ],
+  "_glossary_terms_used": ["Shabbat", "Olam HaBa", "ohr ein sof", "tzimtzum", "neshamah yeteirah", "mekor ha-berachah"]
+}

@@ -1,0 +1,27 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 11",
+  "name_he": "משנה תורה, הלכות אישות, פרק יא",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 11",
+  "cycle": "rambam-1",
+  "date": "2026-09-03",
+  "hebrew_date": "21 Elul 5786",
+  "halachot_count": 15,
+  "halachot": [
+    {"n": 1, "he": "עוֹנָה הָאֲמוּרָה בַּתּוֹרָה — חִיּוּב הַבַּעַל לְשַׁמֵּשׁ אֶת אִשְׁתּוֹ בְּזְמַנִּים קְבוּעִים, כְּדֶרֶךְ כָּל הָאָרֶץ.", "it": "L'onah menzionata nella Torah — è l'obbligo del marito di avere rapporti con sua moglie in tempi fissi, come è consuetudine universale."},
+    {"n": 2, "he": "עוֹנַת הַתַּלְמִידֵי חֲכָמִים — פַּעַם אַחַת בְּשַׁבָּת, בְּלֵיל שַׁבָּת.", "it": "L'onah degli studiosi di Torah — una volta a settimana, la notte di Shabbat."},
+    {"n": 3, "he": "עוֹנַת הַפּוֹעֲלִים הָעוֹשִׂים מְלַאכְתָּם בְּאוֹתָהּ הָעִיר — שְׁתַּיִם בְּשַׁבָּת.", "it": "L'onah dei lavoratori che lavorano nella stessa città — due volte a settimana."},
+    {"n": 4, "he": "עוֹנַת הַחַמָּרִין — פַּעַם אַחַת בְּשַׁבָּת, שֶׁהֵם נוֹסְעִים לְעִיר קְרוֹבָה.", "it": "L'onah dei conducenti di asini — una volta a settimana, poiché viaggiano verso città vicine."},
+    {"n": 5, "he": "עוֹנַת הַגַּמָּלִין — אַחַת לִשְׁלֹשִׁים יוֹם, שֶׁהֵם נוֹסְעִים לְמֶרְחַקִּים.", "it": "L'onah dei conducenti di cammelli — una ogni trenta giorni, poiché viaggiano a grande distanza."},
+    {"n": 6, "he": "עוֹנַת הַסַּפָּנִין — אַחַת לְשִׁשָּׁה חֳדָשִׁים.", "it": "L'onah dei marinai — una ogni sei mesi."},
+    {"n": 7, "he": "הַיּוֹשֵׁב בַּבַּיִת וְלֵית לֵיהּ מְלָאכָה — עוֹנָתוֹ כָּל לַיְלָה.", "it": "Chi siede in casa senza un mestiere specifico — la sua onah è ogni notte."},
+    {"n": 8, "he": "כָּל אִשָּׁה יֵשׁ לָהּ עוֹנָה קְבוּעָה כְּפִי מְלֶאכֶת בַּעְלָהּ, וְאֵינוֹ יָכוֹל לְשַׁנּוֹת עֲבוֹדָתוֹ בְּלֹא רְשׁוּתָהּ כְּדֵי לְמַעֵט בְּעוֹנָתָהּ.", "it": "Ogni moglie ha un'onah fissa secondo il mestiere del marito, e lui non può cambiare il proprio lavoro senza il suo permesso per ridurre la sua onah."},
+    {"n": 9, "he": "רָצָה לַעֲלוֹת מִמְּלָאכָה גְּרוּעָה לְמְלָאכָה נְכוֹנָה, שֶׁמְּמַעֶטֶת בְּעוֹנָה — אֵינוֹ רַשַּׁאי.", "it": "Se ha voluto passare da un mestiere modesto a un mestiere onorevole che riduce l'onah — non è autorizzato."},
+    {"n": 10, "he": "הִיא שֶׁרָצְתָה — יֵשׁ לוֹ לְשַׁנּוֹת.", "it": "Se lei ha acconsentito — può cambiare."},
+    {"n": 11, "he": "הָאִשָּׁה מּוֹחֶלֶת עוֹנָתָהּ בְּרָצוֹן — מוֹחֶלֶת.", "it": "Se la moglie rinuncia alla sua onah volontariamente — la rinuncia è valida."},
+    {"n": 12, "he": "הָעוֹנָה הִיא מִצְוַת עֲשֵׂה מִן הַתּוֹרָה, שֶׁנֶּאֱמַר 'עוֹנָתָהּ לֹא יִגְרָע'.", "it": "L'onah è un precetto positivo della Torah, come è detto: 'la sua onah non diminuirà'."},
+    {"n": 13, "he": "כָּל הַמּוֹנֵעַ עַצְמוֹ מֵאִשְׁתּוֹ שֶׁלֹּא כְּדִין — עוֹבֵר עַל עֲשֵׂה.", "it": "Chiunque si astiene dalla moglie senza giustificazione — transgredisce un precetto positivo."},
+    {"n": 14, "he": "הָיָה חוֹלֶה אוֹ אָנוּס — פָּטוּר עַד שֶׁיִּתְרַפֵּא.", "it": "Se era malato o costretto — è esente finché non guarisce."},
+    {"n": 15, "he": "תָּבְעָה אִשָּׁה בְּאִישׁוּת — מִצְוָה לִשְׁמֹעַ לָהּ, וְכָל הַמֵּשִׁיב פְּנֵי אִשְׁתּוֹ בְּעִנְיַן זֶה — שְׁכִינָה מְסַלֶּקֶת עַצְמָהּ מִמֶּנּוּ.", "it": "Se la moglie ha avanzato richiesta di intimità — è una mitzvah ascoltarla, e chiunque allontani la moglie in questa materia — la Shekhinah si allontana da lui."}
+  ],
+  "_glossary_terms_used": ["onah", "mitzvah", "Shabbat", "Shekhinah"]
+}

@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 7",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ז",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 7",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-14",
+  "hebrew_date": "5 Tevet 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵלּוּ שֶׁאֵין מַשְׁבִּיעִין אוֹתָן — הָרָשָׁע...",
+      "it": "Queste categorie non possono prestare giuramento in beit din: il rasha (malvagio — persona nota per aver violato la legge ebraica per interesse monetario), il mechalel Shabbat be-farhesya (profanatore pubblico dello Shabbat), il mashkil (usuraio), il me'sachek be-kubiyot (giocatore d'azzardo), il mafriach yonim (chi fa gareggiare piccioni — considerato una forma di gioco d'azzardo). Queste persone sono considerate «resha'im» (malvagi) rispetto al denaro — il loro giuramento su questioni finanziarie non è affidabile."
+    },
+    {
+      "n": 2,
+      "he": "מִפְּנֵי מָה פְּסוּלִין — לְפִי שֶׁאֵין מַקְפִּידִין עַל הַשֵּׁם...",
+      "it": "Perché sono disqualificati? Perché hanno dimostrato di non preoccuparsi dell'onore del Nome divino quando interessi personali sono in gioco. Chi viola apertamente la Torah per profitto dimostra che l'invocazione del Nome divino non lo tratterrà dal mentire. Il giuramento presuppone yirat Shamayim (timore del Cielo) — chi ha dimostrato di non avere questo timore non può prestare giuramento credibile. Questo principio è universale: non è sufficiente essere «osservante» in teoria — la vita pratica deve riflettere il rispetto per D-o."
+    },
+    {
+      "n": 3,
+      "he": "הַנִּשְׁבָּע מֵחֲמַת עַצְמוֹ — הַיְינוּ פָּסוּל...",
+      "it": "Un individuo disqualificato (pasul) che giura di propria iniziativa (non per ordine del beit din) — il suo giuramento non ha valore legale in beit din. Tuttavia, se una parte accetta di credere al giuramento del pasul — può farlo di propria volontà, e il giuramento avrà valore tra le parti private. La disqualificazione è rispetto al sistema giudiziario pubblico, non rispetto alle relazioni private volontarie."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד מְחַזְּרִין עַל הַכָּשְׁרוּת...",
+      "it": "Come si ritorna alla piena validità dopo essere stati disqualificati: il rasha deve fare teshuvah (pentimento) genuina e restituire qualsiasi guadagno ottenuto illegalmente (o almeno avere la piena intenzione di farlo). I Saggi non specificano una durata minima — il beit din valuta caso per caso se la teshuvah sembra sincera. Un giocatore d'azzardo che ha smesso completamente il gioco — può essere riabilitato. La porta della teshuvah è sempre aperta."
+    },
+    {
+      "n": 5,
+      "he": "הַנִּשְׁבָּע שְׁבוּעַת שָׁוְא בְּפֶרֶק זֶה...",
+      "it": "Riepilogo del capitolo: la disqualificazione al giuramento è un meccanismo di protezione del sistema giudiziario dalla disonestà. Non è una punizione personale ma un riconoscimento che il giuramento richiede integrità morale. Il sistema halachico preferisce lasciare una controversia irrisolta (ha-motzi mei-chavero alav ha-ra'ayah — chi vuole togliere denaro all'altro deve provarlo) piuttosto che basarsi sul giuramento di qualcuno di moralmente inaffidabile."
+    }
+  ],
+  "_glossary_terms_used": [
+    "rasha", "mechalel Shabbat be-farhesya", "mashkil", "me'sachek be-kubiyot", "mafriach yonim", "resha'im", "yirat Shamayim", "pasul", "beit din", "teshuvah", "ha-motzi mei-chavero alav ha-ra'ayah"
+  ]
+}

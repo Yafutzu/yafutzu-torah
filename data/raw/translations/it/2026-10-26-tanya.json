@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 2",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, קטע ב",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Trattato Finale), saggio 2",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-26",
+  "hebrew_date": "15 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אֵין סוֹף בָּרוּךְ הוּא — מָלֵא כָּל הָאָרֶץ כְּבוֹדוֹ, וְאַף עַל פִּי כֵּן הוּא מִתְעַלֶּה עַל כָּל…",
+      "it": "Il saggio 2 del Kuntres Acharon affronta il problema filosofico fondamentale dell'immanenza e della trascendenza divine. La contraddizione apparente: D-o è «memale kol almin» (riempie tutti i mondi — trascendenza verso il basso, immanenza) e allo stesso tempo è «sovev kol almin» (circonda tutti i mondi — trascendenza verso l'alto, trascendenza). Come possono essere entrambe le affermazioni vere simultaneamente? Se D-o riempie tutto, sembra panteismo; se D-o è al di sopra di tutto, sembra deismo."
+    },
+    {
+      "n": 2,
+      "he": "אֶלָּא הֶסְבֵּר הַדָּבָר — כִּי הָאֵין סוֹף הוּא בְּעַצְמוּתוֹ לְמַעְלָה מִן הָעוֹלָמוֹת…",
+      "it": "L'Alter Rebbe risolve la contraddizione: l'Ein Sof nella Sua Essenza (atzmus) è al di sopra di tutti i mondi — questa è la trascendenza (sovev). Ma la Sua luce (ohr Ein Sof) — un'irradiazione della Sua Essenza, non l'Essenza stessa — pervade e sustiene tutti i mondi dall'interno — questa è l'immanenza (memale). La distinzione cruciale: l'«ohr» (luce) non è l'Essenza; l'«atzmus» (essenza) rimane assolutamente trascendente. Il mondo non «contiene» D-o; D-o sustenendo il mondo non «diminuisce» la Sua trascendenza. Entrambe le verità coesistono senza contraddizione."
+    },
+    {
+      "n": 3,
+      "he": "וְלָכֵן — הָעוֹלָם אֵינוֹ מַגְבִּיל אֶת הָאֵין סוֹף, וְאַף עַל פִּי כֵּן מָלֵא בְּאוֹרוֹ…",
+      "it": "Implicazione pratica: il mondo materiale non è un «contenitore» di D-o che Lo limita — è una «manifestazione» della Sua luce, che Lui sustiene costantemente senza che questo Lo «stanchi» o Lo «limiti». Come il sole illumina milioni di luoghi senza diminuire — la luce divina permea tutto il creato senza diminuire l'Ein Sof. Da qui l'Alter Rebbe trae una lezione per l'avodah: chi vede D-o solo nella trascendenza (sovev) — manca l'immanenza; chi Lo vede solo nell'immanenza — rischia il panteismo. La visione chassidica integra entrambe: «ein od milvado» visto dall'interno, non dall'esterno."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Ein Sof", "memale kol almin", "sovev kol almin", "atzmus", "ohr Ein Sof", "ohr", "ein od milvado", "avodah"
+  ]
+}

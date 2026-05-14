@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 2",
+  "name_he": "תניא, חלק א — ליקוטי אמרים (ספר של בינונים), פרק ב",
+  "name_it": "Tanya, Parte I — Likutei Amarim (Libro dei Beinonim), capitolo 2",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-14",
+  "hebrew_date": "29 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "פֶּרֶק ב: שְׁתֵּי נְשָׁמוֹת בְּכָל יְהוּדִי — הַנֶּפֶשׁ הַבַּהֲמִית (נֶפֶשׁ הַקְּלִיפָּה) וְהַנֶּפֶשׁ הָאֱלֹקִית (נֶפֶשׁ הָאֱלֹקִית). הַנֶּפֶשׁ הַבַּהֲמִית — מָקוֹר הַתַּאֲווֹת הַגּוּפָנִיּוֹת.",
+      "it": "Capitolo 2: Due anime in ogni ebreo — la nefesh ha-behamit (anima animale, dell'involucro impuro, kelipah) e la nefesh ha-elokit (anima divina). La nefesh ha-behamit — è la fonte dei desideri corporali."
+    },
+    {
+      "n": 2,
+      "he": "הַנֶּפֶשׁ הַבַּהֲמִית שׁוֹכֶנֶת בַּלֵּב — בַּחֲדַר הַשְּׂמֹאל. הַנֶּפֶשׁ הָאֱלֹקִית שׁוֹכֶנֶת בַּמֹּחַ — בַּמָּקוֹם הָרָאשׁוֹן. גַּם הַנֶּפֶשׁ הַבַּהֲמִית יֵשׁ לָהּ עֶשֶׂר כֹּחוֹת: שֶׁבַע מִדּוֹת הַרָגְשִׁיּוֹת וְשָׁלוֹשׁ כֹּחוֹת שִׂכְלִיּוֹת.",
+      "it": "La nefesh ha-behamit risiede nel cuore — nella camera sinistra. La nefesh ha-elokit risiede nel cervello — nel luogo superiore. Anche la nefesh ha-behamit ha dieci forze: sette middot (attributi emotivi) e tre facoltà intellettuali."
+    },
+    {
+      "n": 3,
+      "he": "הַמִּלְחָמָה בֵּין שְׁתֵּי הַנְּשָׁמוֹת הִיא מַהוּת חַיֵּי הָאָדָם. \"הַמַּיִם\" הֵם הַנֶּפֶשׁ הָאֱלֹקִית, וְ\"הָאֵשׁ\" הִיא הַנֶּפֶשׁ הַבַּהֲמִית (לְפִי מִדְרָשׁ). כָּל אֶחָד מִיִּשְׂרָאֵל נִמְצָא בָּהּ.",
+      "it": "La guerra tra le due anime è l'essenza della vita umana. «Le acque» sono la nefesh ha-elokit, e «il fuoco» è la nefesh ha-behamit (secondo il Midrash). Ogni ebreo si trova in questa guerra."
+    }
+  ],
+  "_glossary_terms_used": ["nefesh ha-behamit", "nefesh ha-elokit", "kelipah", "middot", "Chochmah", "Binah", "Da'at", "Tanya", "Likutei Amarim"]
+}

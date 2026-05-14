@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 3",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק ג",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 3",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-05",
+  "hebrew_date": "25 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַלְּבוּשִׁים שֶׁל הַנְּשָׁמָה — מַחְשָׁבָה, דִּבּוּר, וּמַעֲשֶׂה…",
+      "it": "Ogni anima — sia la nefesh ha-Elohit sia la nefesh ha-behamit — si esprime nel mondo attraverso tre «vesti» (levushim): machshava (pensiero), dibbur (parola), e ma'aseh (azione). Queste tre vesti sono i canali attraverso cui l'anima opera nel mondo fisico. Quando una persona studia Torah — è la veste del pensiero della nefesh ha-Elohit che opera. Quando una persona dice una parolaccia — è la veste del dibbur della nefesh ha-behamit che opera. Il controllo delle vesti è il fulcro del servizio divino."
+    },
+    {
+      "n": 2,
+      "he": "לְבוּשֵׁי הַנֶּפֶשׁ הָאֱלֹהִית — תּוֹרָה וּמִצְווֹת…",
+      "it": "Le vesti della nefesh ha-Elohit: (1) Machshava — il pensiero della nefesh ha-Elohit si manifesta nello studio della Torah e nell'hitbonenut (contemplazione) della grandezza divina. (2) Dibbur — la parola della nefesh ha-Elohit si manifesta nella preghiera, nello studio ad alta voce (Torah she-bi-khtav u-she-be'al peh lamed), e nelle parole di mussar ed incoraggiamento spirituale. (3) Ma'aseh — l'azione della nefesh ha-Elohit si manifesta nell'adempimento delle 613 mitzvot. Quando tutte e tre le vesti dell'anima divina sono attive — la persona è in un momento di shelemut (completezza)."
+    },
+    {
+      "n": 3,
+      "he": "לְבוּשֵׁי הַנֶּפֶשׁ הַבְּהֵמִית — תַּאֲווֹת וְחָטְאִים…",
+      "it": "Le vesti della nefesh ha-behamit: (1) Machshava — il pensiero animale genera fantasie mondane, pensieri di orgoglio, rabbia, desiderio inappropriato. (2) Dibbur — le parole vuote (dibbur bateil), le parolacce, il lashon ha-ra (maldicenza). (3) Ma'aseh — le azioni proibite, il consumo di cibo non-kasher (che nutre direttamente la nefesh ha-behamit), e i comportamenti fisici egocentrici. L'Alter Rebbe spiega che pecca nel pensiero è già un coinvolgimento della veste della nefesh ha-behamit — anche se non si arriva all'azione proibita."
+    }
+  ],
+  "_glossary_terms_used": [
+    "levushim", "machshava", "dibbur", "ma'aseh", "nefesh ha-Elohit", "nefesh ha-behamit", "hitbonenut", "lashon ha-ra", "mitzvot", "Alter Rebbe", "shelemut"
+  ]
+}

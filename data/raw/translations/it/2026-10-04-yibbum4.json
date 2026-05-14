@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 4",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק ד",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-04",
+  "hebrew_date": "23 Tishrei 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד מִצְוַת חֲלִיצָה — הָיְתָה בְּפָנָיו בֵּית דִּין שֶׁל שְׁלֹשָׁה…",
+      "it": "Come si esegue la mitzvah della chalitzah? Il beit din (tribunale) di tre giudici — il minimo richiesto — si riunisce. Alcuni opinano che siano necessari cinque giudici (per la kedushah/solennità del procedimento), ma la halachah è che tre sono sufficienti dal punto di vista biblico. La chalitzah deve avvenire durante il giorno, non di notte, davanti al beit din."
+    },
+    {
+      "n": 2,
+      "he": "הַיְּבָמָה שׁוֹלֶפֶת אֶת הַנַּעַל מֵעַל רַגְלוֹ…",
+      "it": "La yevamah sfila il sandalo dal piede del yavam con la mano destra. Il sandalo (na'al) deve essere di cuoio, fatto appositamente per questo scopo o già indossato dal yavam. Il sandalo deve coprire la maggior parte del piede. Se il yavam indossa uno stivale che arriva fino al ginocchio — è valido. Un sandalo di legno o di tela — è controverso; il Rambam stabilisce che il sandalo di cuoio è l'unico pienamente valido."
+    },
+    {
+      "n": 3,
+      "he": "וְרָקְקָה בְּפָנָיו — רֹק הַנִּרְאֶה לַדַּיָּנִין…",
+      "it": "Dopo aver sfilato il sandalo, la yevamah sputa di fronte al yavam — lo sputo deve essere visibile ai giudici del beit din. Poi recita il testo biblico (Deut. 25:9): «Così si fa all'uomo che non vuole ricostruire la casa del suo fratello». Poi i giudici proclamano tre volte: «Chalatz na'al» (ha sfilato il sandalo). Con questi tre atti — la sfilata del sandalo, lo sputo e la recitazione — la chalitzah è completa."
+    },
+    {
+      "n": 4,
+      "he": "חָלְצָה שֶׁלֹּא בִּפְנֵי בֵּית דִּין — חֲלִיצָתָהּ פְּסוּלָה…",
+      "it": "Chalitzah eseguita non davanti al beit din — è invalida. La yevamah non è liberata e deve ripetere la chalitzah. Se il yavam è fuggito all'estero e non si trova, e la yevamah non può trovarlo — il beit din può emettere un ordine di costringere il yavam a tornare. Se il yavam è malato e non può muoversi — il beit din si reca da lui."
+    },
+    {
+      "n": 5,
+      "he": "חָלְצָה בְּלֵיל — חֲלִיצָתָהּ פְּסוּלָה…",
+      "it": "Chalitzah di notte — è invalida. Chalitzah in cui mancava la recitazione del testo biblico — secondo il Rambam è invalida biblicamente, poiché il testo è parte integrante della mitzvah. Chalitzah in cui la yevamah non ha sputato — è invalida rabbinicamente secondo alcuni, ma valida biblicamente secondo altri. Il Rambam stabilisce che tutti e tre gli elementi (sfilata, sputo, recitazione) sono necessari."
+    },
+    {
+      "n": 6,
+      "he": "הַחֹרֵשׁ וְהַשּׁוֹטֶה — אֵינָם חוֹלְצִין…",
+      "it": "Il sordomuto e il demente non possono compiere né yibbum né chalitzah. Il minore (katan, sotto i 13 anni) non può compiere chalitzah valida. La yevamah minore (sotto i 12 anni) non può compiere chalitzah valida. Se il yavam o la yevamah sono ciechi — la chalitzah è valida, poiché la Torah non richiede la vista come condizione."
+    },
+    {
+      "n": 7,
+      "he": "אֵין אִשָּׁה חוֹלֶצֶת אֶלָּא בְּרָצוֹן — הַיָּבָם שֶׁרָצָה לַחֲלֹץ…",
+      "it": "La chalitzah deve essere compiuta con il consenso di entrambe le parti — il yavam e la yevamah. Chalitzah eseguita sotto coercizione fisica — è invalida. Tuttavia coercizione legale del beit din (per obbligare il yavam riluttante a dare la chalitzah) è valida, perché la coercizione legale non è considerata come coercizione fisica ai fini della halachah. Dopo la chalitzah la yevamah è completamente libera di sposarsi con chiunque — anche il beit din la proclama libera con la formula «Ba'al chalatzah» (ha eseguito la chalitzah)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chalitzah", "yavam", "yevamah", "beit din", "na'al", "yibbum", "katan", "ba'al chalatzah"
+  ]
+}

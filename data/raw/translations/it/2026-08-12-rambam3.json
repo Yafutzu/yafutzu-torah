@@ -1,0 +1,42 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 15-17",
+  "name_he": "משנה תורה, הלכות טומאת מת, פרקים טו-יז",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere, capitoli 15-17",
+  "cycle": "rambam-3",
+  "date": "2026-08-12",
+  "hebrew_date": "29 Av 5786",
+  "halachot_count": 11,
+  "halachot": [
+    {
+      "n": "15:1",
+      "he": "כלי שמשמש את הגוף ישירות — נקרא 'כלי צורך גוף' ומקבל טומאה. כגון מגרדת, מסרק, ושאר כלים שמשמשים לניקיון וסדרת הגוף.",
+      "it": "Un oggetto che serve direttamente il corpo — chiamato 'kli tzorech guf' (oggetto a servizio del corpo) — riceve l'impurità. Per esempio, una raspa, un pettine e altri oggetti usati per la pulizia e la cura del corpo."
+    },
+    {
+      "n": "15:2",
+      "he": "כלי שאינו משמש את הגוף ישירות אלא משמש לתכלית אחרת — אינו נחשב 'כלי' לעניין טומאה. כגון כלי שמשמש כעיטור בלבד — אינו מקבל טומאה.",
+      "it": "Un oggetto che non serve direttamente il corpo ma ha un altro scopo non è considerato 'kli' ai fini dell'impurità. Per esempio, un oggetto usato solo come ornamento decorativo non riceve l'impurità."
+    },
+    {
+      "n": "16:1",
+      "he": "אילן גדול שנטה ענפיו על שטח שיש מתחתיו מת — האילן הוי אוהל, ומטמא כל מה שתחתיו. ובלבד שיהיה הצל מחשיך כדי שיעור.",
+      "it": "Un albero grande i cui rami si estendono sopra un'area in cui si trova un cadavere — l'albero funge da ohel e trasmette l'impurità a tutto ciò che si trova sotto di esso. A condizione che l'ombra oscuri in misura sufficiente."
+    },
+    {
+      "n": "16:2",
+      "he": "כיצד? אם ענפי האילן גדולים ומתפשטים — הרי הם כגג. ואם האדם עמד תחתיהם לצל — נטמא. אבל אם הענפים דקים ואינם מצילים — אינם אוהל.",
+      "it": "Come? Se i rami dell'albero sono grandi e si estendono — sono come un tetto. Se una persona si trovava sotto di essi all'ombra, è impura. Ma se i rami sono sottili e non forniscono ombra completa — non costituiscono un ohel."
+    },
+    {
+      "n": "17:1",
+      "he": "שדה שנחרש בה קבר — נקראת 'בית הפרס'. חכמים גזרו עליה טומאה, שמא ניתזו עצמות המת בשעת החרישה ונפוצו בכל השדה.",
+      "it": "Un campo in cui è stata arata una tomba — è chiamato 'beit ha-pras' (campo disperso). I Saggi decretarono su di esso l'impurità, temendo che le ossa del defunto si siano sparse durante l'aratura e si trovino distribuite per tutto il campo."
+    },
+    {
+      "n": "17:2",
+      "he": "כיצד נזהרים בבית הפרס? לא הולכים בו, ואם הולכים — מנפחים את העפר. עפר שנבדק ולא נמצא בו עצם — טהור. ואם נמצא עצם — טמא.",
+      "it": "Come ci si protegge nel beit ha-pras? Non vi si cammina, e se vi si cammina, si soffia via la polvere. Il suolo che è stato controllato e in cui non si trovano ossa — è puro. Se si trovano ossa — è impuro."
+    }
+  ],
+  "_glossary_terms_used": ["kli tzorech guf", "ohel", "beit ha-pras", "tumat met"]
+}

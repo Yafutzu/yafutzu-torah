@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 5",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק ה",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 5",
+  "cycle": "tanya",
+  "date": "2026-09-03",
+  "hebrew_date": "21 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "שֵׁם 'אֱלֹהִים' הוּא בְּחִינַת הַהֶסְתֵּר — מַסְתִּיר אֶת אוֹר אֵין סוֹף. כְּמוֹ שֶׁנֶּאֱמַר בַּזֹּהַר 'אֱלֹהִים' מַסְתִּיר אוֹר הָאֵין סוֹף, וּמִכָּאן הָעוֹלָם נִרְאֶה כְּטֶבַע.", "it": "Il nome 'Elokim' è nell'aspetto del velamento — vela la luce dell'Infinito. Come è detto nello Zohar: 'Elokim' nasconde la luce dell'Ein Sof, e da qui il mondo sembra essere natura."},
+    {"n": 2, "he": "הָאוֹת הַגִּימַטְרִיָּה שֶׁל 'אֱלֹהִים' שָׁוָה לַגִּימַטְרִיָּה שֶׁל 'הַטֶּבַע' — שְׁנֵיהֶם שָׁוִים לְפ\"ו. וְזֶה מוֹרֶה שֶׁהַטֶּבַע הוּא הַשֵּׁם אֱלֹהִים הַמַּסְתִּיר.", "it": "Il valore gematria di 'Elokim' è uguale al valore gematria di 'ha-teva' (la natura) — entrambi uguali a 86. Questo indica che la natura è il nome Elokim che vela."},
+    {"n": 3, "he": "אֲבָל לְמִי שֶׁיּוֹדֵעַ — הַטֶּבַע עַצְמוֹ הוּא הֲתְגַּלּוּת אֱלֹקוּת. שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא מַחֲיֶה אֶת הַטֶּבַע בְּכָל רֶגַע וָרֶגַע, וּמִבְּחִינַת הָאֱמֶת אֵין 'טֶבַע' כְּלָל.", "it": "Ma per chi lo sa — la natura stessa è rivelazione della Divinità. Poiché il Santo Benedetto dà vita alla natura in ogni singolo momento, e dal punto di vista della Verità non c'è affatto 'natura'."}
+  ],
+  "_glossary_terms_used": ["Elokim", "or Ein Sof", "ha-teva", "gematria", "hester"]
+}

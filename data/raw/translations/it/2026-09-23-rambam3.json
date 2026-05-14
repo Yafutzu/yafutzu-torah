@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nizkei Mamon 2-4",
+  "name_he": "משנה תורה, הלכות נזקי ממון, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dei Danni ai Beni (Nizkei Mamon), capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-09-23",
+  "hebrew_date": "12 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "שׁוֹר שֶׁנָּגַח — אִם הוּא תָּם, מְשַׁלֵּם חֲצִי נֵזֶק מִגּוּף הַשּׁוֹר. אִם הוּא מוּעָד, מְשַׁלֵּם נֵזֶק שָׁלֵם מִן הָעִדִּית.",
+      "it": "Un bue che ha incornato — se è tam (non recidivo), paga metà del danno col proprio corpo. Se è mu'ad (recidivo), paga l'intero danno con terreni di prima qualità."
+    },
+    {
+      "n": "2:2",
+      "he": "כֵּיצַד הַשּׁוֹר נַעֲשֶׂה מוּעָד? מִשֶּׁנָּגַח שָׁלֹשׁ פְּעָמִים בְּעֵדִים וּבְהַתְרָאָה — לְמָחֳרַת הַשְּׁלִישִׁי הוּא מוּעָד.",
+      "it": "Come diventa mu'ad il bue? Da quando ha incornato tre volte davanti a testimoni e con avvertimento — dal giorno successivo al terzo incidente è mu'ad."
+    },
+    {
+      "n": "2:3",
+      "he": "הוּחְזַר לְתָמּוֹ — כֵּיצַד? אִם לֹא נָגַח שְׁלֹשָׁה יָמִים בִּשְׁלֹשָׁה בְּנֵי אָדָם — חָזַר לִהְיוֹת תָּם.",
+      "it": "Come torna allo status di tam? Se non ha incornato tre giorni di fila tre persone diverse — torna a essere tam."
+    },
+    {
+      "n": "3:1",
+      "he": "שׁוֹר שֶׁנָּגַח אֶת הָאָדָם וָמֵת — אִם תָּם הוּא, הַשּׁוֹר נִסְקָל וְאֵין לַבְּעָלִים כְּלוּם. אִם מוּעָד — נִסְקָל וּבְעָלָיו מְשַׁלֵּם כֹּפֶר.",
+      "it": "Un bue che ha incornato una persona e l'ha uccisa — se è tam, il bue viene lapidato e i proprietari non pagano nulla. Se è mu'ad — viene lapidato e il proprietario paga il riscatto (kofer)."
+    },
+    {
+      "n": "3:2",
+      "he": "הַכֹּפֶר — שָׁוֵי הַנֶּהֱרָג. בֵּית דִּין שָׁמִין אֶת הַנֶּהֱרָג כְּעֶבֶד הַנִּמְכָּר בַּשּׁוּק.",
+      "it": "Il riscatto (kofer) — è il valore dell'ucciso. Il tribunale valuta l'ucciso come uno schiavo venduto sul mercato."
+    },
+    {
+      "n": "3:3",
+      "he": "נָגַח שׁוֹר אֶת הָעֶבֶד — אֵין כֹּפֶר שֶׁל נֶפֶשׁ, אֲבָל מְשַׁלֵּם שְׁלֹשִׁים שֶׁקֶל כֶּסֶף לַאֲדוֹנָיו שֶׁל הָעֶבֶד.",
+      "it": "Se un bue ha incornato uno schiavo — non vi è riscatto della vita, ma si pagano trenta shekel d'argento al padrone dello schiavo."
+    },
+    {
+      "n": "4:1",
+      "he": "שְׁאָר בְּהֵמוֹת שֶׁנָּגְחוּ — הַחֲתוּל, הַכֶּלֶב, הַסּוּס — דִּינָם כְּשׁוֹר, שֶׁהַכְּלָל הוּא: כָּל בְּהֵמָה שֶׁנָּגְחָה — מְשַׁלֵּם בְּעָלֶיהָ.",
+      "it": "Gli altri animali che hanno incornato — il gatto, il cane, il cavallo — il loro statuto è come quello del bue, perché la regola è: qualsiasi animale che ha incornato — il suo proprietario paga."
+    },
+    {
+      "n": "4:2",
+      "he": "הַנָּחָשׁ — מוּעָד לְעוֹלָם. מִי שֶׁגִּדֵּל נָחָשׁ בִּרְשׁוּתוֹ — הֲרֵי זֶה מוּעָד מִתְּחִלָּה, שֶׁהַנָּחָשׁ אַכְזָרִי בְּטִבְעוֹ.",
+      "it": "Il serpente — è sempre mu'ad. Chi alleva un serpente nel proprio dominio — è mu'ad fin dall'inizio, perché il serpente è crudele per natura."
+    },
+    {
+      "n": "4:3",
+      "he": "הַכְּלָלִים שֶׁנֶּאֶמְרוּ: כָּל הַמּוּעָד — מְשַׁלֵּם נֵזֶק שָׁלֵם. כָּל הַתָּם — מְשַׁלֵּם חֲצִי נֵזֶק מִגּוּפוֹ בִּלְבַד.",
+      "it": "Le regole enunciate: qualsiasi mu'ad — paga danno integrale. Qualsiasi tam — paga solo metà del danno con il proprio corpo."
+    }
+  ],
+  "_glossary_terms_used": ["shor", "tam", "mu'ad", "kofer", "nikkur", "beit din"]
+}

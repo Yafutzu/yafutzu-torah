@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 13",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק יג",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 13",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-28",
+  "hebrew_date": "17 Cheshvan 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַחָלָל — בֶּן כֹּהֵן שֶׁנּוֹלַד מֵאִשָּׁה הָאֲסוּרָה לוֹ — קְדֻשָּׁתוֹ פְּחוּתָה…",
+      "it": "Il chalal (figlio maschio di un kohen che ha sposato una donna proibita a lui) — ha una santità ridotta (kedushah pegumah). Non può svolgere servizio nel Tempio (avodah), non può mangiare terumah (la porzione sacerdotale del raccolto), e il suo status è quello di israelita ordinario per tutti i fini pratici. Sebbene sia nato da un kohen, la trasgressione del padre ha compromesso il trasferimento della kedushat kehunah (santità sacerdotale) ai figli."
+    },
+    {
+      "n": 2,
+      "he": "הַחֲלָלָה — בַּת כֹּהֵן שֶׁנּוֹלְדָה מֵאִשָּׁה הָאֲסוּרָה לוֹ — הִיא אֵינָהּ יְכוֹלָה לֶאֱכֹל תְּרוּמָה…",
+      "it": "La chalalah (figlia di tale unione) — allo stesso modo non ha il privilegio di bat kohen piena. Normalmente, la «bat kohen» (figlia del kohen) che è nubile o la cui figlia rimasta vedova senza figli può tornare a vivere con il padre kohen — può mangiare terumah. La chalalah non gode di questo privilegio. Se sposa un kohen — lui decade dai diritti sacerdotali? No: lo status del kohen non è compromesso dalla moglie chalalah, ma i loro figli (dalla chalalah) sono chalalim."
+    },
+    {
+      "n": 3,
+      "he": "בַּת יִשְׂרָאֵל שֶׁנִּשֵּׂאת לְכֹהֵן — אוֹכֶלֶת בִּתְרוּמָה…",
+      "it": "Una bat Yisrael (figlia di israelita comune) che sposa un kohen — può mangiare terumah per il merito del marito. Se il marito kohen muore senza figli — lei non può più mangiare terumah e torna al suo status precedente. Se ha figli da lui — può continuare a mangiare terumah per il merito dei figli («be-zchut ha-yeled» — per il merito del bambino). Se ha figli da un secondo matrimonio con un non-kohen — non può mangiare terumah, anche se ha figli dal kohen defunto. Queste distinzioni riflettono l'accesso alla terumah come dipendente dal legame attivo con la kehunah."
+    },
+    {
+      "n": 4,
+      "he": "כֹּהֵן שֶׁנָּשָׂא חֲלָלָה — יֵשׁ אוֹמְרִים שֶׁאוֹכֶלֶת בִּתְרוּמָה…",
+      "it": "Un kohen che sposa una chalalah — la moglie, sebbene sia chalalah, ora è «moglie del kohen» e c'è discussione tra le autorità se possa mangiare terumah. Il Rambam riporta le diverse posizioni: la chalalah rimane proibita dalla terumah anche quando è moglie del kohen, secondo la posizione dominante, poiché la sua chalalut è intrinseca e non si cancella per matrimonio. Questo riflette il principio che alcuni status halakhici (come il mamzerut o la chalalut) sono permanenti e non modificabili da atti successivi."
+    },
+    {
+      "n": 5,
+      "he": "בַּת כֹּהֵן שֶׁנִּשֵּׂאת לְיִשְׂרָאֵל — אֵינָהּ אוֹכֶלֶת בִּתְרוּמָה…",
+      "it": "Una bat kohen (figlia del kohen) che sposa un israelita comune — non può più mangiare terumah per la durata del matrimonio. Se lui muore o la divorziano senza figli — torna a mangiare terumah nella casa del padre («u-vat kohen ki tihyeh almana u-gerushah»). Se ha figli dal marito israelita — non torna alla terumah nemmeno dopo la sua morte, poiché i suoi figli (non kohanim) la «trattengono» fuori dalla sfera sacerdotale. Questa regola è derivata da Vayikra 22:13."
+    },
+    {
+      "n": 6,
+      "he": "הַחֲלָלִים — אַף עַל פִּי שֶׁאֵין לָהֶם קְדֻשַּׁת כְּהֻנָּה — חַיָּבִים לָשֵׂאת אִשָּׁה כְּשֵׁרָה…",
+      "it": "I chalalim — sebbene abbiano perso la sanctity sacerdotale — rimangono soggetti a tutte le altre mitzvot come israeliti ordinari. Non sono puniti per i peccati del padre: possono studiare Torah, compiere mitzvot, e raggiungere la più alta spiritualità. La loro limitazione è solo pratica e istituzionale: non possono servire nel Tempio. Il Rambam sottolinea che nessuna persona è esclusa dalla relazione con D-o attraverso la Torah e le mitzvot — la kedushat kehunah è solo una delle forme di kedushah, non la forma più elevata di relazione spirituale individuale."
+    },
+    {
+      "n": 7,
+      "he": "כֹּהֵן שֶׁנִּשֵּׂא לְגְּרוּשָׁה — הַוְּלָד הוּא חָלָל…",
+      "it": "Un kohen che sposa una gerushah (divorziata), una chalutza, o una zona — i figli nati da questo matrimonio sono chalalim. Questo vale anche se il matrimonio è proibito ma valido (kiddushin tofsin be-chayavei lavin — il kiddushin ha effetto nelle proibizioni lav). Il Rambam specifica: non tutti i figli di unioni proibite sono chalalim — solo quelli nati da un kohen con le categorie specifiche di donne proibite al kohen (gerushah, chalutza, zona, almanah per il kohen gadol). Figli di unioni proibite di israeliti non sono chalalim."
+    },
+    {
+      "n": 8,
+      "he": "כֹּהֵן שֶׁנָּשָׂא פְּנוּיָה וְהִיא זוֹנָה — אֵין לוֹ עָלֶיהָ כְּלוּם…",
+      "it": "Un kohen che ha una relazione con una donna non-sposata che è zona (ma non è nel contesto matrimoniale formale) — il figlio è chalal, poiché la zona è proibita al kohen. Tuttavia, se la donna è «penuya» (non sposata, di stato libero) e non è zona — c'è discussione se il figlio sia chalal o israelita ordinario, dipendentemente dal tipo di relazione (yichud illecito vs. matrimonio senza kiddushin ufficiali). Il Rambam conclude: in caso di dubbio sulla qualità chalal del figlio — lo si tratta con leniency nelle questioni pratiche della vita (matrimonio ecc.) ma con rigore quando si tratta di servizio nel Tempio."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chalal", "chalalah", "kedushah", "kedushat kehunah", "terumah", "bat kohen", "bat Yisrael", "kehunah", "gerushah", "chalutza", "zona", "kiddushin", "lavin"
+  ]
+}

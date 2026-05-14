@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 12-14",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים יב-יד",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 12-14",
+  "cycle": "rambam-3",
+  "date": "2026-12-05",
+  "hebrew_date": "26 Kislev 5787 — Chanukah giorno 2",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "12:1-5",
+      "he": "כֵּיצַד סוֹקְלִין — מַגְבִּיהִין אוֹתוֹ...",
+      "it": "(Sanhedrin cap. 12, hal. 1-5) La procedura della lapidazione (sekilah): i testimoni (che erano presenti al crimine e hanno dato l'avvertimento) spingono il condannato da un'altezza doppia della sua statura. Se sopravvive alla caduta — il primo testimone getta una pietra pesante sul suo cuore; se ancora non muore — il secondo testimone continua; se ancora sopravvive — tutti i presenti gettano pietre. Il condannato viene portato al luogo di esecuzione con un banditore che proclama il crimine, per permettere a chi conosce prove a sua difesa di presentarsi fino all'ultimo momento."
+    },
+    {
+      "n": "13:1-5",
+      "he": "הַנִּתְלִין — בְּגִידּוּפִים וּבְעוֹבֵד עֲבוֹדָה זָרָה...",
+      "it": "(Sanhedrin cap. 13, hal. 1-5) L'esposizione pubblica del corpo (teliyah — appesantimento): dopo la lapidazione, il corpo dei condannati per blasfemia e idolatria viene esposto su un palo per un breve periodo (fino al tramonto). Questo è «le-aliyah» — per l'avvertimento pubblico. La Torah comanda: «lo talin nivlato al ha-etz ki kaver tikbrennu» — non lasciare il cadavere sul palo durante la notte, seppelliscilo lo stesso giorno (Deuteronomio 21:23). Il rispetto per il corpo umano, anche del condannato, è un principio fondamentale. Chanukah 2: due candele — due testimoni necessari per ogni condanna."
+    },
+    {
+      "n": "14:1-4",
+      "he": "אֵין פּוֹרְסִין וֶרֶד עַל הַנִּדָּח...",
+      "it": "(Sanhedrin cap. 14, hal. 1-4) Il kever (sepoltura) del condannato: il condannato viene sepolto in una zona speciale riservata ai condannati dal beit din — non nella tomba di famiglia. Questa separazione dura fino alla decomposizione completa; dopo, le ossa vengono restituite alla famiglia. Il principio: «ve-ahavta le-re'acha kamocha» si applica persino ai giustiziati — il processo di giustizia punitiva non cancella la dignità umana fondamentale dell'individuo. Anche nella pena di morte, la Torah preserva il rispetto per l'essere umano."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sekilah", "teliyah", "lo talin nivlato al ha-etz", "kever", "beit din", "ve-ahavta le-re'acha kamocha"
+  ]
+}

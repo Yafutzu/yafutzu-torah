@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Maaser Sheni 11; Hilchot Bikkurim 1-2",
+  "name_he": "משנה תורה, הלכות מעשר שני פרק יא; הלכות בכורים פרקים א–ב",
+  "name_it": "Mishneh Torah, Leggi del Secondo Decimo cap.11; Leggi delle Primizie cap.1–2",
+  "cycle": "rambam-3",
+  "date": "2026-06-21",
+  "hebrew_date": "6 Tammuz 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "11:1",
+      "he": "נֶטַע רְבָעִי — פֵּרוֹת הַשָּׁנָה הָרְבִיעִית...",
+      "it": "Neta revai (il frutto del quarto anno): la Torah prescrive che i frutti di un albero nel suo quarto anno di crescita vengano portati a Gerusalemme e mangiati lì, come il Secondo Decimo (maaser sheni). Questi frutti hanno la stessa santità del maaser sheni e seguono le stesse leggi di riscatto. Si conclude qui il capitolo conclusivo delle Leggi del Secondo Decimo e del Neta Revai."
+    },
+    {
+      "n": "11:2",
+      "he": "כֵּיצַד פּוֹדִין נֶטַע רְבָעִי...",
+      "it": "Come si riscatta il neta revai: se non si possono portare i frutti a Gerusalemme (perché si è lontani), si riscattano aggiungendo un quinto al loro valore (chomesh). Il denaro del riscatto viene poi portato a Gerusalemme e speso lì in cibo. Questo è il sistema di riscatto identico a quello del maaser sheni."
+    },
+    {
+      "n": "11:3-5",
+      "he": "סִיּוּם הִלְכוֹת מַעֲשַׂר שֵׁנִי וְנֶטַע רְבָעִי...",
+      "it": "Si concludono le Leggi del Secondo Decimo e del Neta Revai. Il Rambam ha esposto in questi undici capitoli il sistema completo del maaser sheni — il decimo separato dalla produzione agricola israelita che veniva portato a Gerusalemme e consumato là in santità, come espressione della consacrazione dei frutti della terra al servizio divino."
+    },
+    {
+      "n": "1:1",
+      "he": "הַבִּכּוּרִים — מִצְוַת עֲשֵׂה לְהָבִיא בִּכּוּרִים...",
+      "it": "Hilchot Bikkurim: c'è un comandamento positivo di portare le primizie (bikkurim) al Tempio di Gerusalemme. Il versetto dice: 'Reishit bikkurei admatecha tavi beit Hashem Elohecha' — 'Le primizie dei frutti della tua terra porterai alla casa del Signore tuo Dio.' (Esodo 23:19). Queste primizie devono essere delle Sette Specie per cui la Terra d'Israele è lodata."
+    },
+    {
+      "n": "1:2",
+      "he": "אֵיזֶה הֵן שִׁבְעַת הַמִּינִין...",
+      "it": "Quali sono le Sette Specie? Grano (chitah), orzo (se'orah), uva (gefen), fico (te'enah), melograno (rimmon), oliva (zayit), e dattero (tamar). Come dice il versetto: 'Eretz chitah use'orah ve-gefen ve-te'enah ve-rimmon eretz zayit shemen u-devash' (Deuteronomio 8:8). Solo dai frutti di queste sette specie si porta il bikkurim con la dichiarazione solenne."
+    },
+    {
+      "n": "1:3-6",
+      "he": "כֵּיצַד מַפְרִישִׁין אֶת הַבִּכּוּרִים...",
+      "it": "Come si separano le primizie: quando il coltivatore vede i suoi frutti maturare per la prima volta, lega attorno ad esse uno spago dicendo 'Queste sono le primizie.' Poi, quando si porta il raccolto, si preleva la quantità migliore dei frutti per le primizie. Non c'è una misura minima prescritta, ma i Saggi raccomandano di non portarne meno di un sessantesimo del raccolto."
+    },
+    {
+      "n": "1:7-10",
+      "he": "מִי שֶׁקָּנָה שָׂדֶה בְּאֶרֶץ יִשְׂרָאֵל...",
+      "it": "Chi compra un campo in Terra d'Israele: anche l'acquirente è obbligato nel bikkurim, poiché il bikkurim dipende dal possesso della terra ('mi-reishit kol pri ha-adamah' — dai frutti della tua terra). Gli ebrei della Diaspora che non possiedono terra in Israele sono esenti dal bikkurim. I Leviti che non ricevono terreni (ma solo le città levitiche) sono esenti. I Kohanim che ricevono terreni portano il bikkurim senza la dichiarazione."
+    },
+    {
+      "n": "2:1",
+      "he": "מִקְרָא בִּכּוּרִים — הַפָּסוּק שֶׁאוֹמְרִים עַל הַבִּכּוּרִים...",
+      "it": "Il Mikra Bikkurim — la dichiarazione sui bikkurim: è il testo biblico che il portatore recita quando consegna le primizie al sacerdote. Inizia: 'Un arameo errante era mio padre' (Arami oved avi — Deuteronomio 26:5) e continua narrando la discesa in Egitto, l'oppressione, l'esodo e l'entrata nella Terra. Questa è una delle più antiche formule liturgiche ebraiche, ancora usata nella Haggadah di Pesach."
+    },
+    {
+      "n": "2:2-5",
+      "he": "מִי אוֹמֵר מִקְרָא בִּכּוּרִים...",
+      "it": "Chi recita il Mikra Bikkurim? Solo chi possiede terra in Israele recita la dichiarazione completa. I convertiti (gerim) possono portare il bikkurim ma non recitano la dichiarazione 'Arami oved avi' poiché i patriarchi non erano loro antenati biologici — ma Rabbi Yehudah e altri discutono. Il Rambam stabilisce che il ger porta il bikkurim ma non dice la dichiarazione. Le donne portano il bikkurim ma non recitano la dichiarazione."
+    },
+    {
+      "n": "2:6-9",
+      "he": "כֵּיצַד מַנִּיחַ אֶת הַסַּל...",
+      "it": "Come si deposita il cesto: il portatore delle primizie tiene il cesto sul capo mentre il sacerdote mette la mano sotto il cesto. Si recita la dichiarazione del Mikra Bikkurim. Poi si depone il cesto davanti all'altare e ci si prostra (hishtachavayah). Questo rituale fisico — il gesto, la parola e la prostrazione — unisce il corpo, la parola e lo spirito in un atto di riconoscimento della Fonte divina di tutta l'abbondanza."
+    }
+  ],
+  "_glossary_terms_used": ["bikkurim", "maaser sheni", "neta revai", "chomesh", "Sheva Minim", "Mikra Bikkurim", "Arami oved avi", "ger", "kohen", "levi", "hishtachavayah", "reishit", "admatecha"]
+}

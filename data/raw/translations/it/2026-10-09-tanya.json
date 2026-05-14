@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 17",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת יז",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 17",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-09",
+  "hebrew_date": "28 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת הַתּוֹרָה — כֵּלִים לְכָל הַבְּרִיאָה…",
+      "it": "Le ventidue lettere dell'aleph-bet ebraico sono i «vasi» (kelim) attraverso cui D-o ha creato il mondo — come insegna il Sefer Yetzirah (Libro della Formazione): D-o ha creato il mondo mediante «Sefer, Sippur e Sefar» (libro, narrazione e numero) — ovvero mediante le lettere, le parole e i numeri. L'Alter Rebbe spiega che ogni oggetto fisico nel mondo è, nella sua radice spirituale, una combinazione particolare di lettere ebraiche — un «tziruf» (combinazione) che D-o ha concepito prima della creazione fisica."
+    },
+    {
+      "n": 2,
+      "he": "צֵירוּפֵי אוֹתִיּוֹת — בּוֹרְאִים עוֹלָמוֹת…",
+      "it": "Le combinazioni (tzirufim) di lettere creano realtà — il Talmud racconta di Saggi che studiavano il Sefer Yetzirah e creavano animali (un vitello ogni settimana per i Saggi Chanina e Hoshaiah — Sanhedrin 65b). L'Alter Rebbe spiega che questo non era magia ma la comprensione profonda delle lettere divine — chi capisce pienamente le lettere divine attraverso le quali D-o ha creato l'oggetto, può in qualche misura «ricreare» quell'oggetto. Lo studio del Tanya è anch'esso un'interazione con le lettere primordiali."
+    },
+    {
+      "n": 3,
+      "he": "לִמּוּד הַתַּנְיָא — עִסּוּק בְּאוֹתִיּוֹת קְדוֹשׁוֹת…",
+      "it": "Lo studio del Tanya in sé — è un'interazione con le lettere sante (otiyot kedoshot) dell'Alter Rebbe, che sono a loro volta radicate nelle lettere della Torah. L'Alter Rebbe modestamente scrive che le sue parole non sono sue proprie — sono un canale per la saggezza divina. Il chasid che studia le lettere del Tanya con kavanah — «accende» le scintille divine contenute in esse e le eleva verso la loro fonte. Ogni lettera del Tanya è una «ner» (candela) che illumina l'oscurità spirituale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "aleph-bet", "kelim", "Sefer Yetzirah", "tziruf", "tzirufim", "otiyot kedoshot", "kavanah", "ner"
+  ]
+}

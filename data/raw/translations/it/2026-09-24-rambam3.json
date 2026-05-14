@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nizkei Mamon 5-7",
+  "name_he": "משנה תורה, הלכות נזקי ממון, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dei Danni ai Beni (Nizkei Mamon), capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-09-24",
+  "hebrew_date": "13 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "הַבּוֹר — מִי שֶׁחָפַר בּוֹר בִּרְשׁוּת הָרַבִּים וְנָפַל שָׁם אָדָם אוֹ בְּהֵמָה — חַיָּב בְּנִזְקֵיהֶם. הַבּוֹר צָרִיךְ לִהְיוֹת עֲשָׂרָה טְפָחִים לְמִיתָה.",
+      "it": "La fossa — chi ha scavato una fossa nel dominio pubblico e vi è caduta una persona o un animale — è responsabile dei danni. La fossa deve avere dieci spanne per la responsabilità di morte."
+    },
+    {
+      "n": "5:2",
+      "he": "פָּחוֹת מֵעֲשָׂרָה טְפָחִים — מְשַׁלֵּם נֵזֶק בְּלִי מִיתָה. בּוֹר בִּרְשׁוּת הַיָּחִיד — הַבְּעָלִים חַיָּבִים רַק אִם פָּתְחוּ אֶת הַכִּסּוּי.",
+      "it": "Meno di dieci spanne — si paga il danno senza responsabilità di morte. Una fossa nel dominio privato — i proprietari sono responsabili solo se hanno rimosso la copertura."
+    },
+    {
+      "n": "5:3",
+      "he": "כָּפָה עָלֶיהָ כְּלִי — פָּטוּר. כִּסָּה אוֹתָהּ כָּרָאוּי — פָּטוּר. עָקַר הָאַחֵר אֶת הַכִּסּוּי — הָאַחֵר חַיָּב.",
+      "it": "Se vi ha messo sopra un vaso — è esente. Se l'ha coperta adeguatamente — è esente. Se un altro ha rimosso la copertura — quell'altro è responsabile."
+    },
+    {
+      "n": "6:1",
+      "he": "הַמַּבְעֶה — זוֹ הַבְּהֵמָה שֶׁאָכְלָה פֵּרוֹת חֲבֵרוֹ בְּשָׂדֵהוּ. מְשַׁלֵּם נֵזֶק שָׁלֵם, שֶׁהָרֶגֶל מוּעֶדֶת לְאָכֵל.",
+      "it": "Il pascolo abusivo — è l'animale che ha mangiato i frutti del prossimo nel suo campo. Si paga il danno integrale, perché il piede è sempre recidivo nel mangiare."
+    },
+    {
+      "n": "6:2",
+      "he": "אָכְלָה בִּרְשׁוּת הָרַבִּים — פָּטוּר, שֶׁאֵין דֶּרֶךְ הַפֵּרוֹת לִהְיוֹת בִּרְשׁוּת הָרַבִּים.",
+      "it": "Se ha mangiato nel dominio pubblico — è esente, perché non è consueto che i frutti si trovino nel dominio pubblico."
+    },
+    {
+      "n": "6:3",
+      "he": "נִכְנְסָה לְרְשׁוּת הַנִּזָּק שֶׁלֹּא בִּרְשׁוּת — בְּעָלֶיהָ חַיָּבִין. נִכְנְסָה בִּרְשׁוּת — בְּעָלֶיהָ פְּטוּרִין.",
+      "it": "Se è entrata nel dominio della vittima senza permesso — il suo proprietario è responsabile. Se è entrata con permesso — il suo proprietario è esente."
+    },
+    {
+      "n": "7:1",
+      "he": "הָאֵשׁ שֶׁיָּצְאָה וּבָעֲרָה קוֹצִים — אֵין הַמַּצִּית חַיָּב עַל הַקּוֹצִים. אֲבָל אִם עָבְרָה הָאֵשׁ וְשָׂרְפָה שָׂדֶה שֶׁנִּמְצְאוּ בָּהּ גָּדִישׁ וְכֵלִים — חַיָּב.",
+      "it": "Il fuoco che si è propagato e ha bruciato delle spine — chi l'ha appiccato non è responsabile delle spine. Ma se il fuoco ha attraversato e bruciato un campo in cui si trovavano covoni e utensili — è responsabile."
+    },
+    {
+      "n": "7:2",
+      "he": "הָרוּחַ הוֹלֶכֶת אֶת הָאֵשׁ — הַמַּצִּית חַיָּב עַל כָּל מַה שֶּׁהָרוּחַ הוֹלֶכֶת אֶת הָאֵשׁ, שֶׁכֵּן דֶּרֶךְ הָאֵשׁ לָלֶכֶת בָּרוּחַ.",
+      "it": "Il vento porta il fuoco — chi lo ha appiccato è responsabile di tutto ciò che il vento porta il fuoco, perché è la natura del fuoco avanzare col vento."
+    },
+    {
+      "n": "7:3",
+      "he": "הֵסִית אַחֵר אֶת הָאֵשׁ — הַמֵּסִית חַיָּב. הַמַּצִּית בָּרִאשׁוֹנָה — פָּטוּר.",
+      "it": "Se un altro ha ridiretto il fuoco — chi l'ha ridiretto è responsabile. Chi l'ha appiccato originariamente — è esente."
+    }
+  ],
+  "_glossary_terms_used": ["bor", "mav'eh", "hev'er", "reshut harabim", "reshut hayachid", "regel"]
+}

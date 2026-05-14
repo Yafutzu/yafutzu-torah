@@ -1,0 +1,64 @@
+{
+  "ref": "Mishneh Torah, Vows 4-6",
+  "name_he": "משנה תורה, הלכות נדרים, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-05-23",
+  "hebrew_date": "7 Sivan 5786",
+  "halachot_count": 32,
+  "halachot": [
+    {
+      "n": "4:1",
+      "he": "כֵּיצַד מַתִּירִין אֶת הַנֵּדֶר. בָּא אֵצֶל חָכָם אֶחָד אוֹ אֵצֶל שְׁלֹשָׁה הֶדְיוֹטוֹת…",
+      "it": "(Cap. 4, hal. 1) Come si scioglie un voto? Chi si avvicina a un saggio competente (chakham), o in mancanza di un saggio a tre laici che possano fungere da tribunale, e mostra pentimento (charatah) o un «petach» (apertura — una circostanza che, se nota al momento del voto, ne avrebbe impedito la formulazione) — il saggio o il tribunale possono sciogliere il voto. Una volta sciolto, il voto è privo di effetto retroattivamente, come se non fosse mai stato pronunciato."
+    },
+    {
+      "n": "4:2-4",
+      "he": "אֵי זֶהוּ פֶּתַח. אָמַר נֶדֶר זֶה אִם הָיִיתִי יוֹדֵעַ שֶׁחֲבֵרַי כּוֹעֲסִין עָלַי…",
+      "it": "(Cap. 4, hal. 2-4) Cos'è il «petach» (apertura)? Chi dice: «Avevo fatto questo voto — se avessi saputo che i miei amici si sarebbero adiirati con me, non avrei fatto voto» — questa è un'apertura, e il saggio può sciogliere il voto su questa base. Similmente: «Non sapevo che mia moglie sarebbe rimasta incinta» o «Non sapevo che il voto mi avrebbe causato questa perdita» — sono aperture valide. La regola: qualsiasi fatto o circostanza che, se nota al momento del voto, avrebbe portato il votante a non fare il voto — è un petach valido. Le halachot 3-4 specificano: le distinzioni tra petach valido e petach invalido; il caso del petach «de-milta» (apertura dal contenuto stesso del voto); e l'apertura dell'onore dei genitori o dell'onore personale."
+    },
+    {
+      "n": "4:5-8",
+      "he": "כֵּיצַד הִיא הַחֲרָטָה. הַנּוֹדֵר אוֹמֵר לֶחָכָם: קֹנָם עָלַי יַיִן לְעוֹלָם…",
+      "it": "(Cap. 4, hal. 5-8) Come funziona il pentimento (charatah)? Chi dice al saggio: «Avevo fatto voto konam sul vino per sempre» e il saggio gli chiede: «Se non avessi fatto voto, lo avresti fatto adesso?» e risponde: «No» — questa è charatah sufficiente per lo scioglimento. Il saggio dichiara: «Mutar lakh» («Ti è permesso») o «Shalosh pe'amim mutar lakh» («Tre volte ti è permesso»). Le halachot 6-8 specificano: il processo preciso dello scioglimento; se lo scioglimento può essere per parte del voto o deve essere totale; il caso in cui uno scioglie il voto da solo senza saggio; e il fatto che il pentimento deve essere sincero e non strategico."
+    },
+    {
+      "n": "4:9-14",
+      "he": "נֵדֶר שֶׁנִּדְרוּ בוֹ רַבִּים — אֵינוֹ נִפְתָּח לְאֶחָד מֵהֶם…",
+      "it": "(Cap. 4, hal. 9-14) Un voto fatto da molti — non può essere sciolto per uno di loro se non per tutti insieme, poiché il voto lega tutti collettivamente. Le halachot 9-14 dettagliano: il caso del voto di una comunità (tzibbur); chi può sciogliere un voto — ogni saggio ordinato (musmakh) può sciogliere da solo; tre laici competenti possono sciogliere ma non un saggio non ordinato da solo; il voto formulato senza pietà per se stessi (devar mitzvah); i voti che non possono essere sciolti (ad esempio chi fa voto di non recare danno a un altro — non si scioglie senza il consenso dell'altro); la regola che il saggio non può sciogliere il proprio voto."
+    },
+    {
+      "n": "5:1",
+      "he": "הַבַּעַל מֵפֵר נִדְרֵי אִשְׁתּוֹ בְּיוֹמוֹ…",
+      "it": "(Cap. 5, hal. 1) Il marito può annullare (mefer) i voti di sua moglie nello stesso giorno in cui li ha sentiti — come è detto: «Il marito può annullarli» (Numeri 30:9). L'annullamento del marito è diverso dallo scioglimento del saggio: lo scioglimento del saggio agisce retroattivamente (il voto non è mai esistito); l'annullamento del marito agisce da quel momento in avanti (il voto esisteva ma è ora privo di effetto). Se il marito non annulla il voto entro il giorno stesso (toch yom sham'o) — il voto rimane valido."
+    },
+    {
+      "n": "5:2-6",
+      "he": "אֵי זֶה הוּא נֵדֶר שֶׁהַבַּעַל מֵפֵר אוֹתוֹ…",
+      "it": "(Cap. 5, hal. 2-6) Quali voti può annullare il marito? Solo i voti che «afflliggono l'anima» (inuy nefesh) — come digiuni, astinenze dal bagno, dall'unzione, dai rapporti coniugali — e i voti che riguardano le relazioni tra moglie e marito (devarim she-beinam). Ma non i voti che riguardano le sue relazioni con altri (ad esempio «konam se parlerò con tal persona» — se il marito non è coinvolto). Le halachot 3-6 specificano: voti che il marito annulla anche se non riguardano direttamente se stesso (ad esempio «konam se mangerò»); il caso in cui la moglie è in viaggio e il marito annulla in absentia; l'obbligo del marito di ascoltare il voto prima di poterlo annullare; il caso del voto sentito da altri che lo riferiscono al marito."
+    },
+    {
+      "n": "5:7-12",
+      "he": "הֶחֱרִישׁ הַבַּעַל לְאַחַר שֶׁשָּׁמַע — קִיֵּם אֶת הַנֵּדֶר…",
+      "it": "(Cap. 5, hal. 7-12) Se il marito ha taciuto dopo aver sentito il voto — ha confermato il voto e non può più annullarlo. Il silenzio vale come approvazione (shtikah ke-haskamah). Le halachot 8-12 specificano: il marito che inizialmente annulla ma poi si pente — non può revocare l'annullamento; il caso del marito che annulla parzialmente («metà del tuo voto è annullato»); il marito che dice «so che tua madre ti ha fatto fare questo voto — ti permetto» (annullamento condizionale); il marito che muore nello stesso giorno del voto; il marito che diventa sordo dopo aver sentito il voto; e il marito non conscio delle implicazioni del voto."
+    },
+    {
+      "n": "6:1",
+      "he": "אֵי זֶה הוּא נֵדֶר שֶׁהָאָב מֵפֵר לְבִתּוֹ…",
+      "it": "(Cap. 6, hal. 1) Quale voto può annullare il padre a sua figlia? Il padre può annullare i voti di sua figlia nubile (na'arah be-veit avihah — «giovane nella casa di suo padre»), cioè: minor di dodici anni con segni di maturità oppure tra i dodici e i dodici anni e mezzo (na'arah). Prima dei dodici anni (ketanah) — i voti non hanno effetto legale. Dopo i dodici anni e mezzo (bogeret) — il padre non può più annullare."
+    },
+    {
+      "n": "6:2-6",
+      "he": "הָאָב שֶׁשָּׁמַע נֵדֶר בִּתּוֹ וְשָׁתַק — קִיֵּם אֶת הַנֵּדֶר…",
+      "it": "(Cap. 6, hal. 2-6) Il padre che ha sentito il voto di sua figlia e ha taciuto — ha confermato il voto e non può più annullarlo. Le halachot 2-6 specificano: il padre che muore dopo aver sentito il voto; il padre che diventa sordo; il voto della figlia sposata — se è nubile e poi si sposa nel giorno stesso del voto, sia il padre che il marito devono annullare insieme; il padre non può annullare il voto di una figlia bogeret; l'eccezione dei voti di inuy nefesh per la figlia fidanzata (erusin) — sia il padre che il futuro marito devono annullare; se uno dei due annulla da solo — il voto rimane."
+    },
+    {
+      "n": "6:7-10",
+      "he": "הָאָב וְהַבַּעַל שֶׁקִּיְּמוּ אֶת הַנֵּדֶר אוֹ שֶׁהֵפֵרוּ — אֵין אַחַר הַהֶפֵּר כְּלוּם…",
+      "it": "(Cap. 6, hal. 7-10) Se sia il padre che il marito hanno confermato il voto — non può più essere annullato. Se entrambi hanno annullato — il voto è annullato. Le halachot 8-10 approfondiscono: il caso in cui la figlia è maggiorenne ma ancora in casa del padre (bogeret she-ikvelah avihah); il voto della figlia orfana di padre — solo il marito può annullare; il voto della vedova o divorziata — né padre né marito possono annullare, e il voto rimane sulla donna; la regola conclusiva: la donna autonoma (panu'yah) porta da sola la responsabilità dei propri voti e solo un saggio può scioglierli, non un marito o padre."
+    }
+  ],
+  "_glossary_terms_used": [
+    "petach", "charatah", "chakham", "mefer", "inuy nefesh", "na'arah", "ketanah", "bogeret", "erusin", "tzibbur", "musmakh", "devar mitzvah", "toch yom sham'o", "shtikah ke-haskamah", "konam"
+  ]
+}

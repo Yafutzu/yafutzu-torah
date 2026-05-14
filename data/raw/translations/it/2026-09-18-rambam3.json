@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 26-28",
+  "name_he": "משנה תורה, הלכות כלים, פרקים כו-כח",
+  "name_it": "Mishneh Torah, Leggi dei Vasi (Kelim), capitoli 26-28",
+  "cycle": "rambam-3",
+  "date": "2026-09-18",
+  "hebrew_date": "7 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "26:1",
+      "he": "גְּזֵרַת טֻמְאָה מִדְּרַבָּנָן: חֲכָמִים גָּזְרוּ טֻמְאָה עַל כֵּלִים מִסּוּגִים שׁוֹנִים שֶׁלֹּא הָיוּ מְקַבְּלִים טֻמְאָה מִן הַתּוֹרָה.",
+      "it": "Decreto rabbinico di impurità: i Saggi hanno decretato l'impurità su vasi di vari tipi che non ricevevano impurità dalla Torah."
+    },
+    {
+      "n": "26:2",
+      "he": "כֵּיצַד? כְּלֵי אֶבֶן — אֵינָם מְקַבְּלִים טֻמְאָה מִן הַתּוֹרָה, אֲבָל חֲכָמִים גָּזְרוּ עֲלֵיהֶם טֻמְאָה בְּמִקְרִים מְסוּיָּמִים.",
+      "it": "Come? I vasi di pietra non ricevono impurità dalla Torah, ma i Saggi ne hanno decretato l'impurità in determinati casi."
+    },
+    {
+      "n": "26:3",
+      "he": "כָּל גְּזֵרָה שֶׁגָּזְרוּ חֲכָמִים — גָּזְרוּ לְהַגֵּן עַל טָהֳרוֹת הַתְּרוּמָה וְהַקֹּדֶשׁ, וּלְהַגְדִּיל זְהִירוּת הָעָם בְּדִינֵי טֻמְאָה.",
+      "it": "Ogni decreto che i Saggi hanno emanato era per proteggere la purità delle terumot e del sacro, e per aumentare la vigilanza del popolo nelle leggi dell'impurità."
+    },
+    {
+      "n": "27:1",
+      "he": "סָפֵק כֵּלִים — כְּלוֹמַר כְּלִי שֶׁיֵּשׁ סָפֵק אִם הָיָה כְּלִי קֹדֶם שֶׁנִּטְמָא — הוֹלְכִים בּוֹ לְחֻמְרָה בְּקֹדֶשׁ וּלְקוּלָא בִּתְרוּמָה.",
+      "it": "Dubbio sui vasi — cioè un vaso riguardo al quale vi è incertezza se fosse un vaso prima di essere reso impuro — si va verso la severità nel sacro e verso la lenienza nelle terumot."
+    },
+    {
+      "n": "27:2",
+      "he": "כְּלִי שֶׁנִּמְצָא טָמֵא בִּרְשׁוּת הָרַבִּים — טָהוֹר, שֶׁסְּפֵק טֻמְאָה בִּרְשׁוּת הָרַבִּים טָהוֹר.",
+      "it": "Un vaso trovato impuro nel dominio pubblico è puro, perché il dubbio di impurità nel dominio pubblico è puro."
+    },
+    {
+      "n": "27:3",
+      "he": "כְּלִי שֶׁנִּמְצָא טָמֵא בִּרְשׁוּת הַיָּחִיד — טָמֵא, שֶׁסְּפֵק טֻמְאָה בִּרְשׁוּת הַיָּחִיד טָמֵא.",
+      "it": "Un vaso trovato impuro nel dominio privato è impuro, perché il dubbio di impurità nel dominio privato è impuro."
+    },
+    {
+      "n": "28:1",
+      "he": "הַגּוֹמֵר אֶת הַכְּלִי לְאַחַר שֶׁנִּטְמָא — הַכְּלִי טָמֵא. הַגּוֹמֵר קֹדֶם שֶׁנִּטְמָא — בְּנֵי גְּמִירָה הַמִּטַּמְּאִים הֵם עִמּוֹ.",
+      "it": "Chi completa un vaso dopo che è stato reso impuro — il vaso è impuro. Chi lo completa prima che sia stato reso impuro — gli elementi di completamento si impurificano con esso."
+    },
+    {
+      "n": "28:2",
+      "he": "נִגְמַר הַכְּלִי וְאַחַר כָּך נִשְׁבַּר וְחָזַר וְחִבְּרוֹ — טָהוֹר, שֶׁהַשְּׁבִירָה מְטַהֶרֶת.",
+      "it": "Se il vaso è stato completato, poi si è rotto, poi è stato riparato — è puro, perché la rottura purifica."
+    },
+    {
+      "n": "28:3",
+      "he": "נִגְמְרוּ הִלְכוֹת כֵּלִים. אֵלּוּ הֵן הַהִלְכוֹת שֶׁעָסַקְנוּ בָּהֶן בְּסֵפֶר טָהֳרָה בְּעִנְיַן כֵּלִים. מִכָּאן יָבוֹאוּ הִלְכוֹת מִקְוָאוֹת.",
+      "it": "Si concludono le Leggi dei Vasi (Hilchot Kelim). Queste sono le leggi che abbiamo trattato nel Libro della Purità riguardo ai vasi. Da qui vengono le Leggi dei Bagni Rituali (Hilchot Mikvaot)."
+    }
+  ],
+  "_glossary_terms_used": ["gezeirat tumah", "safek kelim", "reshut harabim", "reshut hayachid", "shvirah", "taharah"]
+}

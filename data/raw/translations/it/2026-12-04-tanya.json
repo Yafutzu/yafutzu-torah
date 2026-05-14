@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 32",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לב",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 32",
+  "cycle": "tanya-yomi",
+  "date": "2026-12-04",
+  "hebrew_date": "25 Kislev 5787 — Chanukah giorno 1",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כָּל יִשְׂרָאֵל נְשָׁמָה אַחַת — מְחֻלֶּקֶת לְגוּפִים רַבִּים...",
+      "it": "Il capitolo più famoso del Tanya — il capitolo dell'ahavat Yisrael (amore verso ogni ebreo). L'Alter Rebbe insegna: tutte le anime ebraiche sono in realtà «neshamah achat» — un'anima sola, divisa in molti corpi. Il paradosso: sono molti individui eppure una realtà spirituale unica. Questa unità non è metaforica — è ontologica, reale a livello delle radici delle anime. Chanukah 1: la prima candela illumina il buio — la prima dimensione dell'unità ebraica è il riconoscimento della fonte comune."
+    },
+    {
+      "n": 2,
+      "he": "אַהֲבַת יִשְׂרָאֵל — אַהֲבָה עַצְמִית...",
+      "it": "Amare un altro ebreo è amare un'altra parte di se stessi. L'Alter Rebbe usa la metafora degli arti del corpo: nessun arto «invidia» un altro arto; nessuna mano è gelosa dell'altra. Questa è ahavat etzem — amore per l'essenza, non per qualità esterne. Il livello più profondo dell'ahavat Yisrael non dipende dai meriti dell'altro ebreo, dalla sua osservanza, o dalla sua simpatia — dipende unicamente dal fatto che è una parte dell'anima unica di Israele. Chanukah: le candele accese vicine l'una all'altra formano un'unica luce — così ogni ebreo contribuisce alla luce comune."
+    },
+    {
+      "n": 3,
+      "he": "הַנֵּרוֹת הַמְאוּחָדִים שֶׁל חֲנֻכָּה — אַחְדוּת הַנְּשָׁמוֹת...",
+      "it": "Il Menorah di Chanukah: ogni candela è un'anima individuale ebraica, ma insieme formano un'unica illuminazione. Il miracolo di Chanukah avvenne per il popolo intero (pirsumei nisa — pubblicizzazione del miracolo verso tutti) — non per individui isolati. L'Alter Rebbe continua: dalla comprensione che ogni ebreo è parte della stessa anima unica, deriva automaticamente il perdono delle offese («echad ha-sone'o ve-echad ha-oheivo» — colui che lo odia e colui che lo ama sono entrambi parti della stessa anima). Come puoi odiare te stesso?"
+    }
+  ],
+  "_glossary_terms_used": [
+    "ahavat Yisrael", "neshamah achat", "ahavat etzem", "pirsumei nisa", "Menorah", "Chanukah"
+  ]
+}

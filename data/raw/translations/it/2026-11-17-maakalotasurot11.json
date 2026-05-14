@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 11",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק יא",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 11",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-17",
+  "hebrew_date": "8 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יַיִן שֶׁנִּתְנַסֵּךְ לַעֲבוֹדָה זָרָה — אָסוּר בַּהֲנָאָה…",
+      "it": "Il vino che è stato versato come libagione all'idolatria (yayin nesech) — è proibito in qualsiasi beneficio (asur be-hana'ah). Questo è uno dei divieti più severi della Torah. Chi beve yayin nesech o ne trae beneficio — ha violato un divieto della Torah e merita la flagellazione. Il vino non può essere venduto, dato ai non ebrei, o usato per qualsiasi scopo pratico. Persino la botte che conteneva il vino-libagione richiede purificazione."
+    },
+    {
+      "n": 2,
+      "he": "יֵין שֶׁנָּגַע בּוֹ הָעוֹבֵד כּוֹכָבִים — אָסוּר בִּשְׁתִיָּה…",
+      "it": "Il vino toccato da un non ebreo (stam yeinam — «vino generico» di non ebrei) — è proibito nel bere. Il Rambam distingue tra yayin nesech (proibito in qualsiasi beneficio, per legge biblica) e stam yeinam (proibito nel bere, ma il beneficio economico è permesso secondo opinioni; il Rambam è stringente). La proibizione di stam yeinam è rabbinica, non biblica."
+    },
+    {
+      "n": 3,
+      "he": "מַה טַּעַם גָּזְרוּ עַל יֵינָם — מִפְּנֵי בְּנוֹתֵיהֶם…",
+      "it": "Quale ragione è stata data per il decreto sui loro vini? A causa delle loro figlie (mi-penei venotehem). I Saggi spiegano: mangiare e bere insieme porta all'intimità sociale; l'intimità sociale porta al matrimonio misto. Il decreto sul vino dei non ebrei è dunque una «recinzione» (geder) contro il rischio di intermarriage che avrebbe minacciato la continuità del popolo ebraico. Questo è un esempio classico di «misura preventiva» (takanah) che i Saggi hanno emanato per proteggere l'identità ebraica."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד נַעֲשֶׂה הַיַּיִן יֵין נֶסֶךְ — בְּנֶסֶךְ מַמָּשׁ…",
+      "it": "Come diventa il vino yayin nesech? Mediante un atto effettivo di libagione idolatrica — il non ebreo versa il vino o lo designa esplicitamente all'idolo. Non basta la semplice presenza di un idolatra vicino al vino. Tuttavia se un non ebreo ha afferrato la botte o toccato il vino con intenzione di libagione — anche questo lo rende yayin nesech secondo la maggior parte delle autorità."
+    },
+    {
+      "n": 5,
+      "he": "הָעוֹבֵד כּוֹכָבִים שֶׁנָּגַע בְּיֵין שֶׁלָּנוּ בְּלֹא כַּוָּנָה — בְּשׁוֹגֵג…",
+      "it": "Un non ebreo che ha toccato il nostro vino accidentalmente, senza intenzione di libagione — secondo il Rambam il vino diventa stam yeinam (proibito nel bere) ma non yayin nesech. La distinzione è fondamentale: yayin nesech presuppone un atto intenzionale di consacrazione all'idolo, mentre stam yeinam è il risultato del semplice contatto fisico di un non ebreo con il vino ebraico."
+    },
+    {
+      "n": 6,
+      "he": "גֵּר תּוֹשָׁב — הַיַּיִן שֶׁנָּגַע בּוֹ — יֵשׁ מִי שֶׁמַּתִּיר…",
+      "it": "Un ger toshav (straniero residente che ha accettato le sette leggi noachidi) — il vino che ha toccato: vi è chi lo permette nel bere. Il Rambam discute questa questione poiché il ger toshav non pratica l'idolatria e dunque il decreto non si applica a lui con la stessa forza. Il timore di miscegenazione è ridotto riguardo a qualcuno che vive secondo i valori morali fondamentali."
+    },
+    {
+      "n": 7,
+      "he": "יֵין שֶׁל עוֹבְדֵי כּוֹכָבִים שֶׁנִּמְצָא בַּחֲנוּתוֹ שֶׁל יִשְׂרָאֵל — מֻתָּר…",
+      "it": "Vino di non ebrei trovato nel negozio di un ebreo — è permesso, poiché si presume che il proprietario ebreo ne abbia assunto la custodia e lo abbia utilizzato. La regola generale: là dove vi è chazakah (presunzione giuridica) che il vino non sia stato toccato da non ebrei, o che sia stato custodito correttamente — si può fare affidamento sulla presunzione. La kasherut del vino dipende dunque non solo dall'origine ma anche dalla catena di custodia."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yayin nesech", "stam yeinam", "asur be-hana'ah", "geder", "takanah", "ger toshav", "chazakah", "mi-penei venotehem"
+  ]
+}

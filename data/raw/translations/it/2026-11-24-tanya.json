@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 22",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כב",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 22",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-24",
+  "hebrew_date": "15 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְהִנֵּה הַתּוֹרָה נִקְרֵאת «דְּבַר ה'» — וְהַמִּצְווֹת נִקְרָאוֹת «רְצוֹן ה'»…",
+      "it": "La Torah è chiamata «Devar Hashem» — la Parola di D-o — e le mitzvot sono chiamate «Retzon Hashem» — il Volere di D-o. L'Alter Rebbe distingue due dimensioni del divino: la Parola e il Volere. Lo studio della Torah crea un legame con la dimensione intellettuale e verbale del divino — l'intelletto dell'ebreo si unisce all'intelletto divino. Il compimento delle mitzvot crea un legame con la dimensione volitiva del divino — la volontà dell'ebreo si unisce alla Volontà divina."
+    },
+    {
+      "n": 2,
+      "he": "שְׁנֵיהֶם יַחַד יוֹצְרִים אֶת הַשְּׁלֵמוּת…",
+      "it": "Insieme — Torah e mitzvot — creano la completezza del servizio divino. La Torah senza mitzvot è un intelletto che comprende ma non agisce; le mitzvot senza Torah sono un'azione senza comprensione. Il Tanya insegna che l'ebreo ideale unisce entrambe le dimensioni: studia la Torah con profondità e compie le mitzvot con dedizione. Ma per il beinoni che è costretto a scegliere tra tempo per lo studio e tempo per l'azione — l'Alter Rebbe stabilisce la priorità assoluta del «fare»."
+    },
+    {
+      "n": 3,
+      "he": "הָעִיקָּר הוּא הַמַּעֲשֶׂה — כְּמוֹ שֶׁנֶּאֱמַר — לֹא הַמִּדְרָשׁ הוּא הָעִיקָּר אֶלָּא הַמַּעֲשֶׂה…",
+      "it": "Il principale è l'azione — come hanno detto i Saggi: «Non lo studio è il principale ma l'azione» (Pirkei Avot 1:17). L'Alter Rebbe cita questo insegnamento per concludere il capitolo: sebbene lo studio della Torah sia di valore immenso e in certi ambiti equivalga a tutte le mitzvot insieme, nell'ordine pratico delle priorità l'azione viene prima. Una persona non può permettersi di studiare Torah come scusa per non compiere le mitzvot. Il «fare» è la prova ultima e il frutto genuino di tutto l'apprendimento."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Devar Hashem", "Retzon Hashem", "Torah", "mitzvot", "beinoni", "ha-ikar hu ha-ma'aseh"
+  ]
+}

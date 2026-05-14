@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Tzara'at 8-10",
+  "name_he": "משנה תורה, הלכות טומאת צרעת, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità della Tzara'at, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-08-23",
+  "hebrew_date": "10 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "נגעי בגדים — יכולים לבוא על צמר, פשתן ועור. הסימן: ירוקת או אדמדמת עמוקה בבגד.",
+      "it": "Le afflizioni degli abiti (nega'ei begadim) — possono apparire su lana, lino e pelle. Il segno: una macchia verde o rossa intensa nell'abito."
+    },
+    {
+      "n": "8:2",
+      "he": "כיצד בודק הכהן בגד? מסגירו שבעה ימים — ואם פשה — טמא. אם לא פשה — מכבסו ומסגיר שבוע שני.",
+      "it": "Come esamina il Kohen un abito? Lo mette in quarantena (hesger) per sette giorni — e se l'afflizione si è espansa — è impuro. Se non si è espansa — lo si lava e lo si mette in quarantena una seconda settimana."
+    },
+    {
+      "n": "8:3",
+      "he": "שבוע שני — אם פשה — ישרף. אם כהה — יקרע המקום הנגוע ויכבס הבגד. אם חזר — ישרף.",
+      "it": "Seconda settimana — se si è espansa — viene bruciato. Se si è attenuata — si strappa la parte affetta e si lava l'abito. Se ritorna — viene bruciato."
+    },
+    {
+      "n": "9:1",
+      "he": "נגע 'פרחח' — שעמד ולא פשה — אם יש בו צבע עמוק בכל הבגד — ישרף. אם לא — יכבס.",
+      "it": "Un'afflizione 'porach' (che copre tutto il tessuto in modo uniforme senza espansione progressiva) — se è di colore intenso in tutto l'abito — viene bruciato. Se no — viene lavato."
+    },
+    {
+      "n": "9:2",
+      "he": "בגד שנגעו ספק — מכבסים אותו. ואם לאחר כיבוס הנגע חזר — טמא.",
+      "it": "Un abito la cui afflizione è dubbiosa — lo si lava. Se dopo il lavaggio l'afflizione ritorna — è impuro."
+    },
+    {
+      "n": "9:3",
+      "he": "כלל: בגד שנשרף מחמת צרעת — אסור ליהנות ממנו בשום פנים ואופן.",
+      "it": "Regola: un abito bruciato a causa della tzara'at — è proibito usufruire di esso in alcun modo."
+    },
+    {
+      "n": "10:1",
+      "he": "נגעי בתים — דיניהם רק בארץ ישראל. הסימן: ירוקת או אדמדמת עמוקה בקיר הבית.",
+      "it": "Le afflizioni delle case (nega'ei batim) — le loro leggi si applicano solo nella Terra d'Israele. Il segno: una macchia verde o rossa intensa nel muro della casa."
+    },
+    {
+      "n": "10:2",
+      "he": "ראה הכהן — מסגיר את הבית שבעה ימים. ואחרי שבעה ימים — חוזר לראות. אם פשה — חולץ את האבנים הנגועות ומגרד את הבית.",
+      "it": "Il Kohen esamina — mette la casa in quarantena per sette giorni. Dopo sette giorni — ritorna a esaminare. Se l'afflizione si è espansa — si rimuovono le pietre affette e si raschia la casa."
+    },
+    {
+      "n": "10:3",
+      "he": "אם חזר הנגע לאחר החליצה — יהרוס הבית לגמרי. ומוציאים את האבנים מחוץ לעיר.",
+      "it": "Se l'afflizione ritorna dopo la rimozione delle pietre — la casa viene demolita completamente. Le pietre vengono portate fuori dalla città."
+    },
+    {
+      "n": "10:4",
+      "he": "הבית שנטמא בצרעת — כל הכלים שבתוכו כשנכנס הכהן לראות — טמאים.",
+      "it": "La casa che è diventata impura per tzara'at — tutti gli utensili che si trovano al suo interno quando il Kohen entra per esaminare — diventano impuri."
+    },
+    {
+      "n": "10:5",
+      "he": "בית שנטהר — צריך לטהרו בשתי ציפורים ועץ ארז ואזוב ושני תולעת, כבטהרת המצורע.",
+      "it": "Una casa che viene purificata — deve essere purificata con due uccelli, legno di cedro, issopo e filo scarlatto, come la purificazione del metzora."
+    },
+    {
+      "n": "10:6",
+      "he": "בית שנהרס מחמת צרעת — אסור לבנותו מחדש באותו מקום, שנאמר: 'ונתץ את הבית, את אבניו ואת עציו ואת כל עפר הבית'.",
+      "it": "Una casa demolita a causa della tzara'at — è proibito ricostruirla nello stesso luogo, come è detto: 'E abbatterà la casa, le sue pietre, i suoi legni e tutto l'intonaco della casa' (Levitico 14:45) — tutto va portato via."
+    }
+  ],
+  "_glossary_terms_used": ["nega'ei begadim", "Kohen", "hesger", "nega'ei batim", "metzora"]
+}

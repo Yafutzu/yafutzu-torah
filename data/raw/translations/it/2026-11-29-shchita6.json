@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 6",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק ו",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-29",
+  "hebrew_date": "20 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַחֵלֶב — אָסוּר בַּאֲכִילָה…",
+      "it": "Il chelev (grasso proibito — il grasso addominale specifico degli animali domestici) — è proibito nel mangiare. La proibizione è biblica: «Qualsiasi grasso di bue, pecora, o capra — non mangerete» (Vayikra 7:23). La violazione è punita con karet (escissione spirituale). Il chelev è distinto dal shuman (grasso permesso — come il grasso intramuscolare e quello sotto la pelle). Dopo la shechitah, prima che la carne possa essere mangiata, il «menakker» (colui che rimuove) deve eseguire il nikur (rimozione del chelev)."
+    },
+    {
+      "n": 2,
+      "he": "הַגִּיד הַנָּשֶׁה — אָסוּר בַּאֲכִילָה…",
+      "it": "Il gid ha-nasheh (il nervo sciatico) — è proibito nel mangiare. La proibizione è in memoria della lotta di Yaakov con l'angelo: «Perciò i figli di Israele non mangiano il gid ha-nasheh... fino ad oggi» (Bereishit 32:33). Il gid ha-nasheh si trova nelle zampe posteriori (yarech) dell'animale. La sua rimozione è parte dell'opera del menakker — operazione delicata e complessa che richiede formazione specifica."
+    },
+    {
+      "n": 3,
+      "he": "מְלֶאכֶת הַמְּנַקֵּר — מְלָאכָה הִיא…",
+      "it": "L'opera del menakker (colui che rimuove il chelev e il gid ha-nasheh) — è un'arte specializzata. Il menakker deve conoscere l'anatomia dell'animale con precisione — dove si trova il chelev nei bovini, negli ovini, nei caprini; dove passano le vene di grasso proibito nei diversi organi. Un menakker incompetente che ha lasciato chelev nella carne — rende la carne proibita. L'ufficio del menakker è tradizionale e i procedimenti vengono tramandati di maestro in allievo."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד מְנַקְּרִין — הַחֵלֶב שֶׁעַל הַכְּרֵס…",
+      "it": "Come si esegue il nikur? Il chelev che copre lo stomaco (kreis) — viene rimosso completamente. Il chelev che è sopra i reni — rimosso. Il chelev che è intorno alla milza e al fegato — rimosso. Il chelev che è intorno ai muscoli dell'anca (yerech) — rimosso. In pratica, ogni strato di grasso bianco lucido nell'area addominale è sospetto come chelev e richiede ispezione del menakker. Il grasso intramuscolare scuro e marmorizzato (shuman) — permesso."
+    },
+    {
+      "n": 5,
+      "he": "חֵלֶב שֶׁנִּתְבַּשֵּׁל עִם הַבָּשָׂר — אָסוּר…",
+      "it": "Il chelev che è stato cotto con la carne — l'intera pietanza è proibita, poiché il sapore del chelev si è trasferito alla carne (ta'am ke-ikar). Il chelev che si trova nella carne dopo la shechitah e prima del nikur — non si può cucinare la carne fino al completamento del nikur. Questo spiega perché la carne kasher — anche dopo la shechitah valida — deve passare attraverso il processo di nikur prima di arrivare al consumatore."
+    },
+    {
+      "n": 6,
+      "he": "הַכָּבֵד — צְרִיכָה צְלִיָּה…",
+      "it": "Il fegato (kaved) — richiede arrostimento (tzliya) al fuoco, non solo salatura, perché è saturo di sangue che non può essere eliminato completamente con la sola salatura. Il fegato viene inciso, arrostito, e poi lavato. Solo dopo questo processo il fegato è permesso. La salatura ordinaria (melicha) non è sufficiente per il fegato — questa è una regola specifica dell'halachah della kasherut che si applica indipendentemente dalla shechitah."
+    },
+    {
+      "n": 7,
+      "he": "דַּם — אָסוּר בַּאֲכִילָה — כָּל דַּם לֹא תֹאכֵלוּ…",
+      "it": "Il sangue — è proibito nel mangiare: «Qualsiasi sangue non mangerete» (Vayikra 7:26). La proibizione riguarda il sangue dei mammiferi e degli uccelli; il sangue di pesce è permesso. Il processo di salatura (melicha) e lavaggio serve a estrarre il sangue dalla carne dopo la shechitah. La salatura deve avvenire entro 72 ore dalla shechitah (o dopo che la carne è stata lavata). Il sangue che rimane nell'interno dei vasi sanguigni profondi — viene eliminato durante la cottura."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chelev", "shuman", "gid ha-nasheh", "menakker", "nikur", "karet", "ta'am ke-ikar", "melicha", "kaved", "tzliya"
+  ]
+}

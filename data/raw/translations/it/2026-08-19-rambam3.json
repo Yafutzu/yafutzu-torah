@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Parah Adumah 11-13",
+  "name_he": "משנה תורה, הלכות פרה אדומה, פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi della Vacca Rossa, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-08-19",
+  "hebrew_date": "6 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "11:1",
+      "he": "מי חטאת — אסור לשתותם. ואפילו להשתמש בהם לשאר דברים — אסור.",
+      "it": "Le mei chatat (le acque della purificazione della vacca rossa) — è proibito berle. E anche usarle per altri scopi — è proibito."
+    },
+    {
+      "n": "11:2",
+      "he": "מי חטאת שנשתיירו אחר ז' ימים — פסולים. ואין מזין מהם.",
+      "it": "Le mei chatat che rimangono dopo sette giorni — sono invalide. Non si asperge con esse."
+    },
+    {
+      "n": "11:3",
+      "he": "מי חטאת שנשפכו — חוזרים ועושים מי חטאת חדשים. אין להם תקנה אחרת.",
+      "it": "Se le mei chatat furono versate — si preparano nuove mei chatat. Non vi è altra soluzione."
+    },
+    {
+      "n": "12:1",
+      "he": "הכלי שמכניסים בו מי חטאת — צריך להיות כלי חדש שלא שימש לאחר שימוש. ואם שימש — פסול.",
+      "it": "Il recipiente in cui si mettono le mei chatat — deve essere un recipiente nuovo che non ha servito ad altro uso. Se ha servito ad altro uso — è invalido."
+    },
+    {
+      "n": "12:2",
+      "he": "הכלי עצמו — אינו מקבל טומאה מן המים שבו. אבל האדם שנושא אותו — נטמא.",
+      "it": "Il recipiente stesso — non diventa tameh per le acque in esso contenute. Ma la persona che lo trasporta — diventa tameh."
+    },
+    {
+      "n": "12:3",
+      "he": "כלי שנגע בו טמא — פסל את המים שבו. לכן יש לשמור שלא יגע טמא בכלי.",
+      "it": "Un recipiente che fu toccato da un tameh — ha invalidato le acque in esso contenute. Pertanto bisogna fare attenzione che un tameh non tocchi il recipiente."
+    },
+    {
+      "n": "13:1",
+      "he": "בזמן הזה שאין בית המקדש — אין לנו פרה אדומה ואין לנו מי חטאת. כל ישראל טמאי מת.",
+      "it": "Ai nostri giorni senza il Bet HaMikdash — non abbiamo la vacca rossa (Parah Adumah) e non abbiamo le mei chatat. Tutti gli Israeliti sono considerati impuri per tumat met."
+    },
+    {
+      "n": "13:2",
+      "he": "ואם ייבנה המקדש — יחזרו הדינים הללו. ומתוך כך יש שנוהגים להחמיר בכמה דברים הנוגעים לטומאה, לזכור את הגלות.",
+      "it": "Se il Tempio verrà ricostruito — queste leggi torneranno in vigore. Per questo motivo vi sono coloro che sono severi in alcune cose riguardanti l'impurità, per ricordare l'esilio (galut)."
+    },
+    {
+      "n": "13:3",
+      "he": "ואמרו חכמים: כבר נגזר גזר דין שהפרה האדומה העשירית תיעשה על ידי מלך המשיח. ועד שיבוא — יש לנהוג בחוקות הטהרה ככל האפשר.",
+      "it": "I Saggi dissero: è già stato decretato che la decima vacca rossa sarà preparata dal Re Messia. Fino alla sua venuta — bisogna osservare le leggi della purità (tahorah) nei limiti del possibile."
+    }
+  ],
+  "_glossary_terms_used": ["mei chatat", "Parah Adumah", "tumat met", "Bet HaMikdash", "galut", "tahorah"]
+}

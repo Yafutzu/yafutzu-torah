@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Korban Pesach 6-8",
+  "name_he": "משנה תורה, הלכות קרבן פסח, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi del Sacrificio Pasquale, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-08-02",
+  "hebrew_date": "19 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "כמה בני אדם מתמנים על הפסח? אפילו אחד — מונה עצמו עליו. ואין צריך מניין קבוע. ובלבד שיהא לכל אחד ואחד כדי אכילתו, כזית לפחות.",
+      "it": "Quante persone possono iscriversi per un korban Pesach? Anche una sola persona può iscriversi. Non è richiesto un numero fisso. A condizione che a ciascuno spetti sufficiente carne, almeno un kzayit."
+    },
+    {
+      "n": "6:2",
+      "he": "חבורה שהיו מרובים — יכולים למנות עצמם על שני פסחים, ואין בכך איסור. ובלבד שלא ייצאו ממקום לאכול בשני מקומות, שאין אוכלין בשתי חבורות.",
+      "it": "Un gruppo numeroso può iscriversi per due sacrifici pasquali distinti, e ciò non è vietato. A condizione però che non si spostino da un luogo per mangiare in due luoghi diversi, poiché non si mangia in due gruppi (chaburot)."
+    },
+    {
+      "n": "6:3",
+      "he": "אין ממנים על הפסח אדם שאינו יכול לאכול ממנו. כגון חולה שאינו יכול לאכול, או שבע שאינו יכול לאכול — אין מונין אותו.",
+      "it": "Non si iscrive al Pesach chi non può mangiarne. Per esempio, un malato che non è in grado di mangiare, o chi è sazio al punto da non poter mangiare — non viene iscritto."
+    },
+    {
+      "n": "7:1",
+      "he": "הנותר מבשר קרבן הפסח עד הבוקר — ישרף. ומצוה לשורפו ביום הראשון של פסח, ואם לא שרפו ביום הראשון — שורפו ביום השני.",
+      "it": "Ciò che rimane della carne del sacrificio pasquale fino al mattino viene bruciato. È un precetto bruciarlo il primo giorno di Pesach; se non è stato bruciato il primo giorno, lo si brucia il secondo."
+    },
+    {
+      "n": "7:2",
+      "he": "הנותיר מבשר הפסח עד הבוקר — עובר בלאו, שנאמר 'לא תותירו ממנו עד בוקר'. ומה שנותר — ישרף ביום, ולא בלילה.",
+      "it": "Chi lascia della carne del Pesach fino al mattino transgredisce un divieto, come è detto: 'Non ne lascerete fino al mattino' (Shemot 12:10). Il resto viene bruciato di giorno, non di notte."
+    },
+    {
+      "n": "7:3",
+      "he": "לא יוציאו מן הבשר מחבורה לחבורה אחרת, שנאמר 'לא תוציא מן הבית מן הבשר חוצה'. ואם הוציא — לוקה.",
+      "it": "Non si trasporta la carne da un gruppo all'altro, come è detto: 'Non porterete fuori dalla casa nulla della carne' (Shemot 12:46). Chi lo fa è passibile di flagellazione."
+    },
+    {
+      "n": "8:1",
+      "he": "אסור לאכול בשר קרבן הפסח על החמץ — שנאמר 'לא תשחט על חמץ דם זבחי'. ועובר על זה בלאו.",
+      "it": "È vietato mangiare la carne del sacrificio pasquale insieme al chametz — come è detto: 'Non immoleresti il sangue del mio sacrificio insieme al chametz' (Shemot 34:25). Chi fa ciò transgredisce un divieto."
+    },
+    {
+      "n": "8:2",
+      "he": "אסור לשחוט את הפסח כל עוד החמץ קיים בביתו של כל אחד מבני החבורה. לפיכך חייבים לבדוק ולבטל את החמץ לפני שחיטת הפסח.",
+      "it": "È vietato macellare il Pesach finché nella casa di qualsiasi membro del gruppo si trovi ancora chametz. Pertanto tutti i membri del gruppo devono aver controllato e annullato il chametz prima della macellazione del Pesach."
+    },
+    {
+      "n": "8:3",
+      "he": "חמץ שנמצא בשעת אכילת הפסח — מדליקים בו אש ושורפים אותו. ואין אוכלים בשר הפסח כשהחמץ לפניהם.",
+      "it": "Se si trova chametz durante l'ora del mangiare il Pesach, lo si brucia immediatamente. Non si mangia la carne del Pesach mentre il chametz è presente davanti ai commensali."
+    }
+  ],
+  "_glossary_terms_used": ["kzayit", "chaburot", "chametz", "karet"]
+}

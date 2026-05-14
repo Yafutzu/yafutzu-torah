@@ -1,0 +1,77 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 6",
+  "name_he": "משנה תורה, הלכות אישות, פרק ו",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-29",
+  "hebrew_date": "16 Elul 5786",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "תקנת חכמים היא שיכתוב האיש לאשתו כתובה קודם שיישא אותה. ומנהג הכתובה — מדברי סופרים.",
+      "it": "È un'istituzione rabbinica (takkanat chakhamim) che l'uomo scriva a sua moglie una ketubah prima di sposarla. Il fondamento della ketubah — è di origine rabbinica."
+    },
+    {
+      "n": 2,
+      "he": "ויש מן הגאונים שאמרו שהכתובה מן התורה, שנאמר: 'ומהר ימהרנה לו לאשה'. ולא נתקבלה דעתם.",
+      "it": "Vi sono Geonim (autorità post-talmudiche) che dissero che la ketubah è di origine biblica, come è detto: 'La doti certamente in moglie' (Esodo 22:15). Ma la loro opinione non è stata accettata come halakhah."
+    },
+    {
+      "n": 3,
+      "he": "עיקר כתובה של בתולה — מאתים זוז. ועיקר כתובה של אלמנה — מנה.",
+      "it": "L'importo principale (ikar) della ketubah di una vergine (betulah) — è duecento zuz. L'importo principale della ketubah di una vedova (almanah) — è un maneh (cento zuz)."
+    },
+    {
+      "n": 4,
+      "he": "ומוסיף לה האיש על עיקר הכתובה — וזה הנקרא תוספת כתובה. ואין לתוספת שיעור.",
+      "it": "L'uomo aggiunge sull'importo principale della ketubah — e questo si chiama tosefet ketubah (addizione alla ketubah). Non c'è limite alla tosefet."
+    },
+    {
+      "n": 5,
+      "he": "הבעל חייב בכתובה מנכסיו, בין מקרקעי בין ממטלטלי, לאחר מותו.",
+      "it": "Il marito è responsabile della ketubah con i suoi beni — sia immobili (karka'ot) sia mobili (metaltelim) — dopo la sua morte."
+    },
+    {
+      "n": 6,
+      "he": "כתבה על גבי קרקע — גובה מן הקרקע. לא כתבה — גובה ממטלטלי.",
+      "it": "Se è scritta su proprietà immobiliare — la riscuote dagli immobili. Se non è scritta su immobili — la riscuote dai beni mobili."
+    },
+    {
+      "n": 7,
+      "he": "אין האשה גובה כתובתה אלא בשבועה. כיצד? נשבעת שלא נפרעה כלום, ואחר כך גובה.",
+      "it": "La donna riscuote la sua ketubah soltanto previo giuramento. Come? Giura di non aver già ricevuto nulla, e poi riscuote."
+    },
+    {
+      "n": 8,
+      "he": "מתה האשה קודם שגבתה — יורשיה גובים כתובתה. ויש תנאים בדבר.",
+      "it": "Se la donna morì prima di riscuotere — i suoi eredi riscuotono la sua ketubah. Ci sono condizioni a riguardo."
+    },
+    {
+      "n": 9,
+      "he": "הגרוש ישלם כתובה אם גירשה. ואם מתה לפני שגירשה — אין כאן כתובה.",
+      "it": "Il marito pagherà la ketubah se divorziò da lei. Se però ella morì prima che la divorziasse — in quel caso non c'è pagamento della ketubah [poiché il marito la eredita]."
+    },
+    {
+      "n": 10,
+      "he": "כתב לה 'דין ודברים אין לי בנכסייך' — לא הפסיד בכך כתובתה, שאין ויתור מועיל בכתובה.",
+      "it": "Se scrisse 'Non ho pretese sui tuoi beni' — non perse con ciò la ketubah, poiché la rinuncia non è efficace riguardo alla ketubah."
+    },
+    {
+      "n": 11,
+      "he": "כתובה שנאבדה — חייב לכתוב לה כתובה אחרת, ולא ידור עמה בלא כתובה.",
+      "it": "Se la ketubah è andata perduta — è tenuto a scriverne un'altra, e non può abitare con lei senza ketubah."
+    },
+    {
+      "n": 12,
+      "he": "המגרש אשתו לאחר עשרים שנה — חייב לשלם לה כתובתה, ואין זמן מפקיע את הכתובה.",
+      "it": "Chi divorzia dalla propria moglie dopo vent'anni — è tenuto a pagarle la ketubah. Il tempo non fa decadere la ketubah."
+    },
+    {
+      "n": 13,
+      "he": "וכן אם מת ועמדה אשתו שנים רבות ולא תבעה — אינה מפסדת כתובתה. גובה היא בשבועה ממה שנשאר.",
+      "it": "Analogamente, se egli morì e sua moglie rimase anni senza avanzare pretese — non perde la sua ketubah. Riscuote con giuramento da ciò che rimane dei beni."
+    }
+  ],
+  "_glossary_terms_used": ["takkanat chakhamim", "Geonim", "ketubah", "ikar", "betulah", "almanah", "zuz", "maneh", "tosefet ketubah", "karka'ot", "metaltelim"]
+}

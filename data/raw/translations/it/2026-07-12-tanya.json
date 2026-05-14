@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 9",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ט",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 9 (conclusione)",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-12",
+  "hebrew_date": "27 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ט — הָאַחֲרוֹן: הָאַלְטֶר רֶבִּי מְסַיֵּם בְּמֶדִיטַצְיָה עַל יִחוּד הָאֱלֹקוּת הַמַּקִּיף כָּל הַמַּדְרֵגוֹת — מֵהָעֶלְיוֹן בְּיוֹתֵר עַד הַתַּחְתּוֹן בְּיוֹתֵר. \"אֵין מָקוֹם פָּנוּי מִמֶּנּוּ\" (תִּיקּוּנֵי זֹהַר).",
+      "it": "Saggio 9 — l'ultimo: L'Alter Rebbe conclude con una meditazione sull'unità di D-o che abbraccia tutti i livelli — dal più alto al più basso. «Non vi è luogo vacuo da Lui» (Tikkunei Zohar)."
+    },
+    {
+      "n": 2,
+      "he": "בְּרָכָה לְכָל לוֹמְדֵי הַתַּנְיָא: שֶׁיִּזְכּוּ לְהִתְעַלּוֹת מַדְרֵגָה מַדְרֵגָה בַּעֲבוֹדַת ה' — בְּדַעַת, תְּשׁוּבָה, אַהֲבָה וְיִרְאָה, עַד לְמַדְרֵגַת בִּטּוּל מַמָּשׁ.",
+      "it": "Benedizione a tutti coloro che studiano la Tanya: che possano elevarsi di livello in livello nel servizio di D-o — nella da'at (conoscenza), nella teshuvah, nell'amore (ahavah) e nel timore (yirah), fino al livello del bittul autentico."
+    },
+    {
+      "n": 3,
+      "he": "סִיּוּם: סִי קוֹנְקְלוּדֶה אִיל קוּנְטְרֵס אַחֲרוֹן (חֵלֶק ה שֶׁל הַתַּנְיָא). סִי קוֹנְקְלוּדֶה אִיל סֵפֶר הַתַּנְיָא בְּכֹלּוֹ. תָּם וְנִשְׁלַם שֶׁבַח לָאֵל בּוֹרֵא עוֹלָם. מַחְזוֹר הַתַּנְיָא יוֹמִי מִתְחִיל מֵחָדָשׁ בְּמָחָר.",
+      "it": "Si conclude il Kuntres Acharon (Parte V della Tanya). Si conclude il Sefer HaTanya nella sua interezza. תם ונשלם שבח לאל בורא עולם — Completato e terminato, lode a D-o Creatore del mondo. Il ciclo del Tanya Yomi ricomincia domani."
+    }
+  ],
+  "_glossary_terms_used": ["Kuntres Acharon", "Tanya", "Alter Rebbe", "da'at", "teshuvah", "ahavah", "yirah", "bittul", "avodah", "Tikkunei Zohar", "ein makom panui mimenu"]
+}

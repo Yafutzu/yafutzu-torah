@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Mikvaot 4-6",
+  "name_he": "משנה תורה, הלכות מקוואות, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi dei Bagni Rituali (Mikvaot), capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-09-20",
+  "hebrew_date": "9 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "4:1",
+      "he": "הַמִּקְוֶה צָרִיךְ שֶׁיִּהְיֶה חָפוּר בַּקַּרְקַע אוֹ בָּנוּי בְּקַרְקַע. כְּלִי שֶׁאֵינוֹ מְחֻבָּר לַקַּרְקַע — אֵינוֹ מִקְוֶה.",
+      "it": "Il mikveh deve essere scavato nel terreno o costruito in modo permanente nel terreno. Un vaso non ancorato al terreno non è un mikveh."
+    },
+    {
+      "n": "4:2",
+      "he": "דּוּפְנוֹת הַמִּקְוֶה צְרִיכִין לִהְיוֹת בְּנוּיִים יָפֶה כְּדֵי שֶׁלֹּא יַגִּיעוּ הַמַּיִם לְמַטָּה מֵהֶם. בֶּרֵכָה שֶׁמֵּימֶיהָ יוֹרְדִים — פְּסוּלָה.",
+      "it": "Le pareti del mikveh devono essere ben costruite affinché l'acqua non scorra al di sotto. Una piscina la cui acqua defluisce verso il basso è invalida."
+    },
+    {
+      "n": "4:3",
+      "he": "רִצְפַּת הַמִּקְוֶה צְרִיכָה לִהְיוֹת שְׁלֵמָה. נִפְחַת הָרִצְפָּה — אִם הַמַּיִם יוֹרְדִין דַּרְכָּהּ, פְּסוּלָה.",
+      "it": "Il pavimento del mikveh deve essere integro. Se il pavimento si è rotto — se l'acqua defluisce attraverso di esso, il mikveh è invalido."
+    },
+    {
+      "n": "5:1",
+      "he": "שְׁלֹשָׁה לוּגִין מַיִם שְׁאוּבִין שֶׁנָּפְלוּ לַמִּקְוֶה קֹדֶם שֶׁהֻשְׁלַם — פּוֹסְלִין אוֹתוֹ. לְאַחַר שֶׁהֻשְׁלַם — אֵינָם פּוֹסְלִין.",
+      "it": "Tre log di acqua attinta caduti nel mikveh prima che fosse completato lo rendono invalido. Dopo il completamento — non lo invalidano."
+    },
+    {
+      "n": "5:2",
+      "he": "מִנַּיִן הַשְּׁלֹשָׁה לוּגִין? מִגְּזֵרַת חֲכָמִים. וְאֵין שִׁעוּר זֶה מְפֹרָשׁ בַּתּוֹרָה. מִדִּבְרֵי חֲכָמִים הוּא.",
+      "it": "Da dove derivano i tre log? Da un decreto dei Saggi. Questa misura non è esplicitamente indicata nella Torah — è di istituzione rabbinica."
+    },
+    {
+      "n": "5:3",
+      "he": "נָפַל לוֹג אֶחָד, וְאַחַר כָּך עוֹד לוֹג, וְאַחַר כָּך עוֹד לוֹג — בִּלְבַד שֶׁיִּהְיֶה קֹדֶם גְּמַר הַמִּקְוֶה — פּוֹסֵל.",
+      "it": "Se è caduto un log, poi ancora un log, poi ancora un log — purché ciò sia avvenuto prima del completamento del mikveh — invalida."
+    },
+    {
+      "n": "6:1",
+      "he": "הַטּוֹבֵל בַּמִּקְוֶה צָרִיךְ שֶׁיִּהְיֶה כָּל גּוּפוֹ בַּמַּיִם. לֹא עָלְתָה לוֹ טְבִילָה אִם נִשְׁאַר חֵלֶק גּוּפוֹ מִחוּץ לַמָּיִם.",
+      "it": "Chi si immerge nel mikveh deve avere tutto il corpo nell'acqua. L'immersione non vale se rimane una parte del corpo fuori dall'acqua."
+    },
+    {
+      "n": "6:2",
+      "he": "חֲצִיצָה — כָּל דָּבָר הַחוֹצֵץ בֵּין הַגּוּף לַמַּיִם פּוֹסֵל אֶת הַטְּבִילָה. כְּגוֹן: שַׂעֲרוֹת קְשׁוּרוֹת, שָׁרָף, בָּצֵק, וְדוֹמֵהֶן.",
+      "it": "La chatzitzah (interposizione) — qualsiasi cosa che interponga tra il corpo e l'acqua invalida l'immersione. Ad esempio: capelli annodati, resina, pasta e simili."
+    },
+    {
+      "n": "6:3",
+      "he": "הַשֵּׂעָר צָרִיךְ שֶׁיִּהְיֶה גַּם הוּא בַּמַּיִם. אִשָּׁה שֶׁטָּבְלָה וְשַׂעֲרוֹתֶיהָ עַל פְּנֵי הַמַּיִם — לֹא עָלְתָה לָהּ טְבִילָה.",
+      "it": "Anche i capelli devono essere nell'acqua. Una donna che si è immersa con i capelli sulla superficie dell'acqua — l'immersione non vale per lei."
+    }
+  ],
+  "_glossary_terms_used": ["mikveh", "she'uvim", "log", "chatzitzah", "tevilah", "guf"]
+}

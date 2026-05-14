@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Avadim 9; Sechirut 1-2",
+  "name_he": "משנה תורה, הלכות עבדים פרק ט; הלכות שכירות פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi degli Schiavi cap. 9; Leggi della Locazione capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-11-06",
+  "hebrew_date": "26 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "9:1-5",
+      "he": "הָעֶבֶד שֶׁשִּׁחְרְרוֹ אֲדוֹנָיו — הֲרֵי הוּא כְּגֵר צֶדֶק…",
+      "it": "(Avadim cap. 9, hal. 1-5) Lo schiavo liberato (meshuhrrar) — ha lo status di ger tzedek (proselita della giustizia) nella maggior parte dei suoi aspetti halakhici. Si immerge nel mikveh per confermare la sua liberazione e il suo ingresso pieno nel popolo di Israele. Deve essere contato nel minyan. Può testimoniare in beit din. Ha tutti i diritti e i doveri di un ebreo. La Torah esplicitamente proibisce di restituire uno schiavo che è fuggito verso Eretz Yisrael dalla Diaspora (Deut. 23:16-17) — questo schiavo riceve il suo libretto di affrancamento. «Si concludono le Leggi degli Schiavi con l'aiuto del Cielo. Si conclude il Sefer Kinyan (Libro delle Acquisizioni).»"
+    },
+    {
+      "n": "1:1-3",
+      "he": "הַשּׁוֹמְרִים אַרְבָּעָה הֵם — שׁוֹמֵר חִנָּם, שׁוֹמֵר שָׂכָר, שׁוֹאֵל, שׂוֹכֵר…",
+      "it": "(Sechirut cap. 1, hal. 1-3) Inizia il Sefer Mishpatim (Libro delle Leggi). Hilchot Sechirut (Leggi della Locazione/Assunzione). Quattro tipi di custodi/bailees (shomrim): (1) Shomer chinam — custode gratuito, non retribuito; risponde solo per negligenza (peshia), non per furto o perdita. (2) Shomer sachar — custode retribuito; risponde per furto e perdita, non per cause di forza maggiore (ones). (3) Sho'el — chi prende in prestito un oggetto; risponde anche per causes di forza maggiore (massima responsabilità). (4) Socher — chi affitta un oggetto; come shomer sachar secondo il Rambam."
+    },
+    {
+      "n": "2:1-4",
+      "he": "שׁוֹמֵר חִנָּם שֶׁפָּשַׁע — חַיָּב…",
+      "it": "(Sechirut cap. 2, hal. 1-4) Il custode gratuito (shomer chinam) che è negligente (pashta): è responsabile per il valore dell'oggetto perduto o danneggiato. La definizione di negligenza (peshia): non aver preso le precauzioni che qualsiasi custode ragionevole avrebbe preso in quelle circostanze. La peshia si valuta in base alle norme standard di custodia: un oggetto d'oro non si lascia in un posto non sicuro; un oggetto comune può essere lasciato in un posto comune. Il custode gratuito che giura di non aver commesso negligenza — è creduto e liberato dalla responsabilità."
+    }
+  ],
+  "_glossary_terms_used": [
+    "meshuhrrar", "ger tzedek", "mikveh", "minyan", "beit din", "Sefer Kinyan", "Sefer Mishpatim", "shomrim", "shomer chinam", "shomer sachar", "sho'el", "socher", "peshia", "ones"
+  ]
+}

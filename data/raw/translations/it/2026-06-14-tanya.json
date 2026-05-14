@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 3",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ג",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettera 3",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-14",
+  "hebrew_date": "29 Sivan 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אֵין עוֹד מִלְּבַדּוֹ — יְסוֹד הָאֱמוּנָה...",
+      "it": "La terza lettera di Iggeret HaKodesh espone il principio fondamentale della fede chassidica (emunah): 'ein od milvado' — 'non c'è nulla oltre a Lui' (Deuteronomio 4:35). Questo non è semplicemente un'affermazione del monoteismo, bensì la comprensione che l'intera realtà non ha esistenza propria al di fuori di Dio. Il mondo non è semplicemente 'creato' da Dio come un vasaio crea un vaso (in cui il vaso esiste indipendentemente dal vasaio), ma è continuamente emanato e sostenuto dall'energia divina — se quella energia si ritirasse, l'universo cesserebbe di esistere. Questa visione è chiamata nel Chassidismo 'bitul ha-metzius' (annullamento dell'esistenza)."
+    },
+    {
+      "n": 2,
+      "he": "וְהַקְּלִיפַּת נוֹגַהּ — הִיא הַמַּמְצֶעֶת...",
+      "it": "Alla luce di 'ein od milvado', il Ba'al HaTanya analizza il concetto di 'kelipat nogah' — la guscio (kelipah) luminosa o traslucente che media tra il sacro e il mondano. A differenza delle tre kelipot impure (i cui aspetti sono completamente negativi), la kelipat nogah può elevarsi al sacro attraverso l'uso corretto: quando si mangia con intenzione santa, quando si usa la ricchezza per tzedakah, quando si gode della natura con gratitudine a Dio. Comprendere 'ein od milvado' trasforma la relazione con il mondo materiale: invece di un ostacolo alla spiritualità, diventa un veicolo per essa."
+    }
+  ],
+  "_glossary_terms_used": ["ein od milvado", "emunah", "bitul ha-metzius", "kelipat nogah", "kelipah", "tzedakah"]
+}

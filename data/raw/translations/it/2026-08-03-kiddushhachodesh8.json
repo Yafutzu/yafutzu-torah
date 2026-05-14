@@ -1,0 +1,42 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 8",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ח",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 8",
+  "cycle": "rambam-1",
+  "date": "2026-08-03",
+  "hebrew_date": "20 Av 5786",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אחר שיודעים מקום הירח האמיתי ורוחבו, צריך לדעת כמה ייראה הירח מעל האופק בשעת שקיעת החמה. זה הנקרא 'קשת הראיה' — האורך שבין הירח לבין האופק.",
+      "it": "Dopo aver determinato la posizione vera della luna e la sua latitudine, è necessario calcolare di quanto sarà visibile la luna sopra l'orizzonte al momento del tramonto del sole. Questo è chiamato 'arco di visibilità' (keshet ha-re'iyah) — la distanza angolare tra la luna e l'orizzonte."
+    },
+    {
+      "n": 2,
+      "he": "ה'ארך' הנראה הוא ריחוק הירח מן השמש לאורך המזלות. וזה הוא הגורם הראשי בחישוב הראיה: אם ה'ארך' גדול — הירח נראה; ואם קטן מדי — אינו נראה.",
+      "it": "L'elongazione apparente (orekh ha-nir'eh) è la distanza angolare della luna dal sole lungo l'eclittica. Questo è il fattore principale nel calcolo della visibilità: se l'elongazione è grande, la luna è visibile; se è troppo piccola, non lo è."
+    },
+    {
+      "n": 3,
+      "he": "יש להוסיף על ה'ארך' או לגרוע ממנו לפי הרוחב: אם הרוחב צפוני — מוסיפים חלק מן הרוחב על ה'ארך'; ואם הרוחב דרומי — גורעים. והחשבון הזה הוא לפי לוחות מסודרים.",
+      "it": "Si aggiunge o si sottrae dalla elongazione in base alla latitudine: se la latitudine è settentrionale si aggiunge una parte della latitudine all'elongazione; se è meridionale si sottrae. Questo calcolo segue tavole ordinate."
+    },
+    {
+      "n": 4,
+      "he": "אחר כל אלה החישובים יוצא מספר הנקרא 'ארך הנראה הצפון'. ואם הוא תשע מעלות — הירח ייראה בוודאות; ואם הוא פחות משש מעלות — לא ייראה. ובין שש לתשע — יש ספק, ואינו נקבע בחשבון בלבד.",
+      "it": "Da tutti questi calcoli risulta un numero chiamato 'elongazione apparente settentrionale' (orekh ha-nir'eh ha-tzafoni). Se questo è pari a nove gradi, la luna è certamente visibile. Se è inferiore a sei gradi, non è visibile. Tra sei e nove gradi vi è incertezza e la determinazione non può basarsi sul solo calcolo."
+    },
+    {
+      "n": 5,
+      "he": "בנוסף לכל אלה, יש לחשב גם 'ניצוב הירח' — כלומר, זווית ירידת הירח ביחס לאופק. כי יש מקומות שהירח שוקע מהר ומקומות ששוקע לאט, לפי קו הרוחב של המקום ולפי עונת השנה.",
+      "it": "Oltre a tutto ciò, è necessario calcolare anche il 'niccuv ha-yare'ach' — ovvero l'angolo di inclinazione della luna rispetto all'orizzonte. Poiché vi sono luoghi in cui la luna tramonta rapidamente e luoghi in cui tramonta lentamente, a seconda della latitudine geografica del luogo e della stagione dell'anno."
+    },
+    {
+      "n": 6,
+      "he": "כל אלה החשבונות מסודרים בלוחות. ואין מקדשים את החודש אלא אחרי שעדים רואים את הירח בעיניהם ממש, ואין החשבון אלא לדעת אם כדאי לקבל עדים או לא.",
+      "it": "Tutti questi calcoli sono organizzati in tavole. Non si santifica il mese (mekaddesh et ha-chodesh) se non dopo che i testimoni vedono effettivamente la luna con i propri occhi. Il calcolo serve solo a sapere se valga la pena di ricevere testimonianze o meno."
+    }
+  ],
+  "_glossary_terms_used": ["keshet ha-re'iyah", "orekh ha-nir'eh", "niccuv ha-yare'ach", "mekaddesh et ha-chodesh"]
+}

@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Iggeret HaTeshuvah 4",
+  "name_he": "אגרת התשובה פרק ד'",
+  "name_it": "Lettera della Teshuvah, Capitolo 4",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-04",
+  "hebrew_date": "19 Sivan 5786",
+  "segments_count": 3,
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments": [
+    {
+      "n": 1,
+      "he": "עִנְיַן הַתַּעֲנִיּוֹת שֶׁגָּזְרוּ הָרִאשׁוֹנִים",
+      "it": "I Rishonim (רִאשׁוֹנִים — i grandi decisori medievali) decretarono digiuni (taaniyot, תַּעֲנִיּוֹת) come parte del processo di teshuvah per peccati gravi. La ragione è profonda: il corpo ha partecipato al peccato insieme all'anima, poiché i peccati fisici richiedono un corpo fisico. Pertanto anche il corpo deve partecipare alla teshuvah mediante sofferenza e digiuno."
+    },
+    {
+      "n": 2,
+      "he": "אֲבָל בַּזְּמַן הַזֶּה",
+      "it": "Il Baal HaTanya stabilisce che ai nostri giorni — a causa della debolezza fisica delle generazioni (dugmat chilushah hadorot, דֻּגְמַת חִלּוּשַׁת הַדּוֹרוֹת) — i digiuni non sono più la principale forma di teshuvah. Il digiuno oggi indebolisce il corpo a tal punto da impedire lo studio della Torah e il servizio divino. Il Baal Shem Tov insegnò che la Torah e la preghiera dette con devozione equivalgono ai digiuni. Pertanto la carità (tzedakah, צְדָקָה) e lo studio della Torah sostituiscono i digiuni come penitenza corporea."
+    },
+    {
+      "n": 3,
+      "he": "וְעִנְיַן הַתַּעֲנִית לַנְּשָׁמָה",
+      "it": "Tuttavia il digiuno mantiene la sua importanza spirituale anche oggi: non come sofferenza corporea sostitutiva, ma come 'teshuvah per l'anima'. Il giorno in cui si digiuna è dedicato alla riflessione, al pentimento e allo studio più intenso, essendo liberi dai preoccupazioni fisiche del cibo. Questo valore spirituale del digiuno rimane valido. Inoltre, i digiuni biblici e rabbinici stabiliti — come Yom Kippur e i quattro digiuni — sono obbligatori indipendentemente da questa discussione sulla teshuvah personale."
+    }
+  ],
+  "_glossary_terms_used": ["taaniyot", "Rishonim", "dugmat chilushah hadorot", "tzedakah", "Baal Shem Tov", "teshuvah", "Yom Kippur"]
+}

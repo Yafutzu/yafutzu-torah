@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Sabbath 26",
+  "name_he": "משנה תורה, הלכות שבת, פרק כו",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 26",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-16",
+  "hebrew_date": "1 Tammuz 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵין יוֹצְאִין חוּץ לַתְּחוּם בְּשַׁבָּת...",
+      "it": "Non si esce oltre il confine dello Shabbat (techum Shabbat) — la distanza massima di 2000 cubits (circa 1 km) dalla propria città. Chi esce oltre questo limite ha trasgredito un divieto rabbinico; secondo alcuni, anche un divieto biblico."
+    },
+    {
+      "n": 2,
+      "he": "הַתְּחוּם — אַלְפַּיִם אַמָּה...",
+      "it": "Il techum è di 2000 cubits dal limite della città in ogni direzione. Questa misura è derivata dai leviti che si allontanavano dalle loro città di 2000 cubits (Numeri 35:5)."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד מוֹדְדִין אֶת הַתְּחוּם...",
+      "it": "Come si misura il techum? Si misura in linea retta dal limite dell'abitato (ibur ha-ir) della città — non si segue la strada, ma la distanza diretta. Il limite dell'abitato è determinato dalle ultime costruzioni della città."
+    },
+    {
+      "n": 4,
+      "he": "אֵיזֶה הִיא הָעִיר לְעִנְיַן תְּחוּם...",
+      "it": "Che cos'è una 'città' ai fini del techum Shabbat? Qualsiasi insediamento abitato — anche una singola casa isolata nel campo — ha il proprio techum di 2000 cubits attorno ad esso."
+    },
+    {
+      "n": 5,
+      "he": "שְׁתֵּי עֲיָרוֹת הַסְּמוּכוֹת זוֹ לָזוֹ...",
+      "it": "Due città vicine — se la distanza tra loro è di meno di 141 cubits e 1/3, le due città si combinano in una sola ai fini del techum. Il techum di 2000 cubits viene misurato dal limite esterno della città combinata."
+    },
+    {
+      "n": 6,
+      "he": "עֵרוּב תְּחוּמִין — כֵּיצַד...",
+      "it": "L'eruv techumin è il mezzo halachico per estendere il techum: si depone del cibo (un pasto) entro 2000 cubits dalla propria città, e questo punto diventa il proprio 'luogo di residenza' per lo Shabbat. Da quel punto si misurano altri 2000 cubits nella direzione desiderata."
+    },
+    {
+      "n": 7,
+      "he": "כַּמָּה שִׁעוּר הָאוֹכֶל בָּעֵרוּב...",
+      "it": "Quanto cibo deve essere depositato per un eruv techumin valido? Almeno due pasti — la quantità che una persona media mangia in due pasti (pranzo e cena). Il cibo deve poter essere mangiato nello stato in cui è depositato."
+    },
+    {
+      "n": 8,
+      "he": "מִי שֶׁנָּתַן עֵרוּבוֹ — קָנָה שְׁבִיתָה...",
+      "it": "Chi ha depositato il proprio eruv techumin ha 'acquisito' il riposo (shevisah) nel luogo del cibo. Da quel luogo egli misura 2000 cubits in ogni direzione, ma perde i 2000 cubits nella direzione opposta (verso casa sua), poiché il suo 'domicilio' si è spostato."
+    },
+    {
+      "n": 9,
+      "he": "הַמְאָחֵר לָצֵאת...",
+      "it": "Chi arriva tardi e lo Shabbat inizia mentre è in cammino prima del tramonto — se è entro 2000 cubits dalla città, il suo techum viene misurato da dove si trova nello Shabbat. Se è oltre, è limitato ai 4 cubits attorno a sé."
+    },
+    {
+      "n": 10,
+      "he": "נָתַן עֵרוּבוֹ בְּקֶצֶה הַתְּחוּם...",
+      "it": "Se qualcuno ha depositato l'eruv techumin al limite esatto dei 2000 cubits e il cibo è stato mangiato prima dello Shabbat — il suo eruv è invalido. L'eruv deve esistere all'inizio dello Shabbat."
+    },
+    {
+      "n": 11,
+      "he": "שְׁנַיִם שֶׁנָּתְנוּ עֵרוּב בְּמָקוֹם אֶחָד...",
+      "it": "Due persone che hanno messo l'eruv nello stesso posto — entrambe acquisiscono il medesimo punto come residenza e hanno lo stesso techum. Non c'è limite al numero di persone che possono unire il proprio eruv in un solo posto."
+    },
+    {
+      "n": 12,
+      "he": "הָאָב שֶׁנָּתַן עֵרוּב לְבֵיתוֹ...",
+      "it": "Un padre può fare eruv techumin per la sua famiglia. La famiglia che vive con lui e che non fa un eruv separato — segue il suo techum. Figli e moglie che sono nella stessa casa possono fare affidamento sul suo eruv."
+    },
+    {
+      "n": 13,
+      "he": "עֵרוּב לְרַגְלֵי תִּינוֹקוֹת...",
+      "it": "I bambini piccoli che non hanno coscienza halachica (ketanim) — il loro techum segue quello dei genitori. Non hanno obbligo proprio di eruv techumin."
+    },
+    {
+      "n": 14,
+      "he": "הַמְבַטֵּל עֵרוּב חֲבֵרוֹ...",
+      "it": "Chi annulla l'eruv di un altro — ad esempio mangiando il cibo dell'eruv prima dello Shabbat — ha agito male. Se l'annullamento è avvenuto involontariamente, il rabbino locale deve stabilire se l'eruv rimane valido o meno."
+    },
+    {
+      "n": 15,
+      "he": "גּוֹי שֶׁבָּא בְּשַׁבָּת...",
+      "it": "Un non-ebreo che è venuto da fuori il techum portando lettere o merci per un ebreo di Shabbat — l'ebreo non può trarne beneficio immediato dopo lo Shabbat, come precauzione. Ma se il non-ebreo è venuto per sé stesso, il divieto non si applica."
+    },
+    {
+      "n": 16,
+      "he": "הַיּוֹצֵא חוּץ לַתְּחוּם בְּשׁוֹגֵג...",
+      "it": "Chi esce oltre il techum inavvertitamente — non ha trasgredito un divieto biblico (secondo il Rambam è un divieto rabbinico). Deve comunque tornare entro il suo techum se è entro 2000 cubits da dove si trova. Se è a più di 2000 cubits, è confinato ai 4 cubits."
+    },
+    {
+      "n": 17,
+      "he": "הַיּוֹצֵא בְּאָנְסוֹ...",
+      "it": "Chi è stato portato oltre il techum contro la propria volontà (onus) — se è stato riportato nello stesso modo (dal non-ebreo che lo ha portato), è come se non fosse uscito. La costrizione (onus) rimuove la responsabilità personale."
+    },
+    {
+      "n": 18,
+      "he": "הָיָה יוֹשֵׁב בַּדֶּרֶךְ...",
+      "it": "Chi si trova in viaggio e lo Shabbat comincia senza che sia entrato in una città — il suo techum si misura da dove è seduto in quel momento. Può spostarsi 2000 cubits in ogni direzione da quel punto."
+    },
+    {
+      "n": 19,
+      "he": "אֵין חוֹשְׁשִׁין לְעֵרוּב שֶׁנֶּאֱכַל...",
+      "it": "Si può fare eruv il venerdì anche il pomeriggio tardi, a patto che lo Shabbat non sia ancora iniziato. Un minore (katan) può portare l'eruv al suo posto se l'adulto non può farlo in tempo."
+    },
+    {
+      "n": 20,
+      "he": "עֵרוּב בֵּין שְׁנֵי הָרִים...",
+      "it": "L'eruv techumin non si può fare 'virtualmente' — ci deve essere un atto fisico di deposizione del cibo. Non si può semplicemente dichiarare 'il mio eruv è là'. Il cibo deve essere fisicamente portato e lasciato nel luogo designato."
+    },
+    {
+      "n": 21,
+      "he": "כָּל הַכֵּלִים שֶׁיָּצְאוּ חוּץ לַתְּחוּם...",
+      "it": "Oggetti che sono stati portati fuori dal techum di Shabbat — quando vengono riportati in città, sono comunque limitati ai 4 cubits, come se il loro 'proprietario' fosse fuori dal techum. Questo principio si applica a diversi aspetti dell'halacha del techum."
+    }
+  ],
+  "_glossary_terms_used": ["techum Shabbat", "eruv techumin", "ibur ha-ir", "shevisah", "onus", "ketanim"]
+}

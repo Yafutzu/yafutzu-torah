@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 6",
+  "name_he": "משנה תורה, הלכות עירובין פרק ו",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-26",
+  "hebrew_date": "11 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מָבוֹי שֶׁנִּפְרַץ מִצִּדּוֹ...",
+      "it": "Un mavuy (vicolo) la cui parete laterale è crollata: se il crollo lascia un'apertura larga meno di dieci amot, è come una 'porta aperta' e il mavuy rimane valido con il suo lechi o korah. Se l'apertura supera dieci amot, il mavuy è considerato 'rotto' e non si può più trasportare in esso fino a che non venga riparato."
+    },
+    {
+      "n": 2,
+      "he": "מָבוֹי שֶׁנִּפְרַץ בְּרֹאשׁוֹ...",
+      "it": "Un mavuy la cui apertura di ingresso (il lato che dà sulla strada) è aumentata di dimensione: se l'apertura supera dieci amot, il lechi o la korah che vi si trovava non è più sufficiente per rendere il mavuy permesso al trasporto. Bisogna aggiungere un ulteriore marcatore o ridurre l'apertura fisicamente."
+    },
+    {
+      "n": 3,
+      "he": "מָבוֹי שֶׁנִּדְלְדַל הַלֶּחִי...",
+      "it": "Se il lechi del mavuy pende o non è dritto: deve essere ben fissato alla parete per essere valido. Un lechi che pende verso l'esterno del mavuy è invalido. Un lechi che pende di poco (meno di tre tefachim) verso l'interno può essere valido, applicando il principio del lavud. La solidità del lechi è essenziale alla sua funzione simbolica."
+    },
+    {
+      "n": 4,
+      "he": "לֶחִי הָעָשׂוּי מִן הָאֲוִיר...",
+      "it": "Un lechi fatto di aria (cioè un lechi immaginario o dipinto): non è valido. Il lechi deve essere un oggetto fisico reale. Tuttavia un lechi disegnato come una linea verticale su una parete esistente è accettabile da alcuni poskim, purché sia visivamente distinguibile e misuri almeno dieci tefachim. Il Rambam richiede comunque un oggetto fisico separato."
+    },
+    {
+      "n": 5,
+      "he": "מָבוֹי שֶׁהָיָה בּוֹ דֶּלֶת...",
+      "it": "Un mavuy che ha una porta nella sua apertura: se la porta è effettivamente usata per aprire e chiudere il mavuy, è ancora meglio di un semplice lechi o korah. La porta stessa funge da marcatore. Anche se la porta non è chiusa durante il Sabato, la sua presenza indica che l'ingresso è controllato."
+    },
+    {
+      "n": 6,
+      "he": "מָבוֹי שֶׁנִּפְרַץ לְחָצֵר...",
+      "it": "Un mavuy che si apre su un cortile: se il cortile ha il proprio eruv chatzerot, questa apertura non invalida il mavuy, ma richiede attenzione. I residenti del mavuy e del cortile possono avere eruvin separati, oppure fare uno shituf comune che unisce entrambi i domini. Dipende dalla configurazione fisica degli spazi."
+    },
+    {
+      "n": 7,
+      "he": "מָבוֹי שֶׁיֵּשׁ לוֹ שְׁלֹשָׁה כְּתָלִים...",
+      "it": "Un mavuy che ha tre pareti chiuse e un solo lato aperto: questo è il caso ideale del mavuy, che richiede solo un lechi o una korah sul lato aperto. Se invece il mavuy ha solo due pareti (è aperto su due lati paralleli), ha la forma di una 'passerella' e richiede marcatori su entrambe le estremità."
+    },
+    {
+      "n": 8,
+      "he": "כֵּיצַד עוֹשִׂין לְמָבוֹי פָּסוּל...",
+      "it": "Come si rende valido un mavuy che è diventato invalido? Si può riparare il muro crollato, aggiungere un lechi o una korah adeguata, oppure fare uno shituf con tutti i residenti coinvolti. La riparazione deve avvenire prima del Sabato. Il Rambam elenca le diverse soluzioni a seconda del tipo di problema del mavuy."
+    },
+    {
+      "n": 9,
+      "he": "בֵּית שַׁעַר שֶׁל חָצֵר...",
+      "it": "Il portico (beit shaar) che si affaccia su un cortile: è considerato parte del cortile e incluso nell'eruv chatzerot del cortile. Non è necessario un eruv separato per il portico. Tuttavia, se il portico ha una porta e viene usato come spazio indipendente, potrebbe richiedere considerazione separata nello shituf del mavuy."
+    },
+    {
+      "n": 10,
+      "he": "מָבוֹי שֶׁנִּפְרַץ לִרְשׁוּת הָרַבִּים...",
+      "it": "Un mavuy che si apre su un dominio pubblico (reshut harabbim): il lechi o la korah deve essere collocato specificamente tra il mavuy e la reshut harabbim. Se invece si apre su un karmelit (dominio intermedio), le regole sono più permissive. Il confine tra il mavuy e la reshut harabbim è fondamentale per la validità dell'eruv."
+    },
+    {
+      "n": 11,
+      "he": "שְׁנֵי מָבוֹאוֹת שֶׁרֹאשֵׁיהֶם שָׁוִים...",
+      "it": "Due mavuy che si aprono sullo stesso tratto di strada: se le loro aperture sono allineate, il lechi di uno non serve per l'altro. Ciascun mavuy ha bisogno del proprio marcatore all'ingresso. Se invece le aperture sono su lati diversi della stessa strada, ciascuno richiede il proprio marcatore indipendente."
+    },
+    {
+      "n": 12,
+      "he": "שְׁלֹשָׁה מָבוֹאוֹת הַפְּתוּחִין לְחָצֵר...",
+      "it": "Tre mavuy che si aprono su un cortile comune: il cortile diventa il punto di connessione tra i mavuy. Se tutti i residenti dei tre mavuy e del cortile fanno un eruv comune, è permesso il trasporto in tutti gli spazi connessi. Se solo alcuni partecipano, vi sono restrizioni nei movimenti tra i vari spazi."
+    },
+    {
+      "n": 13,
+      "he": "הָיָה אֶחָד מֵחֲמִשָּׁה מְבוֹאוֹת...",
+      "it": "Se uno dei cinque mavuy connessi non ha il proprio shituf: invalida solo il proprio mavuy, non necessariamente tutti gli altri. Il principio è che ogni mavuy è un'unità autonoma. Ma se un mavuy senza eruv è il punto di passaggio principale tra gli altri mavuy, la sua assenza di eruv potrebbe influenzare il trasporto negli altri."
+    },
+    {
+      "n": 14,
+      "he": "מִי שֶׁאֵינוֹ רוֹצֶה לְהִשְׁתַּתֵּף...",
+      "it": "Chi non vuole partecipare allo shituf mevo'ot: può rifiutarsi, ma la sua presenza nel mavuy impedisce agli altri di trasportare. Come nell'eruv chatzerot, può cedere il proprio 'dominio' (bitul reshut) agli altri residenti del mavuy, consentendo loro di trasportare senza la sua partecipazione attiva."
+    },
+    {
+      "n": 15,
+      "he": "עַכּוּ\"ם הַדָּר בַּמָּבוֹי...",
+      "it": "Un non ebreo che abita nel mavuy: come nell'eruv chatzerot, la sua presenza invalida lo shituf mevo'ot. Occorre affittare simbolicamente il suo dominio (sechiras reshut) prima del Sabato. L'affitto simbolico può essere effettuato dando qualsiasi compenso minimo al non ebreo, che in cambio cede l'accesso al suo dominio per il Sabato."
+    },
+    {
+      "n": 16,
+      "he": "עַכּוּ\"ם שֶׁמֵּת בְּשַׁבָּת...",
+      "it": "Un non ebreo che muore durante il Sabato: se il suo dominio non era stato affittato prima del Sabato, il mavuy era invalido all'inizio del Sabato. La sua morte durante il Sabato non sana retroattivamente l'invalidità. Il principio è che la validità dell'eruv si valuta all'inizio del Sabato (bein hashmashot)."
+    },
+    {
+      "n": 17,
+      "he": "שְׁנֵי מָבוֹאוֹת הַזֶּה בְּצַד זֶה...",
+      "it": "Due mavuy uno accanto all'altro: se sono fisicamente separati, ognuno ha il proprio lechi o korah e il proprio shituf. Se si uniscono (per esempio per effetto di un crollo di una parete divisoria), devono fare uno shituf comune. Le regole della separazione e dell'unione dei mavuy seguono gli stessi principi dei cortili."
+    },
+    {
+      "n": 18,
+      "he": "מָבוֹי שֶׁהוּא כֻּלּוֹ שֶׁל יִשְׂרָאֵל אֶחָד...",
+      "it": "Un mavuy interamente di proprietà di un unico ebreo: non richiede un eruv shituf, poiché non vi sono più domini distinti da unire. Se però vi abitano più inquilini con affitti separati, ognuno è considerato un dominio a sé stante e richiedono lo shituf. Il principio è che la pluralità dei domini (bnei mavuy) è la condizione per richiedere lo shituf."
+    },
+    {
+      "n": 19,
+      "he": "בַּיִת הַפָּתוּחַ לִשְׁנֵי מְבוֹאוֹת...",
+      "it": "Un'abitazione che si apre su due mavuy diversi: il suo proprietario partecipa allo shituf di entrambi i mavuy. Se uno dei due mavuy non ha uno shituf valido, il trasporto è vietato in quel mavuy ma non nell'altro. Il proprietario deve fare attenzione a non trascinare oggetti dal mavuy valido a quello invalido attraverso la propria abitazione."
+    },
+    {
+      "n": 20,
+      "he": "מָבוֹי שֶׁעֵרְבוּ בּוֹ מִקְצָתוֹ וּמִקְצָתוֹ לֹא עֵרְבוּ...",
+      "it": "Un mavuy in cui solo alcuni residenti hanno partecipato allo shituf e altri no: i Saggi stabiliscono che quelli che non hanno partecipato impediscono il trasporto per tutti. Questo sottolinea il principio fondamentale dell'eruv: l'unità del mavuy richiede la partecipazione di tutti. La soluzione è il bitul reshut da parte dei non partecipanti, oppure che cedano il loro dominio ai partecipanti."
+    }
+  ],
+  "_glossary_terms_used": ["mavuy", "lechi", "korah", "shituf mevo'ot", "eruv chatzerot", "reshut harabbim", "karmelit", "sechiras reshut", "bitul reshut", "lavud", "bein hashmashot", "bnei mavuy", "tefachim", "amah"]
+}

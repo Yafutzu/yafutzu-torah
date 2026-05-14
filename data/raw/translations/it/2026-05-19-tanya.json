@@ -1,0 +1,25 @@
+{
+  "ref": "Tanya, Part I; Likkutei Amarim 53:6-8",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק נג",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 53 (segmenti 6-8)",
+  "cycle": "tanya-yomi",
+  "date": "2026-05-19",
+  "hebrew_date": "3 Sivan 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 7,
+      "he": "כִּי עַל יְדֵי הִתְהַפְּכוּת נֶפֶשׁ הַבַּהֲמִית, הַבָּאָה מִקְּלִיפַּת נוֹגַהּ, מֵחֲשׁוֹכָא לִנְהוֹרָא וְכוּ׳ — נַעֲשֶׂה מֶרְכָּבָה לַה׳ בָּעוֹלָם הַזֶּה הַגַּשְׁמִי…",
+      "it": "Attraverso la trasformazione dell'anima animale — che proviene dalla klipat nogah — dall'oscurità alla luce e dall'amaro al dolce, ci si rende un carro (merkavà) per D-o in questo mondo fisico, proprio come i Patriarchi erano un carro completo (merkavà shlemà) per la Divinità. Questo è il significato dell'espressione: «Avraham divenne vecchio, avanzato nei giorni» — i suoi giorni erano tutti pieni di santità e servizio divino, senza alcuna mescolanza di sitra achra. Così ogni ebreo che trasforma tutta la propria natura animale in santità realizza questo livello di merkavà nel mondo. La Torah è la rivelazione della Volontà Divina nel mondo, e le mitzv ot la attuano nella realtà fisica — trasformando il mondo in dimora per D-o (dirah ba-tachtonim)."
+    },
+    {
+      "n": 8,
+      "he": "נִשְׁלַם חֵלֶק רִאשׁוֹן בְּﬠֶזְרַת ה׳ יִתְבָּרֵךְ וְיִתְﬠַלֶּה",
+      "it": "Si è conclusa la Prima Parte con l'aiuto dell'Eterno, sia Egli benedetto e sublimato."
+    }
+  ],
+  "_glossary_terms_used": [
+    "klipat nogah", "merkavà", "sitra achra", "dirah ba-tachtonim", "Patriarchi"
+  ]
+}

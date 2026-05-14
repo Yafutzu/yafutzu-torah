@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 10",
+  "name_he": "משנה תורה, הלכות שבועות, פרק י",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 10",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-17",
+  "hebrew_date": "8 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבוּעַת הֶסֵּת — תַּקָּנַת חֲכָמִים הִיא…",
+      "it": "La «shevu'at heset» (giuramento del silenzio/alleggerimento) è un'istituzione rabbinica. Quando un attore sostiene di avere un credito nei confronti del convenuto, ma non ha prove sufficienti per obbligare il convenuto a giurare un giuramento biblico — i Saggi hanno istituito che il convenuto giuri comunque un giuramento leggero (il «heset») e venga creduto. Il nome «heset» indica che il giuramento «allontana» (meisit) la pretesa dell'attore: una volta che il convenuto giura, l'attore non può più reclamare."
+    },
+    {
+      "n": 2,
+      "he": "עַל מָה מַשְׁבִּיעִין שְׁבוּעַת הֶסֵּת…",
+      "it": "Su che cosa si giura il giuramento heset? Su qualsiasi pretesa pecuniaria per la quale il convenuto affermi di non dover nulla, anche se non vi è alcun testimone a suo sostegno e nemmeno contro di lui. Il principio: l'attore ha la parola contro il convenuto; i Saggi hanno stabilito che il convenuto giuri per rafforzare la sua posizione. Persino su una pretesa di un perutah (la moneta più piccola) si applica lo shevu'at heset."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד מַשְׁבִּיעִין אוֹתוֹ…",
+      "it": "Come si fa giurare il giuramento heset? Il convenuto giura tenendo in mano un oggetto sacro (un rotolo della Torah o i tefillin) e afferma: «Giuro che non devo nulla a questo uomo, né questo importo né nulla di simile.» Non si richiedono le procedure elaborate dello shevu'at ha-Torah biblico — il giuramento heset è una formula semplificata. Tuttavia è pur sempre un giuramento e chi giura il falso viola un divieto Torah."
+    },
+    {
+      "n": 4,
+      "he": "מִי שֶׁהֻשְׁבַּע שְׁבוּעַת הֶסֵּת וְלֹא רָצָה לִשָּׁבַע…",
+      "it": "Chi viene richiesto di prestare lo shevu'at heset e si rifiuta di giurare — paga. Il suo rifiuto viene considerato equivalente ad un'ammissione implicita della pretesa dell'attore. La ratio: chi è innocente non si rifiuta di giurare; chi si rifiuta dimostra di temere il giuramento perché sa di essere nel torto. I Saggi hanno quindi stabilito che il rifiuto comporti il pagamento obbligatorio."
+    },
+    {
+      "n": 5,
+      "he": "יֵשׁ מִקּוֹם שֶׁמַּשְׁבִּיעִין אֶת הַתּוֹבֵעַ…",
+      "it": "Vi sono casi in cui il giuramento ricade sull'attore anziché sul convenuto: ad esempio, quando l'attore sostiene di aver prestato denaro e il convenuto afferma di aver restituito, ma non vi è alcun testimone — in certi contesti il giuramento cade sull'attore. I maestri del Talmud hanno discusso in dettaglio i casi specifici. Il principio generale è che il giuramento segue chi ha la posizione più debole nella disputa — chi ha più bisogno di essere creduto dal tribunale."
+    },
+    {
+      "n": 6,
+      "he": "כָּל מִי שֶׁנִּשְׁבַּע — נֶאֱמָן…",
+      "it": "Chiunque giuri — viene creduto. Questo è il principio fondamentale dello shevu'at heset: il giuramento crea credibilità. Il sistema è basato sulla sacralità del nome divino: un ebreo timoroso del cielo non giurerà il falso, quindi il suo giuramento crea presunzione di verità. Il tribunale non indaga ulteriormente dopo che un giuramento è stato prestato correttamente. Tuttavia, se in seguito emergono prove che il giuramento era falso, il giuratore è soggetto alle sanzioni per giuramento falso."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shevu'at heset", "shevu'at ha-Torah", "perutah", "tefillin", "heset"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Geneivah 9; Hilchot Gezelah VeAvedah 1-2",
+  "name_he": "משנה תורה, הלכות גניבה פרק ט; הלכות גזלה ואבדה פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi del Furto, capitolo 9; Leggi della Rapina e degli Oggetti Smarriti (Gezelah VeAvedah), capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-09-30",
+  "hebrew_date": "19 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "גָּנַב וְנִשְׁתַּנֶּה הַחֵפֶץ בְּיָדוֹ — כְּגוֹן שֶׁגָּנַב עֵצִים וַעֲשָׂאָם כְּלִי — קָנָה בְּשִׁנּוּי. מַחֲזִיר דָּמִים.",
+      "it": "Ha rubato e l'oggetto si è trasformato nelle sue mani — ad esempio se ha rubato legno e ne ha fatto un vaso — l'ha acquisito per trasformazione. Restituisce il valore in denaro."
+    },
+    {
+      "n": "9:2",
+      "he": "נִשְׁתַּנֶּה מֵאֵלָיו — כְּגוֹן שֶׁגָּנַב שׁוֹר וּמֵת — מְשַׁלֵּם שׁוּם שׁוֹר חַי. נִגְמְרוּ הִלְכוֹת גְּנֵבָה.",
+      "it": "Si è trasformato da solo — ad esempio ha rubato un bue ed è morto — paga il valore di un bue vivo. Si concludono le Leggi del Furto (Hilchot Geneivah)."
+    },
+    {
+      "n": "1:1",
+      "he": "הַגַּזְלָן — זֶה הַלּוֹקֵחַ מָמוֹן חֲבֵרוֹ בְּחֹזֶק יָד. אֲסוּר מִן הַתּוֹרָה שֶׁנֶּאֱמַר: 'לֹא תִּגְזֹל.' הַגַּזְלָן מְשַׁלֵּם רַק מַה שֶּׁגָּזַל, בְּלֹא כֶּפֶל.",
+      "it": "Il rapinatore (gazlan) — è chi prende la proprietà del prossimo con la forza. È proibito dalla Torah come è detto: 'Non deruberai.' Il rapinatore paga solo ciò che ha rapinato, senza kefel."
+    },
+    {
+      "n": "1:2",
+      "he": "הַגַּזְלָן חַיָּב לְהַחֲזִיר אֶת עַצְמוֹ שֶׁל הַגְּזֵלָה. אִם שִׁנָּהּ אוֹ אִבְּדָהּ — מְשַׁלֵּם דָּמֶיהָ.",
+      "it": "Il rapinatore è obbligato a restituire la cosa rapinata stessa. Se l'ha trasformata o distrutta — ne paga il valore."
+    },
+    {
+      "n": "1:3",
+      "he": "חוֹבֵת הַשָּׁבַת אֲבֵדָה — מִצְוַת עֲשֵׂה מִן הַתּוֹרָה לְהַחֲזִיר אֲבֵדַת חֲבֵרוֹ. שֶׁנֶּאֱמַר: 'הָשֵׁב תְּשִׁיבֵם.'",
+      "it": "L'obbligo di restituire l'oggetto smarrito — è un precetto positivo della Torah restituire l'oggetto smarrito del prossimo. Come è detto: 'Restituirai, restituirai.'"
+    },
+    {
+      "n": "2:1",
+      "he": "מָצָא אֲבֵדָה — חַיָּב לְהַכְרִיז עָלֶיהָ עַד שֶׁיָּבוֹא בַּעְלֶיהָ. אֵין הַמּוֹצֵא יָכוֹל לִקְחַת לְעַצְמוֹ.",
+      "it": "Ha trovato un oggetto smarrito — è obbligato ad annunciarlo finché non arriva il proprietario. Chi trova non può tenerlo per sé."
+    },
+    {
+      "n": "2:2",
+      "he": "אֵלּוּ אֲבֵדוֹת שֶׁחַיָּב לְהַכְרִיז עֲלֵיהֶן: כִּסוּי, סַנְדָּל, כֵּלִים, מִינֵי אוֹכֶל שֶׁיֵּשׁ לָהֶן סִימָן.",
+      "it": "Questi sono gli oggetti smarriti su cui è obbligato ad annunciare: un mantello, un sandalo, utensili, tipi di cibo che hanno un segno distintivo."
+    },
+    {
+      "n": "2:3",
+      "he": "מָצָא דָּבָר שֶׁאֵין בּוֹ סִימָן — הֲרֵי זֶה שֶׁלּוֹ. שֶׁמִּסְּתָמָא נִתְיָאֵשׁ הַבַּעָלִים.",
+      "it": "Ha trovato qualcosa senza segno distintivo — è suo. Perché presumibilmente il proprietario vi ha rinunciato."
+    },
+    {
+      "n": "2:4",
+      "he": "יֵאוּשׁ — כְּלוֹמַר כְּשֶׁהַבַּעָלִים מְיַאֲשִׁים עַצְמָם — כֵּיוָן שֶׁנִּתְיָאֲשׁוּ, הַמּוֹצֵא קוֹנֶה. אֲבָל לִפְנֵי יֵאוּשׁ — חַיָּב לְהַחֲזִיר.",
+      "it": "La rinuncia (ye'ush) — cioè quando il proprietario vi rinuncia — una volta rinunciato, chi trova acquisisce. Ma prima della rinuncia — è obbligato a restituire."
+    }
+  ],
+  "_glossary_terms_used": ["gazlan", "gezelah", "hashavas avedah", "ye'ush", "siman", "Gezelah VeAvedah"]
+}

@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 4",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ד",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 4",
+  "cycle": "rambam-1",
+  "date": "2026-09-21",
+  "hebrew_date": "10 Tishrei 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "צָרִיךְ הַבַּעַל לִתֵּן אֶת הַגֵּט לְיַד הָאִשָּׁה מְיֻחֶדֶת, שֶׁנֶּאֱמַר: 'וְנָתַן בְּיָדָהּ.' וְאִם נָתַן לָהּ שֶׁלֹּא בְּיָדָהּ — יֵשׁ לִבְדֹּק אִם נִכְנַס לִרְשׁוּתָהּ.",
+      "it": "Il marito deve consegnare il get specificamente nella mano della moglie, come è detto: 'E glielo metterà in mano.' Se l'ha consegnato non nella sua mano — si verifica se è entrato nel suo dominio."
+    },
+    {
+      "n": 2,
+      "he": "נָתַן לָהּ בַּחֵיקָהּ אוֹ בִּכְלִי שֶׁבְּיָדָהּ — הֲרֵי זֶה כְּיָדָהּ, וּמְגֹרֶשֶׁת.",
+      "it": "Se l'ha posto nel suo grembo o in un vaso che tiene in mano — è come se fosse nella sua mano, e lei è divorziata."
+    },
+    {
+      "n": 3,
+      "he": "נָתַן לָהּ בִּרְשׁוּתָהּ שֶׁלֹּא בְּיָדָהּ — כְּגוֹן שֶׁהִנִּיחַ בַּחֲצֵרָהּ — מְגֹרֶשֶׁת, שֶׁרְשׁוּת הָאִשָּׁה כְּיָדָהּ.",
+      "it": "Se l'ha posto nel suo dominio ma non nella sua mano — ad esempio se lo ha lasciato nel suo cortile — lei è divorziata, perché il dominio della donna è come la sua mano."
+    },
+    {
+      "n": 4,
+      "he": "רְשׁוּת שֶׁאֵינָהּ מְיֻחֶדֶת לָהּ בִּלְבַד — כְּגוֹן חֲצַר בַּעְלָהּ — אֵינָהּ כְּיָדָהּ.",
+      "it": "Un dominio non esclusivamente suo — come il cortile del marito — non è come la sua mano."
+    },
+    {
+      "n": 5,
+      "he": "הִגְבִּיהַ הַגֵּט לְמַעְלָה מֵעֲשָׂרָה טְפָחִים בִּרְשׁוּת הָרַבִּים וְנָפַל בִּרְשׁוּתָהּ — מְגֹרֶשֶׁת, כִּי בְּאֹוִיר רְשׁוּתָהּ הוּא כְּבָר.",
+      "it": "Se ha sollevato il get oltre dieci spanne nel dominio pubblico e quello è caduto nel suo dominio — lei è divorziata, perché già si trovava nell'aria del suo dominio."
+    },
+    {
+      "n": 6,
+      "he": "נִתַּן הַגֵּט לִרְשׁוּת שְׁנֵיהֶם יַחְדָּו — אֵינָה מְגֹרֶשֶׁת, שֶׁהַחֲצַר הַמְּשֻׁתֶּפֶת אֵינָהּ כְּיָדָהּ לְבַדָּהּ.",
+      "it": "Se il get è stato posto in un dominio comune a entrambi — lei non è divorziata, perché il cortile condiviso non è come la sua mano esclusiva."
+    },
+    {
+      "n": 7,
+      "he": "צָרִיךְ שֶׁיִּהְיֶה הַגֵּט נִתָּן לְשֵׁם גֵּרוּשִׁין — כְּלוֹמַר בְּכַוָּנָה לְגָרֵשׁ בּוֹ. נָתַן הַגֵּט שֶׁלֹּא לְשֵׁם גֵּרוּשִׁין — פָּסוּל.",
+      "it": "Il get deve essere consegnato con l'intenzione del divorzio — cioè con il proposito di divorziare per mezzo di esso. Se consegnato senza tale intenzione — è invalido."
+    },
+    {
+      "n": 8,
+      "he": "כֵּיצַד? נָתַן לָהּ גֵּט וְאָמַר 'נִיָּר זֶה אֲנִי נוֹתֵן לֵיךְ' — אֵינָהּ מְגֹרֶשֶׁת. חָזַר וְאָמַר 'גֵּט הוּא' — מְגֹרֶשֶׁת.",
+      "it": "Come? Ha consegnato il get dicendo 'Ti dono questa carta' — lei non è divorziata. Se poi ha detto 'È un get' — lei è divorziata."
+    },
+    {
+      "n": 9,
+      "he": "נָתַן לָהּ וְאָמַר 'הֲרֵי זֶה גִּטֵּךְ' — מְגֹרֶשֶׁת. לֹא אָמַר כְּלוּם — יֵשׁ לִבְדֹּק אֶת הַגֵּט אִם כָּתוּב בּוֹ כִּי הוּא גֵּט.",
+      "it": "Se ha consegnato dicendo 'Ecco il tuo get' — lei è divorziata. Se non ha detto nulla — si verifica il get se vi è scritto che è un get."
+    },
+    {
+      "n": 10,
+      "he": "נָתַן לָהּ הַבַּעַל הַגֵּט בְּאֹנֶס הַגּוּף — כְּגוֹן שֶׁאֲחֵרִים פָּתְחוּ יָדוֹ בְּכֹחַ וְהִכְנִיסוּ בְּיַד הָאִשָּׁה — פָּסוּל.",
+      "it": "Se il marito ha consegnato il get sotto coercizione fisica — ad esempio se altri gli hanno aperto la mano con la forza e lo hanno messo nella mano della moglie — il get è invalido."
+    },
+    {
+      "n": 11,
+      "he": "הָאִשָּׁה צְרִיכָה לְקַבֵּל בְּדַעַת — אִשָּׁה חֵרֶשֶׁת אוֹ שׁוֹטָה שֶׁקִּבְּלָה גֵּט — אֵינָה מְגֹרֶשֶׁת.",
+      "it": "La donna deve ricevere il get consapevolmente — una sordomuta o una folle che ha ricevuto un get non è divorziata."
+    },
+    {
+      "n": 12,
+      "he": "הָיְתָה יְשֵׁנָה וְנָתַן הַגֵּט בְּיָדָהּ — לֹא נִתְגָּרְשָׁה עַד שֶׁתֵּעוֹר וְתֵדַע שֶׁיֵּשׁ גֵּט בְּיָדָהּ וְתֹאמַר 'הַגֵּט שֶׁלִּי הוּא.'",
+      "it": "Se era addormentata e le ha posto il get in mano — non è divorziata finché non si sveglia, sa che ha il get in mano e dice 'È il mio get.'"
+    },
+    {
+      "n": 13,
+      "he": "הָיְתָה עוֹמֶדֶת בְּרֹאשׁ הַגַּג וְזָרַק לָהּ — אִם הִגִּיעַ לְאֲוִיר הַגַּג קֹדֶם שֶׁהִגִּיעַ לְרַשׁוּתָהּ — מְגֹרֶשֶׁת.",
+      "it": "Se era in cima al tetto e lui glielo ha lanciato — se ha raggiunto l'aria del tetto prima del suo dominio — lei è divorziata."
+    },
+    {
+      "n": 14,
+      "he": "הָאִישׁ עוֹמֵד לְמַעְלָה וְהַגֵּט בָּא מִלְּמַעְלָה לְמַטָּה — כֵּיוָן שֶׁיָּצָא מִיַּד הַבַּעַל לַאֲוִיר הָרְשׁוּת — הֲרֵי זוֹ מְגֹרֶשֶׁת.",
+      "it": "Se il marito è in alto e il get viene dall'alto verso il basso — non appena è uscito dalla mano del marito nell'aria del dominio — lei è divorziata."
+    },
+    {
+      "n": 15,
+      "he": "זָרַק לָהּ הַגֵּט וּנְפַל בַּיָּם — לֹא נִתְגָּרְשָׁה.",
+      "it": "Se le ha lanciato il get e questo è caduto in mare — lei non è divorziata."
+    },
+    {
+      "n": 16,
+      "he": "נָשַׂא הָרוּחַ אֶת הַגֵּט מִיַּד הַבַּעַל וְהֵבִיאוֹ לִרְשׁוּת הָאִשָּׁה — לֹא נִתְגָּרְשָׁה, שֶׁלֹּא נָתַן הַבַּעַל בִּרְצוֹנוֹ.",
+      "it": "Se il vento ha portato via il get dalla mano del marito verso il dominio della moglie — lei non è divorziata, perché il marito non ha consegnato di propria volontà."
+    },
+    {
+      "n": 17,
+      "he": "צָרִיךְ שֶׁיִּהְיֶה הַנְּתִינָה בִּפְנֵי שְׁנֵי עֵדִים. בֵּין שֶׁהָיוּ עֵדֵי הַחֲתִימָה הֵם עֵדֵי הַמְּסִירָה, בֵּין שֶׁהָיוּ אֲחֵרִים.",
+      "it": "La consegna deve avvenire davanti a due testimoni. Sia che i testimoni della firma siano gli stessi della consegna, sia che siano altri."
+    },
+    {
+      "n": 18,
+      "he": "לֹא הָיוּ עֵדִים בִּשְׁעַת הַמְּסִירָה — כָּשֵׁר בְּדִיעֲבַד לְפִי הָרַמְבַּ\"ם, שֶׁהָעֵדִים לְקִיּוּם הַגֵּט הֵם עֵדֵי הַחֲתִימָה.",
+      "it": "Se non c'erano testimoni al momento della consegna — è valido dopo il fatto secondo il Rambam, perché i testimoni della firma sono i testimoni che danno forza al get."
+    },
+    {
+      "n": 19,
+      "he": "נָתַן לָהּ גֵּט בְּלֵילָה — כָּשֵׁר. בְּשַׁבָּת — כָּשֵׁר בְּדִיעֲבַד, אַף שֶׁעָבַר עַל הַשַּׁבָּת.",
+      "it": "Se le ha consegnato il get di notte — è valido. Di Shabbat — è valido dopo il fatto, anche se ha violato il Shabbat."
+    },
+    {
+      "n": 20,
+      "he": "גֵּרוּשִׁין צְרִיכִים לִהְיוֹת 'לְשֵׁם גֵּרוּשִׁין' — כָּל הָעִסְקָה בַּגֵּט צְרִיכָה לִהְיוֹת בְּכַוָּנָה לְגָרֵשׁ בּוֹ אֶת אִשְׁתּוֹ זוֹ.",
+      "it": "Il divorzio deve essere 'per il bene del divorzio' — l'intero atto del get deve essere compiuto con l'intenzione di divorziare da questa sua moglie."
+    }
+  ],
+  "_glossary_terms_used": ["get", "reshut", "yad", "le-shem gerushin", "edim", "ones"]
+}

@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Valuations and Vows 5-7",
+  "name_he": "משנה תורה, הלכות ערכין וחרמין, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi delle Stime e dei Voti di Consacrazione, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-05-31",
+  "hebrew_date": "15 Sivan 5786",
+  "halachot_count": 29,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "הָאוֹמֵר דָּמַי עָלַי — שָׁמִין אוֹתוֹ כְּעֶבֶד הַנִּמְכָּר בַּשּׁוּק…",
+      "it": "(Cap. 5, hal. 1) Chi dice «il mio prezzo sia su di me» (damai alai) — si valuta come uno schiavo venduto al mercato: il suo valore è il prezzo che verrebbe pagato per lui se fosse schiavo, considerando la sua forza, salute, abilità lavorativa. Questo è diverso dall'erech (stima fissa per età/sesso): i «damim» dipendono dalla persona specifica e dal suo stato fisico."
+    },
+    {
+      "n": 5:2-7",
+      "he": "הָאוֹמֵר דָּמֵי יָדִי עָלַי — שָׁמִין אוֹתוֹ כַּמָּה שָׁוֶה כְּאַדָם שֶׁנִּכְרְתָה יָדוֹ…",
+      "it": "(Cap. 5, hal. 2-7) Chi dice «il prezzo della mia mano sia su di me» — si valuta quanto vale un uomo con la mano amputata rispetto a un uomo sano della stessa età e condizione: la differenza di prezzo è quanto deve pagare. Chi dice «il prezzo del mio occhio» — la valutazione è simile. Le halachot 3-7 specificano: valutazione di organi diversi; il caso di organi non indispensabili (capelli, unghie, orecchie); chi valuta l'organo di un altro; chi dice «il prezzo della mia anima» — paga l'intero suo valore come schiavo; la differenza tra chi valuta se stesso e chi valuta un altro."
+    },
+    {
+      "n": "5:8-13",
+      "he": "הַמַּקְדִּישׁ נְכָסָיו וְהָיוּ בָּהֶם כֵּלִים הָרְאוּיִין לַכֹּהֲנִים…",
+      "it": "(Cap. 5, hal. 8-13) Chi consacra i propri beni al Tempio e tra essi vi erano oggetti idonei al servizio sacro — quegli oggetti vanno direttamente al servizio del Tempio; gli altri si vendono. Le halachot 9-13 specificano: il caso di beni misti (parte sacra, parte profana) che vengono consacrati insieme; il caso in cui il tesoro del Tempio (gabbai hekdesh) riscatta i beni; la valutazione degli immobili per la consacrazione; il riscatto dei propri beni consacrati (che si può fare pagando il valore più un quinto)."
+    },
+    {
+      "n": "6:1",
+      "he": "הַמַּקְדִּישׁ שָׂדֵהוּ בִּשְׁנַת הַיּוֹבֵל — שׁוֹמְטִים אֶת הַשָּׂדֶה לַמִּקְדָּשׁ…",
+      "it": "(Cap. 6, hal. 1) Chi consacra il proprio campo nell'anno del Giubileo — il campo passa automaticamente al Tempio, poiché il Giubileo avrebbe liberato il campo dal compratore. Il valore del campo nell'anno del Giubileo è di cinquanta sicli per ogni beit kor di terreno seminativo di prima qualità (sadeh zabur)."
+    },
+    {
+      "n": "6:2-8",
+      "he": "הַמַּקְדִּישׁ בֵּין יוֹבֵל לְיוֹבֵל — לְפִי שְׁנוֹת הַנּוֹתָרוֹת…",
+      "it": "(Cap. 6, hal. 2-8) Chi consacra tra un Giubileo e l'altro — il valore si riduce proporzionalmente agli anni rimanenti fino al prossimo Giubileo. Per ogni anno rimanente si paga un siclo e due terzi di siclo per ogni beit kor. Le halachot 3-8 specificano: il calcolo esatto degli anni rimanenti; il caso di chi consacra il campo e non lo riscatta — il campo passa ai kohanim nel Giubileo; il campo che i kohanim ricevono — non può essere venduto né riscattato, rimane ai kohanim come proprietà permanente; la regola del campo «mikneh» (acquistato, non ereditato) — ha regole diverse."
+    },
+    {
+      "n": "6:9-15",
+      "he": "שָׂדֶה אֲחֻזָּה שֶׁלֹּא נִגְאֲלָה — יוֹצֵאת בַּיּוֹבֵל לַכֹּהֲנִים…",
+      "it": "(Cap. 6, hal. 9-15) Il campo ereditato (sadeh achuzah) che non è stato riscattato — esce al Giubileo ai kohanim. Una volta passato ai kohanim — è campo di cherem e non può tornare all'originario proprietario né può essere venduto. Le halachot 10-15 specificano: il caso in cui il campo consacrato viene poi venduto dal Tempio a un terzo; il caso in cui il compratore consacra il campo a sua volta; il valore residuo del campo quando il compratore lo riscatta; la differenza tra il campo dell'Israelita e il campo del Levita nei calcoli di consacrazione."
+    },
+    {
+      "n": "7:1",
+      "he": "הַחֵרֶם — שְׁלֹשָׁה מִינִים…",
+      "it": "(Cap. 7, hal. 1) Il cherem ha tre tipi: (1) cherem la-Shem (per il Signore) — va al Tempio, non si può riscattare; (2) cherem la-kohanim (per i sacerdoti) — va ai kohanim e diventa loro proprietà; (3) cherem ha-kvar (cherem già effettuato) — un animale già diventato cherem, che ora viene nuovamente dichiarato cherem. Il tipo (3) non aggiunge nulla — il cherem già esiste."
+    },
+    {
+      "n": "7:2-8",
+      "he": "הַחֵרֶם הַסְּתָם — לַגָּבוֹהַּ…",
+      "it": "(Cap. 7, hal. 2-8) Il cherem non specificato (stam) — va al Tempio (la-Shem). Se ha detto esplicitamente «la-kohanim» — va ai kohanim. Le halachot 3-8 specificano: il cherem su un animale con difetto — non diventa sacrificio, ma si vende e il ricavato al Tempio; il cherem su un primo nato (bekhor) — il primo nato è già consacrato ai kohanim, il cherem aggiuntivo non ha effetto; il cherem su una cosa già proibita (come cibo non kasher) — non ha effetto; il caso di chi ha detto «siano consacrati tutti i miei beni» — l'obbligo halachico verso la moglie e i figli (ketuvah, mezonot) non rientra nel cherem; il cherem non può includere il necessario per la vita dell'uomo stesso."
+    }
+  ],
+  "_glossary_terms_used": [
+    "damim", "erech", "hekdesh", "cherem", "gabbai hekdesh", "sadeh achuzah", "sadeh mikneh", "beit kor", "kohanim", "Giubileo", "ketuvah", "mezonot", "bekhor"
+  ]
+}

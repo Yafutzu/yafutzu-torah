@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 30",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק ל",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 30",
+  "cycle": "tanya-yomi",
+  "date": "2026-12-02",
+  "hebrew_date": "23 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מוֹחִין דְּגַדְלוּת — מוֹחִין דְּקַטְנוּת...",
+      "it": "L'Alter Rebbe introduce due stati di coscienza nella vita spirituale: «mochin de-gadlut» (coscienza espansa, mente grande) e «mochin de-katnut» (coscienza contratta, mente piccola). Durante la preghiera con piena concentrazione (kavanah), la persona sperimenta mochin de-gadlut — un senso di connessione, presenza, espansione spirituale. Nel corso della giornata ordinaria, si sperimenta naturalmente mochin de-katnut — la coscienza si restringe verso le preoccupazioni quotidiane."
+    },
+    {
+      "n": 2,
+      "he": "הַתְּנוּדוֹת בֵּין הַמַּדְרֵגוֹת — טִבְעִיּוֹת הֵן...",
+      "it": "Le oscillazioni tra questi due stati sono naturali (tiv'iyot) e non costituiscono un fallimento spirituale. L'Alter Rebbe insegna esplicitamente: non bisogna scoraggiarsi quando, dopo una preghiera intensa, ci si ritrova nella quotidianità con mochin de-katnut. Questa alternanza è la struttura stessa della vita spirituale del beinoni (uomo medio). La persona che non comprende questo può cadere nello scoraggiamento (atzvut) — che l'Alter Rebbe considera uno dei maggiori ostacoli spirituali."
+    },
+    {
+      "n": 3,
+      "he": "הַמּוֹחִין דְּגַדְלוּת שֶׁל הַתְּפִלָּה — מְחַזְּקִין אֶת הַמּוֹחִין דְּקַטְנוּת...",
+      "it": "I momenti di mochin de-gadlut durante la preghiera non sono fini a se stessi — servono a rafforzare e illuminare i momenti di mochin de-katnut della vita quotidiana. Come l'accumulo di luce solare permette al fiore di crescere anche di notte, così l'intensità della preghiera nutre l'anima durante le ore di lavoro e attività ordinaria. L'Alter Rebbe insegna che il beinoni deve usare l'energia spirituale della preghiera mattutina come «riserva» per tutto il giorno."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mochin de-gadlut", "mochin de-katnut", "kavanah", "beinoni", "atzvut", "tiv'iyot"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 6",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק ו",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 6",
+  "cycle": "rambam-1",
+  "date": "2026-08-01",
+  "hebrew_date": "18 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כיצד מחשבין מקום הירח האמיתי? תחילה יודעים מהלך האמצע שלו לאותו היום, ואחר כך יודעים מהלך המנוע שלו, ומצרפים שניהם ויוצא מקום הירח האמיתי.",
+      "it": "Come si calcola la posizione vera della luna (mekom ha-ire'iyah)? Prima si determina il moto medio (mahalachat hemtza) della luna per quel giorno, poi si determina il valore dell'anomalia (mana'a), e combinando i due si ottiene la posizione vera della luna."
+    },
+    {
+      "n": 2,
+      "he": "המנוע הוא המרחק שבין מקום הירח האמיתי לבין מקום האמצע שלו. ויש מדרגות שבהן המנוע הוא מוסיף ויש שהוא גורע, הכל לפי הלוחות.",
+      "it": "L'anomalia (mana'a) è la distanza tra la posizione vera della luna e la sua posizione media. Vi sono gradi in cui l'anomalia è additiva e gradi in cui è sottrattiva, tutto secondo le tavole astronomiche."
+    },
+    {
+      "n": 3,
+      "he": "אם היה המנוע מאפס ועד מאה ושמונים מעלות — גורעים הניכוי מן האמצע; ואם היה ממאה ושמונים ועד שלוש מאות ושישים — מוסיפים הניכוי על האמצע.",
+      "it": "Se l'anomalia va da zero a centottanta gradi, si sottrae il valore di correzione dalla posizione media. Se va da centottanta a trecentosessanta gradi, si aggiunge il valore di correzione alla posizione media."
+    },
+    {
+      "n": 4,
+      "he": "כיצד מחשבים את הניכוי? לפי לוחות הניכוי המפורסמים לחכמי התכונה. כל מדרגה ומדרגה של המנוע יש לה ניכוי ידוע, ועד עשר מעלות של מנוע הניכוי קטן, ומשם ואילך הולך וגדל.",
+      "it": "Come si calcola il valore di correzione? Secondo le tavole di correzione note agli astronomi. Ogni grado dell'anomalia ha una correzione definita: fino a dieci gradi di anomalia la correzione è piccola, da lì in poi cresce progressivamente."
+    },
+    {
+      "n": 5,
+      "he": "ומה שיצא מן החשבון אחר גריעת הניכוי או הוספתו — הוא מקום הירח האמיתי. כלומר, המזל שנמצאת הלבנה בו באמת בשמים באותה שעה.",
+      "it": "Il risultato ottenuto dopo aver sottratto o aggiunto il valore di correzione è la posizione vera della luna (mekom ha-emet), ovvero il segno zodiacale (mazzal) in cui la luna si trova effettivamente nel cielo in quel momento."
+    },
+    {
+      "n": 6,
+      "he": "אחר שיודעים מקום הירח האמיתי, ידוע גם האורך שלו — כלומר, כמה מעלות יש בין הלבנה לבין השמש. וזה האורך הוא הנקרא 'ראשון מן החשבון' לעניין קביעת הראיה.",
+      "it": "Una volta nota la posizione vera della luna, si conosce anche la sua elongazione (orekh) — ovvero quanti gradi intercorrono tra la luna e il sole. Questa elongazione è chiamata 'il primo elemento del calcolo' per la determinazione della visibilità lunare."
+    },
+    {
+      "n": 7,
+      "he": "כל החשבון הזה הוא מבואר בלוחות המצורפים, ואין אנו יכולים לפרטם כאן. ואדם שירצה ללמוד ולחשב — יעיין באותם הלוחות וילמד את שיטת החישוב.",
+      "it": "Tutti questi calcoli sono spiegati nelle tavole allegate, e non è possibile dettarli per intero in questa sede. Chi desidera studiare e calcolare dovrà consultare le tavole stesse e apprenderne il metodo."
+    }
+  ],
+  "_glossary_terms_used": ["mekom ha-ire'iyah", "mahalachat hemtza", "mana'a", "mekom ha-emet", "mazzal", "orekh"]
+}

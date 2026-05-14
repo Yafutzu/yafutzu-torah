@@ -1,0 +1,97 @@
+{
+  "ref": "Mishneh Torah, Blessings 11",
+  "name_he": "הלכות ברכות, פרק יא",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 11",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-14",
+  "hebrew_date": "27 Iyyar 5786",
+  "halachot_count": 16,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל הַבְּרָכוֹת כֻּלָּן פּוֹתֵחַ בָּהֶם בְּבָרוּךְ וְחוֹתֵם בָּהֶם בְּבָרוּךְ…",
+      "it": "Tutte le benedizioni iniziano con «Baruch» e terminano con «Baruch», eccetto: l'ultima benedizione della recitazione dello Shema, le benedizioni che si susseguono in serie, le benedizioni sui frutti e simili, le benedizioni sull'adempimento delle mitzvòt, e quelle benedizioni di lode e ringraziamento che abbiamo menzionato. Tra queste ultime ve ne sono alcune che iniziano con «Baruch» ma non terminano con «Baruch», e altre che terminano con «Baruch» ma non iniziano con esso — ad eccezione di alcune poche benedizioni sulle mitzvòt, come la benedizione sulla lettura della Torah e quella recitata alla vista di cimiteri ebraici. Le restanti benedizioni sulle mitzvòt tutte iniziano con «Baruch» e non terminano con esso."
+    },
+    {
+      "n": 2,
+      "he": "יֵשׁ מִצְוֹת עֲשֵׂה שֶׁאָדָם חַיָּב לְהִשְׁתַּדֵּל וְלִרְדֹּף עַד שֶׁיַּעֲשֶׂה אוֹתָהּ…",
+      "it": "Vi sono mitzvòt positive che una persona è tenuta a ricercare e a perseguire fino ad adempierle — come tefillin, sukkà, lulav e shofar. Queste si chiamano «obblighi» (chovà), poiché l'uomo è in ogni caso tenuto ad adempierle. Vi sono altre mitzvòt che non costituiscono un obbligo assoluto ma assomigliano a un atto volontario — come mezuzà e parapetto (ma'akè): l'uomo non è obbligato ad abitare in una casa che richiede la mezuzà al solo scopo di adempire questa mitzvà; può vivere in una tenda o su una nave per tutta la sua vita. Allo stesso modo non è obbligato a costruire una casa per adempiere la mitzvà del parapetto. Su tutte le mitzvòt positive tra l'uomo e D-o — sia quelle obbligatorie sia quelle non obbligatorie — si recita la benedizione prima di adempierle."
+    },
+    {
+      "n": 3,
+      "he": "וְכֵן כָּל הַמִּצְוֹת שֶׁהֵן מִדִּבְרֵי סוֹפְרִים…",
+      "it": "Lo stesso vale per tutte le mitzvòt di istituzione rabbinica — sia quelle obbligatorie (come lettura della Meghillà, accensione dei lumi di Shabbat e di Chanukà) sia quelle non obbligatorie (come eruv e netilat yadàyim): su tutte si recita prima dell'adempimento «asher kideshanu be-mitzvotav ve-tzivanu la-asot» (che ci ha santificati con i Suoi precetti e ci ha comandato di fare). Dove ci ha comandato? Nella Torah, dove è scritto (Devarim 17:11): «Secondo la parola che ti diranno, agirai». Il senso della cosa è: «che ci ha santificati con i Suoi precetti e ci ha comandato di ascoltare questi [Saggi] che ci hanno commandato di accendere il lume di Chanukà o leggere la Meghillà». Lo stesso vale per tutte le mitzvòt rabbiniche."
+    },
+    {
+      "n": 4,
+      "he": "וְלָמָּה אֵין מְבָרְכִין עַל נְטִילַת יָדַיִם בָּאַחֲרוֹנָה…",
+      "it": "Perché non si recita la benedizione sul lavaggio finale delle mani (màyim acharonìm)? Perché i Saggi l'hanno reso obbligatorio solo a causa del pericolo [del sale di Sodoma]; e su cose istituite a causa del pericolo non si recita benedizione. È analogo a chi filtra l'acqua di notte a causa del pericolo delle sanguisughe — certamente non recita «che ci ha comandato di filtrare l'acqua». Lo stesso vale in tutti i casi simili."
+    },
+    {
+      "n": 5,
+      "he": "הָעוֹשֶׂה מִצְוָה וְלֹא בֵּרֵךְ. אִם מִצְוָה שֶׁעֲדַיִן עֲשִׂיָּתָהּ קַיֶּמֶת מְבָרֵךְ אַחַר עֲשִׂיָּה…",
+      "it": "Chi ha compiuto una mitzvà senza recitare la benedizione: se l'adempimento è ancora in corso può recitare la benedizione dopo il compimento; se la mitzvà è già conclusa non recita più la benedizione. Come si applica? Chi si è avvolto nello tzitzit, ha indossato i tefillin o si è seduto nella sukkà senza benedire in anticipo, dopo essersi avvolto recita «…che ci ha comandato di avvolgerci nello tzitzit»; dopo aver indossato i tefillin: «…di indossare i tefillin»; dopo essersi seduto: «…di stare nella sukkà». Lo stesso vale in tutti i casi simili."
+    },
+    {
+      "n": 6,
+      "he": "אֲבָל אִם שָׁחַט בְּלֹא בְּרָכָה אֵינוֹ חוֹזֵר אַחַר שְׁחִיטָה וּמְבָרֵךְ…",
+      "it": "Se ha macellato (shachat) senza benedire, non recita dopo la shechità «…che ci ha comandato sulla shechità». Allo stesso modo se ha coperto il sangue, separato terumà e ma'asrot, o si è immerso senza benedire — non recita benedizione dopo l'atto. Lo stesso vale in tutti i casi simili."
+    },
+    {
+      "n": 7,
+      "he": "אֵין לְךָ מִצְוָה שֶׁמְּבָרְכִין אַחַר עֲשִׂיָּתָהּ אֶלָּא טְבִילַת הַגֵּר בִּלְבַד…",
+      "it": "Non esiste mitzvà la cui benedizione vada recitata dopo l'adempimento, eccetto l'immersione del proselito (ghèr): egli non può dire «che ci ha santificati con i Suoi precetti e ci ha comandato» poiché, finché non si è immerso, non è stato santificato né ricevuto il comando. Perciò recita la benedizione sull'immersione dopo l'immersione stessa — poiché ab initio non era idoneo a benedire."
+    },
+    {
+      "n": 8,
+      "he": "כָּל מִצְוָה שֶׁעֲשִׂיָּתָהּ הִיא גְּמַר חִיּוּבָהּ מְבָרֵךְ בִּשְׁעַת עֲשִׂיָּה…",
+      "it": "Ogni mitzvà il cui adempimento costituisce il completamento dell'obbligo: si recita la benedizione al momento dell'adempimento. Ogni mitzvà che prevede un altro precetto successivo all'atto: non si recita la benedizione finché non si compie il precetto successivo. Come si applica? Chi costruisce una sukkà, un lulav, un shofar, tzitzit, tefillin o una mezuzà non recita benedizione durante la costruzione, perché c'è un precetto successivo. Quando recita? Quando si siede nella sukkà, quando agita il lulav, quando ascolta il suono dello shofar, quando si avvolge nello tzitzit, quando indossa i tefillin, quando fissa la mezuzà. Ma chi costruisce un parapetto recita la benedizione durante la costruzione stessa. Lo stesso vale in tutti i casi simili."
+    },
+    {
+      "n": 9,
+      "he": "כָּל מִצְוָה שֶׁהִיא מִזְּמַן לִזְמַן כְּגוֹן שׁוֹפָר וְסֻכָּה וְלוּלָב וּמִקְרָא מְגִלָּה…",
+      "it": "Si recita «shehecheyanu» su ogni mitzvà che ricorre periodicamente — come shofar, sukkà, lulav, lettura della Meghillà e lumi di Chanukà; su ogni mitzvà che comporta un acquisto personale — come tzitzit, tefillin e parapetto; e su ogni mitzvà non frequente e non disponibile in ogni momento (perché assomiglia a una mitzvà periodica) — come la circoncisione del figlio e il pidyon ha-ben. Se non ha recitato «shehecheyanu» al momento della costruzione della sukkà o del lulav, può recitarlo al momento dell'adempimento. Lo stesso vale in tutti i casi simili."
+    },
+    {
+      "n": 10,
+      "he": "אֶחָד הָעוֹשֶׂה מִצְוָה לְעַצְמוֹ וְאֶחָד הָעוֹשֶׂה אוֹתָהּ לַאֲחֵרִים מְבָרֵךְ קֹדֶם עֲשִׂיָּתָהּ…",
+      "it": "Chi compie una mitzvà per se stesso e chi la compie per altri: entrambi recitano la benedizione prima dell'adempimento. Tuttavia «shehecheyanu» si recita solo per la mitzvà compiuta per se stesso. Se davanti a lui vi sono molte mitzvòt da compiere, non recita «…che ci ha santificati con i Suoi precetti e ci ha comandato sulle mitzvòt» in generale; recita invece una benedizione separata su ciascuna mitzvà."
+    },
+    {
+      "n": 11,
+      "he": "כָּל הָעוֹשֶׂה מִצְוָה בֵּין שֶׁהָיְתָה חוֹבָה עָלָיו בֵּין שֶׁאֵינָהּ חוֹבָה עָלָיו…",
+      "it": "Chi compie una mitzvà per se stesso — sia che sia obbligatoria per lui sia che non lo sia — recita «…la-asòt» (a fare). Chi la compie per altri recita «…al ha-asiyà» (sulla [sua] esecuzione)."
+    },
+    {
+      "n": 12,
+      "he": "כֵּיצַד. לָבַשׁ תְּפִלִּין מְבָרֵךְ לְהָנִיחַ תְּפִלִּין…",
+      "it": "Come si applica? Chi indossa i tefillin recita «le-hanìach tefillin» (di indossare i tefillin); chi si avvolge nello tzitzit: «le-hit'atèf ba-tzitzit»; chi si siede nella sukkà: «le-shèv ba-sukkà». Così recita anche «le-hadlìk ner shel Shabbat» (di accendere il lume di Shabbat) e «ligmòr et ha-Hallèl» (di completare il Hallel). Chi fissa la mezuzà alla propria casa: «likbòa' mezuzà». Chi costruisce un parapetto per il proprio tetto: «la'asòt ma'akè». Chi separa la terumà per se stesso: «le-hafrìsh». Chi circoncide il figlio: «lamùl et ha-ben». Chi macella il suo sacrificio di Pesach o la sua offerta festiva: «lishchòt»."
+    },
+    {
+      "n": 13,
+      "he": "אֲבָל אִם קָבַע מְזוּזָה לַאֲחֵרִים מְבָרֵךְ עַל קְבִיעַת מְזוּזָה…",
+      "it": "Chi fissa la mezuzà per altri recita «al keviat mezuzà»; chi costruisce il parapetto per altri: «al asiyat ma'akè»; chi separa la terumà per altri: «al hafrashàt terumà»; chi circoncide il figlio di un amico: «al ha-milà». Lo stesso vale in tutti i casi simili."
+    },
+    {
+      "n": 14,
+      "he": "עָשָׂה הַמִּצְוָה לוֹ וְלַאֲחֵרִים כְּאֶחָד…",
+      "it": "Chi compie la mitzvà per se stesso e per altri simultaneamente: se la mitzvà non è obbligatoria usa la formula «al» (sulla); perciò recita «al mitzvàt eruv». Se è obbligatoria e intendeva adempierla per se stesso e anche per liberare gli altri dall'obbligo, usa la formula «le» (a): perciò recita «lishmòa' kol shofar» (ad ascoltare il suono dello shofar)."
+    },
+    {
+      "n": 15,
+      "he": "נָטַל אֶת הַלּוּלָב מְבָרֵךְ עַל נְטִילַת לוּלָב…",
+      "it": "Chi prende il lulav recita «al netilàt lulav» (sulla presa del lulav), poiché adempie l'obbligo nel momento in cui lo solleva. Se però ha recitato la benedizione prima di prenderlo, usa «lìtol lulav» (a prendere il lulav), come «le-shèv ba-sukkà». Da qui si deriva il principio: chi benedice dopo l'atto usa «al ha-asiyà». Per la netilat yadàyim e la shechità, essendo di natura facoltativa (reshut), anche se macella per se stesso usa «al ha-shechità» e «al kissùy ha-dam» e «al netilat yadàyim». Allo stesso modo si recita «al bi'ur chamètz» — sia che abbia verificato per se stesso sia per altri — poiché nel momento in cui ha deciso in cuor suo di annullare il lievito, la mitzvà della distruzione è compiuta prima ancora della verifica, come sarà spiegato a suo luogo."
+    },
+    {
+      "n": 16,
+      "he": "כָּל דָּבָר שֶׁהוּא מִנְהָג אַף עַל פִּי שֶׁמִּנְהַג נְבִיאִים הוּא…",
+      "it": "Su qualsiasi pratica che è solo consuetudine (minhag) — anche se è una consuetudine dei profeti, come la presa dei salici (aravà) nel settimo giorno di Sukkot — non si recita benedizione. Tanto meno su consuetudini dei Saggi — come la lettura del Hallel in Rosh Chodesh e nei giorni di chol ha-mo'ed di Pesach. Allo stesso modo su qualsiasi atto su cui vi sia dubbio se richieda benedizione o meno, lo si compie senza benedizione. Una persona deve sempre stare attenta a non recitare benedizioni inutili e deve moltiplicare le benedizioni necessarie. Così disse Davide (Tehillim 145:2): «Ogni giorno Ti benedirò». Qui si concludono le Leggi delle Benedizioni."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mitzvòt", "chovà", "mezuzà", "netilat yadàyim", "màyim acharonìm",
+    "shehecheyanu", "tzitzit", "tefillin", "sukkà", "lulav", "shofar",
+    "shechità", "terumà", "pidyon ha-ben", "eruv", "minhag",
+    "Hallel", "aravà", "chol ha-mo'ed"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chametz UMatzah 8",
+  "name_he": "משנה תורה, הלכות חמץ ומצה, פרק ח",
+  "name_it": "Mishneh Torah, Leggi del Chametz e della Matzah, capitolo 8",
+  "cycle": "rambam-1",
+  "date": "2026-07-14",
+  "hebrew_date": "29 Tammuz 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שִׁבְעַת יְמֵי הַפֶּסַח — אָסוּר לֶאֱכֹל חָמֵץ. וְהָאוֹכֵל חָמֵץ בְּכָל שֶׁהוּא — חַיָּב כָּרֵת.",
+      "it": "I sette giorni di Pesach — è proibito mangiare chametz. E chi mangia chametz nella minima quantità — è passibile di karet."
+    },
+    {
+      "n": 2,
+      "he": "אָסוּר לִרְאוֹת חָמֵץ בְּפֶסַח — שֶׁנֶּאֱמַר: \"וְלֹא יֵרָאֶה לְךָ חָמֵץ\".",
+      "it": "È proibito che il chametz sia visibile a Pesach — come è detto: «E non si vedrà presso di te chametz» (Shemot 13:7)."
+    },
+    {
+      "n": 3,
+      "he": "אָסוּר לְהַחְזִיק חָמֵץ בִּרְשׁוּתוֹ בְּפֶסַח — שֶׁנֶּאֱמַר: \"וְלֹא יִמָּצֵא לְךָ שְׂאֹר\".",
+      "it": "È proibito detenere chametz nella propria proprietà a Pesach — come è detto: «E non si troverà presso di te lievito» (Shemot 13:7)."
+    },
+    {
+      "n": 4,
+      "he": "חֹל הַמּוֹעֵד פֶּסַח — אָסוּר לַעֲשׂוֹת מְלָאכָה, אֶלָּא דִּבְרֵי חֲכָמִים.",
+      "it": "Chol HaMoed Pesach — è proibito compiere lavoro (melachah), salvo per eccezioni rabbinicali."
+    },
+    {
+      "n": 5,
+      "he": "חֹל הַמּוֹעֵד — מֻתָּר לַעֲשׂוֹת מְלָאכָה לְצֹרֶךְ הַמּוֹעֵד.",
+      "it": "Chol HaMoed — è permesso compiere lavoro per i bisogni della festività stessa."
+    },
+    {
+      "n": 6,
+      "he": "אֻמָּן הָעוֹשֶׂה מְלַאכְתּוֹ בְּחֹל הַמּוֹעֵד שֶׁלֹּא לְצֹרֶךְ הַמּוֹעֵד — לוֹקֶה.",
+      "it": "Un artigiano che svolge il proprio lavoro in Chol HaMoed non per i bisogni della festività — riceve la flagellazione."
+    },
+    {
+      "n": 7,
+      "he": "קָרְבַּן פֶּסַח — שֶׁהָיָה מַקְרִיבִין בְּשֵׁן אַרְבָּעָה עָשָׂר בְּנִיסָן בֵּין הָעַרְבַּיִם.",
+      "it": "Il sacrificio di Pesach (Korban Pesach) — che veniva offerto il quattordici di Nissan al tramonto."
+    },
+    {
+      "n": 8,
+      "he": "הַקָּרְבַּן הָיָה שֶׂה תָּמִים — כֶּבֶשׂ אוֹ שָׂעִיר — בֶּן שָׁנָה.",
+      "it": "Il sacrificio era un agnello integro (shalem) — un agnello o un capretto — di un anno."
+    },
+    {
+      "n": 9,
+      "he": "אוֹכְלִין אֶת קָרְבַּן פֶּסַח בַּלַּיְלָה, צָלוּי בָּאֵשׁ עִם מַצָּה וּמָרוֹר.",
+      "it": "Si mangia il Korban Pesach di notte, arrostito sul fuoco con matzah e maror."
+    },
+    {
+      "n": 10,
+      "he": "אֵין אוֹכְלִין מִמֶּנּוּ נָא אוֹ מְבֻשָּׁל בַּמַּיִם, אֶלָּא צָלִי בָּאֵשׁ.",
+      "it": "Non lo si mangia crudo né bollito nell'acqua, ma solo arrostito sul fuoco."
+    },
+    {
+      "n": 11,
+      "he": "אֵין מוֹצִיאִין מִמֶּנּוּ חוּץ לַחֲבוּרָה.",
+      "it": "Non lo si porta fuori dalla compagnia (chavurah) che si è radunata per mangiarlo insieme."
+    },
+    {
+      "n": 12,
+      "he": "הַנּוֹתָר מִקָּרְבַּן פֶּסַח עַד הַבֹּקֶר — שׂוֹרְפִין אוֹתוֹ.",
+      "it": "Ciò che rimane del Korban Pesach fino al mattino — lo si brucia."
+    },
+    {
+      "n": 13,
+      "he": "פֶּסַח שֵׁנִי — בְּיוֹד בְּאִיָּר, לְמִי שֶׁהָיָה טָמֵא אוֹ בְּדֶרֶךְ רְחוֹקָה בְּפֶסַח רִאשׁוֹן.",
+      "it": "Pesach Sheni — il quattordici di Iyar, per chi era impuro o in viaggio lontano durante il primo Pesach."
+    },
+    {
+      "n": 14,
+      "he": "פֶּסַח שֵׁנִי — אֵינוֹ יוֹם טוֹב, וּמֻתָּר בְּמְלָאכָה.",
+      "it": "Pesach Sheni — non è Yom Tov, e il lavoro è permesso."
+    },
+    {
+      "n": 15,
+      "he": "אֵין פֶּסַח שֵׁנִי מְכַפֵּר עַל מִי שֶׁלֹּא הִקְרִיב בְּפֶסַח רִאשׁוֹן בְּמֵזִיד.",
+      "it": "Il Pesach Sheni non espia per chi non ha offerto il sacrificio nel primo Pesach intenzionalmente."
+    },
+    {
+      "n": 16,
+      "he": "בִּימֵי בֵּית הַמִּקְדָּשׁ — כָּל יִשְׂרָאֵל עָלוּ לִירוּשָׁלַיִם לָחֹג אֶת הַפֶּסַח.",
+      "it": "Ai tempi del Tempio — tutti gli ebrei salivano a Gerusalemme per celebrare Pesach."
+    },
+    {
+      "n": 17,
+      "he": "הַחַגִּיגָה — קָרְבַּן שֶׁהֵבִיאוּ בְּרֶגֶל, נוֹסָף עַל קָרְבַּן הָרֶגֶל.",
+      "it": "La chagigah — il sacrificio che si portava nella festività, in aggiunta al sacrificio della festività."
+    },
+    {
+      "n": 18,
+      "he": "בִּימֵי הַגָּלוּת — זֵכֶר לְמִקְדָּשׁ עָשׂוּ חֲכָמִים.",
+      "it": "Nei tempi dell'esilio — i Saggi hanno istituito un ricordo del Tempio (zecher le-mikdash)."
+    },
+    {
+      "n": 19,
+      "he": "עִיקַּר מִצְוֹת פֶּסַח — לִזְכֹּר אֶת הַגְּאֻלָּה וּלְהוֹדוֹת לַה' עָלֶיהָ.",
+      "it": "L'essenza dei comandamenti di Pesach — ricordare la redenzione e ringraziare il Signore per essa."
+    },
+    {
+      "n": 20,
+      "he": "הַסֵּדֶר בַּגָּלוּת — תַּקָּנַת חֲכָמִים זֵכֶר לְמִקְדָּשׁ וְלִגְאֻלַּת מִצְרַיִם.",
+      "it": "Il Seder in esilio — è un'ordinanza dei Saggi in ricordo del Tempio e della redenzione dall'Egitto."
+    },
+    {
+      "n": 21,
+      "he": "בִּימוֹת הַמָּשִׁיחַ — יַחֲזֹר קָרְבַּן פֶּסַח לְמַקְמוֹ.",
+      "it": "Nei giorni del Messia — il Korban Pesach tornerà al suo posto (nel Tempio ricostruito)."
+    },
+    {
+      "n": 22,
+      "he": "לְפִיכָךְ אָנוּ מְצַפִּים לַגְּאֻלָּה כְּדֵי לְקַיֵּם מִצְווֹת הַתּוֹרָה בְּשִׁלֵּמוּתָן.",
+      "it": "Pertanto aspettiamo la redenzione per poter adempiere i comandamenti della Torah nella loro completezza."
+    },
+    {
+      "n": 23,
+      "he": "סִיּוּם: סִי קוֹנְקְלוּדוֹנוֹ לֶה לֶגִּי דֶל כָּמֵץ וְדֶלָּה מַצָּה.",
+      "it": "Si concludono le Leggi del Chametz e della Matzah."
+    }
+  ],
+  "_glossary_terms_used": ["chametz", "Pesach", "karet", "Chol HaMoed", "melachah", "Korban Pesach", "matzah", "maror", "chavurah", "Pesach Sheni", "Iyar", "chagigah", "zecher le-mikdash", "Seder", "galut"]
+}

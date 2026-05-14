@@ -1,0 +1,21 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 8-10",
+  "name_he": "משנה תורה, הלכות כלים, פרקים ח-י",
+  "name_it": "Mishneh Torah, Leggi dei Vasi, capitoli 8-10",
+  "cycle": "rambam-3",
+  "date": "2026-09-12",
+  "hebrew_date": "1 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {"n": "8:1", "he": "הַיּוֹם א' תִּשְׁרֵי תשפ\"ז — רֹאשׁ הַשָּׁנָה וְרֹאשׁ שְׁנַת הַמַּלְכוּת. פְּרָקִים אֵלּוּ עַל הִלְכוֹת כֵּלִים נִלְמָדִים הַיּוֹם, בְּיוֹם הַדִּין הַגָּדוֹל. I seguenti capitoli sulle leggi dell'impurità dei vasi vengono studiati oggi, giorno di Rosh Hashanah e Capodanno ebraico 5787.", "it": "Oggi 1 Tishrei 5787 — Rosh Hashanah e inizio dell'anno della regalità. Questi capitoli sulle leggi dei vasi vengono studiati oggi, nel giorno del Grande Giudizio. I seguenti capitoli sulle leggi dell'impurità dei vasi vengono studiati oggi, giorno di Rosh Hashanah e Capodanno ebraico 5787."},
+    {"n": "8:2", "he": "כֵּלֵי עֵץ שֶׁיֵּשׁ לָהֶם בֵּית קִבּוּל — עֶרֶשׂ וְנְדָן — מְקַבְּלִים טֻמְאָה. אֲפִלּוּ הֵם גְּדוֹלִים.", "it": "I vasi di legno che hanno un contenitore — culla e fodero — ricevono impurità. Anche se sono grandi."},
+    {"n": "8:3", "he": "אוּכָּף — כְּלִי עֵץ שֶׁמְּשַׁמֵּשׁ לְרְכִיבָה. יֵשׁ בּוֹ מְקוֹם לְקִבּוּל — מְקַבֵּל טֻמְאָה.", "it": "La sella — è un vaso di legno usato per cavalcare. Ha un posto di ricezione — riceve impurità."},
+    {"n": "9:1", "he": "כֵּלִים מְחֻבָּרִים — אִם מְחֻבָּרִים לְחֵבֶר — נֶחְשָׁבִים אֶחָד לְעִנְיַן טֻמְאָה.", "it": "I vasi collegati — se collegati a un altro — sono considerati uno riguardo all'impurità."},
+    {"n": "9:2", "he": "נִתְפָּרְדוּ — כָּל אֶחָד בִּפְנֵי עַצְמוֹ. הַטֻּמְאָה אֵינָהּ עוֹבֶרֶת בֵּינֵיהֶם אַחַר הַפְּרֵדָה.", "it": "Se si sono separati — ognuno da solo. L'impurità non passa tra loro dopo la separazione."},
+    {"n": "9:3", "he": "שְׁנֵי כֵּלִים שֶׁנּוֹגְעִים זֶה בָּזֶה — אֵין טֻמְאָה עוֹבֶרֶת בֵּינֵיהֶם אֶלָּא בְּחִיּבּוּר קָבוּעַ.", "it": "Due vasi che si toccano — l'impurità non passa tra loro se non con un collegamento permanente."},
+    {"n": "10:1", "he": "כְּלִי שֶׁנִּשְׁבַּר חֶלְקָאִית — אֶחָד — בּוֹדְקִים אִם עֲדַיִן שָׁמִישׁ בְּמַשֶּׁהוּ.", "it": "Un vaso che si è rotto parzialmente — si controlla se è ancora utile per qualcosa."},
+    {"n": "10:2", "he": "נִשְׁאַר בּוֹ שִׁמּוּשׁ — מְקַבֵּל טֻמְאָה עַל אוֹתוֹ הַחֵלֶק.", "it": "Se è rimasto un uso — riceve impurità per quella parte."},
+    {"n": "10:3", "he": "אֵין בּוֹ שִׁמּוּשׁ כְּלָל — טָהוֹר לְגַמְרֵי. כְּלָלִים אֵלּוּ נוֹהֲגִים בְּכָל סוּגֵי הַחֹמֶר.", "it": "Non ha più alcun uso — è completamente puro. Queste regole si applicano a tutti i tipi di materiale."}
+  ],
+  "_glossary_terms_used": ["kelim", "beit kibul", "kli shavur", "tum'ah", "Rosh Hashanah"]
+}

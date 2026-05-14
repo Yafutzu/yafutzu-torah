@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Edut 22; Mamrim 1-2",
+  "name_he": "משנה תורה, הלכות עדות פרק כב; הלכות ממרים פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza cap. 22; Leggi dei Ribelli capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-12-17",
+  "hebrew_date": "8 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Edut 22:1-5",
+      "he": "שְׁנֵי כִּתֵּי עֵדִים שֶׁהֵעִידוּ עֵדוּת מַכְחֶשֶׁת זֶה לָזֶה…",
+      "it": "(Edut cap. 22, hal. 1-5) Due gruppi di testimoni le cui testimonianze si contraddicono completamente — «yatzu shnei eydim» (entrambe le coppie sono screditate). Il tribunale non può credere né all'uno né all'altro gruppo quando le testimonianze si escludono a vicenda in modo totale. Il principio: la certezza della condanna richiede testimonianza concorde e affidabile. In presenza di contraddizione totale, il beneficio del dubbio va all'imputato — «ki yipol ha-asham» (quando cade l'accusa di colpa)."
+    },
+    {
+      "n": "Edut 22:6-10",
+      "he": "בֵּית דִּין שֶׁרָאוּ עֵדוּת שֶׁמְּצִילָה — מְעַדִּיפִין אוֹתָהּ…",
+      "it": "(Edut cap. 22, hal. 6-10) Il tribunale preferisce la testimonianza che salva la vita rispetto alla testimonianza che condanna. Nei casi di contraddizione parziale — dove i due gruppi concordano sui fatti principali ma divergono sui dettagli — il tribunale esamina la credibilità complessiva. I testimoni che sono stati «hazamah» (smentiti con un alibi: «eravate con noi altrove in quel momento») perdono la credibilità per tutte le loro testimonianze future. Si concludono le Leggi della Testimonianza con l'aiuto del Cielo."
+    },
+    {
+      "n": "Mamrim 1:1-4",
+      "he": "בֵּית דִּין הַגָּדוֹל — סַנְהֶדְרִין הַגְּדוֹלָה שֶׁבִּירוּשָׁלַיִם — פָּסְקוּ בְּדִינֵי תוֹרָה…",
+      "it": "(Mamrim cap. 1, hal. 1-4) Il Grande Sinedrio di Gerusalemme (Sanhedrin HaGedolah, composto di settantuno saggi) era l'autorità suprema nella Torah: le sue decisioni erano vincolanti per tutto Israele. La catena di autorità halakhica inizia da Mosè e scende attraverso Yehoshua, gli Anziani, i Profeti, gli Uomini della Grande Assemblea, fino ai tannaim e agli amoraim. Ogni generazione riceve la Torah dalla precedente e trasmette alla successiva — è la catena della Masorah (tradizione)."
+    },
+    {
+      "n": "Mamrim 2:1-5",
+      "he": "זָקֵן מַמְרֵא — חָכָם שֶׁפָּסַק בְּפוּמְבֵּי נֶגֶד הַסַּנְהֶדְרִין…",
+      "it": "(Mamrim cap. 2, hal. 1-5) Il «zaken mamre» (anziano ribelle): un saggio che, dopo aver ricevuto la decisione ufficiale del Grande Sinedrio su una questione halakhica, continua pubblicamente a insegnare la propria opinione contraria. Questo costituisce una ribellione contro l'autorità suprema della Torah. La severità: se il suo insegnamento porta altri a praticare erroneamente, è potenzialmente soggetto alla pena capitale — non perché abbia peccato personalmente, ma perché il suo insegnamento divide il popolo e frantuma l'unità della Torah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yatzu shnei eydim", "hazamah", "Sanhedrin HaGedolah", "Masorah", "zaken mamre", "tannaim", "amoraim"
+  ]
+}

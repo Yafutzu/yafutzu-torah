@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 10",
+  "name_he": "משנה תורה, הלכות נדרים, פרק י",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 10",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-29",
+  "hebrew_date": "20 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַנּוֹדֵר מִן הַדָּבָר — כֵּיצַד נֶחְשָׁב מַה שֶּׁנִּכְלַל בְּנִדְרוֹ…",
+      "it": "Chi vota di astenersi da «questo pane» — è proibito solo in quel pane specifico, non in altri pani dello stesso tipo, a meno che il voto non specifichi il tipo. Il principio: «davar she-hayah be-chlal ve-yatza lidon» (ciò che era incluso in una categoria generale ed è stato esplicitato separatamente) — le regole di interpretazione del voto distinguono tra il genere e l'individuale. Se il voto è sul genere («il pane sia proibito per me»), include tutti i pani; se è sull'individuale («questo pane»), include solo quello."
+    },
+    {
+      "n": 2,
+      "he": "«קׂוֹנָם אִם אֹכַל כִּכָּר זֶה» — כֵּיצַד הַחֶלֶק…",
+      "it": "Chi vota «konam se mangio questo pane» e poi mangia solo una parte del pane — ha violato il voto? Se il voto era formulato sul pane come unità («questo pane»), mangiare qualsiasi parte di esso è una violazione. Se il voto era sul mangiare «il pane intero», mangiare una parte non è una violazione. La distinzione dipende dal linguaggio del voto e dall'intenzione: il tribunale interpreta il linguaggio secondo il significato comune, inclinando verso la leniency (kula) nei casi ambigui."
+    },
+    {
+      "n": 3,
+      "he": "«שְׁבוּעָה שֶׁלֹּא אֹכַל חִטִּים» — כְּלוּם כּוֹלֵל גַּם קֶמַח…",
+      "it": "Chi vota di non mangiare grano — il voto include la farina di grano? Il pane di grano? Il Rambam distingue: il voto su un alimento nel suo stato originale (grano) non include automaticamente i suoi derivati trasformati (farina, pane), a meno che il votante non li abbia inclusi esplicitamente. Il principio guida: «il neder si interpreta secondo il linguaggio comune» (lashon benei adam). Se nel comune parlare «grano» include il pane di grano, il voto include entrambi; se no, solo il chicco."
+    },
+    {
+      "n": 4,
+      "he": "סָפֵק בַּנֵּדֶר — לְהָקֵל…",
+      "it": "Nel dubbio sull'estensione di un voto — si va verso la leniency (lehakel). Il principio: i voti sono istituzioni che limitano la libertà e il godimento; nei casi di ambiguità, la Torah preferisce non estendere la proibizione. Questo è diverso dalla regola generale per le proibizioni bibliche, dove nel dubbio si va verso la severità. Per i voti — poiché la limitazione è auto-imposta e non deriva dalla Torah stessa — l'ambiguità viene risolta a favore del votante."
+    },
+    {
+      "n": 5,
+      "he": "«קׂוֹנָם בֵּיתוֹ שֶׁל פְּלוֹנִי» — כֵּיצַד נִפְרָשׁ…",
+      "it": "Chi vota «konam la casa di Reuven per me» — cosa include? La casa stessa (non entrarvi), le cose nella casa (non usarle), o entrambe? Il Rambam analizza: il voto sulla «casa» include l'ingresso nella casa, non necessariamente i suoi contenuti, a meno che il voto non lo specifichi. Se il votante intendeva sia la casa che i suoi contenuti, avrebbe dovuto specificarlo. La regola: il neder si interpreta secondo il suo significato letterale più naturale, senza espansioni."
+    },
+    {
+      "n": 6,
+      "he": "הַנּוֹדֵר בִּלְשׁוֹן הַמַּשְׁמִיט — בֵּית דִּין פּוֹשֵׁק לְקוּלָא…",
+      "it": "Il votante che usa un linguaggio ambiguo o impreciso — il tribunale decide verso la leniency. Questo capitolo si chiude con il principio interpretativo fondamentale: il neder è una costruzione umana, non divina. La Torah ha stabilito i voti come strumento per l'uomo, non come trappola. Quando l'uomo usa un linguaggio impreciso, il tribunale non aggiunge severità oltre all'intenzione chiara. Questo è lo spirito della Torah: «Le sue vie sono vie di piacere e tutti i suoi sentieri sono pace» (Proverbi 3:17) — anche nel sistema dei voti."
+    }
+  ],
+  "_glossary_terms_used": [
+    "neder", "davar she-hayah be-chlal", "konam", "kula", "lashon benei adam", "lehakel"
+  ]
+}

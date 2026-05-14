@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 4",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, קטע ד",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Trattato Finale), saggio 4",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-28",
+  "hebrew_date": "17 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַתְּפִלָּה — הִיא עֲבוֹדַת הַלֵּב, כְּמוֹ שֶׁנֶּאֱמַר: לְעָבְדוֹ בְּכָל לְבַבְכֶם…",
+      "it": "Il saggio 4 del Kuntres Acharon analizza la meccanica metafisica della preghiera (tefillah). La preghiera è definita dai Saggi come «avodat ha-lev» — servitù del cuore (ta'anit 2a, basato su Devarim 11:13: «le-ovdo be-chol levavchem»). Non è solo pronunciare parole — è un atto di elezione e connessione dell'anima verso D-o. L'Alter Rebbe spiega: le parole della preghiera, quando pronunciate con kavvanah (intenzione), ascendono attraverso i mondi spirituali come entità vive — non sono solo suoni fisici, ma «kelim» (vasi) che portano in alto l'intenzione del cuore."
+    },
+    {
+      "n": 2,
+      "he": "וּכְשֶׁהַמִּלִּים עוֹלוֹת בִּקְדֻשָּׁה — הֵן מְעוֹרְרוֹת רְצוֹן עֶלְיוֹן…",
+      "it": "Quando le parole della preghiera salgono con santità (be-kedushah) — esse «svegliano» la volontà divina superiore (ratzon elyon). Questo è il senso halakhic-metafisico del concetto di «tefillah nishma'at» (preghiera che viene ascoltata): non si tratta di un D-o «distante» che ascolta dall'alto — ma di un processo di risonanza spirituale in cui la kavvanah del orante «attiva» un canale di risposta divina. L'Alter Rebbe usa il concetto kabbalistico del «ratzo va-shov» (corsa e ritorno): la preghiera «sale» (ratzo) verso D-o e porta indietro (shov) l'abbondanza divina."
+    },
+    {
+      "n": 3,
+      "he": "וְלָכֵן — תְּנַאי הַתְּפִלָּה הוּא הַכַּוָּנָה — בִּפְרָט בְּרָאשִׁית הַתְּפִלָּה…",
+      "it": "La condizione essenziale per la preghiera è la kavvanah — in particolare nella prima berachah dello Shemoneh Esreh (Avot). Se la kavvanah era assente all'inizio, il Rambam (Hilchot Tefillah 4:1) stabilisce che deve ripetere la prima berachah. L'Alter Rebbe usa questo come punto di partenza per insegnare: la hakhanah la-tefillah (preparazione alla preghiera) non è opzionale ma strutturalmente necessaria. Anche brevi momenti di silenzio e focus interiore prima di iniziare — «la-asot tzorech ha-tefillah» — preparano i kelim dell'anima a ricevere la luce che la preghiera porta."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tefillah", "avodat ha-lev", "kavvanah", "kelim", "ratzon elyon", "ratzo va-shov", "tefillah nishma'at", "Shemoneh Esreh", "hakhanah la-tefillah"
+  ]
+}

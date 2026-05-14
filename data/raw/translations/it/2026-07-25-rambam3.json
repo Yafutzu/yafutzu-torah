@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Pesulei HaMukdashim 14-16",
+  "name_he": "משנה תורה, הלכות פסולי המוקדשין, פרקים יד-טז",
+  "name_it": "Mishneh Torah, Leggi delle Offerte Invalide, capitoli 14-16",
+  "cycle": "rambam-3",
+  "date": "2026-07-25",
+  "hebrew_date": "11 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "14:1",
+      "he": "הָאוֹכֵל פִּגּוּל — חַיָּב כָּרֵת, שֶׁנֶּאֱמַר: 'הָאֹכֵל אֹתוֹ עֲוֹנוֹ יִשָּׂא'.",
+      "it": "Chi mangia pigul — è soggetto al karet, come è detto: 'Chi lo mangia sopporterà la sua colpa' (Levitico 19:8)."
+    },
+    {
+      "n": "14:2",
+      "he": "פִּגּוּל — אֵינוֹ חַיָּב עָלָיו אֶלָּא כְּזַיִת.",
+      "it": "Per il pigul — la responsabilità inizia dalla misura minima di un'oliva (ke-zayit)."
+    },
+    {
+      "n": "14:3",
+      "he": "הַהֶפְרֵשׁ בֵּין פִּגּוּל לְנוֹתָר: פִּגּוּל — בְּמַחֲשֶׁבֶת חוּץ לִזְמַנּוֹ. נוֹתָר — בְּבָשָׂר שֶׁנִּשְׁאַר אַחַר זְמַנּוֹ.",
+      "it": "La differenza tra pigul e notar: pigul — è per intenzione di mangiare fuori tempo durante l'offerta. Notar — è carne effettivamente rimasta oltre il tempo permesso."
+    },
+    {
+      "n": "15:1",
+      "he": "הָאוֹכֵל נוֹתָר — חַיָּב כָּרֵת, שֶׁנֶּאֱמַר: 'כִּי לֹא יֵאָכֵל כִּי קֹדֶשׁ הוּא'.",
+      "it": "Chi mangia notar — è soggetto al karet, come è detto: 'Perché non si mangerà, perché è sacro' (Esodo 29:34)."
+    },
+    {
+      "n": "15:2",
+      "he": "זְמַן אֲכִילַת קָדְשֵׁי קָדָשִׁים — יוֹם הַשְּׁחִיטָה וְלֵילוֹ. קָדָשִׁים קַלִּים — יוֹמַיִם וְלַיְלָה.",
+      "it": "Il tempo di consumo delle qodshei qodashim — il giorno della macellazione e la sua notte. Le qodashim qalim — due giorni e la notte tra di essi."
+    },
+    {
+      "n": "15:3",
+      "he": "נוֹתָר — צָרִיךְ שְׂרֵפָה. הַמְּבַעֵר הַנּוֹתָר — עוֹשֶׂה מִצְוָה.",
+      "it": "Il notar — deve essere bruciato. Chi brucia il notar — adempie una mitzvah."
+    },
+    {
+      "n": "16:1",
+      "he": "הָאוֹכֵל קָרְבָּן טָמֵא — לוֹקֶה, שֶׁנֶּאֱמַר: 'וְהַנֶּפֶשׁ אֲשֶׁר תֹּאכַל מִבְּשַׂר זֶבַח הַשְּׁלָמִים אֲשֶׁר לַה' וְטֻמְאָתוֹ עָלָיו'.",
+      "it": "Chi mangia un sacrificio impuro — viene flagellato, come è detto: 'La persona che mangia la carne del sacrificio di pace dell'Eterno mentre ha impurità su di sé' (Levitico 7:20)."
+    },
+    {
+      "n": "16:2",
+      "he": "הָאוֹכֵל קָרְבָּן טָמֵא וְהוּא טָמֵא — חַיָּב כָּרֵת עַל כָּל אַחַת: עַל אֲכִילַת הַטָּמֵא, וְעַל אֲכִילַת הַטָּהוֹר בְּטֻמְאָה.",
+      "it": "Chi mangia un sacrificio impuro mentre è lui stesso impuro — è soggetto al karet per ognuna: per aver mangiato il sacrificio impuro, e per aver mangiato [sacrifici] sacri mentre è impuro."
+    },
+    {
+      "n": "16:3",
+      "he": "קָרְבָּן טָמֵא — אָסוּר בַּאֲכִילָה אֲפִלּוּ לְטָהוֹר.",
+      "it": "Un sacrificio impuro — è vietato al consumo anche a chi è puro."
+    }
+  ],
+  "_glossary_terms_used": ["pigul", "notar", "karet", "ke-zayit", "qodshei qodashim", "qodashim qalim", "tameh", "tahor"]
+}

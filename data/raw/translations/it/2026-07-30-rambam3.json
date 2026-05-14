@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Me'ilah 5-7",
+  "name_he": "משנה תורה, הלכות מעילה, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi della Violazione Sacrilega, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-07-30",
+  "hebrew_date": "16 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "אֵין שָׁלִיחַ לִדְבַר עֲבֵרָה — לְפִיכָךְ הַמַּעֲלֶה בִּשְׁלִיחוּת — הַשָּׁלִיחַ מָעַל וְלֹא הַמְשַׁלֵּחַ.",
+      "it": "'Non vi è agente per un peccato' (ein shliach li-dvar aveirah) — perciò chi esegue me'ilah come agente — l'agente (shliach) ha commesso me'ilah, non colui che ha incaricato l'agente."
+    },
+    {
+      "n": "5:2",
+      "he": "אֲבָל אִם הַשָּׁלִיחַ עָשָׂה שֶׁלֹּא כִּדְבָרָיו — הַמְשַׁלֵּחַ מָעַל.",
+      "it": "Ma se l'agente ha agito contrariamente alle istruzioni ricevute — è il mandante che ha commesso me'ilah."
+    },
+    {
+      "n": "5:3",
+      "he": "בְּמְעִילָה — יֵשׁ חִדּוּשׁ: אָמַר לוֹ לִשְׁלֹחַ לְבֵיתוֹ וְשָׁלַח לְבֵיתוֹ — הַמְשַׁלֵּחַ מָעַל. שָׁלַח לְבֵית אַחֵר — הַשָּׁלִיחַ מָעַל.",
+      "it": "Nella me'ilah vi è una regola speciale: se ha detto all'agente di portarlo a casa sua e l'agente lo portò a casa sua [del mandante] — è il mandante che ha commesso me'ilah. Se l'agente lo portò a casa di un altro — è l'agente che ha commesso me'ilah."
+    },
+    {
+      "n": "6:1",
+      "he": "הַמּוֹעֵל — מְשַׁלֵּם קֶרֶן וְחוֹמֶשׁ, וּמֵבִיא אֲשַׁם מְעִילוֹת.",
+      "it": "Chi ha commesso me'ilah — paga il valore originale (keren) e un quinto in più (chomesh), e porta un sacrificio di colpa speciale (asham me'ilot)."
+    },
+    {
+      "n": "6:2",
+      "he": "הַחוֹמֶשׁ — מִן הַחוּץ, כְּלוֹמַר מוֹסִיפִין חֹמֶשׁ עַל הַקֶּרֶן.",
+      "it": "Il quinto (chomesh) — si aggiunge al valore originale — cioè paga il valore più un quarto di tale valore (che è un quinto del totale)."
+    },
+    {
+      "n": "6:3",
+      "he": "הָאָשָׁם — אֵיל בְּשׁוֹוֵה שְׁתֵּי סְלָעִים לְפָחוֹת.",
+      "it": "Il sacrificio di colpa (asham) — un ariete del valore di almeno due sela d'argento."
+    },
+    {
+      "n": "7:1",
+      "he": "צֵרוּף — שְׁתֵּי הֲנָאוֹת מִשְּׁתֵּי פְּעָמִים מִצְטָרְפִים לִמְעִילָה אַחַת אִם שָׁווֹת פְּרוּטָה.",
+      "it": "Combinazione (tziruf) — due atti di vantaggio in due momenti separati si combinano per formare un'unica me'ilah se insieme valgono la misura minima di una perutah (moneta)."
+    },
+    {
+      "n": "7:2",
+      "he": "שְׁנֵי אֲנָשִׁים שֶׁנֶּהֱנוּ — אֵין מִצְטָרְפִין, כִּי אֵין מְעִילָה בְּצֵרוּף שְׁנֵי גּוּפוֹת.",
+      "it": "Due persone che hanno tratto vantaggio — non si combinano, poiché la me'ilah non si combina tra due persone diverse."
+    },
+    {
+      "n": "7:3",
+      "he": "מְעִילָה בְּשׁוֹגֵג — חַיָּב. בְּזָדוֹן — אֵין בּוֹ מְעִילָה, אֶלָּא כָּרֵת.",
+      "it": "La me'ilah involontaria — comporta l'obbligo di pagamento e asham. La me'ilah deliberata — non ha la procedura standard della me'ilah, ma è soggetta a sanzioni più severe."
+    }
+  ],
+  "_glossary_terms_used": ["ein shliach li-dvar aveirah", "shliach", "me'ilah", "keren", "chomesh", "asham me'ilot", "tziruf", "perutah"]
+}

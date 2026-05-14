@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kelim 23-25",
+  "name_he": "משנה תורה, הלכות כלים, פרקים כג-כה",
+  "name_it": "Mishneh Torah, Leggi dei Vasi (Kelim), capitoli 23-25",
+  "cycle": "rambam-3",
+  "date": "2026-09-17",
+  "hebrew_date": "6 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "23:1",
+      "he": "כְּלֵי הַמִּדָּה — כְּגוֹן כּוֹר וְסְאָה — יֵשׁ אוֹמְרִים שֶׁאֵינָם מְקַבְּלִין טֻמְאָה מִפְּנֵי שֶׁאֵינָם לִשְׁמִירָה אֶלָּא לַמְּדִידָה.",
+      "it": "I vasi di misura — come il kor e la se'ah — secondo alcuni non ricevono impurità perché non servono a contenere bensì a misurare."
+    },
+    {
+      "n": "23:2",
+      "he": "וְהָרַמְבַּ\"ם פָּסַק שֶׁכְּלֵי הַמִּדָּה מְקַבְּלִין טֻמְאָה כְּשֶׁיֵּשׁ לָהֶם בֵּית קִבּוּל, כִּי בֵּית קִבּוּל הוּא הַקּוֹבֵעַ — לֹא הַיִּעוּד.",
+      "it": "Il Rambam ha stabilito che i vasi di misura ricevono impurità quando hanno una cavità contenitrice, perché è la cavità a determinare la qualità di vaso, non il suo scopo."
+    },
+    {
+      "n": "23:3",
+      "he": "אֵין הַמִּדָּה מַפְקַעַת שֵׁם כְּלִי — כֵּיוָן שֶׁיֵּשׁ לוֹ בֵּית קִבּוּל, הֲרֵי הוּא כְּלִי לְכָל דָּבָר.",
+      "it": "Lo scopo di misurazione non priva l'oggetto del nome di vaso — finché ha una cavità è considerato vaso a tutti gli effetti."
+    },
+    {
+      "n": "24:1",
+      "he": "הַיָּד מְחַבֶּרֶת אֶת הַכְּלִי — כְּלוֹמַר שֶׁיָּד הַכְּלִי, דְּהַיְינוּ הַיָּדִית שֶׁלּוֹ, נֶחְשֶׁבֶת כַּכְּלִי עַצְמוֹ לְעִנְיַן טֻמְאָה.",
+      "it": "Il manico (yad) fa parte del vaso: il manico del vaso è considerato come il vaso stesso ai fini dell'impurità."
+    },
+    {
+      "n": "24:2",
+      "he": "כְּלִי שֶׁנִּשְׁבְּרָה יָדוֹ — הַכְּלִי עַצְמוֹ עֲדַיִן מְקַבֵּל טֻמְאָה אִם בֵּית קִבּוּלוֹ שָׁלֵם. יָד שֶׁנִּשְׁבְּרָה בִּפְנֵי עַצְמָהּ — אֵינָהּ מְקַבֶּלֶת.",
+      "it": "Se il manico di un vaso si rompe, il vaso stesso riceve ancora impurità se la cavità è integra. Un manico rotto da solo non riceve impurità."
+    },
+    {
+      "n": "24:3",
+      "he": "כְּלִי בְּלִי יָד — מְקַבֵּל טֻמְאָה אִם יֵשׁ לוֹ בֵּית קִבּוּל. יָד בְּלִי כְּלִי — אֵינָהּ מְקַבֶּלֶת, שֶׁהַיָּד טְפֵלָה לַכְּלִי.",
+      "it": "Un vaso senza manico riceve impurità se ha la cavità. Un manico senza vaso non riceve impurità, perché il manico è accessorio al vaso."
+    },
+    {
+      "n": "25:1",
+      "he": "כְּלָל הַחֻמְרִים: כְּלֵי עֵץ, עוֹר, עֶצֶם, וּזְכוּכִית — מְקַבְּלִין טֻמְאָה בִּשְׁנֵי תְנָאִים: שֶׁיֵּשׁ לָהֶם בֵּית קִבּוּל וְשֶׁנַּעֲשׂוּ לִשְׁמִירָה.",
+      "it": "Principio generale delle categorie: i vasi di legno, cuoio, osso e vetro ricevono impurità a due condizioni: che abbiano cavità e che siano stati fatti per conservare."
+    },
+    {
+      "n": "25:2",
+      "he": "כְּלֵי חֶרֶס — מְקַבְּלִין טֻמְאָה רַק מֵאֲוִירָם, לֹא מִגַּבָּם. כְּלֵי מַתֶּכֶת — מְקַבְּלִין מִגַּבָּם וּמֵאֲוִירָם.",
+      "it": "I vasi di terracotta ricevono impurità solo dal loro interno (aria), non dall'esterno. I vasi di metallo la ricevono sia dall'esterno che dall'interno."
+    },
+    {
+      "n": "25:3",
+      "he": "כְּלֵי אֶבֶן וְגֶלֶל וְאֲדָמָה — אֵינָם מְקַבְּלִין טֻמְאָה כְּלָל מִן הַתּוֹרָה. זֶה כְּלַל גָּדוֹל בְּהִלְכוֹת כֵּלִים.",
+      "it": "I vasi di pietra, sterco e terra non ricevono affatto impurità dalla Torah. Questa è una grande norma generale nelle leggi dei vasi."
+    }
+  ],
+  "_glossary_terms_used": ["yad", "beit kibul", "tumah", "kelim", "cheres", "matechet"]
+}

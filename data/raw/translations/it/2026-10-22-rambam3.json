@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mechirah 28-30",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים כח-ל",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 28-30",
+  "cycle": "rambam-3",
+  "date": "2026-10-22",
+  "hebrew_date": "11 Cheshvan 5787",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": "28:1-6",
+      "he": "שֻׁתָּפִין שֶׁעָשׂוּ שְׁטָר שֻׁתָּפוּת — צָרִיךְ שֶׁיִּהְיֶה בּוֹ זְמַן הַשֻּׁתָּפוּת…",
+      "it": "(Mechirah cap. 28) Società in affari (shutafut): i soci hanno obblighi reciproci di buona fede (emunat shutaf). Ogni socio ha il potere di agire per la società entro i limiti concordati; atti che eccedono il mandato — obbligano il socio personalmente, non la società. La dissoluzione della società: ogni socio può richiedere la divisione in qualsiasi momento (chutzah la-shutafut). Se i beni della società non sono divisibili — si può richiedere la vendita all'asta e divisione del ricavato. I soci hanno diritto di prelazione l'uno sull'altro."
+    },
+    {
+      "n": "29:1-7",
+      "he": "סִיטוֹמְתָּא — מִנְהַג הַסּוֹחֲרִים — קוֹנֶה בְּכָל מָקוֹם לְפִי מִנְהַג הַמָּקוֹם…",
+      "it": "(Mechirah cap. 29) Sitomta (uso commerciale locale vincolante): gli usi commerciali locali (minhag ha-sochrim — le usanze dei mercanti) hanno forza di legge anche senza un kinyan formale. Se i mercanti di una città usano un determinato gesto, segno, o procedura come atto di conclusione di una vendita — questo è vincolante come un kinyan pieno. La base: «dina de-malkhuta dina» (la legge del regno è legge) e «minhag mevatel halachah» (il costume locale può modificare l'applicazione pratica della halachah) nei casi commerciali. Questo principio permette alla legge ebraica di adattarsi ai mercati locali."
+    },
+    {
+      "n": "30:1-5",
+      "he": "זֶה הַכְּלָל — כָּל מֶכֶר שֶׁנֶּעֱשָׂה בְּדַעַת שְׁנֵיהֶם — מֶכֶר גָּמוּר הוּא…",
+      "it": "(Mechirah cap. 30 — capitolo conclusivo) Principio riassuntivo: ogni vendita compiuta con il pieno consenso (da'at) di entrambe le parti, con un kinyan valido, senza errore, senza costrizione e senza asmachta — è una vendita definitiva (mekach gamur) e non può essere annullata. Closing: «Si concludono le Leggi della Compravendita con l'aiuto del Cielo.»"
+    }
+  ],
+  "_glossary_terms_used": [
+    "shutafut", "emunat shutaf", "chutzah la-shutafut", "sitomta", "minhag ha-sochrim", "kinyan", "dina de-malkhuta dina", "minhag mevatel halachah", "asmachta", "mekach gamur"
+  ]
+}

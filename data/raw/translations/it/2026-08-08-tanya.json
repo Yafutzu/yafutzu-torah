@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 32",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לב",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 32",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-08",
+  "hebrew_date": "25 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מצות 'ואהבת לרעך כמוך' — לא רק מצוה מוסרית בין אדם לחברו, אלא בסיס מיסטי עמוק. כי כל נשמות ישראל — 'שרשן אחד' — כולן נובעות ממקור אלוהי אחד. ומי שאוהב את חבירו — אוהב בעצם את עצמו ברובד העמוק ביותר.",
+      "it": "Il precetto 'Amerai il tuo prossimo come te stesso' (Vayikra 19:18) non è solo una norma morale tra persona e persona, ma ha un fondamento mistico profondo. Perché tutte le anime di Israele — 'la loro radice è una' — tutte scaturiscono da un'unica fonte divina. Chi ama il proprio prossimo, in realtà ama se stesso al livello più profondo."
+    },
+    {
+      "n": 2,
+      "he": "לפיכך אמר האריז\"ל שאחד מן הכנות לתפילה הוא לקבל על עצמו מצות 'ואהבת לרעך כמוך'. כי אם אין אחדות בין הנשמות — התפילה אינה שלמה. ורק כשכל נשמות ישראל מאוחדות — הן עולות יחד ומתקבלות.",
+      "it": "Pertanto l'Arizal disse che una delle preparazioni alla preghiera è accettare su di sé il precetto 'Amerai il tuo prossimo come te stesso'. Poiché se non vi è unità tra le anime, la preghiera non è completa. Solo quando tutte le anime di Israele sono unite, esse salgono insieme e vengono accettate."
+    },
+    {
+      "n": 3,
+      "he": "מכאן למד רבי שניאור זלמן יסוד מחודש: אהבת ישראל אינה רק 'טוב לעשות לחבירו' — אלא היא הכרה אמיתית שהחבר הוא 'כמוך' — כמוהו ממש, בשורש הנשמה. וזה שאמר הלל: 'מה דסני לך לחברך לא תעביד'. כלל הכל באחדות.",
+      "it": "Da qui il Rebbe Schneur Zalman apprese un principio rinnovato: ahavat Yisrael (amore verso ogni ebreo) non è solo 'fare del bene al prossimo' — ma è il riconoscimento autentico che il prossimo è 'come te' — letteralmente uguale a te, nella radice della neshama. Questo è ciò che disse Hillel: 'Ciò che è odioso per te, non farlo al tuo prossimo'. Il tutto riunito nell'unità."
+    }
+  ],
+  "_glossary_terms_used": ["ahavat Yisrael", "neshama", "Arizal", "kavvanah"]
+}

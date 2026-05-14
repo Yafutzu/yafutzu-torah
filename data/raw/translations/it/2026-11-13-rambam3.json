@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Shaalah UPikkadon 8; Malveh VeLoveh 1-2",
+  "name_he": "משנה תורה, הלכות שאלה ופקדון פרק ח; הלכות מלווה ולווה פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi del Prestito e del Deposito cap. 8; Leggi del Prestito Monetario capitoli 1-2",
+  "cycle": "rambam-3",
+  "date": "2026-11-13",
+  "hebrew_date": "4 Kislev 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "8:1-4",
+      "he": "הַמַּפְקִיד אֵצֶל חֲבֵרוֹ וְחָזַר וּלְקָחוֹ…",
+      "it": "(Shaalah UPikkadon cap. 8, hal. 1-4) Casi conclusivi del deposito: se il depositante prende indietro il suo oggetto senza avvisare il custode — il custode è esonerato dalla responsabilità dal momento in cui l'oggetto lascia la sua custodia. Ma se poi afferma di non averlo ricevuto indietro — si crea una controversia di credibilità tra custode e depositante. I Saggi stabiliscono chi è creduto in base a «chazakah» (presunzione) e «ra'uy» (plausibilità). «Si concludono le Leggi del Prestito e del Deposito con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "1:1-4",
+      "he": "מִצְוָה לְהַלְווֹת לָעֲנִיִּים — יוֹתֵר מֵהַנְּדָבָה…",
+      "it": "(Malveh VeLoveh cap. 1, hal. 1-4) Hilchot Malveh VeLoveh (Leggi del Prestito Monetario). La mitzvah di prestare denaro ai poveri: «Im kesef talveh et ami et ha-ani immach» (Se presti denaro al mio popolo, al povero che è con te — Esodo 22:24). Il Rambam enfatizza che prestare denaro ai poveri senza interesse è considerata una mitzvah maggiore della tzedakah (carità) — poiché non umilia il povero e preserva la sua dignità. Il Rambam cita la halachah che si è obbligati a prestare anche a chi non è poi sicuro di restituire."
+    },
+    {
+      "n": "2:1-4",
+      "he": "אִסּוּר הָרִבִּית — לֹא תַּשִּׁיךְ לְאָחִיךָ…",
+      "it": "(Malveh VeLoveh cap. 2, hal. 1-4) Il divieto di ribit (usura/interesse): «Lo tashich le-achicha» (Non prenderai interesse da tuo fratello — Deut. 23:20). La proibizione si applica sia al prestatore (malveh) che al mutuatario (loveh) — entrambi violano un divieto negativo della Torah. Anche i testimoni del contratto usurario e il notaio che lo redige violano la Torah. Il Rambam definisce la ribit biblica: qualsiasi pagamento aggiuntivo al capitale del prestito, concordato al momento del prestito. Anche interessi bassissimi sono biblicamente proibiti tra ebrei."
+    }
+  ],
+  "_glossary_terms_used": [
+    "chazakah", "shaalah u-pikkadon", "malveh ve-loveh", "ribit", "tzedakah", "malveh", "loveh", "avak ribit"
+  ]
+}

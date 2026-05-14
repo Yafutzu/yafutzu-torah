@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Mikvaot 10-11; Hilchot Nizkei Mamon 1",
+  "name_he": "משנה תורה, הלכות מקוואות פרקים י-יא; הלכות נזקי ממון פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Bagni Rituali (Mikvaot), capitoli 10-11; Leggi dei Danni ai Beni (Nizkei Mamon), capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-09-22",
+  "hebrew_date": "11 Tishrei 5787",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "10:1",
+      "he": "מִקְוֶה שֶׁנִּמְצָא בְּסוֹף שֶׁהָיָה חָסֵר — כָּל הַטְּהָרוֹת שֶׁנַּעֲשׂוּ עַל גַּבָּיו, אִם בִּרְשׁוּת הַיָּחִיד — טְמֵאוֹת לְמַפְרֵעַ. אִם בִּרְשׁוּת הָרַבִּים — טְהוֹרוֹת.",
+      "it": "Un mikveh trovato alla fine essere carente — tutte le purificazioni compiute su di esso, se nel dominio privato — sono impure retroattivamente. Se nel dominio pubblico — sono pure."
+    },
+    {
+      "n": "10:2",
+      "he": "הָיָה גֶּשֶׁם יוֹרֵד בְּשָׁעָה שֶׁטָּבַל — אִם יֵשׁ בַּמִּקְוֶה אַרְבָּעִים סְאָה בְּלֹא הַגֶּשֶׁם — כָּשֵׁר. אִם לֹא — יֵשׁ לְבָרֵר אִם הַגֶּשֶׁם הֶשְׁלִים.",
+      "it": "Se stava piovendo mentre si immergeva — se nel mikveh vi sono quaranta se'ah senza la pioggia — è valido. Se no — occorre verificare se la pioggia abbia completato la misura."
+    },
+    {
+      "n": "11:1",
+      "he": "הִלְכּוֹת מִקְוָאוֹת — סִיּוּם. נִגְמְרוּ הִלְכוֹת מִקְוָאוֹת. נִגְמַר סֵפֶר טָהֳרָה. הַשֵּׁם יְזַכֵּנוּ לְטָהֳרָה שְׁלֵמָה.",
+      "it": "Si concludono le Leggi dei Bagni Rituali (Hilchot Mikvaot). Si conclude il Sefer Taharah (Libro della Purità). Dio ci conceda di raggiungere la purità completa."
+    },
+    {
+      "n": "11:2",
+      "he": "הַנֶּפֶשׁ שֶׁנִּטְהֲרָה בְּמִקְוֶה — הִיא כְּמוֹ הָאֻמָּה שֶׁנִּטְהֲרָה בְּיוֹם כִּפּוּר. מִכָּאן וְאֵילָךְ יָבוֹא סֵפֶר נְזִיקִין.",
+      "it": "L'anima purificata nel mikveh è come la nazione purificata nel Yom Kippur. Da qui inizia il Sefer Nezikin (Libro dei Danni). Inizia il Sefer Nezikin (Libro dei Danni)."
+    },
+    {
+      "n": "1:1",
+      "he": "אָבוֹת נְזִיקִין אַרְבָּעָה: הַשּׁוֹר, וְהַבּוֹר, וְהַמַּבְעֶה, וְהַהֶבְעֵר. כָּל אֶחָד מֵהֶם מְיֻחָד בְּעִנְיָנוֹ, וְנִלְמַד מִן הַכְּתוּב.",
+      "it": "Le quattro categorie principali dei danni (avot nezikin) sono: il bue (shor), la fossa (bor), il pascolo abusivo (mav'eh) e il fuoco (hev'er). Ognuno è peculiare nel suo genere ed è appreso dalla Scrittura."
+    },
+    {
+      "n": "1:2",
+      "he": "הַשּׁוֹר — זֶה הַשּׁוֹר שֶׁנָּגַח. הַבּוֹר — זֶה מִי שֶׁחָפַר בּוֹר בִּרְשׁוּת הָרַבִּים. הַמַּבְעֶה — זֶה הַבְּהֵמָה שֶׁאָכְלָה. הַהֶבְעֵר — זֶה הָאֵשׁ שֶׁיָּצְאָה.",
+      "it": "Il bue — è il bue che ha incornato. La fossa — è chi ha scavato una fossa nel dominio pubblico. Il pascolo abusivo — è l'animale che ha mangiato. Il fuoco — è il fuoco che si è propagato."
+    },
+    {
+      "n": "1:3",
+      "he": "מַה שֶּׁמְּשַׁוֶּה אֶת אָבוֹת נְזִיקִין: כֻּלָּן שֶׁלֹּא מִצּוּיִן לַעֲשׂוֹת נֵזֶק מֵחֲמַת עַצְמָן, וְאִם הִזִּיקוּ — חַיָּבִין לְשַׁלֵּם.",
+      "it": "Ciò che accomuna le categorie principali: tutte non sono destinate per natura a causare danni, eppure se hanno causato danni — il responsabile è obbligato a risarcire."
+    },
+    {
+      "n": "1:4",
+      "he": "הַנֵּזֶק מְשַׁלֵּם מִן הָעִדִּית. כֵּיצַד? הַנִּזָּק גּוֹבֶה מִן הַקַּרְקַע הַטּוֹבָה שֶׁל הַמַּזִּיק.",
+      "it": "Il danno si risarcisce con terreni di prima qualità (idit). Come? La vittima riscuote dal terreno migliore del responsabile del danno."
+    },
+    {
+      "n": "1:5",
+      "he": "הָאָדָם הַמַּזִּיק בְּגוּפוֹ — מְשַׁלֵּם מִן הָעִדִּית. הַמַּזִּיק בִּרְכוּשׁוֹ — מְשַׁלֵּם מִן הַבֵּינוֹנִית. זֶהוּ כְּלַל גָּדוֹל בְּהִלְכוֹת נְזִיקִין.",
+      "it": "La persona che danneggia col proprio corpo — risarcisce con terreni di prima qualità. Chi danneggia con i propri beni — risarcisce con terreni medi. Questa è una grande regola nelle leggi dei danni."
+    }
+  ],
+  "_glossary_terms_used": ["avot nezikin", "shor", "bor", "mav'eh", "hev'er", "idit", "Sefer Nezikin", "Sefer Taharah"]
+}

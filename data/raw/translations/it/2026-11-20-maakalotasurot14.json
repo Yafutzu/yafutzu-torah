@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 14",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק יד",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 14",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-20",
+  "hebrew_date": "11 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל הָאִסּוּרִין שֶׁנִּתְעָרְבוּ בְּהֶתֵּרִים — אִם בָּטְלוּ בְּרֹב — מֻתָּרִין…",
+      "it": "Tutte le sostanze proibite che si sono mescolate con sostanze permesse — se vengono annullate dalla maggioranza (bitul be-rov) — sono permesse. Il principio generale: quando la sostanza proibita è inferiore a quella permessa nella quantità, la proibizione si annulla. Questo vale per miscele secche (yavesh be-yavesh) in cui i singoli elementi non sono distinguibili. Per le miscele liquide dove il sapore si diffonde, si applica invece la regola del 1:60."
+    },
+    {
+      "n": 2,
+      "he": "בֵּין בָּשָׂר לַחֲלָב — אֵין בִּטּוּל בְּרֹב אֶלָּא בְּשִׁשִּׁים…",
+      "it": "Per le miscele di carne e latte (basar be-chalav) — non si applica il semplice bitul be-rov (annullamento dalla maggioranza) ma si richiede bitul be-shishim (annullamento in 60 parti). Il principio: se 1 parte di latte è caduta in 60 parti di brodo di carne, il sapore del latte è talmente diluito da non essere più percettibile (noten ta'am lif'gam), e il brodo è permesso. Se il rapporto è inferiore a 1:60 — il sapore è ancora presente e la miscela è proibita."
+    },
+    {
+      "n": 3,
+      "he": "דָּבָר הַחָשׁוּב — אֵינוֹ בָּטֵל לְעוֹלָם…",
+      "it": "Un «davar chashuv» (oggetto significativo/importante) — non si annulla mai, nemmeno in 1000 parti. La ragione: la sua importanza (chasivut) lo rende sempre riconoscibile e distinguibile. Esempi: un uccello intero non kosher che cadde in una pentola di cibo kosher — anche se la pentola contiene mille uccelli kosher, l'uccello non kosher è sempre visibile e non si annulla. Lo stesso vale per un bulbo d'aglio, un gregno o altri alimenti che si vendono normalmente per numero."
+    },
+    {
+      "n": 4,
+      "he": "דָּבָר שֶׁדַּרְכּוֹ לִמָּנוֹת — אֵינוֹ בָּטֵל…",
+      "it": "Un oggetto che normalmente si vende per numero (davar she-darko li-manot) — non si annulla. Il principio è simile al davar chashuv: il fatto che si conti singolarmente riflette l'importanza individuale dell'oggetto. Esempio: uova intere, melograni interi, grandi fette di pane — ciascuno è un'unità significativa. Pertanto un uovo non kosher non si annulla in mezzo a cento uova kosher."
+    },
+    {
+      "n": 5,
+      "he": "תַּבְלִינִין — אוֹסְרִין בְּכָל שֶׁהוּא…",
+      "it": "Le spezie — proibiscono in qualsiasi quantità (be-khol she-hu). Poiché le spezie vengono usate in quantità minime per conferire sapore a grandi quantità di cibo, anche la minima quantità di spezia proibita può rendere proibita l'intera pietanza. Il principio: si va dopo il sapore (holchin achar ha-ta'am), e le spezie per definizione conferiscono sapore in modo sproporzionato alla loro quantità."
+    },
+    {
+      "n": 6,
+      "he": "הַתּוֹרֵם מִן הַגָּרוּעַ — תְּרוּמָתוֹ תְּרוּמָה — אֲבָל עָשָׂה שֶׁלֹּא כַּהֹגֶן…",
+      "it": "Il principio di bitul si applica solo quando la miscela avviene accidentalmente (beshogeg) e la sostanza proibita è priva di importanza specifica. Se qualcuno ha deliberatamente mescolato una sostanza proibita con una permessa per far sembrare che si annulli — la miscela rimane proibita. I Saggi insegnano: «ain mevatelin issur le-khatchilah» — non si annulla deliberatamente una proibizione. Il bitul è un rimedio post-facto, non una tecnica pianificata."
+    },
+    {
+      "n": 7,
+      "he": "כִּכָּר שֶׁנִּפְרַס — בָּטֵל בְּמֵאָה וְאַחַד…",
+      "it": "Una pagnotta di terumah (offerta sacerdotale) che si è mescolata con pagnotte comuni — si annulla se le pagnotte comuni sono 101, secondo la regola speciale stabilita dai Saggi per la terumah. Questo caso illustra come per certi tipi di proibizioni rabbiniche i Saggi abbiano stabilito una regola numerica specifica. Il principio generale rimane: il bitul esige che la sostanza proibita perda la sua identità nel mezzo della maggioranza permessa."
+    }
+  ],
+  "_glossary_terms_used": [
+    "bitul be-rov", "bitul be-shishim", "basar be-chalav", "noten ta'am lif'gam", "davar chashuv", "davar she-darko li-manot", "holchin achar ha-ta'am", "beshogeg", "terumah"
+  ]
+}

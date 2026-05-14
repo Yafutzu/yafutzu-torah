@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 1",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק א",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-24",
+  "hebrew_date": "15 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל מִי שֶׁרוֹצֶה לֶאֱכֹל בְּשַׂר בְּהֵמָה אוֹ חַיָּה אוֹ עוֹף — שׁוֹחֵט תְּחִלָּה…",
+      "it": "Chiunque voglia mangiare carne di animale domestico (behemah), bestia selvatica (chayah) o uccello (of) — prima macella (shochet) l'animale, poi mangia. Questo è il comandamento della shechitah (macellazione rituale), che la Torah prescrive: «Macella dai tuoi bovini e dalle tue pecore... e mangerai» (Devarim 12:21). Senza shechitah valida, la carne dell'animale è neveilah (carcassa) — proibita nel mangiare."
+    },
+    {
+      "n": 2,
+      "he": "דָּגִים וַחֲגָבִים — אֵינָן צְרִיכִין שְׁחִיטָה…",
+      "it": "I pesci e le locuste (chagavim) — non richiedono shechitah. La loro presa è sufficiente: il pesce diventa permesso nel momento in cui viene pescato dal mare, e la locusta kosher è permessa con la sua cattura. La ragione biblica: la Torah non ha comandato la shechitah per queste creature. Tuttavia alcuni costumi richiedono che i pesci vengano uccisi prima di essere cucinati, per ragioni di dignità animale, ma questo non è un requisito kasherut."
+    },
+    {
+      "n": 3,
+      "he": "הַשּׁוֹחֵט — צָרִיךְ שֶׁיְּהֵא גָּדוֹל וּפִקֵּחַ…",
+      "it": "Il macellatore rituale (shochet) — deve essere adulto (gadol) e mentalmente competente (pikeyach). Un minore (katan), un sordomuto (cheresh), un folle (shoteh) — la loro shechitah è invalida. Il motivo: la shechitah richiede intenzione (kavvanah) e conoscenza delle leggi. Il Rambam aggiunge che il shochet deve essere timorato di D-o (yarei shamayim) e di buona reputazione morale — non solo tecnicamente capace."
+    },
+    {
+      "n": 4,
+      "he": "צָרִיךְ הַשּׁוֹחֵט לְהִבָּחֵן — שֶׁיֵּדַע הִלְכוֹת שְׁחִיטָה…",
+      "it": "Il shochet deve essere esaminato e certificato — deve conoscere le leggi della shechitah. Non basta avere un coltello adeguato e un animale davanti; occorre sapere esattamente come eseguire il taglio, quali invalidazioni esistono, come controllarle. Il beit din (o il rabbino competente) è responsabile di esaminare il shochet prima di autorizzarlo. Chi macella senza essere stato esaminato — la sua shechitah è valida dopo il fatto, ma non è retto ad agire così in anticipo."
+    },
+    {
+      "n": 5,
+      "he": "הַשְּׁחִיטָה — בְּצַוַּאר הָעוֹף וְהַבְּהֵמָה…",
+      "it": "La shechitah — avviene nella gola (tzavar) dell'animale e dell'uccello. La zona valida per la shechitah è definita da confini precisi lungo il collo — non troppo in alto verso la testa né troppo in basso verso il petto. All'interno di quest'area si trovano i «simanim» (i segni): la trachea (kaneh — la via aerea) e l'esofago (veshet — la via alimentare). Il taglio deve recidere la maggior parte di questi organi per essere valido."
+    },
+    {
+      "n": 6,
+      "he": "שְׁחִיטַת הַחֻלִּין — אֵין צְרִיכִין כַּוָּנָה לִשְׁמָהּ…",
+      "it": "La shechitah di carne ordinaria (chulin) — non richiede un'intenzione esplicita al nome della mitzvah (kavvanah li-shmah). Basta che il shochet non intenda espressamente escludere la validità della shechitah. Tuttavia, la shechitah di kodshim (offerte sacre del Tempio) — richiede intenzione esplicita e corretta. La distinzione tra chulin e kodshim è fondamentale nel diritto della shechitah."
+    },
+    {
+      "n": 7,
+      "he": "הַשּׁוֹחֵט שֶׁחָלַק — שְׁחִיטָתוֹ כְּשֵׁרָה…",
+      "it": "Il shochet che è diventato halak (che ha perso la barba o la pelle a causa di malattia) — la sua shechitah è valida. L'invalidazione non riguarda l'aspetto fisico del shochet ma le sue competenze e qualità morali. Un shochet cieco da un occhio — la sua shechitah è valida per l'altro lato. L'Alter Rebbe (Rabbi Shneur Zalman) nel suo Shulchan Aruch elenca dettagliatamente le qualifiche del shochet — un riflesso dell'importanza che Chassidut attribuisce alla kasherut della shechitah come garanzia di santità spirituale del cibo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shechitah", "shochet", "behemah", "chayah", "neveilah", "simanim", "kaneh", "veshet", "chulin", "kodshim", "kavvanah", "yarei shamayim"
+  ]
+}

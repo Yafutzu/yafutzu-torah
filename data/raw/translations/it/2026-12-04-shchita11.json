@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 11",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק יא",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 11",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-04",
+  "hebrew_date": "25 Kislev 5787 — Chanukah giorno 1",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵבֶר מִן הַחַי — אָסוּר לְכָל בְּנֵי נֹחַ...",
+      "it": "Eivar min ha-chai (arto strappato da un animale ancora vivo) — è proibito a tutta l'umanità come una delle sette leggi noachidi (sheva mitzvot bnei Noach). Per gli ebrei, questo divieto aggiunge una proibizione specifica della Torah che si applica a qualsiasi animale kosher o non-kosher: il divieto di mangiare carne «ancora viva» (basar me-chai). La Torah afferma: «Non mangiate la carne con la sua vita, che è il suo sangue» (Genesi 9:4). Questo divieto precede il Sinai ed è universale."
+    },
+    {
+      "n": 2,
+      "he": "אֵיזֶהוּ אֵבֶר מִן הַחַי — אֵבֶר שֶׁנִּתְלַשׁ מִן הַבְּהֵמָה כֻּלּוֹ...",
+      "it": "Cos'è eivar min ha-chai? Un arto (eivar) che è stato completamente separato da un animale vivo — include sia la carne che le ossa che i tendini dell'arto. Un pezzo di carne (basar) strappato da un animale vivo senza ossa — è anch'esso proibito come «basar min ha-chai». La distinzione: se l'arto è stato tagliato ma è ancora attaccato per un filo di pelle — non è ancora eivar min ha-chai finché non è completamente separato."
+    },
+    {
+      "n": 3,
+      "he": "בְּהֵמָה שֶׁנִּשְׁחֲטָה וַעֲדַיִן מְפַרְכֶּסֶת...",
+      "it": "Un animale che è stato macellato ma si muove ancora per spasmi involontari (mefarkeset — spasmi post-mortem): è considerato morto rispetto alla proibizione di eivar min ha-chai. Non si applica il divieto di eivar min ha-chai agli spasmi post-shechitah, poiché l'animale è già halachicamente morto dal momento della shechitah valida. Tuttavia, non si dovrebbe estrarre carne durante questi spasmi per evitare dubbi."
+    },
+    {
+      "n": 4,
+      "he": "הַשּׁוֹחֵט בְּהֵמָה וְעָמְדָה בְּסוֹפָהּ...",
+      "it": "Se un animale sopravvive alla shechitah (un caso raro ma possibile — ad esempio shechitah parzialmente valida) e torna in vita, poi muore — la carne è proibita. Se l'animale sopravvive alla shechitah invalida e poi viene macellato correttamente — la prima shechitah invalida non ha rilevanza. Caso di Chanukah: così come la shechitah richiede che l'animale muoia completamente prima che la carne sia permessa, Chanukah celebra la vittoria della vita ebraica (Torah e mitzvot) sul decreto di morte spirituale dei Greci — la legge ebraica non poteva essere «parzialmente» soppressa."
+    },
+    {
+      "n": 5,
+      "he": "אֵבֶר מִן הַחַי בְּעוֹף — רַבָּנָן אוֹסְרִים...",
+      "it": "Eivar min ha-chai negli uccelli — i Saggi (Chachamim) lo proibiscono rabbinicamente, poiché la proibizione biblica di eivar min ha-chai si applica strettamente alle behemot (animali domestici) e alla chayyah (animali selvatici), ma non agli uccelli. Il Rambam segue la posizione che il divieto rabbinico sugli uccelli è comunque vincolante e non si può togliere un arto da un uccello vivo. Nota di Chanukah: la prima candela di Chanukah illumina il buio — così come la Torah «illumina» le zone grigie halachiche con chiarezza, distinguendo tra proibizioni bibliche e rabbiniche."
+    }
+  ],
+  "_glossary_terms_used": [
+    "eivar min ha-chai", "basar min ha-chai", "sheva mitzvot bnei Noach", "mefarkeset", "behemot", "chayyah", "Chachamim", "pirsumei nisa", "shechitah"
+  ]
+}

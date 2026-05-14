@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Edut 1-3",
+  "name_he": "משנה תורה, הלכות עדות פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-12-10",
+  "hebrew_date": "1 Tevet 5787 — Rosh Chodesh Tevet — Chanukah giorno 7",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "1:1-5",
+      "he": "כָּשֵׁר לְהָעִיד — כָּל מִי שֶׁהוּא בֶּן דַּעַת...",
+      "it": "(Edut cap. 1, hal. 1-5) HILCHOT EDUT INIZIA. La testimonianza (edut) richiede due testimoni validi (Deuteronomio 19:15: «al pi shnei edim»). Categorie di testimoni validi: uomini adulti ebrei di sana mente. Categorie di testimoni invalidi: donne, minori (katanim), sordomuti (cheresh), pazzi (shotim), ciechi (per ciò che non possono vedere), parenti stretti, chi ha interesse nella causa. Solo la testimonianza diretta (re'iyah — ciò che il testimone ha visto con i propri occhi) è valida; nessuna testimonianza de relato (mi-pi hashmu'a — per sentito dire) è accettata per cause capitali o per cause monetarie formali."
+    },
+    {
+      "n": "2:1-5",
+      "he": "הָאִשָּׁה — פְּסוּלָה לְהָעִיד...",
+      "it": "(Edut cap. 2, hal. 1-5) Le donne (nashim) sono generalmente escluse dalla testimonianza formale in beit din — non come giudizio di carattere, ma come norma strutturale della legge processuale ebraica. Vi sono eccezioni rabbiniche dove la testimonianza di una donna è accettata (es. per attestare la morte del marito, per permettere il secondo matrimonio della vedova). Rosh Chodesh Tevet: la luna si rinnova il primo di Tevet — anche nella testimonianza, i Saggi permisero vie alternative alla testimonianza formale quando necessario per la vita pratica della comunità."
+    },
+    {
+      "n": "3:1-4",
+      "he": "הָרָשָׁע — פָּסוּל לְהָעִיד...",
+      "it": "(Edut cap. 3, hal. 1-4) Il rasha (malvagio) è disqualificato dalla testimonianza: chi viola i divieti della Torah per interesse monetario — ladri, rapinatori, usurai, giocatori d'azzardo. Anche «anshei resha'ah» (persone di condotta malvagia notoria) sono esclusi. Il principio: la testimonianza richiede «ne'emanut» (affidabilità) — chi ha dimostrato di mentire o ingannare per guadagno non può essere testimone affidabile. Chanukah 7 — Rosh Chodesh: le sette candele di Chanukah più la candela di Rosh Chodesh (via Hallel) creano un momento di luce doppia — la purezza richiesta dai testimoni del Tempio si rispecchia nella purezza dell'olio di Chanukah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "edut", "al pi shnei edim", "katanim", "cheresh", "shotim", "re'iyah", "mi-pi hashmu'a", "nashim", "beit din", "Rosh Chodesh Tevet", "rasha", "ne'emanut", "anshei resha'ah", "Hallel"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "ref": "Mishneh Torah, The Order of Prayer 3",
+  "name_he": "משנה תורה, סדר התפילות, פרק ג",
+  "name_it": "Mishneh Torah, Ordine delle Preghiere, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-20",
+  "hebrew_date": "4 Sivan 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "וזהו נסח כל הברכות האמצעיות",
+      "it": "E questo è il testo di tutte le benedizioni di mezzo [dell'Amidah di Shabbat e Yom Tov]."
+    },
+    {
+      "n": 2,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל לֵילֵי שַׁבָּת: אַתָּה קִדַּשְׁתָּ אֶת יוֹם הַשְּׁבִיעִי לִשְׁמֶךָ תַּכְלִית מַעֲשֵׂה שָׁמַיִם וָאָרֶץ…",
+      "it": "(Benedizione di mezzo del venerdì sera — Magen Avot) «Tu hai consacrato il settimo giorno al Tuo nome, compimento dell'opera dei cieli e della terra; lo hai benedetto tra tutti i giorni e lo hai santificato tra tutti i tempi, come è scritto nella Tua Torah: "E il cielo e la terra furono compiuti e tutti i loro eserciti. E D-o completò nel settimo giorno la Sua opera che aveva fatto, e si astenne nel settimo giorno da tutta la Sua opera che aveva fatto. E D-o benedisse il settimo giorno e lo santificò, poiché in esso si astenne da tutta la Sua opera che D-o creò per fare." [Bereshit 2:1-3] Il nostro D-o e D-o dei nostri padri, gradisci il nostro riposo, santificaci con i Tuoi comandamenti e metti la nostra parte nella Tua Torah, saziai della Tua bontà e allieta la nostra anima nella Tua salvezza; purifica il nostro cuore per servirTi in verità, e fa' che il Tuo santo Shabbat sia la nostra eredità, Eterno nostro D-o, con amore e volontà; e che nel Suo riposo si riposi il popolo Israele santificatori del Tuo nome. Benedetto sei Tu, Eterno, che santifica il Shabbat.»"
+    },
+    {
+      "n": 3,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל שַׁחֲרִית שַׁבָּת: יִשְׂמַח מֹשֶׁה בְּמַתְּנַת חֶלְקוֹ…",
+      "it": "(Benedizione di mezzo di Shacharit di Shabbat) «Moshè si rallegrò del dono del suo destino, poiché lo hai chiamato servo fedele; una corona di gloria hai posto sulla sua testa quando stava davanti a Te sul monte Sinai, e due tavole della pietra portò nella sua mano in cui è scritto lo Shabbat; e così è scritto nella Tua Torah: "E i figli d'Israele osserveranno il Shabbat, fare il Shabbat per le loro generazioni patto eterno." [Shemot 31:16] Il nostro D-o e D-o dei nostri padri, gradisci il nostro riposo; santificaci con i Tuoi comandamenti e metti la nostra parte nella Tua Torah… Benedetto sei Tu, Eterno, che santifica il Shabbat.»"
+    },
+    {
+      "n": 4,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל מִנְחָה שַׁבָּת: אַתָּה אֶחָד וְשִׁמְךָ אֶחָד…",
+      "it": "(Benedizione di mezzo di Mincha di Shabbat) «Tu sei Uno e il Tuo nome è Uno, e chi è come il Tuo popolo Israele, nazione una sulla terra! Gloria della grandezza e corona di salvezza — giorno di riposo e santità hai dato al Tuo popolo. Avraham si allieti, Yitzchak gioisca, Ya'akov e i suoi figli si riposino in esso — riposo di amore e generosità, riposo di verità e fedeltà, riposo di pace e tranquillità, di calma e sicurezza — riposo perfetto che vuoi Tu. I Tuoi figli riconoscono e sanno che dal Tuo riposo viene la loro santità, e nella Tua pace si santificano e si riposano. Il nostro D-o e D-o dei nostri padri, gradisci il nostro riposo… Benedetto sei Tu, Eterno, che santifica il Shabbat.»"
+    },
+    {
+      "n": 5,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל מוּסָף שַׁבָּת: תִּכַּנְתָּ שַׁבָּת רָצִיתָ קָרְבְּנוֹתֶיהָ…",
+      "it": "(Benedizione di mezzo di Mussaf di Shabbat — Tikanta Shabbat) «Hai stabilito il Shabbat, hai gradito le sue offerte; hai ordinato le sue prescrizioni definite insieme alle discipline dei suoi ordini particolari; i suoi servizi [nel Tempio] adorneranno in esso. Chi lo raggiunge diventa lieto; e coloro che gustano di esso sono degni di vita; e anche coloro che lo amano, grande è il loro privilegio. Nel giorno del Shabbat due giovenchi, un ariete e due agnelli — e questo è il Mussaf di Shabbat, insieme all'olocausto continuativo e al suo libamento. [E si continua con la richiesta del ripristino del servizio del Tempio e la raccolta degli esuli.] Il nostro D-o e D-o dei nostri padri, gradisci il nostro riposo; santificaci con i Tuoi comandamenti e metti la nostra parte nella Tua Torah, saziai della Tua bontà e allieta la nostra anima nella Tua salvezza; e purifica il nostro cuore per servirTi in verità. Benedetto sei Tu, Eterno, che santifica il Shabbat.»"
+    },
+    {
+      "n": 6,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל יוֹם טוֹב: אַתָּה בְחַרְתָּנוּ מִכָּל הָעַמִּים…",
+      "it": "(Benedizione di mezzo di Yom Tov — Atah Bechartanu) «Tu ci hai scelti tra tutti i popoli, ci hai amati e hai avuto piacere in noi, ci hai esaltati tra tutte le lingue e ci hai santificati con i Tuoi comandamenti, ci hai avvicinati, Re nostro, al Tuo servizio e ci hai proclamati per il Tuo grande e santo nome. E ci hai dato, Eterno nostro D-o, con amore [il Tuo grande Shabbat / le solennità festive per la gioia] e giorni festivi per l'allegria, questo giorno di [Pesach / Shavuot / Sukkot / Shemini Atzeret / Shavuot] per la santa assemblea (mikra kodesh), zeman cherutenu / matan Toratenu / simchatenu…»"
+    },
+    {
+      "n": 7,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל מוּסָף יוֹם טוֹב: אַתָּה בְחַרְתָּנוּ…",
+      "it": "(Benedizione di mezzo di Mussaf di Yom Tov): come l'Amidah di Yom Tov ma con l'aggiunta dell'elenco dei sacrifici del giorno secondo quanto prescritto nella Torah (Numeri 28-29), e con la richiesta del ripristino del servizio del Tempio e del raduno degli esiliati. Si conclude con «Benedetto sei Tu, Eterno, che santifica Israele e i tempi festivi.»"
+    },
+    {
+      "n": 8,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל רֹאשׁ הַשָּׁנָה: מְלוֹךְ עַל כָּל הָעוֹלָם…",
+      "it": "(Benedizione di mezzo di Rosh HaShanah — Malchuyot, Zichronot, Shofarot): «Regna su tutto il mondo nella Tua gloria e innalzaTi su tutta la terra nel Tuo splendore…» [con i versetti di Malchuyot — regalità]. «Ti ricorderai di ogni opera e presterai attenzione a tutte le creature…» [con i versetti di Zichronot — reminiscenza]. «E con il suono del grande shofar si alzeranno…» [con i versetti di Shofarot — shofar]. Benedetto sei Tu, Eterno, che ascolta la voce dello shofar del Suo popolo Israele con misericordia."
+    },
+    {
+      "n": 9,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל יוֹם הַכִּפּוּרִים: אַתָּה בְחַרְתָּנוּ…",
+      "it": "(Benedizione di mezzo di Yom Kippur — Ne'ilah e altre preghiere): Come l'Amidah di Yom Tov, con l'aggiunta: «e hai fissato per noi, Eterno nostro D-o, con amore questo Yom Kippur per perdonare, sgravarci e espiare tutti i nostri crimini.» Si conclude con le Confessioni (Viddui) come nel capitolo 4."
+    },
+    {
+      "n": 10,
+      "he": "בְּרָכָה אֶמְצָעִית שֶׁל שַׁבָּת וְיוֹם טוֹב שֶׁחָל בְּרֹאשׁ חוֹדֶשׁ…",
+      "it": "(Benedizione di mezzo di Shabbat che coincide con Rosh Chodesh, o di Yom Tov che coincide con Shabbat): Si dice «Atah Bechartanu» come di Yom Tov con l'aggiunta della menzione del Shabbat nel testo, e «Ya'aleh VeYavo» se è Rosh Chodesh. Quando Shabbat coincide con Yom Tov si antepone la menzione del Shabbat a quella del Yom Tov, poiché la santità del Shabbat è anteriore."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Amidah", "Mussaf", "Shacharit", "Mincha", "Yom Tov", "Rosh HaShanah", "Yom Kippur", "Mussaf", "Shabbat", "Malchuyot", "Zichronot", "Shofarot", "Ne'ilah", "Viddui", "mikra kodesh"
+  ]
+}

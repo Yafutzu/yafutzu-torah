@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Sabbath 18",
+  "name_he": "הלכות שבת פרק י\"ח",
+  "name_it": "Leggi dello Shabbat, Capitolo 18",
+  "cycle": "rambam-1",
+  "date": "2026-06-08",
+  "hebrew_date": "23 Sivan 5786",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "טַלְטוּל הַפֵּרוֹת בְּשַׁבָּת",
+      "it": "Il trasporto (tilul, טִלְטוּל) di frutta e prodotti alimentari di Shabbat nel dominio privato è permesso in linea di principio, poiché il cibo è destinato all'uso e non è muktzeh. Tuttavia vi sono limitazioni rabbiniche specifiche per certi tipi di prodotti."
+    },
+    {
+      "n": 2,
+      "he": "פֵּרוֹת שֶׁנָּשְׁרוּ מִן הָאִילָן",
+      "it": "Frutti caduti da un albero di Shabbat (perot shenashru, פֵּרוֹת שֶׁנָּשְׁרוּ) sono muktzeh e non possono essere spostati. Anche se erano pronti per il consumo, il fatto che siano caduti di Shabbat li rende muktzeh poiché erano 'fuori disponibilità' al bein hashmashot."
+    },
+    {
+      "n": 3,
+      "he": "עֲנָבִים שֶׁנִּבְצְרוּ בְּשַׁבָּת",
+      "it": "Uva vendemmiata di Shabbat è muktzeh. Anche se l'uva stessa era disponibile prima di Shabbat, l'atto della vendemmia di Shabbat la rende muktzeh per tutta la giornata. Questo vale per qualsiasi frutto raccolto in modo proibito di Shabbat."
+    },
+    {
+      "n": 4,
+      "he": "פֵּרוֹת שֶׁנִּתְלְשׁוּ מֵעַצְמָן",
+      "it": "Frutti che si sono staccati da soli dall'albero durante Shabbat (senza azione umana) — vi è disputa tra i Saggi. Il Rambam segue l'opinione che anche questi sono muktzeh, poiché non erano disponibili all'inizio di Shabbat."
+    },
+    {
+      "n": 5,
+      "he": "דְּבַר שֶׁאֵינוֹ נִגְמַר מְלַאכְתּוֹ",
+      "it": "Un prodotto che non ha completato la sua lavorazione (gmar melachto, גְּמַר מְלַאכְתּוֹ) prima di Shabbat — come olive che devono ancora essere pressate — è muktzeh poiché non era pronto per l'uso al momento dell'entrata di Shabbat."
+    },
+    {
+      "n": 6,
+      "he": "כֵּיצַד מְטַלְטְלִין פֵּרוֹת",
+      "it": "Come si trasportano lecitamente i frutti permessi di Shabbat? In modo normale nel dominio privato (reshut hayachid, רְשׁוּת הַיָּחִיד). Se vi è un eruv chatzerot (עֵרוּב חֲצֵרוֹת — fusione simbolica dei cortili), si trasportano anche in un'area condivisa con i vicini."
+    },
+    {
+      "n": 7,
+      "he": "אוֹכֵל פֵּרוֹת בְּשַׁבָּת",
+      "it": "Si può mangiare qualsiasi frutto kasher e permesso di Shabbat. Non è necessario che il frutto sia stato preparato prima di Shabbat — se era disponibile all'entrata di Shabbat, è permesso mangiarlo e portarlo nel dominio privato."
+    },
+    {
+      "n": 8,
+      "he": "פֵּרוֹת שֶׁהִגִּיעוּ לְיַד הֶעָנִי",
+      "it": "Frutti che il proprietario aveva già designato per i poveri (pe'ah, leket, ecc.) prima di Shabbat — se i poveri non li hanno ancora raccolti — rimangono disponibili per la raccolta di Shabbat stesso, poiché erano 'pronti' prima di Shabbat."
+    },
+    {
+      "n": 9,
+      "he": "מֻקְצֶה מֵחֲמַת אִיסּוּר",
+      "it": "Muktzeh 'a causa di proibizione' (muktzeh machmat issur, מֻקְצֶה מֵחֲמַת אִיסּוּר) si riferisce a oggetti la cui essenza è proibita — come un animale non macellatamente kashered o cibo non kasher. Questi non possono essere spostati di Shabbat."
+    },
+    {
+      "n": 10,
+      "he": "כֵּלִים שֶׁמֻּקְצִין לְצֹרֶךְ מְלָאכָה",
+      "it": "Utensili destinati a un uso lavorativo specifico (kelim hamilacha, כְּלֵי הַמְּלָאכָה) — come un martello, una sega, o un aratro — sono muktzeh di Shabbat poiché la loro funzione principale è un lavoro proibito. Si possono spostare solo in caso di utilizzo del loro luogo (letzorech mekoman, לְצֹרֶךְ מְקוֹמָן)."
+    },
+    {
+      "n": 11,
+      "he": "סַכִּין שֶׁהָיְתָה לְצֹרֶךְ",
+      "it": "Un coltello da cucina (sakkin, סַכִּין) il cui uso principale è tagliare cibo — non è muktzeh di Shabbat. Si può usarlo e spostarlo normalmente. Il criterio per determinare se un utensile è muktzeh è l'uso principale nella vita quotidiana."
+    },
+    {
+      "n": 12,
+      "he": "אוֹכֶלֶת מִשּׁוּם אוֹכֶלֶת",
+      "it": "Il principio generale: qualsiasi cosa il cui uso principale è permesso di Shabbat (ochel nefesh, אוֹכֶל נֶפֶשׁ — fabbisogno vitale) — si può spostare di Shabbat. Se il suo uso principale è proibito — è muktzeh, anche se in teoria potrebbe avere un uso secondario permesso."
+    },
+    {
+      "n": 13,
+      "he": "מַחְמֶצֶת שֶׁל חַמָּרִין",
+      "it": "Un contenitore usato dagli asinarai (machmetzel, מַחְמֶצֶת) per il trasporto di carichi pesanti — che ha un uso occasionale come sedile — è comunque muktzeh perché il suo uso principale è il trasporto, che è lavoro vietato di Shabbat."
+    },
+    {
+      "n": 14,
+      "he": "גֶּרֶף שֶׁל רְעִי",
+      "it": "Una padella piena di cibo disgustoso (geref shel re'i, גֶּרֶף שֶׁל רְעִי) può essere spostata di Shabbat e portata fuori, anche se normalmente sarebbe muktzeh, poiché causa repulsione (mi'us, מִיאוּס) che supera il divieto del tilul."
+    },
+    {
+      "n": 15,
+      "he": "כֵּיצַד עוֹשִׂין",
+      "it": "Come si rimuove il geref shel re'i? Si copre con un contenitore rovesciato e lo si spinge via con i piedi. Non è necessario toccarlo con le mani. Questa è un'eccezione speciale al divieto di tilul per ragioni di dignità umana (kvod habriot, כְּבוֹד הַבְּרִיּוֹת)."
+    },
+    {
+      "n": 16,
+      "he": "שֶׁמֶן שֶׁנָּפַל",
+      "it": "Olio (shemen, שֶׁמֶן) caduto a terra di Shabbat e sparsosi — non si raccoglie di Shabbat poiché è muktzeh (non era disponibile come tale all'inizio di Shabbat). Si lascia e lo si raccoglie solo dopo Shabbat."
+    },
+    {
+      "n": 17,
+      "he": "כֵּיצַד נוֹטְלִין מִן הַמֻּקְצֶה",
+      "it": "Come si prende un oggetto permesso che si trova sopra un oggetto muktzeh? Si deve prendere solo l'oggetto permesso senza toccare o spostare il muktzeh. Se ciò è impossibile, si inclina il muktzeh di lato finché l'oggetto permesso cade."
+    },
+    {
+      "n": 18,
+      "he": "הַמֻּקְצֶה בִּבְסִיס",
+      "it": "Un oggetto muktzeh che è la basis (בָּסִיס — base/supporto) di un oggetto permesso — se il proprietario aveva in mente che l'oggetto muktzeh sostenesse quello permesso durante Shabbat — l'intera base diventa muktzeh. Se non aveva questa intenzione, si prende l'oggetto permesso e si lascia la base al suo posto."
+    }
+  ],
+  "_glossary_terms_used": ["tilul", "muktzeh", "bein hashmashot", "gmar melachto", "reshut hayachid", "eruv chatzerot", "muktzeh machmat issur", "kelim hamilacha", "letzorech mekoman", "sakkin", "ochel nefesh", "geref shel re'i", "mi'us", "kvod habriot", "shemen", "basis"]
+}

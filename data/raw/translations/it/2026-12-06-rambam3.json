@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Sanhedrin 15-17",
+  "name_he": "משנה תורה, הלכות סנהדרין פרקים טו-יז",
+  "name_it": "Mishneh Torah, Leggi del Sinedrio, capitoli 15-17",
+  "cycle": "rambam-3",
+  "date": "2026-12-06",
+  "hebrew_date": "27 Kislev 5787 — Chanukah giorno 3",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "15:1-5",
+      "he": "הַנִּשְׂרָפִין — כֵּיצַד שׂוֹרְפִין אוֹתָן...",
+      "it": "(Sanhedrin cap. 15, hal. 1-5) La procedura della bruciatura (sereifah): avvolgono il condannato in stoffa morbida, due testimoni tirano le estremità della stoffa intorno alla gola fino a quando la bocca si apre, e il piombo fuso (oferet masug) viene versato in gola. La morte è rapida e interna — il corpo non brucia dall'esterno. Questo metodo è derivato dall'interpretazione rabbinica del termine «ba-esh» (nel fuoco) — la «fiamma» è interna. Le categorie soggette alla sereifah: la figlia del kohen che commette adulterio, chi ha relazioni con una donna e sua madre (ishah ve-vito)."
+    },
+    {
+      "n": "16:1-5",
+      "he": "הַנֶּחֱנָקִין — אֵלּוּ הֵן...",
+      "it": "(Sanhedrin cap. 16, hal. 1-5) Le categorie soggette a strangolamento (chenek): il marito che colpisce suo padre o sua madre (makeh av va-em), il «zaken mamre» (saggio anziano che si ribella al Gran Sinedrio), il falso profeta (navi sheker — che predice eventi falsi nel nome di D-o), l'adultera comune (ishah mena'efet). Il chenek è la pena «predefinita» — quando la Torah dice «muot yumat» senza specificare la modalità, si applica il chenek. Chanukah 3: tre candele richiamano i tre tipi di giuranti: del Sinedrio, del singolo beit din, e del testimone — tutti tenuti all'onestà assoluta."
+    },
+    {
+      "n": "17:1-4",
+      "he": "הַנֶּחֱנָק — כֵּיצַד חוֹנְקִין...",
+      "it": "(Sanhedrin cap. 17, hal. 1-4) La procedura dello strangolamento (chenek): il condannato viene avvolto in una striscia morbida di tessuto intorno al collo; i testimoni tirano le estremità da lati opposti finché muore. Anche qui la procedura è progettata per essere rapida e relativamente indolore — «ve-ahavta le-re'acha kamocha» si applica anche ai giustiziati. Il principio generale: tutte e quattro le pene capitali, pur essendo severe, sono progettate con la minima sofferenza necessaria, poiché la Torah desidera la giustizia non la crudeltà."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sereifah", "oferet masug", "kohen", "ishah ve-vito", "chenek", "makeh av va-em", "zaken mamre", "navi sheker", "ishah mena'efet", "beit din", "ve-ahavta le-re'acha kamocha"
+  ]
+}

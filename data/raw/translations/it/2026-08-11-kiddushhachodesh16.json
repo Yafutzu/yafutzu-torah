@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Kiddush HaChodesh 16",
+  "name_he": "משנה תורה, הלכות קידוש החודש, פרק טז",
+  "name_it": "Mishneh Torah, Leggi della Santificazione del Mese, capitolo 16",
+  "cycle": "rambam-1",
+  "date": "2026-08-11",
+  "hebrew_date": "28 Av 5786",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מקום השמש האמצעי הוא הנקרא 'מהלך האמצע'. אך השמש אינה מהלכת בגלגל המזלות באופן אחיד — לפעמים מהלכה מהיר ולפעמים איטי. זה הנקרא 'מנוע השמש' או 'ניכוי השמש'.",
+      "it": "La posizione media del sole è chiamata 'mahalachat ha-emtza' (moto medio). Tuttavia il sole non percorre l'eclittica (galgal ha-mazzalot) in modo uniforme — a volte il suo moto è più rapido, a volte più lento. Questo fenomeno è chiamato 'mena ha-shemesh' (anomalia solare) o 'nikkui ha-shemesh' (correzione del sole)."
+    },
+    {
+      "n": 2,
+      "he": "כיצד? השמש מהלכת בגלגל מיוחד לה — ולא בגלגל המזלות עצמו. ולכן נראית לנו לפעמים גבוהה ולפעמים נמוכה, ולפעמים מהירה ולפעמים איטית. וזה מצד מיקום השמש בגלגל שלה.",
+      "it": "Come? Il sole si muove su un'orbita propria — e non direttamente sull'eclittica stessa. Pertanto a volte ci appare più alto, a volte più basso; a volte più veloce, a volte più lento. Ciò dipende dalla posizione del sole sulla propria orbita (epicyclo)."
+    },
+    {
+      "n": 3,
+      "he": "המנוע הגדול ביותר של השמש — כשני מעלות ורביע. ויש לחשב את הניכוי לפי מדרגת המנוע בלוחות שסידרו חכמי התכונה. הניכוי — מוסיפים אותו על מהלך האמצע או גורעים ממנו.",
+      "it": "L'anomalia massima del sole è di circa due gradi e un quarto. Si deve calcolare la correzione secondo il grado dell'anomalia nelle tavole preparate dagli astronomi. La correzione viene aggiunta al moto medio o sottratta da esso."
+    },
+    {
+      "n": 4,
+      "he": "אם מקום האמצע הוא בין אפס לשש מזלות — גורעים הניכוי. אם הוא בין שש לשנים עשר — מוסיפים. וזה לפי כלל החישוב האסטרונומי של הגלגל האפסנטרי.",
+      "it": "Se la posizione media si trova tra zero e sei segni zodiacali — si sottrae la correzione. Se si trova tra sei e dodici — si aggiunge. Questo segue la regola del calcolo astronomico del cerchio eccentrico (galgal ha-apsantri)."
+    },
+    {
+      "n": 5,
+      "he": "הניכוי הגדול ביותר של השמש הוא שתי מעלות ושלושה חלקים, ומגיע לשיאו בתשעים מעלות מן הנקודה הגבוהה של גלגל השמש.",
+      "it": "La correzione massima del sole è di due gradi e tre parti d'arco, e raggiunge il suo apice a novanta gradi dal punto più alto dell'orbita solare (apogeo)."
+    },
+    {
+      "n": 6,
+      "he": "לאחר הוספת הניכוי או גריעתו ממהלך האמצע — יוצא מקום השמש האמיתי. זהו מקום השמש בשמים באמת, ולא רק האמצע החישובי.",
+      "it": "Dopo aver aggiunto o sottratto la correzione dal moto medio, si ottiene la posizione vera del sole (mekom ha-shemesh ha-amiti). Questa è la posizione reale del sole nel cielo, non solo la posizione media calcolata."
+    },
+    {
+      "n": 7,
+      "he": "לצורך חשבון ראיית הלבנה — חשוב ביותר לדעת מקום השמש האמיתי, כי ממנו מחשבים את ה'ארך' בין השמש לבין הלבנה.",
+      "it": "Ai fini del calcolo della visibilità lunare, è fondamentale conoscere la posizione vera del sole, poiché da essa si calcola l'elongazione (orekh) tra il sole e la luna."
+    }
+  ],
+  "_glossary_terms_used": ["mahalachat ha-emtza", "galgal ha-mazzalot", "mena ha-shemesh", "mekom ha-shemesh ha-amiti", "orekh"]
+}

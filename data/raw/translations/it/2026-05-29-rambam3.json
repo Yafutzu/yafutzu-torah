@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Nazirite Vow 9-10; Valuations and Vows 1",
+  "name_he": "משנה תורה, הלכות נזירות פרקים ט-י; הלכות ערכין וחרמין פרק א",
+  "name_it": "Mishneh Torah, Leggi del Nazireato capitoli 9-10; Leggi delle Stime e dei Voti di Consacrazione capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-05-29",
+  "hebrew_date": "13 Sivan 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "הַנָּזִיר שֶׁגִּלַּח בִּטְמָאָה — מוֹנֶה מִן הַטֻּמְאָה…",
+      "it": "(Nazireato cap. 9, hal. 1) Il nazireo che si è rasato in stato di impurità — ricomincia il conteggio dei giorni del nazireato dopo la purificazione. Non porta i sacrifici dell'impurità finché non è purificato completamente (dopo sette giorni di purificazione dal contatto con il morto). Solo dopo la purificazione e i sacrifici dell'impurità — ricomincia il nazireato."
+    },
+    {
+      "n": "9:2-8",
+      "he": "נָזִיר שֶׁנָּפַל עָלָיו מֵת — יֵשׁ בּוֹ מַחְלֹקֶת…",
+      "it": "(Nazireato cap. 9, hal. 2-8) Il nazireo su cui è caduto un cadavere (o sui cui vi era dubbio di cadavere) — vi è una controversia tra Bet Shammai e Bet Hillel su come conteggiare i giorni precedenti. Bet Hillel: perde tutto il nazireato precedente e ricomincia dall'inizio. Le halachot 3-8 specificano: il nazireo che era impuro e non lo sapeva; il nazireo che si è contaminato in due tipi di impurità diversi nello stesso giorno; il nazireo che ha bevuto vino e si è contaminato nello stesso giorno — porta un solo sacrificio per la rasura; il nazireo che porta i sacrifici della purificazione — li porta nell'ordine: chatat, olah, shelamim, rasura."
+    },
+    {
+      "n": "10:1",
+      "he": "שִׁמְשׁוֹן הַגִּבּוֹר הָיָה נָזִיר עוֹלָם…",
+      "it": "(Nazireato cap. 10, hal. 1) Shimshon HaGibbor (Sansone) era un nazireo eterno (nazir olam) — come il nazireato di Shimshon, che fu consacrato dalla nascita dall'angelo. Il suo nazireato era diverso dal nazireato standard: per Shimshon — anche l'impurità dei cadaveri non era proibita, poiché la sua forza richiedeva che si contaminasse con i Filistei. Ma il vino e il tagliarsi i capelli rimanevano proibiti. Le Leggi del Nazireato si concludono qui."
+    },
+    {
+      "n": "10:2-8",
+      "he": "הַנָּזִיר דּוֹמֶה לְכֹהֵן גָּדוֹל בְּאִסּוּר הַטֻּמְאָה…",
+      "it": "(Nazireato cap. 10, hal. 2-8) Il nazireo assomiglia al Sommo Sacerdote (Kohen Gadol) nella proibizione dell'impurità dei parenti: anche il Kohen Gadol non può contaminarsi con i morti anche se sono suoi parenti. Le halachot 3-8 concludono le Leggi del Nazireato: il nazireo alla fine del nazireato porta i sacrifici e si rade; dopo la rasura — è libero dal nazireato e può bere vino; può fare un nuovo nazireato immediatamente dopo il precedente. «Si concludono le Leggi del Nazireato con l'aiuto del Cielo.»"
+    },
+    {
+      "n": "1:1",
+      "he": "הָאוֹמֵר עֵרֶךְ פְּלוֹנִי עָלַי — חַיָּב לִתֵּן עֶרְכּוֹ כְּמוֹ שֶׁנֶּאֱמַר בַּתּוֹרָה…",
+      "it": "(Arachim cap. 1, hal. 1) Chi dice «la stima (erech) di tal persona sia su di me» — è obbligato a dare la sua stima come prescritta dalla Torah in Vayikrà 27. La stima (erech) non dipende dal valore reale della persona ma dalla sua età e dal suo sesso, come definito dalla Torah: maschio 20-60 anni = cinquanta sicli d'argento; femmina = trenta sicli; maschio 5-20 anni = venti sicli; femmina = dieci sicli; maschio 1 mese-5 anni = cinque sicli; femmina = tre sicli; maschio sopra 60 anni = quindici sicli; femmina = dieci sicli."
+    },
+    {
+      "n": "1:2-6",
+      "he": "הַמַּעֲרִיךְ פָּחוֹת מִבֶּן חֹדֶשׁ — לֹא אָמַר כְּלוּם…",
+      "it": "(Arachim cap. 1, hal. 2-6) Chi stima qualcuno di meno di un mese — non ha detto nulla, poiché la Torah non ha fissato una stima per chi ha meno di un mese. Le halachot 3-6 specificano: chi ha detto la stima su se stesso — è obbligato a pagarla; chi ha detto la stima su qualcuno che è morto — se è morto prima che il voto fosse pronunciato, non è obbligato; se è morto dopo — è obbligato; la stima si paga al Tempio (hekdesh); un povero che non può pagare la stima completa — il kohen valuta quanto può pagare e lo paga."
+    }
+  ],
+  "_glossary_terms_used": [
+    "nazir olam", "Kohen Gadol", "erech", "arachim", "hekdesh", "chatat", "olah", "shelamim", "kohen"
+  ]
+}

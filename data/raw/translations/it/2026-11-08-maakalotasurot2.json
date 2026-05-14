@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 2",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ב",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-08",
+  "hebrew_date": "28 Cheshvan 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַדָּג שֶׁיֵּשׁ לוֹ קַשְׂקֶשֶׂת — בְּיָדוּעַ שֶׁיֵּשׁ לוֹ סְנַפִּיר…",
+      "it": "Un pesce che ha squame (kaskeset) — è certo che abbia anche pinne (snapir), poiché tutti i pesci con squame hanno pinne. Ma non tutti i pesci con pinne hanno squame. Pertanto il segno determinante per il kashrut del pesce è la presenza di squame: se un pesce ha squame è kosher; se non ha squame non è kosher, anche se ha le pinne. La squama è definita come una copertura dura attaccata alla pelle del pesce che si può raschiare via senza strappare la carne sottostante."
+    },
+    {
+      "n": 2,
+      "he": "יֵשׁ דָּגִים שֶׁיֵּשׁ לָהֶן קַשְׂקֶשֶׂת בְּמִקְצָת גּוּפָם…",
+      "it": "Vi sono pesci che hanno squame solo in parte del corpo — il Rambam li dichiara kosher, poiché la Torah dice «asher lo kaskeset» (che ha squame) e anche una sola squama sufficiente integra il segno. La squama deve però essere vera kaskeset — una lamina rigida, non la pelle ruvida o le scaglie di alcuni pesci cartilaginei. Il tonno, il salmone, il carpe, il branzino — kosher. Il pesce gatto (siluro), l'anguilla, lo storione secondo molte opinioni — non kosher (privi di squame vere)."
+    },
+    {
+      "n": 3,
+      "he": "עֶשְׂרִים וְאַרְבָּעָה עוֹפוֹת טְמֵאִים…",
+      "it": "Ventiquattro specie di uccelli sono proibiti dalla Torah (Lev. 11, Deut. 14). Il Rambam le elenca: il nesher (aquila), il peres (avvoltoio barbuto), l'ozniyah (aquila pescatrice), il da'ah / ra'ah (nibbio), l'ayah (falco), il orev (corvo e tutte le sue varietà), lo ya'anah (struzzo), il tachmas (gufo notturno), lo shachaf (gabbiano), il netz (falco piccolo), il kos (allocco), lo shalach (pellicano o cormorano), il yanshuf (civetta), il tinshemer (civetta bianca), il ka'at (pellicano del deserto), il racham (avvoltoio egiziano), il chasidah (cicogna), l'anafah (airone), il duchifat (upupa), l'atallef (pipistrello)."
+    },
+    {
+      "n": 4,
+      "he": "כָּל עוֹף הַדּוֹרֵס — טָמֵא הוּא…",
+      "it": "Ogni uccello predatore (dores — che afferra la preda con gli artigli e la mangia viva) è impuro e proibito. Questo è il primo e più importante segnale pratico di un uccello non-kosher. Anche se non riconosciamo l'uccello dalla lista delle 24 specie proibite, se lo vediamo predare nel modo tipico dei rapaci — è non-kosher. I quattro segni positivi di un uccello kosher sono: (1) non è dores; (2) ha un dito aggiuntivo posteriore (agav); (3) ha un gozzo (murah); (4) la membrana interna dello stomaco (korkuvan) si separa manualmente."
+    },
+    {
+      "n": 5,
+      "he": "בְּעוֹפוֹת — צָרִיךְ מָסֹרֶת שֶׁהוּא טָהוֹר…",
+      "it": "Per gli uccelli — è necessaria una tradizione (masorah) che identifichi la specie come kosher. Non è sufficiente che l'uccello passi il test dei quattro segni, perché alcuni uccelli possono avere tutti e quattro i segni ma essere comunque proibiti per altri motivi, o perché la loro classificazione è incerta. Le comunità ebraiche si affidano pertanto a tradizioni locali consolidate: colombe (yanim), piccioni (torim), galline, anatre, oche, tacchini — identificati per masorah nelle rispettive comunità come kosher."
+    },
+    {
+      "n": 6,
+      "he": "הַתַּרְנְגֹלֶת — יֵשׁ לָהּ מָסֹרֶת בְּכָל הַמְּקוֹמוֹת…",
+      "it": "La gallina domestica (tarnegol/et) ha una masorah universalmente accettata come uccello kosher in tutte le comunità ebraiche. Allo stesso modo il piccione, la tortora, l'oca, e l'anatra sono identificati universalmente come kosher per masorah. Il tacchino (tarnegol haodu — «il pollo dell'India», introdotto in Europa nel XVI secolo dopo la scoperta dell'America) è stato accettato come kosher dalle principali autorità, ritenendolo affine per natura agli uccelli già identificati come kosher dalla masorah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kaskeset", "snapir", "dores", "masorah", "agav", "murah", "korkuvan", "tarnegol", "kashrut"
+  ]
+}

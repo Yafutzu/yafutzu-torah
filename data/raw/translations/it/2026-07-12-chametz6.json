@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Hilchot Chametz UMatzah 6",
+  "name_he": "משנה תורה, הלכות חמץ ומצה, פרק ו",
+  "name_it": "Mishneh Torah, Leggi del Chametz e della Matzah, capitolo 6",
+  "cycle": "rambam-1",
+  "date": "2026-07-12",
+  "hebrew_date": "27 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה מִן הַתּוֹרָה לְסַפֵּר בִּיצִיאַת מִצְרַיִם בְּלֵיל חֲמִשָּׁה עָשָׂר בְּנִיסָן.",
+      "it": "Vi è un comandamento positivo della Torah di narrare l'uscita dall'Egitto (sippur yetziat Mitzrayim) la notte del quindici di Nissan."
+    },
+    {
+      "n": 2,
+      "he": "שֶׁנֶּאֱמַר: \"וְהִגַּדְתָּ לְבִנְךָ\" — מִכָּאן לְסִפּוּר יְצִיאַת מִצְרַיִם.",
+      "it": "Come è detto: «E racconterai a tuo figlio» (Shemot 13:8) — da qui l'obbligo della narrazione dell'Esodo dall'Egitto."
+    },
+    {
+      "n": 3,
+      "he": "מִצְוָה לְהַרְבּוֹת בְּסִפּוּר יְצִיאַת מִצְרַיִם, וְכָל הַמַּרְבֶּה הֲרֵי זֶה מְשֻׁבָּח.",
+      "it": "È una mitzva amplificare la narrazione dell'Esodo, e chiunque amplifichi — è lodato."
+    },
+    {
+      "n": 4,
+      "he": "וַאֲפִלּוּ תַּלְמִידֵי חֲכָמִים גְּדוֹלִים חַיָּבִין לְסַפֵּר.",
+      "it": "Anche i grandi discepoli dei Saggi (talmidei chachamim) sono obbligati a narrare."
+    },
+    {
+      "n": 5,
+      "he": "מִצְוַת עֲשֵׂה לִשְׁתּוֹת אַרְבַּע כּוֹסוֹת שֶׁל יַיִן בְּלֵיל הַפֶּסַח.",
+      "it": "Vi è un comandamento positivo di bere le quattro coppe di vino (arba kosot) la notte di Pesach."
+    },
+    {
+      "n": 6,
+      "he": "אַרְבַּע כּוֹסוֹת כְּנֶגֶד אַרְבַּע לְשׁוֹנוֹת שֶׁל גְּאֻלָּה שֶׁנֶּאֶמְרוּ בַּתּוֹרָה.",
+      "it": "Le quattro coppe corrispondono alle quattro espressioni di redenzione menzionate nella Torah."
+    },
+    {
+      "n": 7,
+      "he": "נָשִׁים חַיָּבוֹת בְּאַרְבַּע כּוֹסוֹת, שֶׁאַף הֵן הָיוּ בְּאוֹתוֹ הַנֵּס.",
+      "it": "Le donne sono obbligate nelle quattro coppe, poiché anch'esse erano nel medesimo miracolo."
+    },
+    {
+      "n": 8,
+      "he": "אֵין מְקַיְּמִין מִצְוַת אַרְבַּע כּוֹסוֹת בְּמַיִם אוֹ בִּשְׁאָר מַשְׁקִים.",
+      "it": "Non si adempie la mitzva delle quattro coppe con acqua o con altre bevande."
+    },
+    {
+      "n": 9,
+      "he": "מִצְוָה לְהָסֵב — לִשְׁכַּב עַל צִדּוֹ בְּעֵת הַסֵּדֶר.",
+      "it": "È una mitzva sdraiarsi (hesevah) — appoggiarsi su un fianco durante il Seder."
+    },
+    {
+      "n": 10,
+      "he": "וְהֶסֵּבָה זוֹ — דֶּרֶךְ חֵרוּת הִיא.",
+      "it": "E questo sdraiarsi — è il modo dei liberi (derech cherut)."
+    },
+    {
+      "n": 11,
+      "he": "הָאִשָּׁה אֵינָהּ צְרִיכָה לְהָסֵב, שֶׁאֵין דַּרְכָּהּ בְּכָךְ. אֲבָל אִשָּׁה חֲשׁוּבָה — צְרִיכָה.",
+      "it": "La donna non deve sdraiarsi, poiché non è il suo modo. Ma una donna di importanza — deve farlo."
+    },
+    {
+      "n": 12,
+      "he": "הַתַּלְמִיד לִפְנֵי רַבּוֹ — אֵינוֹ מֵסֵב אֶלָּא אִם כֵּן רַבּוֹ הִרְשָׁהוּ.",
+      "it": "Il discepolo davanti al proprio maestro — non si sdraia a meno che il maestro non lo abbia permesso."
+    },
+    {
+      "n": 13,
+      "he": "הַהַגָּדָה — תַּקָּנַת חֲכָמִים לְסַפֵּר בִּיצִיאַת מִצְרַיִם.",
+      "it": "La Haggadah — è un'ordinanza dei Saggi per narrare l'Esodo dall'Egitto."
+    },
+    {
+      "n": 14,
+      "he": "מַתְחִיל בִּגְנוּת וּמְסַיֵּם בְּשֶׁבַח — \"עֲבָדִים הָיִינוּ\" — \"מִתְּחִלָּה עוֹבְדֵי עֲבוֹדָה זָרָה\".",
+      "it": "Si inizia con il biasimo (genut) e si conclude con la lode (shevach) — «Eravamo schiavi» — «In principio i nostri padri erano adoratori di idoli»."
+    },
+    {
+      "n": 15,
+      "he": "אוֹמֵר \"וְיָדַעְתָּ כִּי אַנֹכִי ה'\" — מִכָּאן שֶׁכֻּלָּנוּ חַיָּבִין לִרְאוֹת עַצְמָנוּ כְּאִלּוּ יָצָאנוּ מִמִּצְרַיִם.",
+      "it": "Si recita «E saprai che Io sono il Signore» — da qui che tutti noi siamo obbligati a vedere noi stessi come se fossimo usciti dall'Egitto."
+    },
+    {
+      "n": 16,
+      "he": "\"בְּכָל דּוֹר וָדוֹר חַיָּב אָדָם לִרְאוֹת אֶת עַצְמוֹ כְּאִלּוּ הוּא יָצָא מִמִּצְרַיִם.\"",
+      "it": "«In ogni generazione ogni persona è obbligata a vedere se stessa come se fosse uscita dall'Egitto.»"
+    },
+    {
+      "n": 17,
+      "he": "מִצְוַת עֲשֵׂה לֶאֱכֹל מַצָּה בְּלֵיל חֲמִשָּׁה עָשָׂר בְּנִיסָן.",
+      "it": "Vi è un comandamento positivo di mangiare matzah la notte del quindici di Nissan."
+    },
+    {
+      "n": 18,
+      "he": "וּלְהַלֵּל וּלְשַׁבֵּחַ לַה' עַל הַנִּסִּים שֶׁעָשָׂה לָנוּ.",
+      "it": "E di lodare e ringraziare (Hallel) il Signore per i miracoli che ha compiuto per noi."
+    },
+    {
+      "n": 19,
+      "he": "אוֹמְרִים הַלֵּל בַּסֵּדֶר — חֲצִי לִפְנֵי הַסְּעוּדָה וַחֲצִי לְאַחַר הַסְּעוּדָה.",
+      "it": "Si recita l'Hallel durante il Seder — metà prima del pasto e metà dopo il pasto."
+    },
+    {
+      "n": 20,
+      "he": "זֶהוּ סֵדֶר לֵיל פֶּסַח כְּפִי שֶׁתִּקְּנוּ חֲכָמִים בְּדַעַת הַתּוֹרָה.",
+      "it": "Questo è l'ordine (Seder) della notte di Pesach come lo hanno ordinato i Saggi secondo la Torah."
+    }
+  ],
+  "_glossary_terms_used": ["sippur yetziat Mitzrayim", "arba kosot", "hesevah", "derech cherut", "Haggadah", "Hallel", "Seder", "matzah", "Pesach", "genut", "shevach", "talmidei chachamim"]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Zechia UMatana 1-3",
+  "name_he": "משנה תורה, הלכות זכייה ומתנה, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi dell'Acquisizione e dei Doni, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-10-23",
+  "hebrew_date": "12 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "1:1-6",
+      "he": "הֶפְקֵר — הוּא הַדָּבָר שֶׁהִפְקִיר אוֹתוֹ בְּעָלָיו…",
+      "it": "(Zechia UMatana cap. 1) Inizio di Hilchot Zechia UMatana (Leggi dell'Acquisizione e dei Doni). Hefker (bene abbandonato, res nullius): un bene che il suo proprietario ha dichiarato pubblicamente come abbandonato (hefker) — può essere acquisito da chiunque. La dichiarazione di hefker deve essere in presenza di tre persone (la corte minima — bet din shel sheloshah). Beni abbandonati senza dichiarazione esplicita — come quelli persi in una catastrofe — possono essere acquistati attraverso i normali atti di acquisizione (kinyan). Chi trova un bene abbandonato e lo prende — lo acquisisce con l'atto di hagbahah (sollevamento) o meshikhah (trascinamento)."
+    },
+    {
+      "n": "2:1-5",
+      "he": "הַמְזַכֶּה לְחֲבֵרוֹ — יָכוֹל אָדָם לִזְכּוֹת לַאֲחֵרִים עַל יָדֵי שְׁלִיחַ…",
+      "it": "(Zechia UMatana cap. 2) Zechia (acquisizione per conto di un altro): un adulto può acquisire un bene per conto di un minore (katan) o di un'altra persona che non è presente, usando il principio di zechia. «Zakhin le-adam she-lo be-fanav» — si può acquisire un vantaggio per un altro in sua assenza (ma non si può fare qualcosa a suo svantaggio). Un genitore può acquisire beni per conto del figlio minore; un agente (shaliach) può acquisire per conto del mandante. Il principio: la zechia è un beneficio, e i benefici si acquisiscono per gli altri senza il loro consenso esplicito."
+    },
+    {
+      "n": "3:1-7",
+      "he": "מָצָא אֲבֵדָה — אִם יֵשׁ בָּהּ סִימָנִים — חַיָּב לְהַכְרִיז…",
+      "it": "(Zechia UMatana cap. 3) Acquisizione di beni trovati (aveidah — oggetti persi): se un oggetto trovato ha segni identificativi (simanim) — il trovatore deve annunciarlo pubblicamente (lehakhriz) perché il proprietario possa reclamarlo. Se non ha segni identificativi, o se trascorre un anno senza che il proprietario lo reclami — il trovatore lo acquisisce. L'obbligo di restituire la cosa smarrita è una mitzvah positiva («hashev teshivenu» — lo restituirai). Il principio di «yiush» (disperazione del proprietario): se il proprietario ha disperato di ritrovare l'oggetto — il trovatore lo può acquisire, ma vi sono posizioni diverse circa il momento in cui la zechia diventa effettiva."
+    }
+  ],
+  "_glossary_terms_used": [
+    "hefker", "kinyan", "hagbahah", "meshikhah", "zechia", "katan", "shaliach", "zakhin le-adam she-lo be-fanav", "aveidah", "simanim", "lehakhriz", "yiush", "hashev teshivenu"
+  ]
+}

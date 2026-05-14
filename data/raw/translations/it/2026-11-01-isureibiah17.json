@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Issurei Biah 17",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק יז",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 17",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-01",
+  "hebrew_date": "21 Cheshvan 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אִשָּׁה שֶׁרָאֲתָה דַּם נִדָּה — אֲסוּרָה לְבַעְלָהּ…",
+      "it": "Una donna che ha visto sangue di niddah (mestruazione) è proibita a suo marito. Prima di riprendere le relazioni coniugali, è obbligata a indossare un indumento bianco (lavan) e ad esaminare se stessa nei giorni del conteggio — questo è il requisito del levush lavan (indumento bianco), che serve come verifica che l'emorragia sia cessata. L'esame si chiama bedikah (verifica interna) e si esegue con un panno di lino bianco."
+    },
+    {
+      "n": 2,
+      "he": "צָרִיךְ שֶׁתִּבְדֹּק עַצְמָהּ בְּמוֹךְ…",
+      "it": "La donna deve esaminare se stessa con un panno (moch ha-bedikah) prima delle relazioni, per verificare che sia pura. Il panno viene esaminato alla luce del giorno: se appare bianco, la donna è tehorah (pura); se appare con una macchia rossa o scura, si presenta al rabbino competente per valutazione. Non tutte le macchie di colore rosso invalidano — vi sono distinzioni tra le sfumature e la posizione della macchia sul panno."
+    },
+    {
+      "n": 3,
+      "he": "דַּם בְּתוּלִים — יֵשׁ בּוֹ מַחֲלוֹקֶת…",
+      "it": "Il sangue della prima relazione coniugale (dam betulim — sangue verginale) è oggetto di discussione tra i Saggi: secondo una opinione non crea stato di niddah, poiché è sangue di ferita (dam makkah) e non sangue mestruale. Secondo un'altra opinione, crea niddah. La halachah definitiva del Rambam: il dam betulim non crea di per sé lo stato di niddah, ma la donna deve esaminare se stessa. Se l'emorragia continua oltre il normale — si considera niddah."
+    },
+    {
+      "n": 4,
+      "he": "הָאוֹר זָרוּעַ לַצַּדִּיק — מַחְלוֹקֶת הָרִאשׁוֹנִים בְּדַם בְּתוּלִים…",
+      "it": "Il dibattito talmudico sul dam betulim (conosciuto come la questione dell'«or zarua» — dalla frase halakhica) riguarda se il sangue della prima relazione coniugale costituisca un evento di tum'ah (impurità). Il Rambam risolve la questione in modo pragmatico: poiché non è possibile distinguere con certezza tra dam makkah (sangue di ferita) e dam niddah nel momento della prima relazione, si seguono norme di cautela. Le coppie novelle osservano pertanto le norme di separazione fino a completamento dell'esame."
+    },
+    {
+      "n": 5,
+      "he": "כֶּתֶם שֶׁנִּמְצָא עַל הַבֶּגֶד — דָּם שֶׁנִּמְצָא עַל הָאִשָּׁה…",
+      "it": "Una macchia di sangue (ketem) trovata su un indumento femminile: se la donna non ha sentito alcuna sensazione corporea che indicasse un'emissione (hargashah), la halachah distingue tra macchie di diversa provenienza. Una macchia trovata sull'indumento intimo, di dimensione superiore a una moneta gris (grossolanamente: una superficie di un centimetro quadrato), crea stato di niddah per via rabbinica, anche senza hargashah. Se la macchia è piccola — non crea niddah."
+    },
+    {
+      "n": 6,
+      "he": "נִמְצָא כֶּתֶם עַל בִּגְדֵי הָאִישׁ — אֵינוֹ אוֹסֵר…",
+      "it": "Una macchia trovata sull'indumento dell'uomo — non crea automaticamente uno stato di niddah per la moglie, poiché potrebbe provenire da altra fonte. Bisogna investigare: la moglie si esamina, e solo se anche lei trova una macchia o ha avuto hargashah (sensazione corporea) si presume che sia da lei. Il principio del chazakah (presunzione) gioca un ruolo centrale: si presume la donna pura fino a prova contraria."
+    },
+    {
+      "n": 7,
+      "he": "כֶּתֶם שֶׁנִּמְצָא עַל עֵד הַבְּדִיקָה — אוֹסֵר…",
+      "it": "Una macchia trovata sul panno della bedikah (verifica) — crea certamente stato di niddah, poiché il panno è destinato specificamente all'esame interno e la macchia è quindi presumibilmente di provenienza interna. La dimensione della macchia e il suo colore vengono valutati da un posek (decisore halakhico) qualificato. Macchie di colore nero, verde o blu non creano niddah; solo i toni del rosso — dalla rosa chiara al rosso scuro — vengono valutati."
+    }
+  ],
+  "_glossary_terms_used": [
+    "niddah", "bedikah", "levush lavan", "moch ha-bedikah", "dam betulim", "dam makkah", "ketem", "hargashah", "chazakah", "tum'ah", "tehorah", "posek"
+  ]
+}

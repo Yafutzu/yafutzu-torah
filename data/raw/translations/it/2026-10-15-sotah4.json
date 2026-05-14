@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Sotah 4",
+  "name_he": "משנה תורה, הלכות סוטה, פרק ד",
+  "name_it": "Mishneh Torah, Leggi della Sotah, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-15",
+  "hebrew_date": "4 Cheshvan 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַסּוֹטָה אֲסוּרָה לְבַעְלָהּ וְלַבּוֹעֵל עַד שֶׁתִּשְׁתֶּה…",
+      "it": "La sotah — dal momento del kinui e della setirah — è proibita sia al marito sia all'amante sospettato. Se il marito non vuole portarla alla procedura di sotah, può darle un get (divorzio) e lei è libera. Se la donna si è resa colpevole di adulterio confessando prima della procedura — perde la ketuvah e deve ricevere il get. Il marito non può tenere la moglie colpevole senza darle il divorzio — è obbligato a divorziare."
+    },
+    {
+      "n": 2,
+      "he": "כְּשֶׁרַבּוּ הַמְנַאֲפִים — בָּטַל יוֹחָנָן בֶּן זַכַּאי אֶת הַמַּיִם…",
+      "it": "Quando si moltiplicarono gli adùlteri — Yochanan ben Zakkai (il grande Saggio del periodo della distruzione del Tempio) abolì la procedura delle acque amare. Il suo ragionamento: la procedura delle acque funzionava come miracolo solo quando il marito sospettoso era egli stesso puro (non aveva commesso adulterio). Se il marito stesso era un adultero — le acque non esaminano la moglie. Quando l'adulterio divenne comune a entrambi i sessi, la procedura divenne praticamente inutilizzabile."
+    },
+    {
+      "n": 3,
+      "he": "כְּשֶׁנֶּחְרַב בֵּית הַמִּקְדָּשׁ — בָּטְלָה סוֹטָה לְגַמְרֵי…",
+      "it": "Con la distruzione del Tempio — la procedura della sotah è cessata completamente, poiché richiede la polvere del pavimento del Tempio, il kohen che officia, e la presenza del Sanhedrin di Gerusalemme. Attualmente — le donne sospettate vengono divorziate dal marito e le questioni di adulterio sono gestite attraverso il diritto ordinario del matrimonio e del divorzio. La procedura della sotah è destinata a tornare nella sua pienezza nell'era messianica."
+    },
+    {
+      "n": 4,
+      "he": "וְאֵי זוֹ מִצְוָה גְּדוֹלָה יֵשׁ בַּתּוֹרָה כְּשָׁלוֹם בֵּין אִישׁ לְאִשְׁתּוֹ…",
+      "it": "E quale grande precetto v'è nella Torah come la pace tra marito e moglie! La Torah ha permesso di cancellare il Nome Divino scritto in santità — pur di ristabilire la pace coniugale (shalom bayit). Da qui si impara quanto sia grande il valore della pace tra le persone — tanto più tra marito e moglie. Il Rambam conclude con questo insegnamento etico e spirituale, sottolineando che tutte le halachot della sotah servono in definitiva a proteggere e rafforzare il legame coniugale."
+    },
+    {
+      "n": 5,
+      "he": "סִלּוּק הַלְּכוֹת סוֹטָה…",
+      "it": "Si concludono le Leggi della Sotah con l'aiuto del Cielo. Si conclude il Sefer Nashim (Libro delle Donne) con l'aiuto del Cielo. Il Sefer Nashim ha esaminato le leggi del matrimonio (Ishut), del divorzio (Gerushin), dello yibbum e della chalitzah, della ragazza vergine (Na'arah Betulah) e della donna sospettata (Sotah) — un intero sistema legale che tutela la santità della famiglia ebraica e la dignità della donna. Si inizia ora Sefer Kedushah (Libro della Santità)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sotah", "kinui", "setirah", "get", "ketuvah", "mei ha-marim", "kohen", "shalom bayit", "Sefer Nashim", "Sefer Kedushah"
+  ]
+}

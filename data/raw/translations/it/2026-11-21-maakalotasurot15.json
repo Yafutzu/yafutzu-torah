@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 15",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק טו",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 15",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-21",
+  "hebrew_date": "12 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּלִים שֶׁנִּקְנוּ מִן הָעוֹבֵד כּוֹכָבִים — טְעוּנִין טְבִילָה בַּמִּקְוֶה…",
+      "it": "I recipienti (kelim) acquistati da un non ebreo — richiedono immersione nel mikveh (tevila) prima dell'uso. Questo è il precetto della tevilat kelim (immersione dei recipienti). La base scritturale è il versetto del libro dei Numeri (31:23): «tutto ciò che può resistere al fuoco... lo farete passare attraverso l'acqua». I Sage estesero questo principio a tutti i recipienti acquistati da non ebrei."
+    },
+    {
+      "n": 2,
+      "he": "כֵּלִים שֶׁל מַתָּכוֹת וּכְלֵי זְכוּכִית — טְעוּנִין טְבִילָה מִן הַתּוֹרָה…",
+      "it": "I recipienti di metallo e i recipienti di vetro — richiedono immersione per legge biblica. Il vetro fu equiparato al metallo dai Saggi perché, come i recipienti di metallo che possono essere riparati e rifusi, anche il vetro può essere rifatto. I recipienti di ceramica (kli cheres), di legno, di pietra, di osso — richiedono immersione per decreto rabbinico (de-rabbanan)."
+    },
+    {
+      "n": 3,
+      "he": "כֵּלִים שֶׁנִּשְׁבְּרוּ — פְּטוּרִין מִן הַטְּבִילָה…",
+      "it": "I recipienti che si sono rotti — sono esenti dall'immersione (dopo la rottura) poiché hanno perso il loro status di «recipiente». Se vengono riparati dopo la rottura — richiedono una nuova immersione. Un recipiente che è stato completamente fabbricato da un ebreo — non richiede immersione, poiché il decreto di tevilat kelim riguarda specificamente i recipienti che vengono trasferiti dal dominio dei non ebrei al dominio ebraico."
+    },
+    {
+      "n": 4,
+      "he": "כְּלִי שֶׁמְּשַׁמֵּשׁ לִשְׁמִירָה בִּלְבַד — כְּגוֹן קַרְדֹּם וְכַיּוֹצֵא בּוֹ…",
+      "it": "Un recipiente usato solo per conservazione e non a contatto diretto con il cibo — come ad esempio un cesto usato solo per immagazzinare — vi è chi sostiene che non richieda immersione, poiché il decreto riguarda recipienti che hanno contatto diretto con il cibo. Il Rambam riporta questa discussione. La regola pratica: tutto ciò che normalmente viene a contatto con il cibo (direttamente o indirettamente) richiede immersione."
+    },
+    {
+      "n": 5,
+      "he": "הַטּוֹבֵל כֵּלִים — צָרִיךְ שֶׁיְּהֵא הַמַּיִם שֶׁבַּמִּקְוֶה כְּשֵׁרִים…",
+      "it": "Chi immerge i recipienti — il mikveh deve essere kasher (valido): cioè deve contenere almeno 40 se'ah (circa 575 litri) di acqua raccolta naturalmente (acqua piovana, sorgente, ecc.), non di acqua del rubinetto (mayim she'uvim). Il recipiente deve essere immerso interamente — non si possono tenere parti fuori dall'acqua. I manche o i manici dei recipienti devono anch'essi essere immersi. Se c'è una sekatah (occlusione) che impedisce all'acqua di entrare — l'immersione è invalida."
+    },
+    {
+      "n": 6,
+      "he": "הַמַּטְבִּיל כֵּלִים — מְבָרֵךְ «עַל טְבִילַת כֵּלִים»…",
+      "it": "Chi immerge i recipienti — recita la benedizione «al tevilat kelim» (sull'immersione dei recipienti). La benedizione viene recitata prima dell'immersione. Il Rambam conclude: lo scopo della tevilat kelim è «portare il recipiente nel dominio della santità ebraica» — il recipiente acquistato da non ebrei si trova in un certo senso in un dominio spiritualmente neutro; l'immersione lo eleva e lo destina all'uso ebraico. È un atto simbolico di appropriazione sacra, simile al battesimo del proselita."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kelim", "tevila", "tevilat kelim", "mikveh", "kli cheres", "de-rabbanan", "mayim she'uvim", "sekatah"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 3",
+  "name_he": "משנה תורה, הלכות אישות, פרק ג",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-26",
+  "hebrew_date": "13 Elul 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "האיש שקידש בכסף — צריך לתת לה שווה פרוטה לפחות, שהפרוטה היא המטבע הקטן ביותר.",
+      "it": "L'uomo che fidanza con denaro (kesef) — deve darle almeno il valore di una perutah (la moneta di minimo valore), poiché la perutah è la moneta più piccola."
+    },
+    {
+      "n": 2,
+      "he": "אפילו קידשה בשווה פרוטה — מקודשת. ואם נתן לה פחות משווה פרוטה — אינה מקודשת.",
+      "it": "Anche se la fidanzò con qualcosa del valore di una perutah — è fidanzata (mekudeshet). Se le dette meno del valore di una perutah — non è fidanzata."
+    },
+    {
+      "n": 3,
+      "he": "המקדש בשטר — כותב על הנייר או על החרס, ואפילו שאין בו שווה פרוטה: 'הרי את מקודשת לי'.",
+      "it": "Chi fidanza con un documento (shtar) — scrive sulla carta o sulla terracotta, anche se non vale una perutah: 'Ecco che sei fidanzata a me (mekudeshet li)'."
+    },
+    {
+      "n": 4,
+      "he": "צריך שיהיו שם שני עדים כשרים בשעת הקידושין. בלא עדים — אינה מקודשת.",
+      "it": "È necessario che vi siano due testimoni validi (edim kasherim) al momento del kiddushin. Senza testimoni — non è fidanzata."
+    },
+    {
+      "n": 5,
+      "he": "ואלו שהם פסולים לעדות: הקרובים, הפסולים מן התורה, הפסולים מדברי סופרים.",
+      "it": "Questi sono coloro che sono invalidi come testimoni: i parenti (krovim), quelli invalidati dalla Torah, e quelli invalidati dai rabbini."
+    },
+    {
+      "n": 6,
+      "he": "המקדש בפני עד אחד בלבד — אינה מקודשת, שנאמר: 'על פי שני עדים'.",
+      "it": "Chi fidanza in presenza di un solo testimone — non è fidanzata, poiché è detto: 'Sulla base di due testimoni' (Deuteronomio 17:6)."
+    },
+    {
+      "n": 7,
+      "he": "המקדש את האשה — צריך לומר לה 'הרי את מקודשת לי', או 'הרי את מאורסת לי', או 'הרי את לי לאשה'.",
+      "it": "Chi fidanza la donna — deve dirle: 'Ecco che sei fidanzata a me' (harei at mekudeshet li), o 'Ecco che sei promessa sposa a me' (harei at me'oreset li), o 'Ecco che sei mia moglie' (harei at li le'ishah)."
+    },
+    {
+      "n": 8,
+      "he": "אמר לה 'הרי את מקודשת לי', ולא אמר 'בדבר זה' — מקודשת.",
+      "it": "Se le disse 'Ecco che sei fidanzata a me' e non disse 'con questo oggetto' — è comunque fidanzata."
+    },
+    {
+      "n": 9,
+      "he": "נתן לה הדבר שבו מקדש, ולא אמר כלום — אינה מקודשת. צריך שיהיו דברים ומעשה כאחד.",
+      "it": "Se le dette l'oggetto con cui fidanza senza dire nulla — non è fidanzata. Devono coesistere le parole e l'atto insieme."
+    },
+    {
+      "n": 10,
+      "he": "נתן לה הדבר ואמר לה 'קחי זה בפיקדון' — אינה מקודשת, שלא כיוון לקידושין.",
+      "it": "Se le dette l'oggetto e le disse 'prendilo come deposito' — non è fidanzata, poiché non aveva intenzione per il kiddushin."
+    },
+    {
+      "n": 11,
+      "he": "נתן לה הדבר ואמר לה 'קחי זה במתנה' — אינה מקודשת, שלא כיוון לקידושין.",
+      "it": "Se le dette l'oggetto e le disse 'prendilo come dono' — non è fidanzata, poiché non aveva intenzione per il kiddushin."
+    },
+    {
+      "n": 12,
+      "he": "אמר לה 'הרי את מקודשת לי לאחר שלשים יום' — הרי זו מקודשת לאחר שלשים יום. ואם קידש אחר בתוך שלשים יום — הוי ספק.",
+      "it": "Se le disse 'Sei fidanzata a me dopo trenta giorni' — è fidanzata dopo trenta giorni. Se un altro la fidanzò entro i trenta giorni — è un caso di dubbio (safek)."
+    },
+    {
+      "n": 13,
+      "he": "אמר לה 'הרי את מקודשת לי על מנת שיהא לי מאתיים זוז' — ואין לו — אינה מקודשת.",
+      "it": "Se le disse 'Sei fidanzata a me a condizione che io abbia duecento zuz (monete d'argento)' — e non li ha — non è fidanzata."
+    },
+    {
+      "n": 14,
+      "he": "ואם אמר 'על מנת שיהיו לי מאתיים זוז', ויש לו — מקודשת.",
+      "it": "Se però disse 'a condizione che io abbia duecento zuz' e li ha — è fidanzata."
+    },
+    {
+      "n": 15,
+      "he": "קידשה בטבעת שאין בה שווה פרוטה — אינה מקודשת. ואם אמרה 'טבעת זו שווה הרבה' — מקודשת.",
+      "it": "Se la fidanzò con un anello che non vale una perutah — non è fidanzata. Se però ella disse 'Questo anello vale molto' — è fidanzata (poiché la sua valutazione crea la realtà del valore)."
+    },
+    {
+      "n": 16,
+      "he": "האומר 'הרי את מקודשת לי בזה ובזה' — ואין ביניהם שווה פרוטה — אינה מקודשת.",
+      "it": "Chi dice 'Sei fidanzata a me con questo e questo' — e non c'è tra questi oggetti il valore di una perutah — non è fidanzata."
+    },
+    {
+      "n": 17,
+      "he": "קידשה על תנאי — הרי זה ספק קידושין עד שיתקיים התנאי.",
+      "it": "Chi fidanza a condizione — è un kiddushin condizionale (kiddushei tenai), che è un kiddushin di dubbio finché la condizione non si adempie."
+    },
+    {
+      "n": 18,
+      "he": "כיצד? אמר לה 'הרי את מקודשת לי על מנת שאתן לך מאתיים זוז' — מקודשת מיד, ויתקיים התנאי לאחר מכן.",
+      "it": "Come? Se le disse 'Sei fidanzata a me a condizione che ti dia duecento zuz' — è fidanzata immediatamente, e la condizione si adempirà in seguito."
+    },
+    {
+      "n": 19,
+      "he": "אמר לה 'הרי את מקודשת לי בתנאי שאגיע לעיר פלונית' — הרי זה תנאי, ואם לא הגיע — אינה מקודשת.",
+      "it": "Se le disse 'Sei fidanzata a me a condizione che io raggiunga tale città' — questa è una condizione, e se non la raggiunse — non è fidanzata."
+    },
+    {
+      "n": 20,
+      "he": "הכלל: כל קידושין שיש בהם תנאי — אם נתקיים התנאי — מקודשת. ואם לא נתקיים — אינה מקודשת.",
+      "it": "La regola: ogni kiddushin che ha in sé una condizione — se la condizione si adempì — è fidanzata. Se la condizione non si adempì — non è fidanzata."
+    },
+    {
+      "n": 21,
+      "he": "קידשה בפני שני עדים ואמר 'על מנת שיסכים אבי' — תלוי בהסכמת האב.",
+      "it": "Se la fidanzò davanti a due testimoni e disse 'a condizione che mio padre acconsenta' — dipende dal consenso del padre."
+    },
+    {
+      "n": 22,
+      "he": "המקדש בשני כסף ובשני שטר — אם יש בכסף שווה פרוטה — מקודשת בכסף. ואם לאו — מקודשת בשטר.",
+      "it": "Chi fidanza sia con denaro sia con documento — se c'è nel denaro il valore di una perutah — è fidanzata tramite il denaro. Altrimenti — è fidanzata tramite il documento."
+    },
+    {
+      "n": 23,
+      "he": "כל אחד מדרכי הקידושין — עושה קידושין גמורים שלמים. ואחרי שנתקדשה — אסורה לכל העולם, ואינה ניתרת אלא בגט.",
+      "it": "Ognuno dei modi del kiddushin — crea un fidanzamento completo e integrale. Una volta fidanzata — ella è proibita a tutto il mondo, e non viene liberata se non tramite un get (documento di divorzio)."
+    }
+  ],
+  "_glossary_terms_used": ["kesef", "perutah", "mekudeshet", "shtar", "edim kasherim", "krovim", "harei at mekudeshet li", "harei at me'oreset li", "safek", "zuz", "kiddushei tenai", "get"]
+}

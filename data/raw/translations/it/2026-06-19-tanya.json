@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 9",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ט",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettera 9",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-19",
+  "hebrew_date": "4 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַתְּפִלָּה — עֲבוֹדָה שֶׁבַּלֵּב...",
+      "it": "La nona lettera di Iggeret HaKodesh affronta il tema della preghiera (tefillah). Il Ba'al HaTanya cita la fonte talmudica: 'tefillah hi avodah she-ba-lev' (la preghiera è il servizio del cuore — Taanit 2a). Il scopo primario della preghiera nella tradizione chassidica non è ricevere ciò di cui si ha bisogno (sebbene questo sia legittimo), ma realizzare il devekut — l'attaccamento e unione dell'anima a Dio. Il Ba'al HaTanya spiega che durante la preghiera, quando la persona si concentra sulle parole con tutto il proprio essere, il suo 'io' si dissolve in qualche modo nella realtà divina. Questo è il senso profondo di 'avodah' (servizio): non tanto un'azione esterna ma un trasformazione interiore."
+    },
+    {
+      "n": 2,
+      "he": "בִּטּוּל הַיֵּשׁ — בִּשְׁעַת הַתְּפִלָּה...",
+      "it": "Il Ba'al HaTanya spiega come i Chassidim si preparano alla preghiera: attraverso la bitul (auto-nullificazione) — l'abbandono dell'ego e del senso di autonomia personale. Prima di pregare, si meditano le qualità divine (middot) come l'amore (ahavah) e il timore (yirah), per arrivare alla preghiera con il cuore aperto. Il Tanya cita il versetto 'il mio cuore e la mia carne cantano al Dio vivente' (Salmo 84:3) — la preghiera deve coinvolgere sia il cuore intellettuale che la parte più istintiva dell'essere. La lettera esorta i chassidim a non pregare frettolosamente ma con presenza mentale (kavanah)."
+    }
+  ],
+  "_glossary_terms_used": ["tefillah", "avodah she-ba-lev", "devekut", "bitul", "middot", "ahavah", "yirah", "kavanah"]
+}

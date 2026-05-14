@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 30",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת ל",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera della Santità), lettera 30",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-22",
+  "hebrew_date": "11 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַיּוּ\"ד הַקְּטַנָּה — הִיא סֵמֶל הַצִּמְצוּם הָאֱלֹקִי…",
+      "it": "Questa lettera approfondisce il concetto del tzimtzum (contrazione divina) attraverso un'immagine kabbalistico-grafica: la lettera «yud» (יוד), la più piccola delle lettere ebraiche, che è un semplice punto. Il Alter Rebbe spiega che il tzimtzum — l'atto con cui D-o «contrasse» la Sua luce infinita per fare spazio alla creazione — è paragonato alla riduzione dell'Ein Sof (l'Infinito Divino) a un singolo punto (nekudah achat), come la lettera yud. L'«Ein Sof» non può essere contenuto in nessun vaso; solo contraendo la Sua luce D-o ha reso possibile l'esistenza di mondi finiti."
+    },
+    {
+      "n": 2,
+      "he": "הֶחָלָל הַפָּנוּי — אֵינוֹ רֵיקָן לְגַמְרֵי…",
+      "it": "Il «chalal hapanui» (lo spazio vuoto risultante dal tzimtzum) non è veramente vuoto: contiene il «kav» (la linea sottile di luce divina) che penetra e sostiene tutta la creazione dall'interno. Senza il kav, nulla potrebbe esistere — nemmeno per un istante. L'Alter Rebbe enfatizza: non si deve pensare che il tzimtzum abbia creato un'assenza divina reale nel mondo. D-o non si è «allontanato» dalla creazione — si è solo celato. La presenza divina che sostiene il mondo (hashgachah pratit — provvidenza particolare) è il kav che scorre al centro di ogni essere."
+    },
+    {
+      "n": 3,
+      "he": "וּמִשּׁוּם כָּךְ — אַף שֶׁהָעוֹלָם נִרְאֶה כְּנֶעְדַּר מִן הָאֵין סוֹף — אֵין זוֹ אֶלָּא הֶסְתֵּר פָּנִים…",
+      "it": "Conclusione pratica della lettera: il fatto che il mondo materiale sembri distante da D-o — è solo «hester panim» (occultamento del volto divino), non vera assenza. Chi comprende questo vede il mondo con occhi diversi: ogni cosa creata è sostenuta dal kav divino, e la missione dell'uomo è «rivelare» questa luce nascosta attraverso la Torah e le mitzvot. Le mitzvot sono atti che trasformano il materiale in un vaso per la luce divina — fanno vedere il kav che altrimenti rimane nascosto. L'intera creazione attende che l'uomo completi questa rivelazione — «ve-gilyui kavod Hashem» (la rivelazione della gloria divina)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzimtzum", "Ein Sof", "chalal hapanui", "kav", "hashgachah pratit", "hester panim", "ve-gilyui kavod Hashem"
+  ]
+}

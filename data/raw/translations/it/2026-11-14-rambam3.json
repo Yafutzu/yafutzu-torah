@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Malveh VeLoveh 3-5",
+  "name_he": "משנה תורה, הלכות מלווה ולווה, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi del Prestito Monetario, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-11-14",
+  "hebrew_date": "5 Kislev 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "3:1-4",
+      "he": "רִבִּית קְצוּצָה — אֲסוּרָה מִן הַתּוֹרָה…",
+      "it": "(Malveh VeLoveh cap. 3, hal. 1-4) Ribit ktzutzah (interesse fisso/definito) — proibita dalla Torah. È l'interesse concordato esplicitamente al momento del prestito: «Ti presto 100 dinari e al termine del prestito mi restituirai 110». Sia il prestatore sia il mutuatario violano divieti biblici. Avak ribit (polvere d'interesse) — proibita per decreto rabbinico: include transazioni in cui non vi è un interesse esplicito ma il vantaggio del prestatore è implicito (es: vendita di beni a prezzo gonfiato con pagamento dilazionato, o doni fatti prima di richiedere un prestito per ingraziarsi il creditore)."
+    },
+    {
+      "n": "3:5-8",
+      "he": "אֵיזֶהוּ רִבִּית — הַמַּרְבֶּה בְּגַחֲלֵי רִבִּית…",
+      "it": "(Malveh VeLoveh cap. 3, hal. 5-8) Forme di ribit: (1) Tenafah — aumento del pagamento del prestito: prestare 100 e ricevere 110. (2) Se'ar — interesse in forma di cibo o beni invece di denaro. (3) Peiros be-demai — rendere il mutuatario responsabile di provvedere beni al creditore durante il periodo del prestito. (4) Davar she-lo ba le-olam — interesse su qualcosa che non esiste ancora (speculazione futura). Il Rambam evidenzia la severità del divieto: il versetto equipara il prestito a interesse al versamento di sangue innocente."
+    },
+    {
+      "n": "4:1-4",
+      "he": "הֶתֵּר עִסְקָא — כֵּיצַד עוֹשִׂין…",
+      "it": "(Malveh VeLoveh cap. 4, hal. 1-4) Il heter iska (accordo commerciale permesso): uno strumento halakhico che permette investimenti fruttiferi senza violare il divieto di ribit. La struttura: invece di un prestito (malveh ve-loveh), il rapporto è riconfigurato come una società commerciale (iska). Il «mutuatario» diventa gestore attivo degli affari del «prestatore», che è investitore passivo. I profitti vengono divisi secondo le norme delle società (shutafut), non come interesse. L'heter iska è stato sviluppato dai Rishonim medievali per permettere il commercio nell'economia europea."
+    },
+    {
+      "n": "5:1-4",
+      "he": "הַמַּלְוֶה בְּרִבִּית — לֹא יַחְזִיר בְּדִין…",
+      "it": "(Malveh VeLoveh cap. 5, hal. 1-4) Il prestatore che ha già ricevuto interessi: se il mutuatario ha già pagato gli interessi, il prestatore non è obbligato dal beit din a restituirli (il beit din non forza la restituzione — aino yotzei bediney adam). Tuttavia, il prestatore è moralmente obbligato a restituirli per essere in regola con la legge divina. I Saggi insegnano: «Chi si è arricchito con l'interesse — la sua ricchezza non è benedetta, e alla fine perderà ciò che ha guadagnato dall'interesse». La proibizione di ribit è considerata uno dei fondamenti etici dell'economia ebraica."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ribit", "ribit ktzutzah", "avak ribit", "tenafah", "heter iska", "iska", "shutafut", "malveh ve-loveh", "beit din", "aino yotzei bediney adam"
+  ]
+}

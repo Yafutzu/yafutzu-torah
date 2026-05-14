@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Evel 5-7",
+  "name_he": "משנה תורה, הלכות אבל פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi del Lutto, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-12-21",
+  "hebrew_date": "12 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Evel 5:1-5",
+      "he": "שְׁלֹשִׁים יוֹם — מַה הֵם הַגְּבָלוֹת…",
+      "it": "(Evel cap. 5, hal. 1-5) I trenta giorni di lutto (shloshim): dopo la shiva, le restrizioni continuano in forma ridotta per altri ventitré giorni (completando trenta giorni dalla sepoltura). Durante lo shloshim: divieto di tagliare i capelli, divieto di partecipare a festeggiamenti festosi (seudot hiddur), restrizioni nell'abbigliamento elegante. Dopo lo shloshim, la maggior parte delle restrizioni viene rimossa. L'eccezione: per un genitore, il lutto dura dodici mesi — il Kaddish viene recitato per undici mesi (per evitare di implicare che il defunto necessiti di tutta la durata massima di giudizio)."
+    },
+    {
+      "n": "Evel 6:1-5",
+      "he": "אֲנִינוּת הַלֵּב — לְאַחַר שְׁנֵים עָשָׂר חֹדֶשׁ…",
+      "it": "(Evel cap. 6, hal. 1-5) Il Kaddish: la preghiera che il figlio recita per l'anima del genitore. Il Kaddish non menziona la morte — è una dossologia (lode a D-o) in aramaico. La tradizione: il Kaddish eleva l'anima del defunto perché il figlio virtuoso che loda D-o porta merito al genitore che lo ha formato. Il Kaddish viene recitato per undici mesi sulle dodici possibili; la ragione: il periodo massimo di giudizio nell'aldilà è dodici mesi, ma si assume che i propri genitori non siano tra i più empi. L'osservanza dello yahrzeit (anniversario della morte) perpetua la memoria per tutti gli anni successivi."
+    },
+    {
+      "n": "Evel 7:1-5",
+      "he": "אָסוּר לָאָבֵל לְהִתְאַבֵּל יוֹתֵר מִדַּאי…",
+      "it": "(Evel cap. 7, hal. 1-5) Il divieto di lutto eccessivo: dopo i periodi prescritti (shiva, shloshim, dodici mesi per un genitore), prolungare il lutto è proibito. «Al tivku la-met ve-al tanudu lo» (Non piangete il morto né compiangete — cioè non oltre misura) (Geremia 22:10). La Torah ha stabilito periodi di lutto precisi perché ha una visione realistica dell'anima umana: il dolore deve essere vissuto completamente, ma non deve consumare la vita. Dopo i periodi prescritti, ritornare alla vita normale è non solo permesso ma richiesto — è rispetto per i vivi e per la vita che D-o ha dato."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shloshim", "shiva", "Kaddish", "avelut", "yahrzeit", "aninut"
+  ]
+}

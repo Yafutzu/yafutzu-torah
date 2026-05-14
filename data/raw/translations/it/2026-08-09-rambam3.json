@@ -1,0 +1,47 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Met 6-8",
+  "name_he": "משנה תורה, הלכות טומאת מת, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità da Cadavere, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-08-09",
+  "hebrew_date": "26 Av 5786",
+  "halachot_count": 11,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "כלים שבאוהל עם המת — נטמאים בטומאה חמורה, אם יש להם 'בית קיבול'. כלים שאין להם בית קיבול — כגון מחט שאין לה נקב — אינם מקבלים טומאה מן האוהל.",
+      "it": "Gli oggetti (kelim) che si trovano nell'ohel con il cadavere diventano impuri con impurità grave, se hanno un 'beit kibul' (vano, cioè una cavità ricettiva). Oggetti privi di beit kibul — come un ago senza cruna — non ricevono l'impurità dall'ohel."
+    },
+    {
+      "n": "6:2",
+      "he": "כלי שנגע בו הטמא — הרי הוא ראשון לטומאה, ומטמא אחרים. כלי שנגע בראשון — שני. וכן הלאה. אבל בכלי הדיוט — אין שני עושה שלישי.",
+      "it": "Un oggetto toccato dall'impuro diventa rishon le-tumah e trasmette impurità ad altri. Un oggetto che ha toccato il rishon è sheni (secondo grado). E così via. Tuttavia, riguardo agli oggetti ordinari (kelim hedyot) — il sheni non crea un shelishi (terzo grado)."
+    },
+    {
+      "n": "7:1",
+      "he": "כלי חרס — מקבל טומאה רק מן האוויר שבתוכו, לא מן החוץ. לפיכך, כלי חרס שהיה פתוח בתוך האוהל — נטמא; ואם היה מכוסה בצמיד פתיל — טהור.",
+      "it": "Un recipiente di terracotta (kli cheres) riceve l'impurità solo dall'aria interna, non dall'esterno. Pertanto, un recipiente di terracotta aperto all'interno dell'ohel è impuro; se era coperto con un 'tzamid patil' (coperchio sigillato ermeticamente) — è puro."
+    },
+    {
+      "n": "7:2",
+      "he": "צמיד פתיל הוא חותמת שמסגרת את פתח הכלי — לא עורות ולא בגדים, אלא מכסה קשיח. וכשיש צמיד פתיל — הכלי שומר על טהרתו אפילו בתוך אוהל המת.",
+      "it": "Il tzamid patil è un sigillo che circonda l'apertura del recipiente — non di pelle o di tessuto, ma di un coperchio rigido. Quando c'è il tzamid patil, il recipiente mantiene la propria purità anche all'interno dell'ohel del cadavere."
+    },
+    {
+      "n": "8:1",
+      "he": "מי שנטמא בטומאת מת — טהרתו בהזאת מי חטאת ביום השלישי ובשביעי, ובטבילה במקוה ביום השביעי. ואין לו טהרה אחרת.",
+      "it": "Chi è diventato impuro per impurità da cadavere si purifica mediante l'aspersione delle acque lustrale (mei chatat — acque della parah adumah) al terzo e al settimo giorno, e mediante l'immersione nel mikveh al settimo giorno. Non vi è altra forma di purificazione."
+    },
+    {
+      "n": "8:2",
+      "he": "כיצד? ביום השלישי לטומאתו — מזים עליו מי חטאת. ביום השביעי — שוב מזים, ואחר כך טובל. ואחר ביאת השמש של יום השביעי — הוא טהור לגמרי.",
+      "it": "Come? Al terzo giorno dalla sua impurità, gli si aspergono le mei chatat. Al settimo giorno, si aspergono di nuovo, e poi si immerge nel mikveh. Dopo il tramonto del settimo giorno, è completamente puro."
+    },
+    {
+      "n": "8:3",
+      "he": "בזמן הזה אין לנו פרה אדומה, ולכן אין לנו מי חטאת. לפיכך, כל ישראל הם בחינת 'טמאי מת' — ואין להם אפשרות טהרה עד שיבוא אליהו ויטהרם.",
+      "it": "Ai nostri giorni non abbiamo la parah adumah (giovenca rossa), e pertanto non abbiamo le mei chatat. Di conseguenza, tutti gli israeliti si trovano in uno stato di impurità da cadavere — e non possono purificarsi finché non venga Eliyahu a purificarli."
+    }
+  ],
+  "_glossary_terms_used": ["kelim", "beit kibul", "rishon le-tumah", "tzamid patil", "mei chatat", "parah adumah", "mikveh"]
+}

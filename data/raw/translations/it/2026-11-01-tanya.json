@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 8",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, מאמר ח",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Trattato Finale), saggio 8",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-01",
+  "hebrew_date": "21 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "קָרוֹב אַתָּה בְּפִיהֶם וְרָחוֹק אַתָּה מִכִּלְיוֹתֵיהֶם…",
+      "it": "L'ottavo saggio del Kuntres Acharon esplora il paradosso fondamentale della relazione tra l'anima e D-o: D-o è simultaneamente «karov» (vicino) e «rachok» (lontano). Nel versetto «Karov Hashem le-chol kor'av» (D-o è vicino a tutti coloro che Lo invocano — Tehillim 145:18), la vicinanza è reale. Ma il profeta Yeshaya esclama «Koshi ki rachak mimeni» (Perché è lontano da me) — riconoscendo l'abisso infinito tra la creatura e il Creatore. Come si conciliano queste due esperienze?"
+    },
+    {
+      "n": 2,
+      "he": "רָצוֹא וָשׁוֹב — שְׁנֵי תְנוּעוֹת הַנְּשָׁמָה…",
+      "it": "L'Alter Rebbe (Rabbi Schneur Zalman di Liadi) risolve il paradosso attraverso il concetto kabbalistico di «ratzo va-shov» (corri e ritorna — Ezechiele 1:14). L'anima nel suo servizio divino autentico oscilla tra due movimenti: (1) «Ratzo» — il movimento di avanzamento verso D-o, il desiderio di annullarsi totalmente in Lui, di bruciare come fiamma verso l'alto. (2) «Shov» — il movimento di ritorno, il tornare alla propria esistenza separata, il restare nel mondo fisico per adempiere le mitzvot. Entrambi i movimenti sono necessari — né l'abbandono del mondo né l'immersione in esso senza longing verso D-o."
+    },
+    {
+      "n": 3,
+      "he": "בִּתְפִלָּה — מִדָּת הַקָּרוֹב; בְּלִמּוּד — מִדָּת הָרָחוֹק…",
+      "it": "L'Alter Rebbe applica il principio del ratzo va-shov alle due principali modalità del servizio divino: nella preghiera (tefillah) — la dimensione del karov (vicinanza) è dominante; ci si rivolge a D-o in seconda persona, come a un padre amato. Nello studio della Torah che rivela la grandezza infinita di D-o — la dimensione del rachok (distanza) emerge: si riconosce quanto il Divino sia al di là di ogni comprensione umana. La perfezione del servizio divino richiede entrambe: l'intimità della preghiera e il timore reverenziale dello studio. Chi ha solo uno dei due — è incompleto."
+    }
+  ],
+  "_glossary_terms_used": [
+    "karov", "rachok", "ratzo va-shov", "tefillah", "Alter Rebbe", "mitzvot"
+  ]
+}

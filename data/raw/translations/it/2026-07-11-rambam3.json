@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'aseh HaKorbanot 1-3",
+  "name_he": "משנה תורה, הלכות מעשה הקורבנות, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi della Procedura dei Sacrifici, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-07-11",
+  "hebrew_date": "26 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "1:1",
+      "he": "אַרְבַּע עֲבוֹדוֹת עִיקָּרִיּוֹת שֶׁחַיָּב עֲלֵיהֶן: שְׁחִיטָה, קַבָּלָה, הוֹלָכָה, זְרִיקָה.",
+      "it": "Quattro atti essenziali per cui si è passibili di pena [se eseguiti in modo invalido]: la macellazione rituale (shechitah), la raccolta del sangue (kabalah), il trasporto del sangue all'altare (holachah), l'aspersione del sangue (zerikah)."
+    },
+    {
+      "n": "1:2",
+      "he": "שְׁחִיטָה — כְּשֵׁרָה בְּכָל אָדָם, אֲפִלּוּ בְּיִשְׂרָאֵל שֶׁאֵינוֹ כֹּהֵן.",
+      "it": "La shechitah — è valida se eseguita da qualunque persona, anche un israelita che non è kohen."
+    },
+    {
+      "n": "1:3",
+      "he": "שְׁחִיטַת קָדָשִׁים — כְּשֵׁרָה בְּזָר, חוּץ מִפְּסוּלִין מְיֻחָדִים.",
+      "it": "La shechitah dei sacrifici — è valida anche se eseguita da un non-kohen (zar), eccetto in casi specifici di invalidità."
+    },
+    {
+      "n": "2:1",
+      "he": "קַבָּלָה — צְרִיכָה לְהֵעָשׂוֹת בִּכְלִי שָׁרֵת בְּיַד כֹּהֵן כָּשֵׁר.",
+      "it": "La kabalah (raccolta del sangue) — deve essere fatta in un utensile sacro (kli shareit) dalla mano di un kohen idoneo."
+    },
+    {
+      "n": "2:2",
+      "he": "מִינִימוּם הַדָּם לְקַבָּלָה — כְּדֵי לִהְיוֹת בּוֹ לְמַתָּנָה אַחַת.",
+      "it": "Il minimo di sangue per la kabalah — quanto basta per fare un'applicazione (matanah achat)."
+    },
+    {
+      "n": "2:3",
+      "he": "קִבֵּל זָר — פָּסוּל. קִבֵּל טָמֵא — פָּסוּל.",
+      "it": "Se ha raccolto un non-kohen (zar) — invalido. Se ha raccolto un impuro (tameh) — invalido."
+    },
+    {
+      "n": "3:1",
+      "he": "הוֹלָכָה — הֲבָאַת הַדָּם אֶל יְסוֹד הַמִּזְבֵּחַ. צְרִיכָה לְהֵעָשׂוֹת בִּימִין.",
+      "it": "La holachah — il trasporto del sangue verso la base dell'altare (yesod ha-mizbeach). Deve essere fatta con la mano destra."
+    },
+    {
+      "n": "3:2",
+      "he": "זְרִיקָה — זְרִיקַת הַדָּם עַל קִירוֹת הַמִּזְבֵּחַ.",
+      "it": "La zerikah — l'aspersione del sangue sulle pareti dell'altare."
+    },
+    {
+      "n": "3:3",
+      "he": "אֵיזֶה קָרְבָּן טָעוּן אַרְבַּע מַתָּנוֹת? כָּל קָרְבָּן שֶׁחַטָּאתוֹ מִן הַחֲיָּה.",
+      "it": "Quale sacrificio richiede quattro applicazioni (arba matanot)? Ogni sacrificio il cui chatat (aspersione di espiazione) è dalla bestia selvatica."
+    },
+    {
+      "n": "3:4",
+      "he": "קָרְבָּן עוֹלָה — טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע.",
+      "it": "Il sacrificio dell'olah (olocausto) — richiede due applicazioni che sono [considerate come] quattro."
+    },
+    {
+      "n": "3:5",
+      "he": "הַנּוֹתֵן מַתָּנָה בֶּחָסֵר — לֹא עִכֵּב, כָּל עוֹד נָתַן מַתָּנָה אַחַת.",
+      "it": "Chi ha dato un'applicazione in meno — non ha reso invalido [il sacrificio], finché ha dato almeno un'applicazione."
+    },
+    {
+      "n": "3:6",
+      "he": "שִׁיּוּר הַדָּם — שׁוֹפְכִין אוֹתוֹ לְיְסוֹד הַמִּזְבֵּחַ.",
+      "it": "Il sangue rimanente (shiur ha-dam) — lo si versa alla base dell'altare (yesod ha-mizbeach)."
+    }
+  ],
+  "_glossary_terms_used": ["shechitah", "kabalah", "holachah", "zerikah", "kli shareit", "kohen", "zar", "tameh", "olah", "chatat", "arba matanot", "matanah achat", "yesod ha-mizbeach", "Ma'aseh HaKorbanot"]
+}

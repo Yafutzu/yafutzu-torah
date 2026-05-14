@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 12",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק יב",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 12",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-22",
+  "hebrew_date": "8 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "נֶפֶשׁ הָאֱלֹקִית — יֵשׁ לָהּ עֶשֶׂר כֹּחוֹת כְּנֶגֶד עֶשֶׂר סְפִירוֹת: שָׁלֹשׁ מֹחִין — חָכְמָה, בִּינָה, דַּעַת, וְשֶׁבַע מִדּוֹת — חֶסֶד, גְּבוּרָה, תִּפְאֶרֶת, נֶצַח, הוֹד, יְסוֹד, מַלְכוּת.",
+      "it": "L'anima divina (nefesh ha-Elokit) ha dieci facoltà corrispondenti alle dieci Sefirot: tre intelletti — Chochmah (saggezza), Binah (comprensione), Da'at (conoscenza) — e sette facoltà emotive — Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, Malchut."
+    },
+    {
+      "n": 2,
+      "he": "הַמֹּחִין — מוֹשְׁלִין עַל הַמִּדּוֹת. כְּשֶׁהַחָכְמָה מִתְגַּדֶּלֶת — הַמִּדּוֹת מִתְקָנּוֹת. כְּשֶׁהַבִּינָה עֲמֻקָּה — הָאַהֲבָה לְהַשֵּׁם מִתְגַּדֶּלֶת.",
+      "it": "Gli intelletti dominano sulle facoltà emotive. Quando la Chochmah cresce — le facoltà emotive si rettificano. Quando la Binah è profonda — l'amore verso D-o si accresce."
+    },
+    {
+      "n": 3,
+      "he": "לִמּוּד הַתּוֹרָה עוֹסֵק בְּחָכְמָה, בִּינָה, דַּעַת שֶׁבַּנֶּפֶשׁ. קִיּוּם הַמִּצְווֹת עוֹסֵק בְּמִדּוֹת. זֶהוּ עִנְיַן 'אוֹר תּוֹרָה' וְ'אוֹר מִצְווֹת'.",
+      "it": "Lo studio della Torah coinvolge la Chochmah, la Binah e il Da'at dell'anima. L'adempimento dei commandamenti coinvolge le facoltà emotive. Questo è il significato della 'luce della Torah' (or Torah) e della 'luce dei commandamenti' (or mitzvot)."
+    }
+  ],
+  "_glossary_terms_used": ["nefesh ha-Elokit", "Sefirot", "Chochmah", "Binah", "Da'at", "Chesed", "Gevurah", "Tiferet", "Malchut", "or Torah", "or mitzvot"]
+}

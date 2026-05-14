@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shekalim 2",
+  "name_he": "משנה תורה, הלכות שקלים, פרק ב",
+  "name_it": "Mishneh Torah, Leggi dei Sicli, capitolo 2",
+  "cycle": "rambam-1",
+  "date": "2026-07-24",
+  "hebrew_date": "10 Av 5786",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "בְּאֶחָד בַּאֲדָר — מַשְׁמִיעִין עַל הַשְּׁקָלִים, כְּדֵי שֶׁיָּבִיאוּ כָּל אֶחָד שִׁקְלוֹ בִּזְמַנּוֹ.",
+      "it": "Il primo giorno del mese di Adar si fa un annuncio (mashmi'in) riguardo ai sicli, affinché ciascuno porti il proprio shekel in tempo."
+    },
+    {
+      "n": 2,
+      "he": "בְּחֲמִשָּׁה עָשָׂר בַּאֲדָר — שֻׁלְחָנוֹת הָיוּ יוֹשְׁבִין בַּמְּדִינָה.",
+      "it": "Il quindicesimo di Adar i cambiavalute (shulchanim) si sedevano nelle città della provincia."
+    },
+    {
+      "n": 3,
+      "he": "בְּעֶשְׂרִים וַחֲמִשָּׁה בַּאֲדָר — יוֹשְׁבִין בַּמִּקְדָּשׁ.",
+      "it": "Il venticinquesimo di Adar si sedevano nel Tempio per raccogliere i sicli di coloro che venivano in pellegrinaggio."
+    },
+    {
+      "n": 4,
+      "he": "מִשֶּׁיָּשְׁבוּ בַּמִּקְדָּשׁ — הִתְחִילוּ לִמְשַׁכֵּן. מִי שֶׁלֹּא נָתַן — מְמַשְׁכְּנִין אוֹתוֹ.",
+      "it": "Da quando si sedevano nel Tempio, iniziavano il pignoramento (meshaken). Chi non aveva dato veniva pignorato."
+    },
+    {
+      "n": 5,
+      "he": "מַה הָיוּ מְמַשְׁכְּנִין? כֵּלָיו, בְּגָדָיו — אֲבָל לֹא גּוּפוֹ.",
+      "it": "Cosa pignoravan? I suoi utensili, i suoi abiti — ma non la sua persona."
+    },
+    {
+      "n": 6,
+      "he": "שָׁלֹשׁ תְּרוּמוֹת הָיוּ תּוֹרְמִין מִלִּשְׁכַּת הַשְּׁקָלִים בְּכָל שָׁנָה.",
+      "it": "Tre volte all'anno si prelevava (torim) dalla camera del tesoro dei sicli (lishkat ha-shekalim): prima di Pesach, prima di Shavuot, e prima di Sukkot."
+    },
+    {
+      "n": 7,
+      "he": "כֵּיצַד הָיוּ תּוֹרְמִין? הַגִּזְבָּר נִכְנַס וְתוֹרֵם שָׁלֹשׁ קֻפּוֹת, כָּל קֻפָּה שְׁלֹשָׁה סְאִין.",
+      "it": "Come si effettuava il prelievo? Il tesoriere (gizbar) entrava e prelevava tre ceste (kuppot), ciascuna delle dimensioni di tre se'ah."
+    },
+    {
+      "n": 8,
+      "he": "הַכֶּסֶף שֶׁנִּגְבָּה — מֵהֶם קוֹנִין קָרְבְּנוֹת תָּמִיד וּמוּסָפִין וּשְׁאָר קָרְבְּנוֹת צִבּוּר.",
+      "it": "Il denaro raccolto veniva usato per acquistare i sacrifici: il tamid (sacrificio quotidiano), i musafin (sacrifici aggiuntivi) e gli altri sacrifici pubblici."
+    },
+    {
+      "n": 9,
+      "he": "הַמּוֹתָר מִשְּׁקָלִים שֶׁל שָׁנָה זוֹ — נוֹפֵל לַשָּׁנָה הַבָּאָה.",
+      "it": "Il surplus dei sicli di quest'anno viene portato all'anno successivo."
+    },
+    {
+      "n": 10,
+      "he": "מוֹתַר הַקֻּפּוֹת הָיָה מִשְׁתַּמֵּשׁ בּוֹ לְצֹרֶךְ הָעִיר — לְתִקּוּן דְּרָכִים וּבוֹרוֹת וּמִקְווֹת.",
+      "it": "Il surplus delle ceste veniva usato per le esigenze della città — per riparare strade, cisterne e mikvot (bagni rituali)."
+    }
+  ],
+  "_glossary_terms_used": ["shekalim", "shulchanim", "meshaken", "lishkat ha-shekalim", "gizbar", "tamid", "musafin", "mikvot"]
+}

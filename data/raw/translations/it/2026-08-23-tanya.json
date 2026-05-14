@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 47",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ז",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 47",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-23",
+  "hebrew_date": "10 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הדרך המעשית של הבינוני: להתחיל כל יום בקבלת עול מלכות שמים. להגיד בלבו: 'הריני מקבל עלי עול מלכות שמים לכל היום הזה'.",
+      "it": "Il percorso pratico del Beinoni (l'uomo intermedio): iniziare ogni giorno con la kabbalat ol malkhut shamayim (accettazione del giogo del regno dei Cieli). Dire nel proprio cuore: 'Ecco che accetto su di me il giogo del regno dei Cieli per tutta questa giornata'."
+    },
+    {
+      "n": 2,
+      "he": "וכל מצוה שעושה לאחר מכן — מוסיפה ומחזקת את הקבלה הראשונית. כך שכל יום ויום — בניין שלם בפני עצמו, המתחיל בהתחייבות ומסתיים בסיום.",
+      "it": "E ogni mitzva che compie in seguito — aggiunge e rafforza l'accettazione iniziale. Così ogni giorno — è un edificio completo di per sé, che comincia con l'impegno e si conclude con il suo completamento."
+    },
+    {
+      "n": 3,
+      "he": "בבוקר — קריאת שמע ותפילה. בצהריים — מנחה. בערב — ערבית. אלו הם עמודי היום שעל ידם נשמרת ומתחזקת קבלת עול מלכות שמים.",
+      "it": "Al mattino — Keriat Shema (recitazione dello Shema) e la preghiera (Shacharit). A mezzogiorno — Minchah. La sera — Arvit (Ma'ariv). Questi sono i pilastri del giorno attraverso cui viene preservata e rafforzata l'accettazione del giogo del regno dei Cieli."
+    }
+  ],
+  "_glossary_terms_used": ["Beinoni", "kabbalat ol malkhut shamayim", "mitzva", "Keriat Shema", "Shacharit", "Minchah", "Arvit"]
+}

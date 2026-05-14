@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 45",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק מה",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 45",
+  "cycle": "tanya-yomi",
+  "date": "2026-12-17",
+  "hebrew_date": "8 Tevet 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "יִרְאַת חֵטְא — שֶׁהִיא גְּבוֹהָה מִיִּרְאַת הָעֹנֶשׁ…",
+      "it": "Il Rabbino di Shneur Zalman di Liadi distingue in questo capitolo tra due livelli di timore (yirah): la «yirat ha-onesh» (timore della punizione) e la «yirat chet» (timore del peccato). La yirat ha-onesh è un timore inferiore: ci si astiene dal peccato perché si teme le conseguenze — l'inferno, la punizione divina. Sebbene sia un inizio valido, non è ancora il servizio autentico del cuore."
+    },
+    {
+      "n": 2,
+      "he": "יִרְאַת חֵטְא — אֵינָהּ יִרְאָה מִן הָעֹנֶשׁ אֶלָּא מִן הַחֵטְא עַצְמוֹ…",
+      "it": "La yirat chet è un livello superiore: il timore non è delle conseguenze del peccato ma del peccato stesso. Chi ha yirat chet non evita il peccato perché calcola le conseguenze — lo evita perché il peccato stesso è per lui ripugnante, in quanto crea distanza da D-o. Il peccato è brutto non perché punisce, ma perché allontana l'anima dalla sua sorgente divina. Questa è la yirah che il Tanya considera il livello minimo del Beinoni (l'uomo intermedio) — e il Beinoni ce l'ha naturalmente, perché non ha mai peccato in azione."
+    },
+    {
+      "n": 3,
+      "he": "הַבֵּינוֹנִי שֶׁלֹּא חָטָא מֵעוֹלָם בְּמַעֲשֶׂה — יֵשׁ לוֹ יִרְאַת חֵטְא טִבְעִית…",
+      "it": "Il Beinoni, che non ha mai peccato nell'azione, possiede una yirat chet naturale. Non evita il peccato perché si frena — lo evita perché il peccato è semplicemente incompatibile con la sua identità. Come un uomo di rango che non si abbasserebbe a certi comportamenti non perché li tema, ma perché non corrispondono a chi egli è: il Beinoni è un'anima ebraica che sa di essere davanti al Re, e il peccato è «non-reale» alla luce di questa presenza. Il capitolo 45 prepara il terreno per i capitoli finali di Parte I, dove il Alter Rebbe dà al Beinoni la visione completa del suo percorso."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yirat ha-onesh", "yirat chet", "Beinoni", "yirah", "Likkutei Amarim"
+  ]
+}

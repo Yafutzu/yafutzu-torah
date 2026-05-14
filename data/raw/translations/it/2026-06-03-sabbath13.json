@@ -1,0 +1,102 @@
+{
+  "ref": "Mishneh Torah, Sabbath 13",
+  "name_he": "הלכות שבת פרק י\"ג",
+  "name_it": "Leggi dello Shabbat, Capitolo 13",
+  "cycle": "rambam-1",
+  "date": "2026-06-03",
+  "hebrew_date": "18 Sivan 5786",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַדְלֵקַת הַנֵּר בְּשַׁבָּת",
+      "it": "È vietato leggere al lume di una lampada di Shabbat (ner, נֵר), per timore che uno si inclini verso la lampada per migliorare la luce e faccia così tilting (hattayah, הַטָּיָה) dell'olio, che equivale ad accendere. Questo decreto si applica anche ai grandi rabbini."
+    },
+    {
+      "n": 2,
+      "he": "שְׁנַיִם קוֹרְאִין לְאוֹר הַנֵּר",
+      "it": "Anche due persone che leggono insieme allo stesso lume sono sospettate di violare il divieto, poiché ciascuna potrebbe inclinare la lampada per sé. Il decreto rabbinico si applica a tutti indiscriminatamente."
+    },
+    {
+      "n": 3,
+      "he": "מַצִּילִין מִן הַדְּלֵקָה",
+      "it": "In caso di incendio (delekah, דְּלֵקָה) di Shabbat, si può salvare (matzil, מַצִּיל) il cibo per tre pasti. Si salva in un unico viaggio senza andare e tornare, e si porta tutto in un'unica volta in un luogo sicuro."
+    },
+    {
+      "n": 4,
+      "he": "מַצִּילִין סֵפֶר תּוֹרָה",
+      "it": "Si salva un rotolo della Torah (Sefer Torah, סֵפֶר תּוֹרָה) dall'incendio di Shabbat portandolo in luogo sicuro. Si salva anche una custodia del rotolo con il rotolo al suo interno, anche se la custodia da sola non avrebbe potuto essere spostata."
+    },
+    {
+      "n": 5,
+      "he": "סִפְרֵי נְבִיאִים וּכְתוּבִים",
+      "it": "Si salvano anche i libri dei Profeti (Nevi'im, נְבִיאִים) e degli Scritti (Ketuvim, כְּתוּבִים) dall'incendio. Si salvano sia in ebraico sia in qualsiasi altra lingua in cui siano stati scritti, poiché tutti i testi sacri hanno santità intrinseca (kedushah, קְדֻשָּׁה)."
+    },
+    {
+      "n": 6,
+      "he": "גִּלְיוֹנוֹת שֶׁאֵין בָּהֶן",
+      "it": "Pagine vuote e fogli senza testo sacro non si salvano dall'incendio di Shabbat, poiché non hanno kedushah. Tuttavia, le copertine e i contenitori in cui sono riposti libri sacri acquistano la kedushah degli oggetti che contengono."
+    },
+    {
+      "n": 7,
+      "he": "הַמּוֹצִיא כְּתָבִים לְרַשּׁוּת הָרַבִּים",
+      "it": "Chi porta libri sacri nel dominio pubblico (reshut ha-rabbim, רְשׁוּת הָרַבִּים) per salvarli dall'incendio non viola il divieto di portare di Shabbat, purché li porti in modo insolito (shinui, שִׁינּוּי) — per esempio avvolti indosso."
+    },
+    {
+      "n": 8,
+      "he": "אָמַר לַנָּכְרִי הַצֵּל",
+      "it": "Si può dire a un non ebreo di salvare i libri sacri dall'incendio, poiché i Saggi hanno permesso l'amira lenochri (אֲמִירָה לְנָכְרִי — dire al non ebreo di fare) in caso di perdita significativa di oggetti sacri."
+    },
+    {
+      "n": 9,
+      "he": "הַמַּצִּיל בְּכֵלִים",
+      "it": "Si possono salvare oggetti dall'incendio portandoli in contenitori (kelim, כֵּלִים). Se rimane spazio nel contenitore, si può riempire con altri oggetti muktzeh per trasportarli nel salvataggio, anche se normalmente non li si porterebbe."
+    },
+    {
+      "n": 10,
+      "he": "לְהֵיכָן מַצִּיל",
+      "it": "Si salvano gli oggetti portandoli al cortile più vicino. Non si entra in un altro dominio estraneo per depositarvi. Il proprietario della casa in fiamme può dire a tutti i passanti di salvare, e tutti possono portare ognuno il suo carico."
+    },
+    {
+      "n": 11,
+      "he": "כּוֹבִין אֶת הַדְּלֵקָה",
+      "it": "Non si spegne un incendio di Shabbat di norma, poiché spegnere il fuoco viola il divieto della Torah. Tuttavia se c'è pericolo di vita — l'incendio minaccia persone — si spegne immediatamente."
+    },
+    {
+      "n": 12,
+      "he": "הַנִּיחוּ כְּלֵי חֶרֶס",
+      "it": "Si può creare una barriera di contenitori di terracotta (keli cheres, כְּלֵי חֶרֶס) pieni d'acqua davanti all'avanzata del fuoco, lasciando che si rompano e versino l'acqua. Questo è permesso perché non si spegne direttamente."
+    },
+    {
+      "n": 13,
+      "he": "מַשְׂלִיכִין אֶת הַבֶּגֶד עַל הַדְּלֵקָה",
+      "it": "Non si getta un indumento bagnato sull'incendio per soffocarlo, poiché questo equivale a spegnimento diretto. Tuttavia si possono fare barriere attorno al fuoco che ne impediscano la propagazione senza spegnerlo."
+    },
+    {
+      "n": 14,
+      "he": "הַנּוֹתֵן כֶּלִי מְנֻקָּב",
+      "it": "Si può coprire una lampada con un contenitore forato (keli menukav, כְּלִי מְנֻקָּב) per rallentare la combustione, purché il foro non sia intenzionale per spegnere. Se il fuoco si spegne da solo di conseguenza, non è vietato."
+    },
+    {
+      "n": 15,
+      "he": "אֵין מְכַבִּין אֶת הַבְּקָעָה",
+      "it": "Non si spegne un tizzone acceso (beka'ah, בְּקָעָה) che è caduto di Shabbat. Si può però coprirlo con sabbia o terra per impedire che si propaghi senza spegnerlo direttamente, poiché l'effetto indiretto è permesso."
+    },
+    {
+      "n": 16,
+      "he": "הַנַּחְתּוֹם שֶׁאָפָה בְּשַׁבָּת",
+      "it": "Il pane cotto di Shabbat da un fornaio che ha violato Shabbat consapevolmente è proibito a lui stesso ma permesso ad altri ebrei. Se fu cotto per i bisogni di Shabbat e per necessità urgente, c'è chi permette anche allo stesso fornaio."
+    },
+    {
+      "n": 17,
+      "he": "הַמּוֹצִיא אֶת הַנֵּר",
+      "it": "Chi porta fuori una lampada dal dominio privato al dominio pubblico di Shabbat non viola solo il divieto di 'hotzaah' (הוֹצָאָה — trasporto), ma se la lampada si spegne durante il trasporto, non ha anche commesso il divieto di 'kibui' (כִּבּוּי — spegnimento)."
+    },
+    {
+      "n": 18,
+      "he": "הַמְכַבֶּה אֶת הַנֵּר מִפְּנֵי שֶׁהוּא מִתְיָרֵא",
+      "it": "Chi spegne una lampada di Shabbat per paura di briganti, per paura di spiriti, o per far dormire un malato — è esente da pena rabbinica, poiché ha agito per tutelare una vita. Tuttavia l'ideale è non spegnere se c'è alternativa."
+    }
+  ],
+  "_glossary_terms_used": ["ner", "hattayah", "delekah", "matzil", "Sefer Torah", "Nevi'im", "Ketuvim", "kedushah", "reshut ha-rabbim", "shinui", "amira lenochri", "kelim", "keli cheres", "keli menukav", "beka'ah", "hotzaah", "kibui"]
+}

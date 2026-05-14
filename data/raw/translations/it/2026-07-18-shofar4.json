@@ -1,0 +1,87 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shofar VeSukkah VeLulav 4",
+  "name_he": "משנה תורה, הלכות שופר וסוכה ולולב, פרק ד",
+  "name_it": "Mishneh Torah, Leggi dello Shofar, della Sukkah e del Lulav, capitolo 4",
+  "cycle": "rambam-1",
+  "date": "2026-07-18",
+  "hebrew_date": "4 Av 5786",
+  "halachot_count": 15,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת יְשִׁיבַת הַסֻּכָּה — שֶׁיֵּשֵׁב בָּהּ כְּדֶרֶךְ שֶׁהוּא יוֹשֵׁב בְּבֵיתוֹ בְּכָל שִׁבְעַת הַיָּמִים.",
+      "it": "Il comandamento di dimorare nella sukkah consiste nel trattarla come la propria casa permanente per tutti e sette i giorni."
+    },
+    {
+      "n": 2,
+      "he": "אוֹכֵל וְשׁוֹתֶה וְיָשֵׁן וּמְטַיֵּל וְלָן בַּסֻּכָּה כָּל שִׁבְעַת הַיָּמִים, בֵּין בַּיּוֹם בֵּין בַּלַּיְלָה.",
+      "it": "Si mangia, si beve, si dorme, ci si riposa e si pernotta nella sukkah per tutti e sette i giorni, sia di giorno che di notte."
+    },
+    {
+      "n": 3,
+      "he": "הַמִּצְטַעֵר פָּטוּר מִן הַסֻּכָּה, שֶׁנֶּאֱמַר 'בַּסֻּכֹּת תֵּשְׁבוּ' — תֵּשְׁבוּ כְּעֵין תָּדוּרוּ.",
+      "it": "Chi soffre (mitztaer) è esente dalla sukkah, poiché la Scrittura dice 'dimorerete nelle sukkot' — dimorerete come si dimora normalmente, non in condizioni di sofferenza."
+    },
+    {
+      "n": 4,
+      "he": "יָרְדוּ גְשָׁמִים, מֻתָּר לֵצֵא מִן הַסֻּכָּה. וְכַמָּה שִׁעוּר הַגֶּשֶׁם? כְּדֵי שֶׁיִּקְפֶּה הַמָּרָק.",
+      "it": "Se cade la pioggia, è lecito uscire dalla sukkah. Qual è la misura della pioggia? Abbastanza da rovinare un piatto di zuppa (kappe ha-marak)."
+    },
+    {
+      "n": 5,
+      "he": "הַחוֹלֶה וּמְשַׁמְּשָׁיו פְּטוּרִים מִן הַסֻּכָּה.",
+      "it": "Il malato e coloro che lo assistono sono esenti dalla sukkah."
+    },
+    {
+      "n": 6,
+      "he": "הַהוֹלֵךְ בַּדֶּרֶךְ — פָּטוּר מִן הַסֻּכָּה בַּיּוֹם, וְחַיָּב בַּלַּיְלָה כְּשֶׁמַּגִּיעַ לִמְקוֹם לִינָה.",
+      "it": "Il viaggiatore è esente dalla sukkah durante il giorno, ma è obbligato di notte quando raggiunge il luogo dove pernotta."
+    },
+    {
+      "n": 7,
+      "he": "שְׁלוּחֵי מִצְוָה פְּטוּרִים מִן הַסֻּכָּה בֵּין בַּיּוֹם בֵּין בַּלַּיְלָה.",
+      "it": "Gli emissari di una mitzvah (shlichei mitzvah) sono esenti dalla sukkah sia di giorno che di notte."
+    },
+    {
+      "n": 8,
+      "he": "נָשִׁים וַעֲבָדִים וּקְטַנִּים פְּטוּרִין מִן הַסֻּכָּה.",
+      "it": "Le donne, gli schiavi e i minori sono esenti dalla sukkah."
+    },
+    {
+      "n": 9,
+      "he": "קָטָן שֶׁאֵינוֹ צָרִיךְ לְאִמּוֹ — חַיָּב בַּסֻּכָּה מִדִּבְרֵי סוֹפְרִים, כְּדֵי לְחַנְּכוֹ בַּמִּצְווֹת.",
+      "it": "Un bambino che non ha più bisogno di sua madre è obbligato nella sukkah per legge rabbinica, al fine di educarlo nelle mitzvot (chinuch)."
+    },
+    {
+      "n": 10,
+      "he": "הַנִּכְנַס לָדוּר בַּסֻּכָּה, בֵּין בַּיּוֹם הָרִאשׁוֹן בֵּין בְּשָׁאָר הַיָּמִים, אוֹמֵר: 'לֵישֵׁב בַּסֻּכָּה'.",
+      "it": "Chi entra nella sukkah per dimorarvi — sia nel primo giorno sia nei giorni successivi — recita la benedizione: 'Leisheiv ba-sukkah' (per dimorare nella sukkah)."
+    },
+    {
+      "n": 11,
+      "he": "לַיְלָה הָרִאשׁוֹן שֶׁל חַג, חַיָּב לֶאֱכֹל כְּזַיִת פַּת בַּסֻּכָּה.",
+      "it": "La prima notte della festa (Sukkot), vi è l'obbligo di mangiare almeno la misura di un'oliva (ke-zayit) di pane nella sukkah."
+    },
+    {
+      "n": 12,
+      "he": "שְׁאָר כָּל הַיָּמִים — אִם רוֹצֶה שֶׁלֹּא לֶאֱכֹל, פָּטוּר.",
+      "it": "Negli altri giorni della festa, se non vuole mangiare, non è obbligato (in quanto non si richiede che mangi, ma solo che dimori lì)."
+    },
+    {
+      "n": 13,
+      "he": "הַשּׁוֹמֵר אֶת הַגִּנָּה אוֹ אֶת הַפַּרְדֵּס — יָשֵׁן חוּץ לַסֻּכָּה, לְפִי שֶׁאֵינוֹ יָכוֹל לְהַנִּיחַ מְלַאכְתּוֹ.",
+      "it": "Il guardiano di un giardino o di un frutteto può dormire fuori dalla sukkah, poiché non può abbandonare il suo lavoro."
+    },
+    {
+      "n": 14,
+      "he": "מִי שֶׁיָּשַׁן תַּחַת הַמִּטָּה בַּסֻּכָּה — לֹא יָצָא יְדֵי חוֹבָתוֹ.",
+      "it": "Chi dorme sotto un letto all'interno della sukkah non ha adempiuto al suo obbligo (poiché il letto forma una separazione)."
+    },
+    {
+      "n": 15,
+      "he": "הָאוֹכֵל וְשׁוֹתֶה מִחוּץ לַסֻּכָּה בְּכָל שִׁבְעַת הַיָּמִים — מִצְוָה מִן הַמֻּבְחָר לְהִזָּהֵר.",
+      "it": "Chi mangia e beve fuori dalla sukkah durante tutti e sette i giorni — è un segno di eccellenza nella mitzvah astenersi da ciò."
+    }
+  ],
+  "_glossary_terms_used": ["sukkah", "mitztaer", "ke-zayit", "chinuch", "mitzvah", "leisheiv ba-sukkah"]
+}

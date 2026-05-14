@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 10",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק י",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 10",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-25",
+  "hebrew_date": "14 Cheshvan 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַנְּתִינִים — הֵם גִּבְעוֹנִים שֶׁנִּתְנָה לָהֶם זְכוּת גֵּרוּת בְּיִשְׂרָאֵל…",
+      "it": "I Netinim (letteralmente «i dati» — dati al servizio del Tempio) sono i discendenti dei Gibeoniti che si unirono agli israeliti con l'inganno ai tempi di Giosuè (Yehoshua 9). Giosuè li accettò come «portatori d'acqua e spaccalegna» per il Tabernacolo. Davide HaMelech, successivamente, decretò formalmente che i Netinim fossero proibiti dal matrimonio con la comunità d'Israele (kahal Yisrael), per causa del loro comportamento fraudolento nell'inganno iniziale e della crudeltà che mostrarono in seguito (episodio della carestia di Gibeone — Shmuel II, 21)."
+    },
+    {
+      "n": 2,
+      "he": "נְתִינִים — אֲסוּרִים לִישָּׂא יִשְׂרָאֵלִית לְעוֹלָם, בֵּין זְכָרִים בֵּין נְקֵבוֹת…",
+      "it": "I Netinim — sia maschi che femmine — sono proibiti per sempre dal matrimonio con israeliti di piena discendenza, con un decreto di Davide che è rimasto in vigore come legge rabbinica permanente (takkanat David). Tuttavia, a differenza dei mamzerim (la cui proibizione è biblica), la proibizione dei Netinim è di natura rabbinica (miderabanan). Un mamzer e un Natin possono sposarsi tra di loro."
+    },
+    {
+      "n": 3,
+      "he": "מַמְזֵר וְנָתִין — נוֹשְׂאִין זֶה אֶת זֶה, שֶׁשְּׁנֵיהֶם שָׁוִים בְּאִסּוּר בִּיאַת קָהָל…",
+      "it": "Un mamzer e un Natin possono sposarsi tra loro, poiché entrambi sono esclusi dall'«assemblea di Israele» (biat hakahal) — sebbene per ragioni diverse (il primo per proibizione biblica, il secondo per decreto rabbinico). Allo stesso modo, mamzerim e Netinim possono sposare schiavi liberati. La logica halakhica: persone con status limitati simili possono formare unioni tra di loro, anche se non possono entrare nella corrente principale della comunità matrimoniale israelita."
+    },
+    {
+      "n": 4,
+      "he": "לֹא יָבֹא — זֶה הוּא לְשׁוֹן הַכָּתוּב — עַל מַמְזֵר וְנָתִין…",
+      "it": "Il versetto «lo yavo» (non entrerà) di Devarim 23 si applica sia al mamzer che all'ammonita-moabita maschio. Il Rambam identifica il principio generale: «lo yavo bekehal Hashem» è il «proibito dall'assemblea» — categoria che include mamzerim, ammoniti, moabiti (maschi), e per decreto rabbinico anche i Netinim. Il Rambam distingue tra diversi livelli di «lo yavo»: quello biblico assoluto (mamzer, ammonita-moabita maschio) e quello rabbinico (Natin)."
+    },
+    {
+      "n": 5,
+      "he": "הַיּוֹם — שֶׁאֵין גִּבְעוֹנִים נִכָּרִים — הַנְּתִינִים כְּיִשְׂרָאֵל לְכָל דָּבָר…",
+      "it": "Oggi — dopo che Sennacherib mescolò tutte le nazioni (irbev et ha-goyim) — i Gibeoniti/Netinim non sono più identificabili. Di conseguenza, la legge pratica è che i discendenti dei Netinim sono considerati israeliti a tutti gli effetti (ke-Yisrael le-kol davar) e non vi sono restrizioni matrimoniali applicabili. Questo parallela la situazione degli ammoniti e moabiti discussa nel capitolo precedente: quando l'identità nazionale non è verificabile, le restrizioni specifiche di origine nazionale non si applicano."
+    },
+    {
+      "n": 6,
+      "he": "כְּלָלוֹ שֶׁל דָּבָר — כָּל הָאָמוּר בְּפָרָשַׁת לֹא יָבֹא — הֵם אֲסוּרִים לְמִינָם לָבֹא בִּקְהַל ה'…",
+      "it": "Il Rambam formula il principio generale: tutti coloro menzionati nel contesto del «lo yavo» — mamzer, ammonita maschio, moabita maschio, egiziano (prime due generazioni), edomita (prime due generazioni) — sono le categorie di persone escluse dall'«assemblea d'Israele». La distinzione pratica: alcune esclusioni sono temporanee (egiziani ed edomiti — tre generazioni), alcune sono permanenti (mamzer, ammonita-moabita maschio), e alcune sono oggi inapplicabili (Natin, ammonita-moabita per irbev). Il Rambam riassume il sistema in modo sistematico e chiaro."
+    },
+    {
+      "n": 7,
+      "he": "הַכֹּל מוֹדִים — שֶׁמַּמְזֵר שֶׁנֶּעֱשָׂה גֵּר — דִּינוֹ כְּגֵר לְכָל דָּבָר…",
+      "it": "Un punto controverso: se un mamzer non-ebreo si converte all'ebraismo — qual è il suo status? La posizione del Rambam: il mamzerut si applica solo a chi è ebreo dalla nascita. Un non-ebreo che si converte — il suo status precedente non lo segue nell'ebraismo (poiché «ke-katan she-nolad dami» — è come un neonato). Di conseguenza, un mamzer non-ebreo convertito è un ebreo pieno e può sposare qualsiasi israelita. Tuttavia questa posizione è discussa tra i rishonim. Il Rambam adotta la posizione liberale basata sul principio della conversione come rinascita totale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Netinim", "takkanat David", "miderabanan", "mamzer", "biat hakahal", "lo yavo", "irbev et ha-goyim", "ke-katan she-nolad dami", "rishonim"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 31",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת לא",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera della Santità), lettera 31",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-23",
+  "hebrew_date": "12 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אֶרֶץ יִשְׂרָאֵל — הִיא שַׁעַר הַשָּׁמַיִם…",
+      "it": "Questa lettera tratta della santità speciale della Terra d'Israele e di Gerusalemme, e della loro rilevanza per la preghiera anche dei residenti nella diaspora. L'Alter Rebbe cita il Midrash e la Kabbalah: Eretz Yisrael è la «sha'ar hashamayim» — la porta dei cieli. Tutte le preghiere che salgono dai Quattro Angoli della diaspora devono passare attraverso questo «cancello» per raggiungere il Trono Divino. Gerusalemme, e in particolare il Sito del Tempio (Makom Ha-Mikdash), è il punto focale di tutta la kedushah (santità) del mondo."
+    },
+    {
+      "n": 2,
+      "he": "וְלָכֵן כֹּל הַמִּתְפַּלֵּל בְּחוּץ לָאָרֶץ — פּוֹנֶה לְאֶרֶץ יִשְׂרָאֵל…",
+      "it": "Di conseguenza, chi prega fuori dalla Terra d'Israele rivolge il proprio corpo (o il proprio cuore) verso Eretz Yisrael; chi è in Eretz Yisrael si rivolge verso Gerusalemme; chi è a Gerusalemme si rivolge verso il Monte del Tempio; chi è sul Monte del Tempio si rivolge verso il Kodesh HaKodashim (Santo dei Santi). Questa struttura concentrica di orientamento nella preghiera — derivata dalla Tosefta (Berakhot 3:15) e dal Midrash — riflette la struttura stessa della kedushah: da un punto centrale (Kodesh HaKodashim) che irradia verso l'esterno, come raggi del sole. Le preghiere convergono al centro — poi salgono verticalmente."
+    },
+    {
+      "n": 3,
+      "he": "וְאַף שֶׁאֵין לָנוּ כֹּחַ לַעֲלוֹת לְשָׁם — הַתְּפִלָּה מְחַבֶּרֶת אֶת הַנְּשָׁמָה…",
+      "it": "Anche quando l'ebreo è lontano fisicamente da Eretz Yisrael — la preghiera (tefillah) e lo studio della Torah lo collegano spiritualmente al Makom Ha-Mikdash. L'Alter Rebbe insegna: la nostalgia per Eretz Yisrael e per il Beit HaMikdash (Tempio) non è solo un sentimento storico ma una forza spirituale viva — «teshukah» (anelito). Chi prega con vera kavvanah (intenzione) verso Gerusalemme — la sua neshamah (anima) «sale» spiritualmente e si connette alla fonte della kedushah. Questa è una delle ragioni per cui i tre pilgrimages (shalosh regalim — Pesach, Shavuot, Sukkot) hanno un tale peso spirituale: fisicamente e spiritualmente si «entra» nel centro della kedushah."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Eretz Yisrael", "sha'ar hashamayim", "kedushah", "Makom Ha-Mikdash", "Kodesh HaKodashim", "tefillah", "kavvanah", "neshamah", "teshukah", "Beit HaMikdash", "shalosh regalim"
+  ]
+}

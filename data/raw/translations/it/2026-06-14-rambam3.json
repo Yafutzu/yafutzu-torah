@@ -1,0 +1,67 @@
+{
+  "ref": "Mishneh Torah, Tithes 4-6",
+  "name_he": "משנה תורה, הלכות מעשרות, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi delle Decime (Maasrot), capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-06-14",
+  "hebrew_date": "29 Sivan 5786",
+  "halachot_count": 29,
+  "halachot": [
+    {
+      "n": "4:1-3",
+      "he": "מַעֲשֵׂר שֵׁנִי — מְקַדֵּשׁ אֶת עַצְמוֹ...",
+      "it": "Il maaser sheni (seconda decima) ha una santità intrinseca: i prodotti separati come maaser sheni devono essere portati a Gerusalemme e consumati là dal proprietario in stato di purezza rituale. Si tratta di una decima ulteriore (dopo il maaser rishon dato al Levita) separata dal proprietario stesso."
+    },
+    {
+      "n": "4:4-6",
+      "he": "פּוֹדִין מַעֲשֵׂר שֵׁנִי בְּכֶסֶף...",
+      "it": "Se la strada per Gerusalemme è troppo lunga o il prodotto è troppo pesante, si può riscattare (podeh) il maaser sheni con denaro. Il denaro viene portato a Gerusalemme e usato per acquistare cibo da mangiare là in stato di purezza. Se il proprietario riscatta i propri prodotti, aggiunge un quinto (chomesh) al valore."
+    },
+    {
+      "n": "4:7-9",
+      "he": "הַמּוֹכֵר מַעֲשֵׂר שֵׁנִי — בִּטֵּל...",
+      "it": "Chi vende il maaser sheni senza riscattarlo correttamente — ha agito male. Il maaser sheni non può essere venduto come produce ordinaria, poiché ha una santità che richiede il suo consumo in Gerusalemme o il riscatto formale."
+    },
+    {
+      "n": "4:10-12",
+      "he": "מַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא — פּוֹדִין אוֹתוֹ...",
+      "it": "Il maaser sheni che è diventato ritualmente impuro deve essere riscattato (anche se si trova già a Gerusalemme) e i soldi usati per acquistare nuovo cibo. Non si porta produce impura a Gerusalemme per consumarla."
+    },
+    {
+      "n": "5:1-3",
+      "he": "דְּמַאי — פֵּרוֹת שֶׁיֵּשׁ בָּהֶן סָפֵק...",
+      "it": "Il demai è produce acquistata da un 'am ha-aretz' (persona ignorante in materia di decime) di cui non si sa con certezza se abbia separato le decime. Per dubbio, si separa comunque la terumah e il maaser, ma con alcune alleviazioni: si può mangiare il maaser sheni del demai senza portarlo a Gerusalemme, poiché il dubbio non richiede il pieno rigore."
+    },
+    {
+      "n": "5:4-6",
+      "he": "אֵין מוֹכְרִין פֵּרוֹת דְּמַאי...",
+      "it": "Non si vende demai a un 'am ha-aretz' senza informarlo, poiché potrebbe non decimate. Si può però dare demai a un povero, poiché il povero non è obbligato come la persona comune a verificare — e in ogni caso il povero può decimate da solo."
+    },
+    {
+      "n": "5:7-10",
+      "he": "מַעֲשֵׂר שֵׁנִי שֶׁל דְּמַאי...",
+      "it": "Per il maaser sheni del demai: poiché vi è dubbio se il maaser sheni sia stato già separato, si separa nuovamente ma non si recita la benedizione sulla separazione. Il denaro del riscatto del maaser sheni del demai può essere usato con più liberalità poiché la sua santità è dubbia."
+    },
+    {
+      "n": "6:1-3",
+      "he": "הַהֶפְקֵר — פָּטוּר מִן הַמַּעַשְׂרוֹת...",
+      "it": "Produce resa ownerless (hefker — beni abbandonati) è esente dalle decime. Chi la raccoglie non è obbligato a decimarla. Questa regola vale solo se il proprietario ha dichiarato veramente il hefker prima del completamento del prodotto."
+    },
+    {
+      "n": "6:4-6",
+      "he": "פֵּרוֹת שֶׁמָּכַר לְנָכְרִי...",
+      "it": "Produce venduta a un non-ebreo prima della 'fissazione' (gemirat melacha) — è esente dalle decime. Se venduta dopo la fissazione, il non-ebreo che l'ha comprata non è soggetto alle decime poiché le decime si applicano agli ebrei. Se l'ebreo la riacquista dopo, alcune autorità ritengono che si debba decimare."
+    },
+    {
+      "n": "6:7-9",
+      "he": "פֵּרוֹת שֶׁגָּדְלוּ בִּשְׂדֵה נָכְרִי...",
+      "it": "Produce cresciuta nel campo di un non-ebreo — è esente dalle decime secondo la Torah, poiché la mitzvah delle decime è legata alla 'terra che Dio ti dà' (Deuteronomio 14:22) — cioè la terra di proprietà ebraica. I Saggi però hanno istituito l'obbligo rabbinico in alcuni casi."
+    },
+    {
+      "n": "6:10-12",
+      "he": "הַשָּׂכִיר וְהָאָרִיס...",
+      "it": "Un lavoratore salariato (sachir) o un agricoltore a mezzadria (aris) che lavora il campo altrui — quando riceve la sua quota di produce, deve decimare la sua porzione come chiunque altro, poiché diventa proprietario della quota ricevuta."
+    }
+  ],
+  "_glossary_terms_used": ["maaser sheni", "maaser rishon", "demai", "am ha-aretz", "hefker", "gemirat melacha", "podeh", "chomesh", "sachir", "aris"]
+}

@@ -1,0 +1,199 @@
+{
+  "ref": "Mishneh Torah, The Order of Prayer 2",
+  "name_he": "משנה תורה, סדר התפילות, פרק ב",
+  "name_it": "Mishneh Torah, Ordine delle Preghiere, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-19",
+  "hebrew_date": "3 Sivan 5786",
+  "halachot_count": 37,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נסח ברכות התפלה וסדורן",
+      "it": "Testo delle benedizioni della preghiera e il loro ordine."
+    },
+    {
+      "n": 2,
+      "he": "בָּרוּךְ אַתָּה יְיָ׳‎ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ אֱלֹהֵי אַבְרָהָם אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב הָאֵל הַגָּדוֹל הַגִּבּוֹר וְהַנּוֹרָא וְכוּ׳‎",
+      "it": "(1ª benedizione — Avot) «Benedetto sei Tu, Eterno nostro D-o e D-o dei nostri padri, D-o di Avraham, D-o di Yitzchak e D-o di Ya'akov, il D-o grande, potente e tremendo, D-o altissimo, che compie benefici di bontà, che possiede tutto, che ricorda i benefici dei padri e porta un redentore ai figli dei loro figli per amore del Suo nome, Re che aiuta, salva e scuda. Benedetto sei Tu, Eterno, scudo di Avraham.»"
+    },
+    {
+      "n": 3,
+      "he": "אַתָּה גִּבּוֹר לְעוֹלָם אֲדֹנָי מְחַיֵּה מֵתִים אַתָּה רַב לְהוֹשִׁיעַ…",
+      "it": "(2ª benedizione — Ghevurot) «Tu sei potente per sempre, Signore, fai rivivere i morti, grande sei nel salvare. [In estate:] fa scendere la rugiada. [In inverno:] fa soffiare il vento e scende la pioggia. Nutre i viventi con bontà, fa rivivere i morti con grande misericordia, sostiene i cadenti e guarisce gli ammalati e scioglie i prigionieri e mantiene la Sua fedeltà a coloro che dormono nella polvere. Chi è come Te, Signore di potenze, e chi Ti assomiglia — Re che fa morire e vivere e fa germogliare la salvezza? E sei fedele nel far rivivere i morti. Benedetto sei Tu, Eterno, che fa rivivere i morti.»"
+    },
+    {
+      "n": 4,
+      "he": "אַתָּה קָדוֹשׁ וְשִׁמְךָ קָדוֹשׁ וּקְדוֹשִׁים בְּכָל יוֹם יְהַלְלוּךָ…",
+      "it": "(3ª benedizione — Kedushah) «Tu sei santo e il Tuo nome è santo, e i santi ogni giorno Ti lodano. Benedetto sei Tu, Eterno, il D-o santo.»"
+    },
+    {
+      "n": 5,
+      "he": "אַתָּה חוֹנֵן לְאָדָם דַּעַת וּמְלַמֵּד לֶאֱנוֹשׁ בִּינָה…",
+      "it": "(4ª benedizione — Daat) «Tu concedi all'uomo la conoscenza e insegni all'essere umano la comprensione. Concedici da Te conoscenza, comprensione e intelligenza. Benedetto sei Tu, Eterno, che concede la conoscenza.»"
+    },
+    {
+      "n": 6,
+      "he": "הֲשִׁיבֵנוּ אָבִינוּ לְתוֹרָתֶךָ…",
+      "it": "(5ª benedizione — Teshuvà) «Riportaci, Padre nostro, alla Tua Torah, e avvicinaci, Re nostro, al Tuo servizio, e facci tornare in piena teshuvà davanti a Te. Benedetto sei Tu, Eterno, che vuole la teshuvà.»"
+    },
+    {
+      "n": 7,
+      "he": "סְלַח לָנוּ אָבִינוּ כִּי חָטָאנוּ…",
+      "it": "(6ª benedizione — Selichà) «Perdonaci, Padre nostro, poiché abbiamo peccato; assolvici, Re nostro, poiché ci siamo ribellati; poiché Tu sei buono e perdoni. Benedetto sei Tu, Eterno, molto misericordioso e che perdona.»"
+    },
+    {
+      "n": 8,
+      "he": "רְאֵה בְעָנְיֵנוּ וְרִיבָה רִיבֵנוּ…",
+      "it": "(7ª benedizione — Ghe'ulà) «Guarda la nostra miseria e combatti la nostra battaglia e redimici presto per il Tuo nome. Benedetto sei Tu, Eterno, redentor d'Israele.»"
+    },
+    {
+      "n": 9,
+      "he": "רְפָאֵנוּ יְיָ׳‎ וְנֵרָפֵא…",
+      "it": "(8ª benedizione — Refu'à) «Guariscici, Eterno, e saremo guariti; salvaci e saremo salvati, poiché Tu sei la nostra lode e fai salire la guarigione completa a tutti i nostri dolori… Benedetto sei Tu, Eterno, che guarisce i malati del Suo popolo Israele.»"
+    },
+    {
+      "n": 10,
+      "he": "בָּרֵךְ עָלֵינוּ יְיָ׳‎ אֱלֹהֵינוּ אֶת הַשָּׁנָה הַזֹּאת…",
+      "it": "(9ª benedizione — Birkat HaShanim) «Benedici per noi, Eterno nostro D-o, quest'anno e tutti i suoi tipi di prodotti per il bene, [e fa scendere la rugiada in estate / e dà rugiada e pioggia in inverno] sulla faccia della terra; e sazia il mondo dalla Tua bontà, e benedici il nostro anno come gli anni buoni. Benedetto sei Tu, Eterno, che benedice gli anni.»"
+    },
+    {
+      "n": 11,
+      "he": "תְּקַע בְּשׁוֹפָר גָּדוֹל לְחֵרוּתֵנוּ…",
+      "it": "(10ª benedizione — Kibbutz Galuyot) «Suona il grande shofar per la nostra libertà, e innalza l'insegna per raccogliere i nostri esuli, e raccoglici tutti insieme dai quattro angoli della terra. Benedetto sei Tu, Eterno, che raccoglie i dispersi del Suo popolo Israele.»"
+    },
+    {
+      "n": 12,
+      "he": "הָשִׁיבָה שׁוֹפְטֵינוּ כְּבָרִאשׁוֹנָה…",
+      "it": "(11ª benedizione — Mishpat) «Ripristina i nostri giudici come in antico e i nostri consiglieri come all'inizio, e rimuovi da noi il dolore e il gemito, e regna Tu su di noi, Tu solo, con bontà e misericordia, e giustificaci nel giudizio. Benedetto sei Tu, Eterno, Re che ama la giustizia e il diritto.»"
+    },
+    {
+      "n": 13,
+      "he": "וְלַמַּלְשִׁינִים אַל תְּהִי תִקְוָה…",
+      "it": "(12ª benedizione — Minim) «E per i calunniatori non vi sia speranza, e tutti i miscredenti periscano in un istante, e tutti i nemici del Tuo popolo siano presto recisi, e i malvagi sradicali, infrangili, abbattili e umilili presto ai nostri giorni. Benedetto sei Tu, Eterno, che infrange i nemici e umilia i superbi.»"
+    },
+    {
+      "n": 14,
+      "he": "עַל הַצַּדִּיקִים וְעַל הַחֲסִידִים…",
+      "it": "(13ª benedizione — Tzaddikim) «Sui giusti e sui pii e sui anziani del Tuo popolo della casa d'Israele, e sui resti dei loro scribi e sui proseliti giusti e su di noi, sia la Tua misericordia, Eterno nostro D-o, e dà buona ricompensa a tutti coloro che confidano nel Tuo nome in verità… Benedetto sei Tu, Eterno, sostegno e sicurezza dei giusti.»"
+    },
+    {
+      "n": 15,
+      "he": "וְלִירוּשָׁלַיִם עִירְךָ בְּרַחֲמִים תָּשׁוּב…",
+      "it": "(14ª benedizione — Binyan Yerushalayim) «E a Gerusalemme Tua città torna con misericordia, e abita in essa come hai detto, e costruisci presto ai nostri giorni un edificio eterno, e il trono di Davide stabilisci al più presto in essa. Benedetto sei Tu, Eterno, costruttore di Gerusalemme.»"
+    },
+    {
+      "n": 16,
+      "he": "אֶת צֶמַח דָּוִד עַבְדְּךָ מְהֵרָה תַצְמִיחַ…",
+      "it": "(15ª benedizione — Malkhut Beit David) «Il germoglio di Davide Tuo servo fa presto germogliare, e la sua forza innalza con la Tua salvezza, poiché aspettiamo la Tua salvezza tutto il giorno. Benedetto sei Tu, Eterno, che fa germogliare la salvezza.»"
+    },
+    {
+      "n": 17,
+      "he": "שְׁמַע קוֹלֵנוּ יְיָ׳‎ אֱלֹהֵינוּ…",
+      "it": "(16ª benedizione — Shomea Tefillah) «Ascolta la nostra voce, Eterno nostro D-o, abbi pietà di noi e accetta con misericordia e favore la nostra preghiera, poiché Tu sei un D-o che ascolta preghiere e suppliche; e dalla Tua presenza, Re nostro, non ci rimandare a mani vuote. Benedetto sei Tu, Eterno, che ascolta la preghiera.»"
+    },
+    {
+      "n": 18,
+      "he": "רְצֵה יְיָ׳‎ אֱלֹהֵינוּ בְּעַמְּךָ יִשְׂרָאֵל וּבִתְפִלָּתָם…",
+      "it": "(17ª benedizione — Avodah / Retze) «Gradisci, Eterno nostro D-o, il Tuo popolo Israele e la loro preghiera, e ripristina il servizio al Tuo santuario; e i sacrifici a fuoco d'Israele e la loro preghiera accetta con amore e favore, e sia gradito a Te sempre il servizio d'Israele Tuo popolo. E i nostri occhi vedano il Tuo ritorno a Tzion con misericordia. Benedetto sei Tu, Eterno, che ripristina la Sua Shekhinà a Tzion.»"
+    },
+    {
+      "n": 19,
+      "he": "מוֹדִים אֲנַחְנוּ לָךְ שָׁאַתָּה הוּא יְיָ׳‎ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ…",
+      "it": "(18ª benedizione — Hodaah) «Ti rendiamo grazie, poiché Tu sei l'Eterno nostro D-o e il D-o dei nostri padri per sempre e in eterno; roccia della nostra vita, scudo della nostra salvezza, Tu sei di generazione in generazione. Ti loderemo e narreremo le Tue lodi per la nostra vita che è affidata nelle Tue mani, e per le nostre anime affidate a Te, e per i Tuoi miracoli che sono con noi ogni giorno, e per le Tue meraviglie e benefici che sono in ogni tempo — sera, mattina e mezzogiorno. Che Tu sei buono, poiché le Tue misericordie non finiscono; misericordioso, poiché le Tue bontà non vengono meno — da sempre speravamo in Te. E per tutto ciò sia benedetto e sublimato il Tuo nome, Re nostro, sempre e in eterno. E tutti i viventi Ti rendano grazie, selà, e lodino il Tuo nome in verità, il D-o nostra salvezza e nostro aiuto, selà. Benedetto sei Tu, Eterno, "Tov" è il Tuo nome e a Te si conviene rendere grazie.»"
+    },
+    {
+      "n": 20,
+      "he": "שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חֵן וָחֶסֶד וְרַחֲמִים…",
+      "it": "(19ª benedizione — Birkat Shalom) «Poni pace, bontà e benedizione, grazia, bontà e misericordia su di noi e su tutto Israele Tuo popolo. Benedicici, Padre nostro, tutti insieme con la luce del Tuo volto, poiché con la luce del Tuo volto ci hai dato, Eterno nostro D-o, la Torah della vita e l'amore della bontà e la giustizia e la benedizione e la misericordia e la vita e la pace. E sia bello ai Tuoi occhi benedire il Tuo popolo Israele in ogni tempo e in ogni ora con la Tua pace. Benedetto sei Tu, Eterno, che benedice il Suo popolo Israele con la pace.»"
+    },
+    {
+      "n": 21,
+      "he": "יִהְיוּ לְרָצוֹן אִמְרֵי פִי…",
+      "it": "«Siano gradite le parole della mia bocca e la meditazione del mio cuore davanti a Te, Eterno, mia roccia e mio redentore.»"
+    },
+    {
+      "n": 22,
+      "he": "אֱלֹהַי נְצוֹר לְשׁוֹנִי מֵרָע…",
+      "it": "«Mio D-o, custodisci la mia lingua dal male e le mie labbra dalla menzogna ingannatrice. E a coloro che mi maledicono la mia anima sia silenziosa e come la polvere a tutti. Apri il mio cuore alla Tua Torah e dietro i Tuoi comandamenti corri la mia anima… Sia gradita dinanzi a Te, Eterno mio D-o e D-o dei miei padri, che non vi siano inciampi per me e per coloro che mi amano, e che da me non vengano inciampi per tutta la comunità d'Israele in questa generazione. Sia la parola della mia bocca e la meditazione del mio cuore gradita davanti a Te, Eterno, mia roccia e mio redentore.»"
+    },
+    {
+      "n": 23,
+      "he": "וְאַחַר כָּךְ מִשְׁתַּחֲוֶה וְיוֹצֵא…",
+      "it": "Dopo di ciò [chi ha pregato] si inchina e va. Come si inchina [nell'Amidah]: nella prima benedizione si inchina al «Benedetto» e si raddrizza al [pronunciare il] Nome. Nella benedizione del ringraziamento [Hodaah] si inchina al «Ti rendiamo grazie» e si raddrizza al [pronunciare il] Nome. [Si aggiunge anche il testo del ritiro dalla preghiera e dell'uscita.]"
+    },
+    {
+      "n": 24,
+      "he": "נֹסַח הַקְּדֻשָּׁה שֶׁאוֹמְרִים בְּשַׁחֲרִית…",
+      "it": "Il testo della Kedushah che si recita a Shacharit: «Ti consacreremo e Ti santificheremo con il testo del Kedushah degli angeli santi, che consacrano il Tuo nome nel luogo sacro del Tuo servizio, come è scritto dall'opera del Tuo profeta [Yechezkel]: "E uno chiamava l'altro e diceva: Santo, Santo, Santo è il Signore degli eserciti, tutta la terra è piena della Sua gloria." Quelli davanti a loro rispondono con lode: "Benedetta la gloria del Signore dal Suo luogo." E nelle Tue Parole Sante è scritto: "Il Signore regnerà in eterno, il tuo D-o, o Tzion, di generazione in generazione, alleluia."»"
+    },
+    {
+      "n": 25,
+      "he": "וְנֹסַח קְדֻשַּׁת שְׁחָרִית…",
+      "it": "E il testo della Kedushah di Shacharit [nella ripetizione del chazzan]: [Testo completo della Kedushah con i versetti di Yeshayahu, Yechezkel e Tehillim, come nella tradizione della comunità.]"
+    },
+    {
+      "n": 26,
+      "he": "וְנֹסַח קְדֻשַּׁת מוּסָף…",
+      "it": "E il testo della Kedushah di Mussaf: [Include il testo con «Nekadesh» o «Keter» secondo il rito. Termina con «L'Eterno regnerà in eterno, il tuo D-o, o Tzion, di generazione in generazione — alleluia.»]"
+    },
+    {
+      "n": 27,
+      "he": "וְנֹסַח תְּחִנּוּן שֶׁאוֹמְרִים אַחַר הַתְּפִלָּה…",
+      "it": "E il testo della supplica (Tachanun) che si recita dopo la preghiera: «Signore degli eserciti, D-o d'Israele, che siede sui cherubini, Tu solo sei il D-o di tutti i regni della terra; Tu hai fatto il cielo e la terra. Inclina, Eterno, il Tuo orecchio e ascolta; apri, Eterno, i Tuoi occhi e guarda…» e il resto della preghiera di Chizkiyahu [da Yeshayahu], che era solito recitarsi in ginocchio con la faccia verso terra [in Eretz Yisrael]."
+    },
+    {
+      "n": 28,
+      "he": "וּבְחוּצָה לָאָרֶץ אֵין נוֹפְלִין עַל פְּנֵיהֶם…",
+      "it": "E fuori dalla Terra d'Israele non ci si prostra [con la faccia verso terra] ma ci si inclina soltanto. Il testo che si recita nella supplica: «Davide disse: Ho peccato molto; Eterno, perdona per favore la colpa del Tuo servo, poiché ho agito molto follemente. [Nefilat apayim — caduta del volto] Misericordioso e pietoso, ho peccato davanti a Te; Eterno, pieno di misericordia, abbi pietà di me e ricevi le mie suppliche.»"
+    },
+    {
+      "n": 29,
+      "he": "וְנֹסַח תְּפִלַּת שַׁחֲרִית שֶׁל שַׁבָּת וְיוֹם טוֹב…",
+      "it": "E il testo dell'Amidah di Shacharit di Shabbat e Yom Tov: si dice la benedizione del mezzo appropriata al giorno. Abbiamo già detto [nelle leggi della preghiera] che di Shabbat e Yom Tov si dice in ogni preghiera sette benedizioni — le tre iniziali e le tre finali come nei giorni feriali, e una benedizione di mezzo che cambia secondo il giorno [come dettagliato nel capitolo 3]."
+    },
+    {
+      "n": 30,
+      "he": "וְנֹסַח יַעֲלֶה וְיָבוֹא…",
+      "it": "E il testo di Ya'aleh VeYavo: «Il nostro D-o e D-o dei nostri padri, salga, venga e arrivi, e sia visto e ascoltato e menzionato e ricordato il nostro ricordo e il ricordo dei nostri padri, e il ricordo del Messia figlio di Davide Tuo servo, e il ricordo di Gerusalemme Tua santa città, e il ricordo di tutto il Tuo popolo della casa d'Israele, davanti a Te per la salvezza e per il bene, per grazia e per bontà e per misericordia, per vita e per pace, in questo giorno di [Rosh Chodesh / Pesach / Shavuot / Sukkot…]. Ricordaci, Eterno nostro D-o, in esso per il bene, e visitaci in esso per la benedizione, e salvaci in esso per la vita buona; e con la parola della salvezza e della misericordia abbi pietà e sii misericordioso con noi e salvaci, poiché a Te guardano i nostri occhi, poiché El Melech chanun verachum atta.»"
+    },
+    {
+      "n": 31,
+      "he": "וְנֹסַח תְּפִלַּת מַעֲרִיב…",
+      "it": "E il testo dell'Amidah di Ma'ariv [è identico a quello di Shacharit, con le opportune variazioni per il giorno, come indicato nelle singole benedizioni]."
+    },
+    {
+      "n": 32,
+      "he": "וְנֹסַח תְּפִלַּת מִנְחָה…",
+      "it": "E il testo dell'Amidah di Mincha [è identico a quello di Shacharit, e di Shabbat si recita la benedizione di mezzo del Shabbat]."
+    },
+    {
+      "n": 33,
+      "he": "וְנֹסַח תְּפִלַּת מוּסָף שֶׁל שַׁבָּת…",
+      "it": "E il testo dell'Amidah di Mussaf di Shabbat: la benedizione di mezzo è «Tikanta Shabbat» come dettagliato nel capitolo 3."
+    },
+    {
+      "n": 34,
+      "he": "וְנֹסַח תְּפִלַּת נְעִילָה…",
+      "it": "E il testo dell'Amidah di Ne'ilah [della chiusura dello Yom Kippur]: si recitano le tre benedizioni iniziali e le tre finali come di consueto, e la benedizione di mezzo è la Kedushah speciale del giorno."
+    },
+    {
+      "n": 35,
+      "he": "וְנֹסַח בִּרְכַּת כֹּהֲנִים…",
+      "it": "E il testo della Birkat Kohanim (benedizione sacerdotale): «L'Eterno ti benedica e ti protegga. L'Eterno illumini il Suo volto su di te e ti sia propizio. L'Eterno volga il Suo volto verso di te e ti conceda la pace.» [Numeri 6:24-26]"
+    },
+    {
+      "n": 36,
+      "he": "וְנֹסַח הַהַבְדָּלָה…",
+      "it": "E il testo della Havdalah [al termine di Shabbat e Yom Tov]: «Benedetto sei Tu, Eterno nostro D-o, Re del mondo, che distingue tra il sacro e il profano, tra la luce e le tenebre, tra Israele e le nazioni, tra il settimo giorno e i sei giorni lavorativi. Benedetto sei Tu, Eterno, che distingue tra il sacro e il profano.»"
+    },
+    {
+      "n": 37,
+      "he": "נָהֲגוּ מִקְצָת הָעָם לִקְרֹא בְּכָל יוֹם אַחַר תַּחֲנוּנִים שִׁיר מִזְמוֹר שֶׁהָיוּ הַלְוִיִּם אוֹמְרִים בְּבֵית הַמִּקְדָּשׁ…",
+      "it": "Parte del popolo è solita recitare ogni giorno dopo le suppliche il salmo che i Leviti erano soliti cantare nel Tempio in quel giorno [il salmo corrispondente al giorno della settimana]. Recitano [anche] «Lecha Dodi» [ossia il salmo 25, «A Te, Eterno, elevo la mia anima»]. Ed è già stato detto in questo libro che di Shabbat e Yom Tov si recitano sette benedizioni in ogni preghiera — le tre iniziali, le tre finali e una benedizione di mezzo secondo il giorno."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Amidah", "Kedushah", "Tachanun", "Birkat Kohanim", "Havdalah", "Ya'aleh VeYavo", "Ne'ilah", "Mussaf", "Shacharit", "Ma'ariv", "Mincha", "Pesukei DeZimra", "teshuvà"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Sotah 2",
+  "name_he": "משנה תורה, הלכות סוטה, פרק ב",
+  "name_it": "Mishneh Torah, Leggi della Sotah, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-13",
+  "hebrew_date": "2 Cheshvan 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד עוֹשִׂין לָהּ — מְבִיאִין אוֹתָהּ לְבֵית דִּין גָּדוֹל שֶׁבִּירוּשָׁלַיִם…",
+      "it": "Come si svolge la procedura? Si porta la donna al Grande Sanhedrin di Gerusalemme (il Tempio era il luogo della procedura). Il kohen (sacerdote) prende della polvere del pavimento del Tabernacolo (Tempio) e la mette nell'acqua. Poi scrive il testo della maledizione su un rotolo, vi include il Nome Divino, e scioglie la scrittura nell'acqua — permettendo al Nome Divino di essere cancellato nell'acqua per il bene della pace coniugale. Questo è uno dei rarissimi casi in cui la Torah permette la cancellazione del Nome Divino."
+    },
+    {
+      "n": 2,
+      "he": "הַכֹּהֵן כּוֹתֵב אֶת הַפָּרָשָׁה — בְּכָל לָשׁוֹן שֶׁהִיא מְבִינָה…",
+      "it": "Il kohen scrive la parasha (il testo della sotah, Num. 5:19-22) nella lingua che la donna capisce — perché deve capire il testo della maledizione che accetta su di sé. Poi la fa giurare: «Giuro che non mi sono resa impura e che non mi sono unita ad altri; se mi sono resa impura — queste acque mi colpiscano». La donna risponde «Amen, Amen» — una volta per la condizione positiva e una volta per quella negativa."
+    },
+    {
+      "n": 3,
+      "he": "וְאַחַר כָּךְ מֵבִיא אֶת קָרְבַּן הַסּוֹטָה…",
+      "it": "Dopo il giuramento, la donna porta la sua offerta (korban sotah): un decimo di efah di farina d'orzo — offerta dei poveri, senza olio né incenso, perché il suo atto è stato «atto oscuro» (ma'aseh keheh). Il kohen la pone nella mano della donna e la agita (menufah). Poi la porta sull'altare e ne brucia un pugno (kometz) sull'altare. Poi le dà a bere le acque amare (mei ha-marim)."
+    },
+    {
+      "n": 4,
+      "he": "כֵּיצַד שׁוֹתָה — שׁוֹתָה בְּבֵית הַמִּקְדָּשׁ בִּפְנֵי הַכֹּהֵן…",
+      "it": "Come beve? Beve le acque amare nel Tempio davanti al kohen. Prima di darle da bere, il kohen scuote i capelli della donna (pore'a rosho) — questo è un segno di umiliazione pubblica, in quanto una donna ebrea copre normalmente i capelli in pubblico. Le vengono anche sciolti i vestiti — non in modo indecente ma sufficiente a umiliarla davanti al pubblico. Questo serve da deterrente per altre donne che considerassero la condotta immorale."
+    },
+    {
+      "n": 5,
+      "he": "מֵי הַמָּרִים בּוֹדְקִין אוֹתָהּ בֵּין מִיָּד בֵּין לְאַחַר זְמַן…",
+      "it": "Le acque amare la esaminano — sia immediatamente che nel tempo. Se è colpevole: il suo ventre si gonfia (vatzivu bitna), la sua coscia cade (venafla yerechah), e muore. Se è innocente: rimane illesa e anzi viene benedetta con fertilità (Num. 5:28). Il Rambam sottolinea che questo è un miracolo esplicito (nes galui) — la Torah ha permesso una deviazione dal corso naturale per proteggere il matrimonio e la purezza familiare (taharas ha-mishpachah)."
+    },
+    {
+      "n": 6,
+      "he": "הָיְתָה יְדוּעָה שֶׁהִיא חוֹטֵאת — אֵין הַמַּיִם בּוֹדְקִין אוֹתָהּ…",
+      "it": "Se la donna era già nota pubblicamente come adultera — le acque non la esaminano (non la puniscono immediatamente). Le acque esaminano solo chi mantiene un dubbio genuino. Analogamente: se la donna aveva studiato Torah (e aveva quindi un grande «zechus» — merito) — il merito può sospendere la punizione per un anno, due anni, o anche tre anni, secondo il Talmud (Sotah 3a). Questo insegnamento serve da incentivo allo studio della Torah per le donne."
+    }
+  ],
+  "_glossary_terms_used": [
+    "sotah", "kohen", "mei ha-marim", "korban sotah", "menufah", "kometz", "pore'a rosho", "nes galui", "taharas ha-mishpachah", "zechus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 20",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כ",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 20",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-22",
+  "hebrew_date": "13 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְאַף גַּם זֹאת — הִנֵּה כָּל מִצְוָה שֶׁעוֹשֶׂה אָדָם בְּכַוָּנָה — מַמְשִׁיךְ אוֹר אֵין סוֹף…",
+      "it": "Ogni mitzvah che una persona compie con intenzione (kavvanah) — attira «luce infinita» (ohr ein sof) nel mondo. L'Alter Rebbe elabora: una mitzvah non è semplicemente un atto morale o una tradizione culturale. È il Volere di D-o stesso (ratzon Hashem), e poiché il Volere di D-o è infinito e illimitato, ogni singola mitzvah porta nel mondo un flusso di infinità. Persino la mitzvah che sembra piccola — una preghiera, una moneta di tzedakah, un momento di studio — porta luce infinita."
+    },
+    {
+      "n": 2,
+      "he": "וְאַף מִצְוָה שֶׁנַּעֲשֵׂית בְּלֹא כַּוָּנָה שְׁלֵמָה — יֵשׁ בָּהּ עֵרֶךְ עֲצוּם…",
+      "it": "Anche una mitzvah compiuta senza kavvanah completa — ha un valore immenso. L'Alter Rebbe si rivolge alla persona ordinaria che spesso esegue le mitzvot in modo routinario, senza il fuoco della contemplazione. Egli non la scoraggia, anzi la incoraggia: persino la mitzvah «meccanica» del beinoni è preziosa, perché l'atto fisico in sé — il fatto materiale del fare la mitzvah — è già connesso al Volere di D-o. La kavvanah aggiunge profondità, ma non è condizione necessaria per la validità e il valore fondamentale."
+    },
+    {
+      "n": 3,
+      "he": "וְלָכֵן אָמְרוּ — מִצְוָה גּוֹרֶרֶת מִצְוָה…",
+      "it": "I Saggi hanno detto: «Una mitzvah trae un'altra mitzvah» (mitzvah goreret mitzvah — Pirkei Avot 4:2). L'Alter Rebbe spiega questo alla luce del capitolo: poiché ogni mitzvah porta luce divina nel mondo e rafforza la connessione al Volere di D-o, compiere una mitzvah crea naturalmente un ambiente spirituale in cui diventa più facile compiere la mitzvah successiva. Il servizio divino ha un effetto cumulativo e progressivo: non si rimane mai nello stesso posto — si cresce sempre, anche impercettibilmente."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mitzvah", "kavvanah", "ohr ein sof", "ratzon Hashem", "tzedakah", "beinoni", "mitzvah goreret mitzvah"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shemitah VeYovel 12-13; Hilchot Beit HaBechira 1",
+  "name_he": "משנה תורה, הלכות שמיטה ויובל פרקים יב–יג; הלכות בית הבחירה פרק א",
+  "name_it": "Mishneh Torah, Leggi dello Shemitah e Giubileo cap.12–13; Leggi della Casa Prescelta cap.1",
+  "cycle": "rambam-3",
+  "date": "2026-06-29",
+  "hebrew_date": "14 Tammuz 5786",
+  "halachot_count": 31,
+  "halachot": [
+    {
+      "n": "12:1",
+      "he": "כֵּיצַד חוֹזֶרֶת הַשָּׂדֶה לַבְּעָלִים בַּיּוֹבֵל...",
+      "it": "Come la terra ritorna ai suoi proprietari nel Yovel: alla proclamazione del Yovel, tutti i campi venduti durante i quarantanove anni precedenti ritornano automaticamente alle famiglie originali. Non è necessario alcun atto formale di restituzione — la restituzione avviene ex lege (di diritto). L'acquirente non riceve indennizzo aggiuntivo oltre al prezzo pro-rata calcolato al momento della vendita."
+    },
+    {
+      "n": "12:2-5",
+      "he": "כֵּיצַד מְחַשְּׁבִין אֶת דְּמֵי הַשָּׂדֶה...",
+      "it": "Come si calcola il prezzo del campo: il valore di un campo dipende dal numero di anni rimanenti fino al prossimo Yovel. 'Al pi mispar shnei ha-tarot' — secondo il numero degli anni di produzione. Se si acquista un campo quando restano 20 anni al Yovel, si paga per 20 anni di uso. Se restano solo 5 anni, si paga per 5. Il prezzo è quindi un affitto a lungo termine, non una vendita permanente."
+    },
+    {
+      "n": "12:6-9",
+      "he": "בָּתֵּי עָרֵי חוֹמָה...",
+      "it": "Le case nelle città murate (batei arei chomah): a differenza dei campi, le case nelle città circondate da mura al momento della conquista di Giosuè (e ancora murate) hanno un regime di riacquisto di solo un anno. Se non vengono riscattate entro un anno dalla vendita, rimangono all'acquirente anche nel Yovel. Questo valorizza la permanenza della residenza urbana rispetto alla terra agricola."
+    },
+    {
+      "n": "12:10-13",
+      "he": "בָּתֵּי עָרֵי חוֹמָה שֶׁנָּמְכְרוּ...",
+      "it": "Le case nelle città murate vendute: il venditore ha un anno per riscattarle. Se l'acquirente cerca di impedire il riscatto all'ultimo momento (come nascondendosi), il venditore può depositare il denaro in Bet Din e la casa ritorna. La legge vuole proteggere la possibilità di riscatto e non permettere all'acquirente di sabotarla."
+    },
+    {
+      "n": "13:1-5",
+      "he": "סִפְרֵי הַסְּפִירוֹת...",
+      "it": "La conta degli anni di shemitah e Yovel: si conta sette-sette anni e poi il cinquantesimo è Yovel. La conta inizia dall'entrata in Terra d'Israele. Il Rambam discute se il Yovel fosse applicato solo quando tutti i dodici tribù d'Israele vivevano nella Terra. La scomparsa delle dieci tribù nel regno settentrionale (dopo il 722 a.e.v.) fece cessare di fatto il Yovel."
+    },
+    {
+      "n": "13:6-9",
+      "he": "יוֹבֵל נוֹהֵג רַק כְּשֶׁכָּל יִשְׂרָאֵל עַל אַדְמָתָם...",
+      "it": "Il Yovel si applica solo quando tutto Israele si trova sulla sua terra: 'Ve-keratem deror ba-aretz lechol yoshveia' — proclamerete la libertà per tutti i suoi abitanti (Levitico 25:10). Il Rambam deduce: solo quando tutti gli abitanti si trovano nella terra. Si conclude qui il libro di Zeraim con le Leggi dello Shemitah e del Giubileo — Si concludono le Leggi dello Shemitah e del Giubileo."
+    },
+    {
+      "n": "1:1",
+      "he": "מִצְוַת עֲשֵׂה לַעֲשׂוֹת בֵּית לַה'...",
+      "it": "Hilchot Beit HaBechira — Leggi della Casa Prescelta (il Tempio): il primo capitolo del Sefer Avodah (Libro del Servizio del Tempio). C'è un commandamento positivo di costruire il Beit HaMikdash (Tempio Sacro) — 'Ve-asu li mikdash ve-shachanti betocham' (Esodo 25:8). Il Rambam apre questo libro con il concetto fondamentale: il Tempio è il luogo dove la Shekhinah dimora in modo rivelato."
+    },
+    {
+      "n": "1:2-4",
+      "he": "אֵין בּוֹנִין אוֹתוֹ אֶלָּא בִּירוּשָׁלַיִם...",
+      "it": "Il Tempio può essere costruito solo a Gerusalemme: specificatamente sul Monte Moriah (Har HaMoriah), dove Abramo ha legato Isacco (la Akeidah), e dove il re David ha comprato l'aia di Aravnah il Yevusita. La scelta del luogo non è arbitraria — è determinata dalla Torah e dalla tradizione dei Profeti. Il luogo dell'altare è fisso per l'eternità."
+    },
+    {
+      "n": "1:5-9",
+      "he": "מִדּוֹת הַר הַבַּיִת...",
+      "it": "Le misure del Monte del Tempio (Har HaBayit): il Rambam descrive il complesso del Tempio. La piazza del Monte del Tempio è 500 amot per 500 amot (un quadrato di circa 250 metri per lato). All'interno vi sono diversi recinti con diversi livelli di santità, culminando nel Heichal (Santuario) e nel Kodesh HaKodashim (Santo dei Santi)."
+    },
+    {
+      "n": "1:10-14",
+      "he": "הַהֵיכָל וְהָאוּלָם...",
+      "it": "Il Heichal (Santuario principale) e l'Ulam (vestibolo): le misure del Tempio di Salomone e del Tempio di Erode (Secondo Tempio) vengono comparate. Il Terzo Tempio (il futuro Beit HaMikdash) sarà secondo la profezia di Ezechiele, le cui misure il Rambam citerà nei capitoli successivi. Il Rambam descrive con precisione millimetrica le proporzioni degli spazi sacri."
+    }
+  ],
+  "_glossary_terms_used": ["Yovel", "shemitah", "batei arei chomah", "Beit HaMikdash", "Har HaBayit", "Har HaMoriah", "Heichal", "Kodesh HaKodashim", "Shekhinah", "Akeidah", "Ulam", "Sefer Avodah", "deror"]
+}

@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 9",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק ט",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 9",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-11",
+  "hebrew_date": "2 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַבֵּינוֹנִי — לֹא עָשָׂה עֲבֵרָה מִיָּמָיו…",
+      "it": "Il capitolo 9 presenta la definizione tecnica e rigorosa del beinoni — uno dei contributi più originali dell'Alter Rebbe alla filosofia ebraica. Il beinoni NON è «a metà strada» tra tzaddik e rasha. La definizione precisa: il beinoni è colui che non ha MAI commesso un peccato nell'azione (ma'aseh), nella parola (dibbur), o nel pensiero con consenso (machshava be-ratzon) in tutta la sua vita. «Be-ratzon» (con consenso deliberato) è la chiave: pensieri di peccato passano per la sua mente, ma non vi acconsente."
+    },
+    {
+      "n": 2,
+      "he": "הַבֵּינוֹנִי — יֵצֶר הָרַע שֶׁלּוֹ לֹא נֶהְפָּךְ לְטוֹב…",
+      "it": "La nefesh ha-behamit del beinoni non è stata eliminata né trasformata — esiste ancora e genera tentazioni. La differenza tra beinoni e tzaddik: nel tzaddik, il male è stato trasformato in bene (be-ithapcha); nel beinoni, il male è controllato ma non trasformato. Il beinoni vive nella tensione costante — la sua nefesh ha-behamit spinge verso il basso, e la sua nefesh ha-Elohit controlla dall'alto. Ma il controllo non vacilla mai nei tre ambiti: azione, parola, pensiero con consenso."
+    },
+    {
+      "n": 3,
+      "he": "כָּל אֶחָד יָכוֹל לִהְיוֹת בֵּינוֹנִי…",
+      "it": "La grande rivelazione pratica del capitolo 9: il livello del beinoni è raggiungibile da OGNI ebreo — il Tanya è stato scritto per questo. Non ogni ebreo può diventare tzaddik — il tzaddik è un dono del Cielo. Ma ogni ebreo può diventare beinoni — con sforzo e determinazione. Quando il giuramento pre-natale (l'apertura del capitolo 1) dice «Hevei tzaddik» — i Saggi spiegano che si intende in realtà beinoni. Questo è il «derech ha-beinoni» — il cammino praticabile della vita ebraica autentica per la persona comune."
+    }
+  ],
+  "_glossary_terms_used": [
+    "beinoni", "tzaddik", "rasha", "ma'aseh", "dibbur", "machshava be-ratzon", "nefesh ha-behamit", "nefesh ha-Elohit", "be-ithapcha", "derech ha-beinoni", "Alter Rebbe"
+  ]
+}

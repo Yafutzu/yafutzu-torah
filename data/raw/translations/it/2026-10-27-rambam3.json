@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Shekhenim 1-3",
+  "name_he": "משנה תורה, הלכות שכנים, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi dei Vicini, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-10-27",
+  "hebrew_date": "16 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "1:1-6",
+      "he": "שְׁנַיִם שֶׁיֵּשׁ לָהֶם חָצֵר בְּשֻׁתָּפוּת — זֶה כּוֹפֶה אֶת זֶה לִבְנוֹת כּוֹתֶל…",
+      "it": "(Shekhenim cap. 1) Inizio di Hilchot Shekhenim (Leggi dei Vicini). Due persone che condividono un cortile in comproprietà: ognuno può obbligare l'altro a partecipare alla costruzione di un muro divisorio (kotel mechitzah) tra le loro rispettive sezioni. Il muro si costruisce al centro della proprietà condivisa, e le spese sono divise equamente. La regola: «kofin al middat sedom» — si obbliga l'uno l'altro a comportarsi secondo norme di civiltà e non con la durezza di Sodoma. Chi non vuole contribuire alla costruzione — il bet din può ordinarglielo."
+    },
+    {
+      "n": "2:1-7",
+      "he": "גְּדַר שֶׁבֵּין שְׁנֵי שָׂדוֹת — שְׁנֵיהֶם מַעֲלִים אֶת הַגָּדֵר…",
+      "it": "(Shekhenim cap. 2) Confini e muri tra campi (sadot): se tra due campi vi è un muro divisorio (geder) che minaccia di crollare — entrambi i vicini sono tenuti a ripararlo, ciascuno dalla sua parte. La chazakah (presunzione) nel contenzioso tra vicini: se un vicino afferma che il muro è suo — e l'altro afferma lo stesso — si divide equamente. Il principio fondamentale: «shekhenim dinin» — i vicini hanno doveri reciproci speciali che non esistono tra persone non contigue. La prossimità geografica crea responsabilità reciproche."
+    },
+    {
+      "n": "3:1-5",
+      "he": "הַחֲזָקָה — שָׁלֹשׁ שָׁנִים שֶׁהֶחֱזִיק בַּקַּרְקַע בְּשֶׁקֶט — מוּחְזָק בָּהּ…",
+      "it": "(Shekhenim cap. 3) Chazakah (acquisizione per uso non contestato): chi usa un campo o un bene immobile per tre anni consecutivi senza che il proprietario originale protesti — acquisisce una presunzione di proprietà (chazkat ba'alut). Dopo tre anni di uso non contestato, la chazakah ribalta l'onere della prova: ora è il rivendicante originale a dover provare la sua proprietà, mentre l'utente attuale è presumibilmente il proprietario. La chazakah si applica a terreni, case, diritti di passaggio, diritti d'acqua. Tre anni è il tempo standard fissato dai Saggi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Shekhenim", "kotel mechitzah", "kofin al middat sedom", "bet din", "geder", "chazakah", "chazkat ba'alut", "shekhenim dinin"
+  ]
+}

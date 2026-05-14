@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Issurei Biah 19",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק יט",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 19",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-03",
+  "hebrew_date": "23 Cheshvan 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "פּוֹרֵשׁ אָדָם מֵאִשְׁתּוֹ בְּיוֹם וֶסְתָּהּ…",
+      "it": "Un uomo si separa dalla moglie il giorno del suo veset (ciclo atteso). La separazione (prisha) deve avvenire con l'inizio dell'«onah» — il periodo di 24 ore corrispondente al momento in cui il ciclo è atteso. Se il veset cade di notte, la separazione inizia all'imbrunire; se cade di giorno, all'alba di quel giorno. La coppia deve astenersi completamente da qualsiasi contatto che la Torah proibisce durante la niddah."
+    },
+    {
+      "n": 2,
+      "he": "אוֹנָה בֵּינוֹנִית — שְׁלֹשִׁים יוֹם…",
+      "it": "L'«onah beinonit» (ciclo medio) — trenta giorni. Anche una donna che non ha ancora stabilito un veset regolare è soggetta all'obbligo di prisha ogni 30 giorni dall'ultimo ciclo. Questo è un decreto rabbinico basato sul ciclo medio di una donna sana. Il Rambam spiega: poiché la maggior parte delle donne ha un ciclo di circa 30 giorni, i Saggi hanno stabilito questa come la norma di base quando nessun veset specifico è stato stabilito."
+    },
+    {
+      "n": 3,
+      "he": "לֹא רָאֲתָה בְּיוֹם וֶסְתָּהּ — מַה יַּעֲשֶׂה…",
+      "it": "Se il ciclo non è arrivato nel giorno del veset atteso — come si ricalcola? La donna si esamina (bedikah) e constata che è pura. Può quindi riprendere le relazioni coniugali. Ma l'obbligo di prisha non è completamente eliminato: deve continuare a fare prisha per l'onah beinonit (il 30° giorno dall'ultimo ciclo) e per il veset ha-haflagah (il giorno calcolato secondo l'intervallo precedente), qualora questi cadano in giorni diversi dal veset ha-chodesh già passato senza insorgenza."
+    },
+    {
+      "n": 4,
+      "he": "הָיְתָה בָּהּ מַחֲלָה וְשָׁנְתָה וֶסְתָּהּ…",
+      "it": "Se una donna era malata e il suo ciclo è cambiato a causa della malattia — il veset precedentemente stabilito non viene automaticamente annullato. Deve aspettare che il nuovo schema si ripeta tre volte per stabilire un nuovo veset, e nel frattempo è tenuta a osservare la prisha sia per il vecchio veset sia per la nuova irregolarità. Lo stesso principio si applica in gravidanza e durante l'allattamento, durante i quali spesso il ciclo si interrompe — ma al suo ritorno va trattata come chi non ha ancora un veset stabilito."
+    },
+    {
+      "n": 5,
+      "he": "הַיּוֹשֶׁבֶת בַּדָּם — כָּל יְמֵי רְאִיָּתָהּ טְמֵאָה…",
+      "it": "La donna che vede sangue — tutti i giorni in cui vede è impura (temei'ah). Il conteggio dei sette giorni «beni'im» (giorni puliti) inizia solo dopo la cessazione completa dell'emorragia. Durante i giorni di conteggio, la donna si esamina mattina e sera per verificare che il sangue non sia ricomparso. Solo al termine del settimo giorno pulito, dopo bagno rituale (tevilah nel mikveh), la donna è tehorah (pura) e i rapporti coniugali sono nuovamente permessi."
+    },
+    {
+      "n": 6,
+      "he": "חִיּוּב הַפְּרִישָׁה עַל הַבַּעַל…",
+      "it": "L'obbligo di prisha ricade anche sul marito — non è solo un obbligo della moglie ricordare e osservare. Il marito deve essere attento e consapevole del ciclo della moglie, e deve prendere l'iniziativa di separarsi. Il Rambam enfatizza che questa mitzvah è fondamentale per la santità del matrimonio ebraico e per la continuità della kedushath ha-mishpachah (santità familiare). La coppia che osserva queste leggi con cura è descritta dai Saggi come degna di una progenie pura e sana."
+    }
+  ],
+  "_glossary_terms_used": [
+    "veset", "prisha", "onah", "onah beinonit", "bedikah", "tevilah", "mikveh", "tehorah", "temei'ah", "niddah", "kedushath ha-mishpachah"
+  ]
+}

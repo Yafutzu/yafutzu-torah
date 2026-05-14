@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Temidim UMusafim 6-8",
+  "name_he": "משנה תורה, הלכות תמידין ומוספין, פרקים ו-ח",
+  "name_it": "Mishneh Torah, Leggi dei Sacrifici Quotidiani e Aggiuntivi, capitoli 6-8",
+  "cycle": "rambam-3",
+  "date": "2026-07-19",
+  "hebrew_date": "5 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "מוּסַף הַפֶּסַח — שְׁנֵי פָּרִים, אַיִל אֶחָד, שִׁבְעָה כְּבָשִׂים, וּשְׂעִיר עִזִּים אֶחָד לְחַטָּאת — בְּכָל יוֹם מִשִּׁבְעַת יְמֵי הַחַג.",
+      "it": "Il Musaf di Pesach — due tori, un ariete, sette agnelli e un capro per il peccato — ogni giorno dei sette giorni della festa."
+    },
+    {
+      "n": "6:2",
+      "he": "בְּפֶסַח — אַרְבָּעָה עָשָׂר בְּנִיסָן שׁוֹחֲטִין אֶת קָרְבַּן פֶּסַח. וּמוּסַף פֶּסַח — מִיּוֹם חֲמִשָּׁה עָשָׂר.",
+      "it": "A Pesach — il quattordici di Nisan si macella il sacrificio pasquale (korban Pesach). Il Musaf di Pesach — dal quindicesimo giorno."
+    },
+    {
+      "n": "6:3",
+      "he": "חַג הַמַּצּוֹת — שִׁבְעַת יָמִים, וּמוּסָפִין בְּכָל יוֹם מֵהֶם.",
+      "it": "La festa degli Azzimi (Chag ha-Matzot) — sette giorni, con il Musaf ogni giorno."
+    },
+    {
+      "n": "7:1",
+      "he": "מוּסַף שָׁבוּעוֹת — שְׁנֵי פָּרִים, אַיִל אֶחָד, שִׁבְעָה כְּבָשִׂים תְּמִימִים, וּשְׂעִיר חַטָּאת.",
+      "it": "Il Musaf di Shavuot — due tori, un ariete, sette agnelli perfetti e un capro per il peccato."
+    },
+    {
+      "n": "7:2",
+      "he": "שְׁתֵּי הַלֶּחֶם — שְׁתֵּי חַלּוֹת חָמֵץ מִקֶּמַח חִטִּין, מְנֻפּוֹת וְנֶאֱפוֹת. מְנִיפִין אוֹתָן עִם שְׁנֵי כְּבָשִׂים שְׁלָמִים.",
+      "it": "I due pani (shtei ha-lechem) — due pani di lievito di farina di frumento, setacciati e cotti. Si agitano (tenufah) insieme a due agnelli interi (shelamim)."
+    },
+    {
+      "n": "7:3",
+      "he": "שְׁתֵּי הַלֶּחֶם — נֶאֱכָלִין לַכֹּהֲנִים. וְהַכְּבָשִׂים שֶׁלָּהֶן — קָדְשֵׁי קָדָשִׁים אוֹ קָדָשִׁים קַלִּים?",
+      "it": "I due pani vengono mangiati dai sacerdoti. Gli agnelli a essi associati — il loro grado di santità è discusso (secondo alcuni sono qodashim kalim — minore santità)."
+    },
+    {
+      "n": "8:1",
+      "he": "מוּסַף רֹאשׁ הַשָּׁנָה — שְׁנֵי פָּרִים, אַיִל אֶחָד, שִׁבְעָה כְּבָשִׂים, שְׂעִיר חַטָּאת.",
+      "it": "Il Musaf di Rosh Hashanah — due tori, un ariete, sette agnelli e un capro per il peccato."
+    },
+    {
+      "n": "8:2",
+      "he": "רֹאשׁ הַשָּׁנָה — יוֹם הַזִּכָּרוֹן, יוֹם תְּרוּעָה. תְּקִיעַת הַשּׁוֹפָר — מִצְוַת הַיּוֹם.",
+      "it": "Rosh Hashanah è il Giorno del Ricordo (Yom ha-Zikkaron), il giorno della fanfara (Yom Teruah). La teciat shofar è la mitzvah del giorno."
+    },
+    {
+      "n": "8:3",
+      "he": "מוּסַף רֹאשׁ הַשָּׁנָה — יֵשׁ בּוֹ שְׁלֹשָׁה פְּרָקִים בַּתְּפִלָּה: מַלְכֻיּוֹת, זִכְרוֹנוֹת, שׁוֹפָרוֹת.",
+      "it": "La preghiera Musaf di Rosh Hashanah — ha tre sezioni: Malchuyot (sovranità di Dio), Zichronot (memorie), Shofarot (versetti del shofar)."
+    }
+  ],
+  "_glossary_terms_used": ["Musaf", "korban Pesach", "Chag ha-Matzot", "shtei ha-lechem", "tenufah", "shelamim", "Rosh Hashanah", "shofar", "Malchuyot", "Zichronot", "Shofarot"]
+}

@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 18",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת יח",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera Sacra), lettera 18",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-27",
+  "hebrew_date": "12 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "תּוֹרָה שֶׁבִּכְתָב וְתוֹרָה שֶׁבְּעַל פֶּה...",
+      "it": "Lettera 18: L'Alter Rebbe affronta la relazione mistica tra la Torah Scritta (Torah she-bichtav) e la Torah Orale (Torah she-be'al peh). Entrambe sono necessarie per il servizio divino completo: la Torah Scritta rivela la Volontà Divina nella sua forma più concentrata, mentre la Torah Orale è la sua espansione e applicazione nella realtà del mondo."
+    },
+    {
+      "n": 2,
+      "he": "הַנְּשָׁמָה כְּמוֹ הַתּוֹרָה...",
+      "it": "L'anima (neshamah) è come la Torah: ha un 'testo scritto' (la dimensione essenziale e nascosta) e un 'testo orale' (la manifestazione nella vita quotidiana). Proprio come la Torah Scritta non è comprensibile senza la Torah Orale, l'anima non può servire pienamente Dio senza che la sua forza interiore (pnimi) si manifesti nelle azioni esterne (chitzon)."
+    },
+    {
+      "n": 3,
+      "he": "הֲלָכָה לְמֹשֶׁה מִסִּינַי...",
+      "it": "La 'halachah le-Moshe mi-Sinai' (legge trasmessa a Mosè dal Sinai, non scritta nella Torah) rivela come la Torah Orale sia parte essenziale della Rivelazione Divina originale. L'Alter Rebbe spiega che anche la dimensione più 'razionale' e tecnica della halachah è in realtà una manifestazione della Volontà Divina — non meno sacra della Torah Scritta."
+    },
+    {
+      "n": 4,
+      "he": "כָּל פְּרָט בַּהֲלָכָה הוּא רָצוֹן אֱלֹהִי...",
+      "it": "Ogni dettaglio della halachah è espressione della Volontà Divina (ratzon Elohi). Questa lettera è particolarmente significativa per il giorno di Yud-Beit (12) Tammuz — anniversario della liberazione del Rebbe Precedente (Rabbi Yosef Yitzchak Schneersohn) dalla prigione sovietica nel 1927. Come la Torah Orale non fu mai soppressa nonostante gli sforzi, così il Rebbe rimase fedele alla trasmissione della Torah anche sotto il regime comunista."
+    }
+  ],
+  "_glossary_terms_used": ["Torah she-bichtav", "Torah she-be'al peh", "halachah le-Moshe mi-Sinai", "neshamah", "pnimi", "chitzon", "ratzon Elohi", "Alter Rebbe", "Tanya", "Iggeret HaKodesh", "12 Tammuz"]
+}

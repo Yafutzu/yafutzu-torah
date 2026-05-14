@@ -1,0 +1,25 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 13",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת יג",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 13",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-05",
+  "hebrew_date": "24 Tishrei 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הַתְּשׁוּבָה וְהַתּוֹרָה — שְׁנֵי סַמֵּי חַיִּים לַנֶּפֶשׁ…",
+      "it": "La teshuvah (pentimento/ritorno) e la Torah sono i due «rimedi viventi» (samei chaim) per l'anima — come un medico che ha due medicine: una per chi è malato (teshuvah — per chi ha peccato) e una per chi vuole mantenersi in salute (Torah — per chi vuole crescere spiritualmente). L'Alter Rebbe riprende il Talmud (Kiddushin 30b): «Ho creato il Male e ho creato la Torah come rimedio». Il Male si riferisce all'istinto al male (yetzer ha-ra) — e il suo antidoto è specificamente lo studio della Torah."
+    },
+    {
+      "n": 2,
+      "he": "תּוֹרָה לִשְׁמָהּ — מְרַפֵּאת יוֹתֵר מִתּוֹרָה שֶׁלֹּא לִשְׁמָהּ…",
+      "it": "Torah lishmah (studiata per sé stessa, per la gloria di Dio) — guarisce più profondamente di Torah shelo lishmah (studiata per altri motivi — fama, onore, ricompensa). Tuttavia l'Alter Rebbe insegna con la sua nota misericordia: anche Torah shelo lishmah ha un enorme valore e eleva l'anima — «mitoch shelo lishmah ba lishmah» (dallo studio non-puro si arriva allo studio puro). Non si deve scoraggiare chi studia Torah anche per motivi misti — perché lo studio stesso purificherà gradualmente le sue motivazioni."
+    }
+  ],
+  "_glossary_terms_used": [
+    "teshuvah", "samei chaim", "yetzer ha-ra", "lishmah", "shelo lishmah", "mitoch shelo lishmah ba lishmah"
+  ]
+}

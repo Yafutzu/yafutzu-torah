@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Vows 10-12",
+  "name_he": "משנה תורה, הלכות נדרים, פרקים י-יב",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitoli 10-12",
+  "cycle": "rambam-3",
+  "date": "2026-05-25",
+  "hebrew_date": "9 Sivan 5786",
+  "halachot_count": 29,
+  "halachot": [
+    {
+      "n": "10:1",
+      "he": "מִי שֶׁנָּדַר וְחָרַם עַל הַצִּבּוּר — לֹא יִפְתַּח לוֹ הֶפְתֵּחַ מִפִּי הָעַצְמוֹ…",
+      "it": "(Cap. 10, hal. 1) Chi ha fatto un voto o un cherem (scomunica/dedicazione) sulla comunità (tzibbur) — il saggio non scioglie il voto solo su sua iniziativa; deve valutare se lo scioglimento serva all'interesse della comunità. Un voto fatto pubblicamente in presenza di dieci — è più grave da sciogliere e richiede la presenza di dieci per lo scioglimento (neder be-rabbim)."
+    },
+    {
+      "n": "10:2-5",
+      "he": "כֵּיצַד הַחֶרֶם. הָאוֹמֵר הֲרֵי פְּלוֹנִי בְּחֶרֶם…",
+      "it": "(Cap. 10, hal. 2-5) Come funziona il cherem (scomunica)? Chi dice «tal persona è in cherem» — quella persona è posta sotto la severa proibizione rabbinica del cherem, e nessuno può avvicinarla o commerciarvi. Il cherem della comunità è irrevocabile senza la decisione del tribunale comunitario. Le halachot 3-5 specificano: il cherem verso se stesso (uno si pone da solo in cherem come voto severo); la differenza tra cherem di Ezra e cherem comune; il cherem come forma di voto su beni (cherem la-gabbai — dedicato al tempio, vs. cherem la-kohanim — dedicato ai sacerdoti)."
+    },
+    {
+      "n": "10:6-10",
+      "he": "הַמַּחֲרִים נְכָסָיו — הֲרֵי הֵם לַקֹּדֶשׁ…",
+      "it": "(Cap. 10, hal. 6-10) Chi dedica i propri beni in cherem — questi appartengono al santuario (hekdesh) se ha dichiarato «cherem la-gabbai»; appartengono ai kohanim se ha detto «cherem la-kohanim» (come nei «campi di cherem» di Vayikrà 27). Le halachot 7-10 specificano: il cherem su animali (diventano sacrifici); il cherem su schiavi (liberati); il cherem su campi (vanno al kohen all'anno del Giubileo); la regola che il cherem la-kohanim non richiede riscatto mentre il cherem la-gabbai può essere riscattato."
+    },
+    {
+      "n": "11:1",
+      "he": "הַנּוֹדֵר בְּלָשׁוֹן שֶׁאֵינוֹ מוֹבֶנֶת לוֹ — אֵינוֹ חַיָּב…",
+      "it": "(Cap. 11, hal. 1) Chi formula un voto in una lingua che non comprende — non è obbligato, poiché il voto richiede piena consapevolezza (da'at). Il principio: «I voti seguono la mente del votante» (nedarim holkhim achar pi ha-noder) — ciò che la persona aveva in mente al momento del voto determina il significato del voto, anche se le parole pronunciate erano ambigue."
+    },
+    {
+      "n": "11:2-8",
+      "he": "הָאוֹמֵר קֹנָם אִם אֹכַל וְאָכַל בְּשׁוֹגֵג…",
+      "it": "(Cap. 11, hal. 2-8) Chi ha fatto voto condizionale («konam se mangerò») e poi ha mangiato per errore — dipende dall'interpretazione del voto: se intendeva «nel caso in cui mangi deliberatamente» — l'azione per errore non attiva il voto; se intendeva semplicemente «se mangerò» — il voto è attivato anche per errore. Le halachot 3-8 esplorano: voti che si attivano automaticamente al verificarsi della condizione; voti con condizione di tempo («konam per un anno»); voti con condizione di persona («konam se tal persona fa X»); il voto che diventa attivo solo alla morte del votante; e la regola che il voto si interpreta sempre secondo l'intenzione originaria del votante."
+    },
+    {
+      "n": "12:1",
+      "he": "הַנּוֹדֵר שֶׁנִּשְׁאַל עַל נִדְרוֹ — יֵשׁ לוֹ פֶּתַח…",
+      "it": "(Cap. 12, hal. 1) Il voto su cui si chiede scioglimento al saggio — il saggio cerca un petach (apertura): una circostanza che, se nota al momento del voto, avrebbe impedito al votante di fare il voto. Il saggio non «annulla» il voto: apre retroattivamente il voto come se non fosse mai stato pronunciato correttamente."
+    },
+    {
+      "n": "12:2-6",
+      "he": "אֵין פּוֹתְחִין בִּדְבַר מִצְוָה בַּתְּחִלָּה…",
+      "it": "(Cap. 12, hal. 2-6) Non si inizia lo scioglimento con l'«apertura di una mitzva» — cioè non si dice al votante: «Sapevi che il tuo voto ostacola una mitzva?» — perché tutti sanno che le mitzvot hanno priorità sui voti. La vera apertura deve essere una circostanza personale che il votante non aveva previsto. Le halachot 3-6 specificano: tipi di apertura validi e invalidi; il caso in cui il saggio ha trovato l'apertura ma il votante non è d'accordo; la differenza tra aprire il voto con la sua radice (ikkar ha-neder) vs. aprirlo solo parzialmente; il caso del voto su qualcosa che poi è diventato obbligatorio per mitzva."
+    },
+    {
+      "n": "12:7-10",
+      "he": "אֵין מַתִּירִין אֶת הַנֵּדֶר אֶלָּא בִּפְנֵי שְׁלֹשָׁה…",
+      "it": "(Cap. 12, hal. 7-10) Non si scioglie il voto se non in presenza di tre [giudici] o in presenza di un saggio competente che li sostituisce. Lo scioglimento effettuato da uno solo senza competenza — è privo di valore. Le halachot 8-10 specificano: può il saggio sciogliere il proprio voto? (No — perché è «giudice nel proprio caso»); può uno sciogliere il voto di suo padre o di suo maestro? (Solo se è competente e il padre/maestro accetta); il caso dello scioglimento dato da ignoranza del saggio — il voto rimane; e la norma conclusiva: il voto sciolto correttamente è come se non fosse mai stato pronunciato, e i beni tornano allo stato originale."
+    }
+  ],
+  "_glossary_terms_used": [
+    "cherem", "neder be-rabbim", "hekdesh", "nedarim holkhim achar pi ha-noder", "petach", "ikkar ha-neder", "da'at", "konam", "kohanim", "tzibbur"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 25",
+  "name_he": "משנה תורה, הלכות אישות, פרק כה",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 25",
+  "cycle": "rambam-1",
+  "date": "2026-09-17",
+  "hebrew_date": "6 Tishrei 5787",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵלּוּ נָשִׁים שֶׁמַּפְסִידוֹת כְּתֻבָּתָן: הַמּוֹרֶדֶת עַל בַּעְלָהּ, וְהַמְּחַלֶּלֶת אֶת דַּת יִשְׂרָאֵל, וְהַזּוֹנָה תַּחַת בַּעְלָהּ.",
+      "it": "Queste sono le donne che perdono la loro ketubbah: la moglie ribelle verso il marito, quella che viola la legge ebraica in pubblico, e quella che ha commesso adulterio sotto il marito."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד הִיא הַמּוֹרֶדֶת? זוֹ שֶׁמָּנְעָה אֶת עַצְמָהּ מִבַּעְלָהּ וְאָמְרָה: 'אֵינִי רוֹצָה לְהִזָּקֵק לְךָ.' מְמַעֲטִים לָהּ בִּכְסוּת בְּכָל שָׁבוּעַ, עַד שֶׁתְּאַבֵּד כְּתֻבָּתָהּ.",
+      "it": "Come si configura la moglie ribelle? Colei che si è rifiutata al marito dicendo: 'Non voglio avere relazioni con te.' Le si riduce l'abbigliamento ogni settimana finché perde la ketubbah."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד הִיא מְחַלֶּלֶת דַּת יִשְׂרָאֵל? כְּגוֹן שֶׁיָּצְאָה בְּפָרוּעַ רֹאשׁ, אוֹ שֶׁטָּוָתָה בְּשׁוּק, אוֹ שֶׁשָּׂחֲקָה עִם הַבַּחוּרִים.",
+      "it": "Come si configura la violazione della legge di Israele? Ad esempio, uscire col capo scoperto in pubblico, filare in piazza o giocare con giovani uomini."
+    },
+    {
+      "n": 4,
+      "he": "הַזּוֹנָה תַּחַת בַּעְלָהּ — אֲפִלּוּ אָמְרָה שֶׁהִיא מְרֻצָּה לַבַּעַל וְאֵינָהּ רוֹצָה לֵצֵא, כֵּיוָן שֶׁנִּבְדְּקָה בְּעֵדִים שֶׁזָּנְתָה — מַפְסֶדֶת כְּתֻבָּתָהּ וְנֶאֱסֶרֶת עַל בַּעְלָהּ.",
+      "it": "La donna adultera mentre è sposata — anche se dichiara di voler stare con il marito — una volta attestata da testimoni, perde la ketubbah ed è proibita al marito."
+    },
+    {
+      "n": 5,
+      "he": "הִיא אָסוּר לוֹ לְהַחְזִירָהּ לְאַחַר שֶׁגֵּרְשָׁהּ. וְהוּא הַדִּין אִם נֶאֱנְסָה — אֲסוּרָה לְכֹהֵן אֲבָל מֻתֶּרֶת לְיִשְׂרָאֵל, וְאֵינָהּ מַפְסֶדֶת כְּתֻבָּתָהּ.",
+      "it": "Le è proibito ricongiungersi con lui dopo il divorzio. Se invece fu violentata, è proibita a un cohen ma permessa a un comune israelita, e non perde la ketubbah."
+    },
+    {
+      "n": 6,
+      "he": "אַלְמָנָה שֶׁנִּשֵּׂאת לְאַחֵר, כְּתֻבַּת הַבַּעַל הָרִאשׁוֹן תֵּאָכֵל בְּנִכְסֵי הָרִאשׁוֹן — כְּלוֹמַר, גּוֹבָה מֵהֶן כְּתֻבָּתוֹ. וּכְתֻבַּת הַשֵּׁנִי גּוֹבָה מִנְּכָסָיו.",
+      "it": "La vedova che si è risposata riscuote la ketubbah del primo marito dai beni del primo, e la ketubbah del secondo dai beni del secondo."
+    },
+    {
+      "n": 7,
+      "he": "כְּתֻבַּת הָאִשָּׁה אֵינָהּ נִגְבֵּית אֶלָּא מִנְּכָסִים בְּנֵי חוֹרִין, אֶלָּא אִם כֵּן הִתְנָה בְּפֵרוּשׁ שֶׁגּוֹבָה גַּם מִמְּשֻׁעְבָּדִים.",
+      "it": "La ketubbah si riscuote solo da beni liberi da vincoli, a meno che non sia stato esplicitamente convenuto che sia riscuotibile anche da beni già ipotecati."
+    },
+    {
+      "n": 8,
+      "he": "אָמַר לָהּ בְּפֵרוּשׁ 'אֶפְרַע לֵיךְ מֵחֲנוּת פְּלוֹנִית' — גּוֹבָה מֵהַחֲנוּת. לֹא אָמַר — גּוֹבָה מִכָּל נְכָסָיו הַבְּנֵי חוֹרִין.",
+      "it": "Se le ha detto esplicitamente: 'Ti pagherò da quel tale negozio', riscuote da quel negozio. Se non ha detto nulla, riscuote da tutti i suoi beni liberi."
+    },
+    {
+      "n": 9,
+      "he": "הַמּוֹכֵר נְכָסָיו לִפְנֵי נִשּׂוּאָיו אֵין הָאִשָּׁה טוֹרֶפֶת מֵהַלּוֹקֵחַ; לְאַחַר נִשּׂוּאָיו — טוֹרֶפֶת, שֶׁהַלּוֹקֵחַ יֵדַע שֶׁיֵּשׁ כְּתֻבָּה.",
+      "it": "Se ha venduto beni prima del matrimonio, la moglie non può recuperarli dall'acquirente; se li ha venduti dopo il matrimonio, può recuperarli, perché l'acquirente sapeva dell'esistenza della ketubbah."
+    },
+    {
+      "n": 10,
+      "he": "הַגִּיעָה שְׁעַת הַגְּבִיָּה וְלֹא גָּבְתָה, וּמֵת הַבַּעַל, יוֹרְשִׁין יוֹרְשִׁין אוֹתָהּ. אִם מָכַר הַבַּעַל לְאַחַר מִכֵּן, טוֹרֶפֶת הָאִשָּׁה מֵהַלּוֹקֵחַ.",
+      "it": "Se è giunto il momento di riscuotere ma non ha riscosso, e il marito muore, gli eredi la ereditano. Se il marito aveva venduto beni dopo, la moglie può recuperarli dall'acquirente."
+    },
+    {
+      "n": 11,
+      "he": "אִשָּׁה שֶׁאָמְרָה: 'מָחַלְתִּי לְבַעְלִי כְּתֻבָּתִי' — נֶאֱמֶנֶת. וְאִם אָמְרָה 'מָחַלְתִּי חֵלֶק' — גּוֹבָה אֶת הַשְּׁאָר.",
+      "it": "Una donna che dichiara: 'Ho rimesso al mio marito la mia ketubbah' è credibile. Se dichiara di aver rimesso solo una parte, riscuote il resto."
+    },
+    {
+      "n": 12,
+      "he": "נְכָסִים שֶׁהִכְנִיסָה לוֹ בְּנִשּׂוּאִין — אִם נֶחְסְרוּ, חַיָּב לְשַׁלֵּם חֶסְרוֹנָם. אִם גָּדְלוּ — הַגִּדּוּל לָה. שֶׁהַבַּעַל אֵינוֹ אֶלָּא כְּשׁוֹמֵר.",
+      "it": "I beni che la moglie ha portato al matrimonio: se si sono svalutati, il marito è tenuto a coprire la perdita; se si sono apprezzati, l'apprezzamento appartiene a lei, perché il marito è solo un custode."
+    },
+    {
+      "n": 13,
+      "he": "כְּלָל אֲחַת: הַכֹּל כָּתוּב בַּכְּתֻבָּה. מַה שֶּׁלֹּא נִכְתַּב — הַמִּנְהָג קוֹבֵעַ. מַה שֶּׁאֵין לוֹ מִנְהָג — הַדִּין קוֹבֵעַ.",
+      "it": "Principio generale: tutto è stabilito dalla ketubbah. Ciò che non è scritto — lo determina la consuetudine. Ciò che non ha consuetudine — lo determina la legge."
+    },
+    {
+      "n": 14,
+      "he": "סְיוּם: נִגְמְרוּ הִלְכוֹת אִישׁוּת. מִכָּן וְאֵילָךְ יָבוֹאוּ הִלְכוֹת גֵּרוּשִׁין.",
+      "it": "Conclusione: Si concludono le Leggi del Matrimonio (Hilchot Ishut). Da qui iniziano le Leggi del Divorzio (Hilchot Gerushin)."
+    }
+  ],
+  "_glossary_terms_used": ["ketubbah", "moredet", "dat Yisrael", "gerushah", "almana", "kohen"]
+}

@@ -1,0 +1,87 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 3",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב, פרק ג",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 3",
+  "cycle": "rambam-1",
+  "date": "2026-07-01",
+  "hebrew_date": "16 Tammuz 5786",
+  "halachot_count": 15,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "מִצְוַת עֲשֵׂה מִן הַתּוֹרָה לִשְׂמֹחַ בְּיוֹם טוֹב, שֶׁנֶּאֱמַר \"וְשָׂמַחְתָּ בְּחַגֶּךָ\".",
+      "it": "Vi è un comandamento positivo della Torah di rallegrarsi nello Yom Tov, come è detto: \"E ti rallegrerai nelle tue feste\" (Devarim 16:14)."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד שִׂמְחָה זוֹ? הָאֲנָשִׁים אוֹכְלִים בָּשָׂר וְשׁוֹתִין יַיִן, שֶׁאֵין שִׂמְחָה אֶלָּא בְּבָשָׂר, וְאֵין שִׂמְחָה אֶלָּא בְּיַיִן.",
+      "it": "Come si esprime questa gioia? Gli uomini mangiano carne e bevono vino, poiché non vi è vera gioia senza carne, e non vi è vera gioia senza vino."
+    },
+    {
+      "n": 3,
+      "he": "וְהַנָּשִׁים שָׂמֵחוֹת בִּבְגָדִים צִבְעוֹנִים וּבְתַכְשִׁיטִין חֲדָשִׁים. וְהַקְּטַנִּים שָׂמֵחִים בָּאֱגוֹזִים וּבַמְּגָדִים.",
+      "it": "Le donne si rallegrano con abiti colorati e ornamenti nuovi. I bambini si rallegrano con noci, dolciumi e simili."
+    },
+    {
+      "n": 4,
+      "he": "כָּל אֵלּוּ הַדְּבָרִים, כָּל אֶחָד כְּפִי מַה שֶּׁיָּכוֹל. וְחַיָּב אָדָם לְשַׂמֵּחַ עַצְמוֹ וּבָנָיו וּבְנֵי בֵיתוֹ.",
+      "it": "Tutte queste cose si fanno secondo le possibilità di ciascuno. Ogni persona è obbligata a far gioire se stessa, i propri figli e i membri della propria casa."
+    },
+    {
+      "n": 5,
+      "he": "וְחַיָּב לְשַׂמֵּחַ עֲנִיִּים וַאֲנָשִׁים מְסֻכָּנִים. אֲבָל מִי שֶׁנּוֹעֵל דְּלָתוֹ וְאוֹכֵל וְשׁוֹתֶה הוּא וּבָנָיו וְאִשְׁתּוֹ בְּלֹא שִׂמֵּחַ עֲנִיִּים, אֵין זוֹ שִׂמְחַת מִצְוָה.",
+      "it": "È obbligatorio far gioire anche i poveri e le persone bisognose. Ma chi chiude la propria porta e mangia e beve con i propri figli e la propria moglie senza far gioire i poveri, questa non è una gioia di mitzva."
+    },
+    {
+      "n": 6,
+      "he": "שִׂמְחַת יוֹם טוֹב כּוֹלֶלֶת גַּם אֶת הַגֵּר, הַיָּתוֹם וְהָאַלְמָנָה עִם שְׁאָר עֲנִיֵּי יִשְׂרָאֵל.",
+      "it": "La gioia dello Yom Tov include anche il proselita, l'orfano e la vedova, insieme agli altri poveri di Israele."
+    },
+    {
+      "n": 7,
+      "he": "כֵּיצַד מְשַׂמְּחִין אוֹתָן? בְּיוֹם טוֹב הַנָּשִׁים קוֹנוֹת בִּגְדֵי צֶבַע, וְהַקְּטַנִּים אֱגוֹזִים וּמְגָדִים.",
+      "it": "Come si rallegrano le categorie bisognose? Nello Yom Tov si acquistano per le donne abiti colorati, e per i bambini noci e dolciumi."
+    },
+    {
+      "n": 8,
+      "he": "אָסוּר לְהִתְאַבֵּל בְּיוֹם טוֹב, שֶׁנֶּאֱמַר \"וְשָׂמַחְתָּ\" — הֲרֵי זֶה אַזְהָרָה לְהַסִּיר הָאֵבֶל.",
+      "it": "È proibito essere in lutto nello Yom Tov, poiché è detto \"e ti rallegrerai\" — questo costituisce un avvertimento a rimuovere il lutto."
+    },
+    {
+      "n": 9,
+      "he": "מֻתָּר לִרְקֹד וּלְמַחֵא כַּף בְּיוֹם טוֹב לְשַׂמֵּחַ בַּמִּצְוָה. וְאַף עַל פִּי שֶׁנּוֹהֲגִין לִגְעֹר בָּזֶה בִּימֵי הַחֹל, בְּיוֹם טוֹב מִצְוָה לִשְׂמֹחַ.",
+      "it": "È permesso danzare e battere le mani nello Yom Tov per esultare nella mitzva. Anche se nei giorni feriali si disapprova tale comportamento, nello Yom Tov è una mitzva rallegrarsi."
+    },
+    {
+      "n": 10,
+      "he": "כְּלֵי שִׁיר שֶׁמְּנַגְּנִין בָּהֶם בְּיוֹם טוֹב לְצֹרֶךְ שִׂמְחַת הַמִּצְוָה, יֵשׁ בָּהֶם מַחֲלֹקֶת. וְכֵן הַנִּגּוּן עַצְמוֹ.",
+      "it": "Riguardo agli strumenti musicali suonati nello Yom Tov per la gioia della mitzva, vi è una disputa tra i poskim (decisori). Anche riguardo al canto stesso vi sono diverse opinioni."
+    },
+    {
+      "n": 11,
+      "he": "כָּל דָּבָר שֶׁאָסוּר בְּשַׁבָּת אָסוּר בְּיוֹם טוֹב, אֶלָּא מַה שֶּׁהֻתַּר לְצֹרֶךְ אֹכֶל נֶפֶשׁ.",
+      "it": "Tutto ciò che è proibito di Shabbat è proibito anche nello Yom Tov, eccetto ciò che è stato permesso per il bisogno del cibo (ochel nefesh)."
+    },
+    {
+      "n": 12,
+      "he": "וַאֲפִלּוּ הַגָּדוֹל שֶׁבַּחֲכָמִים חַיָּב לְשַׂמֵּחַ אִשְׁתּוֹ וּבָנָיו בְּיוֹם טוֹב.",
+      "it": "Anche il più grande dei Saggi è obbligato a far gioire la propria moglie e i propri figli nello Yom Tov."
+    },
+    {
+      "n": 13,
+      "he": "שִׂמְחַת יוֹם טוֹב הִיא מִצְוַת עֲשֵׂה מִן הַתּוֹרָה, וְאֵין הַשִּׂמְחָה שֶׁמְּצֻוֶּה עָלֶיהָ הִיא הַשִּׂמְחָה שֶׁל הֶרְגֵּל.",
+      "it": "La gioia dello Yom Tov è un comandamento positivo della Torah, e la gioia prescritta non è la gioia abitudinaria del quotidiano."
+    },
+    {
+      "n": 14,
+      "he": "לֹא יֵצֵא אָדָם לְטַיֵּל בְּיוֹם טוֹב לְמָקוֹם שֶׁאֵין שָׁם שִׂמְחַת יוֹם טוֹב.",
+      "it": "Una persona non deve uscire a passeggiare nello Yom Tov in un luogo in cui non si trova la gioia dello Yom Tov."
+    },
+    {
+      "n": 15,
+      "he": "הַשִּׂמְחָה שֶׁנֶּאֱמַר בָּהּ \"וְשָׂמַחְתָּ בְּחַגֶּךָ\" — זוֹ שִׂמְחָה שֶׁל מִצְוָה, לֹא שִׂמְחָה שֶׁל פְּרִיצוּת.",
+      "it": "La gioia di cui è detto \"e ti rallegrerai nelle tue feste\" è una gioia di mitzva, non una gioia di sregolatezza o frivolezza."
+    }
+  ],
+  "_glossary_terms_used": ["Yom Tov", "simchat Yom Tov", "ochel nefesh", "mitzva", "poskim", "avel", "ger", "yasom", "almana"]
+}

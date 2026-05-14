@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Temidim UMusafim 9-10; Hilchot Pesulei HaMukdashim 1",
+  "name_he": "משנה תורה, הלכות תמידין ומוספין פרקים ט-י; הלכות פסולי המוקדשין פרק א",
+  "name_it": "Mishneh Torah, Leggi dei Sacrifici Quotidiani e Aggiuntivi capitoli 9-10; Leggi delle Offerte Invalide capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-07-20",
+  "hebrew_date": "6 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "9:1",
+      "he": "מוּסַף יוֹם הַכִּפּוּרִים — פַּר אֶחָד, אַיִל אֶחָד, שִׁבְעָה כְּבָשִׂים, וּשְׂעִיר חַטָּאת.",
+      "it": "Il Musaf di Yom Kippur — un toro, un ariete, sette agnelli e un capro per il peccato."
+    },
+    {
+      "n": "9:2",
+      "he": "עֲבוֹדַת כֹּהֵן גָּדוֹל בְּיוֹם הַכִּפּוּרִים — מְיֻחֶדֶת בִּכְנִיסָה לַקֹּדֶשׁ הַקָּדָשִׁים.",
+      "it": "Il servizio del Kohen Gadol a Yom Kippur è unico — comprende l'ingresso nel Santo dei Santi (Kodesh ha-Kodashim), luogo riservato esclusivamente a questo giorno."
+    },
+    {
+      "n": "9:3",
+      "he": "מוּסַף יוֹם הַכִּפּוּרִים — בָּא אַחַר עֲבוֹדַת הַיּוֹם, לֹא קֹדֶם לָהּ.",
+      "it": "Il Musaf di Yom Kippur viene offerto dopo il servizio speciale del giorno, non prima."
+    },
+    {
+      "n": "10:1",
+      "he": "מוּסְפֵי חַג הַסֻּכּוֹת — שִׁבְעִים פָּר בְּשִׁבְעַת הַיָּמִים, כְּנֶגֶד שִׁבְעִים אֻמּוֹת. וּמִתְמַעֵט וְהוֹלֵךְ: בְּיוֹם הָרִאשׁוֹן — שְׁלֹשָׁה עָשָׂר פָּרִים, בַּשֵּׁנִי — שְׁנֵים עָשָׂר, עַד שִׁבְעָה.",
+      "it": "I sacrifici Musaf di Sukkot — settanta tori nei sette giorni, corrispondenti alle settanta nazioni del mondo. Il numero decresce: nel primo giorno — tredici tori, nel secondo — dodici, fino a sette nell'ultimo giorno."
+    },
+    {
+      "n": "10:2",
+      "he": "שְׁמִינִי עֲצֶרֶת — פַּר אֶחָד, אַיִל אֶחָד, שִׁבְעָה כְּבָשִׂים. כְּנֶגֶד יִשְׂרָאֵל בִּלְבַד.",
+      "it": "Shemini Atzeret — un toro, un ariete, sette agnelli. Corrispondente solo a Israele — il raduno intimo finale dopo i sacrifici per le nazioni."
+    },
+    {
+      "n": "10:3",
+      "he": "סִיּוּם. סְלִיקוּ הִלְכוֹת תְּמִידִין וּמוּסָפִין.",
+      "it": "Si concludono le Leggi dei Sacrifici Quotidiani e Aggiuntivi."
+    },
+    {
+      "n": "1:1",
+      "he": "הִלְכוֹת פְּסוּלֵי הַמּוּקְדָּשִׁין — עִנְיָנָן פְּסוּלִין הַנּוֹפְלִין בַּקָּרְבָּנוֹת. וְהֵן שְׁלֹשָׁה עִקָּרִים: פִּגּוּל, נוֹתָר, טָמֵא.",
+      "it": "Le Leggi delle Offerte Invalide — trattano delle invalidità che colpiscono i sacrifici. Tre sono i casi principali: pigul (intenzione impropria durante l'offerta), notar (carne rimasta oltre il tempo consentito), tameh (impurità rituale)."
+    },
+    {
+      "n": "1:2",
+      "he": "פִּגּוּל — הַשּׁוֹחֵט אוֹ הַמַּקְרִיב בְּמַחְשֶׁבֶת חוּץ לִזְמַנּוֹ — הַקָּרְבָּן פִּגּוּל.",
+      "it": "Pigul — se colui che macella o offre ha in mente di mangiare la carne oltre il tempo consentito — il sacrificio è pigul (invalido con la severa pena del karet per chi lo mangia)."
+    },
+    {
+      "n": "1:3",
+      "he": "נוֹתָר — בְּשַׂר הַקָּרְבָּן שֶׁעָבַר זְמַן אֲכִילָתוֹ. טָמֵא — קָרְבָּן שֶׁנִּטְמָא.",
+      "it": "Notar — la carne del sacrificio rimasta oltre il tempo della sua consumazione permessa. Tameh — un sacrificio che è diventato impuro ritualmente."
+    }
+  ],
+  "_glossary_terms_used": ["Musaf", "Yom Kippur", "Kohen Gadol", "Kodesh ha-Kodashim", "Sukkot", "Shemini Atzeret", "pigul", "notar", "tameh", "karet"]
+}

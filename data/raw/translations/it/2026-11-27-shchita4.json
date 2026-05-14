@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 4",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק ד",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-27",
+  "hebrew_date": "18 Kislev 5787",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כַּמָּה שִׁיעוּר הַשְּׁחִיטָה — בְּעוֹף — רֹב אֶחָד מִן הַסִּימָנִין…",
+      "it": "Quanto deve essere il taglio della shechitah? Nel pollame (of) — la maggior parte di uno dei simanim (trachea o esofago). Negli animali domestici (behemah) — la maggior parte di entrambi i simanim, oppure la maggior parte di uno solo (anche se entrambi è preferibile). La parola «maggioranza» (rov) qui significa più della metà del diametro circolare del canale tagliato. Anche se è tagliato solo il 51% — la shechitah è valida."
+    },
+    {
+      "n": 2,
+      "he": "שָׁחַט אֶת הַוֶּשֶׁט לְבַדּוֹ — בִּבְהֵמָה…",
+      "it": "Chi ha tagliato solo l'esofago (veshet) nell'animale domestico — la shechitah è valida post-facto (be-diavad), poiché l'esofago è il siman principale per l'animale. Chi ha tagliato solo la trachea (kaneh) — vi è una disputa tra le autorità. Il Rambam sostiene che tagliare la maggior parte di un solo siman (anche solo il kaneh) è sufficiente per l'animale. Per il pollame: basta la maggior parte di uno qualsiasi dei due. In pratica, il shochet si assicura di tagliare entrambi per evitare ogni dubbio."
+    },
+    {
+      "n": 3,
+      "he": "שָׁחַט מִן הַצַּוַּאר מִן הָעֹרֶף — פְּסוּלָה…",
+      "it": "Chi ha macellato tagliando dalla parte posteriore del collo (oreph — la nuca) invece che dalla parte anteriore — la shechitah è invalida. I simanim si trovano nella parte anteriore del collo; tagliare dalla nuca non recide i simanim in modo appropriato. Anche se casualmente ha reciso i simanim da un taglio posteriore — secondo alcune autorità è invalido perché il metodo è errato. Il Rambam è stringente in questo punto."
+    },
+    {
+      "n": 4,
+      "he": "שָׁחַט שְׁנֵי רָאשִׁים כְּאֶחָד — כְּשֵׁרָה…",
+      "it": "Chi ha macellato due animali insieme con un unico taglio — la shechitah è valida per entrambi, purché siano stati recisi i simanim di entrambi in modo valido. Il movimento del coltello avanti e indietro deve coprire entrambi gli animali. Se durante il taglio uno si è spostato e il coltello ha tagliato solo uno — solo quello è valido. Il shochet deve assicurarsi che entrambi gli animali rimangano nella posizione corretta durante l'intera shechitah."
+    },
+    {
+      "n": 5,
+      "he": "עוֹף שֶׁנִּשְׁמְטָה יָדוֹ — אִם נִגְמְרָה שְׁחִיטָה — כְּשֵׁרָה…",
+      "it": "Un uccello che è scivolato dalla mano del shochet durante la shechitah — se la shechitah è stata completata prima che scivolasse, è valida. Se non è stata completata e l'uccello è caduto e ha finito di cadere mentre il coltello era ancora in contatto con i simanim — si valuta se sia avvenuto ikkur (lacerazione) o shehiyah (pausa). Il principio: l'interruzione della shechitah per cause esterne non invalida retroattivamente ciò che è già stato tagliato validamente."
+    },
+    {
+      "n": 6,
+      "he": "סִימָן שֶׁנִּקַּב — פָּסוּל…",
+      "it": "Un siman che è stato perforato (nikav) — il siman è invalido, e l'animale diventa treifah (animale con un difetto fisico che lo rende non kasher — distinto da neveilah). Se prima della shechitah la trachea era perforata — tagliare quella trachea non rende l'animale kasher. Il concetto di treifah è distinto dalla neveilah: neveilah è l'animale non macellato; treifah è l'animale con certi difetti fisici che precludono la kasherut indipendentemente dalla shechitah."
+    },
+    {
+      "n": 7,
+      "he": "בָּדַק הַשּׁוֹחֵט אֶת הַסִּימָנִין אַחַר הַשְּׁחִיטָה — וּמָצָא שֶׁנִּשְׁחַט הָרֹב — כְּשֵׁרָה…",
+      "it": "Il shochet che ha controllato i simanim dopo la shechitah e ha trovato che la maggior parte era stata recisa — la shechitah è valida. Il controllo post-shechitah è obbligatorio per verificare il numero dei simanim recisi e l'assenza di altre invalidazioni. Se ha trovato che il taglio era insufficiente (meno della maggior parte) — l'animale è neveilah. Il controllo post-shechitah è parte integrante della responsabilità professionale del shochet."
+    }
+  ],
+  "_glossary_terms_used": [
+    "simanim", "veshet", "kaneh", "of", "behemah", "shochet", "shechitah", "oreph", "ikkur", "shehiyah", "treifah", "neveilah"
+  ]
+}

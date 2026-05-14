@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 6",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ו",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-12",
+  "hebrew_date": "3 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַדָּם — אָסוּר לֶאֱכֹל, שֶׁנֶּאֱמַר: לֹא תֹאכְלוּ כָּל דָּם…",
+      "it": "Il sangue — è proibito mangiarlo, come scritto: «Lo tokhelu kol dam» (Non mangerete nessun sangue — Lev. 3:17; 7:26-27; 17:14; Deut. 12:23). Il divieto di consumare sangue di mammiferi e uccelli è uno dei divieti più enfatizzati della Torah — appare quattro volte in contesti diversi, ognuno aggiungendo aspetti alla proibizione. Il sangue è proibito perché «ha-nefesh hi ha-dam» (la vita è nel sangue — Lev. 17:11) — il sangue è il veicolo della vita, e mangiarlo significherebbe incorporare in sé il principio vitale dell'animale."
+    },
+    {
+      "n": 2,
+      "he": "שְׁנֵי מִינֵי דָּם הֵם — דַּם הַנֶּפֶשׁ וְדַם הָאֵבָרִים…",
+      "it": "Vi sono due tipi di sangue proibito: (1) Dam ha-nefesh (sangue dell'anima/vita) — il sangue che scorre fuori quando l'animale viene macellato; questo è il sangue principale della vita. Chi mangia questo sangue con la quantità minima di un ka-zayit (volume di oliva) è soggetto a karet (recisione spirituale). (2) Dam ha-eivarim (sangue degli arti) — il sangue che rimane nella carne degli arti dopo la macellazione. Questo è proibito per legge rabbinica o per un divieto biblico di grado inferiore — non porta a karet ma a flagellazione (malkot)."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד מוֹלְחִים אֶת הַבָּשָׂר — לְהוֹצִיא דָּמוֹ…",
+      "it": "Come si sala la carne per estrarne il sangue (melicha — salatura): il metodo halakhico standard per rimuovere il dam ha-eivarim dalla carne prima del consumo. Procedura: (1) la carne viene lavata con acqua fredda; (2) si sala uniformemente con sale grosso (melach gis) su tutti i lati; (3) si lascia riposare sul sale per un'ora su una superficie inclinata o forata che permetta al sangue di scorrere via; (4) al termine si risciacqua accuratamente tre volte con acqua fredda. Solo dopo questa procedura la carne è permessa per la cottura."
+    },
+    {
+      "n": 4,
+      "he": "הַכָּבֵד — אֵינוֹ יוֹצֵא בִּמְלִיחָה…",
+      "it": "Il fegato (kaved) contiene una quantità così alta di sangue che la sola salatura è insufficiente. Il fegato richiede la cottura diretta sulla fiamma aperta (tzlia'h — arrostimento) come metodo di purificazione dal sangue. Procedura per il fegato: si incide, si sala leggermente, e si arrostisce direttamente sulla fiamma o sulla griglia fino a cottura. Solo dopo l'arrostimento il fegato è permesso. Un fegato salato senza arrostimento non è permesso per consumo."
+    },
+    {
+      "n": 5,
+      "he": "בָּשָׂר שֶׁנִּמְלַח אֶחָד עִם בָּשָׂר אַחֵר…",
+      "it": "Carne salata insieme ad altra carne: il sangue estratto da una carne durante la salatura può riassorbire in un'altra carne contigua. Se due pezzi di carne vengono salati insieme sullo stesso vassoio senza separazione adeguata, il sangue dell'uno può essere assorbito dall'altro — rendendo necessario ricominciare il processo. La pratica corretta: ogni pezzo di carne si sala separatamente su superfici foorate o inclinate, con spazio sufficiente per il drenaggio del sangue."
+    },
+    {
+      "n": 6,
+      "he": "דַּם הַדָּגִים וְדַם הַחֲגָבִים — מֻתָּרִין…",
+      "it": "Il sangue dei pesci (dam ha-dagim) e il sangue delle locuste kosher (dam ha-chagavim) — sono permessi. La Torah proibisce solo il sangue degli animali («dam beheimah, chayah, ve-of» — sangue di bestiame, bestia selvatica, e uccello). Il sangue dei pesci non è incluso in questo divieto. Pertanto il pesce può essere consumato senza salatura preventiva per il sangue — sebbene sia comunque buona pratica lavarlo. Il sangue di un essere umano che appare su cibo (ad esempio da una ferita al dente) è proibito per decreto rabbinico ma non biblicamente."
+    }
+  ],
+  "_glossary_terms_used": [
+    "dam ha-nefesh", "dam ha-eivarim", "melicha", "karet", "malkot", "ka-zayit", "kaved", "tzlia'h", "melach gis", "dam ha-dagim", "dam ha-chagavim"
+  ]
+}

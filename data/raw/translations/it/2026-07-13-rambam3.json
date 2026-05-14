@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'aseh HaKorbanot 7-9",
+  "name_he": "משנה תורה, הלכות מעשה הקורבנות, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi della Procedura dei Sacrifici, capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-07-13",
+  "hebrew_date": "28 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "7:1",
+      "he": "עוֹלָה — בָּאָה עַל עֲבֵרוֹת עֲשֵׂה וְלֹא תַעֲשֶׂה שֶׁנִּיתַּק לַעֲשֵׂה.",
+      "it": "L'olah — viene per la trasgressione di comandamenti positivi e negativi convertibili in positivi (shenitak la'aseh)."
+    },
+    {
+      "n": "7:2",
+      "he": "הַמַּקְרִיב עוֹלָה — כֻּלָּהּ לַמִּזְבֵּחַ. הַעֵצִים שׁוֹרְפִין אוֹתָהּ עַל גַּבֵּי הַמִּזְבֵּחַ כָּל הַלַּיְלָה.",
+      "it": "Chi offre un'olah — tutta per l'altare. I pezzi di legno la bruciano sull'altare per tutta la notte."
+    },
+    {
+      "n": "7:3",
+      "he": "עוֹלָה הַבָּאָה בִּנְדָבָה — בֶּן בְּקָר, כֶּבֶשׂ, עֵז, אוֹ עוֹף.",
+      "it": "L'olah che viene come offerta volontaria (nedavah) — può essere un bovino, un agnello, una capra, o un uccello."
+    },
+    {
+      "n": "8:1",
+      "he": "שְׁלָמִים — קָדָשִׁים קַלִּים, בֶּן בְּקָר, כֶּבֶשׂ, אוֹ עֵז.",
+      "it": "Lo shelamim — è un sacrificio di santità minore (kodashim kallim), bovino, agnello o capra."
+    },
+    {
+      "n": "8:2",
+      "he": "שְׁלָמִים נֶאֱכָלִין לְשִׁנֵּי יָמִים וְלַיְלָה אֶחָד — לְבַעְלִים וּלְכָל יִשְׂרָאֵל.",
+      "it": "Lo shelamim può essere mangiato per due giorni e una notte — dai proprietari e da qualunque israelita."
+    },
+    {
+      "n": "8:3",
+      "he": "הַנֹּתָר מִשְּׁלָמִים — חַיָּבִין לִשְׂרֹף אוֹתוֹ.",
+      "it": "Il rimanente dello shelamim (notar) — si è obbligati a bruciarlo."
+    },
+    {
+      "n": "9:1",
+      "he": "חַטָּאת — בָּאָה עַל שְׁגָגַת לֹא תַעֲשֶׂה שֶׁחַיָּבִין עָלָיו כָּרֵת בְּזָדוֹן.",
+      "it": "Il chatat — viene per la trasgressione involontaria (shegagah) di un divieto (lo ta'aseh) per cui si è passibili di karet se commesso intenzionalmente."
+    },
+    {
+      "n": "9:2",
+      "he": "חַטָּאת הַנָּשִׂיא — שָׂעִיר. חַטָּאת הַיָּחִיד — שִׂיּוֹת בַּת שְׁנָתָהּ.",
+      "it": "Il chatat del principe (nasi) — un caprone. Il chatat dell'individuo comune — una capra o un agnello di un anno."
+    },
+    {
+      "n": "9:3",
+      "he": "חַטָּאת הַכֹּהֵן הַמָּשִׁיחַ וְחַטָּאת הַצִּבּוּר — פַּר.",
+      "it": "Il chatat del Kohen HaMashiach (Kohen Gadol) e il chatat della comunità — un toro (par)."
+    },
+    {
+      "n": "9:4",
+      "he": "חַטָּאוֹת הַנֶּאֱכָלוֹת — לַכֹּהֲנִים בְּחֲצַר אֹהֶל מוֹעֵד.",
+      "it": "I chatat che si mangiano — [li mangiano] i kohanim nel cortile del Tabernacolo."
+    },
+    {
+      "n": "9:5",
+      "he": "חַטָּאוֹת הַנִּשְׂרָפוֹת — נִשְׂרָפוֹת מִחוּץ לַמַּחֲנֶה.",
+      "it": "I chatat che vengono bruciati — vengono bruciati fuori dal campo."
+    },
+    {
+      "n": "9:6",
+      "he": "חַטָּאת הַמֵּתָה — שֶׁאָבַד הַבְּעָלִים אוֹ הֵמִיתוּ — יֵצֵא לִמְיתָה.",
+      "it": "Un chatat che è «morto» — in cui i proprietari sono morti o l'hanno uccisa — va messo a morte."
+    }
+  ],
+  "_glossary_terms_used": ["olah", "shelamim", "chatat", "notar", "shegagah", "karet", "nasi", "Kohen Gadol", "Kohen HaMashiach", "par", "nedavah", "kodashim kallim", "lo ta'aseh", "Ma'aseh HaKorbanot"]
+}

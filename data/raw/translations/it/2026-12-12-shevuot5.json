@@ -1,0 +1,39 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevuot 5",
+  "name_he": "משנה תורה, הלכות שבועות, פרק ה",
+  "name_it": "Mishneh Torah, Leggi dei Giuramenti, capitolo 5",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-12",
+  "hebrew_date": "3 Tevet 5787",
+  "halachot_count": 5,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁבוּעַת הַשּׁוֹמְרִים — אַרְבָּעָה שׁוֹמְרִים הֵם...",
+      "it": "Shevuat ha-shomrim (giuramento dei custodi): la Torah distingue quattro tipi di guardiani (shomrim): (1) shomer chinam — guardiano gratuito, responsabile solo per negligenza; (2) sho'el — chi prende in prestito, responsabile anche per incidenti fortuiti; (3) shomer sachar — guardiano pagato, responsabile per furto e perdita ma non per incidenti inevitabili; (4) socher — locatario, con regole simili al guardiano pagato. Ognuno ha obblighi di giuramento diversi quando l'oggetto affidatogli si perde."
+    },
+    {
+      "n": 2,
+      "he": "שׁוֹמֵר חִנָּם שֶׁאָמַר נִגְנַב — נִשְׁבָּע...",
+      "it": "Il guardiano gratuito (shomer chinam) che dichiara «l'oggetto è stato rubato» — deve giurare che non ha toccato l'oggetto affidatogli (cioè che non lo ha usato per sé). Se giura falsamente e poi risulta che ha usato l'oggetto — paga il valore doppio (kefel). Se lo ha usato e poi è stato rubato — è responsabile come se lo avesse rubato lui stesso. Questo giuramento protegge la fiducia (bitachon) nella relazione guardiano-proprietario."
+    },
+    {
+      "n": 3,
+      "he": "שׁוֹמֵר שָׂכָר — נִשְׁבָּע עַל הַגְּנֵבָה וְעַל הָאֲבֵדָה...",
+      "it": "Il guardiano pagato (shomer sachar) — è responsabile per furto (geneivah) e perdita (aveidah), ma esente per morte, frattura o cattura in guerra (avoidance of force majeure — meitah, shever, sheviyah). Per richiedere l'esenzione dalla responsabilità per queste cause maggiori, deve giurare davanti al beit din. Il giuramento del guardiano pagato ha quindi due funzioni: (a) provare l'esenzione per cause di forza maggiore, (b) dimostrare che l'oggetto non era nelle sue mani per negligenza sua."
+    },
+    {
+      "n": 4,
+      "he": "הַשּׁוֹאֵל — חַיָּב בְּכָל אֹנֶס...",
+      "it": "Chi prende in prestito (sho'el) — è responsabile per qualsiasi causa di danno, incluse le cause di forza maggiore (ones), perché l'oggetto è interamente a suo vantaggio. L'unica eccezione: se l'oggetto si rompe o muore «be-sha'at melachto» — durante lo svolgimento del lavoro per cui era stato prestato. Esempio: il bue preso in prestito per arare muore durante l'aratura — il mutuatario è esente. Questo giuramento è di origine biblica: «il proprietario non era con lui — dovrà certamente pagare» (Esodo 22:13)."
+    },
+    {
+      "n": 5,
+      "he": "הַשְּׁבוּעָה הִיא עַמּוּד הַנֶּאֱמָנוּת...",
+      "it": "Il giuramento è il pilastro della fiducia (ne'emanut) nella società. Il Rambam sottolinea: la vera potenza del giuramento non è nella pena che genera, ma nella consapevolezza che D-o è testimone di tutto — «ki Elohim shofet» (poiché D-o è giudice, Salmi 75:8). Una persona che teme D-o genuinamente preferirà perdere denaro piuttosto che giurare il falso. Il giuramento trasforma una disputa commerciale in un momento di incontro con il Divino."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shomrim", "shomer chinam", "sho'el", "shomer sachar", "socher", "shevuat ha-shomrim", "kefel", "geneivah", "aveidah", "meitah", "shever", "sheviyah", "ones", "ne'emanut", "beit din"
+  ]
+}

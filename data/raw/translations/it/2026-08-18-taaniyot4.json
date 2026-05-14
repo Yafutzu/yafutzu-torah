@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ta'aniyot 4",
+  "name_he": "משנה תורה, הלכות תעניות, פרק ד",
+  "name_it": "Mishneh Torah, Leggi dei Digiuni, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-08-18",
+  "hebrew_date": "5 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "תשעה באב אסור בחמישה דברים: באכילה ושתיה, ובסיכה, וברחיצה, ובנעילת הסנדל, ובתשמיש המיטה.",
+      "it": "A Tisha B'Av sono proibite cinque cose: mangiare e bere, ungere il corpo (sicha), lavarsi (rechitzah), indossare calzature di cuoio (ne'ilat hasandal), e le relazioni coniugali (tashmmish hamita)."
+    },
+    {
+      "n": 2,
+      "he": "ואיסור אכילה ושתיה בתשעה באב — מדברי סופרים הוא. ומתחיל מבעוד יום כיוצא ביום הכיפורים.",
+      "it": "Il divieto di mangiare e bere a Tisha B'Av è di origine rabbinica. Ha inizio prima del tramonto — dal calar della notte della vigilia — analogamente a Yom Kippur."
+    },
+    {
+      "n": 3,
+      "he": "אסור ללמוד תורה בתשעה באב, שנאמר: 'פיקודי ה' ישרים משמחי לב', ותורה משמחת הלב. ואין לומד אלא בדברים הרעים שבתורה.",
+      "it": "È proibito studiare Torah a Tisha B'Av, poiché è detto: 'I precetti del Signore sono retti, rallegrano il cuore' (Salmi 19:9), e la Torah rallegra il cuore. Si può studiare soltanto le parti tristi della Torah."
+    },
+    {
+      "n": 4,
+      "he": "ומה הם הדברים הרעים שמותר לקרות בהם? קורא בקינות, ובאיוב, ובדברים הרעים שביחזקאל. ומקרא ילמד מדרש תנחומא של פורענות.",
+      "it": "Quali sono le parti tristi che è permesso leggere? Si può leggere le Lamentazioni (Eichah/Kinot), il libro di Giobbe, e i passi di rimprovero del libro di Ezechiele. Dai testi rabbinici si può studiare il Midrash Tanchuma nelle sue sezioni di punizione e sofferenza."
+    },
+    {
+      "n": 5,
+      "he": "אין שואלין בשלום חברו בתשעה באב. ואם שאלו עם הארץ — משיב בשפה רפה ובכובד ראש.",
+      "it": "Non si rivolge il saluto al proprio prossimo a Tisha B'Av. Se un ignorante (am ha'aretz) rivolge un saluto, si risponde con voce bassa e capo chino."
+    },
+    {
+      "n": 6,
+      "he": "אסור לשאת ולתת בתשעה באב, שמא יבוא לידי שמחה. ואם אינו יכול שלא לעשות — עושה.",
+      "it": "È proibito svolgere transazioni commerciali a Tisha B'Av, per timore di venire trascinati in uno spirito di gaiezza. Se non è possibile evitarlo, lo si fa comunque."
+    },
+    {
+      "n": 7,
+      "he": "נוהגים לישב בתשעה באב על גבי קרקע או על מיטה כפויה, כאבלים. ונוהג כל דיני אבלות.",
+      "it": "È consuetudine sedersi a Tisha B'Av per terra o su un letto rovesciato, come i dolenti in lutto. Si osservano tutte le pratiche del lutto (avelut)."
+    },
+    {
+      "n": 8,
+      "he": "קוראים קינות בלילה ובבוקר. ומוציאין ספר תורה ביום וקורין שלשה גברי 'כי תוליד בנים' שבמשנה תורה, ומפטירין 'אסוף אסיפם'.",
+      "it": "Si recitano le Lamentazioni (Kinot) di notte e al mattino. Di giorno viene estratto il rotolo della Torah e tre uomini leggono il passo 'Quando avrai generato figli' (Deuteronomio 4:25-40). La Haftarah è 'Raccoglieteli del tutto' (Geremia 8:13-9:23)."
+    },
+    {
+      "n": 9,
+      "he": "מתפלל שחרית, מוסף, ואחר כך קינות. ובמנחה מתפלל עם תפילין, לפי שאינו מניח תפילין בשחרית.",
+      "it": "Si recita la preghiera del mattino (Shacharit), poi il Mussaf, e poi le Kinot. Alla preghiera del pomeriggio (Minchah) si indossano i tefillin (filatterie), poiché non li si è indossati al mattino di Tisha B'Av."
+    },
+    {
+      "n": 10,
+      "he": "נוהגים להתיר את ה'עינויים' של תשעה באב מחצות היום ואילך, שכבר נחרב הבית במחצית היום.",
+      "it": "È consuetudine alleggerire le afflizioni (inuyim) di Tisha B'Av a partire dal mezzogiorno, poiché la distruzione del Tempio avvenne nella seconda metà del giorno."
+    },
+    {
+      "n": 11,
+      "he": "יולדת שתוך שלשים יום ללידתה, ושכבה חולה — אינה מתענה, ומאכילים אותה.",
+      "it": "Una partoriente entro trenta giorni dal parto, e chi è malato costretto al letto, non digiunano e vengono nutriti."
+    },
+    {
+      "n": 12,
+      "he": "מי שאכל בתשעה באב, בין בשוגג בין במזיד, אינו צריך כפרה, שאין כאן כרת ולא לאו מן התורה.",
+      "it": "Chi mangia a Tisha B'Av, sia per errore (shogeg) sia intenzionalmente (mezid), non necessita di espiazione, poiché non vi è qui punizione di karet né proibizione biblica."
+    }
+  ],
+  "_glossary_terms_used": ["Tisha B'Av", "sicha", "rechitzah", "ne'ilat hasandal", "tashmmish hamita", "am ha'aretz", "avelut", "Kinot", "Shacharit", "Mussaf", "Minchah", "tefillin", "inuyim", "shogeg", "mezid", "karet"]
+}

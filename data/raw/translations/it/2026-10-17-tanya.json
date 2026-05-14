@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 25",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כה",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Lettera della Santità), lettera 25",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-17",
+  "hebrew_date": "6 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְעַל פָּסוּק צַדִּיק וְרַע לוֹ — הִנֵּה יֵשׁ לְפָרֵשׁ בְּשֵׁנֵי אֹפָנִים…",
+      "it": "L'Alter Rebbe si confronta con la difficile domanda classica della teodicea: «tzaddik ve-ra lo» — perché un giusto (tzaddik) soffre? La risposta tradizionale sembra insoddisfacente: come può un uomo veramente giusto subire il male? L'Alter Rebbe offre una risoluzione radicata nella kabbalah: esistono due tipi di tzaddikim. Il primo tipo è il «tzaddik ben tzaddik» (giusto figlio di giusto) — la cui anima divina è completamente purificata e non vi rimane alcuna traccia di kelipah (guscio impuro) nell'anima animale. Questo tzaddik non soffre affatto, perché non vi è nulla in lui che richieda purificazione attraverso la sofferenza."
+    },
+    {
+      "n": 2,
+      "he": "אֲבָל הַצַּדִּיק בֶּן רָשָׁע — אַף עַל פִּי שֶׁהוּא צַדִּיק גָּמוּר בְּמַעֲשָׂיו…",
+      "it": "Il secondo tipo è il «tzaddik ben rasha» (giusto figlio di malvagio) — un termine che non si riferisce necessariamente alla situazione letterale dei suoi genitori, ma alla struttura spirituale della sua anima. In questa anima rimangono delle tracce sottili di kelipah nell'anima animale (nefesh ha-behamit) — non abbastanza da influenzare le sue azioni, ma abbastanza da richiedere purificazione. La sofferenza che questo tzaddik sperimenta serve proprio a purificare queste ultime tracce di kelipah, affinché la sua anima raggiunga la completezza assoluta. Quindi «tzaddik ve-ra lo» non è un'ingiustizia divina — è un processo di perfezionamento amorevole."
+    },
+    {
+      "n": 3,
+      "he": "וְזֶהוּ שֶׁאָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה — יִסּוּרִין שֶׁל אַהֲבָה…",
+      "it": "Questo spiega il concetto talmudico di «yissurin shel ahavah» (sofferenze d'amore) — le sofferenze che D-o invia a coloro che ama precisamente perché li ama e vuole purificarli completamente. Non vi è contraddizione tra la bontà divina e la sofferenza del giusto; al contrario, la sofferenza è espressione dell'amore divino più profondo. L'Alter Rebbe conclude: chi comprende questo non vedrà la sofferenza come mancanza divina, ma come un dono — la possibilità di purificare l'anima fino alla sua radice più profonda (shoresh ha-neshamah), in preparazione al pieno splendore della Geulah (Redenzione)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "tzaddik ve-ra lo", "tzaddik ben tzaddik", "tzaddik ben rasha", "kelipah", "nefesh ha-behamit", "yissurin shel ahavah", "shoresh ha-neshamah", "Geulah"
+  ]
+}

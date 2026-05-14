@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Zechia UMatana 4-6",
+  "name_he": "משנה תורה, הלכות זכייה ומתנה, פרקים ד-ו",
+  "name_it": "Mishneh Torah, Leggi dell'Acquisizione e dei Doni, capitoli 4-6",
+  "cycle": "rambam-3",
+  "date": "2026-10-24",
+  "hebrew_date": "13 Cheshvan 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "4:1-7",
+      "he": "הַנּוֹתֵן מַתָּנָה לַחֲבֵרוֹ — צָרִיךְ שֶׁיִּהְיֶה בָּהּ קִנְיָן…",
+      "it": "(Zechia UMatana cap. 4) Matanah (dono): il trasferimento di proprietà come dono richiede un kinyan (atto formale di acquisizione) valido, esattamente come una vendita. Un dono dichiarato oralmente senza kinyan — non è valido per beni mobili (metaltelin), sebbene vi sia un'obbligazione morale. Per beni immobili — il dono si perfeziona con lo shtar (documento scritto) o con il chazakah (possesso continuato). Il donante che esegue un kinyan per un dono — non può ritirare il dono (chozrim be-matanah einam yekholim lehachzir). Un dono è irrevocabile una volta che il kinyan è stato eseguito."
+    },
+    {
+      "n": "5:1-5",
+      "he": "מַתְּנַת שְׁכִיב מֵרַע — הִיא מַתָּנָה שֶׁנִּתְּנָה בִּשְׁעַת מִיתָה…",
+      "it": "(Zechia UMatana cap. 5) Matnat shechiv mera (dono in punto di morte): un individuo in punto di morte (shechiv mera) che dispone dei propri beni oralmente — il suo dono è valido anche senza kinyan formale. I Saggi hanno disposto che le parole di un morente abbiano forza di documento scritto (divrei shechiv mera ke-ketuvim ve-ke-mesurin). La ratio: un morente non ha la forza di eseguire i formalismi legali ordinari, e sarebbe ingiusto lasciarlo morire senza poter disporre dei propri beni. Questa è una delle eccezioni principali al requisito del kinyan nel diritto ebraico."
+    },
+    {
+      "n": "6:1-6",
+      "he": "מַתְּנַת שְׁכִיב מֵרַע — אֵינָהּ מוּעֶלֶת אֶלָּא אִם כֵּן מֵת…",
+      "it": "(Zechia UMatana cap. 6) Condizioni della matnat shechiv mera: il dono è valido solo se il donante muore da quella malattia (o da quella situazione di pericolo). Se guarisce — il dono è automaticamente nullo, poiché il fondamento del dono era l'imminenza della morte. Il donante può revocare il dono esplicitamente anche prima della morte, fino all'ultimo momento. La matnat shechiv mera copre di default tutti i beni del morente — salvo indicazione contraria — a differenza del testamento standard. Distinzione fondamentale dalla tzava'ah (testamento): il testamento richiede formalità; la matnat shechiv mera è valida purché siano presenti testimoni all'espressione orale della volontà del morente."
+    }
+  ],
+  "_glossary_terms_used": [
+    "matanah", "kinyan", "metaltelin", "shtar", "chazakah", "shechiv mera", "matnat shechiv mera", "divrei shechiv mera ke-ketuvim ve-ke-mesurin", "tzava'ah"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Metamei Mishkav UMoshav 1-3",
+  "name_he": "משנה תורה, הלכות מטמאי משכב ומושב, פרקים א-ג",
+  "name_it": "Mishneh Torah, Leggi di Chi Rende Impuri il Giaciglio e il Sedile, capitoli 1-3",
+  "cycle": "rambam-3",
+  "date": "2026-08-26",
+  "hebrew_date": "13 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "1:1",
+      "he": "ארבעה הם אבות הטומאה של משכב ומושב: הזב, הזבה, הנידה, והיולדת.",
+      "it": "Quattro sono le fonti primarie di impurità (avot hatumah) del mishkav (giaciglio) e moshav (sedile): il zav (uomo con emissione anomala), la zavah (donna con emissione anomala), la niddah (donna nel periodo mestruale), e la yoledet (donna dopo il parto)."
+    },
+    {
+      "n": "1:2",
+      "he": "כולם — מטמאים את המשכב ואת המושב — הכלים שישבו עליהם או שכבו עליהם. ואלה — מטמאים אחרים.",
+      "it": "Tutti loro — rendono impuri il mishkav e il moshav — gli oggetti su cui siedono o su cui si sdraiarono. E questi oggetti — rendono a loro volta impuri altri."
+    },
+    {
+      "n": "1:3",
+      "he": "הטומאה של משכב ומושב — נקראת 'מדרס'. וחפץ שנטמא במדרס — טמא טומאת שבעה.",
+      "it": "L'impurità del mishkav e moshav — è chiamata 'midras' (impurità da pressione). Un oggetto reso impuro da midras — è impuro per sette giorni."
+    },
+    {
+      "n": "2:1",
+      "he": "הזב — הוא שיוצא ממנו זוב (ריר) שלא מחמת חולי. לשם 'זב' מלא — צריך שלש ראיות של זוב.",
+      "it": "Il zav — è colui da cui fuoriesce uno zov (una secrezione anomala) non a causa di malattia. Per il titolo pieno di 'zav' — sono necessarie tre emissioni di zov."
+    },
+    {
+      "n": "2:2",
+      "he": "ראה שתי ראיות — 'זב קטן'. ראה שלש ראיות — 'זב גדול' ומביא קרבן.",
+      "it": "Se ebbe due emissioni — è 'zav katan' (zav minore). Se ebbe tre emissioni — è 'zav gadol' (zav maggiore) e porta un sacrificio."
+    },
+    {
+      "n": "2:3",
+      "he": "טהרת הזב: שבעה ימים נקיים ללא זוב, ואחרי שבעה ימים — טובל ביום השביעי. ומביא שני תורים או שני בני יונה.",
+      "it": "La purificazione del zav: sette giorni puliti senza emissioni, e dopo i sette giorni — si immerge nel settimo giorno. Porta due tortore o due piccioni giovani come sacrificio."
+    },
+    {
+      "n": "3:1",
+      "he": "הזב מטמא כל דבר שישב עליו או שכב עליו. גם אדם שישב על המשכב — נטמא.",
+      "it": "Il zav rende impuro ogni cosa su cui ha seduto o si è sdraiato. Anche una persona che ha seduto sul mishkav — diventa impura."
+    },
+    {
+      "n": "3:2",
+      "he": "כיצד? ישב הזב על כסא — נטמא הכסא. ישב אחר על הכסא — נטמא האחר.",
+      "it": "Come? Il zav sedette su una sedia — la sedia è diventata impura. Un altro sedette sulla sedia — quell'altro è diventato impuro."
+    },
+    {
+      "n": "3:3",
+      "he": "הנוגע בזב — נטמא. הנושא את הזב — נטמא. הזב הנושא את הטהור — טמאו.",
+      "it": "Chi tocca il zav — diventa impuro. Chi porta il zav — diventa impuro. Il zav che porta il puro — lo ha reso impuro."
+    },
+    {
+      "n": "3:4",
+      "he": "הנידה — מטמאת כשאר הזב. ויש קולות בנידה לגבי מדרס.",
+      "it": "La niddah — rende impura come il zav. Vi sono alcune lenità riguardo alla niddah relativamente al midras."
+    },
+    {
+      "n": "3:5",
+      "he": "הגע עצמך: בית שיש בו נידה — כלי הבית טמאים?",
+      "it": "Rifletti su questo: una casa in cui si trova una niddah — gli utensili della casa sono impuri? Solo ciò su cui ella siede o si sdraia — non l'intera casa."
+    },
+    {
+      "n": "3:6",
+      "he": "לכן — נהגו הנשים בנידה שלא לנגוע בכלים שאחרים ישתמשו בהם, ולפרוש מבעליהן.",
+      "it": "Pertanto — le donne in niddah avevano l'usanza di non toccare utensili che altri avrebbero usato, e di separarsi dai propri mariti."
+    }
+  ],
+  "_glossary_terms_used": ["avot hatumah", "mishkav", "moshav", "zav", "zavah", "niddah", "yoledet", "midras", "zov", "zav katan", "zav gadol"]
+}

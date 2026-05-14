@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 6",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק ו",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 6",
+  "cycle": "tanya",
+  "date": "2026-09-04",
+  "hebrew_date": "22 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "שֵׁם הַוָי\"ה — מוֹרֶה עַל הַהֱיוֹת, שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא מַהְוֶה אֶת הָעוֹלָם בְּכָל רֶגַע מֵאַיִן לְיֵשׁ. שֵׁם זֶה מוֹרֶה עַל הָעֶצֶם — הַגִּלּוּי הָאֱלֹהִי שֶׁאֵין בּוֹ הֶסְתֵּר.", "it": "Il nome Havaya (YHVH) — indica l'essere, che il Santo Benedetto porta il mondo all'esistenza in ogni momento dal nulla. Questo nome indica l'Essenza — la rivelazione Divina in cui non c'è velamento."},
+    {"n": 2, "he": "שְׁנֵי הַשֵּׁמוֹת — הַוָי\"ה וְאֱלֹהִים — פּוֹעֲלִים בְּיַחַד בְּכָל עֵת. הַוָי\"ה מְגַלֶּה, אֱלֹהִים מַסְתִּיר. וּשְׁנֵיהֶם אֶחָד.", "it": "I due nomi — Havaya ed Elokim — operano insieme in ogni momento. Havaya rivela, Elokim vela. Ed entrambi sono uno."},
+    {"n": 3, "he": "הָאַחְדּוּת הַפְּנִימִית — שֶׁהַגִּלּוּי וְהַהֶסְתֵּר אֵינָם שְׁנֵי דְּבָרִים נִפְרָדִים, אֶלָּא שְׁנֵי פָּנִים שֶׁל מְצִיאוּת אַחַת. וּמִבְּחִינַת הָאֱמֶת — אֵין הֶסְתֵּר כְּלָל, שֶׁ'מָלֵא כָל הָאָרֶץ כְּבוֹדוֹ'.", "it": "L'unità interiore — è che la rivelazione e il velamento non sono due cose separate, ma due facce di un'unica realtà. E dal punto di vista della Verità — non c'è velamento affatto, poiché 'tutta la terra è piena della Sua gloria'."}
+  ],
+  "_glossary_terms_used": ["Havaya", "Elokim", "or Ein Sof", "gilui", "hester"]
+}

@@ -1,0 +1,116 @@
+{
+  "ref": "Mishneh Torah, Blessings 6",
+  "name_he": "הלכות ברכות, פרק ו",
+  "name_it": "Leggi delle benedizioni — Hilchot Berachot, capitolo 6",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-09",
+  "hebrew_date": "22 Iyyar 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל הָאוֹכֵל הַפַּת שֶׁמְּבָרְכִין עָלָיו הַמּוֹצִיא צָרִיךְ נְטִילַת יָדַיִם תְּחִלָּה וָסוֹף…",
+      "it": "Chi mangia pane su cui si recita ha-motzi è tenuto alla netilat yadàyim (lavaggio delle mani) sia prima sia dopo, anche se si tratta di pane ordinario (chullìn) e anche se le mani non sono sporche né vi sa alcuna impurità nota — non si mangia senza aver lavato entrambe le mani. Allo stesso modo, prima di consumare qualsiasi cibo intinto in un liquido (tibulò be-mashkìn) si devono lavare le mani."
+    },
+    {
+      "n": 2,
+      "he": "כָּל הַנּוֹטֵל יָדָיו בֵּין לַאֲכִילָה בֵּין לִקְרִיאַת שְׁמַע בֵּין לִתְפִלָּה מְבָרֵךְ תְּחִלָּה אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת יָדַיִם…",
+      "it": "Chi lava le mani — sia per mangiare, sia per la recitazione dello Shema, sia per la preghiera — recita prima la benedizione: «…che ci ha santificati con i Suoi precetti e ci ha comandato riguardo al lavaggio delle mani» (al netilat yadàyim). Si tratta di una mitzvà rabbinica, la cui radice è nella Torah, come è detto: «Secondo la legge che ti indicheranno» (Devarim 17:11). Sul lavaggio delle mani finale (màyim acharonìm), invece, non si recita la benedizione, poiché fu istituito solo come misura di protezione — ciò nondimeno vi è maggiore obbligo di osservarlo con cura."
+    },
+    {
+      "n": 3,
+      "he": "נְטִילַת יָדַיִם בֵּין תַּבְשִׁיל לְתַבְשִׁיל רְשׁוּת…",
+      "it": "Lavare le mani tra una pietanza e l'altra è facoltativo. La frutta ordinaria (perùt she-chullìn) non richiede il lavaggio delle mani né prima né dopo; chi si lava le mani prima di mangiare frutta appartiene ai presuntuosi. Qualsiasi pane salato richiede il lavaggio delle mani finale, per timore che vi sia sale di Sodoma o un sale simile, con cui inavvertitamente ci si tocchi gli occhi arrecando danno. Per questo vi è l'obbligo del lavaggio finale dopo ogni pasto a causa del sale. In un accampamento militare si è esenti dal lavaggio iniziale per l'impegno bellico, ma si è obbligati nel lavaggio finale a causa del pericolo."
+    },
+    {
+      "n": 4,
+      "he": "עַד הֵיכָן הִיא נְטִילַת יָדַיִם. עַד הַפֶּרֶק…",
+      "it": "Fino a dove si lavano le mani? Fino al polso. Quanto è la misura dell'acqua? Un revi'it per entrambe le mani. Qualsiasi cosa che costituisce una chatzitzà (interposizione) nell'immersione rituale costituisce interposizione anche nella netilat yadàyim. Tutti i liquidi che si computano nella misura del mikvè si computano anche nella misura del revi'it."
+    },
+    {
+      "n": 5,
+      "he": "כָּל הַצָּרִיךְ נְטִילַת יָדַיִם וְהִטְבִּיל יָדָיו בְּמֵי מִקְוֶה אֵינוֹ צָרִיךְ דָּבָר אַחֵר…",
+      "it": "Chi deve lavare le mani e le immerge nelle acque di un mikvè non ha bisogno di nient'altro. Se le ha immerse in acque che non raggiungono la misura del mikvè, oppure in acque attinte che si trovano per terra, non ha fatto nulla — le acque attinte (mayìm she'uvìn) purificano le mani solo se versate su di esse."
+    },
+    {
+      "n": 6,
+      "he": "כָּל הַנּוֹטֵל יָדָיו צָרִיךְ לְהִזָּהֵר בְּאַרְבָּעָה דְּבָרִים…",
+      "it": "Chi lava le mani deve prestare attenzione a quattro cose: l'acqua stessa — che non sia invalida per la netilat yadàyim; la misura — che vi sia un revi'it per entrambe le mani; il recipiente — che l'acqua venga versata da un recipiente idoneo; chi versa — che l'acqua provenga dalla forza di un essere umano che la versa."
+    },
+    {
+      "n": 7,
+      "he": "אַרְבָּעָה דְּבָרִים פּוֹסְלִין אֶת הַמַּיִם…",
+      "it": "Quattro cose invalidano l'acqua: cambiamento di colore; esposizione senza copertura (gilùi); utilizzo per un lavoro; deterioramento tale che un animale non la beverebbe. Come si applica? Acqua che ha cambiato colore — sia in recipienti sia in vasche per terra, sia a causa di qualcosa caduto dentro sia a causa del posto dove si trovano — è invalida. Allo stesso modo, se l'acqua era esposta in modo tale da renderla proibita alla bevanda, è invalida per la netilat yadàyim."
+    },
+    {
+      "n": 8,
+      "he": "כָּל מַיִם שֶׁנַּעֲשָׂה בָּהֶן מְלָאכָה נַעֲשׂוּ שׁוֹפְכִין וּפְסוּלִין לִנְטִילַת יָדַיִם…",
+      "it": "Qualsiasi acqua usata per un lavoro diventa acque di scolo (shofkhìn) e invalida per la netilat yadàyim. Come si applica? Acqua attinta con cui si sono lavati utensili o in cui si è intinto del pane — sia in recipienti sia in vasche per terra — è invalida. Se si sono lavati con essa utensili già puliti o nuovi, non diventa invalida. L'acqua in cui il fornaio immerge le ciambelle è invalida; quella di cui prende una manciata durante l'impasto è valida, poiché l'acqua usata è quella che ha preso con le mani, non l'intera riserva."
+    },
+    {
+      "n": 9,
+      "he": "וְכָל מַיִם שֶׁנִּפְסְלוּ מִשְּׁתִיַּת כֶּלֶב…",
+      "it": "Acqua che un cane non berrebbe — perché amara, salata, molto torbida o maleodorante — in un recipiente è invalida per la netilat yadàyim; in una vasca per terra si possono immergere le mani. Le acque termali di Tiberiade nel loro posto naturale sono valide per l'immersione delle mani; se però vengono prese in un recipiente o deviate in un altro luogo non sono valide né per il lavaggio iniziale né per quello finale, perché non sono adatte alla bevanda degli animali."
+    },
+    {
+      "n": 10,
+      "he": "יֵשׁ לַנּוֹטֵל לִתֵּן עַל יָדָיו מְעַט מְעַט עַד שֶׁיִּתֵּן כַּשִּׁעוּר…",
+      "it": "Si può versare l'acqua sulle mani un po' alla volta fino a raggiungere la misura prescritta; se si versa l'intero revi'it in un'unica mescita è valido. Quattro o cinque persone possono lavarsi con un'unica mescita, stando fianco a fianco o con le mani sovrapposte, a condizione che le dita siano leggermente aperte affinché l'acqua penetri tra di esse e vi sia acqua sufficiente per fornire un revi'it a ciascuno."
+    },
+    {
+      "n": 11,
+      "he": "אֵין נוֹטְלִין מַיִם לַיָּדַיִם לֹא בְּדָפְנוֹת הַכֵּלִים…",
+      "it": "Non si lavano le mani versando acqua dalle pareti dei recipienti, dal fondo di un samovàr, da cocci di terracotta o dal tappo di un barile. Se si è adattato il tappo al lavaggio delle mani, può essere usato. Allo stesso modo una borraccia adattata è valida. Un sacco o un cesto adattati, invece, non sono validi. Non si versa acqua sulle mani di un altro tenendola nelle proprie mani, perché le mani non sono un recipiente. Recipienti rotti in misura tale da non essere più soggetti alle leggi dell'impurità non sono validi per la netilat yadàyim perché sono considerati cocci."
+    },
+    {
+      "n": 12,
+      "he": "בְּכָל הַכֵּלִים נוֹטְלִים לַיָּדַיִם…",
+      "it": "Si può lavare le mani con qualsiasi recipiente, inclusi quelli di sterco compresso o di terra — purché siano integri. Un recipiente che non può contenere un revi'it o che non ne contiene uno non è valido per la netilat yadàyim."
+    },
+    {
+      "n": 13,
+      "he": "הַכּל כְּשֵׁרִין לִתֵּן לַיָּדַיִם אֲפִלּוּ חֶרֶשׁ שׁוֹטֶה וְקָטָן…",
+      "it": "Chiunque può versare acqua sulle mani di un altro — inclusi un sordo-muto, un disabile mentale e un bambino. Se non vi è nessun altro, si pone il recipiente tra le proprie ginocchia e si versa l'acqua sulle mani, oppure si inclina il barile sulle mani, oppure si versa prima su una mano e poi sull'altra e di nuovo sulla prima. Anche una scimmia che versa l'acqua è valida."
+    },
+    {
+      "n": 14,
+      "he": "הַשֹּׁקֶת שֶׁדּוֹלֶה אָדָם בְּיָדוֹ אוֹ בְּגַלְגַּל וְנוֹתֵן לְתוֹכָהּ…",
+      "it": "Chi versa acqua in una canaletta a mano o tramite una carrucola, e poi l'acqua scorre tramite un canale di irrigazione verso le verdure o gli animali: se immerge le mani nella canaletta e l'acqua vi passa sopra, il lavaggio non è valido perché non vi è nessuno che versa direttamente sulle sue mani. Se però le sue mani si trovano vicino al punto in cui il secchio versa l'acqua, tanto che l'acqua scorre sulle mani per effetto della forza umana, il lavaggio è valido."
+    },
+    {
+      "n": 15,
+      "he": "מַיִם שֶׁנִּסְתַּפֵּק לוֹ אִם נַעֲשָׂה מֵהֶן מְלָאכָה אוֹ לֹא נַעֲשָׂה…",
+      "it": "Nei casi di dubbio riguardo all'acqua — se sia stata usata per un lavoro o no, se sia nella misura richiesta o meno, se sia ritualmente pura o impura — e anche nel dubbio se le mani siano state lavate o no: in tutti questi casi di dubbio le mani sono considerate pure. Qualunque dubbio in materia di purità rituale delle mani si risolve in favore della purità."
+    },
+    {
+      "n": 16,
+      "he": "מַיִם הָרִאשׁוֹנִים צָרִיךְ שֶׁיַּגְבִּיהַּ יָדָיו לְמַעְלָה…",
+      "it": "Nel lavaggio iniziale si alzano le mani verso l'alto affinché l'acqua non scorra oltre il polso e ritorni contaminando le mani. Nel lavaggio finale si abbassano le mani verso il basso affinché tutta la forza del sale se ne vada. Il lavaggio iniziale può essere fatto sia in un recipiente sia per terra; quello finale solo in un recipiente. Il lavaggio iniziale può essere fatto sia con acqua calda sia con acqua fredda; quello finale non può essere fatto con acqua che scotta la mano — tale acqua non rimuove lo sporco perché non si possono sfregare le mani. Se l'acqua è tiepida si può usare per il lavaggio finale."
+    },
+    {
+      "n": 17,
+      "he": "נוֹטֵל אָדָם יָדָיו שַׁחֲרִית וּמַתְנֶה עֲלֵיהֶן כָּל הַיּוֹם…",
+      "it": "Una persona può lavarsi le mani la mattina e condizionare il lavaggio all'intera giornata, senza dover ripetere il lavaggio prima di ogni pasto — a condizione che non distolga l'attenzione dalle proprie mani. Se però ha distratto l'attenzione, deve lavarle di nuovo ogniqualvolta sia necessario."
+    },
+    {
+      "n": 18,
+      "he": "לָט אָדָם אֶת יָדָיו בְּמַפָּה וְאוֹכֵל בָּהֶן פַּת…",
+      "it": "Chi avvolge le mani in un panno può mangiare pane o cibi intinti in liquidi anche senza aver lavato le mani. Chi imbocca altri non deve lavare le mani; ma chi viene imboccato deve lavarle, anche se un altro pone il cibo direttamente nella sua bocca senza che egli tocchi il cibo. Allo stesso modo chi mangia con una forchetta deve lavare le mani."
+    },
+    {
+      "n": 19,
+      "he": "אָסוּר לְהַאֲכִיל מִי שֶׁלֹּא נָטַל יָדָיו…",
+      "it": "È proibito imboccare chi non ha lavato le mani, anche mettendo il cibo direttamente nella sua bocca. È proibito trattare con leggerezza la netilat yadàyim — i Saggi hanno impartito molti insegnamenti e ammonimenti al riguardo. Anche quando si ha solo acqua sufficiente per bere, si lava una parte delle mani, si mangia e poi si beve il resto."
+    },
+    {
+      "n": 20,
+      "he": "צָרִיךְ אָדָם לְנַגֵּב אֶת יָדָיו וְאַחַר כָּךְ יֹאכַל…",
+      "it": "Dopo il lavaggio si devono asciugare le mani prima di mangiare. Chi mangia senza asciugarle è come chi mangia pane impuro. Chi si lava le mani alla fine del pasto le asciuga e poi recita la birkat ha-mazon. La birkat ha-mazon deve seguire immediatamente il lavaggio finale senza alcuna interruzione. È persino proibito bere acqua dopo il lavaggio finale prima di aver recitato la birkat ha-mazon."
+    }
+  ],
+  "_glossary_terms_used": [
+    "netilat yadàyim", "ha-motzi", "chullìn", "tibulò be-mashkìn", "al netilat yadàyim",
+    "màyim acharonìm", "revi'it", "mikvè", "chatzitzà", "mayìm she'uvìn", "shofkhìn",
+    "gilùi", "birkat ha-mazon"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Tzara'at 5-7",
+  "name_he": "משנה תורה, הלכות טומאת צרעת, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità della Tzara'at, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-08-22",
+  "hebrew_date": "9 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "מי שקבע לו הכהן טומאת צרעת — ייקרא 'מצורע'. והמצורע חייב לגדל פרע ולקרוע בגדיו ולכסות שפמו ולצאת מחוץ לג' מחנות.",
+      "it": "Colui al quale il Kohen ha stabilito l'impurità della tzara'at — è chiamato metzora. Il metzora è tenuto a lasciar crescere i capelli disordinati (pera'), a stracciare i propri abiti, a coprire il labbro superiore e a uscire fuori dalle tre divisioni dell'accampamento."
+    },
+    {
+      "n": "5:2",
+      "he": "המצורע חייב לקרוא 'טמא טמא' — לידע לאנשים שיתרחקו ממנו.",
+      "it": "Il metzora è tenuto a gridare 'Tameh! Tameh!' (Impuro! Impuro!) — per informare le persone di allontanarsi da lui."
+    },
+    {
+      "n": "5:3",
+      "he": "המצורע אסור בתשמיש המיטה, ברחיצה, בסיכה, ובנעילת הסנדל. ואסור לקרוא בתורה.",
+      "it": "Il metzora è proibito nelle relazioni coniugali, nel lavarsi, nell'ungersi e nell'indossare calzature di cuoio. È proibito anche nella lettura pubblica della Torah."
+    },
+    {
+      "n": "5:4",
+      "he": "מצורע שנגע בכלים — לא טמאם. ואם נכנס לבית — טמא את כל הכלים שבבית.",
+      "it": "Il metzora che tocca utensili — non li rende impuri. Ma se entra in una casa — rende impuri tutti gli utensili che si trovano nella casa."
+    },
+    {
+      "n": "6:1",
+      "he": "כשמטהרים את המצורע, לוקחים שתי ציפורים חיות טהורות, ועץ ארז, ושני תולעת, ואזוב. שוחטים ציפור אחת על כלי חרס על מים חיים.",
+      "it": "Quando si purifica il metzora, si prendono due uccelli vivi e puri, legno di cedro, filo scarlatto (sheni tola'at) e issopo. Si sgozza uno degli uccelli su un vaso di terracotta sopra acqua di sorgente (mayim chayim)."
+    },
+    {
+      "n": "6:2",
+      "he": "את הציפור השנייה מטבילים בדם הציפור השחוטה עם המים, ומזים שבע פעמים על המצורע ומשלחים את הציפור החיה.",
+      "it": "Il secondo uccello viene immerso nel sangue dell'uccello sgozzato mescolato con l'acqua, e si asperge sette volte sul metzora, poi l'uccello vivo viene liberato."
+    },
+    {
+      "n": "6:3",
+      "he": "לאחר מכן — המצורע מגלח את כל שערו, רוחץ בגדיו, טובל, ומחוץ לאהלו ישב שבעה ימים.",
+      "it": "Dopo di ciò — il metzora si rade tutti i capelli, lava i propri abiti, si immerge nel mikveh, e abita fuori dalla propria tenda per sette giorni."
+    },
+    {
+      "n": "7:1",
+      "he": "ביום השביעי — מגלח שנית את כל שערו: ראשו, זקנו, גבותיו וכל שיעור שבו. ורוחץ בגדיו וטובל.",
+      "it": "Nel settimo giorno — si rade nuovamente tutti i capelli: la testa, la barba, le sopracciglia e ogni peluria su di lui. Lava i propri abiti e si immerge nel mikveh."
+    },
+    {
+      "n": "7:2",
+      "he": "ביום השמיני — מביא שלשה קרבנות: שני כבשים תמימים ואחת כבשה בת שנתה, ומנחה ושמן.",
+      "it": "L'ottavo giorno — porta tre sacrifici: due agnelli maschi integri e una giovenca pecora (kivshah) di un anno, una offerta di farina (minchah) e olio."
+    },
+    {
+      "n": "7:3",
+      "he": "אחד הכבשים הוא אשם — קרבן אשם המצורע. מתנות דמו נותנות על אוזן ימנית, ועל בוהן יד ימין, ועל בוהן רגל ימין.",
+      "it": "Uno degli agnelli è il sacrificio di colpa (asham) — il sacrificio di colpa del metzora. Il sangue viene applicato sull'orecchio destro, sul pollice della mano destra e sul pollice del piede destro."
+    },
+    {
+      "n": "7:4",
+      "he": "השמן — מזה הכהן שבע פעמים לפני ה', ונותן על אוזן ימין, בוהן יד, ובוהן רגל, ועל ראשו.",
+      "it": "L'olio — il Kohen lo asperge sette volte davanti al Signore, e poi lo applica sull'orecchio destro, sul pollice della mano, sul pollice del piede e sulla testa del metzora."
+    },
+    {
+      "n": "7:5",
+      "he": "לאחר הקרבנות — טהור המצורע לגמרי. ויכול לחזור לביתו ולמשפחתו.",
+      "it": "Dopo i sacrifici — il metzora è completamente puro. Può tornare alla sua casa e alla sua famiglia."
+    }
+  ],
+  "_glossary_terms_used": ["metzora", "pera'", "sheni tola'at", "mayim chayim", "mikveh", "asham", "minchah", "Kohen"]
+}

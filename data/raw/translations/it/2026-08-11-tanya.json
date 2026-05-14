@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 35",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק לה",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 35",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-11",
+  "hebrew_date": "28 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הלומד תורה — מאחד שכלו עם שכל ה'. ואיחוד זה גדול מכל מדרגות האהבה, כי: באהבה — מאחד רצונו עם רצון ה'; בתורה — מאחד שכלו עם שכל ה'. ויחוד בשכל — עמוק יותר מיחוד ברצון.",
+      "it": "Chi studia Torah unisce il proprio intelletto con l'intelletto di D-o. Questa unione è superiore a tutti i livelli dell'amore, perché: nell'amore si unisce la propria volontà con la volontà di D-o; nella Torah si unisce il proprio intelletto con l'intelletto di D-o. L'unione intellettuale è più profonda dell'unione volitiva."
+    },
+    {
+      "n": 2,
+      "he": "זה מה שאמרו חכמים: 'כל המשתמש בתגא חלף'. כלומר, מי שלומד תורה לשם פרס — לא זכה לדבקות. כי דביקות בתורה פירושה: השכל האנושי נבלע בשכל האלוהי שבתורה, ו'האורייתא וקודשא בריך הוא חד הוא'.",
+      "it": "Questo è ciò che dissero i Saggi: 'Chi si serve della corona, perisce' (Avot 4:5). Ovvero, chi studia Torah per una ricompensa non ha raggiunto la deveikut. Poiché la deveikut nella Torah significa: l'intelletto umano viene assorbito nell'intelletto divino che è nella Torah, e 'la Torah e il Santo Benedetto sono uno' (Oraita ve-Kudsha Berich Hu chad hu)."
+    },
+    {
+      "n": 3,
+      "he": "מי שזוכה ללמוד ברמת ה'דביקות' — חש שהתורה אינה 'מחוצה' לו, אלא היא חייו ממש. ו'חכמי האמת' כינו תורה זו 'נשמת התורה' — שכן כשם שהנשמה מחיה את הגוף — כך 'נשמת התורה' מחיה את כל לימוד התורה.",
+      "it": "Chi merita di studiare al livello della deveikut sente che la Torah non è 'esterna' a lui, ma è letteralmente la sua vita. I 'Chakhmei ha-Emet' (i mistici) chiamarono questa Torah 'nishmat ha-Torah' — poiché come l'anima vivifica il corpo, così la 'neshama della Torah' vivifica tutto lo studio della Torah."
+    }
+  ],
+  "_glossary_terms_used": ["deveikut", "Torah lishmah", "Oraita ve-Kudsha Berich Hu chad hu", "nishmat ha-Torah", "Chakhmei ha-Emet"]
+}

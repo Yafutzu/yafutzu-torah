@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Edut 13-15",
+  "name_he": "משנה תורה, הלכות עדות פרקים יג-טו",
+  "name_it": "Mishneh Torah, Leggi della Testimonianza, capitoli 13-15",
+  "cycle": "rambam-3",
+  "date": "2026-12-14",
+  "hebrew_date": "5 Tevet 5787",
+  "halachot_count": 13,
+  "halachot": [
+    {
+      "n": "13:1-5",
+      "he": "דִּינֵי נְפָשׁוֹת — חוֹמְרָן גְּדוֹלָה...",
+      "it": "(Edut cap. 13, hal. 1-5) La testimonianza nelle cause capitali vs. monetarie: nelle cause capitali (dinei nefashot), i requisiti sono più stringenti — i testimoni vengono avvertiti solennemente della gravità («da che il sangue di quella persona e di tutti i suoi discendenti potenziali graverà su di voi»), la deliberazione del beit din è più lunga, e si cerca attivamente di trovare meriti per l'accusato. Il sistema si schiera verso l'assoluzione nelle cause capitali — «ve-niku ha-edim ha-harigim» (i testimoni sono i primi a eseguire) crea una responsabilità immensa."
+    },
+    {
+      "n": "14:1-4",
+      "he": "עֵד אֶחָד — כּוֹפֵל לִשְׁבּוּעָה...",
+      "it": "(Edut cap. 14, hal. 1-4) Un singolo testimone (ed echad) non può condannare — né capitalmente né monetariamente. Ma il suo ruolo non è nullo: (1) nelle cause monetarie, un ed echad che testimonia contro il convenuto lo obbliga a giurare (shevuat ed echad); (2) un ed echad può attestare fatti accessori (come l'avvenuto pagamento di un debito) e creare presunzione. La regola biblica «al pi shnei edim» (Deuteronomio 19:15) è il fondamento — due testimoni sono la soglia minima della prova processuale."
+    },
+    {
+      "n": "15:1-4",
+      "he": "אֵין אָדָם מֵשִׂים עַצְמוֹ רָשָׁע...",
+      "it": "(Edut cap. 15, hal. 1-4) «Ein adam meisim atzmo rasha» — una persona non può rendere se stessa malvagia attraverso la propria testimonianza. L'auto-incriminazione non è valida nelle cause capitali e non crea responsabilità di fustigazione. La ragione: il sistema della testimonianza presuppone un osservatore esterno obiettivo; chi incrimina se stesso è, per definizione, di parte. Tuttavia, la confessione a un debito monetario (hodaah) è vincolante — «adam karov etzel atzmo» si applica solo all'autoincriminazione penale, non alle ammissioni civili volontarie."
+    }
+  ],
+  "_glossary_terms_used": [
+    "dinei nefashot", "beit din", "ed echad", "shevuat ed echad", "al pi shnei edim", "ein adam meisim atzmo rasha", "hodaah", "adam karov etzel atzmo"
+  ]
+}

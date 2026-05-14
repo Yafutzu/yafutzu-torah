@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Matnot Aniyim 8-10",
+  "name_he": "הלכות מתנות עניים פרקים ח'-י'",
+  "name_it": "Leggi dei Doni ai Poveri, Capitoli 8–10",
+  "cycle": "rambam-3",
+  "date": "2026-06-07",
+  "hebrew_date": "22 Sivan 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "8:1",
+      "he": "כָּל מִי שֶׁיֵּשׁ לוֹ מַה שֶּׁיֹּאכַל",
+      "it": "Chi ha con cui nutrirsi per il giorno non deve prendere la tzedakah dalla kuppah (קֻפָּה — cassa comunitaria). Chi non ha — deve prendere. La vergogna di prendere tzedakah è superata dall'obbligo di preservare la propria vita."
+    },
+    {
+      "n": "8:2",
+      "he": "עָנִי שֶׁהִסְתַּפֵּק בְּמוּעָט",
+      "it": "Un povero che si accontenta di poco (mistapek bemu'at, מִסְתַּפֵּק בְּמוּעָט) — vale a dire chi riduce i suoi bisogni volontariamente — non è obbligato a prendere più di quanto necessita. La tzedakah dà a ciascuno secondo il suo bisogno, non secondo una misura fissa uguale per tutti."
+    },
+    {
+      "n": "8:3",
+      "he": "עָנִי שֶׁנִּצְרַךְ",
+      "it": "Il povero che ha bisogno ma si vergogna di prendere — si cerca un modo discreto per aiutarlo. Gli si offre sotto forma di prestito (halvaah, הַלְוָאָה), dono mascherato da acquisto, o si porta direttamente a casa sua. La massima halachica è: 'Sostienilo prima che cada' (smoch oto kodem sheyipol, סְמוֹךְ אוֹתוֹ קוֹדֶם שֶׁיִּפּוֹל)."
+    },
+    {
+      "n": "8:4",
+      "he": "חֲכָמִים הֶחְמִירוּ עַל עַצְמָן",
+      "it": "I Saggi furono particolarmente severi con sé stessi nel non prendere tzedakah. Un talmid chacham (תַּלְמִיד חָכָם) che preferisce la povertà piuttosto che prendere dalla cassa pubblica è lodato. Tuttavia è proibito mettere in pericolo la propria vita per orgoglio — si deve prendere tzedakah quando necessario."
+    },
+    {
+      "n": "8:5",
+      "he": "יָחִיד שֶׁנָּתַן",
+      "it": "Un individuo che dà tzedakah privatamente non adempie pienamente l'obbligo comunitario della kuppah. La kuppah è raccolta e gestita dalla comunità (kehillah, קְהִלָּה) per i bisogni dei poveri residenti, e ogni membro della comunità deve contribuirvi."
+    },
+    {
+      "n": "8:6",
+      "he": "גֵּר צֶדֶק",
+      "it": "Il proselita (ger tzedek, גֵּר צֶדֶק — convertito sincero) che è povero ha diritto alla tzedakah come qualsiasi altro ebreo. Il versetto dice 'e al tuo fratello' — il proselita è 'fratello' in pieno senso spirituale e legale."
+    },
+    {
+      "n": "8:7",
+      "he": "גּוֹי עָנִי",
+      "it": "Si dà tzedakah anche al povero non ebreo (goy ani, גּוֹי עָנִי) per via delle vie della pace (darchei shalom, דַּרְכֵי שָׁלוֹם). Non è obbligatorio come per l'ebreo, ma è una pratica lodata che promuove la convivenza pacifica."
+    },
+    {
+      "n": "9:1",
+      "he": "אֵין אָדָם מֵת מֵחֲצִי נְכָסָיו",
+      "it": "Nessuno muore di dare metà dei suoi beni in tzedakah — dice il Rambam — ma è saggio non dare più di un quinto (chomesh, חוֹמֶשׁ) per non impoverirsi. La Torah vuole che si dia generosamente ma non fino all'autodistruzione."
+    },
+    {
+      "n": "9:2",
+      "he": "הַמַּרְבֶּה לִתֵּן",
+      "it": "Chi dà più di un quinto rischia di diventare lui stesso un bisognoso e di dover ricevere tzedakah dagli altri. I Saggi decretarono il limite del quinto proprio per evitare questo paradosso in cui il donatore diventa il ricevente."
+    },
+    {
+      "n": "9:3",
+      "he": "מִי שֶׁיֵּשׁ לוֹ",
+      "it": "Chi possiede beni ma preferisce non farne uso per sé per sembrare povero — i Saggi non hanno apprezzato questo comportamento. Non si fingono poveri e non si accetta tzedakah quando non se ne ha bisogno reale. 'Non ti chiudere nel tuo cuore' (Deut. 15:7) vale in entrambe le direzioni."
+    },
+    {
+      "n": "9:4",
+      "he": "כֵּיצַד נוֹתְנִים צְדָקָה",
+      "it": "Come si dà tzedakah? Il principio è 'kefet tzorko' (כֶּפִי צָרְכוֹ — secondo il suo bisogno). Si dà al povero ciò di cui ha bisogno — cibo se ha fame, vestiti se è freddo, utensili da casa se manca di essi. Non si dà sempre solo denaro."
+    },
+    {
+      "n": "9:5",
+      "he": "הַמַּלְבִּישׁ אֶת הֶעָנִי",
+      "it": "Vestire il povero (malbish et he-ani, מַלְבִּישׁ אֶת הֶעָנִי) è una forma privilegiata di tzedakah poiché risponde a un bisogno immediato e visibile. La dignità del povero (kavod, כָּבוֹד) viene ristabilita attraverso il vestirlo."
+    },
+    {
+      "n": "9:6",
+      "he": "הַמַּשִּׂיא עָנִי",
+      "it": "Aiutare un povero a sposarsi — fornendo la dote (naduniyah, נְדוּנְיָה) o le spese del matrimonio — è la forma più alta di tzedakah secondo molti Saggi, poiché crea la base per l'indipendenza permanente del povero."
+    },
+    {
+      "n": "9:7",
+      "he": "לֹא תִקְפּוֹץ אֶת יָדְךָ",
+      "it": "Il versetto 'Non chiudere la tua mano al tuo fratello bisognoso' (Deut. 15:7) è interpretato come divieto positivo. Vedere la sofferenza del povero e ignorarla deliberatamente viola un divieto della Torah oltre a non adempiere il precetto positivo."
+    },
+    {
+      "n": "10:1",
+      "he": "מִצְוַת צְדָקָה גְּדוֹלָה",
+      "it": "La mitzvah della tzedakah è grande più di tutte le altre mitzvot. Il Rambam cita i Profeti: 'Sion sarà riscattata con il diritto e i suoi redenti con la tzedakah' (Is. 1:27). Il termine 'tzedakah' viene da 'tzedek' (צֶדֶק — giustizia/rettitudine), non da generosità. È un atto di giustizia, non di grazia."
+    },
+    {
+      "n": "10:2",
+      "he": "הַנּוֹתֵן מִתְנוֹת לָאֶבְיוֹן",
+      "it": "Chi dà tzedakah a chi non ne ha bisogno o a chi mente sulla propria povertà — non ha violato la mitzvah (la sua intenzione era buona) ma non ha adempiuto l'obbligo verso il vero povero. Si deve verificare con discrezione la veridicità del bisogno."
+    },
+    {
+      "n": "10:3",
+      "he": "מִי שֶׁבָּקֵשׁ לֶחֶם",
+      "it": "Chi chiede del pane (lechem, לֶחֶם) — si dà immediatamente senza indagini, poiché potrebbe morire di fame se si ritarda. Chi chiede vestiti — si verifica brevemente se è effettivamente privo. La fame è urgenza immediata; il bisogno di vestiti è meno immediato."
+    },
+    {
+      "n": "10:4",
+      "he": "אֵין מַחֲזִירִין אֶת הֶעָנִי",
+      "it": "Non si rimanda il povero che chiede. Il Rambam è categorico: 'Mai rimanda il povero a mani vuote (adayin rei'kam, אַדַיִן רֵיקָם)'. Se non si può dare nulla — si consoli almeno con parole gentili, poiché ferire un povero con parole dure viola 'lo toneh' (לֹא תוֹנֶה — non opprimere)."
+    },
+    {
+      "n": "10:5",
+      "he": "כָּל הַמְרַחֵם",
+      "it": "Chi ha compassione (mechalem, מְרַחֵם) per i poveri — Dio ha compassione di lui. Il Rambam conclude: i simboli d'identità di Israele sono tre — tzeniut (צְנִיעוּת — pudore/riservatezza), rachmanut (רַחֲמָנוּת — compassione), e gmilut chasadim (גְּמִילוּת חֲסָדִים — atti di bontà). Chi manca di questi tratti — la sua origine è sospetta."
+    },
+    {
+      "n": "10:6",
+      "he": "כָּל יִשְׂרָאֵל",
+      "it": "Tutti gli ebrei sono fratelli l'uno dell'altro ('achim', אַחִים), come dice la Torah: 'Poiché i poveri non cesseranno di essere in mezzo alla terra' (Deut. 15:11). Questo non è una constatazione pessimista ma un appello: ci sarà sempre la possibilità e l'obbligo di dare tzedakah. Questa è la chiusura magistrale delle Hilchot Matnot Aniyim."
+    }
+  ],
+  "_glossary_terms_used": ["kuppah", "mistapek bemu'at", "halvaah", "talmid chacham", "kehillah", "ger tzedek", "darchei shalom", "chomesh", "kefet tzorko", "naduniyah", "tzedek", "lechem", "tzeniut", "rachmanut", "gmilut chasadim", "achim"]
+}

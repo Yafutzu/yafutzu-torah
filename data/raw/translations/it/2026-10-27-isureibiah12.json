@@ -1,0 +1,54 @@
+{
+  "ref": "Mishneh Torah, Issurei Biah 12",
+  "name_he": "משנה תורה, הלכות איסורי ביאה, פרק יב",
+  "name_it": "Mishneh Torah, Leggi delle Relazioni Sessuali Proibite, capitolo 12",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-27",
+  "hebrew_date": "16 Cheshvan 5787",
+  "halachot_count": 8,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַכֹּהֵן — מְצֻוֶּה לִקְדֹּשׁ יוֹתֵר מִיִּשְׂרָאֵל, לְפִיכָךְ אָסוּר לָשֵׂאת גְּרוּשָׁה…",
+      "it": "Il kohen (sacerdote) è comandato a una kedushah (santità) superiore rispetto all'israelita ordinario. Di conseguenza, è proibito al kohen sposare: (1) una gerushah (donna divorziata); (2) una chalutza (donna che ha ricevuto la chalitzah — l'atto di liberazione dal levirato); (3) una zona (donna «promiscua» — che ha avuto rapporti con un uomo che le è proibito). Queste restrizioni derivano da Vayikra 21:7. La ratio: il kohen è il servitore del Tempio e deve incarnare un livello superiore di purezza rituale e morale nella vita familiare."
+    },
+    {
+      "n": 2,
+      "he": "מִי הִיא הַזּוֹנָה לְעִנְיַן כְּהֻנָּה? — כָּל שֶׁנִּבְעֲלָה בְּבִיאָה הָאֲסוּרָה לָהּ…",
+      "it": "Chi è la «zona» (termine halakhico per «promiscua» — non nel senso comune) ai fini delle leggi del kohen? Una donna che ha avuto rapporti con un uomo proibito a lei — anche se era una sola volta. Non è una questione di frequenza o di moralità generale, ma di una specifica trasgressione: rapporti con un uomo che è proibito alla donna (un uomo con cui non poteva sposarsi, o in condizione di niddah, ecc.). Una niddah che ha rapporti — diventa zona per il kohen. Una donna che è stata violentata (ones) — non diventa zona, poiché non agì volontariamente."
+    },
+    {
+      "n": 3,
+      "he": "הַחֲלוּצָה — אֲסוּרָה לְכֹהֵן, מִדִּבְרֵי חֲכָמִים…",
+      "it": "La chalutza — la donna che ha ricevuto la chalitzah (l'atto di liberazione dal levirato, attraverso la rimozione del sandalo e la dichiarazione formale) — è proibita al kohen per decreto rabbinico. A livello biblico, la Torah proibisce esplicitamente solo la gerushah (divorziata); la chalutza è assimilata alla gerushah per decreto rabbinico perché la sua situazione le somiglia. Il Rambam segue la posizione dominante che la chalutza è proibita al kohen miderabanan (rabbinicamente)."
+    },
+    {
+      "n": 4,
+      "he": "הַכֹּהֵן גָּדוֹל — מְצֻוֶּה בִּקְדֻשָּׁה יְתֵרָה, וְאָסוּר לָשֵׂאת אֲפִלּוּ אַלְמָנָה…",
+      "it": "Il kohen gadol (sommo sacerdote) ha restrizioni aggiuntive rispetto al kohen ordinario: oltre a tutte le proibizioni del kohen comune, il kohen gadol non può sposare nemmeno una almanah (vedova). Questo è espressamente dal versetto Vayikra 21:13-14: «e sposerà una donna nella sua verginità; una vedova o una divorziata... non sposerà». Il kohen gadol deve sposare una betulah (vergine) israelita la prima volta. Se ha già una moglie che diventa vedova (dopo la morte di un marito precedente) — non può sposarla, ma ciò si è risolto in molti casi pratici con il divorzio preventivo."
+    },
+    {
+      "n": 5,
+      "he": "הַחֲלָלָה — בַּת כֹּהֵן מֵאִשָּׁה הָאֲסוּרָה לוֹ — אֲסוּרָה לִכְהֻנָּה…",
+      "it": "La chalalah (letteralmente «profanata») è la figlia nata dall'unione di un kohen con una donna che era proibita a lui — ad esempio la figlia di un kohen che ha sposato una gerushah. La chalalah perde lo status sacrale del kohen: non è una «bat kohen» valida, non ha i privilegi del sacerdozio (non può mangiare terumah se non ha un marito kohen), e un kohen non può sposarla. Il chalal (maschio) — figlio di tale unione — non ha i diritti del kohen: non può compiere servizio nel Tempio."
+    },
+    {
+      "n": 6,
+      "he": "כֹּהֵן שֶׁנָּשָׂא גְּרוּשָׁה — לוֹקֶה, וְאֵין קִדּוּשָׁיו קִדּוּשִׁין…",
+      "it": "Un kohen che sposa una gerushah — riceve malkot (fustigazione), poiché ha transgredito una proibizione biblica esplicita. Tuttavia il matrimonio è controverso se sia valido o no: secondo il Rambam, il matrimonio è valido be-di'avad (dopo il fatto) — cioè, anche se è proibito, non viene annullato automaticamente. La donna è considerata sua moglie valida, ma egli ha transgredito una proibizione. Il kohen deve divorziare da lei (deve darle il get). I figli nati da questa unione sono chalalim."
+    },
+    {
+      "n": 7,
+      "he": "כְּהֻנָּה — קְדֻשָּׁה גְּדוֹלָה הִיא בְּיִשְׂרָאֵל…",
+      "it": "Il Rambam conclude il capitolo con una nota teologica: il sacerdozio (kehunah) è una grande santità in Israele. I kohanim sono «mashrutin be-kedushah» — chiamati alla santità in modo speciale. Le restrizioni matrimoniali del kohen non sono punizioni ma espressioni della sua identità sacrale. Come il Tempio (Beit HaMikdash) ha livelli di santità crescenti (chatzrot — cortili, ulam, heichal, kodesh hakodashim), così il popolo d'Israele ha livelli: israelita, levi, kohen, kohen gadol. Ogni livello porta con sé responsabilità e restrizioni maggiori — non solo privilegi."
+    },
+    {
+      "n": 8,
+      "he": "אִשָּׁה שֶׁנֶּאֶנְסָה — לֹא נִפְסְלָה לִכְהֻנָּה, שֶׁכֵּן לֹא נִקְרֵאת זוֹנָה…",
+      "it": "Una donna che è stata violentata (ones) — non è proibita al kohen per essere diventata zona, poiché non agì volontariamente. La Torah e i Saggi distinguono con precisione tra atto volontario e atto subito. Una betulah (vergine) che è stata violentata — può ancora sposare un kohen ordinario (ma non il kohen gadol, che deve sposare una betulah che non ha mai avuto rapporti). Questa distinzione riflette il principio fondamentale della halakhah: la colpa e le conseguenze legali dipendono dalla volontà e dall'intenzione, non solo dall'atto fisico."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kohen", "kedushah", "gerushah", "chalutza", "zona", "almanah", "kohen gadol", "betulah", "chalal", "chalalah", "malkot", "get", "kehunah", "ones", "terumah", "Beit HaMikdash"
+  ]
+}

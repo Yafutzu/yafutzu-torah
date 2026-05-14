@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mamrim 3-5",
+  "name_he": "משנה תורה, הלכות ממרים פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi dei Ribelli, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-12-18",
+  "hebrew_date": "9 Tevet 5787",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Mamrim 3:1-4",
+      "he": "בֵּן סוֹרֵר וּמוֹרֶה — כֵּיצַד דִּינוֹ…",
+      "it": "(Mamrim cap. 3, hal. 1-4) Il «ben sorer u-moreh» (figlio ribelle e ostinato): definito dalla Torah (Deuteronomio 21:18-21) come il figlio che mangia voracemente e beve ubriaco, non ascolta i genitori, e persevera nel suo comportamento distruttivo. La halakhah delimita questa categoria in modo straordinariamente stretto: deve essere un adolescente maschio nel preciso periodo dei tre mesi successivi alla bar mitzvah, deve aver consumato carne e vino in quantità precise, in una casa di briganti. Quasi nessuno soddisfa tutti i criteri."
+    },
+    {
+      "n": "Mamrim 4:1-4",
+      "he": "הַבֵּן סוֹרֵר וּמוֹרֶה — אָבִיו וְאִמּוֹ צְרִיכִין שְׁנֵיהֶם לְהָבִיאוֹ…",
+      "it": "(Mamrim cap. 4, hal. 1-4) Il processo del ben sorer: entrambi i genitori devono portarlo davanti agli anziani della città — insieme, in accordo. Se uno dei due lo perdona o si rifiuta di portarlo, è libero. Gli anziani lo ammoniscono una prima volta; se persiste, viene portato di nuovo da entrambi i genitori davanti al grande tribunale. Il Talmud osserva laconicamente: «ben sorer u-moreh non è mai accaduto nella storia — fu scritto perché potessimo ricevere ricompensa per il suo studio.» Il caso teorico educa sulla natura dell'autorità e della famiglia."
+    },
+    {
+      "n": "Mamrim 5:1-5",
+      "he": "כִּבּוּד אָב וָאֵם — מִצְוַת עֲשֵׂה מִן הַתּוֹרָה…",
+      "it": "(Mamrim cap. 5, hal. 1-5) L'onore verso i genitori (kibbud av va'em): la Torah equipara l'onore dovuto ai genitori all'onore dovuto a D-o — perché i genitori sono partner con D-o nella creazione della persona. L'onore include: nutrirli, dare da bere, vestirli, accompagnarli, non contraddirli davanti agli altri. La soglia superiore: anche se il padre o la madre hanno comportamenti vergognosi, non si svergognano pubblicamente. Il Rambam collega questo capitolo al contesto del zaken mamre: la ribellione verso i genitori e la ribellione verso il Sinedrio derivano dalla stessa radice — il rifiuto dell'autorità legittima della tradizione."
+    }
+  ],
+  "_glossary_terms_used": [
+    "ben sorer u-moreh", "kibbud av va'em", "zaken mamre", "Sinedrin", "bar mitzvah", "tannaim"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bechorot 2-4",
+  "name_he": "משנה תורה, הלכות בכורות, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dei Primogeniti, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-08-05",
+  "hebrew_date": "22 Av 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "2:1",
+      "he": "בכור שנולד בו מום קבוע — הרי זה כחולין גמורים, ומותר לשוחטו ולאוכלו בכל מקום. אלא שאסור לגרום לו את המום בידיים.",
+      "it": "Un primogenito (bechor) nato con un difetto fisico permanente (mum kavua) è trattato come carne ordinaria (chulin), ed è permesso macellarlo e mangiarlo ovunque. È però vietato causargli deliberatamente il difetto con le proprie mani."
+    },
+    {
+      "n": "2:2",
+      "he": "מום קבוע הוא כגון: עיוורון, חרשות, שבירת עצם, ושאר המומים הפוסלים בכהנים — הם הם הפוסלים בקרבנות ובבכור.",
+      "it": "Un difetto fisico permanente include: cecità, sordità, frattura ossea, e tutti gli altri difetti che invalidano i sacerdoti (kohanim) dal servizio — essi stessi invalidano i sacrifici e il primogenito."
+    },
+    {
+      "n": "2:3",
+      "he": "מי שאין לו כוהן שיבדוק את המום — ישאל חכם שיבדוק עבורו. ואין שוחטים את הבכור על פי בעלים בלבד, אלא על פי שלושה בקיאים.",
+      "it": "Chi non ha un kohen che esamini il difetto, chieda a un saggio esperto di esaminare per lui. Non si macella il primogenito solo su dichiarazione del proprietario, ma solo sulla base del giudizio di tre esperti."
+    },
+    {
+      "n": "3:1",
+      "he": "אסור לגרום מום בבכור כדי להתירו. ומי שגרם מום בבכור — לוקה, שנאמר 'לא תעשה כל מלאכה בבכור שורך'. ואם גרם מום — אפילו הכי הבכור אסור בשחיטה.",
+      "it": "È vietato causare un difetto in un primogenito per renderlo permissibile. Chi causa deliberatamente un difetto nel primogenito è passibile di flagellazione, come è detto: 'Non farai alcun lavoro con il primogenito del tuo bue' (Devarim 15:19). Anche se ha causato il difetto, il primogenito rimane comunque vietato alla macellazione."
+    },
+    {
+      "n": "3:2",
+      "he": "כוהן שגרם מום בבכור — לוקה ואיבד את חלקו בו. ואינו יכול לאוכלו. ומי שמוכר הבכור לבעלים — אסור, כי כל בכור ניתן לכוהן בחינם.",
+      "it": "Un kohen che causa un difetto nel primogenito è passibile di flagellazione e perde il proprio diritto su di esso — non può mangiarlo. Vendere il primogenito al proprietario è vietato, poiché ogni primogenito viene dato al kohen gratuitamente."
+    },
+    {
+      "n": "4:1",
+      "he": "פטר חמור — מצוה לפדותו בשה. אם לא פדאו — ערפו, שנאמר 'ואם לא תפדה — וערפתו'. ומצות הפדיון — לתת השה לכוהן.",
+      "it": "Il primogenito dell'asino (peter chamor) deve essere riscattato con un agnello (seh). Se non viene riscattato, gli si taglia la nuca (arifah), come è detto: 'E se non lo riscatti, spezzerai il suo collo' (Shemot 13:13). Il precetto del riscatto consiste nel dare l'agnello al kohen."
+    },
+    {
+      "n": "4:2",
+      "he": "למה דווקא חמור? כי שעת יציאת מצרים, כל ישראל השתמשו בחמורים להוצאת כסף ומשא מן הגויים. ולכן זכה החמור לקדושת הבכורה.",
+      "it": "Perché proprio l'asino? Perché al momento dell'Esodo dall'Egitto tutti gli israeliti si servirono degli asini per trasportare argento e carichi dai non ebrei. Pertanto l'asino meritò la santità della condizione di primogenito."
+    },
+    {
+      "n": "4:3",
+      "he": "מי שיש לו כמה חמורים, ולא ידע איזה מהם הוא פטר חמור — פודה את כולם. ואם ידוע לו אחד — פודה אותו בלבד.",
+      "it": "Chi possiede più asini e non sa quale di essi sia il primogenito, riscatta tutti. Se sa con certezza qual è il primogenito, riscatta solo quello."
+    }
+  ],
+  "_glossary_terms_used": ["bechor", "mum kavua", "chulin", "kohen", "peter chamor", "arifah", "seh"]
+}

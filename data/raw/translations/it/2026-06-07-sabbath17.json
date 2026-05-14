@@ -1,0 +1,117 @@
+{
+  "ref": "Mishneh Torah, Sabbath 17",
+  "name_he": "הלכות שבת פרק י\"ז",
+  "name_it": "Leggi dello Shabbat, Capitolo 17",
+  "cycle": "rambam-1",
+  "date": "2026-06-07",
+  "hebrew_date": "22 Sivan 5786",
+  "halachot_count": 21,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אָמַר לְנָכְרִי לַעֲשׂוֹת שְׁבוּת",
+      "it": "Il capitolo approfondisce i limiti dell'amira lenochri. Un ebreo non può dire a un non ebreo di fare qualcosa che è proibita per l'ebreo come 'shvut' (שְׁבוּת — divieto rabbinico) di Shabbat. Tuttavia, dire al non ebreo di fare una 'shvut d'shvut' (שְׁבוּת דְּשְׁבוּת — due gradi di distanza rabbinica) in caso di bisogno urgente è permesso."
+    },
+    {
+      "n": 2,
+      "he": "שְׁבוּת דִּשְׁבוּת",
+      "it": "Cos'è uno shvut d'shvut? Quando sia l'azione stessa sia il fatto che la fa un non ebreo sono proibiti solo per decreto rabbinico (e non dalla Torah) — si ha un doppio divieto rabbinico. In caso di mitzvah urgente o bisogno significativo, i Saggi permisero di dire al non ebreo di fare uno shvut d'shvut."
+    },
+    {
+      "n": 3,
+      "he": "הִנִּיחַ לוֹ נָכְרִי לַעֲשׂוֹת",
+      "it": "Se il non ebreo fa spontaneamente un'azione di Shabbat per l'ebreo senza essere stato incaricato — l'ebreo deve valutare se fermare o meno il non ebreo. Se c'è perdita significativa, non deve necessariamente fermarlo; se non c'è urgenza, deve farlo cessare."
+    },
+    {
+      "n": 4,
+      "he": "גְּרָמָה בִּשְׁבוּת",
+      "it": "La causazione indiretta (grama, גְּרָמָה — causa lontana) è in genere permessa di Shabbat quando l'azione proibita avviene solo indirettamente. Tuttavia, se la grama è di un'azione proibita dalla Torah (melacha d'oraita, מְלָאכָה דְּאוֹרַיְיתָא), anche la grama è proibita."
+    },
+    {
+      "n": 5,
+      "he": "גּוּד אוֹ אֲגוּד",
+      "it": "Il principio del 'gud o agud' (גּוּד אוֹ אֲגוּד — spingere o raccogliere) si applica nella valutazione del movimento indiretto di oggetti. Se si fa scorrere dell'acqua in un canale che alla fine bagna un campo — è grama e generalmente permessa."
+    },
+    {
+      "n": 6,
+      "he": "מִי שֶׁנָּסַע בַּסְּפִינָה",
+      "it": "Chi viaggia su una nave (sefinah, סְפִינָה) di Shabbat che appartiene a un non ebreo — se già in navigazione prima di Shabbat — non fa nulla di proibito. Il navigare del non ebreo non è attribuito all'ebreo passeggero."
+    },
+    {
+      "n": 7,
+      "he": "לָגוּר עַל גַּבֵּי הַנָּהָר",
+      "it": "Non si abita accanto a un fiume (nahar, נָהָר) se questo porta a utilizzare l'acqua in modi proibiti di Shabbat. Tuttavia si può bere dall'acqua del fiume se se ne attinge in modo normale (notinim b'derech rgilah, נוֹתְנִין בְּדֶרֶךְ רְגִילָה — nel modo consueto)."
+    },
+    {
+      "n": 8,
+      "he": "הַמּוֹצִיא בְּגוּפוֹ",
+      "it": "Chi porta qualcosa di Shabbat in modo insolito (shinui, שִׁינּוּי) — ad esempio in bocca, tra le dita dei piedi, o avvolto in modo insolito — è esente dalla pena di Torah ma ha comunque violato un divieto rabbinico."
+    },
+    {
+      "n": 9,
+      "he": "הַזּוֹרֵק לְתוֹךְ פִּיו",
+      "it": "Chi lancia qualcosa direttamente nella propria bocca da un dominio pubblico — anche se non lo trasporta fisicamente con le mani — viola il divieto di 'hotzaah' (הוֹצָאָה — portare fuori). L'azione è attribuita all'intenzione, non al mezzo fisico."
+    },
+    {
+      "n": 10,
+      "he": "הָעוֹמֵד בִּרְשׁוּת הַיָּחִיד",
+      "it": "Chi sta nel dominio privato (reshut hayachid, רְשׁוּת הַיָּחִיד) e porta qualcosa nel dominio pubblico — viola il divieto di hotzaah dalla Torah. Il confine tra i due domini è il fulcro del divieto."
+    },
+    {
+      "n": 11,
+      "he": "הַמּוֹשִׁיט",
+      "it": "Chi allunga il braccio da un dominio all'altro per passare un oggetto — anche senza spostare i piedi — viola il divieto di hotzaah. La mano che attraversa il confine porta l'oggetto dal dominio privato al pubblico."
+    },
+    {
+      "n": 12,
+      "he": "שְׁנֵיהֶם פְּטוּרִים",
+      "it": "Se due persone trasportano insieme un oggetto — dove ognuna da sola non avrebbe potuto farlo — sono entrambe esenti dalla pena della Torah poiché la Mishnah dice che chi è obbligato nel trasporto deve essere uno solo. I Saggi però le puniscono con una pena rabbinica."
+    },
+    {
+      "n": 13,
+      "he": "גָּדוֹל הַנֶּהֱנֶה",
+      "it": "Il divieto di beneficiare di un'azione proibita compiuta di Shabbat si applica anche quando il risultato dell'azione è permesso di per sé. Chi gode di qualcosa prodotto mediante violazione di Shabbat viola il rispetto del Shabbat."
+    },
+    {
+      "n": 14,
+      "he": "אֲכִילָה בְּשַׁבָּת",
+      "it": "È permesso mangiare cibo cucinato di Shabbat se è stato cucinato prima di Shabbat. Se fu cucinato di Shabbat intenzionalmente in violazione — il cibo è proibito allo stesso cuoco ma permesso ad altri dopo la fine di Shabbat."
+    },
+    {
+      "n": 15,
+      "he": "שָׂדֶה שֶׁנִּזְרְעָה",
+      "it": "Un campo lavorato di Shabbat non diventa proibito per questo. Il lavoro agricolo di Shabbat è proibito all'esecutore ma non rende il prodotto del campo proibito. A differenza della melachah della cucina, la melachah del campo non proibisce il prodotto."
+    },
+    {
+      "n": 16,
+      "he": "מֶרְחָץ שֶׁהוּחַם",
+      "it": "Un bagno pubblico (merchatz, מֶרְחָץ) le cui acque furono scaldate di Shabbat — è proibito a coloro per i quali fu scaldato. Per altri è permesso subito dopo Shabbat, poiché non sono stati i destinatari dell'azione proibita."
+    },
+    {
+      "n": 17,
+      "he": "כְּבָשִׁים שֶׁנִּקְצְצוּ",
+      "it": "Frutti colti di Shabbat sono proibiti a chi li ha colti per Shabbat stesso. Dopo Shabbat, per Motzaei Shabbat (מוֹצָאֵי שַׁבָּת — l'uscita di Shabbat), si aspetta il tempo necessario alla coltivazione (bimshech zman, בִּמְשֵׁךְ זְמָן) prima di mangiarli."
+    },
+    {
+      "n": 18,
+      "he": "נָכְרִי שֶׁעָשָׂה מְלָאכָה",
+      "it": "Ciò che un non ebreo ha fatto di Shabbat — senza essere stato incaricato da un ebreo — è permesso all'ebreo. Il non ebreo non è vincolato dalle leggi di Shabbat, e il suo lavoro spontaneo non crea proibizioni per l'ebreo."
+    },
+    {
+      "n": 19,
+      "he": "אֵין מְסַיְּעִין יְדֵי",
+      "it": "Non si aiuta un ebreo che sta violando Shabbat ('ein mesa'ayin yedei oveir aveirah', אֵין מְסַיְּעִין יְדֵי עוֹבֵר עֲבֵרָה). Questo è il principio generale di 'lifne iver' (לִפְנֵי עִוֵּר) — non si mette un ostacolo davanti al cieco, cioè non si facilita il peccato altrui."
+    },
+    {
+      "n": 20,
+      "he": "הַמְחַלֵּל שַׁבָּת בִּפַרְהֶסְיָא",
+      "it": "Chi profana Shabbat pubblicamente (beparhesia, בְּפַרְהֶסְיָא) — davanti a dieci o più ebrei — è considerato come un pubblico trasgressore (mumar, מוּמָר) rispetto ad alcune halachot. Il Shabbat pubblico è particolarmente grave poiché lede la santità del Shabbat agli occhi di tutta la comunità."
+    },
+    {
+      "n": 21,
+      "he": "לֹא יֵצֵא לֹא בְּסַיִף",
+      "it": "Non si esca di Shabbat portando un'arma da taglio (sayif, סַיִף) o altro armamento nel dominio pubblico. I Saggi considerarono un'arma non un ornamento ma un oggetto di vergogna (genut, גְּנוּת) e la portarla è shvut di Shabbat."
+    }
+  ],
+  "_glossary_terms_used": ["amira lenochri", "shvut", "shvut d'shvut", "grama", "melacha d'oraita", "sefinah", "shinui", "hotzaah", "reshut hayachid", "merchatz", "Motzaei Shabbat", "lifne iver", "beparhesia", "mumar", "sayif", "genut"]
+}

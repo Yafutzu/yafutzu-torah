@@ -1,0 +1,107 @@
+{
+  "ref": "Mishneh Torah, Hilchot Eruvin 1",
+  "name_he": "משנה תורה, הלכות עירובין פרק א",
+  "name_it": "Mishneh Torah, Leggi degli Eruvin, capitolo 1",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-21",
+  "hebrew_date": "6 Tammuz 5786",
+  "halachot_count": 19,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "חָצֵר שֶׁיֵּשׁ בָּהּ בָּתִּים הַרְבֵּה...",
+      "it": "Un cortile (chatzer) nel quale si affacciano molte abitazioni: se i suoi abitanti portano oggetti da una casa all'altra o dal cortile stesso durante il Sabato, si tratta di un trasporto vietato. Per rimediare a ciò, i Saggi hanno istituito l'eruv chatzerot — una fusione simbolica delle abitazioni tramite la condivisione di cibo."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד עוֹשִׂין אֶת הָעֵרוּב...",
+      "it": "Come si effettua l'eruv chatzerot? Si raccoglie pane (o altra pasta cotta) da tutti i residenti del cortile e lo si depone in una delle abitazioni prima del tramonto del venerdì. In questo modo tutti i residenti sono considerati come un'unica famiglia e il trasporto tra le abitazioni e il cortile diventa permesso."
+    },
+    {
+      "n": 3,
+      "he": "אֵיזֶה לֶחֶם מֵנִיחִין לָעֵרוּב...",
+      "it": "Quale tipo di pane si utilizza per l'eruv? Si usa pane lievitato, anche se conservato già da Pesach; si può usare anche pane azzimo (matzah). L'importante è che il pane sia commestibile e non ammuffito né essiccato fino al punto di non poter essere mangiato."
+    },
+    {
+      "n": 4,
+      "he": "שִׁעוּר הַלֶּחֶם לָעֵרוּב...",
+      "it": "La misura del pane per l'eruv: deve essere sufficiente per due pasti per tutti i partecipanti. La quantità minima è stabilita in 'ukla di farina (circa 1,7 litri) per la pasta cruda, oppure pane cotto equivalente. Se le persone sono molte, occorre aumentare proporzionalmente."
+    },
+    {
+      "n": 5,
+      "he": "הַמֵּנִיחַ אֶת הָעֵרוּב...",
+      "it": "Chi deposita l'eruv deve pronunciare una formula di consacrazione: 'Con questo eruv sia permesso a tutti gli abitanti di questo cortile portare e trasportare da queste case nel cortile e dal cortile nelle case per tutto questo Sabato.' La formula va pronunciata prima del calar del Sole del venerdì."
+    },
+    {
+      "n": 6,
+      "he": "הַנּוֹתֵן פְּרוּטָה לָעֵרוּב...",
+      "it": "Se qualcuno contribuisce del denaro anziché del cibo per l'acquisto del pane dell'eruv, questo è valido. Tuttavia la pratica corretta è di contribuire direttamente con il pane, affinché l'eruv simbolizzi concretamente la condivisione del pasto."
+    },
+    {
+      "n": 7,
+      "he": "אֵין עוֹשִׂין עֵרוּבֵי חֲצֵרוֹת בְּיַיִן...",
+      "it": "Non si effettua l'eruv chatzerot con vino, olio, legumi o altri alimenti al posto del pane, a meno che ci sia un'emergenza. L'eruv deve essere fatto specificamente con pane (o pasta cotta), poiché il pane è il cibo principale del pasto che l'eruv simbolicamente condivide."
+    },
+    {
+      "n": 8,
+      "he": "חָצֵר שֶׁשָּׁכְחוּ אֶחָד מִן הַדִּיּוֹרִין...",
+      "it": "Se uno degli abitanti del cortile ha dimenticato di partecipare all'eruv, il trasporto è vietato per tutti i residenti, poiché il dominio di quel residente non è stato unificato con gli altri. Tuttavia, se quell'abitante cede il suo diritto di dominio agli altri residenti, l'eruv diventa valido."
+    },
+    {
+      "n": 9,
+      "he": "גּוֹי הַדָּר בֶּחָצֵר...",
+      "it": "Un non ebreo (goy) che abita nel cortile: la sua presenza rende l'eruv chatzerot invalido, poiché i Saggi hanno stabilito che il dominio di un non ebreo non può essere 'unificato' tramite l'eruv. In tal caso, l'ebreo deve affittare simbolicamente il dominio del non ebreo (sechiras reshut) per consentire il trasporto."
+    },
+    {
+      "n": 10,
+      "he": "כֵּיצַד שׂוֹכְרִין מִן הַגּוֹי...",
+      "it": "Come si affitta il dominio dal non ebreo? Si stipula un contratto di affitto simbolico (sechirat reshut) prima del Sabato, con qualsiasi compenso, anche minimo. Una volta affittato il suo dominio, il cortile è come se fosse interamente in possesso degli ebrei e l'eruv chatzerot diventa valido."
+    },
+    {
+      "n": 11,
+      "he": "חָצֵר שֶׁיֵּשׁ בָּהּ דִּיּוּרִים...",
+      "it": "Un cortile con molte abitazioni: anche se solo una di esse non partecipa all'eruv, il trasporto è vietato per tutti. Questa regola si applica quando le abitazioni sono fisicamente connesse al medesimo cortile chiuso. Se il cortile è diviso da una parete con un'apertura, le regole cambiano."
+    },
+    {
+      "n": 12,
+      "he": "שְׁנֵי חֲצֵרוֹת זוֹ לִפְנִים מִזּוֹ...",
+      "it": "Due cortili uno dentro l'altro: quello interno è circondato da quello esterno. I residenti del cortile interno non possono trasportare verso il cortile esterno senza un eruv comune. Se i due cortili fanno un eruv insieme, tutti i residenti di entrambi sono unificati."
+    },
+    {
+      "n": 13,
+      "he": "חָצֵר שֶׁנִּפְרְצָה לִרְשׁוּת הָרַבִּים...",
+      "it": "Un cortile che si apre su un dominio pubblico (reshut harabbim): se il muro del cortile è crollato e rimane aperto sul dominio pubblico, l'eruv è invalido poiché non c'è più un recinto chiuso. Occorre riparare la breccia prima del Sabato o rinunciare all'eruv per quel Sabato."
+    },
+    {
+      "n": 14,
+      "he": "מִי שֶׁנָּתַן עֵרוּבוֹ וְנֶאֱכַל...",
+      "it": "Se l'eruv è stato depositato ma poi mangiato o andato a male: se questo accade prima dell'inizio del Sabato (prima del tramonto del venerdì), l'eruv è invalido e non vi è permesso di trasportare. Se invece era valido all'inizio del Sabato e poi è stato mangiato durante il Sabato stesso, il permesso rimane."
+    },
+    {
+      "n": 15,
+      "he": "אֵין מְעָרְבִין עֵרוּבֵי חֲצֵרוֹת בְּלֵילֵי שַׁבָּת...",
+      "it": "Non si effettua l'eruv chatzerot di venerdì sera (dopo l'inizio del Sabato). L'eruv deve essere depositato prima che inizi il Sabato. Se si è dimenticato, non vi è rimedio per quel Sabato. La regola si applica ugualmente all'eruv di Yom Tov."
+    },
+    {
+      "n": 16,
+      "he": "הָיָה עֵרוּבוֹ בֵּין הַשְּׁמָשׁוֹת...",
+      "it": "Se l'eruv esisteva nel momento del bein hashmashot (il crepuscolo, periodo di dubbio tra il tramonto e la comparsa delle stelle): se era valido in quel momento di dubbio, l'eruv è considerato valido. Il principio è che l'eruv deve esistere all'inizio del Sabato per essere efficace."
+    },
+    {
+      "n": 17,
+      "he": "עֵרוּב שֶׁנִּגְנַב אוֹ שֶׁנֶּאֱבַד...",
+      "it": "Un eruv rubato o perso prima dell'inizio del Sabato: l'eruv è invalido. Se ciò accade durante il bein hashmashot (periodo del crepuscolo), vi è dubbio e si applica la regola del safek (dubbio nella legge ebraica), per cui si è severi e non si trasporta."
+    },
+    {
+      "n": 18,
+      "he": "חָצֵר שֶׁיֵּשׁ בָּהּ כַּמָּה דִּיּוּרִין...",
+      "it": "Un cortile con molti inquilini: se alcuni di loro vogliono fare l'eruv e altri no, i rifiutanti impediscono agli altri di trasportare. Tuttavia, se coloro che non vogliono fare l'eruv cedono il loro diritto di dominio a chi lo vuole, l'eruv diventa valido per tutti coloro che vi partecipano."
+    },
+    {
+      "n": 19,
+      "he": "הָאַחִין הַשּׁוֹתָפִין...",
+      "it": "Fratelli che condividono un'eredità oppure soci in affari che abitano nello stesso cortile: se mangiano allo stesso tavolo (cioè condividono lo stesso pasto), non necessitano di un eruv tra di loro, poiché la loro convivenza è già sufficiente a unire i loro domini. Se invece cucinano separatamente, devono fare l'eruv."
+    }
+  ],
+  "_glossary_terms_used": ["eruv chatzerot", "chatzer", "reshut harabbim", "reshut hayachid", "sechiras reshut", "bein hashmashot", "safek", "goy", "matzah", "yom tov"]
+}

@@ -1,0 +1,49 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ma'achalot Asurot 4",
+  "name_he": "משנה תורה, הלכות מאכלות אסורות, פרק ד",
+  "name_it": "Mishneh Torah, Leggi degli Alimenti Proibiti, capitolo 4",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-11-10",
+  "hebrew_date": "1 Kislev 5787 (Rosh Chodesh Kislev)",
+  "halachot_count": 7,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "נְבֵלָה — הִיא שֶׁמֵּתָה בְּלֹא שְׁחִיטָה כְּשֵׁרָה…",
+      "it": "In questo Rosh Chodesh Kislev — il primo giorno del mese della luce, del Chanukah imminente — iniziamo le leggi di neveilah e treifah, che riguardano la purezza di ciò che nutre il corpo fisico, specchio della purezza interiore che i giorni di Kislev invitano a coltivare. Neveilah (carcassa): un animale che è morto senza shechitah (macellazione rituale valida), o la cui shechitah era invalida per qualsiasi motivo. La carne di neveilah è proibita per un divieto negativo della Torah («lo tokhlu kol neveilah» — Deut. 14:21)."
+    },
+    {
+      "n": 2,
+      "he": "טְרֵפָה — הִיא שֶׁנִּמְצָא בָּהּ אֶחָד מִן הַדְּבָרִים שֶׁמֵּמִיתִין אוֹתָהּ…",
+      "it": "Treifah (letteralmente: «strappata»): un animale vivo che ha un difetto organico fatale — anche se macellato correttamente (shechitah keshera), la sua carne è proibita. La parola deriva dal versetto «u-vasar ba-sadeh treifah lo tokhelu» (Esodo 22:30 — carne strappata [da belve] nel campo non mangerete). I Saggi hanno esteso il termine a qualsiasi animale che ha una condizione che lo porterebbe alla morte entro dodici mesi (secondo la definizione classica), anche se la causa è interna."
+    },
+    {
+      "n": 3,
+      "he": "שְׁמוֹנָה עָשָׂר דְּבָרִים הֵם שֶׁהַמְנֻקֶּה מֵהֶן — כְּשֵׁרָה…",
+      "it": "I diciotto tipi di treifah (tereifot): i Saggi hanno stabilito 18 categorie di difetti fisici che rendono un animale treif. Queste sono: (1) derusa — ferite da predatore che lesionano organi interni; (2) nekuva — perforazione di organi vitali; (3) chasera — mancanza di un organo essenziale; (4) netula — rimozione di un organo; (5) pesuka — recisione della colonna vertebrale; (6) nefula — caduta da una grande altezza con lesioni interne; (7) shebura — frattura grave; (8) ketua — recisione di arti; (9) dakura — puntura di un oggetto appuntito attraverso organi; (10) reusa — schiacciamento di organi; più altre otto categorie specifiche agli organi."
+    },
+    {
+      "n": 4,
+      "he": "כָּל אֵלּוּ שְׁמוֹנָה עָשָׂר מִינֵי טְרֵפוֹת — הֲלָכָה לְמֹשֶׁה מִסִּינַי הֵן…",
+      "it": "Tutte queste diciotto categorie di treifot sono halakhah le-Moshe mi-Sinai — leggi tramandate a Mosè al Sinai e non deducibili da testo biblico. Non si può aggiungere o sottrarre da questo elenco. Se un animale viene trovato con un difetto non incluso in queste diciotto categorie — è kosher anche se sembrerebbe fatale. Questa è una delle espressioni più chiare della natura della Torah orale: tramandata con precisione di generazione in generazione."
+    },
+    {
+      "n": 5,
+      "he": "כֵּיצַד בּוֹדְקִים אֶת הָאֵיבָרִים…",
+      "it": "Come si esaminano gli organi dopo la shechitah: il macellaio esperto (shochet) deve aprire la carcassa e ispezionare gli organi interni. L'organo principale esaminato è il rei'ah (polmone), seguito dall'esofago, dalla trachea, dal cuore, dal fegato e dalla milza. L'ispezione avviene immediatamente dopo la macellazione. Un animale che supera l'ispezione completa senza trovare alcun difetto delle diciotto categorie è dichiarato kasher (idoneo) e la sua carne è permessa."
+    },
+    {
+      "n": 6,
+      "he": "כָּל אֵיבָר שֶׁנִּנְקַב — טְרֵפָה…",
+      "it": "Qualsiasi organo interno che è stato perforato (nikuv) — rende l'animale treifah. Questo si applica agli organi a cavità: il polmone, il cuore, lo stomaco, l'intestino, la milza. Una perforazione minuscola (ke-mashehu) nel polmone rende l'animale treifah senza possibilità di sanazione. Tuttavia: se la perforazione è coperta da un'adesione naturale (sirachah) al diaframma o ad un altro organo — la questione è oggetto di dibattito tra Ashkenaziti (Rashi, Tosafot) e Sefarditi (Rambam), con implicazioni pratiche significative per il chalak/Beit Yosef."
+    },
+    {
+      "n": 7,
+      "he": "הָיְתָה סִמְפּוֹנָא שֶׁל רֵאָה חֲסֵרָה…",
+      "it": "Se una sezione del polmone (simfona — lobo) mancava alla nascita o è stata rimossa: l'animale è treifah se manca uno dei lobi principali del polmone. I lobi del polmone bovino sono cinque a destra e due a sinistra — la mancanza di uno dei lobi principali invalida l'animale. In questo Rosh Chodesh Kislev, il mese del rinnovamento, ricordiamo che come la luna si rinnova ogni mese, così le leggi di treifah e kashrut ci ricordano di rinnovare la nostra attenzione alla purezza di ciò che entra nel nostro corpo — il tempio dell'anima divina."
+    }
+  ],
+  "_glossary_terms_used": [
+    "neveilah", "treifah", "shechitah", "tereifot", "halakhah le-Moshe mi-Sinai", "shochet", "rei'ah", "nikuv", "sirachah", "chalak", "kasher", "Rosh Chodesh"
+  ]
+}

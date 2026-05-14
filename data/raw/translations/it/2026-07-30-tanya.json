@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 23",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק כג",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 23",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-30",
+  "hebrew_date": "16 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "'בְּכָל לְבָבְךָ' — בִּשְׁנֵי יְצָרֶיךָ, בְּיֵצֶר טוֹב וּבְיֵצֶר הָרָע. כֵּיצַד אוֹהֲבִין אֶת ה' בִּשְׁנֵי יְצָרִים? עַל יְדֵי שֶׁמַּפְנִים אֶת חֵלֶק הַנֶּפֶשׁ הַבְּהֵמִית לַעֲבוֹדַת ה'.",
+      "it": "'Con tutto il tuo cuore' (be-chol levavcha, Deuteronomio 6:5) — con entrambe le tue inclinazioni, con l'istinto del bene e con l'istinto del male. Come si ama Dio con entrambe le inclinazioni? Dirigendo la parte dell'anima animale (nefesh ha-behamit) verso il servizio di Dio."
+    },
+    {
+      "n": 2,
+      "he": "הַחֲסִידוּת מְלַמֶּדֶת לְהַפְנוֹת אֶת הַתַּשּׁוּקָה הַגַּשְׁמִית לְשֵׁם שָׁמַיִם — כְּגוֹן לֶאֱכֹל כְּדֵי לָעֲבֹד, לִישֹׁן כְּדֵי לָעֲבֹד.",
+      "it": "Il Chassidut insegna a reindirizzare le passioni materiali verso il cielo — ad esempio mangiare per avere la forza di servire Dio, dormire per potere meglio servire Dio."
+    },
+    {
+      "n": 3,
+      "he": "בְּדֶרֶךְ זוֹ — אֲפִלּוּ הַנֶּפֶשׁ הַבְּהֵמִית הוֹפֶכֶת לְכֵלִי לַנֶּפֶשׁ הָאֱלֹקִית. הַתַּשּׁוּקָה הַגַּשְׁמִית — נַעֲשֵׂית כֹּחַ לָעֲבוֹדָה הָרוּחָנִית.",
+      "it": "In questo modo — anche l'anima animale diventa uno strumento dell'anima divina. La passione materiale — diventa forza per il servizio spirituale. Questa è la sublimazione della vitalità materiale verso il cielo."
+    }
+  ],
+  "_glossary_terms_used": ["be-chol levavcha", "yetzer tov", "yetzer ha-ra", "nefesh ha-behamit", "nefesh ha-Elokit", "Chassidut", "avodah"]
+}

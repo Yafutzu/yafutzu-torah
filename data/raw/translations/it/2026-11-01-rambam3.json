@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Shutafin 2-4",
+  "name_he": "משנה תורה, הלכות שותפין, פרקים ב-ד",
+  "name_it": "Mishneh Torah, Leggi dei Soci, capitoli 2-4",
+  "cycle": "rambam-3",
+  "date": "2026-11-01",
+  "hebrew_date": "21 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "2:1-4",
+      "he": "כֵּיצַד מִתְחַיֵּב הַשֻּׁתָּף — בְּקִנְיָן…",
+      "it": "(Shutafin cap. 2, hal. 1-4) Come si forma una società (shutafut): attraverso un atto di acquisizione (kinyan) — lo stesso kinyan richiesto per qualsiasi atto commerciale nella halakhah. Una semplice intesa verbale non crea obblighi legali di società. Il kinyan può avvenire tramite: meshichah (trascinamento del bene), chalifin (scambio di oggetti simbolici), o shtar (documento scritto). La società può coprire beni immobili (karka) o beni mobili (metaltelin). Nella società di beni immobili, ogni socio ha il diritto di costringere l'altro a dividere la proprietà (chazakah) quando lo ritiene opportuno."
+    },
+    {
+      "n": "2:5-8",
+      "he": "שֻׁתָּפִין בְּנִכְסֵי הַמָּנוֹחַ — אֵיזֶה חֵלֶק לְכָל אֶחָד…",
+      "it": "(Shutafin cap. 2, hal. 5-8) La divisione dei profitti e delle perdite nella società: i soci dividono profitti e perdite in proporzione al loro investimento iniziale, a meno che non abbiano stabilito diversamente nel contratto di società. Un socio che ha investito il doppio dell'altro riceve il doppio dei profitti. Se uno dei soci gestisce attivamente la società (po'el — lavoratore attivo) e l'altro è solo investitore (mushkav — socio passivo), si può concordare una distribuzione diversa. Il Rambam esamina vari scenari di distribuzione non proporzionale."
+    },
+    {
+      "n": "3:1-5",
+      "he": "הַשֻּׁתָּף הַמְמַכֵּר בְּנִכְסֵי הַשֻּׁתָּפוּת…",
+      "it": "(Shutafin cap. 3, hal. 1-5) Il socio come agente (shaliach) per la società: un socio può agire come agente della società per transazioni commerciali ordinarie — il principio di «shlucho shel adam ke-moto» (l'agente è come la persona stessa) si applica. Ma un socio non può vendere beni comuni senza il consenso dell'altro socio per transazioni straordinarie (davar she-eino be-yado — cosa che non è in suo potere fare unilateralmente). Se un socio vende beni comuni senza autorizzazione — la vendita può essere annullata."
+    },
+    {
+      "n": "4:1-4",
+      "he": "שֻׁתָּפוּת שֶׁבְּקַרְקַע — כֵּיצַד מְחַלְּקִין…",
+      "it": "(Shutafin cap. 4, hal. 1-4) La divisione della proprietà immobiliare in comproprietà: se due soci possiedono un terreno o un appartamento insieme, ogni socio ha il diritto di richiedere la divisione fisica della proprietà (chalukat ha-karka). La divisione si effettua tramite un apprezzatore (shamen) che divide la proprietà in parti di uguale valore. Se la proprietà non può essere divisa in parti uguali senza perdita di valore significativa — si procede alla vendita e divisione del ricavato. Un socio non può obbligare l'altro a comprare la sua parte."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shutafut", "kinyan", "meshichah", "chalifin", "shtar", "karka", "metaltelin", "chazakah", "shaliach", "chalukat ha-karka", "shamen"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Mechirah 7-9",
+  "name_he": "משנה תורה, הלכות מכירה, פרקים ז-ט",
+  "name_it": "Mishneh Torah, Leggi della Compravendita, capitoli 7-9",
+  "cycle": "rambam-3",
+  "date": "2026-10-15",
+  "hebrew_date": "4 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "7:1-5",
+      "he": "הָעֶבֶד הַכְּנַעֲנִי נִקְנֶה בְּכֶסֶף וּבִשְׁטָר וּבְחַזָּקָה…",
+      "it": "(Mechirah cap. 7, hal. 1-5) Acquisizione di schiavi cananei (avadim kena'anim): si acquisiscono con gli stessi kinyanim della proprietà immobiliare — kesef (denaro), shtar (documento), chazakah (presa di possesso). Lo schiavo cananeo non si acquisisce con la meshichah come un animale — poiché ha una dignità speciale in quanto persona che è entrata sotto le ali della Divina Presenza (nichnas tachat kanfei HaShekhinah). Lo schiavo ebreo (eved Ivri) si acquisisce con denaro, ma le regole del suo servizio e della sua liberazione sono completamente diverse e rientrano nelle Leggi degli Schiavi (Hilchot Avadim)."
+    },
+    {
+      "n": "8:1-5",
+      "he": "הַסְּפִינָה נִקְנֵית בִּמְשִׁיכָה…",
+      "it": "(cap. 8, hal. 1-5) Acquisizione di navi: le navi grandi si acquisiscono con la meshichah (trascinarle) o con mesirah (consegna delle redini/cime). Le navi piccole — si acquisiscono con la hagbahah (sollevamento). Nei porti: chi prende il controllo della nave (la governa) ha effettuato il kinyan. Il Rambam discute il caso in cui la nave è in acque internazionali — il kinyan avviene con la mesirah delle corde di controllo. Caso di vendita di una nave carica: si intende venduta con il suo carico a meno che non sia esplicitamente escluso."
+    },
+    {
+      "n": "9:1-6",
+      "he": "הַמּוֹכֵר עַל תְּנַאי — אִם נִתְקַיֵּם הַתְּנַאי…",
+      "it": "(cap. 9, hal. 1-6) Vendite con condizione (tenai): se la condizione si avvera — la vendita è valida retroattivamente dall'inizio. Se la condizione non si avvera — la vendita è nulla retroattivamente. Affinché il tenai sia valido, devono essere soddisfatti quattro requisiti (dalet tenai'im di Rebbe): (1) deve essere doppio (tena'i kaful — enunciare sia la condizione positiva che quella negativa); (2) la condizione deve precedere l'atto; (3) la condizione deve essere realizzabile; (4) non deve contraddire un atto già compiuto. Se manca uno di questi requisiti — il tenai è invalido e la vendita è incondizionata."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kinyan", "avadim kena'anim", "eved Ivri", "kesef", "shtar", "chazakah", "meshichah", "mesirah", "hagbahah", "tenai", "tena'i kaful"
+  ]
+}

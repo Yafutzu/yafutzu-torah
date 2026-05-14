@@ -1,0 +1,122 @@
+{
+  "ref": "Mishneh Torah, Sabbath 16",
+  "name_he": "הלכות שבת פרק ט\"ז",
+  "name_it": "Leggi dello Shabbat, Capitolo 16",
+  "cycle": "rambam-1",
+  "date": "2026-06-06",
+  "hebrew_date": "21 Sivan 5786",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֲמִירָה לְנָכְרִי",
+      "it": "L'amira lenochri (אֲמִירָה לְנָכְרִי — dire al non ebreo di fare) un'azione proibita di Shabbat è proibita per decreto rabbinico (derabanan, דְּרַבָּנָן). La Torah non lo proibisce esplicitamente poiché il non ebreo è libero nel suo agire, ma i Saggi decretarono il divieto per preservare la santità del Shabbat."
+    },
+    {
+      "n": 2,
+      "he": "לְמַה אָסוּר לוֹמַר לַנָּכְרִי",
+      "it": "Perché è proibito dire al non ebreo di fare un'azione proibita di Shabbat? Poiché il non ebreo agisce come agente (shaliach, שָׁלִיחַ) dell'ebreo, e sembra come se l'ebreo stesso stesse facendo l'azione. Questo crea una sospensione di Shabbat nella percezione pubblica (marat ayin, מַרְאַת עַיִן)."
+    },
+    {
+      "n": 3,
+      "he": "אָמַר לוֹ קֹדֶם הַשַּׁבָּת",
+      "it": "Se un ebreo ha detto a un non ebreo prima di Shabbat di compiere una certa azione di Shabbat — e il non ebreo lo fa di sua spontanea volontà durante Shabbat — è permesso. Il divieto è solo quando si dice espressamente durante Shabbat di fare qualcosa di proibito."
+    },
+    {
+      "n": 4,
+      "he": "הִנִּיחַ לוֹ נָכְרִי לַעֲשׂוֹת",
+      "it": "Se un non ebreo comincia spontaneamente a fare un lavoro per l'ebreo di Shabbat senza essere stato incaricato — l'ebreo non deve fermarlo se c'è perdita significativa, ma non deve incoraggiarlo attivamente."
+    },
+    {
+      "n": 5,
+      "he": "נָכְרִי שֶׁהֵדְלִיק אֶת הַנֵּר",
+      "it": "Se un non ebreo ha acceso una lampada di Shabbat per sé stesso — anche nella casa di un ebreo — l'ebreo può usufruire della luce, poiché il non ebreo non ha agito per conto dell'ebreo."
+    },
+    {
+      "n": 6,
+      "he": "נָכְרִי שֶׁהֵדְלִיק בִּשְׁבִיל יִשְׂרָאֵל",
+      "it": "Se però il non ebreo ha acceso la lampada esplicitamente per l'ebreo (bishvil Yisrael, בִּשְׁבִיל יִשְׂרָאֵל), l'ebreo non può usufruire della luce. Si attende la fine di Shabbat prima di usarla, per un tempo pari a quello necessario per accenderla."
+    },
+    {
+      "n": 7,
+      "he": "נָכְרִי שֶׁבִּשֵּׁל",
+      "it": "Se un non ebreo ha cucinato di Shabbat per sé stesso — nella cucina propria o condivisa — la pietanza può essere mangiata da un ebreo solo se c'è incertezza sulla natura della cottura. Se ha cucinato esplicitamente per l'ebreo, la pietanza è proibita."
+    },
+    {
+      "n": 8,
+      "he": "שָׂכַר נָכְרִי לַעֲשׂוֹת מְלָאכָה",
+      "it": "Assumere un non ebreo a cottimo (kablanut, קַבְּלָנוּת) — cioè pagarlo per il completamento di un lavoro, non per il tempo — è permesso anche se il lavoro viene fatto di Shabbat. Poiché il non ebreo lavora per il proprio profitto e non come agente dell'ebreo, non c'è violazione."
+    },
+    {
+      "n": 9,
+      "he": "כֵּיצַד הוּא הַקַּבְּלָן",
+      "it": "Come funziona la regola del kablan (קַבְּלָן — cottimista)? L'ebreo dice al non ebreo: 'Costruisci questo muro per cento denari.' Il non ebreo può lavorarvi nei giorni che vuole, incluso Shabbat, poiché il lavoro è suo e lui lavora per il suo guadagno."
+    },
+    {
+      "n": 10,
+      "he": "אֵין מַשְׂכִּירִין בָּתִּים",
+      "it": "Non si affittano case a non ebrei con l'intenzione che vi facciano lavori di Shabbat nell'aia comune o negli spazi condivisi. Tuttavia, una volta affittato, se il non ebreo fa lavori di propria iniziativa, non è responsabilità dell'ebreo."
+    },
+    {
+      "n": 11,
+      "he": "בֵּית הַכְּנֶסֶת שֶׁל עֵץ",
+      "it": "Non si vende una sinagoga (beit knesset, בֵּית כְּנֶסֶת) a un non ebreo affinché la demolisca di Shabbat. Anche attraverso l'intermediario del kablan, se la vendita è chiaramente per un lavoro di Shabbat, è proibita."
+    },
+    {
+      "n": 12,
+      "he": "מִי שֶׁאָמַר לְנָכְרִי",
+      "it": "Chi ha detto esplicitamente al non ebreo di compiere un'azione proibita di Shabbat — il prodotto di quell'azione è proibito a lui e alla sua famiglia immediatamente. Agli altri ebrei è permesso solo dopo la fine di Shabbat e il tempo necessario per completare l'azione."
+    },
+    {
+      "n": 13,
+      "he": "בֶּן יִשְׂרָאֵל שֶׁחָלָה",
+      "it": "Per un malato ebreo in pericolo, si dice al non ebreo di compiere qualsiasi azione necessaria per la cura. In questo caso l'amira lenochri è non solo permessa ma obbligatoria — poiché salvare la vita è un obbligo della Torah."
+    },
+    {
+      "n": 14,
+      "he": "אֲבֵדָה מְרֻבָּה",
+      "it": "In caso di perdita finanziaria significativa (aveidah merubah, אֲבֵדָה מְרֻבָּה), i Saggi permisero in alcune situazioni di dire al non ebreo di fare l'azione proibita. Tuttavia questo è solo in determinate circostanze e non un permesso generale."
+    },
+    {
+      "n": 15,
+      "he": "יֵשׁ מִן הַגְּאוֹנִים",
+      "it": "Alcuni Geonim (גְּאוֹנִים — capi delle accademie babilonesi post-talmudiche) permisero l'amira lenochri anche per prevenire una perdita minore ma urgente. Il Rambam non segue questa opinione e rimane con la posizione restrittiva tradizionale."
+    },
+    {
+      "n": 16,
+      "he": "מֵי הַשַּׁבָּת",
+      "it": "Le acque scaldate di Shabbat da un non ebreo per sé stesso possono essere usate dall'ebreo per lavarsi mani e viso ma non per un bagno completo. Se scaldate esplicitamente per l'ebreo, sono proibite anche per il viso fino dopo Shabbat."
+    },
+    {
+      "n": 17,
+      "he": "לֹא יֵצֵא אָדָם עִם חֵרֵשׁ",
+      "it": "Non si esca di Shabbat con un sordomuto (cheresh, חֵרֵשׁ) in luoghi dove vi potrebbe essere la necessità di fare azioni proibite per lui, poiché il sordomuto ha lo stesso status di un minore rispetto ad alcune halachot di Shabbat."
+    },
+    {
+      "n": 18,
+      "he": "מֻקְצֶה מֵחֲמַת מִצְוָה",
+      "it": "Oggetti muktzeh perché designati per uso di mitzvah — come shofar (שׁוֹפָר) o lulav (לוּלָב) — non possono essere spostati di Shabbat per usi normali, anche se la mitzvah in questione non si pratica di Shabbat."
+    },
+    {
+      "n": 19,
+      "he": "הַמּוֹסֵר בְּהֵמָה לְנָכְרִי",
+      "it": "Chi affida il suo animale a un non ebreo con la consapevolezza che lavorerà di Shabbat viola il divieto di amira lenochri. La consegna dell'animale è considerata istruzione implicita di lavorare."
+    },
+    {
+      "n": 20,
+      "he": "חוּץ לַתְּחוּם",
+      "it": "Non si invia un non ebreo oltre il limite sabbatico (techum Shabbat, תְּחוּם שַׁבָּת) in missione per conto dell'ebreo di Shabbat. Anche se il non ebreo non è vincolato dal techum, il mandato dell'ebreo rende proibita tale commissione."
+    },
+    {
+      "n": 21,
+      "he": "כְּלֵי זַיִן",
+      "it": "Non si vendono armi (klei zayin, כְּלֵי זַיִן) a non ebrei prima di Shabbat se si sa che le useranno di Shabbat in modo pericoloso. Questo non è strettamente legato all'amira lenochri ma al principio di non facilitare il male."
+    },
+    {
+      "n": 22,
+      "he": "אָסוּר לִשְׂכּוֹר נָכְרִי",
+      "it": "È proibito assumere un non ebreo come lavorante giornaliero (sachir yom, שָׂכִיר יוֹם) per lavori che si svolgeranno di Shabbat. Diversamente dal kablan-cottimista, il lavorante giornaliero agisce come rappresentante dell'ebreo e la sua azione di Shabbat è attribuita all'ebreo."
+    }
+  ],
+  "_glossary_terms_used": ["amira lenochri", "derabanan", "shaliach", "marat ayin", "kablanut", "kablan", "beit knesset", "aveidah merubah", "Geonim", "cheresh", "shofar", "lulav", "techum Shabbat", "klei zayin", "sachir yom", "bishvil Yisrael"]
+}

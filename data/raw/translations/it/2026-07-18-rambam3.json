@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Temidim UMusafim 3-5",
+  "name_he": "משנה תורה, הלכות תמידין ומוספין, פרקים ג-ה",
+  "name_it": "Mishneh Torah, Leggi dei Sacrifici Quotidiani e Aggiuntivi, capitoli 3-5",
+  "cycle": "rambam-3",
+  "date": "2026-07-18",
+  "hebrew_date": "4 Av 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "3:1",
+      "he": "תָּמִיד שֶׁל בֵּין הָעַרְבַּיִם — נִשְׁחָט בְּתִשְׁעָה וּמֶחֱצָה, וְקָרֵב בַּעֲשָׂרָה וּמֶחֱצָה.",
+      "it": "Il tamid del pomeriggio (bein ha-arbayim) — viene macellato a 9 ore e mezza del giorno, e offerto a 10 ore e mezza. (Le ore si contano dall'alba.)"
+    },
+    {
+      "n": "3:2",
+      "he": "בֵּין שְׁנֵי הַתְּמִידִין — קְטֹרֶת, שֶׁמַּקְטִירִין אוֹתָהּ בַּהֵיכָל עַל מִזְבַּח הַזָּהָב.",
+      "it": "Tra i due tamidim — vi è l'incenso (ketoret), che viene offerto nel Santuario (Heichal) sull'altare d'oro (mizbeach ha-zahav)."
+    },
+    {
+      "n": "3:3",
+      "he": "הַקְּטֹרֶת — בַּבֹּקֶר בְּעֵת הֵיטִיב אֶת הַנֵּרוֹת, וּבָעֶרֶב בְּעֵת הַעֲלֹת הַנֵּרוֹת.",
+      "it": "L'incenso — al mattino al momento della pulizia delle lampade (heitiv et ha-nerot), e alla sera al momento dell'accensione delle lampade (ha'alot ha-nerot)."
+    },
+    {
+      "n": "4:1",
+      "he": "מוּסַף שַׁבָּת — שְׁנֵי כְּבָשִׂים תְּמִימִים בְּנֵי שָׁנָה, נוֹסָף עַל תָּמִיד שַׁחַר וְתָמִיד עֶרֶב.",
+      "it": "Il Musaf dello Shabbat — due agnelli perfetti nell'anno del primo anno, in aggiunta al tamid del mattino e al tamid della sera."
+    },
+    {
+      "n": "4:2",
+      "he": "לֶחֶם הַפָּנִים — שְׁתֵּים עֶשְׂרֵה חַלּוֹת עַל הַשֻּׁלְחָן. מִתְחַלֵּף בְּשַׁבָּת, כְּשֶׁמַּנִּיחִין חֲדָשִׁים — לוֹקְחִין יְשָׁנִים.",
+      "it": "Il pane della presenza (lechem ha-panim) — dodici pani sull'apposita tavola. Si cambia di Shabbat: quando si depongono i nuovi — si prendono i vecchi (che vengono mangiati dai sacerdoti)."
+    },
+    {
+      "n": "4:3",
+      "he": "לֶחֶם הַפָּנִים — נֶאֱכָל לַכֹּהֲנִים בְּשַׁבָּת, בִּקְדֻשָּׁה גְּדוֹלָה.",
+      "it": "Il pane della presenza viene mangiato dai sacerdoti di Shabbat, con grande santità."
+    },
+    {
+      "n": "5:1",
+      "he": "מוּסַף רֹאשׁ חֹדֶשׁ — שְׁנֵי פָּרִים, אַיִל אֶחָד, שִׁבְעָה כְּבָשִׂים, וּשְׂעִיר חַטָּאת.",
+      "it": "Il Musaf di Rosh Chodesh — due tori, un ariete, sette agnelli e un capro come offerta per il peccato (chatat)."
+    },
+    {
+      "n": "5:2",
+      "he": "כָּל מוּסָף יֵשׁ לוֹ נְסָכִים מְיֻחָדִים. נְסָכֵי הַפָּר שְׁלֹשָׁה עֶשְׂרֹנִים. נְסָכֵי הָאַיִל שְׁנֵי עֶשְׂרֹנִים. נְסָכֵי הַכֶּבֶשׂ עִשָּׂרוֹן.",
+      "it": "Ogni musaf ha le proprie libagioni (nesachim) designate. Le libagioni del toro: tre decimi di efa (esronim) di farina. Dell'ariete: due decimi. Dell'agnello: un decimo."
+    },
+    {
+      "n": "5:3",
+      "he": "שְׂעִיר רֹאשׁ חֹדֶשׁ — מְכַפֵּר עַל טֻמְאַת מִקְדָּשׁ וְקָדָשָׁיו.",
+      "it": "Il capro di Rosh Chodesh espia per l'impurità del Santuario e delle sue cose sacre che siano state compiute inavvertitamente."
+    }
+  ],
+  "_glossary_terms_used": ["tamid", "ketoret", "mizbeach ha-zahav", "Musaf", "lechem ha-panim", "chatat", "nesachim", "Rosh Chodesh"]
+}

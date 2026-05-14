@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 30",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק ל",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 30",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-06",
+  "hebrew_date": "23 Av 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "מדרגת 'אהבה בתענוגים' היא אהבה שמלאה עונג ותענוג, ואינה רק אהבה של שאיפה ורצון. כגון אהבת אב לבנו בנעימות ועריבות. וזהו מה שאמר הכתוב 'אני לדודי ודודי לי' — ייחוד בעונג ובשמחה.",
+      "it": "Il livello di 'ahavah be-ta'anugim' (amore in delizie) è un amore pieno di piacere e gioia, non solo un amore di aspirazione e desiderio. Simile all'amore di un padre per il figlio, pieno di dolcezza e calore. Questo è ciò che dice la Scrittura: 'Io sono del mio amato e il mio amato è mio' (Shir ha-Shirim 6:3) — un'unione di piacere e gioia."
+    },
+    {
+      "n": 2,
+      "he": "מדרגה זו נובעת ממה שנקרא 'בינה עילאה' — ההבנה העמוקה שהנשמה שורשה בעולמות העליונים, ב'אצילות'. כשהנשמה מגיעה לתחושה זו — של שורשה העליון — הרי שהיא נהנית תענוג רוחני אמיתי. וזה 'התענוג' שבאהבה.",
+      "it": "Questo livello deriva da ciò che è chiamato 'binah ila'ah' (comprensione superiore) — la comprensione profonda che la radice dell'anima si trova nei mondi superiori, nell'Atzilut. Quando l'anima raggiunge questa sensazione — della propria radice superiore — prova un vero piacere spirituale. Questo è il 'ta'anug' (piacere) nell'amore."
+    },
+    {
+      "n": 3,
+      "he": "ה'אהבה בתענוגים' היא נחלתם של יחידים מיוחדים שהגיעו לדבקות גמורה בה'. אך כל אחד מישראל יכול לטעום ממנה על ידי לימוד החסידות עמוקות ועל ידי תפילה בכוונה עמוקה. כי 'טועמיה חיים זכו'.",
+      "it": "L'ahavah be-ta'anugim è la prerogativa di individui eccezionali che hanno raggiunto la deveikut (adesione) completa a D-o. Tuttavia ogni ebreo può assaggiarne qualcosa attraverso lo studio approfondito della Chassidut e attraverso la preghiera con profonda kavvanah (intenzione). Come è detto: 'Chi la assaggia, ha acquisito la vita' (Mishlei 3:18, nell'interpretazione chassidica)."
+    }
+  ],
+  "_glossary_terms_used": ["ahavah be-ta'anugim", "binah ila'ah", "Atzilut", "ta'anug", "deveikut", "kavvanah"]
+}

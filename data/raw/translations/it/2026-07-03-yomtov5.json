@@ -1,0 +1,122 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shevisas Yom Tov 5",
+  "name_he": "משנה תורה, הלכות שביתת יום טוב, פרק ה",
+  "name_it": "Mishneh Torah, Leggi del Riposo dello Yom Tov, capitolo 5",
+  "cycle": "rambam-1",
+  "date": "2026-07-03",
+  "hebrew_date": "18 Tammuz 5786",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יוֹם טוֹב שֶׁחָל בְּשַׁבָּת — הֲרֵי זֶה נִקְרָא \"יוֹם טוֹב שֶׁחָל בְּשַׁבָּת\", וְיֵשׁ בּוֹ תּוֹסֶפֶת אִסּוּרִים.",
+      "it": "Yom Tov che cade di Shabbat — è chiamato «Yom Tov che coincide con Shabbat» e comporta restrizioni aggiuntive."
+    },
+    {
+      "n": 2,
+      "he": "אֵין מְבַשְּׁלִין מִיּוֹם טוֹב לְשַׁבָּת, וְכֵן אֵין מְבַשְּׁלִין מִשַּׁבָּת לְיוֹם טוֹב.",
+      "it": "Non si può cucinare dallo Yom Tov per Shabbat, né si può cucinare da Shabbat per Yom Tov."
+    },
+    {
+      "n": 3,
+      "he": "אֵין מְבַשְּׁלִין מִיּוֹם טוֹב לְחֹל, שֶׁקְּדֻשַּׁת יוֹם טוֹב חֲמוּרָה מִקְּדֻשַּׁת הַחֹל.",
+      "it": "Non si può cucinare dallo Yom Tov per un giorno feriale, perché la santità dello Yom Tov è superiore a quella del giorno feriale."
+    },
+    {
+      "n": 4,
+      "he": "הַבְדָּלָה בֵּין יוֹם טוֹב לְשַׁבָּת — אוֹמֵר \"בֵּין קֹדֶשׁ לְקֹדֶשׁ\" בִּבְרָכַת הַבְדָּלָה.",
+      "it": "La havdalah tra Yom Tov e Shabbat — si recita «tra sacro e sacro» nella benedizione della havdalah."
+    },
+    {
+      "n": 5,
+      "he": "יוֹם טוֹב שֶׁחָל בְּעֶרֶב שַׁבָּת — מַבְדִּיל בֵּין קֹדֶשׁ לְקֹדֶשׁ בְּיֵין. כֵּיצַד? אוֹמֵר בִּרְכַּת הַמָּאוֹן, וּמַבְדִּיל לִכְבוֹד הַשַּׁבָּת.",
+      "it": "Yom Tov che cade alla vigilia di Shabbat — si effettua la havdalah tra sacro e sacro con il vino. Come? Si recita Birkat HaMazon e si fa la havdalah in onore di Shabbat."
+    },
+    {
+      "n": 6,
+      "he": "שַׁבָּת שֶׁחָלָה בְּעֶרֶב יוֹם טוֹב — מַבְדִּיל בְּמוֹצָאֵי שַׁבָּת בֵּין קֹדֶשׁ לְקֹדֶשׁ.",
+      "it": "Shabbat che cade alla vigilia di Yom Tov — si effettua la havdalah alla fine di Shabbat tra sacro e sacro."
+    },
+    {
+      "n": 7,
+      "he": "קִדּוּשׁ בְּלֵיל יוֹם טוֹב — מְקַדֵּשׁ עַל הַיַּיִן, כְּמוֹ בְּשַׁבָּת.",
+      "it": "Il kiddush la notte di Yom Tov — si recita il kiddush sul vino, come di Shabbat."
+    },
+    {
+      "n": 8,
+      "he": "הַמְקַדֵּשׁ עַל הַפַּת בְּיוֹם טוֹב — יָצָא. וּבִלְבַד שֶׁיֹּאכַל כַּזַּיִת מִמֶּנּוּ.",
+      "it": "Chi recita il kiddush sul pane nello Yom Tov — ha adempiuto. A condizione che ne mangi un volume di oliva (kazayit)."
+    },
+    {
+      "n": 9,
+      "he": "יוֹם טוֹב שֶׁחָל בְּשַׁבָּת — אֵין מַנִּיחִים עֵרוּב תַּבְשִׁילִין, שֶׁאֵין כָּאן צֹרֶךְ לְבַשֵּׁל לְשַׁבָּת.",
+      "it": "Yom Tov che cade di Shabbat — non si pone l'eruv tavshilin, poiché non vi è qui il bisogno di cucinare per Shabbat."
+    },
+    {
+      "n": 10,
+      "he": "יוֹם טוֹב שֶׁחָל בְּשַׁבָּת — הוֹסִיפוּ חֲכָמִים אִסּוּרִים מִשּׁוּם כְּבוֹד הַשַּׁבָּת.",
+      "it": "Yom Tov che cade di Shabbat — i Saggi hanno aggiunto proibizioni in onore di Shabbat."
+    },
+    {
+      "n": 11,
+      "he": "אֵין מְטַלְטְלִין בְּיוֹם טוֹב שֶׁחָל בְּשַׁבָּת אֶלָּא מַה שֶּׁמֻּתָּר לְטַלְטֵּל בְּשַׁבָּת.",
+      "it": "Non si spostano oggetti nello Yom Tov che cade di Shabbat se non ciò che è permesso spostare di Shabbat."
+    },
+    {
+      "n": 12,
+      "he": "אָסוּר לְהַכִין בְּשַׁבָּת לְיוֹם טוֹב שֶׁלְּאַחֲרָיו, וְאָסוּר לְהַכִין בְּיוֹם טוֹב לַשַּׁבָּת שֶׁלְּאַחֲרָיו.",
+      "it": "È proibito prepararsi di Shabbat per Yom Tov seguente, ed è proibito prepararsi nello Yom Tov per Shabbat seguente."
+    },
+    {
+      "n": 13,
+      "he": "מוֹצָאֵי יוֹם טוֹב שֶׁחָל בְּשַׁבָּת — אֵין אוֹמְרִים הַבְדָּלָה בְּמוֹצָאֵי שַׁבָּת מִפְּנֵי כְּבוֹד יוֹם טוֹב.",
+      "it": "Al termine di Yom Tov che cade di Shabbat — non si recita la havdalah alla fine di Shabbat per onore dello Yom Tov."
+    },
+    {
+      "n": 14,
+      "he": "כְּשֶׁחָל יוֹם טוֹב בְּשַׁבָּת, מַתְחִיל בְּ\"יוֹם הַשַּׁבָּת\" וּמְסַיֵּם בְּ\"יוֹם טוֹב\".",
+      "it": "Quando Yom Tov cade di Shabbat, si inizia [la benedizione] con «il giorno di Shabbat» e si conclude con «il giorno di Yom Tov»."
+    },
+    {
+      "n": 15,
+      "he": "שְׁתֵּי קְדֻשּׁוֹת נִפְגָּשׁוֹת — קְדֻשַּׁת שַׁבָּת וּקְדֻשַּׁת יוֹם טוֹב. וְכָל אַחַת גּוֹרֶרֶת אֶת חֲבֶרְתָּהּ.",
+      "it": "Due santità si incontrano — la santità di Shabbat e la santità di Yom Tov. Ognuna trascina con sé l'altra."
+    },
+    {
+      "n": 16,
+      "he": "כְּשֶׁיּוֹם טוֹב חָל בְּשַׁבָּת, מַתְחִיל בַּקִּדּוּשׁ: \"יוֹם הַשִּׁשִּׁי\" וּמְסַיֵּם בְּ\"יִשְׂרָאֵל וְהַזְּמַנִּים\".",
+      "it": "Quando Yom Tov cade di Shabbat, si inizia il kiddush con «Il sesto giorno» e si conclude con «Israele e i tempi»."
+    },
+    {
+      "n": 17,
+      "he": "אֵין קוֹרִין בַּתּוֹרָה בְּיוֹם טוֹב פָּרָשַׁת הַשָּׁבוּעַ, אֶלָּא פָּרָשַׁת הַמּוֹעֵד.",
+      "it": "Nello Yom Tov non si legge la parasha settimanale della Torah, ma la parasha della festività (parashat hamoed)."
+    },
+    {
+      "n": 18,
+      "he": "יוֹם טוֹב שֶׁחָל בְּשַׁבָּת — קוֹרִין פָּרָשַׁת הַמּוֹעֵד בִּלְבַד.",
+      "it": "Yom Tov che cade di Shabbat — si legge solo la parasha della festività."
+    },
+    {
+      "n": 19,
+      "he": "הַבְדָּלָה בֵּין קֹדֶשׁ לְקֹדֶשׁ — מַדְלִיקִין נֵר, כְּדֵי לְהַבְדִּיל בֵּין שַׁבָּת לְיוֹם טוֹב.",
+      "it": "La havdalah tra sacro e sacro — si accende una candela, per distinguere tra Shabbat e Yom Tov."
+    },
+    {
+      "n": 20,
+      "he": "אָסוּר לְהַכִין בְּיוֹם טוֹב רִאשׁוֹן לְיוֹם טוֹב שֵׁנִי, שֶׁכָּל יוֹם מְקֻדָּשׁ לְעַצְמוֹ.",
+      "it": "È proibito prepararsi nel primo giorno di Yom Tov per il secondo giorno di Yom Tov, poiché ogni giorno è sacro di per sé."
+    },
+    {
+      "n": 21,
+      "he": "שְׁנֵי יָמִים טוֹבִים שֶׁל גָּלוּיּוֹת — מִנְהַג אֲבוֹתֵינוּ בְּיָדֵינוּ.",
+      "it": "I due giorni di Yom Tov della diaspora — è la tradizione dei nostri padri nelle nostre mani."
+    },
+    {
+      "n": 22,
+      "he": "שְׁנֵי יְמֵי יוֹם טוֹב הֵן בִּמְקוֹמוֹת שֶׁלֹּא הָיוּ יוֹדְעִין מֵתָי קִדֵּשׁ בֵּית דִּין אֶת הַחֹדֶשׁ.",
+      "it": "I due giorni di Yom Tov si osservano nei luoghi che non sapevano quando il Beit Din avesse santificato il mese."
+    }
+  ],
+  "_glossary_terms_used": ["havdalah", "kiddush", "eruv tavshilin", "Yom Tov", "Shabbat", "moed", "parashat hamoed", "kedushah", "galuyot", "Beit Din", "kazayit", "birkat hamazon"]
+}

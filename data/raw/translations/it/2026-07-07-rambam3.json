@@ -1,0 +1,77 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bi'at HaMikdash 5-7",
+  "name_he": "משנה תורה, הלכות ביאת המקדש, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dell'Ingresso nel Santuario, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-07-07",
+  "hebrew_date": "22 Tammuz 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "מִצְוַת עֲשֵׂה לְיָרֵא מִן הַמִּקְדָּשׁ, שֶׁנֶּאֱמַר: \"וּמִקְדָּשִׁי תִּירָאוּ\".",
+      "it": "Vi è un comandamento positivo di temere il Tempio, come è detto: «E il Mio Santuario temete» (Vayikra 19:30)."
+    },
+    {
+      "n": "5:2",
+      "he": "מִצְוַת הַיִּרְאָה — שֶׁלֹּא יִכָּנֵס הָאָדָם אֶלָּא לִצֹרֶךְ, וְשֶׁיִּתְנַהֵג בְּכָבוֹד וְיִרְאָה.",
+      "it": "Il comandamento del timore — che una persona non entri [nel Tempio] se non per bisogno, e che si comporti con rispetto e timore."
+    },
+    {
+      "n": "5:3",
+      "he": "אָסוּר לַעֲלוֹת לְהַר הַבַּיִת אֶלָּא לְצֹרֶךְ מִצְוָה.",
+      "it": "È proibito salire al Monte del Tempio se non per bisogno di mitzva."
+    },
+    {
+      "n": "5:4",
+      "he": "מִצְוַת עֲשֵׂה לִקּוּם מִפְּנֵי כֹהֵן — אַף עַל פִּי שֶׁאֵינוֹ זָקֵן.",
+      "it": "Vi è un comandamento positivo di alzarsi davanti a un kohen — anche se non è anziano."
+    },
+    {
+      "n": "6:1",
+      "he": "מִצְוַת עֲשֵׂה לִשְׁמֹר עַל הַמִּקְדָּשׁ בְּכָל לַיְלָה, שֶׁנֶּאֱמַר: \"וְשָׁמְרוּ אֶת מִשְׁמֶרֶת הַמִּקְדָּשׁ\".",
+      "it": "Vi è un comandamento positivo di vegliare sul Tempio ogni notte, come è detto: «E custodiranno la custodia del Santuario» (Bamidbar 18:4)."
+    },
+    {
+      "n": "6:2",
+      "he": "עֶשְׂרִים וְאַרְבָּעָה מַשְׁמָרוֹת שֶׁל לְוִיִּם עוֹמְדִין לְשַׁמֵּר בְּחוּץ, וְהַכֹּהֲנִים בִּפְנִים.",
+      "it": "Ventiquattro postazioni di leviti vegliano all'esterno, e i kohanim all'interno."
+    },
+    {
+      "n": "6:3",
+      "he": "כֹּהֵן שֶׁנִּרְדַּם בְּמִשְׁמַרְתּוֹ — מַכֶּין אוֹתוֹ בְּמַקְלוֹת.",
+      "it": "Un kohen che si è addormentato durante la sua guardia — lo si percuote con bastoni."
+    },
+    {
+      "n": "7:1",
+      "he": "שֵׁשׁ עֶשְׂרֵה טֻמְאוֹת הַגּוּף שֶׁבִּרְשׁוּת הָאָדָם. כָּל אֶחָד מֵהֶן אָסוּר בִּכְנִיסָה לַמִּקְדָּשׁ.",
+      "it": "Sedici impurità corporali che sono nella responsabilità dell'uomo. Ognuna di esse proibisce l'entrata nel Tempio."
+    },
+    {
+      "n": "7:2",
+      "he": "טְמֵא שֶׁנִּכְנַס בְּשׁוֹגֵג — מֵבִיא קָרְבַּן חַטָּאת.",
+      "it": "Un impuro che è entrato involontariamente — porta un sacrificio di espiazione (korban chatat)."
+    },
+    {
+      "n": "7:3",
+      "he": "טָמֵא שֶׁנִּכְנַס בְּמֵזִיד — חַיָּב כָּרֵת.",
+      "it": "Un impuro che è entrato intenzionalmente — è passibile di karet."
+    },
+    {
+      "n": "7:4",
+      "he": "אֵיזֶה הֵן הַמְּקוֹמוֹת שֶׁהַטְּמֵאִין אֲסוּרִין לְהִכָּנֵס אֲלֵיהֶן? הַמַּחֲנֶה הַלֵּוִי — לֹא נִכְנָס לְתוֹכוֹ אֶלָּא בַּעַל קֶרִי.",
+      "it": "Quali sono i luoghi in cui agli impuri è proibito entrare? Nel campo levita (machaneh Levi) — solo il ba'al keri non può entrare."
+    },
+    {
+      "n": "7:5",
+      "he": "הָעֲזָרָה — טְמֵא שֶׁנִּכְנַס חַיָּב כָּרֵת, בֵּין כֹּהֵן בֵּין יִשְׂרְאֵל.",
+      "it": "L'Ezrah (cortile interno) — un impuro che entra è passibile di karet, sia kohen sia israelita."
+    },
+    {
+      "n": "7:6",
+      "he": "כֹּהֵן טָמֵא שֶׁנִּכְנַס לַהֵיכָל — חַיָּב מִיתָה בִּידֵי שָׁמַיִם.",
+      "it": "Un kohen impuro che entra nel Heichal — è passibile di morte per mano del Cielo."
+    }
+  ],
+  "_glossary_terms_used": ["Beit HaMikdash", "mitzva", "kohen", "Levi", "tum'ah", "machaneh Levi", "karet", "korban chatat", "ba'al keri", "Ezrah", "Heichal", "Har HaBayit", "shemirat hamikdash"]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shaar Avot HaTumah 5-7",
+  "name_he": "משנה תורה, הלכות שאר אבות הטומאות, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi degli Altri Fonti Primarie di Impurità, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-08-30",
+  "hebrew_date": "17 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "שרץ העוף — הוא עוף טמא שמת. מטמא במגע ובמשא. אבל אינו מטמא באהל.",
+      "it": "Lo sheretz ha-of — è il volatile non kasher che è morto. Rende impuro mediante il tocco e il trasporto. Ma non rende impuro mediante la presenza sotto un tetto comune (ohel)."
+    },
+    {
+      "n": "5:2",
+      "he": "שיעורו — כזית. פחות מכזית — אינו מטמא.",
+      "it": "La quantità minima — come un'oliva (kazayit). Meno di un'oliva — non rende impuro."
+    },
+    {
+      "n": "5:3",
+      "he": "עוף טמא שנשחט — לא הותר לאכילה ולא בטלה טומאתו. כי שחיטה לא מועילה בעוף טמא.",
+      "it": "Un volatile non kasher che è stato macellato — non è permesso al consumo e la sua impurità non cessa. Perché la shechitah non è efficace per un volatile non kasher."
+    },
+    {
+      "n": "6:1",
+      "he": "האוכל אוכלין טמאים — האם מיטמא? תלוי בסוג האוכל ובמידתו.",
+      "it": "Chi mangia cibi impuri — diventa impuro? Dipende dal tipo di cibo e dalla sua quantità."
+    },
+    {
+      "n": "6:2",
+      "he": "אוכל שנגע בטמא — נטמא. אבל אינו מטמא אחרים, אלא אם כן יש בו לחות — 'הכשר לקבל טומאה'.",
+      "it": "Un cibo che è venuto a contatto con un impuro — è diventato impuro. Ma non rende impuro altri, a meno che non abbia umidità — 'heksher lekabbel tumah' (idoneità a ricevere l'impurità)."
+    },
+    {
+      "n": "6:3",
+      "he": "שבעה משקין מכשירים: מים, דבש, יין, שמן, חלב, דם, וטל.",
+      "it": "Sette liquidi rendono il cibo idoneo a ricevere l'impurità: acqua, miele, vino, olio, latte, sangue e rugiada."
+    },
+    {
+      "n": "7:1",
+      "he": "השרץ — שמנה מינים שמנתה תורה — מטמאים. אבל שאר בעלי חיים שאינם כשרים ולא מן השמונה — מותרים לאכילה אסורים, אבל אינם מטמאים.",
+      "it": "Lo sheretz — gli otto tipi elencati dalla Torah — rendono impuri. Ma gli altri animali che non sono kasher e non sono tra gli otto — sono proibiti al consumo, ma non rendono impuri."
+    },
+    {
+      "n": "7:2",
+      "he": "דגים טמאים — מותר לנגוע בהם, ואין בהם טומאה מן התורה. ואיסורם — רק לאכילה.",
+      "it": "I pesci non kasher — è permesso toccarli, e non hanno impurità dalla Torah. Il loro divieto — è solo riguardo al consumo."
+    },
+    {
+      "n": "7:3",
+      "he": "חגבים — יש מהם טהורים ומותרים, ויש טמאים. החגב הטמא — מטמא כשאר השרצים.",
+      "it": "Le locuste (chagavim) — alcune sono pure e permesse, alcune sono impure. La locusta impura — rende impura come gli altri sheratzim."
+    },
+    {
+      "n": "7:4",
+      "he": "הים — יש בו מינים שאינם כשרים: כל שאין לו סנפיר וקשקשת — טמא. אבל אינו מטמא כשרץ.",
+      "it": "Il mare — vi sono specie che non sono kasher: tutto ciò che non ha pinne e squame — è impuro. Ma non rende impuro come uno sheretz."
+    },
+    {
+      "n": "7:5",
+      "he": "לכן — דגים שאינם כשרים — אסורים באכילה, אבל מותר לנגוע בהם ולטלטלם.",
+      "it": "Pertanto — i pesci non kasher — sono proibiti al consumo, ma è permesso toccarli e spostarli."
+    },
+    {
+      "n": "7:6",
+      "he": "כלל: לא כל האסור באכילה — מטמא. אבל כל המטמא — אסור באכילה.",
+      "it": "Regola: non tutto ciò che è proibito al consumo — rende impuro. Ma tutto ciò che rende impuro — è proibito al consumo."
+    }
+  ],
+  "_glossary_terms_used": ["sheretz ha-of", "ohel", "kazayit", "shechitah", "heksher lekabbel tumah", "sheretzim", "chagavim", "kasher"]
+}

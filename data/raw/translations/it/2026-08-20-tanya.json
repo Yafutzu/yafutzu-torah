@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim 44",
+  "name_he": "תניא, חלק א — ליקוטי אמרים, פרק מ\"ד",
+  "name_it": "Tanya, Parte I — Likutei Amarim, capitolo 44",
+  "cycle": "tanya-yomi",
+  "date": "2026-08-20",
+  "hebrew_date": "7 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "הזמן המסוגל ביותר להתבוננות — הוא קודם התפילה, בפסוקי דזמרה, שם יש פנאי ויכולת להתיישב ולהתבונן בגדלות הבורא.",
+      "it": "Il tempo più propizio per la hitbonenut (meditazione contemplativa) è prima della preghiera, durante i Pesukei de-Zimra (i versetti di lode del mattino), dove c'è agio e opportunità di raccogliersi e contemplare la grandezza del Creatore."
+    },
+    {
+      "n": 2,
+      "he": "אדם שמאריך בפסוקי דזמרה ומתבונן בהם — הרי הוא מכין את לבו לתפילת העמידה. אפילו כמה דקות של התבוננות אמיתית — גדולות ומועילות לאין שיעור.",
+      "it": "Una persona che prolunghi i Pesukei de-Zimra e vi contempli — prepara il suo cuore per la preghiera della Amidah (la preghiera silenziosa dei diciotto). Anche alcuni minuti di autentica hitbonenut sono di incalcolabile grandezza e beneficio."
+    },
+    {
+      "n": 3,
+      "he": "לכן נהגו חסידים להאריך בפסוקי דזמרה — לא מתוך עצלות אלא כדי להכנס לתוך עולם התפילה בהתבוננות ובהתלהבות, ולבוא לתפילת עמידה כשהלב בוער באהבת ה'.",
+      "it": "Perciò i Chassidim avevano l'usanza di prolungare i Pesukei de-Zimra — non per pigrizia, ma per entrare nel mondo della preghiera con meditazione e ardore, e giungere all'Amidah quando il cuore arde nell'amore di D-o."
+    }
+  ],
+  "_glossary_terms_used": ["hitbonenut", "Pesukei de-Zimra", "Amidah", "Chassidim"]
+}

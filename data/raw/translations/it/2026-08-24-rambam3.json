@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Tumat Tzara'at 11-13",
+  "name_he": "משנה תורה, הלכות טומאת צרעת, פרקים יא-יג",
+  "name_it": "Mishneh Torah, Leggi dell'Impurità della Tzara'at, capitoli 11-13",
+  "cycle": "rambam-3",
+  "date": "2026-08-24",
+  "hebrew_date": "11 Elul 5786",
+  "halachot_count": 9,
+  "halachot": [
+    {
+      "n": "11:1",
+      "he": "נגעי בתים — דיניהם בארץ ישראל בלבד. חוץ לארץ — אין דין נגעי בתים.",
+      "it": "Le leggi delle afflizioni delle case (nega'ei batim) si applicano solo nella Terra d'Israele. Fuori dalla Terra — non si applicano le leggi delle afflizioni delle case."
+    },
+    {
+      "n": "11:2",
+      "he": "ומה הסיבה שנגעי בתים שייכים לארץ ישראל? לפי שארץ ישראל קדושה, וחטאי התושב בה משפיעים על הארץ ועל הבתים שבה.",
+      "it": "Qual è il motivo per cui le afflizioni delle case si riferiscono alla Terra d'Israele? Perché la Terra d'Israele è santa, e i peccati di chi vi abita influenzano la terra e le case in essa."
+    },
+    {
+      "n": "11:3",
+      "he": "גם נגעי אדם — יש מהם שאינם נוהגים בגוי, ויש הנוהגים בגוי כבישראל. הדין תלוי בסוג הנגע.",
+      "it": "Anche le afflizioni cutanee sull'uomo — alcune non si applicano ai non-ebrei, e alcune si applicano ai non-ebrei come agli Israeliti. Il giudizio dipende dal tipo di afflizione."
+    },
+    {
+      "n": "12:1",
+      "he": "הכהן — רשותו בלבד. אפילו אם נגע ברור כצרעת, ולא קבע הכהן — טהור. ואפילו אם אינו נראה כצרעת, וקבע הכהן טומאה — טמא.",
+      "it": "Il Kohen — ha l'autorità esclusiva. Anche se l'afflizione è evidentemente tzara'at, e il Kohen non l'ha dichiarata — è pura. E anche se non sembra tzara'at, e il Kohen ha dichiarato impurità — è impura."
+    },
+    {
+      "n": "12:2",
+      "he": "כהן שהוא עיוור — אינו רואה נגעים. וכהן שאין לו ידיעה בנגעים — לומד מחכם ואחר כך קובע.",
+      "it": "Un Kohen che è cieco — non può esaminare le afflizioni. Un Kohen che non ha competenza nelle afflizioni — apprende da un saggio e poi stabilisce il giudizio."
+    },
+    {
+      "n": "12:3",
+      "he": "כהן שהוא מצורע — אחר רואה בנגעו. אין אדם רואה בנגעי עצמו.",
+      "it": "Un Kohen che è metzora — un altro esamina la sua afflizione. Nessuno esamina le proprie afflizioni."
+    },
+    {
+      "n": "13:1",
+      "he": "מפני מה תבוא צרעת? מפני שבעה דברים: על לשון הרע, ועל שפיכות דמים, ועל שבועת שקר, ועל גילוי עריות, ועל גאווה, ועל הגזל, ועל צרות עין.",
+      "it": "Per quale motivo viene la tzara'at? A causa di sette cose: a causa del lashon hara (maldicenza), dello spargimento di sangue, del falso giuramento, delle unioni sessuali proibite (giluy arayot), dell'arroganza (ga'avah), del furto (gezel), e dell'avarizia (tzirat ayin — letteralmente: occhio stretto)."
+    },
+    {
+      "n": "13:2",
+      "he": "לכן המצורע — יושב בדד מחוץ למחנה, ויחשוב בנפשו: 'מה עשיתי? על מה קניתי כך?'",
+      "it": "Pertanto il metzora — siede solo fuori dall'accampamento, e riflette fra sé: 'Che cosa ho fatto? Per quale motivo ho ricevuto questo?'"
+    },
+    {
+      "n": "13:3",
+      "he": "ואמרו חכמים: כשבא הנגע לאדם — סימן הוא שצריך תשובה על אחד מן השבעה. ואם חזר — יטהר.",
+      "it": "I Saggi dissero: quando l'afflizione viene a un uomo — è un segno che deve fare teshuvah (pentimento) riguardo ad una delle sette cose. Se si pentì — si purificherà."
+    }
+  ],
+  "_glossary_terms_used": ["nega'ei batim", "Kohen", "metzora", "lashon hara", "giluy arayot", "ga'avah", "gezel", "tzirat ayin", "teshuvah"]
+}

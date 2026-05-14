@@ -1,0 +1,122 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 24",
+  "name_he": "משנה תורה, הלכות אישות, פרק כד",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 24",
+  "cycle": "rambam-1",
+  "date": "2026-09-16",
+  "hebrew_date": "5 Tishrei 5787",
+  "halachot_count": 22,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אִשָּׁה שֶׁתָּבַע בַּעְלָהּ בְּדִין כְּדֵי לִגְבּוֹת כְּתֻבָּתָהּ וְנִמְצְאוּ נְכָסֵי הַבַּעַל כֻּלָּם מְשֻׁעְבָּדִים לַבַּעַל חוֹב, הֲרֵי זוֹ וּבַעַל חוֹב חוֹלְקִין בְּשָׁוֶה.",
+      "it": "Se una donna chiede in giudizio il pagamento della sua ketubbah e si trova che tutti i beni del marito sono gravati da un debito a un creditore, la moglie e il creditore si dividono equamente i beni."
+    },
+    {
+      "n": 2,
+      "he": "מֵת הַבַּעַל וְלֹא הִנִּיחַ נְכָסִים כְּלָל, אֵין לָאִשָּׁה כְּלוּם. הָיוּ לוֹ נְכָסִים מֻעָטִים שֶׁאֵינָם מַסְפִּיקִין לִכְתֻבָּה וּלְחוֹב, בַּעַל הַחוֹב קוֹדֵם.",
+      "it": "Se il marito muore senza lasciare alcun bene, la moglie non ottiene nulla. Se ha lasciato beni insufficienti a coprire sia la ketubbah che il debito, il creditore ha la precedenza."
+    },
+    {
+      "n": 3,
+      "he": "כֵּיצַד בַּעַל חוֹב קוֹדֵם? כְּגוֹן שֶׁלָּוָה בַּעַל מֵאַחֵר קֹדֶם שֶׁנָּשָׂא אֶת הָאִשָּׁה, אוֹ שֶׁלָּוָה לְאַחַר שֶׁנָּשָׂא אֲבָל כָּתַב לַמַּלְוֶה שְׁטַר מֻקְדָּם. הַקְדִימָה בַּשְּׁטָר קוֹבַעַת.",
+      "it": "Come mai il creditore ha la precedenza? Ad esempio, se il marito prese a prestito prima del matrimonio, o prese a prestito dopo il matrimonio ma il documento di debito porta una data anteriore. La priorità è determinata dalla data del documento."
+    },
+    {
+      "n": 4,
+      "he": "הָיוּ לוֹ נְכָסִים מֻעָטִים וּכְתֻבַּת הָאִשָּׁה קְדוּמָה לַחוֹב, הָאִשָּׁה קוֹדֶמֶת. אֵין הַכְּתֻבָּה קְדוּמָה אֶלָּא אִם כֵּן נִכְתְּבָה קֹדֶם שֶׁלָּוָה הַבַּעַל.",
+      "it": "Se i beni sono scarsi e la ketubbah della moglie è anteriore al debito, la moglie ha la precedenza. La ketubbah è anteriore solo se fu redatta prima che il marito contraesse il debito."
+    },
+    {
+      "n": 5,
+      "he": "מֵת הַבַּעַל וְהִנִּיחַ נְכָסִים, וְהָיוּ שָׁם בַּעַל חוֹב וְאִשָּׁה תּוֹבֶעֶת כְּתֻבָּתָהּ, וְהַנְּכָסִים מַסְפִּיקִין לַכֹּל, כָּל אֶחָד נוֹטֵל חֶלְקוֹ לְפִי שְׁטָרוֹ.",
+      "it": "Se il marito muore lasciando beni sufficienti a coprire sia il debito che la ketubbah, ciascuno riceve la propria quota secondo il proprio documento."
+    },
+    {
+      "n": 6,
+      "he": "אִשָּׁה שֶׁמֵּת בַּעְלָהּ וְלֹא טָרְפָה כְּתֻבָּתָהּ עַד שֶׁמֵּתָה, יוֹרְשֶׁיהָ תּוֹבְעִין כְּתֻבָּתָהּ מִן הַיּוֹרְשִׁין שֶׁל הַבַּעַל.",
+      "it": "Se una donna il cui marito è morto non ha ancora riscosso la sua ketubbah e poi muore, i suoi eredi possono rivendicare la ketubbah dagli eredi del marito."
+    },
+    {
+      "n": 7,
+      "he": "הַבָּנוֹת נִזּוֹנוֹת מִנְּכָסֵי הָאָב לְאַחַר מוֹתוֹ עַד שֶׁיִּתְקַדְּשׁוּ אוֹ עַד שֶׁיִּבְגְּרוּ. וְהַבָּנִים יוֹרְשִׁין אֶת הָאָב, אֲבָל חַיָּבִין לְזוּן אֶת אֲחֵיהֶן הַבָּנוֹת.",
+      "it": "Le figlie sono mantenute dai beni del padre dopo la sua morte fino al loro fidanzamento o fino al raggiungimento della maggiore età. I figli ereditano dal padre ma sono obbligati a mantenere le loro sorelle."
+    },
+    {
+      "n": 8,
+      "he": "הֶקְדֵּם הַבָּנוֹת עַל הַבָּנִים מִדְּרַבָּנָן, וְתַקָּנַת הַגְּאוֹנִים הִיא שֶׁהַבָּנִים לֹא יִירְשׁוּ עַד שֶׁיְּקַיְּמוּ תְּנַאי הַכְּתֻבָּה וְיָזוּנוּ אֶת הַבָּנוֹת.",
+      "it": "La precedenza delle figlie rispetto ai figli è di origine rabbinica; per disposizione dei Geonim, i figli non possono ereditare finché non adempiono le condizioni della ketubbah e mantengono le figlie."
+    },
+    {
+      "n": 9,
+      "he": "אִם אֵין בִּנְכָסֵי הָאָב כְּדֵי לְזוּן אֶת הַבָּנוֹת, אוֹמְרִין לִבְנֵי הַמֵּת: לְכוּ וּבַקְּשׁוּ פַּרְנָסָה לְעַצְמְכֶם, וַאֲחֵיכֶן הַבָּנוֹת יִזּוֹנוּ מִן הַנְּכָסִים.",
+      "it": "Se i beni del padre non bastano a mantenere le figlie, si dice ai figli del defunto: andate a guadagnarvi da vivere, mentre le vostre sorelle saranno mantenute dai beni."
+    },
+    {
+      "n": 10,
+      "he": "כְּתֻבַּת הָאִשָּׁה קוֹדֶמֶת לִמְזוֹן הַבָּנוֹת. לְפִיכָךְ, אִם לֹא הִסְפִּיקוּ הַנְּכָסִים לִשְׁנֵיהֶם, גּוֹבֶה הָאִשָּׁה כְּתֻבָּתָהּ וְאַחַר כָּך מְקַיְּמִין מְזוֹן הַבָּנוֹת מִן הַנּוֹתָר.",
+      "it": "La ketubbah della moglie ha priorità sul mantenimento delle figlie. Pertanto, se i beni non bastano a entrambi, la moglie riscuote la sua ketubbah e il mantenimento delle figlie è soddisfatto con quanto resta."
+    },
+    {
+      "n": 11,
+      "he": "אִשָּׁה שֶׁמֵּת בַּעְלָהּ, אִם רָצְתָה לִגְבּוֹת כְּתֻבָּתָהּ מִן הַיּוֹרְשִׁין, נִשְׁבַּעַת שֶׁלֹּא נִפְרְעָה כְּלוּם. שְׁבוּעַת הָאַלְמָנָה זוֹ מִדְּרַבָּנָן.",
+      "it": "Se una donna il cui marito è morto vuole riscuotere la sua ketubbah dagli eredi, deve giurare di non aver ricevuto alcun pagamento. Questo giuramento della vedova è di istituzione rabbinica."
+    },
+    {
+      "n": 12,
+      "he": "וְכֵן אִשָּׁה גְּרוּשָׁה שֶׁבָּאָה לִגְבּוֹת כְּתֻבָּתָהּ מִן הַבַּעַל עַצְמוֹ בְּבֵית דִּין, נִשְׁבַּעַת. אֲבָל מִן הַיּוֹרְשִׁין, אַלְמָנָה נִשְׁבַּעַת, גְּרוּשָׁה אֵינָהּ נִשְׁבַּעַת.",
+      "it": "Allo stesso modo, una donna divorziata che vuole riscuotere la sua ketubbah dal marito stesso in tribunale deve giurare. Ma dagli eredi: la vedova giura, la divorziata non giura."
+    },
+    {
+      "n": 13,
+      "he": "בֶּן שֶׁאָמַר: אָבִי אָמַר לִי שֶׁכְּתֻבַּת אִמִּי מָנֶה, וְהִיא אוֹמֶרֶת מָאתַיִם — אֵינָהּ גוֹבָה אֶלָּא מָנֶה. שֶׁהַבֵּן נֶאֱמָן כְּאָבִיו לְגַבֵּי אִמּוֹ.",
+      "it": "Se un figlio dice: mio padre mi ha detto che la ketubbah di mia madre era di una maneh, e lei dice che era di duecento, la moglie non percepisce che una maneh; il figlio è credibile come il padre riguardo alla madre."
+    },
+    {
+      "n": 14,
+      "he": "הָאִשָּׁה שֶׁנִּשְׁבַּעַת לַיּוֹרְשִׁין וְנִמְצְאָה שֶׁשִּׁקְּרָה, מוֹצִיאִין מִמֶּנָּה כָּל מַה שֶּׁגָּבְתָה. וְאֵין לָהּ עוֹד תַּקָּנָה לְגַבּוֹת כְּתֻבָּה.",
+      "it": "Se una donna che ha giurato agli eredi viene scoperta come spergiura, le viene ripreso tutto ciò che aveva riscosso, e non ha più rimedio per riscuotere la ketubbah."
+    },
+    {
+      "n": 15,
+      "he": "מֵת הַבַּעַל בְּחַיֵּי אֲבִי הָאִשָּׁה, וְהַנְּכָסִים בְּיַד הָאָב, אֵינוֹ מְשַׁלֵּם כְּתֻבָּה לְבִתּוֹ אֶלָּא אִם כֵּן הִתְנָה עִמָּהּ בְּשָׁעַת הַנִּשּׂוּאִין.",
+      "it": "Se il marito muore durante la vita del padre della moglie, e i beni si trovano in mano al padre, questi non paga la ketubbah alla figlia a meno che non se ne sia fatto carico al momento del matrimonio."
+    },
+    {
+      "n": 16,
+      "he": "נְכָסִים שֶׁמֵּת עֲלֵיהֶם הַבַּעַל, אֵין לְאַלְמָנָה לְמָכְרָן עַד שֶׁתִּשָּׁבַע. מָכְרָה קֹדֶם שֶׁנִּשְׁבַּעַת, הַמֶּכֶר בָּטֵל.",
+      "it": "I beni su cui il marito è morto: la vedova non può venderli finché non abbia giurato. Se vende prima di aver giurato, la vendita è nulla."
+    },
+    {
+      "n": 17,
+      "he": "אִשָּׁה שֶׁמְּכָרָה כְּתֻבָּתָהּ אוֹ מָשְׁכְּנָה אוֹתָהּ אוֹ נָתְנָה אוֹתָהּ לְאַחֵר, אֵין לָהּ כְּתֻבָּה אֶלָּא מַה שֶּׁנֶּחֱזַר לָהּ. שֶׁכְּתֻבָּה אֵינָהּ נִגְבֵּית אֶלָּא עַל יָדָהּ.",
+      "it": "Una donna che ha venduto la sua ketubbah, l'ha data in pegno o l'ha ceduta ad altri non può riscuoterla se non per ciò che le è rimasto; la ketubbah si riscuote solo direttamente dalla titolare."
+    },
+    {
+      "n": 18,
+      "he": "מֵת הַבַּעַל וְהִנִּיחַ נְכָסִים, וּבָאָה הָאַלְמָנָה לִגְבּוֹת כְּתֻבָּתָהּ, וְהַיּוֹרְשִׁין אוֹמְרִים: כְּבָר נִפְרַעַת — עָלֶיהֶם הָרְאָיָה. אִם אֵין לָהֶם רְאָיָה, גּוֹבָה בִּשְׁבוּעָה.",
+      "it": "Se il marito muore lasciando beni e la vedova viene a riscuotere la ketubbah, e gli eredi dicono che è già stata pagata, spetta a loro la prova. In mancanza di prova, la vedova riscuote previo giuramento."
+    },
+    {
+      "n": 19,
+      "he": "בַּעַל שֶׁמֵּת וְהוֹדָה קֹדֶם מוֹתוֹ שֶׁלֹּא פָּרַע לְאִשְׁתּוֹ כְּתֻבָּתָהּ, גּוֹבֶה בְּלֹא שְׁבוּעָה.",
+      "it": "Se il marito prima di morire ha dichiarato di non aver pagato la ketubbah alla moglie, la moglie la riscuote senza giuramento."
+    },
+    {
+      "n": 20,
+      "he": "הָיוּ לִפְנֵי בֵּית דִּין שְׁנֵי שְׁטָרוֹת — אֶחָד שְׁטַר חוֹב וְאֶחָד כְּתֻבַּת אִשָּׁה, וּשְׁנֵיהֶם שָׁוִים בְּתַאֲרִיךְ — חוֹלְקִין בְּשָׁוֶה.",
+      "it": "Se davanti al tribunale si trovano due documenti — uno di debito e uno di ketubbah — e hanno la stessa data, si divide equamente."
+    },
+    {
+      "n": 21,
+      "he": "אִשָּׁה שֶׁהָיְתָה נְשׂוּאָה לִשְׁנַיִם, מֵת הָרִאשׁוֹן בְּחַיֵּי הַשֵּׁנִי, וּמֵת הַשֵּׁנִי — גּוֹבָה כְּתֻבָּה מִן הָרִאשׁוֹן מִנְּכָסָיו, וּכְתֻבַּת הַשֵּׁנִי מִנְּכָסָיו.",
+      "it": "Una donna che era stata sposata a due uomini, il primo morto durante la vita del secondo, e poi morì il secondo: riscuote la ketubbah del primo dai suoi beni, e quella del secondo dai suoi beni."
+    },
+    {
+      "n": 22,
+      "he": "כְּלָל הַדָּבָר: כָּל שֶׁיֵּשׁ לָהּ שְׁטַר כְּתֻבָּה, גּוֹבָה אוֹתָהּ בִּשְׁבוּעָה מִנְּכָסֵי הַבַּעַל; וְכָל שֶׁאֵין לָהּ שְׁטָר, אֵינָהּ גּוֹבָה אֶלָּא בְּרְאָיָה אַחֶרֶת.",
+      "it": "Il principio generale è: chiunque abbia un documento di ketubbah la riscuote previo giuramento dai beni del marito; chiunque non abbia tale documento non la riscuote se non con altra prova."
+    }
+  ],
+  "_glossary_terms_used": ["ketubbah", "maneh", "shevuah", "almana", "gerushah", "yoreshim"]
+}

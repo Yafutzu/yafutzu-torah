@@ -1,0 +1,52 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bikkurim 12; Hilchot Shemitah VeYovel 1-2",
+  "name_he": "משנה תורה, הלכות בכורים פרק יב; הלכות שמיטה ויובל פרקים א–ב",
+  "name_it": "Mishneh Torah, Leggi delle Primizie cap.12; Leggi dello Shemitah e del Giubileo cap.1–2",
+  "cycle": "rambam-3",
+  "date": "2026-06-25",
+  "hebrew_date": "10 Tammuz 5786",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "12:1-5",
+      "he": "סִיּוּם הִלְכוֹת בִּכּוּרִים...",
+      "it": "Si concludono le Leggi delle Primizie e dei Doni ai Sacerdoti. Il Rambam ha trattato in questi dodici capitoli il sistema completo dei doni dovuti ai kohanim: il bikkurim (primizie), la challah (porzione del pane), il reishit haGez (prima tosatura), il Pidyon HaBen (riscatto del primogenito), il peter chamor (riscatto del primogenito dell'asino), e il bechor behemah tehorah (primogenito del bestiame puro)."
+    },
+    {
+      "n": "1:1",
+      "he": "שְׁנַת הַשְּׁמִיטָה — מִצְוַת עֲשֵׂה...",
+      "it": "Hilchot Shemitah VeYovel: c'è un comandamento positivo di lasciare riposare la terra ogni settimo anno (shemitah). La Torah dice: 'U-va-shanah hashvi'it tishbot ha-aretz' (Levitico 25:4). In questo anno la terra è 'shabbat laHashem' — il Sabato di Dio. Tutte le attività agricole principali sono vietate."
+    },
+    {
+      "n": "1:2-4",
+      "he": "מֵאֵיזֶה זְמַן נוֹהֶגֶת שְׁמִיטָה...",
+      "it": "Da quando si applica la shemitah? Da quando gli ebrei sono entrati nella Terra d'Israele. La shemitah si applica solo in Terra d'Israele, non fuori da essa. La shemitah dipende dal possesso della terra da parte del popolo ebraico: 'ki tavo'u el ha-aretz' — quando entrerete nella terra. I Saggi discutono se la shemitah di oggi è de-oraita (biblica) o de-rabbanan (rabbinica)."
+    },
+    {
+      "n": "1:5-8",
+      "he": "אֵלּוּ הֵן מְלָאכוֹת הָאֲסוּרוֹת בִּשְׁמִיטָה...",
+      "it": "Queste sono le melachot vietate durante la shemitah: aratura (charisha), semina (zeri'ah), potatura delle viti (zemira), mietitura per accumulo commerciale (ketzira be-derech hamishtamrot), vendemmia (betzirah), raccolta di olive (mesika). L'anno di shemitah va da Rosh Hashanah del settimo anno fino a Rosh Hashanah dell'ottavo anno."
+    },
+    {
+      "n": "1:9-12",
+      "he": "מֵאֵיזֶה זְמַן אֲסוּר לַחֲרֹשׁ...",
+      "it": "Da quando è proibito arare in vista della shemitah? I Saggi hanno aggiunto 'Tosefet Shevii' — un'estensione del riposo: si proibisce di arare campi di grano trenta giorni prima di Rosh Hashanah del settimo anno, e vigneti con erbe parassite (beit hashalaim) fino a Shavuot prima del settimo anno. Questo tutela il principio dello shemitah aggiungendo un 'confine' intorno alla legge biblica."
+    },
+    {
+      "n": "2:1",
+      "he": "פֵּרוֹת שְׁבִיעִית — אוֹכְלִין אוֹתָן בִּקְדֻשָּׁה...",
+      "it": "I frutti della shemitah (peirot shevi'it): hanno la kedushah (santità) dello shemitah e devono essere mangiati con questa consapevolezza. Non si possono vendere in modo commerciale. Non si possono sprecare. Non si possono usare per scopo medicinale o cosmetico se normalmente non si mangiano. Il principio è: questi frutti sono stati 'consacrati' dal riposo della terra e appartengono a tutti."
+    },
+    {
+      "n": "2:2-5",
+      "he": "קְדֻשַּׁת שְׁבִיעִית...",
+      "it": "La santità della shemitah: i frutti della shemitah sono hefker (ownerless — senza proprietario). Chiunque — ebreo o non ebreo — può prenderli liberamente dai campi. Il proprietario non può impedire ad altri di raccoglierli. Questo è il grande principio sociale della shemitah: un anno di uguaglianza assoluta nell'accesso ai prodotti della terra."
+    },
+    {
+      "n": "2:6-9",
+      "he": "אֵין מוֹכְרִין פֵּרוֹת שְׁבִיעִית בְּמִדָּה...",
+      "it": "Non si vendono frutti della shemitah a misura, a peso o a numero: questo enfatizza il carattere non commerciale della shemitah. Se si vuole che un amico prenda dei frutti della shemitah, gli si dicono semplicemente: 'Prendi questi frutti.' Non si fa un contratto di vendita formale. Si possono però accettare doni volontari o condividere il cibo della shemitah come gesto di generosità."
+    }
+  ],
+  "_glossary_terms_used": ["bikkurim", "challah", "reishit haGez", "shemitah", "Yovel", "peirot shevi'it", "kedushah", "hefker", "melachot", "charisha", "zeri'ah", "zemira", "ketzira", "de-oraita", "de-rabbanan", "tosefet shevii"]
+}

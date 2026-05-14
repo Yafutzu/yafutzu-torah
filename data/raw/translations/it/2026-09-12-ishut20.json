@@ -1,0 +1,27 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 20",
+  "name_he": "משנה תורה, הלכות אישות, פרק כ",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 20",
+  "cycle": "rambam-1",
+  "date": "2026-09-12",
+  "hebrew_date": "1 Tishrei 5787",
+  "halachot_count": 15,
+  "halachot": [
+    {"n": 1, "he": "תִּקְּנוּ חֲכָמִים כְּתֻבַּת בָּנִין דִּכְרִין — שֶׁיִּרְשׁוּ הַבָּנִים מֵאִמָּם אַחַר פְּטִירַת אֲבִיהֶם אֶת שְׁוִי כְּתֻבַּת אִמָּם.", "it": "I Saggi hanno istituito la ketubot banim dikrin — che i figli erediteranno dalla loro madre dopo la morte del padre il valore della ketubah della loro madre."},
+    {"n": 2, "he": "כֵּיצַד? מֵת הַבַּעַל, וְהִנִּיחַ נְכָסִים — הַבָּנִים מֵאִשָּׁה זוֹ יוֹרְשִׁים אֶת כְּתֻבָּתָהּ מֵאֲבִיהֶם.", "it": "Come? Se il marito è morto e ha lasciato beni — i figli di questa moglie ereditano la ketubah della loro madre dal loro padre."},
+    {"n": 3, "he": "וְכֵן מֵת הָאָב וְהִנִּיחַ נְכָסִים מְרֻבִּים — כָּל אֵם גּוֹבָה כְּתֻבָּתָהּ לִבְנֶיהָ לִפְנֵי הַחֲלוּקָה.", "it": "E così se il padre è morto e ha lasciato molti beni — ogni madre riscuote la sua ketubah per i suoi figli prima della divisione."},
+    {"n": 4, "he": "לְפִיכָךְ בָּנִים מֵאִשָּׁה שֶׁכְּתֻבָּתָהּ גְּדוֹלָה — יוֹרְשִׁים יוֹתֵר מִבָּנִים מֵאִשָּׁה שֶׁכְּתֻבָּתָהּ קְטַנָּה.", "it": "Pertanto i figli di una moglie con una ketubah grande — ereditano di più dei figli di una moglie con una ketubah piccola."},
+    {"n": 5, "he": "לֹא הִסְפִּיקוּ הַנְּכָסִים לִשְׁתֵּי הַכְּתֻבּוֹת — חוֹלְקִין בְּשָׁוֶה.", "it": "Se i beni non sono sufficienti per entrambe le ketubah — si dividono in parti uguali."},
+    {"n": 6, "he": "לֹא הִשְׁאִיר הָאָב אֶלָּא כְּדֵי כְּתֻבָּה אַחַת — חוֹלְקִין לִשְׁנֵי הַכְּתֻבּוֹת בְּשָׁוֶה.", "it": "Se il padre ha lasciato solo abbastanza per una ketubah — si divide tra le due ketubah in parti uguali."},
+    {"n": 7, "he": "הָיְתָה לוֹ אִשָּׁה אַחַת — יוֹרְשִׁים אֶת כֻּלָּהּ.", "it": "Se aveva una sola moglie — ereditano tutta la ketubah."},
+    {"n": 8, "he": "הַבָּנִים יוֹרְשִׁים כְּתֻבַּת אִמָּם בְּנוֹסָף לְחֶלְקָם בַּיְּרֻשָּׁה.", "it": "I figli ereditano la ketubah della loro madre in aggiunta alla loro parte nell'eredità."},
+    {"n": 9, "he": "בְּנוֹת הָאִשָּׁה — אֵינָן יוֹרְשׁוֹת אֶת כְּתֻבַּת אִמָּן, שֶׁהַבָּנִים הִם הַיּוֹרְשִׁים.", "it": "Le figlie della moglie — non ereditano la ketubah della madre, poiché sono i figli ad ereditare."},
+    {"n": 10, "he": "מֵתָה הָאִשָּׁה בְּחַיֵּי הַבַּעַל — בָּנֶיהָ לֹא יִרְשׁוּ אֶת כְּתֻבָּתָהּ מִן הָאָב בְּחַיָּיו.", "it": "Se la moglie è morta in vita del marito — i suoi figli non ereditano la sua ketubah dal padre in vita."},
+    {"n": 11, "he": "אֶלָּא לְאַחַר מוֹת הָאָב — בָּנֶיהָ יוֹרְשִׁים אֶת כְּתֻבָּתָהּ קֹדֶם לְבָנִים הָאֲחֵרִים.", "it": "Ma dopo la morte del padre — i suoi figli ereditano la sua ketubah prima degli altri figli."},
+    {"n": 12, "he": "כְּתֻבַּת בָּנִין דִּכְרִין — תַּקָּנָה שֶׁנִּתְקְּנָה לְעִדּוּד הָאָב לְהַגְדִּיל הַכְּתֻבָּה.", "it": "La ketubot banim dikrin — è un decreto istituito per incentivare il padre ad aumentare la ketubah."},
+    {"n": 13, "he": "אִם אֵין בָּנִים — אֵין תַּקָּנָה זוֹ נוֹהֶגֶת.", "it": "Se non ci sono figli — questo decreto non si applica."},
+    {"n": 14, "he": "כָּל כְּתֻבַּת בָּנִין דִּכְרִין — אֵינָהּ גּוֹבֶה מֵנְּכָסִים מְשֻׁעְבָּדִים.", "it": "Tutta la ketubot banim dikrin — non si riscuote da beni gravati da ipoteca."},
+    {"n": 15, "he": "הַיּוֹם, א' תִּשְׁרֵי תשפ\"ז, יוֹם רֹאשׁ הַשָּׁנָה — יְהִי רָצוֹן שֶׁנִּזְכֶּה לְגֵּרוּת טוֹבָה וּלְחַיִּים טוֹבִים בַּשָּׁנָה הַחֲדָשָׁה.", "it": "Oggi, 1 Tishrei 5787, giorno di Rosh Hashanah — possa essere volontà Divina che meritiamo un buon giudizio e una buona vita nel nuovo anno."}
+  ],
+  "_glossary_terms_used": ["ketubah", "ketubot banim dikrin", "Rosh Hashanah"]
+}

@@ -1,0 +1,33 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 28-29",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרות כח-כט",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh (Epistola Santa), lettere 28-29",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-02",
+  "hebrew_date": "17 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 4,
+  "segments": [
+    {
+      "n": 1,
+      "he": "אגרת כח: בְּיוֹם י\"ז בְּתַמּוּז — יוֹם צוֹם שִׁיבְעָה עָשָׂר בְּתַמּוּז, רֹאשׁ תְּקוּפַת שְׁלוֹשֶׁת הַשָּׁבוּעוֹת — כּוֹתֵב הָאַלְטֶר רֶבִּי לְתַלְמִידָיו דְּבָרִים שֶׁל נֶחָמָה עַל חֻרְבַּן בֵּית הַמִּקְדָּשׁ וְהַגָּלוּת.",
+      "it": "Lettera 28: In questo giorno, 17 Tammuz — giorno di digiuno di Shiva Asar be-Tammuz, inizio del periodo delle Tre Settimane — l'Alter Rebbe scrive ai suoi discepoli parole di consolazione riguardo alla distruzione del Tempio (Churban Beit HaMikdash) e all'esilio (galut)."
+    },
+    {
+      "n": 2,
+      "he": "הַגָּלוּת בִּפְנִימִיּוּתוֹ — הִזְדַּמְּנוּת לְבֵרוּר הַנִּיצוֹצוֹת הַקְּדוֹשִׁים שֶׁנָּפְלוּ לַקְּלִיפּוֹת. כָּל יְהוּדִי, בְּכָל מָקוֹם שֶׁהוּא נִמְצָא בַּגָּלוּת, מְקָרֵב אֶת הַגְּאֻלָּה עַל יְדֵי עֲבוֹדָתוֹ בְּתוֹרָה וּמִצְווֹת.",
+      "it": "L'esilio nella sua dimensione interiore — è un'opportunità per il vaglio e l'elevazione delle scintille di santità (nitzotzot) cadute nelle forze impure (kelipot). Ogni ebreo, in qualunque luogo si trovi nell'esilio, avvicina la redenzione attraverso il suo servizio nella Torah e nelle mitzvot."
+    },
+    {
+      "n": 3,
+      "he": "אגרת כט: עַל בִּיאַת הַמָּשִׁיחַ — הַסִּימָנִים שֶׁל הַיָּמִים הַמְּשִׁיחִיִּים. כָּל יְהוּדִי מְאַיֵּץ אֶת הַגְּאֻלָּה עַל יְדֵי לִמּוּד תּוֹרָה וְקִיּוּם מִצְווֹת, שֶׁהֵן בִּרְיָאַת הַדִּירָה לְהַקָּדוֹשׁ בָּרוּךְ הוּא בְּתַחְתּוֹנִים.",
+      "it": "Lettera 29: Sulla venuta del Messia (Moshiach) — i segni dell'era messianica. Ogni ebreo accelera la redenzione attraverso lo studio della Torah e l'adempimento delle mitzvot, che costituiscono la costruzione della dimora per il Santo Benedetto Sia nei mondi inferiori (dirah be-tachtonim)."
+    },
+    {
+      "n": 4,
+      "he": "עִנְיַן הַגְּאֻלָּה — שֶׁתִּתְגַּלֶּה אַלֹקוּת בָּעוֹלָם הַגָּשְׁמִי. וְזֶה נַעֲשֶׂה עַל יְדֵי עֲבוֹדַת כָּל יְהוּדִי בְּמָקוֹם שֶׁהוּא נִמְצָא.",
+      "it": "Il concetto della redenzione — che la Divinità si riveli nel mondo materiale. E questo si realizza attraverso il servizio di ogni ebreo nel luogo in cui si trova."
+    }
+  ],
+  "_glossary_terms_used": ["Shiva Asar be-Tammuz", "Churban Beit HaMikdash", "galut", "birur nitzotzot", "kelipot", "Moshiach", "dirah be-tachtonim", "avodah", "Torah", "mitzvot", "Alter Rebbe"]
+}

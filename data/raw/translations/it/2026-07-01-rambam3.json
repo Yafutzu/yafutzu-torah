@@ -1,0 +1,82 @@
+{
+  "ref": "Mishneh Torah, Hilchot Beit HaBechira 5-7",
+  "name_he": "משנה תורה, הלכות בית הבחירה, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi della Casa Prescelta, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-07-01",
+  "hebrew_date": "16 Tammuz 5786",
+  "halachot_count": 14,
+  "halachot": [
+    {
+      "n": "5:1",
+      "he": "הַר הַבַּיִת — יֵשׁ בּוֹ קְדֻשָּׁה. לְפִיכָךְ אָסוּר לְכָל טָמֵא לְהִכָּנֵס לְהַר הַבַּיִת.",
+      "it": "Il Monte del Tempio (Har HaBayit) — ha santità. Pertanto è proibito a ogni persona impura (tameh) entrare nel Monte del Tempio."
+    },
+    {
+      "n": "5:2",
+      "he": "אֲסוּרִין לְהִכָּנֵס לְהַר הַבַּיִת: בַּעַל קֶרִי, זָב, זָבָה, יוֹלֶדֶת, נִדָּה, מְצֹרָע, וְכָל טָמֵא בְּמֵת.",
+      "it": "Sono proibiti dall'entrare nel Monte del Tempio: il ba'al keri (impuro per emissione), lo zav, la zavah, la yoledet (puerpera), la niddah, il metzora, e chiunque abbia impurità cadaverica."
+    },
+    {
+      "n": "5:3",
+      "he": "אָסוּר לִכָּנֵס לְהַר הַבַּיִת בְּמַקְלוֹ, בְּמִנְעָלוֹ, בְּפֻנְדָּתוֹ, בְּאֲבַק שֶׁעַל רַגְלָיו.",
+      "it": "È proibito entrare nel Monte del Tempio con il proprio bastone, con le proprie scarpe, con la propria borsa, con la polvere sui propri piedi."
+    },
+    {
+      "n": "5:4",
+      "he": "לֹא יַעֲשֶׂנּוּ קַפַּנְדַּרְיָא — שֶׁלֹּא יִכָּנֵס בּוֹ לְקַצֵּר דַּרְכּוֹ.",
+      "it": "Non lo si deve usare come scorciatoia (kapandarya) — non si entra in esso per accorciare il proprio cammino."
+    },
+    {
+      "n": "6:1",
+      "he": "קְדֻשַּׁת בֵּית הַמִּקְדָּשׁ קַיֶּמֶת לְעוֹלָם, אֲפִלּוּ לְאַחַר הַחֻרְבָּן. שֶׁקְּדֻשָּׁה רִאשׁוֹנָה קִדְּשָׁה לְשָׁעָתָהּ וְקִדְּשָׁה לֶעָתִיד לָבֹא.",
+      "it": "La santità del Tempio è permanente, anche dopo la distruzione. Poiché la santità originaria ha santificato per quel tempo e ha santificato per il futuro."
+    },
+    {
+      "n": "6:2",
+      "he": "עֲשֶׂרֶת מַדְרֵגוֹת שֶׁל קְדֻשָּׁה: אֶרֶץ יִשְׂרָאֵל, עֲיָרוֹת הַמֻּקָּפוֹת חוֹמָה, יְרוּשָׁלַיִם, הַר הַבַּיִת, חֵיל, עֶזְרַת נָשִׁים, עֶזְרַת יִשְׂרָאֵל, עֶזְרַת כֹּהֲנִים, בֵּין הָאוּלָם וְלַמִּזְבֵּחַ, הֵיכָל וְקֹדֶשׁ הַקֳּדָשִׁים.",
+      "it": "Dieci livelli di santità: Terra d'Israele, città murate, Gerusalemme, Monte del Tempio, cheil (la muraglia), cortile delle donne (Ezrat Nashim), cortile degli israeliti (Ezrat Yisrael), cortile dei kohanim (Ezrat Kohanim), tra il portico e l'altare, il Heichal e il Santo dei Santi (Kodesh HaKodashim)."
+    },
+    {
+      "n": "6:3",
+      "he": "אָסוּר לְהִשְׁתַּמֵּשׁ בְּהַר הַבַּיִת לְדָבָר חֹל — לֹא לְקַפַּנְדַּרְיָא וְלֹא לִסְחוֹרָה.",
+      "it": "È proibito usare il Monte del Tempio per cose profane — né come scorciatoia né per commercio."
+    },
+    {
+      "n": "7:1",
+      "he": "חוֹמוֹת בֵּית הַמִּקְדָּשׁ וּשְׁעָרָיו — הָיוּ שְׁלוֹשׁ עֶשְׂרֵה שְׁעָרִים.",
+      "it": "Le mura del Tempio e le sue porte — vi erano tredici porte."
+    },
+    {
+      "n": "7:2",
+      "he": "שַׁעַר נִיקָנוֹר — הָיָה בְּמִזְרָח, וּמֵחָמַת נִסִּים שֶׁנַּעֲשׂוּ עִם דַּלְתוֹתָיו — נִשְׁתַּיֵּר הוּא לְבַדּוֹ שֶׁל נְחֹשֶׁת.",
+      "it": "La Porta di Nikanor — era a est, e a causa dei miracoli avvenuti con le sue porte — rimase essa sola di rame (nechoset)."
+    },
+    {
+      "n": "7:3",
+      "he": "שְׁאָר הַשְּׁעָרִים הָיוּ מְצֻפִּים זָהָב. שַׁעַר נִיקָנוֹר לֹא צִפּוּ אוֹתוֹ, שֶׁהַנֵּס שֶׁנַּעֲשָׂה בּוֹ יְפוּרְסַם.",
+      "it": "Le altre porte erano rivestite d'oro. La Porta di Nikanor non fu rivestita, affinché il miracolo avvenuto con essa fosse pubblicizzato."
+    },
+    {
+      "n": "7:4",
+      "he": "מִדּוֹת הַשְּׁעָרִים — גָּבְהָן עֶשְׂרִים אַמָּה, וְרָחְבָּן עֶשֶׂר אַמּוֹת.",
+      "it": "Le misure delle porte — la loro altezza era di venti cubiti (amot), e la loro larghezza di dieci cubiti."
+    },
+    {
+      "n": "7:5",
+      "he": "הֵיכַל בֵּית הַמִּקְדָּשׁ — פְּתָחוֹ גָּבוֹהַּ אַרְבָּעִים אַמָּה וְרָחָב עֶשְׂרִים אַמָּה.",
+      "it": "Il Heichal del Tempio — la sua apertura era alta quaranta cubiti e larga venti cubiti."
+    },
+    {
+      "n": "7:6",
+      "he": "הַשַּׁעַר הַגָּדוֹל — שַׁעַר הֵיכָל — הָיָה כֻּלּוֹ מְצֻפֶּה זָהָב.",
+      "it": "La Grande Porta — la porta del Heichal — era interamente rivestita d'oro."
+    },
+    {
+      "n": "7:7",
+      "he": "כָּל הַשְּׁעָרִים שֶׁהָיוּ בַּמִּקְדָּשׁ — גָּבְהָן עֶשְׂרִים אַמָּה, חוּץ מִשַּׁעַר הֶחָצֵר שֶׁהָיָה גָּבוֹהַּ יוֹתֵר.",
+      "it": "Tutte le porte che erano nel Tempio — la loro altezza era di venti cubiti, eccetto la porta del cortile che era più alta."
+    }
+  ],
+  "_glossary_terms_used": ["Har HaBayit", "tum'ah", "ba'al keri", "zav", "zavah", "yoledet", "niddah", "metzora", "kapandarya", "kedushah", "Ezrat Nashim", "Ezrat Yisrael", "Ezrat Kohanim", "Kodesh HaKodashim", "Heichal", "cheil", "amah", "amot"]
+}

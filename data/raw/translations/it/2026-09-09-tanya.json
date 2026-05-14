@@ -1,0 +1,16 @@
+{
+  "ref": "Tanya, Part II; Sha'ar HaYichud VeHaEmunah 11",
+  "name_he": "תניא, חלק ב — שער היחוד והאמונה, פרק יא",
+  "name_it": "Tanya, Parte II — Sha'ar HaYichud VeHaEmunah, capitolo 11",
+  "cycle": "tanya",
+  "date": "2026-09-09",
+  "hebrew_date": "27 Elul 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {"n": 1, "he": "הַמַּשְׁמָעוּת הַמַּעֲשִׂית שֶׁל הֶאֱמָנָה בַּהַשְׁגָּחָה — אִם הָאָדָם מַאֲמִין שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא מָלֵא אֶת כָּל הָעוֹלָם, לֹא יִפְחַד מִשּׁוּם דָּבָר אֶלָּא מִן הַקָּדוֹשׁ בָּרוּךְ הוּא.", "it": "L'implicazione pratica della fede nella Provvidenza — se l'uomo crede che il Santo Benedetto riempie tutto il mondo, non temerà nulla tranne il Santo Benedetto."},
+    {"n": 2, "he": "יִרְאַת בְּנֵי אָדָם, מַחֲלָה, עֲנִיּוּת — כּוּלָּן הֵן שִׁכְחַת הַשְׁגָּחַת ה'. מִי שֶׁמַּאֲמִין בֶּאֱמֶת שֶׁהַכֹּל מֵאֵת ה' — אֵין לוֹ פַּחַד.", "it": "Paura degli uomini, malattia, povertà — sono tutte forme di dimenticanza della Provvidenza Divina. Chi crede veramente che tutto viene da Dio — non ha paura."},
+    {"n": 3, "he": "לְהֵפֶךְ — הָאֱמוּנָה הַגְּמוּרָה מּוֹלִידָה שַׁלְוָה גְּמוּרָה. שֶׁאִם הַקָּדוֹשׁ בָּרוּךְ הוּא נָמְצָא בְּכָל מָקוֹם, אֵין שׁוּם מָקוֹם שֶׁהָאָדָם אֵינוֹ מוּגָן.", "it": "Al contrario — la fede completa genera calma completa. Poiché se il Santo Benedetto si trova in ogni luogo, non esiste luogo in cui l'uomo non sia protetto."}
+  ],
+  "_glossary_terms_used": ["bitachon", "emunah", "hashgachah", "yirah"]
+}

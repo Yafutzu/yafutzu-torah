@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part I; Likutei Amarim, chapter 13",
+  "name_he": "תניא, חלק א — לקוטי אמרים, פרק יג",
+  "name_it": "Tanya, Parte I — Likkutei Amarim, capitolo 13",
+  "cycle": "tanya-yomi",
+  "date": "2026-11-15",
+  "hebrew_date": "6 Kislev 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "קְלִיפַּת נֹגַהּ — הִיא הַמַּבְדֶּלֶת בֵּין הַקְּדֻשָּׁה לְהֵיפֶּךְ…",
+      "it": "Il capitolo 13 approfondisce la comprensione delle kelipot (involucri/gusci) — le forze che oscurano la luce divina nel mondo. Kelipat nogah (il guscio translucido) è la «zona grigia» dell'esistenza: né pura santità né impurità assoluta. Da essa provengono tutti i piaceri e le attività lecite ma non sante — mangiare kasher per soddisfazione piuttosto che per la santità, dormire per il riposo piuttosto che per servire D-o riposato, parlare di affari mondani leciti. Tutto ciò è nella zona di kelipat nogah."
+    },
+    {
+      "n": 2,
+      "he": "שָׁלֹשׁ קְלִיפּוֹת הַטְּמֵאוֹת לְגַמְרֵי — תֹּהוּ, בֹהוּ, חֹשֶׁךְ…",
+      "it": "Le tre kelipot completamente impure (tohu, bohu, choshech — corrispondenti ai versetti di Genesi 1:2 nella loro interpretazione kabbalistico-chassidica): queste sono la fonte dei 365 divieti negativi della Torah. Ciò che è specificamente vietato dalla Torah — mangiare cibo non-kasher, relazioni proibite, idolatria — proviene dalle tre kelipot opache. Queste non hanno aspetti di santità né possono essere elevate attraverso le mitzvot. La loro sola «funzione» nel piano divino è di creare la possibilità della scelta libera."
+    },
+    {
+      "n": 3,
+      "he": "עוֹלָם הָעֲשִׂיָּה — מְעֻרָב מִקְּדֻשָּׁה וּמִקְּלִיפַּת נֹגַהּ…",
+      "it": "Il mondo fisico (olam ha-asiyah — il mondo dell'azione) contiene sia kelipat nogah sia santità pura. Questo è il palcoscenico della vita umana — la zona in cui si svolge la battaglia tra le due neshamot. L'atto di mangiare kasher, ad esempio, porta la kelipat nogah a servizio della santità — il cibo diventa energia per lo studio e la preghiera. Questo è il tikkun (riparazione) che avviene attraverso le mitzvot quotidiane: sollevare la kelipat nogah alla santità, purificare il mondo fisico atto per atto. Ogni mitzvah è una piccola yichud (unificazione) tra il mondo fisico e la sua fonte divina."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kelipot", "kelipat nogah", "tohu", "bohu", "choshech", "olam ha-asiyah", "neshamot", "tikkun", "mitzvot", "yichud", "Alter Rebbe"
+  ]
+}

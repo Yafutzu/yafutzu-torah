@@ -1,0 +1,24 @@
+{
+  "ref": "Mishneh Torah, Hilchot Ishut 12",
+  "name_he": "משנה תורה, הלכות אישות, פרק יב",
+  "name_it": "Mishneh Torah, Leggi del Matrimonio, capitolo 12",
+  "cycle": "rambam-1",
+  "date": "2026-09-04",
+  "hebrew_date": "22 Elul 5786",
+  "halachot_count": 12,
+  "halachot": [
+    {"n": 1, "he": "הָאִשָּׁה כְּשֶׁרוֹאָה דָּם הַנִּדָּה — נִטְמֵאת וְהֵם אֲסוּרִים בְּקִרְבָה אַחַת.", "it": "La moglie quando vede il sangue della niddah — diventa impura e loro sono proibiti dall'intimità."},
+    {"n": 2, "he": "אַף עַל פִּי שֶׁלֹּא רָאֲתָה בְּגוּפָהּ, אֶלָּא הִרְגִּישָׁה שֶׁפָּתַח מְקוֹרָהּ — טְמֵאָה.", "it": "Anche se non ha visto sul proprio corpo, ma ha sentito che la sua fonte si è aperta — è impura."},
+    {"n": 3, "he": "אָסוּר לַבַּעַל לִגַּע בְּאִשְׁתּוֹ הַנִּדָּה, אֲפִלּוּ נְגִיעָה בְּלֹא כַּוָּנַת תַּשְׁמִישׁ, בְּדֶרֶךְ חִבָּה.", "it": "È proibito al marito toccare sua moglie che è niddah, anche un tocco senza intenzione d'intimità, in modo affettuoso."},
+    {"n": 4, "he": "לֹא יִמְזֹג לָהּ כּוֹס, וְלֹא תַּמְזֹג לוֹ. לֹא יִסְדֹּר לָהּ מִטָּה, וְלֹא תַּסְדֵּר לוֹ.", "it": "Non le verserà un bicchiere, né lei ne verserà a lui. Non le sistemerà il letto, né lei glielo sistemerà."},
+    {"n": 5, "he": "לֹא יֹאכְלוּ בְּקַעֲרָה אַחַת, וְלֹא יִשְׁכְּבוּ עַל מִטָּה אַחַת, אֲפִלּוּ שְׁנֵיהֶם בִּלְבוּשָׁם.", "it": "Non mangeranno dallo stesso piatto, né dormiranno nello stesso letto, anche se entrambi vestiti."},
+    {"n": 6, "he": "כָּל הַדְּבָרִים הַמְּבִיאִין לִידֵי קִרְבָה — אֲסוּרִין.", "it": "Tutte le cose che portano all'intimità — sono proibite."},
+    {"n": 7, "he": "חַיֶּבֶת הָאִשָּׁה לְהוֹדִיעַ לְבַעְלָהּ שֶׁנַּעֲשֵׂית נִדָּה.", "it": "La moglie è obbligata ad informare il marito che è diventata niddah."},
+    {"n": 8, "he": "כָּל אֵלּוּ הַדִּינִים — מִשּׁוּם חֻמְרָא דְּנִדָּה, כְּדֵי שֶׁלֹּא יָבוֹא לִידֵי תַּשְׁמִישׁ אָסוּר.", "it": "Tutte queste leggi — sono per la severità della niddah, affinché non si giunga a un'intimità proibita."},
+    {"n": 9, "he": "שָׁהֲתָה שִׁבְעָה יָמִים נְקִיִּים — טֶרֶם טְבִילָה, אֲסוּרָה לְבַעְלָהּ.", "it": "Dopo aver trascorso sette giorni puliti — prima dell'immersione, è proibita al marito."},
+    {"n": 10, "he": "טָבְלָה כְּהִלְכָתָהּ — הֻתְּרָה לְבַעְלָהּ.", "it": "Dopo essersi immersa come prescritto — è permessa al marito."},
+    {"n": 11, "he": "טָבְלָה בִּזְמַנָּהּ וְלֹא כִּוְּנָה לִבָּהּ לִטְהָרָה — לֹא עָלְתָה לָהּ טְבִילָה.", "it": "Se si è immersa nel tempo giusto ma non ha concentrato il cuore sulla purificazione — l'immersione non è valida."},
+    {"n": 12, "he": "הַבַּעַל שֶׁבָּא עַל אִשְׁתּוֹ יוֹדֵעַ שֶׁהִיא נִדָּה — חַיָּב כָּרֵת.", "it": "Il marito che ha avuto rapporti con sua moglie sapendo che era niddah — è soggetto a karet."}
+  ],
+  "_glossary_terms_used": ["niddah", "karet", "mikveh", "tahara"]
+}

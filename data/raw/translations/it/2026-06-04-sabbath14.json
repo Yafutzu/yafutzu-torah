@@ -1,0 +1,107 @@
+{
+  "ref": "Mishneh Torah, Sabbath 14",
+  "name_he": "הלכות שבת פרק י\"ד",
+  "name_it": "Leggi dello Shabbat, Capitolo 14",
+  "cycle": "rambam-1",
+  "date": "2026-06-04",
+  "hebrew_date": "19 Sivan 5786",
+  "halachot_count": 19,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּיצַד מְטַפְּלִין בְּחוֹלֶה בְּשַׁבָּת",
+      "it": "Come ci si prende cura di un malato (choleh, חוֹלֶה) di Shabbat? Qualsiasi malattia che comporta pericolo di vita (sakkanat nefesh, סַכָּנַת נֶפֶשׁ) permette di violare Shabbat per curarla. La regola fondamentale è: il dubbio di pericolo di vita (safek sakkanat nefesh, סָפֵק סַכָּנַת נֶפֶשׁ) è sufficiente per violare Shabbat."
+    },
+    {
+      "n": 2,
+      "he": "חוֹלֶה שֶׁאֵין בּוֹ סַכָּנָה",
+      "it": "Un malato senza pericolo di vita non può ricevere cure mediche di Shabbat. I Saggi decretarono questo per timore che si arrivi a macinare erbe medicinali (shechikat sammanim, שְׁחִיקַת סַמָּנִין). Tuttavia può fare cose normalmente permesse di Shabbat che producono un effetto curativo indiretto."
+    },
+    {
+      "n": 3,
+      "he": "מִי שֶׁחָשַׁשׁ בְּעֵינָיו",
+      "it": "Chi soffre di dolore agli occhi (choshesh be-einav, חוֹשֵׁשׁ בְּעֵינָיו) — se è a livello di malattia seria — può ricevere cure di Shabbat. Il Rambam considera gli occhi collegati alla vita poiché la loro perdita può causare pericolo. Quindi alcune cure oculari sono permesse di Shabbat."
+    },
+    {
+      "n": 4,
+      "he": "כוֹחֵל בְּשַׁבָּת",
+      "it": "Applicare collirio (kochal, כָּחַל) agli occhi di Shabbat è permesso per chi soffre di una condizione oculare che minaccia la vista. I Saggi concessero questo poiché la perdita della vista equivale a un tipo di pericolo di vita."
+    },
+    {
+      "n": 5,
+      "he": "כִּי אֵין מְרַפְּאִין בְּשַׁבָּת",
+      "it": "Non si praticano procedure mediche invasive di Shabbat per chi non è in pericolo. Tra le procedure proibite: mettere unguenti (sircha, סִירְחָא) per scopi medici, bendare una ferita fresca, o fare salassi (hakkazah, הַקָּזָה) programmati."
+    },
+    {
+      "n": 6,
+      "he": "שׁוֹתֶה לִצְמָאוֹ",
+      "it": "Bere un liquido medicinale di Shabbat per un malato senza pericolo è proibito se è chiaramente un rimedio (davar refuah, דָּבָר רְפוּאָה). Tuttavia se il liquido è anche un normale alimento o bevanda, si può bere normalmente anche se ha effetti curativi secondari."
+    },
+    {
+      "n": 7,
+      "he": "מְגַלְגְּלִין בֵּיצָה עַל גַּבֵּי מַכָּה",
+      "it": "Si può far rotolare un uovo crudo su una ferita (makkah, מַכָּה) di Shabbat come trattamento popolare, poiché non sembra una medicina formale. Questo è un esempio del principio che azioni non tipicamente mediche sono permesse anche se curano."
+    },
+    {
+      "n": 8,
+      "he": "שֶׁמֶן שֶׁרַגְלִין",
+      "it": "Olio misto ad acqua di rose usato normalmente per l'igiene corporea può essere applicato anche per scopi curativi di Shabbat, poiché il suo uso principale è normale e non medicale. Se però è olio medicinale specifico, è proibito."
+    },
+    {
+      "n": 9,
+      "he": "אוֹכֵל כָּל אֳכָלִין",
+      "it": "Il malato senza pericolo può mangiare qualsiasi alimento kasher di Shabbat, anche quelli usati tradizionalmente come rimedi. Il divieto è solo sull'azione medicinale specifica, non sull'alimentazione normale."
+    },
+    {
+      "n": 10,
+      "he": "הַבַּיִת שֶׁנָּפַל עָלָיו",
+      "it": "Se una casa è crollata su qualcuno di Shabbat, si scava immediatamente anche in caso di dubbio se ci sia una persona sotto. Si scava fino a trovarlo. Se è vivo, si continua a liberarlo; se è morto, ci si ferma."
+    },
+    {
+      "n": 11,
+      "he": "נִשְׁתַּקְּעוּ בַמַּיִם",
+      "it": "Se qualcuno è caduto nell'acqua (mayim, מַיִם) o in un pozzo (bor, בּוֹר), si corre immediatamente ad aiutarlo di Shabbat. Si getta una corda, si lancia un oggetto galleggiante — qualsiasi mezzo per salvarlo è permesso."
+    },
+    {
+      "n": 12,
+      "he": "הוּצַת בּוֹ אֵשׁ",
+      "it": "Se qualcuno ha preso fuoco (esh, אֵשׁ), si spegne immediatamente il fuoco anche di Shabbat. Si usa qualsiasi mezzo — acqua, sabbia, coperte — per spegnere il fuoco che brucia una persona."
+    },
+    {
+      "n": 13,
+      "he": "נְשָׁכוֹ כֶּלֶב שׁוֹטֶה",
+      "it": "Se qualcuno è stato morso da un cane idrofobo (kelev shoteh, כֶּלֶב שׁוֹטֶה), si viola Shabbat immediatamente per curarlo. La saliva del cane rabbia era considerata mortale dai Saggi, e i rimedi tradizionali erano permessi di Shabbat."
+    },
+    {
+      "n": 14,
+      "he": "אָכַל סַם הַמָּוֶת",
+      "it": "Chi ha ingerito veleno (sam hammavet, סַם הַמָּוֶת) — anche se non è ancora in evidente pericolo — si viola Shabbat immediatamente per farlo vomitare o per somministrargli l'antidoto. Il pericolo potenziale è sufficiente."
+    },
+    {
+      "n": 15,
+      "he": "יוֹלֶדֶת בְּשַׁבָּת",
+      "it": "Per una partoriente (yoledet, יוֹלֶדֶת) si viola Shabbat in tutti i modi necessari. Si chiama l'ostetrica anche da lontano, si accende la luce, si scalda l'acqua — tutto per il comfort e la sicurezza della partoriente e del neonato."
+    },
+    {
+      "n": 16,
+      "he": "נוֹשְׁכוֹ נָחָשׁ",
+      "it": "Chi è stato morso da un serpente (nachash, נָחָשׁ) — anche se non si conosce la specie — si tratta come pericolo di vita e si viola Shabbat per curarlo. Anche il morso di uno scorpione (akrav, עַקְרָב) è nella stessa categoria."
+    },
+    {
+      "n": 17,
+      "he": "חָשׁ בְּגַרְגָּרִין",
+      "it": "Chi soffre di gola (gargarim, גַּרְגָּרִין) — il Rambam descrive la difteria come malattia potenzialmente mortale — si viola Shabbat per curarla. Qualsiasi malattia della gola che può soffocare è considerata sakkanat nefesh."
+    },
+    {
+      "n": 18,
+      "he": "הַמְצַנֵּחַ אֶת עַצְמוֹ",
+      "it": "Chi si trova in uno stato di debolezza estrema (ma'afil et atzmo, מַאֲפִיל אֶת עַצְמוֹ) senza diagnosi precisa — se dice di sentirsi in pericolo — si prende la sua parola e si viola Shabbat per lui. Non si richiedono prove esterne del pericolo."
+    },
+    {
+      "n": 19,
+      "he": "אֵין מְסָכְּנִין עַצְמוֹ",
+      "it": "Non ci si mette deliberatamente in pericolo di vita, nemmeno per adempiere una mitzvah. Il principio di 'venishmartem me'od lenafshoteichem' (וְנִשְׁמַרְתֶּם מְאֹד לְנַפְשׁוֹתֵיכֶם — 'guardatevi molto per le vostre vite') è un obbligo della Torah."
+    }
+  ],
+  "_glossary_terms_used": ["choleh", "sakkanat nefesh", "safek sakkanat nefesh", "shechikat sammanim", "kochal", "hakkazah", "davar refuah", "makkah", "mayim", "bor", "esh", "kelev shoteh", "sam hammavet", "yoledet", "nachash", "akrav", "venishmartem"]
+}

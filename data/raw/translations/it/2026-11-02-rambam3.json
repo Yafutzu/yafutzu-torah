@@ -1,0 +1,34 @@
+{
+  "ref": "Mishneh Torah, Shutafin 5-7",
+  "name_he": "משנה תורה, הלכות שותפין, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dei Soci, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-11-02",
+  "hebrew_date": "22 Cheshvan 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "5:1-4",
+      "he": "הַמְבַקֵּשׁ לָצֵאת מִן הַשֻּׁתָּפוּת — רַשַּׁאי…",
+      "it": "(Shutafin cap. 5, hal. 1-4) Scioglimento della società: ogni socio ha il diritto di uscire dalla società quando lo desidera — la società non è un rapporto obbligatorio perpetuo. Per sciogliere la società in beni immobili, si richiede una notifica adeguata (hatraah) all'altro socio, in modo da dargli tempo di trovare un compratore alternativo o di sistemare i propri affari. In una società commerciale attiva, il socio che vuole uscire deve anche sistemare i conti — i profitti e le perdite accumulate fino al momento dello scioglimento."
+    },
+    {
+      "n": "5:5-8",
+      "he": "הַשֻּׁתָּף שֶׁנָּטַל מִמָּמוֹן הַשֻּׁתָּפוּת לְעַצְמוֹ…",
+      "it": "(Shutafin cap. 5, hal. 5-8) Il socio che utilizza i fondi comuni per uso personale: commette furto dal socio (gezelah). Se utilizza denaro della cassa comune per propri acquisti senza consenso — è responsabile come ladro verso la quota del socio. Se il denaro viene investito personalmente e genera profitto — il profitto appartiene alla società, non al singolo socio. Se l'investimento personale genera perdita — il socio responsabile sopporta la perdita interamente, senza poter scaricarla sulla società."
+    },
+    {
+      "n": "6:1-4",
+      "he": "הַשֻּׁתָּף שֶׁעָשָׂה עִסְקָה שֶׁלֹּא בִּרְשׁוּת…",
+      "it": "(Shutafin cap. 6, hal. 1-4) Il socio che compie transazioni non autorizzate: se un socio conclude un contratto commerciale significativo senza il consenso dell'altro — la transazione è valida se rientra nelle normali attività della società (within scope), ma il socio deve poi rendere conto all'altro. Se la transazione va oltre lo scope della società — l'altro socio può annullarla. Il principio: ogni socio è agente dell'altro per gli affari ordinari della società, ma non per affari straordinari."
+    },
+    {
+      "n": "7:1-4",
+      "he": "שֻׁתָּפוּת הַמּוּפְלָגָה — אֵין בָּהּ אַחְרָיוּת…",
+      "it": "(Shutafin cap. 7, hal. 1-4) La società in accomandita (iska o shutafut mufleget): un tipo di società in cui uno dei soci è investitore passivo (mushkav — che «giace», ossia mette il capitale) e l'altro è gestore attivo (mevakesh — che cerca affari). In questo tipo di società, le perdite vengono divise: l'investitore sopporta le perdite di capitale; il gestore sopporta le perdite di tempo e lavoro. I profitti vengono divisi secondo l'accordo. Questa struttura è alla base dell'«iska» che è il fondamento dell'«heter iska» — lo strumento che permette investimenti fruttiferi senza violare il divieto di ribit (usura)."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shutafut", "hatraah", "gezelah", "mushkav", "mevakesh", "iska", "heter iska", "ribit"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Sabbath 12",
+  "name_he": "הלכות שבת פרק י\"ב",
+  "name_it": "Leggi dello Shabbat, Capitolo 12",
+  "cycle": "rambam-1",
+  "date": "2026-06-02",
+  "hebrew_date": "17 Sivan 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כֵּלִים שֶׁמֻּקְצִין מֵחֲמַת חֶסְרוֹן כִּיס",
+      "it": "Oggetti riservati (muktzeh, מֻקְצֶה) a causa del loro valore economico — come un coltello da macellaio o uno stampo da fusione — non possono essere spostati di Shabbat nemmeno per usufruire del loro posto."
+    },
+    {
+      "n": 2,
+      "he": "כֵּלִים שֶׁמֻּקְצִין מֵחֲמַת גּוּפָן",
+      "it": "Oggetti il cui corpo stesso li rende muktzeh — come pietre, legna da ardere non destinata all'uso, o monete — non possono essere mossi in nessun caso di Shabbat."
+    },
+    {
+      "n": 3,
+      "he": "אֵין מְטַלְטְלִין אֶת הַנֵּר",
+      "it": "Non si sposta una lampada (ner, נֵר) accesa di Shabbat, sia che bruci sia che si sia spenta, poiché era muktzeh al tramonto del Shabbat. Ciò che è muktzeh al bein hashmashot (בֵּין הַשְּׁמָשׁוֹת — il crepuscolo che segna l'inizio di Shabbat) rimane muktzeh per tutto il Shabbat."
+    },
+    {
+      "n": 4,
+      "he": "נֵר שֶׁכָּבָה",
+      "it": "Una lampada che si è spenta di Shabbat è muktzeh per tutto il resto del Shabbat, poiché al momento dell'entrata del Shabbat era destinata alla combustione, non all'uso come utensile."
+    },
+    {
+      "n": 5,
+      "he": "מִיטָּה שֶׁיֵּשׁ עָלֶיהָ מָעוֹת",
+      "it": "Un letto sul quale ci sono monete (memaot, מָעוֹת) — che sono muktzeh — non può essere spostato anche se le monete sono un accessorio secondario. La base (basis, בָּסִיס) di un oggetto muktzeh acquista anch'essa lo status di muktzeh."
+    },
+    {
+      "n": 6,
+      "he": "הַמִּטָּה שֶׁהִתְקִין לְשִׁמּוּשׁ",
+      "it": "Un letto destinato al normale uso abitativo può essere spostato di Shabbat, poiché è un utensile comune (keli shemelachto l'hetter, כְּלִי שֶׁמְּלַאכְתּוֹ לְהֶתֵּר). È permesso spostare gli utensili la cui funzione principale è permessa di Shabbat."
+    },
+    {
+      "n": 7,
+      "he": "אֵין עוֹשִׂין רְפוּאָה בְּשַׁבָּת",
+      "it": "Non si pratica la medicina (refuah, רְפוּאָה) di Shabbat per chi non è in pericolo di vita (sakkanat nefesh, סַכָּנַת נֶפֶשׁ). I Saggi decretarono questo divieto affinché non si arrivi a macinare erbe medicinali, che è un'azione proibita di Shabbat."
+    },
+    {
+      "n": 8,
+      "he": "חוֹלֶה שֶׁיֵּשׁ בּוֹ סַכָּנָה",
+      "it": "Per un malato in pericolo di vita si viola Shabbat in ogni modo necessario. È un principio fondamentale della Torah: 'Vchai bahem' (וָחַי בָּהֶם) — 'e vivrà per loro' (Lev. 18:5) — ovvero le mitzvot devono preservare la vita, non toglierla."
+    },
+    {
+      "n": 9,
+      "he": "מְסַכְּנִין שֶׁאָמַר הָרוֹפֵא",
+      "it": "Se un medico dice che il malato è in pericolo, si viola Shabbat secondo le sue indicazioni. Anche se un altro medico dice che non c'è pericolo, si segue il parere più restrittivo a favore della vita."
+    },
+    {
+      "n": 10,
+      "he": "אֲכִילַת מַאֲכָלוֹת אֲסוּרִים בְּשַׁבָּת",
+      "it": "Un malato in pericolo di vita può mangiare cibi non kasher di Shabbat se necessario per la sua guarigione. Il principio di pikuach nefesh (פִּקּוּחַ נֶפֶשׁ — salvaguardia della vita) sospende quasi tutte le proibizioni della Torah."
+    },
+    {
+      "n": 11,
+      "he": "אוֹכְלִין מְעַט",
+      "it": "Quando si permette di mangiare cibi proibiti al malato di Shabbat, si cerca di dargliene la quantità minima necessaria. Tuttavia, se è necessario dare la quantità normale, lo si fa senza esitazione."
+    },
+    {
+      "n": 12,
+      "he": "כֵּיצַד מַטְרִיחִין עַל הַמֵּת",
+      "it": "Non si spostano articoli medicinali (sammanim, סַמָּנִין) di Shabbat per chi non è in pericolo, perché si teme che si arrivi a prepararli macinandoli. Tuttavia, chi soffre di mal di denti lieve non ricade in questa categoria di pericolo."
+    },
+    {
+      "n": 13,
+      "he": "מִי שֶׁנָּפַל עָלָיו גָּל",
+      "it": "Se qualcuno è rimasto sepolto sotto un crollo (gal, גַּל) di Shabbat, si scava per trovarlo anche se non si sa se sia vivo o morto, anche se è sabato. Si smette solo di scavare quando si è certi che è morto."
+    },
+    {
+      "n": 14,
+      "he": "בָּדְקוּ עַד חוֹטְמוֹ",
+      "it": "Se hanno controllato fino al naso (chotem, חוֹטֶם) del sepolto e non c'è respiro, smettono di scavare anche se le parti inferiori del corpo sono ancora coperte. Il segno della vita è il respiro."
+    },
+    {
+      "n": 15,
+      "he": "מַצִּילִין נֶפֶשׁ מֵחֲמִשָּׁה",
+      "it": "Si salva una vita dai cinque pericoli di Shabbat senza esitazione: fuoco, crollo, annegamento, serpente, e brigante. In tutti questi casi si agisce immediatamente senza attendere permesso o calcoli."
+    },
+    {
+      "n": 16,
+      "he": "אוֹכְלִין לַחוֹלֶה",
+      "it": "Si cucina (bishul, בִּישּׁוּל) e si prepara cibo per il malato grave di Shabbat. Anche se c'è cibo già pronto che potrebbe bastare, se il malato necessita di cibo caldo appena preparato lo si cucina per lui."
+    },
+    {
+      "n": 17,
+      "he": "קְטַנָּה שֶׁיָּלְדָה",
+      "it": "Una partoriente (yoledet, יוֹלֶדֶת) nelle prime tre giornate dopo il parto è considerata in pericolo di vita, e si viola Shabbat per tutti i suoi bisogni. Dal terzo al settimo giorno si viola Shabbat se lei dice di averne bisogno."
+    },
+    {
+      "n": 18,
+      "he": "חֵרֵשׁ וְשׁוֹטֶה",
+      "it": "Un sordomuto (cheresh, חֵרֵשׁ) o un pazzo (shoteh, שׁוֹטֶה) sono inclusi nella legge del pikuach nefesh. Se sono in pericolo di vita, si viola Shabbat per loro proprio come per qualsiasi altro ebreo."
+    },
+    {
+      "n": 19,
+      "he": "נָכְרִי שֶׁבָּא לְכַבּוֹת",
+      "it": "Se un non ebreo (nochri, נָכְרִי) viene spontaneamente a spegnere un incendio di Shabbat che minaccia vite, non si dice nulla per fermarlo né per incoraggiarlo. Si lascia che agisca secondo la sua volontà."
+    },
+    {
+      "n": 20,
+      "he": "כּוֹבְשִׁין מֶלַח",
+      "it": "Non si sala (kvisha, כְּבִישָׁה) carne o verdura di Shabbat in modo da trasformarla, poiché il salaggio prolungato equivale alla cottura. Si può tuttavia immergere brevemente nel sale per insaporire senza trasformare la sostanza."
+    }
+  ],
+  "_glossary_terms_used": ["muktzeh", "bein hashmashot", "basis", "keli shemelachto l'hetter", "refuah", "sakkanat nefesh", "pikuach nefesh", "vachi bahem", "gal", "chotem", "yoledet", "cheresh", "shoteh", "nochri", "kvisha", "bishul", "sammanim"]
+}

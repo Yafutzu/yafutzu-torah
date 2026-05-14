@@ -1,0 +1,28 @@
+{
+  "ref": "Tanya, Part V; Kuntres Acharon 5",
+  "name_he": "תניא, חלק ה — קונטרס אחרון, סעיף ה",
+  "name_it": "Tanya, Parte V — Kuntres Acharon (Appendice), saggio 5",
+  "cycle": "tanya-yomi",
+  "date": "2026-07-08",
+  "hebrew_date": "23 Tammuz 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "סַעִיף ה: עַל הַהֶבְדֵּל בֵּין צַדִּיקִים לְבֵינוֹנִים בַּעֲבוֹדָתָם. הַצַּדִּיק — כִּפֶּה לְיִצְרוֹ לְגַמְרֵי; הַבֵּינוֹנִי — נִלְחָם בְּיִצְרוֹ תָּמִיד.",
+      "it": "Saggio 5: Sulla differenza tra i Tzaddikim e i Beinonim nel loro servizio. Il Tzaddik — ha sottomesso completamente il proprio istinto malvagio (yetzer hara); il Beinoni — combatte sempre contro il proprio yetzer hara."
+    },
+    {
+      "n": 2,
+      "he": "מַדּוּעַ עֲבוֹדַת הַבֵּינוֹנִי גְּבוֹהָה בְּמוּבָן מְסֻיָּם מֵעֲבוֹדַת הַצַּדִּיק? כִּי הַבֵּינוֹנִי כּוֹבֵשׁ אֶת יִצְרוֹ בְּכָל רֶגַע מֵחָדָשׁ, וּבְכָל פְּעָם שֶׁהוּא כּוֹבֵשׁ — הוּא מְבִיא עֲבוֹדָה חֲדָשָׁה לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא.",
+      "it": "Perché il servizio del Beinoni è in un certo senso più elevato di quello del Tzaddik? Perché il Beinoni sottomette il proprio yetzer hara in ogni momento di nuovo, e ogni volta che lo sottomette — porta un servizio nuovo davanti al Santo Benedetto Sia."
+    },
+    {
+      "n": 3,
+      "he": "הַמַּאֲמָץ הַמִּתְמִיד שֶׁל הַבֵּינוֹנִי — זֶהוּ הַמֶּשֶׁךְ שֶׁל הַסֵּפֶר כֻּלּוֹ. הַתַּנְיָא נִכְתַּב לְהַבֵּינוֹנִים, לְאֵלֶּה שֶׁמִּתְאַמְּצִים בְּמַאֲבָק הַיּוֹמִי שֶׁל הַנֶּפֶשׁ. כִּי \"אֵין צַדִּיק בָּאָרֶץ אֲשֶׁר יַעֲשֶׂה טוֹב וְלֹא יֶחֱטָא\".",
+      "it": "Lo sforzo continuo del Beinoni — è il filo conduttore dell'intero libro. La Tanya è stata scritta per i Beinonim, per coloro che si impegnano nella lotta quotidiana dell'anima. Poiché «non vi è giusto sulla terra che faccia il bene e non pecchi» (Kohelet 7:20)."
+    }
+  ],
+  "_glossary_terms_used": ["Tzaddik", "Beinoni", "yetzer hara", "yetzer hatov", "avodah", "Tanya", "nefesh", "koveish et yitzro"]
+}

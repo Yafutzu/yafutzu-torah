@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Yibbum VaChalitzah 8",
+  "name_he": "משנה תורה, הלכות יבום וחליצה, פרק ח",
+  "name_it": "Mishneh Torah, Leggi dello Yibbum e della Chalitzah, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-10-08",
+  "hebrew_date": "27 Tishrei 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַיְּבָמָה שֶׁנֶּאֶסְרָה בְּיָבָם לְפִי שָׁעָה — אֲסוּרָה עַד שֶׁיֵּעָשֶׂה אֶחָד מִשְּׁנֵי הַדְּבָרִים…",
+      "it": "La yevamah è proibita a qualsiasi altro uomo finché non avvenga uno dei due atti: lo yibbum oppure la chalitzah. Nessuna quantità di tempo, nessun decreto rabbinico, nessuna decisione unilaterale può liberarla da questo vincolo (zikah) senza uno di questi due atti rituali. Questa è una delle norme più categoriche del diritto matrimoniale ebraico: lo status di «zekukah» (legata) non cessa mai spontaneamente."
+    },
+    {
+      "n": 2,
+      "he": "כָּל זְמַן שֶׁהִיא זְקוּקָה לְיָבָם — אֲסוּרָה לְהִנָּשֵׂא לְאַחֵר…",
+      "it": "Per tutto il tempo in cui la yevamah è zekukah (legata) al yavam — è proibita a sposarsi con qualsiasi altro uomo, anche con un cohen (che di norma può sposare una vedova). Ogni tentativo di matrimonio durante la zikah è nullo e non ha effetto. Se qualcuno la sposa durante la zikah — non acquisisce nulla, lei non è sua moglie, e il legame di zikah rimane intatto. Il figlio nato da tale unione irregolare è considerato mamzer."
+    },
+    {
+      "n": 3,
+      "he": "הַיָּבָם שֶׁהָלַךְ לִמְדִינַת הַיָּם וְאֵינוֹ חוֹזֵר…",
+      "it": "Se il yavam è andato in un paese lontano e non torna — il beit din può intervenire in diversi modi: inviare emissari per costringerlo a tornare, pubblicare un decreto rabbinico di scomunica (cherem) contro di lui, o in casi estremi dichiarare che è come se fosse morto (se vi è testimonianza sufficiente). Il beit din ha l'autorità di proteggere la yevamah dall'essere aguna (donna incatenata) a causa della malafede del yavam."
+    },
+    {
+      "n": 4,
+      "he": "הַיָּבָם שֶׁנָּפַל לְבוֹר וְאֵין יָדוּעַ אִם חַי אִם מֵת…",
+      "it": "Se il yavam è caduto in un pozzo e non si sa se è vivo o morto — la yevamah rimane nella sua condizione di zikah finché non vi sia testimonianza chiara della sua morte o del suo stato. A differenza della moglie ordinaria (per la quale talvolta si ammette il marito come morto basandosi su una sola testimonianza), la yevamah richiede prove più rigorose, perché lo yibbum è un obbligo attivo e non si può presumere la sua estinzione."
+    },
+    {
+      "n": 5,
+      "he": "מֵת הַיָּבָם אַחַר שֶׁעָשָׂה מַאֲמָר — צְרִיכָה גֵּט וַחֲלִיצָה מִן הָאַחִין…",
+      "it": "Se il yavam muore dopo aver compiuto il ma'amar (ma senza aver completato lo yibbum) — la yevamah necessita sia di un get (poiché il ma'amar è come un kiddushin parziale) che della chalitzah dagli altri fratelli. Il get viene redatto dagli eredi del yavam defunto o dal beit din, e poi si compie la chalitzah con un altro fratello. Questo è uno dei casi più complessi nelle leggi pratiche di yibbum."
+    },
+    {
+      "n": 6,
+      "he": "סִלּוּק הַלְּכוֹת יִיבּוּם וַחֲלִיצָה…",
+      "it": "Si concludono le Leggi dello Yibbum e della Chalitzah con l'aiuto del Cielo. Queste leggi proteggono sia la memoria del defunto — tramite la perpetuazione del suo nome — sia i diritti della vedova, che non rimane «incatenata» ma ha un percorso giuridico preciso per essere liberata. La Torah bilancia con saggezza gli obblighi familiari con la libertà individuale. Fine del Libro Sefer Nashim (Libro delle Donne) — continuano le Leggi della Ragazza Vergine."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yibbum", "chalitzah", "yavam", "yevamah", "zikah", "zekukah", "aguna", "beit din", "ma'amar", "get", "kiddushin", "cherem", "mamzer"
+  ]
+}

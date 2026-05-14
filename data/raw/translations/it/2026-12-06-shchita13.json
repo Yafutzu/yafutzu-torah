@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 13",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק יג",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 13",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-06",
+  "hebrew_date": "27 Kislev 5787 — Chanukah giorno 3",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "שְׁמוֹנֶה עָשָׂר טְרֵפוֹת הֵן — וְכֻלָּן הֲלָכָה לְמֹשֶׁה מִסִּינַי...",
+      "it": "Le diciotto categorie di treifah (animale con difetto che porta a morte prematura) sono halachah le-Moshe mi-Sinai — tradizione orale ricevuta da Mosè al Sinai, non derivata da un testo scritto specifico. Queste diciotto categorie sono tassative: niente viene aggiunto e niente tolto. Il Rambam enfatizza: qualsiasi difetto che non rientra in queste diciotto categorie classiche non rende l'animale treifah, anche se sembra gravissimo dal punto di vista medico."
+    },
+    {
+      "n": 2,
+      "he": "דְּרוּסַת הַזְּאֵב — טְרֵפָה...",
+      "it": "Derushah (animale aggredito da predatore): un animale graffiato o afferrato da un predatore (ze'ev — lupo, aryeh — leone, nesher — aquila) diventa treifah a causa del veleno (sam) che penetra nelle sue ferite attraverso gli artigli del predatore. Non è il danno fisico visibile che rende l'animale treifah — ma il veleno invisibile iniettato. Un animale che sembra illeso ma è stato graffiato da un predatore può essere treifah internamente. Questo richiede esame delle ferite."
+    },
+    {
+      "n": 3,
+      "he": "נְקוּבַת הַוֶּשֶׁט — טְרֵפָה...",
+      "it": "Nekuvah (organo perforato): la perforazione dell'esofago (veshet) in qualsiasi punto lo rende treifah. La perforazione della trachea (kaneh) nella maggior parte della sua lunghezza — treifah. La perforazione di qualsiasi organo vitale nella sua membrana principale — treifah. Chanukah: i Greci cercarono di «perforare» l'identità ebraica — di creare «buchi» nella tradizione (vietare Shabbat, Rosh Chodesh, brit milah). Così come un singolo foro nell'esofago invalida l'intero animale, un singolo cedimento ai decreti greci avrebbe indebolito l'intera struttura del Klal Yisrael."
+    },
+    {
+      "n": 4,
+      "he": "נְפוּלָה — נָפְלָה מִן הַגָּג...",
+      "it": "Nefulah (caduta dall'alto): un animale caduto da un'altezza tale da causare lesioni interne gravi può essere treifah anche se esternamente sembra intatto. Come si verifica? L'animale che cade da una grande altezza richiede un esame specifico delle ossa e degli organi interni dopo la shechitah. Se le ossa delle costole sono fratturate in modo tale da penetrare negli organi — treifah. Questo caso richiede particolare attenzione nelle stagioni in cui gli animali possono cadere da recinti o terreni elevati."
+    },
+    {
+      "n": 5,
+      "he": "שֶׁמֶן הַמִּנוֹרָה — טָהוֹר לַחֲנֻכָּה...",
+      "it": "Nota di Chanukah — terza candela: Il miracolo dell'olio di Chanukah rispecchia le leggi di treifah in modo profondo. I Greci cercarono di contaminare (metam'im) tutto l'olio del Tempio — analogamente a come il veleno del predatore contamina invisibilmente un animale che sembra intatto. Ma un'unica ampolla di olio sigillata dal Kohen Gadol rimase pura. Il numero tre: tre candele illuminano questa sera — come i tre patriarchi Avraham, Yitzchak e Yaakov, la cui luce non si è mai spenta nonostante i decreti di distruzione."
+    },
+    {
+      "n": 6,
+      "he": "כָּל אֵלּוּ שְׁמוֹנֶה עָשָׂר טְרֵפוֹת — הַן הֵן שֶׁנֶּאֶמְרוּ לְמֹשֶׁה...",
+      "it": "Tutte le diciotto categorie di treifah — sono proprio quelle trasmesse a Mosè al Sinai. Il Rambam conclude: qualsiasi animale che abbia una di queste condizioni non sopravviverà oltre dodici mesi (dvar she-eino yachol lichyot). La definizione di treifah è halachica, non medica — anche se un animale con una di queste condizioni sopravvivesse miracolosamente, è comunque treifah halachicamente. Al contrario, un animale che sembra malato ma non rientra nelle diciotto categorie — è kosher."
+    }
+  ],
+  "_glossary_terms_used": [
+    "treifah", "halachah le-Moshe mi-Sinai", "derushah", "sam", "nekuvah", "veshet", "kaneh", "nefulah", "Klal Yisrael", "Kohen Gadol", "brit milah", "Rosh Chodesh"
+  ]
+}

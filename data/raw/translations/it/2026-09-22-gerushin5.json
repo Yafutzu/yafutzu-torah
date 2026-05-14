@@ -1,0 +1,137 @@
+{
+  "ref": "Mishneh Torah, Hilchot Gerushin 5",
+  "name_he": "משנה תורה, הלכות גירושין, פרק ה",
+  "name_it": "Mishneh Torah, Leggi del Divorzio, capitolo 5",
+  "cycle": "rambam-1",
+  "date": "2026-09-22",
+  "hebrew_date": "11 Tishrei 5787",
+  "halachot_count": 25,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "הַמְגָרֵשׁ עַל תְּנַאי — אִם קֻיֵּם הַתְּנַאי הֲרֵי זוֹ מְגֹרֶשֶׁת, וְאִם לֹא — אֵינָהּ מְגֹרֶשֶׁת.",
+      "it": "Chi divorzia con una condizione — se la condizione si realizza lei è divorziata, e se no — non è divorziata."
+    },
+    {
+      "n": 2,
+      "he": "תְּנַאי כָּפוּל — צָרִיךְ לִכְתֹּב הֵן וְלֹא. כְּגוֹן: 'אִם תַּעֲשִׂי כָּך — הֲרֵי זֶה גִּטֵּךְ, וְאִם לֹא תַּעֲשִׂי — אֵינוֹ גִּטֵּךְ.' זֶהוּ תְּנַאי כָּפוּל.",
+      "it": "La condizione deve essere formulata in doppio — positivo e negativo. Ad esempio: 'Se farai così — ecco il tuo get, e se non farai — non è il tuo get.' Questa è la condizione doppia."
+    },
+    {
+      "n": 3,
+      "he": "לֹא כָּתַב תְּנַאי כָּפוּל — אֵין הַגֵּט מְגַרֵשׁ לְשׁוּם תְּנַאי. שֶׁהַתְּנַאי צָרִיךְ לִהְיוֹת דּוֹמֶה לְתְּנַאֵי בְּנֵי גָד וּבְנֵי רְאוּבֵן.",
+      "it": "Se non ha formulato la condizione in doppio — il get non è condizionale per nessuna condizione, perché la condizione deve essere simile alle condizioni dei figli di Gad e dei figli di Ruben."
+    },
+    {
+      "n": 4,
+      "he": "תְּנַאי קֹדֶם לַמַּעֲשֶׂה — כְּלוֹמַר שֶׁהַתְּנַאי יוּזְכַּר קֹדֶם לַנְּתִינָה. אָמַר 'הֲרֵי זֶה גִּטֵּךְ אִם תַּעֲשִׂי' — בָּטֵל הַתְּנַאי.",
+      "it": "La condizione deve precedere l'atto — cioè la condizione deve essere menzionata prima della consegna. Se ha detto 'Ecco il tuo get se farai' — la condizione è nulla."
+    },
+    {
+      "n": 5,
+      "he": "הַחִיּוּב קֹדֶם לַשְּׁלִילָה — כְּלוֹמַר שֶׁקֹּדֶם אוֹמֵר 'אִם תַּעֲשִׂי' וְאַחַר כָּך 'וְאִם לֹא תַּעֲשִׂי.'",
+      "it": "L'affermativo precede il negativo — cioè prima si dice 'Se farai' e poi 'E se non farai.'"
+    },
+    {
+      "n": 6,
+      "he": "תְּנַאי שֶׁאֵינוֹ יָכוֹל לְהִתְקַיֵּם — כְּגוֹן 'תִּגְּעִי בַּשָּׁמַיִם' — בָּטֵל הַתְּנַאי וְחָל הַגֵּרוּשִׁין מִיָּד.",
+      "it": "Una condizione impossibile da adempiere — come 'Toccherai il cielo' — la condizione è nulla e il divorzio ha effetto immediatamente."
+    },
+    {
+      "n": 7,
+      "he": "נָתַן גֵּט עַל תְּנַאי שֶׁיִּתֵּן אוֹ שֶׁיַּעֲשֶׂה — וְהָאִשָּׁה לֹא יְכוֹלָה לְקַיֵּם מֵחֲמַת הַבַּעַל — הֲרֵי זֶה כְּאִלּוּ קֻיֵּם הַתְּנַאי.",
+      "it": "Se ha dato il get con una condizione che lei dovesse fare o dare qualcosa — e la moglie non può adempiere a causa del marito — è come se la condizione fosse stata adempiuta."
+    },
+    {
+      "n": 8,
+      "he": "גֵּט עַל תְּנַאי שֶׁאִם יָמוּת הַבַּעַל תּוֹךְ שְׁלֹשִׁים יוֹם — אֵינוֹ גֵּט. כֵּיוָן שֶׁמֵּת — חָל הַגֵּט לְמַפְרֵעַ מִשָּׁעָה שֶׁנִּתַּן.",
+      "it": "Un get con la condizione che se il marito muore entro trenta giorni — non è un get. Quando è morto — il get ha effetto retroattivo dal momento della consegna."
+    },
+    {
+      "n": 9,
+      "he": "אָמַר 'אִם לֹא בָּאתִי תּוֹךְ שְׁלֹשִׁים יוֹם יִהְיֶה גֵּט' — אִם בָּא בְּתוֹךְ שְׁלֹשִׁים יוֹם, אֲפִלּוּ בַּיּוֹם הַשְּׁלֹשִׁים, אֵינוֹ גֵּט.",
+      "it": "Se ha detto 'Se non torno entro trenta giorni sia un get' — se è tornato entro trenta giorni, anche il trentesimo giorno, non è un get."
+    },
+    {
+      "n": 10,
+      "he": "לֹא בָּא כְּלָל — חָל הַגֵּט לְאַחַר שְׁלֹשִׁים יוֹם.",
+      "it": "Se non è tornato affatto — il get ha effetto dopo trenta giorni."
+    },
+    {
+      "n": 11,
+      "he": "בָּא בְּתוֹךְ שְׁלֹשִׁים יוֹם וְאָמַר 'הֲרֵינִי כְּאִלּוּ לֹא בָּאתִי' — הֲרֵי הוּא כְּאִלּוּ לֹא בָּא.",
+      "it": "Se è tornato entro trenta giorni e ha detto 'Sono come se non fossi tornato' — è come se non fosse tornato."
+    },
+    {
+      "n": 12,
+      "he": "גֵּט עַל תְּנַאי שֶׁיַּעֲשֶׂה דָּבָר — וּמֵת קֹדֶם — הַגֵּט בָּטֵל, כִּי לֹא נִתְקַיֵּם הַתְּנַאי.",
+      "it": "Un get con la condizione che faccia qualcosa — e il marito è morto prima — il get è nullo, perché la condizione non si è adempiuta."
+    },
+    {
+      "n": 13,
+      "he": "גֵּט עַל תְּנַאי בְּיֶדֶה שֶׁל הָאִשָּׁה — יְכוֹלָה לְקַיֵּם אֶת הַתְּנַאי אֲפִלּוּ לְאַחַר שֶׁמֵּת הַבַּעַל.",
+      "it": "Un get con condizione nelle mani della moglie — può adempiere la condizione anche dopo la morte del marito."
+    },
+    {
+      "n": 14,
+      "he": "הָיְתָה הָאִשָּׁה אוֹמֶרֶת 'קִיַּמְתִּי אֶת הַתְּנַאי' וְהַבַּעַל אוֹמֵר 'לֹא קִיַּמְתְּ' — עַל הַבַּעַל הָרְאָיָה.",
+      "it": "Se la moglie dice 'Ho adempiuto la condizione' e il marito dice 'Non hai adempiuto' — spetta al marito la prova."
+    },
+    {
+      "n": 15,
+      "he": "נָתַן גֵּט עַל תְּנַאי וְאַחַר כָּך גֵּרַשׁ בְּגֵּט אַחֵר — הַגֵּט הָאַחֲרוֹן חָל, וְאֵין צָרִיךְ לְהַמְתִּין לְקִיּוּם תְּנַאי הָרִאשׁוֹן.",
+      "it": "Se ha dato un get con condizione e poi ha divorziato con un altro get — l'ultimo get ha effetto, e non occorre attendere l'adempimento della condizione del primo."
+    },
+    {
+      "n": 16,
+      "he": "הִתְנָה שֶׁלֹּא תִּנָּשֵׂא לִפְלוֹנִי — תְּנַאי זֶה כָּשֵׁר וְחָל. וְאִם נִשֵּׂאת לְאוֹתוֹ פְּלוֹנִי — הַגֵּרוּשִׁין בְּטֵלִים.",
+      "it": "Se ha stabilito la condizione che non si sposi con tal dei tali — la condizione è valida e ha effetto. E se si sposa con quel tale — il divorzio è nullo."
+    },
+    {
+      "n": 17,
+      "he": "הִתְנָה שֶׁלֹּא תֵּלֵךְ לְמָקוֹם פְּלוֹנִי — תְּנַאי כָּשֵׁר. הָלְכָה — בָּטֵל הַגֵּרוּשִׁין.",
+      "it": "Se ha stabilito la condizione che non vada in tal posto — la condizione è valida. Se ci è andata — il divorzio è nullo."
+    },
+    {
+      "n": 18,
+      "he": "הִתְנָה שֶׁלֹּא תְּגָרֵשׁ אֶת בָּנָיו — כָּשֵׁר. גֵּרְשָׁה אֶת בָּנָיו — בָּטֵל הַגֵּרוּשִׁין.",
+      "it": "Se ha stabilito la condizione che non cacci via i suoi figli — è valido. Se li ha cacciati — il divorzio è nullo."
+    },
+    {
+      "n": 19,
+      "he": "הַתְּנַאי בָּטֵל וְהַגֵּרוּשִׁין חָלִין — בְּמָקוֹם שֶׁהַתְּנַאי נֶגֶד מִצְוַת עֲשֵׂה.",
+      "it": "La condizione è nulla e il divorzio ha effetto — nei casi in cui la condizione contrasta con un precetto positivo."
+    },
+    {
+      "n": 20,
+      "he": "הַתְּנַאי בָּטֵל וְהַגֵּרוּשִׁין בְּטֵלִין — בְּמָקוֹם שֶׁהַתְּנַאי הוּא עִיקַּר הַגֵּרוּשִׁין.",
+      "it": "La condizione è nulla e il divorzio è nullo — nei casi in cui la condizione è l'elemento centrale del divorzio."
+    },
+    {
+      "n": 21,
+      "he": "גֵּט עַל תְּנַאי שֶׁהָאִשָּׁה תְּקַיֵּם — כָּל עוֹד לֹא קִיְּמָה, הֲרֵי הִיא תַּחְתָּיו לְכָל דָּבָר.",
+      "it": "Un get con condizione che la moglie deve adempiere — finché non l'ha adempiuta, è ancora soggetta a lui per ogni cosa."
+    },
+    {
+      "n": 22,
+      "he": "גֵּט עַל תְּנַאי שֶׁהַבַּעַל יְקַיֵּם — כֵּיוָן שֶׁקִּיֵּם, הִיא מְגֹרֶשֶׁת לְמַפְרֵעַ מִשָּׁעָה שֶׁנִּתַּן הַגֵּט.",
+      "it": "Un get con condizione che il marito deve adempiere — non appena ha adempiuto, lei è divorziata retroattivamente dal momento in cui è stato consegnato il get."
+    },
+    {
+      "n": 23,
+      "he": "גֵּט כָּפוּל — כְּלוֹמַר גֵּט שֶׁנִּכְתַּב פַּעֲמַיִם — כָּשֵׁר בְּדִיעֲבַד.",
+      "it": "Un get doppio — cioè un get scritto due volte — è valido dopo il fatto."
+    },
+    {
+      "n": 24,
+      "he": "מָחַל הַבַּעַל עַל הַתְּנַאי — הַתְּנַאי מָחוּל וְהַגֵּרוּשִׁין חָלִין.",
+      "it": "Se il marito ha rinunciato alla condizione — la condizione è rimessa e il divorzio ha effetto."
+    },
+    {
+      "n": 25,
+      "he": "כָּל הַדְּבָרִים הָאֵלּוּ בְּגִטֵּי נָשִׁים — שֶׁהֵם מְיֻחָדִים יוֹתֵר מִשְּׁאָר שְׁטָרוֹת, שֶׁגֵּט אָסוּר מִן הַתּוֹרָה לַחֲזֹר וְלֹא לִבְטֵּל אֶלָּא בִּתְנָאִים קְבוּעִים.",
+      "it": "Tutte queste cose nei documenti di divorzio delle donne — che sono più particolari degli altri documenti, perché il get è proibito dalla Torah di essere revocato o annullato se non in condizioni fisse."
+    }
+  ],
+  "_glossary_terms_used": ["get", "tenai", "tenai kaful", "gerushin", "bitul", "ma'aseh"]
+}

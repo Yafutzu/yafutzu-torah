@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Chovel UMazik 7-8; Rotzeach UShmirat Nefesh 1",
+  "name_he": "משנה תורה, הלכות חובל ומזיק פרקים ז-ח; הלכות רוצח ושמירת נפש פרק א",
+  "name_it": "Mishneh Torah, Leggi delle Lesioni e dei Danni cap. 7-8; Leggi dell'Omicidio e della Protezione della Vita cap. 1",
+  "cycle": "rambam-3",
+  "date": "2026-10-08",
+  "hebrew_date": "27 Tishrei 5787",
+  "halachot_count": 10,
+  "halachot": [
+    {
+      "n": "7:1-5",
+      "he": "הַמַּדְלִיק גָּדִישׁ חֲבֵרוֹ — חַיָּב…",
+      "it": "(Chovel UMazik cap. 7, hal. 1-5) Danni causati dal fuoco (eish — la categoria dell'incendio): chi accende un fuoco nel proprio terreno e si propaga al terreno del vicino — è responsabile per i danni causati. La responsabilità si estende a tutto ciò che è normale che il fuoco raggiunga. Se il fuoco si propaga in modo insolito (a causa di un vento eccezionale) — il responsabile è esente, poiché non era prevedibile. Danni causati tramite agente umano (shelucho — l'agente del fuoco): «Eish mishum chitzav» — il fuoco è considerato come i «frecce» del danneggiante, quindi ne è direttamente responsabile."
+    },
+    {
+      "n": "8:1-6",
+      "he": "גְּרָמָא בְּנִזִּיקִין — פָּטוּר…",
+      "it": "(cap. 8, hal. 1-6) Danni indiretti (grama be-nezikin) — il danneggiante è esente dal pagamento monetario davanti al beit din terreno, ma è «chayav be-dinei shamayim» (responsabile davanti al Tribunale Celeste). Chi consiglia a qualcuno di fare qualcosa di dannoso — grama, esente civilmente. Chi fa paura a qualcuno causandogli una perdita monetaria — grama, esente. Si concludono le Leggi delle Lesioni e dei Danni con l'aiuto del Cielo. Si inizia Hilchot Rotzeach UShmirat Nefesh (Leggi dell'Omicidio e della Protezione della Vita): il divieto di uccidere è l'imperativo morale fondamentale della Torah — «Lo tirtzach» (Non uccidere, Esodo 20:13)."
+    },
+    {
+      "n": "Rotzeach 1:1-5",
+      "he": "כָּל הַהוֹרֵג נֶפֶשׁ אָדָם מִיִּשְׂרָאֵל — עוֹבֵר בְּלֹא תַעֲשֶׂה…",
+      "it": "(Rotzeach UShmirat Nefesh cap. 1, hal. 1-5) Chi uccide una persona di Israele — viola il divieto negativo della Torah. Chi uccide intenzionalmente davanti a testimoni dopo avvertimento — è soggetto alla pena di morte per mezzo del beit din (Sanhedrin). Il «goel hadam» (il vendicatore del sangue — il parente più prossimo del defunto) ha il diritto e talvolta l'obbligo di uccidere il colpevole che è fuggito dalla città rifugio. Il Rambam apre con il principio: «Lo tonu nefesh achat me-Yisrael — non viene mai giustificata la perdita di un'anima ebrea». Il valore di ogni anima umana è come un intero mondo."
+    }
+  ],
+  "_glossary_terms_used": [
+    "eish", "shelucho", "grama be-nezikin", "beit din", "chayav be-dinei shamayim", "rotzeach", "goel hadam", "Sanhedrin", "lo tirtzach"
+  ]
+}

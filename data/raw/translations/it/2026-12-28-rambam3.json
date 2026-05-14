@@ -1,0 +1,40 @@
+{
+  "ref": "Mishneh Torah, Melachim 12; Yesodei HaTorah 1-2",
+  "name_he": "משנה תורה, הלכות מלכים פרק יב; הלכות יסודי התורה פרקים א-ב",
+  "name_it": "Mishneh Torah, Leggi dei Re cap. 12 — FINE DEL MISHNEH TORAH; Leggi dei Fondamenti della Torah capitoli 1-2 — INIZIO DEL SECONDO CICLO",
+  "cycle": "rambam-3",
+  "date": "2026-12-28",
+  "hebrew_date": "19 Tevet 5787",
+  "milestone": "COMPLETAMENTO DEL MISHNEH TORAH INTERO — INIZIO SECONDO CICLO",
+  "halachot_count": 30,
+  "halachot": [
+    {
+      "n": "Melachim 12:1-3",
+      "he": "אַל יַעֲלֶה עַל לֵבְךָ שֶׁיִּבָּטְלוּ דְּרָכֵי הָעוֹלָם בִּימוֹת הַמָּשִׁיחַ…",
+      "it": "(Melachim cap. 12, hal. 1-3 — L'ULTIMO CAPITOLO DEL MISHNEH TORAH INTERO) Il Rambam enuncia la sua famosa posizione sull'era messianica: «Non pensare che nell'era del Mashiach cambierà l'ordine del mondo» — il mondo naturale continuerà come sempre. Non ci sarà uno sconvolgimento soprannaturale dell'ordine creato. Ciò che cambierà: cessano la guerra, la persecuzione, l'oppressione. Israele tornerà nella propria terra, il Beit HaMikdash verrà ricostruito, gli esiliati saranno raccolti. Ma le leggi della natura — gravità, biologia, fisica — rimarranno invariate."
+    },
+    {
+      "n": "Melachim 12:4-5",
+      "he": "בְּאוֹתוֹ הַזְּמַן לֹא יִהְיֶה שָׁם לֹא רָעָב וְלֹא מִלְחָמָה…",
+      "it": "(Melachim cap. 12, hal. 4-5) La conclusione del Mishneh Torah: «In quel tempo non vi sarà né fame né guerra, né invidia né competizione, perché le cose buone scorreranno in abbondanza... La occupazione del mondo intero sarà soltanto di conoscere D-o. Pertanto Israele sarà di grande saggezza, conoscerà le cose nascoste e conseguirà la conoscenza del loro Creatore per quanto la mente umana può comprendere. Come è scritto: 'Perché la terra sarà piena della conoscenza di Hashem come le acque coprono il mare' (Isaia 11:9).» — CON QUESTO SI CONCLUDE IL MISHNEH TORAH IN TUTTA LA SUA INTEREZZA."
+    },
+    {
+      "n": "Sigillo del Mishneh Torah",
+      "he": "סִיּוּם הַיַּד הַחֲזָקָה…",
+      "it": "Si concludono le Leggi dei Re e delle Guerre con l'aiuto del Cielo. Si conclude il Sefer Shoftim (Libro dei Giudici). Con questo si conclude il Mishneh Torah — il Yad HaChazakah (La Mano Forte) — nella sua interezza, che abbraccia tutte le 613 mitzvot della Torah, dalla prima («conosci che esiste un Essere Primario») all'ultima (la legge messianica). Opera composta dal Rambam, Rabbenu Moshe ben Maimon, in ogni lingua del mondo. Completato nel ciclo di tre capitoli al giorno. Ci sia di buon auspicio."
+    },
+    {
+      "n": "Inizio Secondo Ciclo — Yesodei HaTorah 1:1-4",
+      "he": "יְסוֹד הַיְּסוֹדוֹת וְעַמּוּד הַחׇכְמוֹת — לֵידַע שֶׁיֵּשׁ שָׁם מָצוּי רִאשׁוֹן…",
+      "it": "(Yesodei HaTorah cap. 1, hal. 1-4) INIZIA IL SECONDO CICLO DEL RAMBAM 3 CAPITOLI AL GIORNO. La prima parola del Mishneh Torah, la prima halakhah della Torah: «Il fondamento di tutti i fondamenti e il pilastro di tutta la saggezza è sapere che esiste un Essere Primario (Matzui Rishon) che ha portato all'esistenza tutto ciò che esiste.» D-o è l'unica entità la cui esistenza non dipende da nulla: tutto il resto dell'universo dipende da Lui per la propria esistenza; Lui non dipende da nulla. Se fosse concepibile che non esistesse — nulla esisterebbe. La Sua esistenza è assoluta, necessaria, eterna."
+    },
+    {
+      "n": "Yesodei HaTorah 2:1-5",
+      "he": "לֵידַע מִצְוָה זוֹ — הִיא עִקַּר הַתּוֹרָה…",
+      "it": "(Yesodei HaTorah cap. 2, hal. 1-5) I commandamenti dell'amore (ahavah) e del timore (yirah) di D-o. Come si giunge all'amore e al timore? «Quando l'uomo contempla le Sue opere meravigliose e le Sue creature — e vede in esse la Sua saggezza infinita e incomparabile — immediatamente ama, loda e glorifica, e desidera ardentemente di conoscere il Grande Nome. Come ha detto David: 'La mia anima ha sete di D-o, del Dio vivente' (Salmi 42:3). E quando pensa a queste cose stesse, immediatamente retrocede, si spaventa e sa che è una piccola creatura, bassa e oscura, che si erge con mente piccola e imperfetta davanti a Colui che è la Perfezione.» La contemplazione della creazione è il percorso verso D-o."
+    }
+  ],
+  "_glossary_terms_used": [
+    "Mashiach", "Beit HaMikdash", "Yad HaChazakah", "Matzui Rishon", "ahavah", "yirah", "Sefer Shoftim", "613 mitzvot"
+  ]
+}

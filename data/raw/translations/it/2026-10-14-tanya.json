@@ -1,0 +1,30 @@
+{
+  "ref": "Tanya, Part IV; Iggeret HaKodesh 22",
+  "name_he": "תניא, חלק ד — אגרת הקודש, אגרת כב",
+  "name_it": "Tanya, Parte IV — Iggeret HaKodesh, lettera 22",
+  "cycle": "tanya-yomi",
+  "date": "2026-10-14",
+  "hebrew_date": "3 Cheshvan 5787",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 3,
+  "segments": [
+    {
+      "n": 1,
+      "he": "כַּוָּנָה בְּתְּפִלָּה — נְשָׁמָה לַגּוּף…",
+      "it": "La kavanah (intenzione/concentrazione) nella tefillah (preghiera) è come l'anima rispetto al corpo — la preghiera senza kavanah è «guf beli neshama» (corpo senza anima). Il Rambam stesso ha scritto: «Tefillah beli kavanah — eina tefillah» (preghiera senza intenzione non è preghiera). L'Alter Rebbe distingue tuttavia tra la kavanah essenziale (dovuta) e la kavanah ideale: la kavanah essenziale è sapere davanti a Chi si sta pregando — «de'a lifnei mi atta omed» (sappi davanti a Chi ti stai in piedi)."
+    },
+    {
+      "n": 2,
+      "he": "גּוּף הַמִּצְוָה — גַּם בְּלִי כַּוָּנָה — יֵשׁ לוֹ עֵרֶךְ…",
+      "it": "Il «guf ha-mitzvah» (il corpo della mitzvah — l'atto esteriore) ha valore intrinseco anche senza kavanah perfetta. L'Alter Rebbe insegna con la sua caratteristica pedagogia misericordiosa: non bisogna scoraggiarsi se non si riesce a pregare con piena concentrazione ogni volta. L'atto della tefillah stesso — anche meccanico — mantiene un legame (kesher) tra l'ebreo e Dio. È preferibile pregare con kavanah parziale che non pregare affatto. Tuttavia si deve sempre aspirare alla kavanah — non accontentarsi della preghiera meccanica."
+    },
+    {
+      "n": 3,
+      "he": "כַּוָּנָה הַמְשַׁנָּה אֶת הַמִּצְוָה — מִגּוּף לְנֶפֶשׁ…",
+      "it": "La kavanah trasforma la mitzvah da atto fisico a atto spirituale completo. L'Alter Rebbe usa l'analogia del «neshamah» (soffio vitale): come D-o ha soffiato nell'uomo «nishmat chaim» (soffio di vita — Genesi 2:7) trasformando argilla in essere vivente — così la kavanah «soffia» vita spirituale nell'atto fisico della mitzvah. La kavanah ideale nella tefillah: meditare sul significato delle parole (kavanah al pitron ha-milot) — non solo pronunciarle correttamente. Chi prega così — la sua tefillah «sale» direttamente al Trono della Gloria."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kavanah", "tefillah", "guf beli neshama", "guf ha-mitzvah", "kesher", "nishmat chaim", "kavanah al pitron ha-milot"
+  ]
+}

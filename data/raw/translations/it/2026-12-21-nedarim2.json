@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Nedarim 2",
+  "name_he": "משנה תורה, הלכות נדרים, פרק ב",
+  "name_it": "Mishneh Torah, Leggi dei Voti, capitolo 2",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-21",
+  "hebrew_date": "12 Tevet 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יַד הַנֵּדֶר — כְּנֵדֶר…",
+      "it": "«Yad ha-neder ke-neder» — l'estensione del voto è come il voto stesso. Se qualcuno formula un voto parziale o incompleto che si richiama chiaramente a un voto precedente, anche l'estensione (yad) è vincolante. Esempio: se una persona ha appena pronunciato un neder e poi dice «e questo» indicando un altro oggetto — «e questo» è incluso nel voto originale. La logica: il linguaggio del voto è elastico e intende includere ciò che naturalmente ne consegue."
+    },
+    {
+      "n": 2,
+      "he": "כֵּיצַד הִיא הַיָּד — אָמַר «הֲרֵי עָלַי כְּקׇרְבָּן» וְשָׁתַק וְחָזַר וְאָמַר «וְזֶה»…",
+      "it": "Come funziona la yad? Se qualcuno dice «questo sia per me come un korban» e poi subito dopo (senza interruzione significativa) indica un altro oggetto e dice «e anche questo» — il secondo oggetto è incluso nel neder tramite yad. Se però c'è stata un'interruzione, o se il secondo oggetto è stato menzionato in un contesto chiaramente diverso, non si applica la yad. Il Rambam sottolinea che la yad funziona perché il parlante intende estendere il voto, anche se non lo dice esplicitamente."
+    },
+    {
+      "n": 3,
+      "he": "חֲרָמִים — יֵשׁ בָּהֶן חֵרֶם שָׁמַיִם וְיֵשׁ בָּהֶן חֵרֶם כֹּהֲנִים…",
+      "it": "I charamim (voti di devozione/consacrazione totale) si dividono in due categorie: cherem Shamayim (consacrazione al Cielo, cioè al Tempio) e cherem kohanim (consacrazione ai sacerdoti). Il cherem Shamayim: l'oggetto viene dedicato interamente al Beit HaMikdash — il proprietario non può riscattarlo. Il cherem kohanim: l'oggetto va direttamente ai sacerdoti in servizio. La distinzione è pratica: il cherem Shamayim può essere riscattato con denaro (che va al Tempio); il cherem kohanim non può essere riscattato — passa immediatamente in proprietà dei kohanim."
+    },
+    {
+      "n": 4,
+      "he": "הַמַּחֲרִים אֶת שָׂדֵהוּ — חֵרֶם שָׁמַיִם…",
+      "it": "Chi dichiara il proprio campo in cherem al Cielo — il campo va al Tempio. Il proprietario può riscattarlo pagando il valore valutato (erech) più un quinto. Se non lo riscatta entro il Giubileo (Shemitah e Yovel), il campo passa ai kohanim automaticamente. Chi dichiara il proprio campo in cherem kohanim — i kohanim ne prendono possesso immediatamente e il proprietario non ha diritto di riscatto. Il cherem è quindi lo strumento di donazione più vincolante e irrevocabile previsto dalla Torah."
+    },
+    {
+      "n": 5,
+      "he": "אָדָם שֶׁהֶחֱרִים עַצְמוֹ — לְדַעַת חֲכָמִים אֵינוֹ יָכוֹל לְהַחֲרִים אֶת גּוּפוֹ…",
+      "it": "Una persona non può dichiarare se stessa in cherem — il corpo umano non è un bene commerciabile e non può essere «consacrato» nel senso halakhico. Se qualcuno dice «il mio corpo sia in cherem al Tempio» — si intende che intende donare il valore della propria vita (come stimato secondo le tabelle dell'erech), non che il corpo stesso diventi proprietà del Tempio. Questa limitazione riflette il principio che la vita umana appartiene a D-o e non è alienabile."
+    },
+    {
+      "n": 6,
+      "he": "נִדְרֵי חֵרֶם וְנִדְרֵי הֶקְדֵּשׁ — יֵשׁ בֵּינֵיהֶם הֶבְדֵּל בְּחוֹמְרָתָם…",
+      "it": "La differenza tra i voti di cherem e i voti di hekdesh ordinario: l'hekdesh ordinario può essere riscattato dal proprietario originale pagando il valore più un quinto; il cherem Shamayim può essere riscattato ma solo in certi limiti; il cherem kohanim non può essere riscattato affatto. La gradazione riflette la severità crescente dell'impegno: il neder ordinario è il livello base, l'hekdesh è più forte, il cherem è il massimo. La Torah ha previsto queste gradazioni perché il cuore umano a volte si muove in modo improvviso — e occorre distinguere tra gli impulsi momentanei e i gesti definitivi."
+    }
+  ],
+  "_glossary_terms_used": [
+    "yad ha-neder", "neder", "korban", "charamim", "cherem Shamayim", "cherem kohanim", "erech", "hekdesh", "Yovel", "kohanim"
+  ]
+}

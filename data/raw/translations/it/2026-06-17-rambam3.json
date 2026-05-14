@@ -1,0 +1,62 @@
+{
+  "ref": "Mishneh Torah, Tithes 13-14; Second Tithe 1",
+  "name_he": "משנה תורה, הלכות מעשרות פרקים יג-יד; הלכות מעשר שני ונטע רבעי פרק א",
+  "name_it": "Mishneh Torah, Leggi delle Decime capitoli 13-14; Leggi della Seconda Decima e del Frutto del Quarto Anno capitolo 1",
+  "cycle": "rambam-3",
+  "date": "2026-06-17",
+  "hebrew_date": "2 Tammuz 5786",
+  "halachot_count": 29,
+  "halachot": [
+    {
+      "n": "13:1-3",
+      "he": "הַלּוֹקֵחַ פֵּרוֹת וְנִמְצְאוּ בְּחֶצְיָן טֶבֶל...",
+      "it": "Chi compra produce e metà risulta essere tevel (non decimata) e metà già decimata — deve decimare solo la metà che è tevel. Non si separa da tevel per chulin (già decimato) poiché non si separa da un tipo per l'altro tipo."
+    },
+    {
+      "n": "13:4-6",
+      "he": "פֵּרוֹת שֶׁנָּשְׁרוּ מִן הָאִילָן...",
+      "it": "Frutti caduti dall'albero (neshura) — se sono caduti prima della 'fissazione', possono essere mangiati casualmente senza decima. Se sono caduti dopo la fissazione, sono soggetti alle decime come tutta la produce raccolta."
+    },
+    {
+      "n": "13:7-9",
+      "he": "עֵסֶק הַפֵּרוֹת — מִי שֶׁעָסַק בְּפֵרוֹת...",
+      "it": "Un lavoratore impegnato con produce — mentre lavora ha diritto di mangiare casualmente (achilas aray). Ma se smette di lavorare e mangia, deve separare le decime prima. La distinzione è se il mangiare avviene 'nel contesto del lavoro' o fuori da esso."
+    },
+    {
+      "n": "13:10-12",
+      "he": "הַמַּאֲכִיל אֶת בָּנָיו הַקְּטַנִּים...",
+      "it": "Chi dà da mangiare produce non decimata ai propri figli piccoli (ketanim) — ha agito in modo problematico. I bambini piccoli non sono personalmente obbligati alle decime, ma il padre non deve nutrirli con tevel se c'è possibilità di decima."
+    },
+    {
+      "n": "14:1-3",
+      "he": "הַמְפַקִּיר כַּרְמוֹ...",
+      "it": "Chi dichiara il proprio vigneto hefker (ownerless) — la produce che cresce da quel momento in poi è esente dalle decime, poiché è produce ownerless. Ma se la riprende in proprietà prima della fissazione, torna ad essere soggetta alle decime."
+    },
+    {
+      "n": "14:4-6",
+      "he": "כָּל שֶׁאֵינוֹ חַיָּב בְּמַעַשְׂרוֹת...",
+      "it": "Regole conclusive di Hilchot Maasrot: produce esente dalle decime (hefker, produce di non-ebrei, produce fuori dalla terra) non può essere usata per 'separare decime' per produce obbligata. La separazione deve provenire dallo stesso tipo di produce obbligata. Con questa halacha si concludono le Leggi delle Decime (Hilchot Maasrot)."
+    },
+    {
+      "n": "MS:1:1-3",
+      "he": "מַעֲשֵׂר שֵׁנִי — קָדוֹשׁ...",
+      "it": "Apertura di Hilchot Maaser Sheni ve-Neta Revai: il maaser sheni (seconda decima) è dotato di santità intrinseca (kedushah). I prodotti separati come maaser sheni appartengono formalmente al proprietario ma hanno lo status di 'cosa sacra' — devono essere portati a Gerusalemme e consumati là in stato di purezza rituale."
+    },
+    {
+      "n": "MS:1:4-6",
+      "he": "נֶטַע רְבָעִי — כְּמַעֲשֵׂר שֵׁנִי...",
+      "it": "Il neta revai (frutto del quarto anno) — tutti i frutti di un albero nel suo quarto anno di vita sono santi come maaser sheni: devono essere portati a Gerusalemme e consumati là, o riscattati con denaro che viene portato a Gerusalemme. Nei primi tre anni (orla), i frutti sono del tutto proibiti."
+    },
+    {
+      "n": "MS:1:7-9",
+      "he": "פָּדָה מַעֲשֵׂר שֵׁנִי...",
+      "it": "Il riscatto del maaser sheni: se il proprietario stesso riscatta la propria produce, deve aggiungere un quinto (chomesh) al valore di mercato. Se è un altro a riscattarlo, non aggiunge il quinto. Il denaro acquisisce la santità del maaser sheni e viene portato a Gerusalemme."
+    },
+    {
+      "n": "MS:1:10-12",
+      "he": "מַעֲשֵׂר שֵׁנִי הַיּוֹצֵא מִן הַטֶּבֶל...",
+      "it": "Il maaser sheni separato da tevel che non aveva ancora la terumah separata — è una separazione problematica. L'ordine corretto è: prima terumah gedolah, poi maaser rishon, poi terumat maaser, poi maaser sheni. Chi inverte l'ordine deve verificare la validità delle sue separazioni."
+    }
+  ],
+  "_glossary_terms_used": ["tevel", "maasrot", "achilas aray", "hefker", "maaser sheni", "neta revai", "orla", "kedushah", "chomesh", "terumah gedolah", "maaser rishon", "terumat maaser"]
+}

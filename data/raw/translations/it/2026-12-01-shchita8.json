@@ -1,0 +1,44 @@
+{
+  "ref": "Mishneh Torah, Hilchot Shechitah 8",
+  "name_he": "משנה תורה, הלכות שחיטה, פרק ח",
+  "name_it": "Mishneh Torah, Leggi della Macellazione Rituale, capitolo 8",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-12-01",
+  "hebrew_date": "22 Kislev 5787",
+  "halachot_count": 6,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "כָּל אָדָם כָּשֵׁר לִשְׁחֹט לְכַתְּחִלָּה, חוּץ מֵחֲמִשָּׁה...",
+      "it": "Ogni persona competente è idonea a eseguire la shechitah (macellazione rituale) ab initio (le-chatchilah). La legge esclude cinque categorie: (1) il sordomuto (cheresh), (2) il pazzo (shoteh), (3) il minore (katan), (4) l'idolatra (oved avodah zarah), (5) il mechalel Shabbat be-farhesya (chi profana pubblicamente lo Shabbat). Se uno di questi ha macellato, anche davanti a testimoni validi, l'animale è un neveilah (carcassa) e vietato. La ragione: la shechitah richiede intenzionalità (kavanah) e piena consapevolezza delle leggi — categorie prive di daat (discernimento) non possono garantire questa intenzionalità."
+    },
+    {
+      "n": 2,
+      "he": "שׁוֹחֵט שֶׁשָּׁחַט וּבָדַק אֶת הַסַּכִּין...",
+      "it": "Un shochet (macellaio rituale) che ha macellato e poi ha esaminato il suo coltello (sakkin) e lo ha trovato integro — la shechitah è valida. Ma se ha esaminato il coltello dopo la shechitah e lo ha trovato con un'incisura (pegimah) — l'animale è un neveilah, poiché non è possibile sapere se la pegimah era presente prima o dopo la shechitah. Il coltello deve essere privo di qualsiasi intaccatura su entrambe le lame — questa viene verificata con la punta del dito e con l'unghia."
+    },
+    {
+      "n": 3,
+      "he": "שׁוֹחֵט שֶׁרָגִיל לִשְׁחֹט — אֵינוֹ צָרִיךְ לִבְדֹּק עַצְמוֹ בְּכָל פַּעַם...",
+      "it": "Uno shochet che macella regolarmente non ha bisogno di verificare la propria competenza ogni volta. Si presume competente finché non risulti il contrario. Tuttavia, è obbligato a esaminare il proprio coltello prima di ogni shechitah — questo esame (bedikat ha-sakkin) è un dovere halachico inalienabile. Lo shochet che trascura l'esame del coltello, anche una sola volta, merita sanzione rabbinicamente."
+    },
+    {
+      "n": 4,
+      "he": "כָּל שֶׁאֵינוֹ יוֹדֵעַ הִלְכוֹת שְׁחִיטָה — לֹא יִשְׁחֹט...",
+      "it": "Chiunque non conosca le leggi della shechitah non deve macellare. Se ha macellato senza conoscere le halachot (leggi) rilevanti, la sua shechitah è valida post-factum (be-diavad) solo se l'atto fisico è stato eseguito correttamente. Ma ab initio (le-chatchilah) è proibito. La conoscenza richiesta include: le cinque azioni invalidanti della shechitah (shehiyah, derasah, chaladah, hagramah, ikkur), l'esame del coltello, e la conoscenza di quali animali e uccelli sono kosher."
+    },
+    {
+      "n": 5,
+      "he": "הָאוֹכֵל מִבְּשַׂר נְבֵלָה — לוֹקֶה...",
+      "it": "Chi mangia la carne di un neveilah (animale non macellato ritualmente o macellato in modo invalido) — riceve malkot (fustigazione). Il neveilah è proibito sia per un israelita che per un proselito. La Torah dice: «Non mangiate alcuna neveilah» (Deuteronomio 14:21). Il neveilah può essere dato o venduto al non-ebreo (ger toshav o straniero), poiché questo divieto è specifico degli ebrei."
+    },
+    {
+      "n": 6,
+      "he": "שְׁחִיטַת עוֹבֵד כּוֹכָבִים — נְבֵלָה...",
+      "it": "La shechitah eseguita da un non-ebreo (oved kochavim) rende l'animale un neveilah, anche se ha seguito tecnicamente tutte le procedure corrette. La ragione: il non-ebreo non ha la kavanah (intenzionalità) halachica richiesta. Se un ebreo supervisiona un non-ebreo che macella — alcuni Rishonim (autorità medievali) permettono be-diavad; il Rambam è stringente e considera l'animale neveilah in ogni caso."
+    }
+  ],
+  "_glossary_terms_used": [
+    "shechitah", "shochet", "neveilah", "le-chatchilah", "be-diavad", "pegimah", "bedikat ha-sakkin", "kavanah", "shehiyah", "derasah", "chaladah", "hagramah", "ikkur", "malkot", "cheresh", "shoteh", "katan", "daat"
+  ]
+}

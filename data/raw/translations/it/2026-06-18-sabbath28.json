@@ -1,0 +1,112 @@
+{
+  "ref": "Mishneh Torah, Sabbath 28",
+  "name_he": "משנה תורה, הלכות שבת, פרק כח",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 28",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-06-18",
+  "hebrew_date": "3 Tammuz 5786",
+  "halachot_count": 20,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "יוֹם טוֹב — הֻתַּר בּוֹ עֲשִׂיַּת אֹכֶל נֶפֶשׁ...",
+      "it": "Nello Yom Tov (giorno festivo), la preparazione del cibo per persone (ochel nefesh) è permessa, a differenza dello Shabbat. Questo è esplicitamente indicato nella Torah (Esodo 12:16): 'solo quello che si mangia da ogni persona può essere fatto per voi'."
+    },
+    {
+      "n": 2,
+      "he": "אֵיזֶה הוּא אֹכֶל נֶפֶשׁ...",
+      "it": "Che cosa rientra nell'ochel nefesh? Cucinare, cuocere al forno, arrostire, macinare per il fabbisogno del cibo del giorno. Tuttavia, non si può fare cibo per il giorno seguente di Yom Tov o per lo Shabbat che segue, senza un eruv tavshilin."
+    },
+    {
+      "n": 3,
+      "he": "שְׁחִיטָה — מֻתֶּרֶת בְּיוֹם טוֹב...",
+      "it": "La macellazione rituale (shechitah) di animali è permessa nello Yom Tov poiché è necessaria per la preparazione del cibo. Si può macellare non solo quanto si mangerà di Yom Tov, ma anche in quantità ragionevole per gli ospiti attesi."
+    },
+    {
+      "n": 4,
+      "he": "לִישָׁה וַאֲפִיָּה — מֻתֶּרֶת בְּיוֹם טוֹב...",
+      "it": "Impastare la farina (lisha) e cuocere il pane (afiyah) sono permessi nello Yom Tov. Si può cuocere anche più di quanto si consumerà durante quel giorno, se si è invitato ospiti o se si cuoce per le necessità del giorno."
+    },
+    {
+      "n": 5,
+      "he": "הַדְלָקַת הָאֵשׁ — מֻתֶּרֶת בְּיוֹם טוֹב...",
+      "it": "Accendere il fuoco è permesso nello Yom Tov, ma solo da una fiamma già esistente (mi-yud le-yud — 'da esistente a esistente'). Non si può accendere il fuoco dal nulla (come sfregare pietre). Questo è il senso di 'non spegnerete il fuoco' nel testo biblico relativo allo Shabbat — che si applica in modo diverso allo Yom Tov."
+    },
+    {
+      "n": 6,
+      "he": "אֵין מוֹצִיאִין אֵשׁ מֵאֶבֶן...",
+      "it": "Non si crea fuoco nuovo nello Yom Tov — anche per scopi culinari. L'attività permessa è trasferire il fuoco da una fonte già accesa. Per questo motivo la tradizione è di non spegnere le candele di Yom Tov poiché potrebbero essere necessarie per riaccendere il fuoco."
+    },
+    {
+      "n": 7,
+      "he": "הַהֶסָּקָה — לְצֹרֶךְ אֹכֶל...",
+      "it": "Alimentare il fuoco (hessakah) è permesso solo per esigenze di cottura del cibo. Non si può alimentare il fuoco per riscaldarsi (se non fa freddo) o per altri scopi non alimentari diretti."
+    },
+    {
+      "n": 8,
+      "he": "עֵרוּב תַּבְשִׁילִין — כֵּיצַד...",
+      "it": "L'eruv tavshilin consente di cucinare nello Yom Tov per lo Shabbat che segue (quando Yom Tov cade venerdì). Si prepara prima di Yom Tov un piatto cotto e un pane, dichiarando che la preparazione di Shabbat inizia dall'eruv. Questo 'ponte' tra Yom Tov e Shabbat è necessario perché normalmente non si può cucinare di Yom Tov per il giorno dopo."
+    },
+    {
+      "n": 9,
+      "he": "שָׁכַח וְלֹא עֵרֵב...",
+      "it": "Se qualcuno ha dimenticato di fare l'eruv tavshilin — non può cucinare di Yom Tov per lo Shabbat. Se l'intera città ha dimenticato, il rabbino locale può fare eruv per tutta la comunità."
+    },
+    {
+      "n": 10,
+      "he": "מְלָאכוֹת הָאֲסוּרוֹת בְּיוֹם טוֹב שֶׁלֹּא לְצֹרֶךְ אֹכֶל...",
+      "it": "Tutte le melachot che non servono per la preparazione del cibo sono proibite nello Yom Tov come nello Shabbat. Questo include: scrivere, cucire, costruire, accendere luci non per il cibo, e molti altri lavori."
+    },
+    {
+      "n": 11,
+      "he": "טִלְטוּל מֻקְצֶה בְּיוֹם טוֹב...",
+      "it": "Le regole del muktzeh (oggetti che non si spostano di Shabbat) si applicano anche allo Yom Tov, ma con alcune alleviazioni. Oggetti direttamente necessari per la preparazione del cibo non sono muktzeh. Oggetti che possono servire occasionalmente per il cibo hanno uno status intermedio."
+    },
+    {
+      "n": 12,
+      "he": "חָרִישׁ וּקְצִירָה — אֲסוּרִין...",
+      "it": "Arare e mietere sono proibiti nello Yom Tov anche per ottenere cibo, poiché questi sono lavori agricoli massivi non necessari in quel momento (si raccoglie nei giorni feriali prima della festa). La Torah permette solo 'preparare' il cibo già disponibile, non coltivarlo."
+    },
+    {
+      "n": 13,
+      "he": "אֵין גּוֹרְנִין בְּיוֹם טוֹב...",
+      "it": "Non si trebbia, non si batte il grano, non si vaglia (zilzul) nello Yom Tov, poiché sono preparazione massiva del cibo che poteva essere fatta prima. Il principio è che si fa nello Yom Tov solo ciò che è indispensabile fare esattamente in quel giorno."
+    },
+    {
+      "n": 14,
+      "he": "מוּתָּר לְטַחֵן קִמְעָא...",
+      "it": "Macinare un po' di farina per uso immediato del giorno — è permesso nello Yom Tov poiché si tratta di piccola quantità direttamente necessaria. Macinare per fare scorta — è proibito."
+    },
+    {
+      "n": 15,
+      "he": "הַמּוֹלֵחַ בָּשָׂר בְּיוֹם טוֹב...",
+      "it": "Salare la carne (melicha, parte del processo di koshering per rimuovere il sangue) nello Yom Tov — è permesso poiché è direttamente necessario per la preparazione del pasto."
+    },
+    {
+      "n": 16,
+      "he": "מֻתָּר לְהַבְעִיר בְּיוֹם טוֹב...",
+      "it": "È permesso alimentare il fuoco nello Yom Tov per cucinare anche in eccesso rispetto al necessario, poiché c'è sempre la possibilità che arrivino ospiti inattesi. Non si può però accendere il fuoco se è chiaramente impossibile che arrivino ospiti."
+    },
+    {
+      "n": 17,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת לִרְשׁוּת בְּיוֹם טוֹב...",
+      "it": "Portare oggetti da dominio privato a dominio pubblico (hotzaah) è proibito nello Yom Tov come nello Shabbat, salvo quando serve direttamente per la preparazione del cibo. Con un eruv chatzerot, si può portare oggetti tra cortili privati."
+    },
+    {
+      "n": 18,
+      "he": "הַנּוֹטֵל עֵצִים מִן הַשָּׂדֶה...",
+      "it": "Raccogliere legna dal campo per il fuoco nello Yom Tov — è proibito come lavoro agricolo. Si deve usare legna già preparata prima dello Yom Tov o raccolta all'interno di un dominio privato (chatzer)."
+    },
+    {
+      "n": 19,
+      "he": "קָטָן שֶׁאָכַל נְבֵלוֹת בְּיוֹם טוֹב...",
+      "it": "Un bambino che ha mangiato carne non kosher di Yom Tov — il padre non deve impedirgli di farlo se è ancora piccolo (katan) e non capisce. Il padre ha invece l'obbligo di educarlo quando è all'età dell'educazione (chinuch)."
+    },
+    {
+      "n": 20,
+      "he": "אַחַד יוֹם טוֹב שֶׁל תּוֹרָה וְאֶחָד...",
+      "it": "Conclude il capitolo: queste regole si applicano sia allo Yom Tov biblico che al secondo giorno di Yom Tov istituto dai Saggi per la diaspora. Il secondo giorno ha gli stessi divieti del primo, salvo alcune alleviazioni in caso di malattia o grande bisogno."
+    }
+  ],
+  "_glossary_terms_used": ["ochel nefesh", "Yom Tov", "shechitah", "eruv tavshilin", "muktzeh", "melachot", "hotzaah", "eruv chatzerot", "chinuch", "katan", "melicha"]
+}

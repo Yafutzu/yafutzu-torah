@@ -1,0 +1,57 @@
+{
+  "ref": "Mishneh Torah, Hilchot Bikkurim 6-8",
+  "name_he": "משנה תורה, הלכות בכורים פרקים ו–ח",
+  "name_it": "Mishneh Torah, Leggi delle Primizie, capitoli 6–8",
+  "cycle": "rambam-3",
+  "date": "2026-06-23",
+  "hebrew_date": "8 Tammuz 5786",
+  "halachot_count": 29,
+  "halachot": [
+    {
+      "n": "6:1",
+      "he": "מִצְוַת עֲשֵׂה לְהַפְרִישׁ חַלָּה...",
+      "it": "Hilchot Bikkurim include anche le leggi della Challah (la porzione del pane separata per i sacerdoti). C'è un comandamento positivo di separare la challah dall'impasto (reishit arisoteichem challah tarimu terumah) — Numeri 15:20. La challah è una delle 'primizie' date ai sacerdoti, analogamente al bikkurim dei frutti."
+    },
+    {
+      "n": "6:2-5",
+      "he": "אֵיזֶה שִׁעוּר חַיָּב בְּחַלָּה...",
+      "it": "Quale misura è soggetta all'obbligo della challah? La Torah menziona solo il pane ma non la quantità. I Saggi hanno stabilito che l'obbligo della challah si applica da quando si usano 5 quarti di un quarto (kav) di farina in avanti — circa 1,2 litri di farina. Da questa quantità in su si separa circa un quarantaquattresimo come challah; per uso privato un ventiquattresimo."
+    },
+    {
+      "n": "6:6-9",
+      "he": "מֵאֵיזֶה מִינִים חַיָּבִין בְּחַלָּה...",
+      "it": "Da quali specie si separa la challah? Solo dai cinque cereali: grano (chitah), orzo (se'orah), spelta (kusmin), avena (shibolet shual) e segale (shifon). Impasto di riso, mais o legumi è esente dalla challah. La challah si separa anche dalla pasta importata dall'estero se è stata lavorata in Eretz Israel, ma non dall'impasto lavorato fuori dalla Terra d'Israele."
+    },
+    {
+      "n": "7:1",
+      "he": "מִצְוַת חַלָּה — כֵּיצַד מַפְרִישִׁין...",
+      "it": "Come si separa la challah in pratica: si prende un pezzo dell'impasto, si dice: 'Harei zu challah' (Questo sia la challah), e si dà al kohen. Se non c'è un kohen disponibile, la challah si avvolge e si brucia, poiché ha la santità della terumah. In diaspora si separa la challah ma la si brucia, poiché non ci sono condizioni di purezza rituale per darla a un kohen."
+    },
+    {
+      "n": "7:2-6",
+      "he": "חַלָּה בִּזְמַן הַזֶּה...",
+      "it": "La challah ai nostri tempi: la separazione della challah è obbligatoria anche dopo la distruzione del Tempio, per decreto rabbinico. Tuttavia poiché non c'è purezza rituale completa, la challah separata viene bruciata. L'obbligo della challah è uno dei sei precetti agricoli che continuano anche in diaspora, poiché non dipende dall'essere in Terra d'Israele."
+    },
+    {
+      "n": "7:7-10",
+      "he": "הַנּוֹשֵׂא אֶת הַחַלָּה...",
+      "it": "Chi trasporta la challah: la challah ha lo status di terumah ed è soggetta alle stesse leggi di purezza e impurità. Un kohen tamei (impuro) non può mangiare la challah. Se un kohen tahor (puro) si tocca e diventa impuro prima di mangiare la challah, essa è ora proibita per lui. In assenza di condizioni di purezza, si brucia la challah."
+    },
+    {
+      "n": "8:1",
+      "he": "רֵאשִׁית הַגֵּז — לְתֵת לַכֹּהֵן...",
+      "it": "Reishit haGez (la primizia della tosatura): c'è obbligo di dare al kohen la prima tosatura del vello delle pecore (Deuteronomio 18:4). Il Rambam spiega che questo precetto è analogo al bikkurim e alla terumah — è una forma di 'primizia' da un prodotto animale. Si applica solo in Terra d'Israele secondo la Torah; in diaspora è un decreto rabbinico."
+    },
+    {
+      "n": "8:2-6",
+      "he": "שִׁעוּר הַגֵּז...",
+      "it": "La misura della tosatura che si dà al kohen: il Rambam stabilisce che si dà almeno 60 sela di lana per ogni pecore. Se il gregge è piccolo (meno di 5 pecore), alcuni poskim esentano. La lana deve essere lavorabile — non così corta che non possa essere fatta filare. Si dà al kohen la migliore parte della prima tosatura, simboleggiando che le 'primizie' appartengono al servizio divino."
+    },
+    {
+      "n": "8:7-10",
+      "he": "כֵּיצַד נוֹתְנִין רֵאשִׁית הַגֵּז...",
+      "it": "Come si dà il reishit haGez: si dà al kohen di persona. Se non vi è un kohen nella zona, si porta ai sacerdoti della città più vicina. Il kohen non può rifiutare di ricevere il reishit haGez da chi vuole darglielo, poiché è un diritto divino dei kohanim. Se il gregge appartiene a più soci, occorre che ognuno calcoli la propria quota per determinare l'obbligo."
+    }
+  ],
+  "_glossary_terms_used": ["challah", "terumah", "bikkurim", "reishit haGez", "kohen", "kohen tahor", "kohen tamei", "chitah", "se'orah", "kusmin", "shibolet shual", "shifon", "Eretz Israel", "terumah gedolah"]
+}

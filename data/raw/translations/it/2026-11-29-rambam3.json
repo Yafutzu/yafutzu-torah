@@ -1,0 +1,29 @@
+{
+  "ref": "Mishneh Torah, Nachalot 5-7",
+  "name_he": "משנה תורה, הלכות נחלות, פרקים ה-ז",
+  "name_it": "Mishneh Torah, Leggi dell'Eredità, capitoli 5-7",
+  "cycle": "rambam-3",
+  "date": "2026-11-29",
+  "hebrew_date": "20 Kislev 5787",
+  "halachot_count": 18,
+  "halachot": [
+    {
+      "n": "5:1-5",
+      "he": "הַבָּנוֹת — אֵינָן יוֹרְשׁוֹת עִם הַבָּנִים…",
+      "it": "(Nachalot cap. 5, hal. 1-5) Le figlie — non ereditano insieme ai figli. Quando ci sono figli maschi, le figlie femmine non ricevono quota dell'eredità. Tuttavia i figli maschi sono obbligati a mantenere le sorelle dall'eredità paterna (mezonot ha-banot) — fornendo loro cibo, vestiario e alloggio fino al matrimonio o fino alla maggiore età. Questo mantenimento è una condizione della ketubah della madre — era scritto nel documento matrimoniale che i figli avrebbero mantenuto le figlie. Pertanto i figli non possono rifiutarsi di mantenere le sorelle."
+    },
+    {
+      "n": "6:1-5",
+      "he": "הָאִשָּׁה — אֵינָהּ יוֹרֶשֶׁת אֶת בַּעְלָהּ מִן הַתּוֹרָה…",
+      "it": "(Nachalot cap. 6, hal. 1-5) La moglie — non eredita dal marito per legge biblica. Alla morte del marito, la moglie riceve la sua ketubah (il pagamento della dote e del supplemento previsto nel documento matrimoniale) prima che l'eredità venga distribuita ai figli. Se la ketubah è superiore al valore dell'eredità, la moglie riceve tutta l'eredità. Il marito tuttavia — eredita dalla moglie, per legge biblica (e questa legge del marito è biblica, mentre il diritto della moglie alla ketubah è rabbinico)."
+    },
+    {
+      "n": "7:1-5",
+      "he": "כָּתַב לָאִשָּׁה — בַּכְּתֻבָּתָהּ — שְׁלֹשִׁים זוּז…",
+      "it": "(Nachalot cap. 7, hal. 1-5) I figli della prima moglie e i figli della seconda moglie — in certi casi ereditano distanze dalla rispettiva eredità della madre. Il Rambam elabora le regole complesse dei matrimoni multipli e delle eredità incrociate. Un caso importante: la «ketubat benin dikhrin» — la condizione spesso inserita nella ketubah che i figli maschi di questa moglie eriteranno la sua ketubah oltre alla loro quota normale dell'eredità. Questa condizione è comune nei documenti matrimoniali ebraici tradizionali."
+    }
+  ],
+  "_glossary_terms_used": [
+    "mezonot ha-banot", "ketubah", "bechor", "ketubat benin dikhrin"
+  ]
+}

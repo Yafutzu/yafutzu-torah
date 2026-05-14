@@ -1,0 +1,129 @@
+{
+  "ref": "Mishneh Torah, Sabbath 3",
+  "name_he": "משנה תורה, הלכות שבת, פרק ג",
+  "name_it": "Mishneh Torah, Leggi dello Shabbat, capitolo 3",
+  "cycle": "rambam-1 (1-perek daily)",
+  "date": "2026-05-24",
+  "hebrew_date": "8 Sivan 5786",
+  "halachot_count": 23,
+  "halachot": [
+    {
+      "n": 1,
+      "he": "אֵין מַשְׁהִין אֶת הַקְּדֵרָה עַל הַכִּירַיִם בְּעֶרֶב שַׁבָּת — אֶלָּא אִם כֵּן נִצַּלָּה הַקְּדֵרָה כְּבָר מִבְּעוֹד יוֹם…",
+      "it": "Non si lascia una pentola sul fornello di venerdì sera [che continua a cuocere di Shabbat] — a meno che il cibo non sia già cotto prima dell'inizio dello Shabbat. Un fornello con brace viva (kirayim gerufa — non spenta) o un fornello con carbone ardente (katan she-eino gerufa) — non si può mettere su di essi né lasciare cibo che non è ancora cotto, poiché si potrebbe rimescolare le braci per accelerare la cottura e così trasgredire il Shabbat. Se il fornello è «gerofa» (la brace è stata spenta o coperta di cenere) — si può lasciare qualsiasi cibo, anche non ancora cotto."
+    },
+    {
+      "n": 2,
+      "he": "הַכִּירַיִם שֶׁהִסִּיקוּ אוֹתָן בְּגֶפֶת אוֹ בְּעֵצִים — גְּרוּפָה וּקְטוּמָה…",
+      "it": "Un fornello riscaldato con sansa d'oliva o con legna — lo si considera «gerofa u-ketumah» (spento e coperto) per le regole dello Shabbat se la brace è stata spenta o coperta di cenere. Un fornello a fuoco di paglia o canne — poiché si spegne rapidamente da solo, è sempre considerato come gerofa. Sul fornello gerofa si può lasciare qualsiasi cibo anche crudo."
+    },
+    {
+      "n": 3,
+      "he": "קְדֵרָה שֶׁהֻעֲבְרָה מֵהָאֵשׁ כְּשֶׁהִיא רוֹתַחַת — מֻתָּר לְהַחֲזִירָהּ בְּשַׁבָּת…",
+      "it": "Una pentola che è stata rimossa dal fuoco mentre stava ancora bollendo — è permesso rimetterla sul fuoco di Shabbat, a condizione che: (a) il fuoco non si sia spento, (b) la pentola non sia ancora stata posata a terra (cioè è ancora in mano), (c) abbia ancora un po' di calore. Se la pentola è stata posata a terra — è proibito rimetterla sul fornello, poiché sembra che stia cuocendo di Shabbat. Questa è la legge dell'«hashavah» (restituzione al fuoco)."
+    },
+    {
+      "n": 4,
+      "he": "הַטּוֹמֵן אֶת הַקְּדֵרָה בְּדָבָר שֶׁאֵינוֹ מוֹסִיף הֶבֶל — מֻתָּר…",
+      "it": "Chi avvolge una pentola (hatmanah) con qualcosa che non aggiunge calore — come panni di lana, piume, carta o simili — è permesso sia prima che durante lo Shabbat, poiché serve solo a conservare il calore esistente. Ma chi avvolge con qualcosa che aggiunge calore — come olio bollente, stoppa umida, paglia umida, calce viva o simili — è proibito anche prima di Shabbat; e se lo ha fatto prima di Shabbat, deve scoprire la pentola prima dell'inizio dello Shabbat, altrimenti è proibito mangiare quella pietanza di Shabbat."
+    },
+    {
+      "n": 5,
+      "he": "הַחוֹלֶה שֶׁיֵּשׁ בּוֹ סַכָּנָה — מַדְלִיקִין לוֹ אֶת הַנֵּר בְּשַׁבָּת…",
+      "it": "Per un ammalato in pericolo di vita (choleh she-yesh bo sakanah) — si può accendere il fuoco di Shabbat, si cuoce per lui, si riscalda l'acqua e si compie qualsiasi azione necessaria per la sua guarigione. Poiché il pericolo di vita (pikuach nefesh) spinge da parte qualsiasi proibizione della Torah. Non è il meno istruito o il meno pio che deve farlo — ma la persona più illustre della comunità, affinché sia chiaro che ciò è prescritto, non vietato."
+    },
+    {
+      "n": 6,
+      "he": "כָּל שֶׁסָּפֵק שֶׁהוּא חַיֵּי נְפָשׁוֹת — מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת…",
+      "it": "In caso di dubbio se una vita sia in pericolo — si profana lo Shabbat [e si agisce]. La Torah dice «Viverà con essi» — non che morirà con essi. Pertanto ogni qualvolta ci sia un dubbio ragionevole di pericolo di vita — si agisce immediatamente senza indugiare. Chi si affretta ad agire di Shabbat per salvare una vita è lodato; chi si interroga ed esita è biasimato."
+    },
+    {
+      "n": 7,
+      "he": "לֹא יַחְשֹׁב אָדָם בְּנַפְשׁוֹ שֶׁגְּנַאי הוּא לְהַחֲלִיף לוֹ אֶת הַשַּׁבָּת…",
+      "it": "Una persona non debba pensare in cuor suo che è una vergogna violarlo lo Shabbat per un malato — poiché la Torah non è stata data se non per vivere, come è detto «E vivrà in essi» — e la vita è il valore più alto. Anzi, chi porta medicinali o accende fuoco di Shabbat per un malato in pericolo — compie una mitzva e riceverà ricompensa. L'esitazione davanti al pericolo di vita di Shabbat è follia, non pietà."
+    },
+    {
+      "n": 8,
+      "he": "מִי שֶׁנָּפְלָה עָלָיו מַפֹּלֶת — בֵּין שֶׁהוּא חַי בֵּין שֶׁהוּא מֵת — מְפַקְּחִין…",
+      "it": "Chi è rimasto sepolto sotto un crollo — sia che sia vivo sia che si dubiti se sia vivo sia che si sappia che è morto — si scava per tirarlo fuori di Shabbat. Se si trova vivo — si continua a scavare; se si trova morto — lo si lascia (non si continua a rimuovere le macerie solo per il corpo). La ragione: fintanto che vi sia anche solo un minimo dubbio che sia vivo, il pikuach nefesh prevale."
+    },
+    {
+      "n": 9,
+      "he": "חֲבֵרָה שֶׁקָּשָׁה לָהּ — מְחַלְּלִין עָלֶיהָ אֶת הַשַּׁבָּת…",
+      "it": "Una partoriente che ha difficoltà nel parto — si profana lo Shabbat per lei [si accende, si chiama il medico, si porta da lei tutto il necessario]. Non appena ha partorito, non si profana più lo Shabbat per lei — a meno che non vi sia un nuovo pericolo di vita. I tre giorni dopo il parto — il suo pericolo è presunto e si fa tutto il necessario. Dal terzo al settimo giorno — se la partoriente dice che ha bisogno di qualcosa, lo si porta; se lei tace, si scaldano e si portano cibi e medicine. Dopo il settimo giorno è come tutti gli altri malati: si valuta ogni caso."
+    },
+    {
+      "n": 10,
+      "he": "חוֹלֶה שֶׁאֵין בּוֹ סַכָּנָה — אוֹמְרִים לְגוֹי לַעֲשׂוֹת לוֹ צְרָכָיו…",
+      "it": "Un ammalato che non è in pericolo di vita (choleh she-ein bo sakanah) — si può dire a un non ebreo di fare per lui quanto necessario di Shabbat; ma un ebreo non deve fare per lui lavori proibiti biblicamente. Tuttavia per questo tipo di malato gli Ebrei stessi possono fare lavori proibiti rabbinicamente — poiché i Saggi hanno reso più leniente la loro decretazione per il malato non pericoloso. Un bambino e un anziano malati sono equiparati a «malato senza pericolo di vita» — e si trattano allo stesso modo."
+    },
+    {
+      "n": 11,
+      "he": "כָּל הַחוֹלִים — מַאֲכִילִין אוֹתָם דְּבָרִים הָאֲסוּרִים…",
+      "it": "Tutti i malati in pericolo di vita — li si nutre con cibi proibiti [per es. cibo non kasher] se non vi è cibo kasher disponibile. Si inizia dagli alimenti meno gravi ai più gravi: prima gli alimenti «demai» (di cui si dubita il decimo), poi i non decasiflati, poi le carni non kasher, poi i cibi impuri. Solo se non vi è altra alternativa si va al grado successivo. La vita precede tutto."
+    },
+    {
+      "n": 12,
+      "he": "מְכַסִּין אֶת הַדָּם שֶׁל עוֹף וְחַיָּה בְּשַׁבָּת…",
+      "it": "Si può coprire il sangue [dopo la macellazione] di un uccello o di un animale selvatico di Shabbat solo se la terra è già preparata prima di Shabbat. Se non vi è terra già preparata — non si macellerà di Shabbat solo per avere sangue da coprire, poiché l'obbligo di coprire il sangue non è urgente quanto la proibizione dello Shabbat."
+    },
+    {
+      "n": 13,
+      "he": "עוֹשִׂין כָּל צְרָכֵי הַמִּילָה בְּשַׁבָּת…",
+      "it": "Si compiono tutte le esigenze della circumcisione di Shabbat [se cade nell'ottavo giorno]: si circoncide, si scopre la glande (peria), si succhia il sangue (metzitzah). Se si è dimenticato di portare un coltello per la circumcisione — lo si porta di Shabbat persino attraverso lo spazio pubblico (reshut ha-rabbim). La circoncisione dell'ottavo giorno spinge da parte lo Shabbat."
+    },
+    {
+      "n": 14,
+      "he": "עָרַב שַׁבָּת — לֹא יִכָּנֵס אָדָם לַמֶּרְחָץ לְהִזִּיעַ…",
+      "it": "La vigilia di Shabbat — non si entra al bagno turco per sudare [nell'ultima ora prima del tramonto], poiché si è distratti e si potrebbe restare fino a Shabbat. Similmente, non si inizia un taglio di capelli, non si va dal conciapelli e non si siede a mangiare un pasto formale nell'ultima ora prima dello Shabbat — a meno che non si abbia tempo sufficiente per finire prima del tramonto."
+    },
+    {
+      "n": 15,
+      "he": "לֹא יֵצֵא אָדָם בְּסֵיף בְּשַׁבָּת…",
+      "it": "Non si esce di Shabbat con una spada, un arco, uno scudo, una lancia o una spada corta — poiché queste sono vergogna (genut) per lo Shabbat [il porto di armi simboleggia guerra e conflitto, che è antitetico alla pace del Shabbat]. Se è uscito così — è obbligato a portare un sacrificio espiatorio [poiché ha trasportato nell'ambito pubblico]. Gli Esperti dicono che le armi sono ornamenti; i Saggi dicono che sono vergogna. La halachah segue i Saggi: le armi sono vietate nell'ambito pubblico di Shabbat."
+    },
+    {
+      "n": 16,
+      "he": "הַמּוֹצִיא כְּלֵי שַׁבָּת בְּשַׁבָּת לָרְשׁוּת הָרַבִּים — חַיָּב…",
+      "it": "Chi porta utensili dello Shabbat (kelei Shabbat) — come tefillin — nell'ambito pubblico di Shabbat è obbligato [al sacrificio espiatorio per trasporto]. Le tefillin si portano solo nei giorni feriali. Chi porta fuori i tefillin di Shabbat — ha commesso due trasgressioni: quella del trasporto (hotza'ah) e quella di indossare le tefillin di Shabbat in modo non appropriato. Questa halachah stabilisce che anche gli utensili «sacri» non danno licenza di trasportare."
+    },
+    {
+      "n": 17,
+      "he": "הַמּוֹצִיא מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הָרַבִּים — אֵינוֹ חַיָּב אֶלָּא אִם הוֹצִיא שִׁיעוּר…",
+      "it": "Chi trasporta dall'ambito privato all'ambito pubblico è obbligato solo se ha trasportato una quantità minima (shi'ur): per alimenti — la quantità che un sano porta con sé in viaggio (per ciascun tipo di cibo vi è una misura diversa); per un libro — due lettere scritte; per un recipiente — il recipiente stesso (anche se vuoto), poiché il recipiente stesso ha valore. Sotto la misura minima — è esente biblicamente ma proibito rabbinicamente."
+    },
+    {
+      "n": 18,
+      "he": "הַזּוֹרֵק מֵרְשׁוּת לִרְשׁוּת — אִם עָשָׂה עֲקִירָה וְהַנָּחָה — חַיָּב…",
+      "it": "Chi getta un oggetto da un ambito all'altro — se ha fatto sia l'«akira» (sollevamento dall'ambito di origine) che la «hanachah» (deposito nell'ambito di destinazione) — è obbligato come per il trasporto a mano. Le due azioni fondamentali del trasporto di Shabbat sono: l'akira (sollevare l'oggetto dal suo posto di riposo) e la hanachah (posarlo a riposo nel nuovo luogo). Senza entrambe queste azioni — non vi è violazione biblica del trasporto."
+    },
+    {
+      "n": 19,
+      "he": "הַמּוֹצִיא אֶת הָאָדָם חַי — פָּטוּר, שֶׁהַחַי נוֹשֵׂא אֶת עַצְמוֹ…",
+      "it": "Chi porta fuori un essere umano vivo — è esente, poiché «il vivente porta se stesso» (hai nosei et atzmo). Analogamente: chi porta fuori un animale vivo è esente. Ma chi porta fuori un cadavere — è obbligato come per qualsiasi oggetto portato. Chi porta fuori un dormiente — è obbligato, poiché il dormiente non è consapevole di essere portato e non coopera al trasporto."
+    },
+    {
+      "n": 20,
+      "he": "שְׁנַיִם שֶׁעָשׂוּ מְלָאכָה אַחַת — אִם לֹא יָכוֹל כָּל אֶחָד מֵהֶם לַעֲשׂוֹת אוֹתָהּ לְבַדּוֹ — פְּטוּרִין…",
+      "it": "Due persone che hanno compiuto insieme una melakhah — se nessuna delle due avrebbe potuto compierla da sola, sono entrambe esenti [dal sacrificio espiatorio]. Se ciascuna avrebbe potuto compierla da sola — entrambe sono obbligate. Se uno poteva e l'altro no — solo quello che avrebbe potuto è obbligato. La regola generale: l'obbligo è proporzionale alla responsabilità individuale nell'azione."
+    },
+    {
+      "n": 21,
+      "he": "אָסוּר לְאָדָם לְהַרְהֵר בְּחֶשְׁבּוֹנוֹת בְּשַׁבָּת…",
+      "it": "È proibito meditare sui propri conti di Shabbat, anche senza dirli ad alta voce, come è detto: «E il tuo parlare» (Isaia 58:13) — il tuo parlare del Shabbat sia diverso dal tuo parlare dei giorni feriali. Pensare a propri affari di Shabbat — anche in silenzio — è proibito. Tuttavia pensare a faccende di mitzva — come calcolare spese per la costruzione di una sinagoga o per un atto di carità — è permesso."
+    },
+    {
+      "n": 22,
+      "he": "שְׁבוּת שָׁבַת — כֵּיצַד. אָסוּר לִרְכֹּב עַל הַבְּהֵמָה בְּשַׁבָּת…",
+      "it": "Lo «shevut» (riposo festivo di origine rabbinica) di Shabbat — come si applica? È proibito cavalcare un animale di Shabbat; è proibito nuotare sull'acqua (gozerat shabbat — per non costruire natanti). È proibito battere le mani, picchiare le cosce, ballare — per decreto rabbinico, affinché non si venga a riparare uno strumento musicale. Queste e simili sono divenete «shevut» — e chi le viola deliberatamente riceve la flagellazione disciplinare (makkot mardut)."
+    },
+    {
+      "n": 23,
+      "he": "אָסוּר לְדַבֵּר בְּדָבָר הָאָסוּר לַעֲשׂוֹת בְּשַׁבָּת…",
+      "it": "È proibito parlare di cosa vietata da compiere di Shabbat — come dire «domani farò questo e quest'altro» [riferendosi ad azioni che sono vietate di Shabbat]. Tuttavia è permesso calcolare ad alta voce le spese per una mitzva. Il Shabbat è un giorno di riposo anche per la bocca — «il tuo parlare» deve essere diverso da quello feriale: parlare di negozi, commerci, costruzioni e simili stonano con la santità del giorno anche se non si fa nulla di proibito."
+    }
+  ],
+  "_glossary_terms_used": [
+    "kirayim gerufa", "hatmanah", "choleh she-yesh bo sakanah", "pikuach nefesh", "choleh she-ein bo sakanah", "hotza'ah", "akira", "hanachah", "shi'ur", "hai nosei et atzmo", "shevut", "makkot mardut", "reshut ha-yachid", "reshut ha-rabbim"
+  ]
+}

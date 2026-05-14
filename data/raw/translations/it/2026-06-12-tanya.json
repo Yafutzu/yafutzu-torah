@@ -1,0 +1,23 @@
+{
+  "ref": "Tanya, Part III; Iggeret HaTeshuvah 12",
+  "name_he": "תניא, חלק ג — אגרת התשובה, פרק יב",
+  "name_it": "Tanya, Parte III — Iggeret HaTeshuvah (Epistola della Teshuvah), capitolo 12 (finale)",
+  "cycle": "tanya-yomi",
+  "date": "2026-06-12",
+  "hebrew_date": "27 Sivan 5786",
+  "schedule_source": "Sefaria daily calendar (Tanya Yomi)",
+  "segments_count": 2,
+  "segments": [
+    {
+      "n": 1,
+      "he": "וְאַחַר כָּל זֶה, מִי שֶׁנִּכְשַׁל בַּחֵטְא פְּגַם הַבְּרִית...",
+      "it": "Il capitolo finale di Iggeret HaTeshuvah affronta la teshuvah per i peccati sessuali — in particolare il 'blemish of the covenant' (pegam ha-brit), termine che nella tradizione cabalistica si riferisce alle trasgressioni di natura sessuale, considerate particolarmente gravi perché colpiscono il segno dell'Alleanza (brit milah). Il Ba'al HaTanya spiega che queste trasgressioni richiedono una teshuvah più intensa, tradizionalmente accompagnata da digiuni supplementari e intensa preghiera. Tuttavia, reitera il principio del capitolo precedente: nelle generazioni deboli, lo studio della Torah interiore e la tzedakah abbondante sostituiscono le mortificazioni fisiche."
+    },
+    {
+      "n": 2,
+      "he": "אַךְ גֹּדֶל רַחֲמָנוּתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא...",
+      "it": "Il Ba'al HaTanya conclude l'Iggeret HaTeshuvah con un messaggio di speranza: la misericordia di Dio (rachamim) è infinita e supera qualsiasi livello di peccato. Una teshuvah sincera, accompagnata da rimpianto genuino (charatah), abbandono del peccato (azivat ha-chet) e impegno a non ripetere (kabbalah le-atid), è sempre efficace, indipendentemente dalla gravità del misfatto. Con questa consolazione si chiude la terza parte del Tanya."
+    }
+  ],
+  "_glossary_terms_used": ["teshuvah", "pegam ha-brit", "brit milah", "charatah", "azivat ha-chet", "kabbalah le-atid", "rachamim", "tzedakah"]
+}
