@@ -28,7 +28,7 @@ export async function explainText(params: {
       : "Respond in English.";
 
   const message = await ai.messages.create({
-    model: "claude-sonnet-4-20250514",
+    model: "claude-sonnet-4-6",
     max_tokens: 1024,
     messages: [
       {
@@ -68,7 +68,7 @@ export async function searchTorah(params: {
     : "";
 
   const message = await ai.messages.create({
-    model: "claude-sonnet-4-20250514",
+    model: "claude-sonnet-4-6",
     max_tokens: 1024,
     messages: [
       {
@@ -120,7 +120,7 @@ export async function findConnections(params: {
   if (!ai) return null;
 
   const message = await ai.messages.create({
-    model: "claude-sonnet-4-20250514",
+    model: "claude-sonnet-4-6",
     max_tokens: 1024,
     messages: [
       {
